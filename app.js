@@ -25,7 +25,7 @@ function home(){
   const available=z.ready!==false;
   return '<article class="set"><div class="top"><div class="symbol">'+(S.tab==="past"?"▤":"✦")+'</div><span class="label '+(available?"on":"")+'">'+(available?"Available":"Not imported")+'</span></div>'+
     '<h3>'+x(z.title)+'</h3><p>'+x(z.subtitle)+'</p><p>'+SOURCE[S.tab]+'</p>'+
-    '<div class="setfoot"><div><div class="count">'+(available?plural(z.questions.length,"question"):"—")+'</div><div class="detail">'+(available?(S.tab==="past"?"Original question order retained":"40 questions · 60 minutes"):"Awaiting verified source")+'</div></div>'+
+    '<div class="setfoot"><div><div class="count">'+(available?plural(z.questions.length,"question"):"—")+'</div><div class="detail">'+(available?(S.tab==="past"?"Original question order retained":"60 questions · 90 minutes"):"Awaiting verified source")+'</div></div>'+
     '<button class="btn small" data-act="pick" data-cat="'+S.tab+'" data-id="'+x(z.id)+'"'+(available?"":" disabled")+'>Select set</button></div></article>';
  }).join("");
  return '<section class="hero"><div class="shell"><p class="eyebrow">Learn it. Test it. Master it.</p><h1>Cardiovascular Physiology, <span>made testable.</span></h1><p>Original past-question sets and DOMiNANCE-curated exam mocks, in one focused examination hub.</p>'+
@@ -34,7 +34,7 @@ function home(){
   '<div class="tabs" role="tablist" aria-label="Question collections">'+
   ['past','mock'].map(t=>'<button class="tab" role="tab" aria-selected="'+(S.tab===t)+'" data-act="tab" data-tab="'+t+'">'+LABEL[t]+' '+(t==="past"?"▤":"✦")+'</button>').join("")+'</div>'+
   (S.loadError?'<div class="notice warn">'+x(S.loadError)+'</div>':"")+
-  '<div class="cards">'+cards+'</div><div class="notice">'+(S.tab==="past"?"Original question wording, option order and numbering are preserved. Defective or ambiguous keys are flagged and excluded from automatic scoring.":"Mock questions are curated by DOMiNANCE. Mock 01 remains unavailable until its verified source is imported.")+'</div></main>';
+  '<div class="cards">'+cards+'</div><div class="notice">'+(S.tab==="past"?"Original question wording, option order and numbering are preserved. Defective or ambiguous keys are flagged and excluded from automatic scoring.":"Mock questions are curated by DOMiNANCE. Each comprehensive mock consists of 60 questions with a 90-minute exam timer. Only complete verified sets appear as available.")+'</div></main>';
 }
 function setup(){
  const z=selected();if(!z)return home();
@@ -158,16 +158,16 @@ root.addEventListener("change",event=>{
  else if(el.dataset.tf){if(!a.answers[q.id])a.answers[q.id]={};a.answers[q.id][el.dataset.tf]=el.value}
  else return;put();render();
 });
-function mockSets(j){const arr=[];for(let i=1;i<=4;i++){const qs=j&&j.mocks?j.mocks[String(i)]||[]:[];arr.push({id:"mock-"+String(i).padStart(2,"0"),title:"Mock "+String(i).padStart(2,"0"),subtitle:qs.length?qs.length+" questions · 60 minutes":"Awaiting verified mock source",ready:qs.length===40,questions:qs.map((q,k)=>({id:"M"+String(i).padStart(2,"0")+"-Q"+(k+1),number:k+1,section:"",type:"single-best",stem:q.stem,options:q.options.map((t,n)=>({label:abc[n],text:t})),correctAnswer:q.answer,scoreable:/^[A-D]$/.test(q.answer),explanation:q.explanation||"",flagged:false,issueNotes:[]}))})}return arr}
+function mockSets(j){const arr=[];for(let i=1;i<=3;i++){const qs=j&&j.mocks?j.mocks[String(i)]||[]:[];arr.push({id:"mock-"+String(i).padStart(2,"0"),title:"Mock "+String(i).padStart(2,"0"),subtitle:qs.length?qs.length+" questions · 90 minutes":"Awaiting verified mock source",ready:qs.length===60,questions:qs.map((q,k)=>({id:"M"+String(i).padStart(2,"0")+"-Q"+(k+1),number:k+1,section:"",type:"single-best",stem:q.stem,options:q.options.map((t,n)=>({label:abc[n],text:t})),correctAnswer:q.answer,scoreable:/^[A-D]$/.test(q.answer),explanation:q.explanation||"",flagged:false,issueNotes:[]}))})}return arr}
 async function boot(){
  document.documentElement.dataset.theme=S.theme;
  try{const a=JSON.parse(localStorage.getItem(LS)||"null");if(a&&a.version===2&&a.questions&&a.questions.length){S.attempt=a;S.selected=a.selected;S.page=a.finished?"results":"quiz"}}catch(e){}
  S.sets.mock=mockSets(null);render();
- const rs=await Promise.allSettled([fetch("./data/past-questions.json").then(r=>{if(!r.ok)throw Error(r.status);return r.json()}),fetch("./data/mocks-02-to-04.json").then(r=>{if(!r.ok)throw Error(r.status);return r.json()})]);
+ const rs=await Promise.allSettled([fetch("./data/past-questions.json").then(r=>{if(!r.ok)throw Error(r.status);return r.json()}),fetch("./data/mocks-01-to-03-60q.json").then(r=>{if(!r.ok)throw Error(r.status);return r.json()})]);
  if(rs[0].status==="fulfilled"&&Array.isArray(rs[0].value.sets)){S.sets.past=rs[0].value.sets.map(q=>({...q,ready:true}));}
  else S.loadError="Past questions could not be loaded. Please refresh or check your connection.";
- if(rs[1].status==="fulfilled"&&rs[1].value.mocks){const m=mockSets(rs[1].value);S.sets.mock=m;if(m.filter(z=>z.ready).length!==3)S.loadError="Some mock papers are not available."}
- else{S.sets.mock=mockSets(null);S.loadError="The mock data could not be loaded. Please refresh or check your connection."}
+ if(rs[1].status==="fulfilled"&&rs[1].value.mocks){const m=mockSets(rs[1].value);S.sets.mock=m;if(m.filter(z=>z.ready).length!==3)S.loadError="Some complete 60-question mock papers have not yet been imported."}
+ else{S.sets.mock=mockSets(null);S.loadError="The 60-question mock collection could not be loaded. Please refresh or check your connection."}
  render();
 }
 setInterval(tick,1000);boot();
