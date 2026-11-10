@@ -1,174 +1,116 @@
 "use strict";
-(function(){
-const root=document.getElementById("app");
-const LS="dominance-cvs-qbank-v2",TS="dominance-cvs-theme";
-const S={page:"home",tab:"past",theme:localStorage.getItem(TS)==="light"?"light":"dark",sets:{past:[],mock:[]},selected:null,attempt:null,filter:"all",loadError:""};
-const LABEL={past:"Past Questions",mock:"Mock Questions"};
-const SOURCE={past:"Compiled from the Net",mock:"Curated by DOMiNANCE"};
-const abc="ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-const x=v=>String(v===undefined||v===null?"":v).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-const fmt=n=>Number(n||0).toLocaleString("en-US");
-const plural=(n,s)=>n+" "+s+(n===1?"":"s");
-function put(){try{if(S.attempt)localStorage.setItem(LS,JSON.stringify(S.attempt));else localStorage.removeItem(LS)}catch(e){console.warn("Save unavailable",e)}}
-function getSet(c,id){return S.sets[c].find(v=>v.id===id)}
-function selected(){return S.selected&&getSet(S.selected.cat,S.selected.id)}
-function header(){
- return '<header class="topbar"><div class="shell bar"><button class="wordmark" data-act="home">DOM<span class="smalli">i</span>NANCE<small>CVS QUESTION BANK</small></button><div class="headtools">'+
- (S.attempt&&S.page!=="quiz"?'<button class="btn outline small" data-act="resume">Resume</button>':"")+
- '<button class="btn outline icon" data-act="theme" aria-label="Switch light or dark theme" title="Switch theme">'+(S.theme==="dark"?"☀":"☾")+'</button></div></div></header>';
+(() => {
+const root = document.getElementById("app");
+const SAVE = "dominance-cvs-qbank-v3", THEME = "dominance-cvs-theme";
+const S = {page:"home", tab:"past", theme:readTheme(), sets:{past:[],mock:[],topic:[]}, topics:[], selected:null, attempt:null, filter:"all", errors:[]};
+const sourceNames = {past:"Compiled from the Net",mock:"Curated by DOMiNANCE",topic:"Organised CVS Revision"};
+const tabNames = {past:"Past Questions",mock:"Mock Questions",topic:"Practice by Topic"};
+const ABC="ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+function readTheme(){try{return localStorage.getItem(THEME)==="light"?"light":"dark"}catch{return "dark"}}
+function esc(v){return String(v==null?"":v).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));}
+function store(){try{if(S.attempt)localStorage.setItem(SAVE,JSON.stringify(S.attempt));else localStorage.removeItem(SAVE)}catch(e){console.warn("Browser save unavailable",e)}}
+function getSet(cat,id){return S.sets[cat]?.find(s=>s.id===id)}
+function selected(){return S.selected?getSet(S.selected.cat,S.selected.id):null}
+function topicName(id){return S.topics.find(t=>t.id===id)?.title||"Other CVS Concepts"}
+function classifyPast(q){
+ const st=String(q.stem||"").toLowerCase(),all=(st+" "+(q.options||[]).map(o=>o.text||o).join(" ")).toLowerCase();
+ const rules=[
+ ["cerebral",/blood.brain barrier|csf|cerebrospinal|hydrocephalus|intracranial|cerebral|middle cerebral|circle of willis|lumbar puncture/],
+ ["fetal",/foetal|fetal|placenta|umbilical|foramen ovale|ductus arteriosus|newborn|first breaths/],
+ ["skin",/axon reflex|triple response|cutaneous|flare|skin thermoregulat|wheal/],
+ ["splanchnic",/splanchnic|portal vein|portal hypertens|hepatic|liver circulation/],
+ ["coronary",/coronary|myocardial infarct|angina|cardiac ischaemia/],
+ ["pulmonary",/pulmonary circu|pulmonary arter|pulmonary vascular|alveol|lung capillar|lung resistance/],
+ ["heart-failure",/heart failure|ventricular failure|cardiac insufficien|pulmonary congestion/],
+ ["shock",/haemorrhag|hemorrhag|shock|blood loss|septic|anaphylaxis/],
+ ["lymphatics",/lymph|chylomicron/],
+ ["edema",/edema|oedema|swelling|interstitial fluid|fluid accumulation/],
+ ["pulses",/jugular venous pulse|jvp|a wave|c wave|v wave|x descent|y descent|arterial pulse/],
+ ["ecg",/electrocardio|ecg|einthoven|qrs|pr interval|st segment|t wave|lead i|lead ii|lead iii|a[vf rl]|heart block/],
+ ["cardiac-conduction",/sinoatrial|sa node|av node|his bundle|purkinje|pacemaker|conduction system|impulse spreading/],
+ ["heart-sounds",/heart sound|murmur|s1|s2|s3|s4|valve sound/],
+ ["cardiac-muscle",/cardiac muscle|myocyte|refractory|sarcoplasmic|plateau|calcium.release|excitation.contraction/],
+ ["cardiac-cycle",/cardiac cycle|isovolumetric|ventricular ejection|ventricular filling|atrial systole|atrial contraction|diastolic filling/],
+ ["reflexes",/baroreceptor|baroreflex|chemoreceptor|carotid sinus|bainbridge|atrial stretch|cushing reflex/],
+ ["gravity",/standing|postural|orthostatic|acceleration|gravity|head.level/],
+ ["local-regulation",/myogenic|autoregul|reactive hyper|active hyper|metabolic control|local control|adenosine/],
+ ["neural-humoral",/sympathetic|parasympathetic|noradrenaline|adrenaline|angiotensin|vasopressin|medullary vasomotor/],
+ ["venous-return",/venous return|venoconstriction|venodilation|venous capacitance|venous pressure|muscle pump/],
+ ["microcirculation",/capillary filtration|capillary exchange|starling forces|oncotic pressure|capillary hydrostatic/],
+ ["blood-pressure",/blood pressure|arterial pressure|sphygmomanometer|korotkoff|mean arterial pressure|pulse pressure/],
+ ["co-measurement",/fick principle|cardiac work|cardiac output measurement|oxygen consumption/],
+ ["cardiac-output",/cardiac output|stroke volume|end.dias|frank.starling|contractility|ejection fraction|preload|afterload/],
+ ["hemodynamics",/poiseuille|viscosity|vascular resistance|turbulen|blood.flow veloc|reynolds|flow resistance|cross.sectional/],
+ ["cv-introduction",/chambers of the heart|structure of the heart|systemic circulation/]
+ ];
+ for(const [id,pattern] of rules){if(pattern.test(st))return id}
+ for(const [id,pattern] of rules){if(pattern.test(all))return id}
+ return "mixed-cvs";
 }
-function footer(){return '<footer class="footer"><div class="shell footrow"><span>DOM<span style="color:var(--gold)">i</span>NANCE · CVS Question Bank</span><span>Past Questions: Compiled from the Net · Mock Questions: Curated by DOMiNANCE</span></div></footer>'}
-function home(){
- const total=S.sets.past.reduce((n,s)=>n+s.questions.length,0);
- const mocks=S.sets.mock.filter(z=>z.ready).reduce((n,s)=>n+s.questions.length,0);
- const cards=S.sets[S.tab].map(z=>{
-  const available=z.ready!==false;
-  return '<article class="set"><div class="top"><div class="symbol">'+(S.tab==="past"?"▤":"✦")+'</div><span class="label '+(available?"on":"")+'">'+(available?"Available":"Not imported")+'</span></div>'+
-    '<h3>'+x(z.title)+'</h3><p>'+x(z.subtitle)+'</p><p>'+SOURCE[S.tab]+'</p>'+
-    '<div class="setfoot"><div><div class="count">'+(available?plural(z.questions.length,"question"):"—")+'</div><div class="detail">'+(available?(S.tab==="past"?"Original question order retained":"60 questions · 90 minutes"):"Awaiting verified source")+'</div></div>'+
-    '<button class="btn small" data-act="pick" data-cat="'+S.tab+'" data-id="'+x(z.id)+'"'+(available?"":" disabled")+'>Select set</button></div></article>';
- }).join("");
- return '<section class="hero"><div class="shell"><p class="eyebrow">Learn it. Test it. Master it.</p><h1>Cardiovascular Physiology, <span>made testable.</span></h1><p>Original past-question sets and DOMiNANCE-curated exam mocks, in one focused examination hub.</p>'+
-  '<div class="chips"><span class="chip"><strong>'+fmt(total)+'</strong> past-question stems</span><span class="chip"><strong>'+fmt(mocks)+'</strong> loaded mock questions</span><span class="chip">Practice + Exam modes</span><span class="chip">Light + Dark themes</span></div></div></section>'+
-  '<main class="shell" id="main"><div class="section-title"><h2>Choose your question collection</h2><p>Choose a category, select a set, configure your quiz, then start.</p></div>'+
-  '<div class="tabs" role="tablist" aria-label="Question collections">'+
-  ['past','mock'].map(t=>'<button class="tab" role="tab" aria-selected="'+(S.tab===t)+'" data-act="tab" data-tab="'+t+'">'+LABEL[t]+' '+(t==="past"?"▤":"✦")+'</button>').join("")+'</div>'+
-  (S.loadError?'<div class="notice warn">'+x(S.loadError)+'</div>':"")+
-  '<div class="cards">'+cards+'</div><div class="notice">'+(S.tab==="past"?"Original question wording, option order and numbering are preserved. Defective or ambiguous keys are flagged and excluded from automatic scoring.":"Mock questions are curated by DOMiNANCE. Each comprehensive mock consists of 60 questions with a 90-minute exam timer. Only complete verified sets appear as available.")+'</div></main>';
+function inferSubtopic(topic,stem){
+ const s=String(stem||"").toLowerCase();
+ const entries={
+ "cardiac-muscle":[["Calcium handling and contractility",/calcium|sarcoplasmic|serca|inotrop/],["Action potential and refractory period",/plateau|refractory|tetanus/]],
+ "cardiac-conduction":[["SA node automaticity",/sinoatrial|sa node|pacemaker/],["AV conduction and block",/av node|av block|av conduction/],["His–Purkinje system",/purkinje|his bundle/]],
+ "cardiac-cycle":[["Isovolumetric phases",/isovolumetric|all valves closed/],["Ventricular filling and ejection",/ventricular filling|ejection|valve open|diastole/]],
+ "heart-sounds":[["S1, S2 and splitting",/first heart sound|second heart sound|s1|s2|split/],["S3 and S4",/third heart sound|fourth heart sound|s3|s4/],["Murmurs",/murmur/]],
+ "ecg":[["ECG leads and axis",/lead|a[vfrl]|electrode|vector|axis/],["Intervals and heart-rate calculations",/interval|squares|mm.s|heart rate/],["Arrhythmias and conduction block",/block|dissociation|rhythm/],["Waves and segments",/qrs|st segment|t wave|repolar|depolar/]],
+ "cardiac-output":[["Frank–Starling mechanism",/frank|end.dia|venous return|preload/],["Contractility and afterload",/contractility|afterload|inotrop/],["Output and ejection fraction",/cardiac output|stroke volume|ejection fraction/]],
+ "co-measurement":[["Fick principle",/fick|oxygen/],["Cardiac work and oxygen demand",/work|demand/]],
+ "hemodynamics":[["Resistance and Poiseuille law",/resistance|poiseuille|viscosity|radius/],["Velocity and turbulence",/turbulence|velocity|reynolds|capillary/],["Transmural pressure and tension",/transmural|tension/]],
+ "blood-pressure":[["Pressure measurement",/cuff|sphygm|korotkoff/],["MAP and pulse pressure",/mean arterial|map|pulse pressure/],["Arterial pressure and compliance",/compliance|arterial pressure/]],
+ "pulses":[["Jugular venous pulse",/jugular|jvp|wave|descent/],["Arterial pulse",/pulse/]],
+ "venous-return":[["Venous tone and capacitance",/capacitance|veno|vein/],["Respiratory and skeletal-muscle pumps",/inspiration|respiratory|muscle/]],
+ "microcirculation":[["Starling forces and filtration",/starling|oncotic|hydrostatic|filtration/],["Capillary permeability",/permeab|exchange/]],
+ "edema":[["Hydrostatic and oncotic causes",/hydrostatic|oncotic|albumin|protein/],["Oedema and fluid drainage",/oedema|edema|swelling/]],
+ "lymphatics":[["Lymphatic obstruction and drainage",/lymphatic|obstruction|oedema/],["Intestinal lymph and fat transport",/chylomicron|gut|lipid/]],
+ "local-regulation":[["Metabolic regulation and hyperaemia",/metabol|hyper|adenosine|active muscle/],["Myogenic autoregulation",/myogenic|autoregulat|pressure/]],
+ "neural-humoral":[["Sympathetic and parasympathetic control",/sympathetic|parasympathetic|vagal/],["Humoral regulation",/angiotensin|adrenaline|vasopressin|hormon/]],
+ "reflexes":[["Baroreceptor reflex",/baroreceptor|baroreflex/],["Chemoreceptor reflex",/chemoreceptor|oxygen|carbon dioxide/],["Cushing reflex",/cushing|brainstem|intracranial/],["Atrial and other cardiovascular reflexes",/bainbridge|atrial|micturition|faint|lung inflation/]],
+ "gravity":[["Postural and orthostatic changes",/stand|postur|orthostat|upright/],["Gravity and acceleration",/acceleration|gravity|g.force|head.level/]],
+ "shock":[["Haemorrhagic and hypovolaemic shock",/blood loss|haemorr|hemorr|bleed|volume/],["Septic and distributive shock",/septic|anaphyl|vasodil/],["Progressive and irreversible shock",/irrevers|progressive/]],
+ "heart-failure":[["Left and right ventricular failure",/left|right|pulmonary|systemic/],["Congestion and fluid retention",/oedema|congest|salt|ascites/],["Preserved EF and diastolic dysfunction",/preserved|stiff|filling pressure/]],
+ "cerebral":[["Blood–brain barrier",/blood.brain barrier|bbb|glucose/],["CSF, hydrocephalus and lumbar puncture",/csf|hydrocephalus|lumbar|aqueduct/],["Cerebral perfusion and autoregulation",/perfusion|intracranial|pressure|autoregulat/],["Cerebral arterial territories",/arterial|circle of willis|infarct/]],
+ "coronary":[["Coronary ischaemia and angina",/infarct|angina|atheroma|narrow/],["Coronary perfusion and demand",/coronary|metabol|diastole/]],
+ "pulmonary":[["Hypoxic pulmonary vasoconstriction",/hypox|poorly ventilat/],["Recruitment and distension",/recruit|exercise|increase in flow/],["Pulmonary haemodynamics",/pulmonary/]],
+ "splanchnic":[["Portal hypertension",/portal|ascites/],["Hepatic perfusion",/hepatic|liver/],["Splanchnic blood reservoir",/splanchnic|intestinal/]],
+ "skin":[["Triple response and axon reflex",/triple|flare|redness|stroke|wheal|axon reflex/],["Cutaneous thermoregulation",/heat|shunt|skin/]],
+ "fetal":[["Fetal shunts and placental oxygenation",/fetal|foetal|placenta|ductus|foramen/],["Circulatory transition at birth",/newborn|first breath|birth/]]};
+ for(const [name,pattern] of entries[topic]||[]){if(pattern.test(s))return name}
+ return "Other concepts in this topic";
 }
-function setup(){
- const z=selected();if(!z)return home();
- const mixed=S.selected.cat==="past"&&z.questions.some(q=>q.type==="true-false");
- const n=z.questions.length;
- return '<main class="shell" id="main"><div class="bread"><button class="btn outline small" data-act="home">← All sets</button><span>/ '+LABEL[S.selected.cat]+' / '+x(z.title)+'</span></div>'+
- '<section class="paper setup"><p class="eyebrow">Quiz setup</p><h1>'+x(z.title)+'</h1><p class="sub">'+SOURCE[S.selected.cat]+' · '+plural(n,"question")+'</p>'+
- '<div class="settings"><div class="field"><label for="mode">Quiz mode</label><select id="mode"><option value="exam">Exam — answers after submission</option><option value="practice">Practice — check as you go</option></select></div>'+
- '<div class="field"><label for="section">Question type</label><select id="section"><option value="all">Full paper</option>'+(mixed?'<option value="true-false">True / False only</option><option value="single-best">MCQs only</option>':"")+'</select></div>'+
- '<div class="field"><label for="count">Questions</label><select id="count"><option value="all">All available questions</option>'+
- [10,20,40,60].filter(c=>c<n).map(c=>'<option value="'+c+'">'+c+' questions</option>').join("")+'</select></div>'+
- '<div class="field"><label for="timer">Timer</label><select id="timer"><option value="0">Untimed</option><option value="15">15 minutes</option><option value="30">30 minutes</option><option value="60">60 minutes</option><option value="90"'+(S.selected.cat==="mock"?' selected':"")+'>90 minutes</option></select></div></div>'+
- '<label class="setting"><input type="checkbox" id="shuffle"> Randomize question order (original numbering stays visible)</label>'+
- '<div class="notice">Practice mode allows answer checks during the quiz. Exam mode keeps the answer key hidden until final submission. Your current attempt is saved in this browser.</div>'+
- '<div class="actions"><button class="btn" data-act="start">Start quiz →</button><button class="btn outline" data-act="home">Cancel</button></div></section></main>';
-}
-function reply(q){return S.attempt.answers[q.id]}
-function done(q){const r=reply(q);return q.type==="true-false"?r&&Object.keys(r).length===q.options.length:Number.isInteger(r)}
-function started(q){const r=reply(q);return q.type==="true-false"?!!(r&&Object.keys(r).length):Number.isInteger(r)}
-function numDone(){return S.attempt.questions.filter(started).length}
-function seconds(v){const n=Math.max(0,Math.ceil(v/1000));return String(Math.floor(n/60)).padStart(2,"0")+":"+String(n%60).padStart(2,"0")}
-function ansText(q){
- if(q.type==="true-false"){return q.options.map(o=>o.label+": "+(q.answerByOption[o.label]==="T"?"True":q.answerByOption[o.label]==="F"?"False":"Disputed")).join(" · ")}
- const i=q.options.find(o=>o.label===q.correctAnswer);
- return i?i.label+". "+i.text:"No unique correct answer established";
-}
-function mine(q){
- const r=reply(q);
- if(q.type==="true-false")return q.options.map(o=>o.label+": "+(r&&r[o.label]?r[o.label]==="T"?"True":"False":"Unanswered")).join(" · ");
- if(!Number.isInteger(r))return "Unanswered";
- const o=q.options[r];return o?o.label+". "+o.text:"Unanswered";
-}
-function evalItem(q){
- const r=reply(q);if(q.type==="true-false"){
-  let e=0,c=0,w=0,sk=0;
-  q.options.forEach(o=>{const key=q.answerByOption[o.label];if(key!=="T"&&key!=="F"){sk++;return}e++;if(r&&r[o.label]===key)c++;else w++});
-  return {eligible:e,correct:c,wrong:w,unscored:sk,status:w===0?"correct":c===0?"incorrect":"partial"};
- }
- if(!q.scoreable||!q.correctAnswer)return {eligible:0,correct:0,wrong:0,unscored:1,status:"review"};
- const valid=Number.isInteger(r)&&q.options[r]&&q.options[r].label===q.correctAnswer;
- return {eligible:1,correct:valid?1:0,wrong:valid?0:1,unscored:0,status:valid?"correct":"incorrect"};
-}
-function totals(){const t={eligible:0,correct:0,wrong:0,unscored:0,answered:0,statuses:{}};S.attempt.questions.forEach(q=>{const a=evalItem(q);for(const k of ["eligible","correct","wrong","unscored"])t[k]+=a[k];if(started(q))t.answered++;t.statuses[q.id]=a.status});t.percent=t.eligible?Math.round(100*t.correct/t.eligible):0;return t}
-function feedback(q,full){
- const g=evalItem(q),label=g.status==="correct"?"Correct":g.status==="partial"?"Partially correct":g.status==="incorrect"?"Incorrect":"Review required";
- return '<div class="'+(full?"reviewitem":"feedback")+'">'+
-  '<div class="mark">'+label+(q.flagged?" · Source note":"")+'</div>'+
-  (full?'<h3>Original question '+q.number+(q.section?" · Section "+q.section:"")+'</h3><p>'+x(q.stem)+'</p>':"")+
-  '<p><strong>Your answer:</strong> '+x(mine(q))+'</p><p><strong>Answer key:</strong> '+x(ansText(q))+'</p>'+
-  (q.explanation?'<p><strong>Explanation:</strong> '+x(q.explanation)+'</p>':"")+
-  (q.issueNotes||[]).map(note=>'<p><strong>Source-key note:</strong> '+x(note)+'</p>').join("")+
-  (g.unscored?'<p>Unscorable parts are excluded from the percentage.</p>':"")+'</div>';
-}
-function quiz(){
- const a=S.attempt,q=a.questions[a.index],lock=a.mode==="practice"&&a.checked[q.id];
- const progress=Math.round(numDone()/a.questions.length*100);
- let opts="";
- if(q.type==="true-false"){opts='<div class="tfgroup">'+q.options.map(o=>'<div class="tfrow"><p><strong>'+o.label+'.</strong> '+x(o.text)+'</p><div class="opts">'+["T","F"].map(v=>'<label><input type="radio" data-tf="'+o.label+'" name="tf-'+o.label+'" value="'+v+'"'+((reply(q)||{})[o.label]===v?' checked':"")+(lock?" disabled":"")+'> '+(v==="T"?"True":"False")+'</label>').join("")+'</div></div>').join("")+'</div>'}
- else{opts='<div class="options">'+q.options.map((o,i)=>'<label class="choice"><input type="radio" name="choice" value="'+i+'"'+(reply(q)===i?" checked":"")+(lock?" disabled":"")+'> <span class="letter">'+o.label+'</span><span>'+x(o.text)+'</span></label>').join("")+'</div>'}
- const nav=a.questions.map((t,i)=>'<button class="num'+(i===a.index?" active":"")+(started(t)?" answered":"")+(a.flags[t.id]?" flagged":"")+'" data-act="jump" data-index="'+i+'" title="Question '+t.number+(a.flags[t.id]?" · Flagged":"")+'">'+(i+1)+'</button>').join("");
- return '<main class="shell" id="main"><div class="quizhead"><div><h1>'+x(a.title)+'</h1><p>'+LABEL[a.selected.cat]+' · '+(a.mode==="practice"?"Practice":"Exam")+' mode · '+x(SOURCE[a.selected.cat])+'</p></div><div><span class="chip">'+numDone()+' / '+a.questions.length+' answered</span></div></div>'+
- '<div class="progress"><span style="width:'+progress+'%"></span></div>'+
- '<div class="quizgrid"><section class="paper question"><div class="qtop"><span class="qnumber">Question '+(a.index+1)+' of '+a.questions.length+' · Original Q'+q.number+(q.section?" · Section "+q.section:"")+'</span><button class="btn outline small" data-act="flag">'+(a.flags[q.id]?"★ Flagged":"☆ Flag for review")+'</button></div>'+
- '<p class="qstem">'+x(q.stem)+'</p>'+opts+
- (q.flagged?'<div class="notice warn">This original item has an answer-key qualification. Its disputed parts will not be counted against your score.</div>':"")+
- (lock?feedback(q,false):"")+
- '<div class="qfoot"><div class="grp"><button class="btn outline" data-act="prev"'+(a.index===0?" disabled":"")+'>← Previous</button><button class="btn outline" data-act="next"'+(a.index===a.questions.length-1?" disabled":"")+'>Next →</button></div>'+
- (a.mode==="practice"?'<button class="btn" data-act="check"'+(!done(q)||lock?" disabled":"")+'>Check answer</button>':"")+'</div></section>'+
- '<aside class="paper side"><h3>Question navigator</h3><p>Select any question to jump to it.</p><div class="navgrid">'+nav+'</div><div class="sidebuttons">'+
- (a.deadline?'<div><span class="sub">Time remaining</span><div class="time" id="time">'+seconds(a.deadline-Date.now())+'</div></div>':"")+
- '<button class="btn" data-act="submit">Submit quiz</button><button class="btn outline" data-act="exit">Save and exit</button></div></aside></div></main>';
-}
-function results(){
- const a=S.attempt,g=totals();
- const qs=a.questions.filter(q=>S.filter==="all"||(S.filter==="flagged"?q.flagged:S.filter==="missed"?["incorrect","partial"].includes(g.statuses[q.id]):g.statuses[q.id]==="correct"));
- return '<main class="shell" id="main"><div class="bread"><button class="btn outline small" data-act="home">← All sets</button> / Results</div>'+
- '<section class="paper result"><p class="eyebrow">Quiz complete</p><h1>'+x(a.title)+' — Results</h1><p class="sub">Your score excludes defective or ambiguous source answers.</p>'+
- '<div class="metrics"><div class="metric"><span class="v" style="color:var(--gold)">'+g.percent+'%</span><small>Scorable marks</small></div><div class="metric"><span class="v">'+g.correct+' / '+g.eligible+'</span><small>Correct marks</small></div><div class="metric"><span class="v">'+g.answered+' / '+a.questions.length+'</span><small>Question stems attempted</small></div><div class="metric"><span class="v">'+g.unscored+'</span><small>Excluded marks</small></div></div>'+
- '<div class="actions"><button class="btn" data-act="retry">Try again</button><button class="btn outline" data-act="home">Back to collections</button></div></section>'+
- '<div class="section-title"><h2>Detailed answer review</h2><p>Check your choices, correct answers and source-quality notes.</p></div>'+
- '<div class="filter">'+[["all","All questions"],["missed","Missed"],["correct","Correct"],["flagged","Source notes"]].map(([k,v])=>'<button data-act="filter" data-filter="'+k+'" class="'+(S.filter===k?"active":"")+'">'+v+'</button>').join("")+'</div>'+
- (qs.length?'<div class="reviewlist">'+qs.map(q=>feedback(q,true)).join("")+'</div>':'<div class="empty">No questions in this filter.</div>')+'</main>';
-}
-function render(){document.documentElement.dataset.theme=S.theme;root.innerHTML=header()+(S.page==="home"?home():S.page==="setup"?setup():S.page==="quiz"&&S.attempt?quiz():S.page==="results"&&S.attempt?results():home())+footer();tick()}
-function jump(){window.scrollTo({top:0,behavior:"instant"})}
-function newAttempt(){
- const z=selected();if(!z)return;
- if(S.attempt&&!S.attempt.finished&&!confirm("Replace your saved quiz with this new attempt?"))return;
- let qs=[...z.questions],section=document.getElementById("section")?.value||"all";
- if(section!=="all")qs=qs.filter(q=>q.type===section);
- if(document.getElementById("shuffle")?.checked){for(let i=qs.length-1;i>0;i--){let j=Math.floor(Math.random()*(i+1));[qs[i],qs[j]]=[qs[j],qs[i]]}}
- const c=document.getElementById("count")?.value||"all";if(c!=="all")qs=qs.slice(0,Number(c));if(!qs.length)return;
- let minutes=Number(document.getElementById("timer")?.value||0),now=Date.now();
- S.attempt={version:2,selected:{...S.selected},title:z.title,questions:qs,mode:document.getElementById("mode")?.value||"exam",index:0,answers:{},flags:{},checked:{},startedAt:now,deadline:minutes?now+60000*minutes:null,finished:false};
- S.page="quiz";S.filter="all";put();render();jump();
-}
-function submit(forced){const a=S.attempt;if(!a||a.finished)return;if(!forced&&!confirm("Submit this quiz? Unanswered questions will count as incorrect, and your answers will be locked."))return;a.finished=true;a.completedAt=Date.now();S.page="results";S.filter="all";put();render();jump();}
-function tick(){const a=S.attempt;if(S.page!=="quiz"||!a||a.finished||!a.deadline)return;const t=a.deadline-Date.now();if(t<=0){submit(true);return}const el=document.getElementById("time");if(el){el.textContent=seconds(t);el.classList.toggle("urgent",t<300000)}}
-root.addEventListener("click",event=>{
- const b=event.target.closest("[data-act]");if(!b||b.disabled)return;const act=b.dataset.act,a=S.attempt;
- if(act==="home"){S.page="home";render();jump()}
- else if(act==="theme"){S.theme=S.theme==="dark"?"light":"dark";try{localStorage.setItem(TS,S.theme)}catch(e){}render()}
- else if(act==="tab"){S.tab=b.dataset.tab;render()}
- else if(act==="pick"){S.selected={cat:b.dataset.cat,id:b.dataset.id};S.page="setup";render();jump()}
- else if(act==="start")newAttempt();
- else if(act==="resume"&&a){S.page=a.finished?"results":"quiz";render();jump()}
- else if(act==="prev"&&a){a.index=Math.max(0,a.index-1);put();render()}
- else if(act==="next"&&a){a.index=Math.min(a.questions.length-1,a.index+1);put();render()}
- else if(act==="jump"&&a){a.index=Number(b.dataset.index);put();render()}
- else if(act==="flag"&&a){const q=a.questions[a.index];a.flags[q.id]=!a.flags[q.id];put();render()}
- else if(act==="check"&&a){const q=a.questions[a.index];if(done(q)){a.checked[q.id]=true;put();render()}}
- else if(act==="submit"&&a)submit(false);
- else if(act==="exit"&&a){put();S.page="home";render();jump()}
- else if(act==="filter"){S.filter=b.dataset.filter;render()}
- else if(act==="retry"&&a){const s={...a.selected};S.attempt=null;put();S.selected=s;S.page="setup";render();jump()}
-});
-root.addEventListener("change",event=>{
- const el=event.target,a=S.attempt;if(!a||S.page!=="quiz"||a.finished)return;
- const q=a.questions[a.index];if(a.mode==="practice"&&a.checked[q.id])return;
- if(el.name==="choice"){a.answers[q.id]=Number(el.value)}
- else if(el.dataset.tf){if(!a.answers[q.id])a.answers[q.id]={};a.answers[q.id][el.dataset.tf]=el.value}
- else return;put();render();
-});
-function mockSets(j){const arr=[];for(let i=1;i<=3;i++){const qs=j&&j.mocks?j.mocks[String(i)]||[]:[];arr.push({id:"mock-"+String(i).padStart(2,"0"),title:"Mock "+String(i).padStart(2,"0"),subtitle:qs.length?qs.length+" questions · 90 minutes":"Awaiting verified mock source",ready:qs.length===60,questions:qs.map((q,k)=>({id:"M"+String(i).padStart(2,"0")+"-Q"+(k+1),number:k+1,section:"",type:"single-best",stem:q.stem,options:q.options.map((t,n)=>({label:abc[n],text:t})),correctAnswer:q.answer,scoreable:/^[A-D]$/.test(q.answer),explanation:q.explanation||"",flagged:false,issueNotes:[]}))})}return arr}
-async function boot(){
- document.documentElement.dataset.theme=S.theme;
- try{const a=JSON.parse(localStorage.getItem(LS)||"null");if(a&&a.version===2&&a.questions&&a.questions.length){S.attempt=a;S.selected=a.selected;S.page=a.finished?"results":"quiz"}}catch(e){}
- S.sets.mock=mockSets(null);render();
- const rs=await Promise.allSettled([fetch("./data/past-questions.json").then(r=>{if(!r.ok)throw Error(r.status);return r.json()}),fetch("./data/mocks-01-to-03-60q.json").then(r=>{if(!r.ok)throw Error(r.status);return r.json()})]);
- if(rs[0].status==="fulfilled"&&Array.isArray(rs[0].value.sets)){S.sets.past=rs[0].value.sets.map(q=>({...q,ready:true}));}
- else S.loadError="Past questions could not be loaded. Please refresh or check your connection.";
- if(rs[1].status==="fulfilled"&&rs[1].value.mocks){const m=mockSets(rs[1].value);S.sets.mock=m;if(m.filter(z=>z.ready).length!==3)S.loadError="Some complete 60-question mock papers have not yet been imported."}
- else{S.sets.mock=mockSets(null);S.loadError="The 60-question mock collection could not be loaded. Please refresh or check your connection."}
- render();
-}
+function annotatePast(sets){return sets.map(set=>({...set,ready:true,questions:set.questions.map(q=>({...q,sourceCat:"past",sourceLabel:"Past Questions · "+set.title,paperId:set.id,topicId:q.topicId||classifyPast(q),subtopic:q.subtopic||inferSubtopic(q.topicId||classifyPast(q),q.stem)}))}));}
+function annotateMock(num,data){const qs=(data&&Array.isArray(data.questions)?data.questions:[]);return {id:"mock-0"+num,title:"Mock 0"+num,subtitle:"60 questions · 90 minutes",ready:qs.length===60&&qs.every(q=>q.options?.length===4&&/^[A-D]$/.test(q.answer)&&q.topicId&&q.subtopic),questions:qs.map((q,i)=>({...q,number:q.number||i+1,type:"single-best",section:"",correctAnswer:q.answer,scoreable:true,flagged:false,issueNotes:[],sourceCat:"mock",sourceLabel:"Mock 0"+num,paperId:"mock-0"+num}))};}
+function prepareTopics(){const all=[...S.sets.past,...S.sets.mock].flatMap(set=>set.questions);let topics=[...S.topics,{id:"mixed-cvs",title:"Other CVS Concepts",group:"Mixed",order:28}];S.sets.topic=topics.map(t=>({id:t.id,title:t.title,subtitle:t.group+" · Topic practice",group:t.group,order:t.order,questions:all.filter(q=>q.topicId===t.id),ready:true})).filter(t=>t.questions.length>0);}
+function top(){return '<header class="topbar"><div class="shell bar"><button class="wordmark" data-action="home" aria-label="DOMiNANCE CVS Question Bank home">DOM<span class="smalli">i</span>NANCE<small>CVS QUESTION BANK</small></button><div class="headtools">'+(S.attempt&&S.page!=="quiz"&&!S.attempt.finished?'<button class="btn outline small" data-action="resume">Resume Quiz</button>':'')+'<button class="btn outline icon" data-action="theme" aria-label="Toggle light and dark theme">'+(S.theme==="dark"?'☀':'☾')+'</button></div></div></header>';}
+function footer(){return '<footer class="footer"><div class="shell footrow"><span>DOM<span style="color:var(--gold)">i</span>NANCE · CVS Question Bank</span><span>Past Questions — Compiled from the Net · Mock Questions — Curated by DOMiNANCE</span></div></footer>';}
+function cards(){return (S.sets[S.tab]||[]).map(set=>{const isTopic=S.tab==="topic";const ready=set.ready!==false&&(!isTopic||set.questions.length>0);const cnt=set.questions.length;return '<article class="set topic-card" data-topic-name="'+esc((set.title+" "+set.group).toLowerCase())+'"><div class="top"><span class="symbol">'+(isTopic?'◈':S.tab==="past"?'▤':'✦')+'</span><span class="label '+(ready?'on':'')+'">'+(ready?'Available':'Unavailable')+'</span></div><h3>'+esc(set.title)+'</h3><p>'+esc(set.subtitle)+'</p><p>'+esc(isTopic?'Past Questions + DOMiNANCE Mocks':sourceNames[S.tab])+'</p><div class="setfoot"><div><div class="count">'+(ready?cnt:'—')+'</div><div class="detail">'+(ready?cnt===1?'question':'questions':'Not ready')+'</div></div><button class="btn small" data-action="choose" data-cat="'+S.tab+'" data-id="'+esc(set.id)+'" '+(ready?'':'disabled')+'>Select →</button></div></article>';}).join('');}
+function home(){const past=S.sets.past.reduce((n,a)=>n+a.questions.length,0);const mocks=S.sets.mock.filter(a=>a.ready).reduce((n,a)=>n+a.questions.length,0);return '<section class="hero"><div class="shell"><p class="eyebrow">Understand • Practise • Master</p><h1>Cardiovascular Physiology, <span>made testable.</span></h1><p>Practise the original papers, complete full examination mocks, or target any cardiovascular topic and subtopic.</p><div class="chips"><span class="chip"><strong>'+past+'</strong> past-question stems</span><span class="chip"><strong>'+mocks+'</strong> mock MCQs</span><span class="chip">Practice + Exam modes</span><span class="chip">Light + Dark themes</span></div></div></section><main class="shell" id="main"><div class="section-title"><h2>Choose how to practise</h2><p>Select a category, a paper or topic, then customise your quiz.</p></div><div class="tabs" role="tablist" aria-label="Quiz categories">'+[['past','▤ Past Questions'],['mock','✦ Mock Questions'],['topic','◈ By Topic']].map(([id,label])=>'<button class="tab" role="tab" aria-selected="'+(S.tab===id)+'" data-action="tab" data-tab="'+id+'">'+label+'</button>').join('')+'</div>'+S.errors.map(e=>'<div class="notice warn">'+esc(e)+'</div>').join('')+(S.tab==="topic"?'<div class="topic-tools"><label for="topic-search">Find a CVS topic</label><input id="topic-search" type="search" placeholder="Search cardiac cycle, baroreflexes, ECG, cerebral circulation…" autocomplete="off"><span class="chip">Choose a topic to select a subtopic at quiz setup</span></div>':'')+'<div class="cards" id="category-cards">'+cards()+'</div><div class="notice">'+(S.tab==="past"?'Original question wording and numbering are preserved. Ambiguous or defective keys are excluded from automatic scoring.':S.tab==="mock"?'Every comprehensive mock contains 60 single-best-answer questions and uses a 90-minute standard examination timer.':'Practice by Topic draws from both question collections. Subtopic filters are available on the next screen; automated topic classification of older past questions may require review.')+'</div></main>';}
+function setupQuestionCount(){const set=selected();if(!set)return 0;const sub=document.getElementById('subtopic')?.value||'all';const source=document.getElementById('source')?.value||'all';const type=document.getElementById('section')?.value||'all';return set.questions.filter(q=>(sub==='all'||q.subtopic===sub)&&(source==='all'||q.sourceCat===source)&&(type==='all'||q.type===type)).length;}
+function setup(){const set=selected();if(!set)return home();const isTopic=S.selected.cat==='topic';const hasTF=set.questions.some(q=>q.type==='true-false');const subt=[...new Set(set.questions.map(q=>q.subtopic).filter(Boolean))].sort((a,b)=>a.localeCompare(b));return '<main class="shell" id="main"><div class="bread"><button class="btn outline small" data-action="home">← Collections</button><span>/ '+tabNames[S.selected.cat]+' / '+esc(set.title)+'</span></div><section class="paper setup"><p class="eyebrow">Quiz setup</p><h1>'+esc(set.title)+'</h1><p class="sub">'+(isTopic?'Targeted revision — choose a subtopic and question source':sourceNames[S.selected.cat]+' · '+set.questions.length+' questions')+'</p><div class="settings"><div class="field"><label for="mode">Quiz mode</label><select id="mode"><option value="exam" '+(S.selected.cat==='mock'?'selected':'')+'>Exam — answers after submission</option><option value="practice" '+(S.selected.cat!=='mock'?'selected':'')+'>Practice — check as you go</option></select></div><div class="field"><label for="timer">Timer</label><select id="timer"><option value="0" '+(S.selected.cat==='mock'?'':'selected')+'>Untimed</option><option value="15">15 minutes</option><option value="30">30 minutes</option><option value="60">60 minutes</option><option value="90" '+(S.selected.cat==='mock'?'selected':'')+'>90 minutes</option><option value="120">120 minutes</option></select></div>'+(isTopic?'<div class="field"><label for="subtopic">Subtopic</label><select id="subtopic"><option value="all">All subtopics</option>'+subt.map(v=>'<option value="'+esc(v)+'">'+esc(v)+'</option>').join('')+'</select></div><div class="field"><label for="source">Question source</label><select id="source"><option value="all">Past Questions + Mocks</option><option value="past">Past Questions only</option><option value="mock">DOMiNANCE Mocks only</option></select></div>':'')+(hasTF?'<div class="field"><label for="section">Question type</label><select id="section"><option value="all">True/False and MCQ</option><option value="true-false">True / False only</option><option value="single-best">MCQs only</option></select></div>':'')+'<div class="field"><label for="count">Number of questions</label><select id="count"><option value="all">All available</option>'+[5,10,15,20,30,40,60,90].filter(n=>n<set.questions.length).map(n=>'<option value="'+n+'">'+n+' questions</option>').join('')+'</select></div></div><label class="setting"><input type="checkbox" id="shuffle" '+(isTopic?'checked':'')+'> Randomise question order (original paper numbers remain visible)</label><p class="notice" id="available-count">'+set.questions.length+' questions available with these filters. Your original answers are never shown before submission in Exam mode.</p><div class="actions"><button class="btn" data-action="start" id="start-quiz">Start quiz →</button><button class="btn outline" data-action="home">Cancel</button></div></section></main>';}
+function selectedQuestions(){const set=selected();if(!set)return [];const sub=document.getElementById('subtopic')?.value||'all',source=document.getElementById('source')?.value||'all',type=document.getElementById('section')?.value||'all';let q=set.questions.filter(x=>(sub==='all'||x.subtopic===sub)&&(source==='all'||x.sourceCat===source)&&(type==='all'||x.type===type));return q;}
+function available(){if(S.page!=='setup')return;const n=selectedQuestions().length,el=document.getElementById('available-count'),b=document.getElementById('start-quiz');if(el)el.textContent=n+' questions match the selected filters. '+(n?'You can choose a subset or answer them all.':'Choose a different subtopic or question source.');if(b)b.disabled=n===0;}
+function start(){const z=selected();if(!z)return;if(S.attempt&&!S.attempt.finished&&!confirm('Replace your unfinished attempt?'))return;let q=selectedQuestions();if(!q.length){available();return}if(document.getElementById('shuffle')?.checked){for(let i=q.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[q[i],q[j]]=[q[j],q[i]]}}const n=document.getElementById('count')?.value||'all';if(n!=='all')q=q.slice(0,+n);const min=+(document.getElementById('timer')?.value||0),now=Date.now();S.attempt={version:3,selected:{...S.selected},title:z.title,questions:q,mode:document.getElementById('mode')?.value||'exam',index:0,answers:{},flags:{},checked:{},startedAt:now,deadline:min?now+60000*min:null,finished:false};S.page='quiz';S.filter='all';store();render();scrollTop();}
+function response(q){return S.attempt.answers[q.id]}
+function answered(q){const r=response(q);return q.type==='true-false'?r&&Object.keys(r).length===q.options.length:Number.isInteger(r)}
+function started(q){const r=response(q);return q.type==='true-false'?!!(r&&Object.keys(r).length):Number.isInteger(r)}
+function nStarted(){return S.attempt.questions.filter(started).length}
+function seconds(ms){const n=Math.max(0,Math.ceil(ms/1000));return String(Math.floor(n/60)).padStart(2,'0')+':'+String(n%60).padStart(2,'0')}
+function choiceDescription(q){if(q.type==='true-false')return q.options.map(o=>o.label+': '+(q.answerByOption?.[o.label]==='T'?'True':q.answerByOption?.[o.label]==='F'?'False':'Disputed')).join(' · ');const a=q.options.find(o=>o.label===q.correctAnswer);return a?a.label+'. '+a.text:'No unique correct option established';}
+function selectedDescription(q){const r=response(q);if(q.type==='true-false')return q.options.map(o=>o.label+': '+(r?.[o.label]==='T'?'True':r?.[o.label]==='F'?'False':'Unanswered')).join(' · ');if(!Number.isInteger(r))return 'Unanswered';const o=q.options[r];return o?o.label+'. '+o.text:'Unanswered';}
+function grade(q){const r=response(q);if(q.type==='true-false'){let e=0,c=0,w=0,skip=0;for(const o of q.options){const key=q.answerByOption?.[o.label];if(key!=='T'&&key!=='F'){skip++;continue}e++;if(r?.[o.label]===key)c++;else w++}return {eligible:e,correct:c,wrong:w,unscored:skip,status:w===0?'correct':c===0?'incorrect':'partial'};}if(!q.scoreable||!q.correctAnswer)return {eligible:0,correct:0,wrong:0,unscored:1,status:'review'};const right=Number.isInteger(r)&&q.options[r]?.label===q.correctAnswer;return {eligible:1,correct:right?1:0,wrong:right?0:1,unscored:0,status:right?'correct':'incorrect'};}
+function marks(){const totals={eligible:0,correct:0,wrong:0,unscored:0,answered:0,status:{}};for(const q of S.attempt.questions){const g=grade(q);for(const k of ['eligible','correct','wrong','unscored'])totals[k]+=g[k];if(started(q))totals.answered++;totals.status[q.id]=g.status;}totals.percent=totals.eligible?Math.round(100*totals.correct/totals.eligible):0;return totals;}
+function feedback(q,full){const g=grade(q);const label=g.status==='correct'?'Correct':g.status==='incorrect'?'Incorrect':g.status==='partial'?'Partially correct':'Needs review';return '<div class="'+(full?'reviewitem':'feedback')+'"><div class="mark">'+label+(q.flagged?' · Answer-key qualification':'')+'</div>'+(full?'<h3>'+esc(q.sourceLabel||'Question Bank')+' · Original Q'+q.number+'</h3><p>'+esc(q.stem)+'</p>':'')+'<p><strong>Your answer:</strong> '+esc(selectedDescription(q))+'</p><p><strong>Correct answer:</strong> '+esc(choiceDescription(q))+'</p>'+(q.explanation?'<p><strong>Explanation:</strong> '+esc(q.explanation)+'</p>':'')+(q.issueNotes||[]).map(note=>'<p><strong>Source-key note:</strong> '+esc(note)+'</p>').join('')+(g.unscored?'<p>Disputed marks are excluded from scoring.</p>':'')+'</div>';}
+function quiz(){const a=S.attempt,q=a.questions[a.index],locked=a.mode==='practice'&&a.checked[q.id];const progress=Math.round(nStarted()/a.questions.length*100);let opts='';if(q.type==='true-false')opts='<div>'+q.options.map(o=>'<div class="tfrow"><p><strong>'+o.label+'.</strong> '+esc(o.text)+'</p><div class="opts">'+[['T','True'],['F','False']].map(([v,l])=>'<label><input type="radio" name="tf-'+o.label+'" data-tf="'+o.label+'" value="'+v+'" '+(response(q)?.[o.label]===v?'checked':'')+' '+(locked?'disabled':'')+'> '+l+'</label>').join('')+'</div></div>').join('')+'</div>';else opts='<div class="options">'+q.options.map((o,i)=>'<label class="choice"><input type="radio" name="choice" value="'+i+'" '+(response(q)===i?'checked':'')+' '+(locked?'disabled':'')+'> <span class="letter">'+o.label+'</span><span>'+esc(o.text)+'</span></label>').join('')+'</div>';const nav=a.questions.map((item,i)=>'<button class="num'+(i===a.index?' active':'')+(started(item)?' answered':'')+(a.flags[item.id]?' flagged':'')+'" data-action="jump" data-index="'+i+'" title="Quiz question '+(i+1)+'">'+(i+1)+'</button>').join('');return '<main class="shell" id="main"><div class="quizhead"><div><h1>'+esc(a.title)+'</h1><p>'+esc(a.mode==='exam'?'Exam mode':'Practice mode')+' · '+esc(q.sourceLabel||'Question Bank')+'</p></div><span class="chip">'+nStarted()+' / '+a.questions.length+' answered</span></div><div class="progress"><span style="width:'+progress+'%"></span></div><div class="quizgrid"><section class="paper question"><div class="qtop"><span class="qnumber">Question '+(a.index+1)+' of '+a.questions.length+' · Original Q'+q.number+'</span><button class="btn outline small" data-action="flag">'+(a.flags[q.id]?'★ Flagged':'☆ Flag for review')+'</button></div><p class="qstem">'+esc(q.stem)+'</p><div class="qmeta">'+esc(topicName(q.topicId))+(q.subtopic?' · '+esc(q.subtopic):'')+'</div>'+opts+(q.flagged?'<div class="notice warn">An answer-key qualification is recorded for this question. Disputed parts do not count against your score.</div>':'')+(locked?feedback(q,false):'')+'<div class="qfoot"><div class="grp"><button class="btn outline" data-action="prev" '+(a.index===0?'disabled':'')+'>← Previous</button><button class="btn outline" data-action="next" '+(a.index===a.questions.length-1?'disabled':'')+'>Next →</button></div>'+(a.mode==='practice'?'<button class="btn" data-action="check" '+(!answered(q)||locked?'disabled':'')+'>Check answer</button>':'')+'</div></section><aside class="paper side"><h3>Question navigator</h3><p>Return to any question or a flagged item.</p><div class="navgrid">'+nav+'</div><div class="sidebuttons">'+(a.deadline?'<div><span class="sub">Time remaining</span><div class="time" id="time">'+seconds(a.deadline-Date.now())+'</div></div>':'')+'<button class="btn" data-action="submit">Submit quiz</button><button class="btn outline" data-action="exit">Save and exit</button></div></aside></div></main>';}
+function results(){const a=S.attempt,g=marks(),q=a.questions.filter(q=>S.filter==='all'||(S.filter==='flagged'?q.flagged:S.filter==='missed'?['incorrect','partial'].includes(g.status[q.id]):g.status[q.id]==='correct'));return '<main class="shell" id="main"><div class="bread"><button class="btn outline small" data-action="home">← Collections</button> / Results</div><section class="paper result"><p class="eyebrow">Quiz complete</p><h1>'+esc(a.title)+' — Results</h1><p class="sub">Your score excludes disputed source answers and any unscorable questions.</p><div class="metrics"><div class="metric"><span class="v" style="color:var(--gold)">'+g.percent+'%</span><small>Score</small></div><div class="metric"><span class="v">'+g.correct+' / '+g.eligible+'</span><small>Correct marks</small></div><div class="metric"><span class="v">'+g.answered+' / '+a.questions.length+'</span><small>Question stems attempted</small></div><div class="metric"><span class="v">'+g.unscored+'</span><small>Excluded marks</small></div></div><div class="actions"><button class="btn" data-action="retry">Try again</button><button class="btn outline" data-action="home">Back to collections</button></div></section><div class="section-title"><h2>Detailed answer review</h2><p>Check your answers and the worked explanations.</p></div><div class="filter">'+[['all','All'],['missed','Missed'],['correct','Correct'],['flagged','Source notes']].map(([id,label])=>'<button data-action="filter" data-filter="'+id+'" class="'+(S.filter===id?'active':'')+'">'+label+'</button>').join('')+'</div>'+(q.length?'<div class="reviewlist">'+q.map(x=>feedback(x,true)).join('')+'</div>':'<div class="empty">No questions match this filter.</div>')+'</main>';}
+function render(){document.documentElement.dataset.theme=S.theme;root.innerHTML=top()+(S.page==='home'?home():S.page==='setup'?setup():S.page==='quiz'&&S.attempt?quiz():S.page==='results'&&S.attempt?results():home())+footer();tick();if(S.page==='setup')available();}
+function scrollTop(){window.scrollTo({top:0,behavior:'instant'})}
+function submit(force=false){const a=S.attempt;if(!a||a.finished)return;if(!force&&!confirm('Submit your quiz now? Answers will be locked and unanswered questions count as incorrect.'))return;a.finished=true;a.completedAt=Date.now();S.page='results';S.filter='all';store();render();scrollTop();}
+function tick(){const a=S.attempt;if(!a||a.finished||S.page!=='quiz'||!a.deadline)return;const left=a.deadline-Date.now();if(left<=0){submit(true);return;}const el=document.getElementById('time');if(el){el.textContent=seconds(left);el.classList.toggle('urgent',left<300000)}}
+root.addEventListener('click',e=>{const b=e.target.closest('[data-action]');if(!b||b.disabled)return;const action=b.dataset.action,a=S.attempt;if(action==='home'){S.page='home';render();scrollTop()}else if(action==='theme'){S.theme=S.theme==='dark'?'light':'dark';try{localStorage.setItem(THEME,S.theme)}catch{}render()}else if(action==='tab'){S.tab=b.dataset.tab;render()}else if(action==='choose'){S.selected={cat:b.dataset.cat,id:b.dataset.id};S.page='setup';render();scrollTop()}else if(action==='start')start();else if(action==='resume'&&a){S.page=a.finished?'results':'quiz';render();scrollTop()}else if(action==='jump'&&a){a.index=+b.dataset.index;store();render()}else if(action==='prev'&&a){a.index=Math.max(0,a.index-1);store();render()}else if(action==='next'&&a){a.index=Math.min(a.questions.length-1,a.index+1);store();render()}else if(action==='flag'&&a){const q=a.questions[a.index];a.flags[q.id]=!a.flags[q.id];store();render()}else if(action==='check'&&a){const q=a.questions[a.index];if(answered(q)){a.checked[q.id]=true;store();render()}}else if(action==='submit'&&a)submit();else if(action==='exit'&&a){store();S.page='home';render();scrollTop()}else if(action==='filter'){S.filter=b.dataset.filter;render()}else if(action==='retry'&&a){const selectedValue=a.selected;S.attempt=null;store();S.selected=selectedValue;S.page='setup';render();scrollTop()}});
+root.addEventListener('change',e=>{if(S.page==='setup'&&['subtopic','source','section','count','timer','mode'].includes(e.target.id)){available();return;}const a=S.attempt;if(S.page!=='quiz'||!a||a.finished)return;const q=a.questions[a.index];if(a.mode==='practice'&&a.checked[q.id])return;if(e.target.name==='choice')a.answers[q.id]=+e.target.value;else if(e.target.dataset.tf){a.answers[q.id]||={};a.answers[q.id][e.target.dataset.tf]=e.target.value}else return;store();render();});
+root.addEventListener('input',e=>{if(e.target.id==='topic-search'){const term=e.target.value.toLowerCase().trim();for(const card of root.querySelectorAll('.topic-card'))card.hidden=!card.dataset.topicName.includes(term)}});
+async function getJSON(path){const r=await fetch(path,{cache:'no-cache'});if(!r.ok)throw Error(path+' (HTTP '+r.status+')');return await r.json()}
+async function boot(){try{const a=JSON.parse(localStorage.getItem(SAVE)||'null');if(a&&a.version===3&&a.questions?.length){S.attempt=a;S.selected=a.selected;S.page=a.finished?'results':'quiz'}}catch{}S.sets.mock=[1,2,3].map(n=>annotateMock(n,null));render();const [past,topics,...mocks]=await Promise.allSettled([getJSON('./data/past-questions.json'),getJSON('./data/topics.json'),getJSON('./data/mock-01-60q.json'),getJSON('./data/mock-02-60q.json'),getJSON('./data/mock-03-60q.json')]);if(past.status==='fulfilled'&&Array.isArray(past.value.sets))S.sets.past=annotatePast(past.value.sets);else S.errors.push('Past Questions could not load. Refresh the page.');if(topics.status==='fulfilled'&&Array.isArray(topics.value))S.topics=topics.value;else S.errors.push('The CVS topic catalogue could not load.');S.sets.mock=mocks.map((m,i)=>{const n=i+1,ready=m.status==='fulfilled'&&m.value?.questions?.length===60;const set=annotateMock(n,ready?m.value:null);if(!set.ready)S.errors.push('Mock 0'+n+' is unavailable.');return set});prepareTopics();render();}
 setInterval(tick,1000);boot();
 })();
