@@ -46,7 +46,7 @@ function setup(){
  '<div class="field"><label for="section">Question type</label><select id="section"><option value="all">Full paper</option>'+(mixed?'<option value="true-false">True / False only</option><option value="single-best">MCQs only</option>':"")+'</select></div>'+
  '<div class="field"><label for="count">Questions</label><select id="count"><option value="all">All available questions</option>'+
  [10,20,40,60].filter(c=>c<n).map(c=>'<option value="'+c+'">'+c+' questions</option>').join("")+'</select></div>'+
- '<div class="field"><label for="timer">Timer</label><select id="timer"><option value="0">Untimed</option><option value="15">15 minutes</option><option value="30">30 minutes</option><option value="60"'+(S.selected.cat==="mock"?' selected':"")+'>60 minutes</option><option value="90">90 minutes</option></select></div></div>'+
+ '<div class="field"><label for="timer">Timer</label><select id="timer"><option value="0">Untimed</option><option value="15">15 minutes</option><option value="30">30 minutes</option><option value="60">60 minutes</option><option value="90"'+(S.selected.cat==="mock"?' selected':"")+'>90 minutes</option></select></div></div>'+
  '<label class="setting"><input type="checkbox" id="shuffle"> Randomize question order (original numbering stays visible)</label>'+
  '<div class="notice">Practice mode allows answer checks during the quiz. Exam mode keeps the answer key hidden until final submission. Your current attempt is saved in this browser.</div>'+
  '<div class="actions"><button class="btn" data-act="start">Start quiz →</button><button class="btn outline" data-act="home">Cancel</button></div></section></main>';
