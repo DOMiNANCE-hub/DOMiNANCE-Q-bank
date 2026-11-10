@@ -1,0 +1,11 @@
+/* DOMiNANCE Question Bank: topic/subtopic navigation */
+.tabs{max-width:820px}
+.tabs .tab{min-width:0;white-space:normal;line-height:1.2}
+.topic-tools{display:flex;flex-wrap:wrap;align-items:center;gap:12px;margin:0 0 22px;background:var(--panel);border:1px solid var(--edge);padding:15px;border-radius:15px}
+.topic-tools label{font-weight:800;color:var(--text);font-size:.85rem}
+.topic-tools input[type=search]{width:min(100%,440px);flex:1 1 250px;padding:12px;border:1px solid var(--edge);border-radius:11px;background:var(--panel2);color:var(--text);outline-offset:2px}
+.topic-tools input::placeholder{color:var(--muted);opacity:.9}
+.topic-card[hidden]{display:none!important}
+.qmeta{font-size:.79rem;color:var(--muted);margin:-8px 0 18px;border-left:3px solid var(--gold);padding:5px 0 5px 10px}
+:root[data-theme=light] .tab[aria-selected=true],:root[data-theme=dark] .tab[aria-selected=true]{background:var(--gold);color:#071b53}
+@media(max-width:580px){.tabs{gap:4px;padding:5px}.tabs .tab{font-size:.72rem;padding:10px 5px}.topic-tools{gap:9px}.topic-tools .chip{font-size:.73rem}.qmeta{font-size:.75rem}}
