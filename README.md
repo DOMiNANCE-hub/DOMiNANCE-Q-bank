@@ -1,5 +1,18 @@
-# DOMiNANCE CVS Question Bank
+# DOMiNANCE Question Bank
 
+This is a **three-course examination platform**, not a CVS-only website.
+
+## Student navigation
+
+`DOMiNANCE Question Bank → Course → Topic → Question Collection → Quiz Setup → Quiz → Results`
+
+- **Anatomy:** coming-soon course placeholder; no questions or unapproved topics are fabricated.
+- **Biochemistry:** coming-soon course placeholder; no questions or unapproved topics are fabricated.
+- **Physiology:** available. Its first topic is **Cardiovascular Physiology (CVS)**. Under CVS, students choose Past Questions (Compiled from the Net), Mock Questions (Curated by DOMiNANCE), or Practice by Topic. Topic practice supports further subtopic and question-source filters.
+
+The global homepage, course-level navigation and existing CVS quiz logic share the same responsive blue/gold/white design and dark/light themes. Question identifiers, scoring and saved attempts remain unchanged.
+
+---
 A responsive study and exam-practice hub for Cardiovascular Physiology.
 
 ## Student-facing collections
