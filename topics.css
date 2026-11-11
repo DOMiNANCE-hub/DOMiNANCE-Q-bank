@@ -25,3 +25,15 @@
 .subject-hero h1{max-width:900px}
 @media(max-width:840px){.course-cards{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:570px){.course-cards,.course-topic-cards{grid-template-columns:1fr}.course-cards .course-card{min-height:240px}}
+
+
+/* Collection-scoped choice: complete paper or focused topic practice */
+.path-choices{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:13px 0 25px}
+.path-choice{display:flex;flex-direction:column;text-align:left;gap:6px;background:var(--panel);color:var(--text);border:1px solid var(--edge);border-radius:16px;padding:20px;min-height:116px;cursor:pointer}
+.path-choice strong{font-size:1.04rem;line-height:1.3}
+.path-choice small{font-size:.85rem;color:var(--muted);line-height:1.5}
+.path-choice:hover{border-color:var(--gold)}
+.path-choice.active{border:2px solid var(--gold);padding:19px;background:var(--panel2)}
+.path-choice.active strong{color:var(--gold)}
+.path-choice:focus-visible{outline:3px solid var(--gold);outline-offset:3px}
+@media(max-width:560px){.path-choices{grid-template-columns:1fr;gap:9px}.path-choice{min-height:0;padding:14px 16px}.path-choice.active{padding:13px 15px}}
