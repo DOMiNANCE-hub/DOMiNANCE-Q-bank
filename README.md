@@ -4,20 +4,23 @@ This is a **three-course examination platform**, not a CVS-only website.
 
 ## Student navigation
 
-`DOMiNANCE Question Bank → Course → Topic → Question Collection → Quiz Setup → Quiz → Results`
+`Question Bank → Anatomy / Biochemistry / Physiology → Physiology: CVS → Past Questions / Mock Questions → Solve by Set/Mock OR Solve by Topic/Subtopic → Quiz Setup → Quiz → Results`
 
-- **Anatomy:** coming-soon course placeholder; no questions or unapproved topics are fabricated.
-- **Biochemistry:** coming-soon course placeholder; no questions or unapproved topics are fabricated.
-- **Physiology:** available. Its first topic is **Cardiovascular Physiology (CVS)**. Under CVS, students choose Past Questions (Compiled from the Net), Mock Questions (Curated by DOMiNANCE), or Practice by Topic. Topic practice supports further subtopic and question-source filters.
+- **Anatomy:** coming-soon course placeholder.
+- **Biochemistry:** coming-soon course placeholder.
+- **Physiology:** currently offers **Cardiovascular Physiology (CVS)**.
+- Under CVS, the **Past Questions** collection is labelled **Compiled Past Questions**. The separate **Mock Questions** collection is labelled **Curated by DOMiNANCE**.
+- Each collection has **two routes**: Solve by Set/Mock, or Solve by Topic/Subtopic. No separate global Practice by Topic tab is shown. Topic/subtopic filtering retains the selected question source and never mixes past questions with curated mocks.
+- **Timers are optional in every mode.** Quiz Setup defaults to **No timer** for all sets, including the full 60-question mocks. Students can opt into any displayed duration, including the traditional 90-minute full mock.
+- Practice and Exam modes, question navigation, submitted results, question explanations, flags, saved attempts and light/dark themes are preserved.
 
-The global homepage, course-level navigation and existing CVS quiz logic share the same responsive blue/gold/white design and dark/light themes. Question identifiers, scoring and saved attempts remain unchanged.
 
 ---
 A responsive study and exam-practice hub for Cardiovascular Physiology.
 
 ## Student-facing collections
 
-1. **Past Questions — Compiled from the Net.** Three separately identified sets, 196 original question stems in total, with original numbering, true/false items where relevant, and qualified answer keys.
+1. **Past Questions — Compiled Past Questions.** Three separately identified sets, 196 original question stems in total, with original numbering, true/false items where relevant, and qualified answer keys.
 2. **Mock Questions — Curated by DOMiNANCE.** Three complete exams (Mock 01, 02 and 03), **60 four-option single-best-answer MCQs each, 90 minutes per full mock**, for 180 mock questions total.
 3. **Practice by Topic.** Choose among cardiovascular physiology topics aligned to the 27 chapters in DOMiNANCE Breakdowns. On Quiz Setup, choose a **subtopic**, a **question source** (past questions / mocks / both), practice or exam mode, question count, and timer.
 
