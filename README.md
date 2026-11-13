@@ -28,7 +28,7 @@ The original mock papers are preserved as full-paper sets. Topic practice makes 
 
 ## Data layout
 
-- `data/past-questions.json` — earlier cleaned combined past-question sets. Some defective or ambiguous answers are flagged and not automatically counted against students. Every past question (196/196) now carries an `explanation` (why the key is right and why each other option is wrong; statement-by-statement for true/false items). Line breaks in explanations are rendered as separate lines. Four defective items (Set 01 Q10; Set 03 Q62, Q82, Q120) were rewritten by DOMiNANCE and carry a `revisionNote` shown to students as "DOMiNANCE revision".
+- `data/past-questions.json` — earlier cleaned combined past-question sets. Some defective or ambiguous answers are flagged and not automatically counted against students. Every past question (196/196) now carries an `explanation` (why the key is right and why each other option is wrong; statement-by-statement for true/false items). Line breaks in explanations are rendered as separate lines. Defective or disputed items (24 in total) were rewritten by DOMiNANCE and carry a `revisionNote` shown to students as "DOMiNANCE revision"; every past question is now scoreable. Each past question also carries a hand-assigned `topicId` and `subtopic` (matching `data/topics.json`), so topic practice no longer relies on keyword guessing; `classifyPast` remains only as a fallback for untagged items.
 - `data/mock-01-60q.json`, `mock-02-60q.json`, `mock-03-60q.json` — the **complete current 60-question mock papers** with correct answers, explanations, topic and subtopic tags, sourced from the November 9, 2026 online editions.
 - `data/topics.json` — 27 topic labels and ordering from the DOMiNANCE Breakdowns CVS topic map.
 
