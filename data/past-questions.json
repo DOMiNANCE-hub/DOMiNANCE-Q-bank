@@ -1,7 +1,7 @@
 {
   "version": 1,
   "title": "Past Questions — Compiled from the Net",
-  "notice": "Original question wording and option order retained. Items with disputed or defective keys are flagged and excluded from automatic scoring. This collection is independent from curated DOMiNANCE mock papers.",
+  "notice": "Original question wording and option order retained, except for a few items revised by DOMiNANCE to remove defective keys (each is marked with a revision note). Items with disputed or defective keys are flagged and excluded from automatic scoring. This collection is independent from curated DOMiNANCE mock papers.",
   "sets": [
     {
       "id": "set-01",
@@ -755,33 +755,32 @@
           "options": [
             {
               "label": "A",
-              "text": "Arteries in the pulmonary circulation carry deoxygenated blood."
+              "text": "Pulmonary arteries carry blood with a higher PO₂ than the pulmonary veins"
             },
             {
               "label": "B",
-              "text": "The coronary veins carry oxygenated blood"
+              "text": "Coronary sinus blood has a higher O₂ content than mixed venous blood"
             },
             {
               "label": "C",
-              "text": "In each minute the blood flow in the aorta is slightly more than through the pulmonary artery."
+              "text": "Aortic flow per minute is slightly less than pulmonary arterial flow"
             },
             {
               "label": "D",
-              "text": "Arterioles in the lungs constrict when the alveolar PO₂ falls"
+              "text": "Pulmonary arterioles constrict when the PO₂ of the alveolar gas falls"
             },
             {
               "label": "E",
-              "text": "The heart gets oxygen and nutrients from blood in the cardiac chambers"
+              "text": "Systemic arterioles constrict when the PO₂ of the tissue fluid falls"
             }
           ],
           "originalKeyReview": "A and D*",
-          "correctAnswer": null,
-          "explanation": "Not scored (more than one valid answer). A is true: pulmonary arteries carry deoxygenated blood to the lungs. D is true: alveolar hypoxia causes hypoxic pulmonary vasoconstriction, sending blood towards better-ventilated alveoli. B is false: the heart extracts about 70-75% of the oxygen it receives, so coronary venous blood is among the most deoxygenated in the body. E is false: myocardium is supplied mainly by the coronary arteries, not by blood in the chambers. Note that C is also strictly defensible: bronchial and Thebesian venous blood drains into the left heart, so LV (aortic) output slightly exceeds RV output.",
-          "scoreable": false,
-          "issueNotes": [
-            "Both A and D are physiologically correct: pulmonary arteries carry deoxygenated blood, and low alveolar PO2 causes pulmonary arteriolar vasoconstriction. The item is defective as single-best-answer."
-          ],
-          "flagged": true
+          "correctAnswer": "D",
+          "explanation": "Low alveolar PO₂ causes hypoxic pulmonary vasoconstriction, which sends blood away from poorly ventilated alveoli towards well-ventilated ones and so matches perfusion to ventilation.\nNot A: pulmonary arteries carry DEoxygenated blood to the lungs; the pulmonary veins carry the freshly oxygenated blood.\nNot B: the heart extracts about 70-75% of the O₂ delivered to it, so coronary sinus blood has the LOWEST O₂ content in the body, below mixed venous blood.\nNot C: aortic flow is slightly MORE, because bronchial and Thebesian venous blood drains into the left heart (a small physiological shunt).\nNot E: hypoxia DILATES systemic arterioles (metabolic vasodilation). This is the opposite of the pulmonary response, which is why D and E make a useful contrast.",
+          "revisionNote": "Options rewritten by DOMiNANCE so that only one statement is true. The original item had more than one correct answer (A, C and D).",
+          "scoreable": true,
+          "issueNotes": [],
+          "flagged": false
         },
         {
           "id": "set-01-B-011",
@@ -4697,32 +4696,33 @@
           "number": 62,
           "section": "A",
           "type": "single-best",
-          "stem": "The electrical axis of the heart is determined by:",
+          "stem": "In clinical practice, the electrical axis of the heart is determined from:",
           "options": [
             {
               "label": "A",
-              "text": "the vectorial sum of QRS complexes in the standard leads;"
+              "text": "the net QRS deflections in the precordial (chest) leads;"
             },
             {
               "label": "B",
-              "text": "the vectorial sum of QRS complexes in the precordial leads;"
+              "text": "the net QRS deflections in the standard limb leads;"
             },
             {
               "label": "C",
-              "text": "the vector's direction of the electrical forces of the ventricular muscle tissue;"
+              "text": "the net P-wave deflections in the standard limb leads;"
             },
             {
               "label": "D",
-              "text": "the supine or straight position of the body;"
+              "text": "the net T-wave deflections in the standard limb leads;"
             },
             {
               "label": "E",
-              "text": "the vector's direction of the electrical forces of the atrial muscle tissue."
+              "text": "the net QRS deflections in chest leads V1 and V2 only."
             }
           ],
           "originalKeyReview": null,
-          "correctAnswer": "A",
-          "explanation": "In practice the electrical axis is found by combining the QRS deflections in the standard limb leads (I, II, III, using Einthoven's triangle) into a single mean vector in the frontal plane.\nNot B: precordial leads record the horizontal plane, not the frontal axis. C describes what the axis represents (the mean direction of ventricular depolarisation forces), but the question asks how it is DETERMINED.\nNot D: posture can shift the axis slightly but does not determine it.\nNot E: atrial forces give the P-wave axis, not the cardiac electrical axis.",
+          "correctAnswer": "B",
+          "explanation": "The cardiac (QRS) axis is the mean direction of ventricular depolarisation in the frontal plane. It is worked out from the net (positive minus negative) QRS deflections in the limb leads: Einthoven's standard leads I, II and III, usually checked against aVF and the other augmented leads on the hexaxial reference system.\nNot A or E: chest leads record the HORIZONTAL plane, so they cannot give the frontal-plane axis.\nNot C: P waves give the atrial (P-wave) axis, not the cardiac electrical axis.\nNot D: T waves give the axis of ventricular repolarisation (the T axis), which is a different vector.",
+          "revisionNote": "Stem and options rewritten by DOMiNANCE. The original option C ('the direction of the electrical forces of the ventricular muscle') described what the axis IS, which made it competitive with the keyed answer.",
           "scoreable": true,
           "issueNotes": [],
           "flagged": false
@@ -5399,7 +5399,7 @@
           "number": 82,
           "section": "A",
           "type": "single-best",
-          "stem": "Which of the following substances does not participate in the regulation of blood pressure?",
+          "stem": "Which of the following substances is synthesised by the vascular endothelium and helps to regulate blood pressure?",
           "options": [
             {
               "label": "A",
@@ -5411,11 +5411,11 @@
             },
             {
               "label": "C",
-              "text": "angiotensin II;"
+              "text": "renin;"
             },
             {
               "label": "D",
-              "text": "nitric acid;"
+              "text": "nitric oxide;"
             },
             {
               "label": "E",
@@ -5424,7 +5424,8 @@
           ],
           "originalKeyReview": null,
           "correctAnswer": "D",
-          "explanation": "As worded, 'nitric acid' (HNO3) is a strong mineral acid with no physiological role in blood-pressure regulation, so D is the intended answer. Be careful: if NITRIC OXIDE was meant, it is a key endothelial vasodilator that does regulate pressure.\nNot A: ADH (vasopressin) constricts vessels and retains water.\nNot B: ANP causes vasodilation and natriuresis.\nNot C: angiotensin II constricts vessels and stimulates aldosterone.\nNot E: epinephrine raises cardiac output and affects vascular tone.",
+          "explanation": "Nitric oxide is made by endothelial NO synthase (eNOS) in response to shear stress, acetylcholine and bradykinin. It diffuses into vascular smooth muscle, raises cGMP and causes vasodilation, giving continuous tonic control of vascular resistance and blood pressure.\nNot A: ADH (vasopressin) is made in the hypothalamus and released from the posterior pituitary.\nNot B: ANP is secreted by atrial myocytes when the atria are stretched.\nNot C: renin is released by the juxtaglomerular cells of the kidney.\nNot E: epinephrine comes from the adrenal medulla.\nAll five help regulate blood pressure, so the question tests their SOURCE.",
+          "revisionNote": "Rewritten by DOMiNANCE. The original asked which substance does NOT regulate blood pressure and keyed 'nitric acid', which was almost certainly a typo for nitric oxide, and nitric oxide is a key regulator. The item now asks where each substance comes from.",
           "scoreable": true,
           "issueNotes": [],
           "flagged": false
@@ -6741,37 +6742,36 @@
           "number": 120,
           "section": "A",
           "type": "single-best",
-          "stem": "The cardiac output (C.O.):",
+          "stem": "The cardiac output (C.O.) is best defined as:",
           "options": [
             {
               "label": "A",
-              "text": "the volume of blood, pumped by the right ventricle per minute;"
+              "text": "the volume of blood ejected by the left ventricle in each beat;"
             },
             {
               "label": "B",
-              "text": "the volume of blood, flowing through the systemic circulation per minute;"
+              "text": "the volume of blood pumped by both ventricles together per minute;"
             },
             {
               "label": "C",
-              "text": "is a function of stroke volume and heart rate;"
+              "text": "the volume of blood pumped by each ventricle per minute;"
             },
             {
               "label": "D",
-              "text": "the volume of blood ejected by the right ventricle;"
+              "text": "the volume of blood in each ventricle at the end of diastole;"
             },
             {
               "label": "E",
-              "text": "the volume of blood ejected by the left ventricle."
+              "text": "the volume of blood left in each ventricle at the end of systole."
             }
           ],
           "originalKeyReview": "A, B and C*",
-          "correctAnswer": null,
-          "explanation": "Not scored (more than one correct answer). In a steady state the outputs of both ventricles and the systemic flow are equal, so A (RV output per minute) and B (systemic flow per minute) are both correct. C (a function of stroke volume and heart rate: CO = SV x HR) is also correct.\nNot D and E: these give the volume per BEAT (stroke volume) without the 'per minute' element.",
-          "scoreable": false,
-          "issueNotes": [
-            "A and B both describe flow per minute in the steady circulation, while C gives cardiac output as stroke volume × heart rate. All three are correct. Selected verification sources Blood–brain barrier: NCBI Bookshelf, Physiology, Blood Brain Barrier: https://www.ncbi.nlm.nih.gov/books/NBK557721/ Hyperkalaemia and ECG changes: NCBI Bookshelf, Hyperkalemia: https://www.ncbi.nlm.nih.gov/books/NBK470284/ Haematocrit definition: NCBI Bookshelf, Hematocrit: https://www.ncbi.nlm.nih.gov/books/NBK542276/ Coronary exercise flow: Physiology Reviews, Regulation of Coronary Blood Flow During Exercise: https://journals.physiology.org/doi/full/10.1152/physrev.00045.2006"
-          ],
-          "flagged": true
+          "correctAnswer": "C",
+          "explanation": "Cardiac output is the volume pumped by EACH ventricle per minute (CO = stroke volume × heart rate, about 70 mL × 70/min ≈ 5 L/min at rest). The two ventricles are in series, so in a steady state RV output = LV output = systemic flow.\nNot A: volume per beat is the stroke volume.\nNot B: adding both ventricles double-counts the same blood (it would give about 10 L/min), a common misconception.\nNot D: this is the end-diastolic volume (about 120 mL), which sets preload.\nNot E: this is the end-systolic volume (about 50 mL); EDV - ESV = stroke volume.",
+          "revisionNote": "Options rewritten by DOMiNANCE so that only one is correct. The original had three correct answers (A, B and C), and its review note contained stray reference links.",
+          "scoreable": true,
+          "issueNotes": [],
+          "flagged": false
         },
         {
           "id": "set-03-A-121",
