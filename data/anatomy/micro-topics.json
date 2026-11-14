@@ -1,0 +1,78 @@
+[
+ {
+  "id": "m-cvs",
+  "title": "Cardiovascular system",
+  "short": "Blood vessels",
+  "order": 1
+ },
+ {
+  "id": "m-lymph",
+  "title": "Lymphoid organs",
+  "short": "Lymphoid organs",
+  "order": 2
+ },
+ {
+  "id": "m-resp",
+  "title": "Respiratory system",
+  "short": "Respiratory",
+  "order": 3
+ },
+ {
+  "id": "m-gi",
+  "title": "Digestive system (incl. liver and pancreas)",
+  "short": "Digestive",
+  "order": 4
+ },
+ {
+  "id": "m-urinary",
+  "title": "Urinary system",
+  "short": "Urinary",
+  "order": 5
+ },
+ {
+  "id": "m-male",
+  "title": "Male reproductive system",
+  "short": "Male reproductive",
+  "order": 6
+ },
+ {
+  "id": "m-female",
+  "title": "Female reproductive system and placenta",
+  "short": "Female reproductive",
+  "order": 7
+ },
+ {
+  "id": "m-endo",
+  "title": "Endocrine system",
+  "short": "Endocrine",
+  "order": 8
+ },
+ {
+  "id": "m-epi",
+  "title": "Epithelium",
+  "short": "Epithelium and glands",
+  "order": 9,
+  "tag": "HB1"
+ },
+ {
+  "id": "m-ct",
+  "title": "Connective tissue, cartilage and bone",
+  "short": "Connective tissue, cartilage, bone",
+  "order": 10,
+  "tag": "HB1"
+ },
+ {
+  "id": "m-muscle",
+  "title": "Muscle tissue",
+  "short": "Muscle",
+  "order": 11,
+  "tag": "HB1"
+ },
+ {
+  "id": "m-nerve",
+  "title": "Nervous tissue",
+  "short": "Nervous tissue",
+  "order": 12,
+  "tag": "HB1"
+ }
+]

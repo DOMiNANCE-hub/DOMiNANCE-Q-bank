@@ -32,6 +32,15 @@
                   "curated": []
                 },
                 {
+                  "id": "micro",
+                  "title": "Microscopic anatomy",
+                  "topics": "data/anatomy/micro-topics.json",
+                  "past": [
+                    "data/anatomy/micro-past.json"
+                  ],
+                  "curated": []
+                },
+                {
                   "id": "embryo",
                   "title": "Developmental anatomy",
                   "topics": "data/anatomy/embryo-topics.json",
@@ -157,6 +166,15 @@
               "topics": "data/anatomy/gross-topics.json",
               "past": [
                 "data/anatomy/gross-past.json"
+              ],
+              "curated": []
+            },
+            {
+              "id": "micro",
+              "title": "Microscopic anatomy",
+              "topics": "data/anatomy/micro-topics.json",
+              "past": [
+                "data/anatomy/micro-past.json"
               ],
               "curated": []
             },

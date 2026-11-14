@@ -11901,6 +11901,159 @@
      "difficulty": "easy"
     },
     {
+     "id": "ana-mic-smd-133-p5",
+     "topicId": "g-urinary",
+     "subtopic": "",
+     "stem": "All of the following are true of the kidneys EXCEPT that they are:",
+     "type": "single-best",
+     "options": [
+      {
+       "label": "A",
+       "text": "Retroperitoneal"
+      },
+      {
+       "label": "B",
+       "text": "Surrounded by a fibrous capsule"
+      },
+      {
+       "label": "C",
+       "text": "Located partly within the pelvic cavity"
+      },
+      {
+       "label": "D",
+       "text": "Held in place by renal fascia"
+      },
+      {
+       "label": "E",
+       "text": "Covered in front by peritoneum"
+      }
+     ],
+     "correctAnswer": "C",
+     "why": "The kidneys lie in the posterior abdomen (T12–L3), not in the pelvis.",
+     "notes": {
+      "A": "True.",
+      "B": "True.",
+      "D": "True.",
+      "E": "Their front surfaces are covered by parietal peritoneum."
+     },
+     "difficulty": "medium"
+    },
+    {
+     "id": "ana-mic-smd-134-p6",
+     "topicId": "g-urinary",
+     "subtopic": "",
+     "stem": "The prominent indentation on the medial border of the kidney is the:",
+     "type": "single-best",
+     "options": [
+      {
+       "label": "A",
+       "text": "Calyx"
+      },
+      {
+       "label": "B",
+       "text": "Pelvis"
+      },
+      {
+       "label": "C",
+       "text": "Ureter"
+      },
+      {
+       "label": "D",
+       "text": "Hilum"
+      },
+      {
+       "label": "E",
+       "text": "Pyramid"
+      }
+     ],
+     "correctAnswer": "D",
+     "why": "",
+     "notes": {
+      "A": "Inside.",
+      "B": "Inside.",
+      "C": "Leaves.",
+      "E": "Inside."
+     },
+     "difficulty": "easy"
+    },
+    {
+     "id": "ana-mic-mic19-57-p15",
+     "topicId": "g-urinary",
+     "subtopic": "",
+     "stem": "Compared with the right kidney, the left kidney lies:",
+     "type": "single-best",
+     "options": [
+      {
+       "label": "A",
+       "text": "Inferior"
+      },
+      {
+       "label": "B",
+       "text": "Superior"
+      },
+      {
+       "label": "C",
+       "text": "Posterior"
+      },
+      {
+       "label": "D",
+       "text": "Anterior"
+      },
+      {
+       "label": "E",
+       "text": "At exactly the same level"
+      }
+     ],
+     "correctAnswer": "B",
+     "why": "",
+     "notes": {
+      "A": "No.",
+      "C": "No.",
+      "D": "No.",
+      "E": "No."
+     },
+     "difficulty": "easy"
+    },
+    {
+     "id": "ana-mic-mic19-58-p15",
+     "topicId": "g-urinary",
+     "subtopic": "",
+     "stem": "The position of the kidneys in the abdominal cavity is stabilized by",
+     "type": "single-best",
+     "options": [
+      {
+       "label": "A",
+       "text": "The overlying peritoneum"
+      },
+      {
+       "label": "B",
+       "text": "Contact with adjacent visceral organs"
+      },
+      {
+       "label": "C",
+       "text": "Supporting connective tissues"
+      },
+      {
+       "label": "D",
+       "text": "A and B only"
+      },
+      {
+       "label": "E",
+       "text": "A, B and C"
+      }
+     ],
+     "correctAnswer": "E",
+     "why": "",
+     "notes": {
+      "A": "Part.",
+      "B": "Part.",
+      "C": "Part.",
+      "D": "C also."
+     },
+     "lockOrder": true,
+     "difficulty": "easy"
+    },
+    {
      "id": "ana-g16-p41",
      "type": "single-best",
      "stem": "Which part of the male urethra is the widest and most dilatable?",
@@ -18872,6 +19025,502 @@
      "difficulty": "medium"
     },
     {
+     "id": "ana-mic-sa-e-46",
+     "topicId": "g-intro",
+     "subtopic": "",
+     "stem": "A patient has an inguinal hernia, lumbar kidney pain and perineal haemorrhoids. These regions are, respectively:",
+     "type": "single-best",
+     "options": [
+      {
+       "label": "A",
+       "text": "Groin, loin, between the anus and external genitalia"
+      },
+      {
+       "label": "B",
+       "text": "Genital region, groin, loin"
+      },
+      {
+       "label": "C",
+       "text": "Groin, loin, genital region"
+      },
+      {
+       "label": "D",
+       "text": "Genital region, loin, groin"
+      },
+      {
+       "label": "E",
+       "text": "Abdomen, loin, genital region"
+      }
+     ],
+     "correctAnswer": "A",
+     "why": "Inguinal = groin, lumbar = loin, perineal = between anus and external genitalia.",
+     "notes": {
+      "B": "Wrong order.",
+      "C": "Perineum is not the genital region.",
+      "D": "Wrong order.",
+      "E": "No."
+     },
+     "difficulty": "easy"
+    },
+    {
+     "id": "ana-mic-sa-e-83",
+     "topicId": "g-intro",
+     "subtopic": "",
+     "stem": "Functions of the female reproductive system include:",
+     "type": "true-false",
+     "options": [
+      {
+       "label": "A",
+       "text": "Production of ova and hormones"
+      },
+      {
+       "label": "B",
+       "text": "Provision of a site for fertilization and implantation"
+      },
+      {
+       "label": "C",
+       "text": "Nourishment and development of the preimplantation embryo"
+      },
+      {
+       "label": "D",
+       "text": "Transport of germ cells"
+      },
+      {
+       "label": "E",
+       "text": "Elimination of nitrogenous waste products"
+      }
+     ],
+     "answerByOption": {
+      "A": "T",
+      "B": "T",
+      "C": "T",
+      "D": "T",
+      "E": "F"
+     },
+     "notes": {
+      "E": "Urinary system."
+     },
+     "difficulty": "medium"
+    },
+    {
+     "id": "ana-mic-sa-e-84",
+     "topicId": "g-intro",
+     "subtopic": "",
+     "stem": "Functions of the muscular system include:",
+     "type": "true-false",
+     "options": [
+      {
+       "label": "A",
+       "text": "Allows manipulation of the enviroment"
+      },
+      {
+       "label": "B",
+       "text": "Is responsible for locomotion and facial expression"
+      },
+      {
+       "label": "C",
+       "text": "Is for maintenance of posture"
+      },
+      {
+       "label": "D",
+       "text": "Is for production of heat"
+      },
+      {
+       "label": "E",
+       "text": "Storage of minerals"
+      }
+     ],
+     "answerByOption": {
+      "A": "T",
+      "B": "T",
+      "C": "T",
+      "D": "T",
+      "E": "F"
+     },
+     "notes": {
+      "E": "Bone stores minerals."
+     },
+     "difficulty": "medium"
+    },
+    {
+     "id": "ana-mic-sa-e-118",
+     "topicId": "g-intro",
+     "subtopic": "",
+     "stem": "“Dysphagia” “dysphonia” and “dyspnoea” refer to conditions affecting the:",
+     "type": "single-best",
+     "options": [
+      {
+       "label": "A",
+       "text": "Pharynx, larynx and lungs respectively"
+      },
+      {
+       "label": "B",
+       "text": "Larynx, pharynx and lungs respectively"
+      },
+      {
+       "label": "C",
+       "text": "Pharynx, lungs and larynx respectively"
+      },
+      {
+       "label": "D",
+       "text": "Middle ear, throat and lungs"
+      },
+      {
+       "label": "E",
+       "text": "Lungs, larynx and pharynx"
+      }
+     ],
+     "correctAnswer": "A",
+     "why": "Dysphagia: swallowing (pharynx/oesophagus); dysphonia: voice (larynx); dyspnoea: breathing (lungs).",
+     "notes": {
+      "B": "Order wrong.",
+      "C": "Order wrong.",
+      "D": "No.",
+      "E": "Order wrong."
+     },
+     "difficulty": "easy"
+    },
+    {
+     "id": "ana-mic-sa-g-65",
+     "topicId": "g-intro",
+     "subtopic": "",
+     "stem": "Two of the fingers on Theresa’s right hand are fused together by a web of skin. Ten-year old Joseph has a small streak of white hair on top of his old although the rest of his hair is black. Both Theresa and Joseph exhibit:",
+     "type": "single-best",
+     "options": [
+      {
+       "label": "A",
+       "text": "Rare but minor diseasess"
+      },
+      {
+       "label": "B",
+       "text": "Serious birth defects"
+      },
+      {
+       "label": "C",
+       "text": "Examples of anatomical variation"
+      },
+      {
+       "label": "D",
+       "text": "Tinnitis and albinism"
+      },
+      {
+       "label": "E",
+       "text": "Agenesis of foetal ectoderm"
+      }
+     ],
+     "correctAnswer": "C",
+     "why": "Minor harmless differences between people are anatomical variation.",
+     "notes": {
+      "A": "Not diseases.",
+      "B": "Not serious.",
+      "D": "No.",
+      "E": "No."
+     },
+     "difficulty": "medium"
+    },
+    {
+     "id": "ana-mic-sa-g-66",
+     "topicId": "g-intro",
+     "subtopic": "",
+     "stem": "Hepatitis and glomerulonephritis are inflammations of the",
+     "type": "single-best",
+     "options": [
+      {
+       "label": "A",
+       "text": "Liver and gallbladder"
+      },
+      {
+       "label": "B",
+       "text": "Kidney and liver"
+      },
+      {
+       "label": "C",
+       "text": "Liver and kidney"
+      },
+      {
+       "label": "D",
+       "text": "Gallbladder and liver"
+      },
+      {
+       "label": "E",
+       "text": "Urinary bladder and gallbladder"
+      }
+     ],
+     "correctAnswer": "C",
+     "why": "",
+     "notes": {
+      "A": "No.",
+      "B": "Reversed.",
+      "D": "No.",
+      "E": "No."
+     },
+     "difficulty": "easy"
+    },
+    {
+     "id": "ana-mic-sa-g-71",
+     "topicId": "g-intro",
+     "subtopic": "",
+     "stem": "Oophorectomy and hysterectomy refer to surgical removal of the",
+     "type": "single-best",
+     "options": [
+      {
+       "label": "A",
+       "text": "Ovaries and hymen"
+      },
+      {
+       "label": "B",
+       "text": "Ovaries and a huge fibroid"
+      },
+      {
+       "label": "C",
+       "text": "Ovaries and uterus"
+      },
+      {
+       "label": "D",
+       "text": "Uterus and ovaries"
+      },
+      {
+       "label": "E",
+       "text": "Ovaries and hydatiform mole"
+      }
+     ],
+     "correctAnswer": "C",
+     "why": "",
+     "notes": {
+      "A": "Hymen.",
+      "B": "No.",
+      "D": "Reversed.",
+      "E": "No."
+     },
+     "difficulty": "easy"
+    },
+    {
+     "id": "ana-mic-sa-g-72",
+     "topicId": "g-intro",
+     "subtopic": "",
+     "stem": "About inflammatory conditions:",
+     "type": "true-false",
+     "options": [
+      {
+       "label": "A",
+       "text": "Arthritis is the inflammation or degeneration of the joints"
+      },
+      {
+       "label": "B",
+       "text": "Osteoarthritis is a degenerative condition that involves the articular cartilages and bones"
+      },
+      {
+       "label": "C",
+       "text": "Gout is joint inflammation caused by a deposition of urate salts in the synovial membranes"
+      },
+      {
+       "label": "D",
+       "text": "Orchitis is the inflammation of the epididymis and vas deferens"
+      },
+      {
+       "label": "E",
+       "text": "Colitis is the inflammation of the cones of the eye"
+      }
+     ],
+     "answerByOption": {
+      "A": "T",
+      "B": "T",
+      "C": "T",
+      "D": "F",
+      "E": "F"
+     },
+     "notes": {
+      "D": "Testis.",
+      "E": "The colon."
+     },
+     "difficulty": "medium"
+    },
+    {
+     "id": "ana-mic-sa-g-73",
+     "topicId": "g-intro",
+     "subtopic": "",
+     "stem": "Cholecystitis and Cystitis refer to inflammation of the:",
+     "type": "single-best",
+     "options": [
+      {
+       "label": "A",
+       "text": "Urinary bladder and uterine tube"
+      },
+      {
+       "label": "B",
+       "text": "Gallbladder and testis"
+      },
+      {
+       "label": "C",
+       "text": "Gallbladder and urinary bladder"
+      },
+      {
+       "label": "D",
+       "text": "Testis and uterine tube"
+      },
+      {
+       "label": "E",
+       "text": "Liver and urinary bladder"
+      }
+     ],
+     "correctAnswer": "C",
+     "why": "",
+     "notes": {
+      "A": "No.",
+      "B": "No.",
+      "D": "No.",
+      "E": "No."
+     },
+     "difficulty": "easy"
+    },
+    {
+     "id": "ana-mic-sa-g-105",
+     "topicId": "g-intro",
+     "subtopic": "",
+     "stem": "Functions of the urinary system include:",
+     "type": "true-false",
+     "options": [
+      {
+       "label": "A",
+       "text": "Eliminates nitrogenous waste"
+      },
+      {
+       "label": "B",
+       "text": "Maintains acid-base balance"
+      },
+      {
+       "label": "C",
+       "text": "Regulates water content of the body"
+      },
+      {
+       "label": "D",
+       "text": "Regulates various satts retained and or excreted"
+      },
+      {
+       "label": "E",
+       "text": "Deamination of proteins and the production of urea"
+      }
+     ],
+     "answerByOption": {
+      "A": "T",
+      "B": "T",
+      "C": "T",
+      "D": "T",
+      "E": "F"
+     },
+     "notes": {
+      "E": "The liver."
+     },
+     "difficulty": "medium"
+    },
+    {
+     "id": "ana-mic-sa-g-106",
+     "topicId": "g-intro",
+     "subtopic": "",
+     "stem": "Functions of the cardiovascular system include:",
+     "type": "true-false",
+     "options": [
+      {
+       "label": "A",
+       "text": "Transport of oxygen and carbon dioxide"
+      },
+      {
+       "label": "B",
+       "text": "Transport of nutrients and waste products"
+      },
+      {
+       "label": "C",
+       "text": "Breaks down bile"
+      },
+      {
+       "label": "D",
+       "text": "Deamination of proteins and the production of urea"
+      }
+     ],
+     "answerByOption": {
+      "A": "T",
+      "B": "T",
+      "C": "F",
+      "D": "F"
+     },
+     "notes": {
+      "C": "The liver makes bile.",
+      "D": "The liver."
+     },
+     "difficulty": "easy"
+    },
+    {
+     "id": "ana-mic-sa-g-107",
+     "topicId": "g-intro",
+     "subtopic": "",
+     "stem": "Functions of the nervous system include:",
+     "type": "true-false",
+     "options": [
+      {
+       "label": "A",
+       "text": "Responds to internal and external changes"
+      },
+      {
+       "label": "B",
+       "text": "Regulates processes such as growth and reproduction"
+      },
+      {
+       "label": "C",
+       "text": "Transport of hormones and regulation of water content of the body"
+      },
+      {
+       "label": "D",
+       "text": "Maintenance of the extracellular fluid volume"
+      }
+     ],
+     "answerByOption": {
+      "A": "T",
+      "B": "T",
+      "C": "F",
+      "D": "F"
+     },
+     "notes": {
+      "C": "Cardiovascular.",
+      "D": "Kidneys."
+     },
+     "difficulty": "easy"
+    },
+    {
+     "id": "ana-mic-sa-g-108",
+     "topicId": "g-intro",
+     "subtopic": "",
+     "stem": "The nervous system:",
+     "type": "true-false",
+     "options": [
+      {
+       "label": "A",
+       "text": "Can be divided into 2 principal parts; central nervous system and peripheral nervous system"
+      },
+      {
+       "label": "B",
+       "text": "The peripheral nervous system consists of the cranial and spinal nerves"
+      },
+      {
+       "label": "C",
+       "text": "The central nervous system consists of the brain and spinal cord which is the integrating and command centre"
+      },
+      {
+       "label": "D",
+       "text": "There are 12 pairs of cranial nerves and 35 pairs of spinal nerves"
+      }
+     ],
+     "answerByOption": {
+      "A": "T",
+      "B": "T",
+      "C": "T",
+      "D": "F"
+     },
+     "notes": {
+      "D": "31 pairs of spinal nerves."
+     },
+     "difficulty": "easy"
+    },
+    {
      "id": "ana-sa-d-83",
      "type": "true-false",
      "stem": "Long bones are a site of:",
@@ -20939,6 +21588,497 @@
      "topicId": "g-bones",
      "subtopic": "",
      "difficulty": "easy"
+    },
+    {
+     "id": "ana-mic-sa-e-15",
+     "topicId": "g-bones",
+     "subtopic": "",
+     "stem": "About the appendicular skeleton:",
+     "type": "true-false",
+     "options": [
+      {
+       "label": "A",
+       "text": "Each upper extremity (upper limb) consists of a proximal humerus within the arm"
+      },
+      {
+       "label": "B",
+       "text": "Each upper extremity has an ulna and tibia within the forearm"
+      },
+      {
+       "label": "C",
+       "text": "The carpal bones are wrist bones and the metacarpal and phalangeal bones are bones of the hand"
+      },
+      {
+       "label": "D",
+       "text": "Each lower extremity (lower limb) consists of a proximal tibia within the thigh"
+      },
+      {
+       "label": "E",
+       "text": "Metatarsal bones form the ankle whereas tarsal and phalangeal bones form the skeleton of the foot"
+      }
+     ],
+     "answerByOption": {
+      "A": "T",
+      "B": "F",
+      "C": "T",
+      "D": "F",
+      "E": "F"
+     },
+     "notes": {
+      "B": "Ulna and radius.",
+      "D": "The femur.",
+      "E": "Tarsals form the ankle."
+     },
+     "difficulty": "medium"
+    },
+    {
+     "id": "ana-mic-sa-e-16",
+     "topicId": "g-bones",
+     "subtopic": "",
+     "stem": "About the radius:",
+     "type": "true-false",
+     "options": [
+      {
+       "label": "A",
+       "text": "It is the longer and more lateral bone of the forearm"
+      },
+      {
+       "label": "B",
+       "text": "It articulates with the carpus proximally and the ulna medially"
+      },
+      {
+       "label": "C",
+       "text": "The proximal end consists of a head, neck and tuberosity"
+      },
+      {
+       "label": "D",
+       "text": "The distal end is expanded and bears a pointed process known as the styloid process"
+      },
+      {
+       "label": "E",
+       "text": "The styloid process is located laterally and distally"
+      }
+     ],
+     "answerByOption": {
+      "A": "F",
+      "B": "F",
+      "C": "T",
+      "D": "T",
+      "E": "T"
+     },
+     "notes": {
+      "A": "Lateral but shorter than the ulna.",
+      "B": "It meets the carpus distally."
+     },
+     "difficulty": "medium"
+    },
+    {
+     "id": "ana-mic-sa-e-30",
+     "topicId": "g-bones",
+     "subtopic": "",
+     "stem": "About the bony girdles:",
+     "type": "true-false",
+     "options": [
+      {
+       "label": "A",
+       "text": "The pelvic girdle is formed by 2 hip bones united anteriorly by the symphysis pubis"
+      },
+      {
+       "label": "B",
+       "text": "The hip bones are united posteriorly by the lumbar vertebrae"
+      },
+      {
+       "label": "C",
+       "text": "The pelvic girdle protects the lower viscera within the pelvic cavity"
+      },
+      {
+       "label": "D",
+       "text": "The primary function of the pectoral girdle is to provide attachment for the muscles that move the upper limb"
+      },
+      {
+       "label": "E",
+       "text": "The scapulae, clavicles and sternum constitute the pectoral girdle"
+      }
+     ],
+     "answerByOption": {
+      "A": "T",
+      "B": "F",
+      "C": "T",
+      "D": "T",
+      "E": "F"
+     },
+     "notes": {
+      "B": "By the sacrum.",
+      "E": "The sternum is not part of it."
+     },
+     "difficulty": "medium"
+    },
+    {
+     "id": "ana-mic-sa-e-31",
+     "topicId": "g-bones",
+     "subtopic": "",
+     "stem": "The tibia:",
+     "type": "true-false",
+     "options": [
+      {
+       "label": "A",
+       "text": "Is located on the anterior and medial side of the leg"
+      },
+      {
+       "label": "B",
+       "text": "Its larger expanded end is distal"
+      },
+      {
+       "label": "C",
+       "text": "The proximal end bears a prologation that is medial"
+      },
+      {
+       "label": "D",
+       "text": "The distal end bears a prologation that is medial"
+      },
+      {
+       "label": "E",
+       "text": "It is a short, irregular bone"
+      }
+     ],
+     "answerByOption": {
+      "A": "T",
+      "B": "F",
+      "C": "F",
+      "D": "T",
+      "E": "F"
+     },
+     "notes": {
+      "B": "The proximal end is larger.",
+      "C": "No prolongation there.",
+      "D": "Medial malleolus.",
+      "E": "A long bone."
+     },
+     "difficulty": "medium"
+    },
+    {
+     "id": "ana-mic-sa-e-38",
+     "topicId": "g-bones",
+     "subtopic": "",
+     "stem": "Kyphosis is:",
+     "type": "true-false",
+     "options": [
+      {
+       "label": "A",
+       "text": "An exaggerated inward curvature of the lumbar region of the spine just above the sacrum"
+      },
+      {
+       "label": "B",
+       "text": "An abnormal lateral curvature of the vertebral column"
+      },
+      {
+       "label": "C",
+       "text": "An exaggerated thoracic curvature"
+      },
+      {
+       "label": "D",
+       "text": "Also known as “swayback” and is particularly common in aged women as a result of spinal fractures that follow osteoporosis"
+      },
+      {
+       "label": "E",
+       "text": "Also known as “hunchback”"
+      }
+     ],
+     "answerByOption": {
+      "A": "F",
+      "B": "F",
+      "C": "T",
+      "D": "F",
+      "E": "T"
+     },
+     "notes": {
+      "A": "Lordosis.",
+      "B": "Scoliosis.",
+      "D": "Lordosis (sway back)."
+     },
+     "difficulty": "medium"
+    },
+    {
+     "id": "ana-mic-sa-e-42",
+     "topicId": "g-bones",
+     "subtopic": "",
+     "stem": "The calvaria:",
+     "type": "true-false",
+     "options": [
+      {
+       "label": "A",
+       "text": "Is also known as the skullcap"
+      },
+      {
+       "label": "B",
+       "text": "Consists of the occipital, parietal and frontal bones"
+      },
+      {
+       "label": "C",
+       "text": "Consists of the occipital, parietal, maxillary, temporal and frontal bones"
+      },
+      {
+       "label": "D",
+       "text": "Bears fibrous areas known as fontanelles in the infant"
+      },
+      {
+       "label": "E",
+       "text": "Consists of the occipital, palatine and frontal bones"
+      }
+     ],
+     "answerByOption": {
+      "A": "T",
+      "B": "T",
+      "C": "F",
+      "D": "T",
+      "E": "F"
+     },
+     "notes": {
+      "C": "Maxilla is facial.",
+      "E": "Palatine is facial."
+     },
+     "difficulty": "medium"
+    },
+    {
+     "id": "ana-mic-sa-e-44",
+     "topicId": "g-bones",
+     "subtopic": "",
+     "stem": "Sex differences in the skeleton:",
+     "type": "true-false",
+     "options": [
+      {
+       "label": "A",
+       "text": "The mandible is larger and more robust in the male"
+      },
+      {
+       "label": "B",
+       "text": "Male bones are heavier with prominent bone markings"
+      },
+      {
+       "label": "C",
+       "text": "The female pelvis is broader with a heart-shaped inlet and relatively deep for childbearing"
+      }
+     ],
+     "answerByOption": {
+      "A": "T",
+      "B": "T",
+      "C": "F"
+     },
+     "notes": {
+      "C": "The female inlet is oval; heart-shaped is male, and the female pelvis is shallow."
+     },
+     "difficulty": "easy"
+    },
+    {
+     "id": "ana-mic-sa-e-82",
+     "topicId": "g-bones",
+     "subtopic": "",
+     "stem": "Functions of the skeletal system include:",
+     "type": "true-false",
+     "options": [
+      {
+       "label": "A",
+       "text": "Support and attachment of muscles only"
+      },
+      {
+       "label": "B",
+       "text": "Body movement, production of lymphocytes"
+      },
+      {
+       "label": "C",
+       "text": "Protection, production of blood cells and filtration of blood"
+      },
+      {
+       "label": "D",
+       "text": "Haematopoiesis, calcium storage, and support"
+      },
+      {
+       "label": "E",
+       "text": "Mineral storage"
+      }
+     ],
+     "answerByOption": {
+      "A": "F",
+      "B": "T",
+      "C": "F",
+      "D": "T",
+      "E": "T"
+     },
+     "notes": {
+      "A": "More than that.",
+      "B": "Marrow makes lymphocytes.",
+      "C": "The spleen filters blood."
+     },
+     "difficulty": "medium"
+    },
+    {
+     "id": "ana-mic-sa-e-120",
+     "topicId": "g-bones",
+     "subtopic": "",
+     "stem": "The sacrum:",
+     "type": "true-false",
+     "options": [
+      {
+       "label": "A",
+       "text": "Is located on the posterior aspect of the pelvis"
+      },
+      {
+       "label": "B",
+       "text": "Is curved and triangular"
+      },
+      {
+       "label": "C",
+       "text": "Articulates with L5 superiorly and the coccyx inferiorly"
+      },
+      {
+       "label": "D",
+       "text": "Its alae articulate with the two hip bones"
+      },
+      {
+       "label": "E",
+       "text": "Consists of six sacral vertebrae and four anterior foramina"
+      }
+     ],
+     "answerByOption": {
+      "A": "T",
+      "B": "T",
+      "C": "T",
+      "D": "T",
+      "E": "F"
+     },
+     "notes": {
+      "D": "Its lateral auricular surfaces meet the hip bones.",
+      "E": "Five fused vertebrae."
+     },
+     "difficulty": "medium"
+    },
+    {
+     "id": "ana-mic-sa-g-19",
+     "topicId": "g-bones",
+     "subtopic": "",
+     "stem": "The patella:",
+     "type": "true-false",
+     "options": [
+      {
+       "label": "A",
+       "text": "Is a sesamoid bone that articulates with the femur, tibia and fibula"
+      },
+      {
+       "label": "B",
+       "text": "Protects the knee joint anteriorly"
+      },
+      {
+       "label": "C",
+       "text": "Enclosed in the tendon that secures the anterior muscles of the thigh to the tibia"
+      },
+      {
+       "label": "D",
+       "text": "Has an apex that is directed superiorly and a base that is inferior"
+      },
+      {
+       "label": "E",
+       "text": "Is a short bone"
+      }
+     ],
+     "answerByOption": {
+      "A": "F",
+      "B": "T",
+      "C": "T",
+      "D": "F",
+      "E": "F"
+     },
+     "notes": {
+      "A": "Femur only.",
+      "C": "Quadriceps tendon.",
+      "D": "Apex points down.",
+      "E": "Sesamoid."
+     },
+     "difficulty": "medium"
+    },
+    {
+     "id": "ana-mic-sa-g-20",
+     "topicId": "g-bones",
+     "subtopic": "",
+     "stem": "The foot:",
+     "type": "true-false",
+     "options": [
+      {
+       "label": "A",
+       "text": "Consists of the tarsals, metacarpals and phalanges"
+      },
+      {
+       "label": "B",
+       "text": "Consists of tarsal bones with the calcaneus being the largest"
+      },
+      {
+       "label": "C",
+       "text": "Has 3 arches; medial longitudinal arch, lateral longitudinal arch and intermediate arch"
+      },
+      {
+       "label": "D",
+       "text": "It has 7 tarsal bones, 5 metatarsal bones and 12 phalanges"
+      },
+      {
+       "label": "E",
+       "text": "It has 3 cuneiforms superior, inferior and intermediate cuneiforms"
+      }
+     ],
+     "answerByOption": {
+      "A": "F",
+      "B": "T",
+      "C": "F",
+      "D": "F",
+      "E": "F"
+     },
+     "notes": {
+      "A": "Metatarsals.",
+      "C": "Medial, lateral longitudinal and transverse.",
+      "D": "14 phalanges.",
+      "E": "Medial, intermediate, lateral."
+     },
+     "difficulty": "medium"
+    },
+    {
+     "id": "ana-mic-sa-g-58",
+     "topicId": "g-bones",
+     "subtopic": "",
+     "stem": "The ulna:",
+     "type": "true-false",
+     "options": [
+      {
+       "label": "A",
+       "text": "The ulna is the longer and more lateral bone of the forearm"
+      },
+      {
+       "label": "B",
+       "text": "It articulates with the humerus proximally and the radius laterally"
+      },
+      {
+       "label": "C",
+       "text": "The proximal end includes the olecranon, the trochlear notch and the radial notch"
+      },
+      {
+       "label": "D",
+       "text": "The distal end includes the the head and the styloid process"
+      },
+      {
+       "label": "E",
+       "text": "The ulna is the shorter and more medial bone of the forearm"
+      }
+     ],
+     "answerByOption": {
+      "A": "F",
+      "B": "T",
+      "C": "T",
+      "D": "T",
+      "E": "F"
+     },
+     "notes": {
+      "A": "Medial.",
+      "E": "Longer."
+     },
+     "why": "The ulna is the longer, medial bone.",
+     "difficulty": "medium"
     },
     {
      "id": "ana-sa-d-90",
