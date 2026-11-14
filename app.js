@@ -119,7 +119,7 @@
     const data = { key, course, topics: [], past: [], curated: [] };
     for (const sys of course.systems || []) {
       const topics = sys.topics ? await getJSON(sys.topics) : [];
-      topics.sort((a, b) => (a.order || 0) - (b.order || 0)).forEach(t => data.topics.push({ id: t.id, title: t.title, short: t.short || t.title, tag: t.tag || '', sys: sys.id, sysTitle: sys.title }));
+      topics.sort((a, b) => (a.order || 0) - (b.order || 0)).forEach(t => { if (course.onlyTag && t.tag !== course.onlyTag) return; data.topics.push({ id: t.id, title: t.title, short: t.short || t.title, tag: course.onlyTag ? '' : (t.tag || ''), sys: sys.id, sysTitle: sys.title }); });
       for (const f of sys.past || []) {
         const j = await getJSON(f);
         (j.sets || []).forEach(set => (set.questions || []).forEach(q => data.past.push(normPast(q, sys.id))));
@@ -130,6 +130,7 @@
       }
     }
     const known = new Set(data.topics.map(t => t.id));
+    if (course.onlyTag) { data.past = data.past.filter(q => known.has(q.topic)); data.curated = data.curated.filter(q => known.has(q.topic)); }
     [...data.past, ...data.curated].forEach(q => { if (!known.has(q.topic)) { q.topic = 'other-' + q.sys; } });
     (course.systems || []).forEach(sys => {
       if ([...data.past, ...data.curated].some(q => q.topic === 'other-' + sys.id)) data.topics.push({ id: 'other-' + sys.id, title: 'Other ' + sys.title + ' questions', short: 'Other', sys: sys.id, sysTitle: sys.title });

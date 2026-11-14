@@ -5,7 +5,7 @@
       "id": "hb1",
       "title": "HB1",
       "subtitle": "First years",
-      "status": "soon",
+      "status": "live",
       "semesters": [
         {
           "id": "sem1",
@@ -15,7 +15,35 @@
         {
           "id": "sem2",
           "title": "Second semester",
-          "courses": []
+          "courses": [
+            {
+              "id": "anatomy",
+              "title": "Anatomy",
+              "icon": "bone",
+              "status": "live",
+              "systems": [
+                {
+                  "id": "gross",
+                  "title": "Gross anatomy",
+                  "topics": "data/anatomy/gross-topics.json",
+                  "past": [
+                    "data/anatomy/gross-past.json"
+                  ],
+                  "curated": []
+                },
+                {
+                  "id": "embryo",
+                  "title": "Developmental anatomy",
+                  "topics": "data/anatomy/embryo-topics.json",
+                  "past": [
+                    "data/anatomy/embryo-past.json"
+                  ],
+                  "curated": []
+                }
+              ],
+              "onlyTag": "HB1"
+            }
+          ]
         }
       ]
     },
@@ -129,6 +157,15 @@
               "topics": "data/anatomy/gross-topics.json",
               "past": [
                 "data/anatomy/gross-past.json"
+              ],
+              "curated": []
+            },
+            {
+              "id": "embryo",
+              "title": "Developmental anatomy",
+              "topics": "data/anatomy/embryo-topics.json",
+              "past": [
+                "data/anatomy/embryo-past.json"
               ],
               "curated": []
             }
