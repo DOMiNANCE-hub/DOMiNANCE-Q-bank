@@ -119,7 +119,7 @@
     const data = { key, course, topics: [], past: [], curated: [] };
     for (const sys of course.systems || []) {
       const topics = sys.topics ? await getJSON(sys.topics) : [];
-      topics.sort((a, b) => (a.order || 0) - (b.order || 0)).forEach(t => data.topics.push({ id: t.id, title: t.title, short: t.short || t.title, sys: sys.id, sysTitle: sys.title }));
+      topics.sort((a, b) => (a.order || 0) - (b.order || 0)).forEach(t => data.topics.push({ id: t.id, title: t.title, short: t.short || t.title, tag: t.tag || '', sys: sys.id, sysTitle: sys.title }));
       for (const f of sys.past || []) {
         const j = await getJSON(f);
         (j.sets || []).forEach(set => (set.questions || []).forEach(q => data.past.push(normPast(q, sys.id))));
@@ -278,7 +278,7 @@
       const list = cur ? cur.topics : topics;
       const all = list.every(t => sel.has(t.id));
       html = '<div class="folders" role="group" aria-label="Topics"><button class="folder all" data-a="topicall"' + (cur ? ' data-sys="' + esc(cur.id) + '"' : '') + ' aria-pressed="' + all + '"><span class="tick">' + I.check + '</span><span class="fi">' + I.folders + '</span><span class="ft">' + (cur ? 'All ' + esc(cur.title) : 'All topics') + '</span><span class="fc">' + qn(sum(list)) + '</span></button>' +
-        list.map(t => '<button class="folder" data-a="topic" data-id="' + esc(t.id) + '" aria-pressed="' + sel.has(t.id) + '"><span class="tick">' + I.check + '</span><span class="fi">' + I.folder + '</span><span class="ft">' + esc(t.title) + '</span><span class="fc">' + qn(counts[t.id]) + '</span></button>').join('') + '</div>';
+        list.map((t, i) => (t.tag && (i === 0 || !list[i - 1].tag) ? '</div><div class="syshead">From ' + esc(t.tag) + '</div><div class="folders" role="group">' : '') + '<button class="folder" data-a="topic" data-id="' + esc(t.id) + '" aria-pressed="' + sel.has(t.id) + '"><span class="tick">' + I.check + '</span><span class="fi">' + I.folder + '</span><span class="ft">' + esc(t.title) + '</span><span class="fc">' + qn(counts[t.id]) + '</span></button>').join('') + '</div>';
       head = cur ? crumbs(trail(r, 'sys')) + '<h1>' + esc(cur.title) + '</h1>' : crumbs(trail(r, 'topics')) + '<h1>' + COLL[r.coll] + '</h1>';
       lead = 'Tap to pick one or more topics.';
     }

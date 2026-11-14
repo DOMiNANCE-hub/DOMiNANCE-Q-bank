@@ -121,8 +121,18 @@
           "id": "anatomy",
           "title": "Anatomy",
           "icon": "bone",
-          "status": "soon",
-          "systems": []
+          "status": "live",
+          "systems": [
+            {
+              "id": "gross",
+              "title": "Gross anatomy",
+              "topics": "data/anatomy/gross-topics.json",
+              "past": [
+                "data/anatomy/gross-past.json"
+              ],
+              "curated": []
+            }
+          ]
         }
       ]
     },
