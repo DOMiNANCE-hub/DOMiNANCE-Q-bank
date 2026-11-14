@@ -1,0 +1,47 @@
+{
+  "_note": "Site structure: years → (semesters for HB1) → courses → systems. A course with status 'soon' shows as Coming soon. Each live system lists its topic file and question files for both collections.",
+  "years": [
+    {
+      "id": "hb1",
+      "title": "HB1",
+      "subtitle": "First years",
+      "status": "soon",
+      "semesters": [
+        { "id": "sem1", "title": "First semester", "courses": [] },
+        { "id": "sem2", "title": "Second semester", "courses": [] }
+      ]
+    },
+    {
+      "id": "hb2",
+      "title": "HB2",
+      "subtitle": "Second years",
+      "status": "live",
+      "courses": [
+        {
+          "id": "physiology",
+          "title": "Physiology",
+          "icon": "heart",
+          "status": "live",
+          "systems": [
+            {
+              "id": "cvs",
+              "title": "Cardiovascular",
+              "topics": "data/topics.json",
+              "past": ["data/past-questions.json"],
+              "curated": ["data/mock-01-60q.json", "data/mock-02-60q.json", "data/mock-03-60q.json"]
+            }
+          ]
+        },
+        { "id": "biochemistry", "title": "Biochemistry", "icon": "flask", "status": "soon", "systems": [] },
+        { "id": "anatomy", "title": "Anatomy", "icon": "bone", "status": "soon", "systems": [] }
+      ]
+    },
+    {
+      "id": "hb3",
+      "title": "HB3",
+      "subtitle": "Third years",
+      "status": "soon",
+      "courses": []
+    }
+  ]
+}

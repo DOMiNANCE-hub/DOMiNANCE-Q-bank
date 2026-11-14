@@ -1,51 +1,47 @@
-# DOMiNANCE Question Bank
+# DOMiNANCE Q Bank
 
-This is a **three-course examination platform**, not a CVS-only website.
+A static, mobile-first question bank for KNUST medical students (HB1, HB2 and HB3), with past questions and DOMiNANCE-curated questions sorted by topic.
 
-## Student navigation
+## Student flow
 
-`Question Bank → Anatomy / Biochemistry / Physiology → Physiology: CVS → Past Questions / Mock Questions → Solve by Set/Mock OR Solve by Topic/Subtopic → Quiz Setup → Quiz → Results`
+`Home (choose year) → HB1: semester / HB2, HB3: courses → Course → Past questions or Curated by DOMiNANCE → Topic folders (pick one or more) → Setup → Quiz → Results → Review`
 
-- **Anatomy:** coming-soon course placeholder.
-- **Biochemistry:** coming-soon course placeholder.
-- **Physiology:** currently offers **Cardiovascular Physiology (CVS)**.
-- Under CVS, the **Past Questions** collection is labelled **Compiled Past Questions**. The separate **Mock Questions** collection is labelled **Curated by DOMiNANCE**.
-- Each collection has **two routes**: Solve by Set/Mock, or Solve by Topic/Subtopic. No separate global Practice by Topic tab is shown. Topic/subtopic filtering retains the selected question source and never mixes past questions with curated mocks.
-- **Timers are optional in every mode.** Quiz Setup defaults to **No timer** for all sets, including the full 60-question mocks. Students can opt into any displayed duration, including the traditional 90-minute full mock.
-- Practice and Exam modes, question navigation, submitted results, question explanations, flags, saved attempts and light/dark themes are preserved.
+- **Home** shows HB1, HB2 and HB3. Only live years open; others show "Soon". The chosen year is remembered and opens directly on the next visit (with a "Change year" link).
+- **Both collections are by topic only.** There are no full papers or subtopic pickers. Collections are never mixed in one quiz.
+- **Topic folders** are grouped under system headings (e.g. Cardiovascular). Tap to tick one or more; a bottom bar shows the running total and a Continue button. An "All topics" tile selects everything.
+- **Setup** (one screen): question count (All, 10, 20, 50 — only sizes smaller than the pool appear — or Custom), marking (Mark as you go, with "When I tap Check" or "As soon as I tap"; or Submit at the end), timer (Off, Auto at 1 minute per question, or Custom minutes), and the **DMC XPO** tick in the corner.
+- **Quiz:** options are shuffled each attempt (statements too for true/false), except questions whose options refer to each other ("all of the above", combinations) or whose explanations need fixed letters (`lockOrder: true` in the data). Explanation letters are remapped to the shuffled order automatically. Navigator, flags, swipe left/right, and A–E/arrow/Enter keys on laptops.
+- **Timer:** warning at 1 minute left. In Submit at the end it auto-submits at zero; in Mark as you go it shows "Time's up" and lets the student continue.
+- **Exit** opens a dialog with "Save my progress" (ticked by default). Each course keeps one saved quiz, shown as a Resume card on Home, the year page and the course page.
+- **Results:** score, correct/wrong/unanswered marks, time, longest streak, a by-topic breakdown, Review answers (filter All/Wrong/Flagged), Retry wrong ones, and Go to Setup / Topics / Home. Recent scores appear on the course page.
 
+## DMC XPO (DOMiNANCE EXPERIENCE)
 
----
-A responsive study and exam-practice hub for Cardiovascular Physiology.
+Optional, on by default, toggled on the setup screen:
 
-## Student-facing collections
+- Green pulse on a right answer; card shake (and a short vibration on Android) on a wrong one.
+- "🔥 N in a row" streak badge from 3 correct in a row.
+- Gold flash and mini confetti for a correct **hard** question; a gentle tease for a wrong **easy** one.
+- Floating comments (English and pidgin) for streaks, hard/easy reactions, wrong runs, halfway and the last question, at most about one every three questions, never repeated within a quiz.
+- Confetti on results at 80% and above (bigger at 100%).
+- Effects respect the device's reduce-motion setting.
 
-1. **Past Questions — Compiled Past Questions.** Three separately identified sets, 196 original question stems in total, with original numbering, true/false items where relevant, and qualified answer keys.
-2. **Mock Questions — Curated by DOMiNANCE.** Three complete exams (Mock 01, 02 and 03), **60 four-option single-best-answer MCQs each, 90 minutes per full mock**, for 180 mock questions total.
-3. **Practice by Topic.** Choose among cardiovascular physiology topics aligned to the 27 chapters in DOMiNANCE Breakdowns. On Quiz Setup, choose a **subtopic**, a **question source** (past questions / mocks / both), practice or exam mode, question count, and timer.
-
-The original mock papers are preserved as full-paper sets. Topic practice makes filtered copies in the quiz session and keeps each question's original paper and question number.
+Comment lines live in `data/comments.json`, grouped by moment. Edit or add lines there without touching code.
 
 ## Data layout
 
-- `data/past-questions.json` — earlier cleaned combined past-question sets. Some defective or ambiguous answers are flagged and not automatically counted against students. Every past question (196/196) now carries an `explanation` (why the key is right and why each other option is wrong; statement-by-statement for true/false items). Line breaks in explanations are rendered as separate lines. Defective or disputed items (24 in total) were rewritten by DOMiNANCE and carry a `revisionNote` shown to students as "DOMiNANCE revision"; every past question is now scoreable. Each past question also carries a hand-assigned `topicId` and `subtopic` (matching `data/topics.json`), so topic practice no longer relies on keyword guessing; `classifyPast` remains only as a fallback for untagged items.
-- `data/mock-01-60q.json`, `mock-02-60q.json`, `mock-03-60q.json` — the **complete current 60-question mock papers** with correct answers, explanations, topic and subtopic tags, sourced from the November 9, 2026 online editions.
-- `data/topics.json` — 27 topic labels and ordering from the DOMiNANCE Breakdowns CVS topic map.
+- `data/catalog.json` — years → (semesters for HB1) → courses → systems, with each system's topic file and question files. Set a course's `status` to `live` to show it.
+- `data/topics.json` — the 27 CVS topics and their order.
+- `data/past-questions.json` — 196 past questions (3 sets). Every question has an explanation, a hand-assigned `topicId`/`subtopic`, and a hidden `difficulty` (easy/medium/hard). Items DOMiNANCE corrected carry a `revisionNote`, shown as "DOMiNANCE revision".
+- `data/mock-01-60q.json`, `mock-02-60q.json`, `mock-03-60q.json` — 180 curated questions used as the **Curated by DOMiNANCE** topic pool (no longer offered as full papers), also with hidden `difficulty`.
+- `data/comments.json` — DMC XPO comment lines.
 
-The prior `data/mocks-02-to-04.json` holds **retired 40-question simulations** and is not loaded by the application. The earlier placeholder `data/mocks-01-to-03-60q.json` is also not loaded. Do not re-enable either in the student interface.
+`difficulty` is only used for reactions and is never displayed to students.
 
-## Features
+## Browser storage keys
 
-- Student-first mobile design with DOMiNANCE royal blue, deep navy, gold, and white, in light and dark themes
-- Paper selection, topic search, subtopic and source filters, customizable quiz setup
-- Exam mode hides answers until submission; practice mode offers answer checking
-- Timer, navigator, flags, resume from browser storage, scoring and answer review
-- Source qualification safeguards and no senior names in student-facing UI
+`dq.year`, `dq.theme`, `dq.setup`, `dq.sel.<course>.<collection>` (last ticked topics), `dq.save.<course>` (saved quiz), `dq.hist.<course>` (recent scores). Everything stays on the student's device.
 
 ## Running and deployment
 
-This is a static HTML/CSS/JavaScript app. Serve the repository root over HTTP (e.g. `python -m http.server 8000`); do not open `index.html` directly because quiz JSON is fetched with `fetch()`. In Vercel, use the **Other** (no framework) preset, the repository root as output directory, and no build command. Connect the GitHub repository to trigger deployments on changes to `main`.
-
-## Editorial note
-
-The 60-question exam papers and answer guides are imported from the supplied DOMiNANCE online edition PDFs. Mock topic/subtopic tags were added for navigation without changing question text or options. Past-question topic assignments are heuristic and should be reviewed for accuracy as the bank grows.
+Static HTML/CSS/JS with no build step. Serve the repository root over HTTP (e.g. `python -m http.server 8000`); opening `index.html` directly won't work because data is loaded with `fetch()`. On Vercel use the **Other** preset, the repository root as output directory, and no build command.
