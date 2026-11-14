@@ -3500,7 +3500,8 @@
   },
   "bio-422": {
    "sourceId": 422,
-   "originalExplanation": "This block tests matching enzymes to their specific reactions."
+   "originalExplanation": "This block tests matching enzymes to their specific reactions.",
+   "revisionNote": "Key changed to False: uroporphyrinogen decarboxylase acts on the four ACETATE side chains; the propionates are handled later by coproporphyrinogen oxidase."
   },
   "bio-423": {
    "sourceId": 423,
@@ -3532,7 +3533,8 @@
   },
   "bio-430": {
    "sourceId": 430,
-   "originalExplanation": "This block tests ion-channel therapies for sickle cell."
+   "originalExplanation": "This block tests ion-channel therapies for sickle cell.",
+   "revisionNote": "Key changed to False: raising HbF is the action of hydroxyurea-type agents, not of ion channel-active drugs, which act by changing red cell volume."
   },
   "bio-431": {
    "sourceId": 431,
@@ -3612,7 +3614,8 @@
   },
   "bio-454": {
    "sourceId": 454,
-   "originalExplanation": "The transcript (mRNA) is complementary and antiparallel to the DNA template strand. RNA uses Uracil instead of Thymine. So 5'-ATG-3' becomes 5'-CAU-3'."
+   "originalExplanation": "The transcript (mRNA) is complementary and antiparallel to the DNA template strand. RNA uses Uracil instead of Thymine. So 5'-ATG-3' becomes 5'-CAU-3'.",
+   "revisionNote": "Option C changed: it was 3'-UAC-5', which is the same correct transcript written backwards."
   },
   "bio-456": {
    "sourceId": 456,

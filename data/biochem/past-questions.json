@@ -34,7 +34,13 @@
           "why": "Statins are structural analogs of HMG-CoA. They competitively inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol biosynthesis.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "AMPK inactivates the reductase by phosphorylation; it is not the statin target.",
+            "C": "AMPK kinase activates AMPK; statins do not act on it.",
+            "D": "The phosphatase reactivates the reductase; statins do not bind it.",
+            "E": "PKA works through hormone signalling, not as the statin target."
+          }
         },
         {
           "id": "bio-002",
@@ -66,7 +72,13 @@
           "why": "AMPK acts as a cellular energy sensor. When cellular energy is low, it phosphorylates HMG-CoA reductase, which inactivates the enzyme.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "The enzyme cannot inactivate itself.",
+            "C": "AMPK kinase activates AMPK, which then acts on the reductase; it does not act directly.",
+            "D": "The phosphatase removes the phosphate and so ACTIVATES the reductase.",
+            "E": "PKA acts indirectly, by inhibiting the phosphatase; AMPK is the direct inactivator."
+          }
         },
         {
           "id": "bio-003",
@@ -98,7 +110,13 @@
           "why": "Upstream kinases (such as LKB1 or CaMKKβ) phosphorylate AMPK to activate it.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "HMG-CoA reductase is the end target, not an activator of AMPK.",
+            "B": "AMPK cannot activate itself; an upstream kinase phosphorylates it.",
+            "D": "The phosphatase acts on the reductase, not on AMPK.",
+            "E": "PKA is not the activator of AMPK."
+          }
         },
         {
           "id": "bio-004",
@@ -130,7 +148,13 @@
           "why": "Glucagon/epinephrine increases cAMP, which activates PKA. PKA initiates a cascade that keeps HMG-CoA reductase phosphorylated and inactive.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "The reductase is the target being inactivated, not the mediator.",
+            "B": "AMPK responds to low energy (AMP), not to cAMP.",
+            "C": "AMPK kinase is not activated by cAMP.",
+            "D": "The phosphatase is what PKA switches off; it does not carry the cAMP signal itself."
+          }
         },
         {
           "id": "bio-005",
@@ -162,7 +186,13 @@
           "why": "Acetyl-CoA carboxylase (ACC) catalyzes the committed, rate-limiting step of fatty acid synthesis.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "The condensation is a later step and not the controlled one.",
+            "B": "Acetyl-CoA comes from citrate (ATP-citrate lyase), and that is not the rate-limiting step.",
+            "C": "Malonyl-CoA is made by carboxylating acetyl-CoA, not from malonate.",
+            "E": "This reduction occurs inside fatty acid synthase and is not regulated."
+          }
         },
         {
           "id": "bio-006",
@@ -195,7 +225,13 @@
           "topicId": "lipids",
           "subtopic": "",
           "difficulty": "easy",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Plants also synthesise triacylglycerols (seed oils).",
+            "C": "With low carbohydrate intake, fat is broken down rather than made.",
+            "D": "Animals, including humans, make triacylglycerols.",
+            "E": "Option B is correct."
+          }
         },
         {
           "id": "bio-007",
@@ -227,7 +263,13 @@
           "why": "Insulin promotes lipogenesis (converting carbs to fat) and inhibits lipolysis.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Fat stores far more energy than glycogen.",
+            "C": "It is hormone-sensitive: insulin promotes it.",
+            "D": "Mammals readily convert excess carbohydrate to fat.",
+            "E": "Phosphatidate is a key intermediate of triacylglycerol synthesis."
+          }
         },
         {
           "id": "bio-008",
@@ -259,7 +301,13 @@
           "why": "Phospholipid synthesis involves CDP-activated intermediates, but not condensation of two CDP-linked molecules.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "This IS used, e.g. CDP-choline + DAG → phosphatidylcholine.",
+            "B": "This IS used, e.g. CDP-DAG + inositol → phosphatidylinositol.",
+            "D": "Head-group exchange IS used, e.g. serine exchange for ethanolamine.",
+            "E": "Head-group modification IS used, e.g. methylating PE to PC."
+          }
         },
         {
           "id": "bio-009",
@@ -291,7 +339,13 @@
           "why": "LDL delivers cholesterol to peripheral tissues via receptor-mediated endocytosis.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "IDL is mostly converted to LDL or taken up by the liver.",
+            "C": "HDL removes cholesterol from tissues (reverse transport).",
+            "D": "Chylomicrons carry dietary fat; their remnants go to the liver.",
+            "E": "VLDL mainly carries triglyceride and becomes LDL."
+          }
         },
         {
           "id": "bio-010",
@@ -323,7 +377,13 @@
           "why": "VLDL transports endogenously synthesized triglycerides from the liver.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Chylomicrons carry EXOGENOUS (dietary) triglyceride.",
+            "B": "LDL is cholesterol-rich, not triglyceride-rich.",
+            "D": "HDL carries little triglyceride.",
+            "E": "IDL is a partly emptied VLDL remnant."
+          }
         },
         {
           "id": "bio-011",
@@ -355,7 +415,13 @@
           "why": "All 27 carbons of cholesterol are derived from acetyl-CoA.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Acetate must first be activated to acetyl-CoA.",
+            "C": "Oxaloacetate is a TCA cycle intermediate, not the sterol precursor.",
+            "D": "Malate is a TCA cycle intermediate.",
+            "E": "Pyruvate is converted to acetyl-CoA first."
+          }
         },
         {
           "id": "bio-012",
@@ -387,7 +453,13 @@
           "why": "Cholecystokinin is a peptide hormone from the duodenum, made from amino acids. Bile acids (chenodeoxycholic and glycocholic acid), steroid hormones (testosterone) and vitamin D are all made from cholesterol.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "notes": {
+            "A": "Chenodeoxycholic acid is a primary bile acid made from cholesterol.",
+            "B": "Glycocholic acid is cholic acid (from cholesterol) conjugated with glycine.",
+            "C": "Testosterone is a steroid hormone made from cholesterol.",
+            "D": "Vitamin D3 is made from 7-dehydrocholesterol."
+          }
         },
         {
           "id": "bio-013",
@@ -419,7 +491,13 @@
           "why": "Non-fasting blood primarily reflects the presence of dietary chylomicrons.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "LDL changes little after a meal.",
+            "B": "VLDL is mainly of liver origin and changes little soon after a meal.",
+            "D": "IDL is a VLDL remnant and is not meal-dependent.",
+            "E": "Total cholesterol is not a lipoprotein and changes little after a meal."
+          }
         },
         {
           "id": "bio-014",
@@ -451,7 +529,13 @@
           "why": "Converting cholesterol to bile acids and excreting them in faeces is the body's main route for getting rid of excess cholesterol (sterol). Bile acids emulsify fats; they do not precipitate them, they do not promote plaques, they are needed FOR fat-soluble vitamin absorption, and they do not cause fatty liver.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Bile acids emulsify fats; they do not precipitate them.",
+            "B": "Bile acid loss lowers cholesterol, so it opposes plaque formation.",
+            "C": "Bile acids are needed FOR fat-soluble vitamin absorption.",
+            "D": "Bile acids do not cause fatty liver."
+          }
         },
         {
           "id": "bio-015",
@@ -479,7 +563,12 @@
           "why": "Type IIA is familial hypercholesterolemia, typically due to defective LDL receptors, preventing LDL clearance.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Overproduction of VLDL would raise triglycerides too (type IIb/IV).",
+            "C": "Raised HDL does not produce this picture.",
+            "D": "A block of VLDL → IDL conversion would raise triglycerides."
+          }
         },
         {
           "id": "bio-016",
@@ -511,7 +600,13 @@
           "why": "Statins lower intracellular cholesterol, causing cells to upregulate LDL receptors, which clears LDL from the blood.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Statins INCREASE LDL receptor numbers.",
+            "B": "Statins DECREASE de novo cholesterol synthesis.",
+            "C": "Less cholesterol in the cell means LESS ACAT activity.",
+            "E": "Statins do not raise triacylglycerols."
+          }
         },
         {
           "id": "bio-017",
@@ -544,7 +639,13 @@
           "topicId": "lipids",
           "subtopic": "",
           "difficulty": "easy",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "LDL is denser than VLDL, so it cannot come before it.",
+            "B": "HDL is the densest, so it cannot sit in the middle.",
+            "C": "VLDL is lighter than IDL, so this order is wrong.",
+            "D": "This is DECREASING density."
+          }
         },
         {
           "id": "bio-018",
@@ -577,7 +678,13 @@
           "topicId": "lipids",
           "subtopic": "",
           "difficulty": "hard",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Includes I, which is false, and leaves out IV, which is true.",
+            "B": "Includes I and II, which are false, and leaves out IV, which is true.",
+            "C": "Includes I and III, which are false, and leaves out IV, which is true.",
+            "E": "Includes I, II and III, which are false, and leaves out IV, which is true."
+          }
         },
         {
           "id": "bio-019",
@@ -609,7 +716,13 @@
           "why": "Acetyl-CoA: ACP transacylase transfers the acetyl group from Coenzyme A to the active site of the ACP.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "NADPH is a reducing agent, not a transferase.",
+            "B": "ACP is the carrier, not the enzyme that loads it.",
+            "C": "ACP is the carrier, not the enzyme that loads it.",
+            "D": "The reductase reduces the β-keto group; it does not transfer acetyl groups."
+          }
         },
         {
           "id": "bio-020",
@@ -641,7 +754,13 @@
           "why": "Malonyl-CoA: ACP transacylase transfers the malonyl group to the phosphopantetheine arm of the ACP.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "NADPH is a reducing agent, not a transferase.",
+            "B": "ACP is the carrier, not the enzyme that loads it.",
+            "C": "ACP is the carrier, not the enzyme that loads it.",
+            "D": "The reductase reduces the β-keto group; it does not transfer malonyl groups."
+          }
         },
         {
           "id": "bio-021",
@@ -673,7 +792,13 @@
           "why": "The condensation reaction joins the acetyl and malonyl groups, decarboxylating the malonyl group to release CO2. This is catalyzed by Keto Acyl: ACP synthase.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "ACP is a carrier, not an enzyme.",
+            "B": "ACP is a carrier, not an enzyme.",
+            "C": "The transacylase only loads malonyl onto ACP.",
+            "E": "Thioesterase releases the finished palmitate."
+          }
         },
         {
           "id": "bio-022",
@@ -706,7 +831,13 @@
           "topicId": "lipids",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II, which is also true.",
+            "C": "Includes III, which is false, and leaves out II, which is true.",
+            "D": "Includes IV, which is false, and leaves out I and II, which are true.",
+            "E": "Includes III, which is false."
+          }
         },
         {
           "id": "bio-023",
@@ -739,7 +870,13 @@
           "topicId": "lipids",
           "subtopic": "",
           "difficulty": "easy",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out III, which is also true.",
+            "B": "Includes II, which is false, and leaves out III, which is true.",
+            "D": "Includes IV, which is false, and leaves out I and III, which are true.",
+            "E": "Includes II, which is false."
+          }
         },
         {
           "id": "bio-024",
@@ -771,7 +908,13 @@
           "why": "NADPH provides the reducing power for the two reduction steps in fatty acid synthesis.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "ACP carries the chain; it donates no electrons.",
+            "C": "ACP carries the chain; it donates no electrons.",
+            "D": "The reductase uses NADPH; it is not itself the reducing agent.",
+            "E": "The transferase moves acyl groups; it does not reduce."
+          }
         },
         {
           "id": "bio-025",
@@ -803,7 +946,13 @@
           "why": "The Acyl Carrier Protein (ACP) holds the growing fatty acid chain during synthesis.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "ACP II is not the substrate-carrying arm in this scheme.",
+            "C": "The transferase is an enzyme that loads the arm, not the arm itself.",
+            "D": "Thioesterase releases the product.",
+            "E": "NADPH is the reductant, not a carrier."
+          }
         },
         {
           "id": "bio-026",
@@ -835,7 +984,13 @@
           "why": "Lipoprotein lipase deficiency causes hypertriglyceridemia, hepatosplenomegaly, and xanthomas, but not muscular dystrophy.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Hepatosplenomegaly IS a feature, from lipid-laden macrophages.",
+            "B": "Abdominal pain IS a feature (pancreatitis from very high chylomicrons).",
+            "C": "Eruptive xanthomata ARE a feature.",
+            "D": "Lack of lipase activity in post-heparin plasma IS the diagnostic finding."
+          }
         },
         {
           "id": "bio-027",
@@ -867,7 +1022,13 @@
           "why": "ApoE is needed for the liver to take up chylomicron remnants and IDL. Without it these remnants accumulate, so both triglycerides and cholesterol are raised (type III, dysbetalipoproteinaemia).",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Chylomicrons still form; their remnants are cleared poorly.",
+            "B": "VLDL remnants build up, so levels are not normal.",
+            "C": "Triglycerides are raised.",
+            "D": "Cholesterol is raised, not lowered."
+          }
         },
         {
           "id": "bio-028",
@@ -899,7 +1060,13 @@
           "why": "The immediate precursor of added carbons is malonyl-CoA, not acetyl-CoA.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "True: it repeats condensation, reduction, dehydration and reduction.",
+            "B": "True: elongases sit in the smooth ER.",
+            "C": "True: palmitoyl-CoA (C16) is extended to stearoyl-CoA (C18).",
+            "D": "True: malonyl-CoA donates the 2-carbon units."
+          }
         },
         {
           "id": "bio-029",
@@ -931,7 +1098,13 @@
           "why": "It is the reverse: fatty acid synthesis is cytosolic and β-oxidation is mitochondrial. The other statements are true (synthesis uses the D-isomer and NADPH; bicarbonate is needed for acetyl-CoA carboxylase).",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "notes": {
+            "A": "True: crotonyl-ACP is a synthetic intermediate; β-oxidation uses the CoA form.",
+            "B": "True: synthesis uses the D-isomer, β-oxidation the L-isomer.",
+            "C": "True: this is a real difference between the two paths.",
+            "E": "True: bicarbonate supplies CO2 for acetyl-CoA carboxylase."
+          }
         },
         {
           "id": "bio-030",
@@ -959,7 +1132,12 @@
           "why": "Dietary fat is carried from the gut as chylomicrons, so a recent meal sharply raises chylomicrons and plasma triglycerides. LDL- and HDL-cholesterol change very little after one meal, which is why triglycerides need a fasting sample.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "notes": {
+            "B": "LDL changes very little after one meal.",
+            "C": "HDL changes very little after one meal.",
+            "D": "VLDL does not fall after a meal."
+          }
         },
         {
           "id": "bio-304",
@@ -992,7 +1170,13 @@
           "topicId": "lipids",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the reason does not explain the assertion.",
+            "C": "Wrong here: the reason is true.",
+            "D": "Wrong here: the assertion is true.",
+            "E": "Wrong here: the assertion is true and the reason is true."
+          }
         },
         {
           "id": "bio-305",
@@ -1025,7 +1209,13 @@
           "topicId": "lipids",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "B": "Wrong here: the reason does explain the assertion.",
+            "C": "Wrong here: the reason is true.",
+            "D": "Wrong here: the assertion is true.",
+            "E": "Wrong here: the assertion is true and the reason is true."
+          }
         },
         {
           "id": "bio-310",
@@ -1057,7 +1247,13 @@
           "why": "In vertebrates, fatty acid synthase is a multifunctional megaprotein.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "That is the bacterial (type II) system, not vertebrates.",
+            "B": "Fatty acid synthase is encoded by nuclear DNA.",
+            "C": "Fatty acid synthesis is cytosolic.",
+            "E": "Option D is correct."
+          }
         },
         {
           "id": "bio-311",
@@ -1089,7 +1285,13 @@
           "why": "Fatty acid synthesis occurs in the cytosol; only beta-oxidation occurs in the mitochondria.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Both use a pantothenate derivative (CoA, and the ACP arm).",
+            "B": "Acyl-CoA (or acyl-ACP) derivatives are intermediates in both.",
+            "C": "NAD(P) reduces or oxidises the double bonds in both.",
+            "D": "True: synthesis is cytosolic and β-oxidation mitochondrial."
+          }
         },
         {
           "id": "bio-313",
@@ -1122,7 +1324,13 @@
           "topicId": "lipids",
           "subtopic": "",
           "difficulty": "easy",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Clofibrate is a fibrate that acts on PPAR-α.",
+            "B": "Gemfibrozil is a fibrate that acts on PPAR-α.",
+            "D": "Cholestyramine binds bile acids in the gut.",
+            "E": "Lovastatin does inhibit it."
+          }
         },
         {
           "id": "bio-314",
@@ -1154,7 +1362,13 @@
           "why": "Simvastatin, a statin, inhibits HMG-CoA reductase and is the main drug for lowering LDL in atherosclerosis. Niacin works only at high doses, and diet or surgery are not drug treatments.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Niacin lowers lipids only at high doses.",
+            "B": "Vitamin C has no proven role in treating atherosclerosis.",
+            "C": "Surgery is not a drug treatment.",
+            "D": "Diet is not a drug treatment."
+          }
         },
         {
           "id": "bio-315",
@@ -1186,7 +1400,13 @@
           "why": "HDL is cardioprotective and prevents plaque formation.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "A high-fat diet raises LDL and speeds up plaque formation.",
+            "B": "Oxidised LDL is taken up by macrophages to form foam cells.",
+            "C": "Small dense LDL is highly atherogenic.",
+            "E": "High LDL in familial hypercholesterolaemia speeds up plaque formation."
+          }
         },
         {
           "id": "bio-316",
@@ -1218,7 +1438,13 @@
           "why": "ApoB-100 and ApoE act as ligands for receptors.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Bile salts solubilise lipids in the gut, not apolipoproteins.",
+            "C": "Apolipoproteins mainly ACTIVATE enzymes (e.g. C-II for lipoprotein lipase).",
+            "D": "Cholestasis is not prevented by apolipoproteins.",
+            "E": "Lipidoses are lysosomal enzyme defects, not apolipoprotein disorders."
+          }
         },
         {
           "id": "bio-317",
@@ -1250,7 +1476,13 @@
           "why": "Apo B-100 is the structural protein of VLDL (and IDL and LDL) and the ligand for the LDL receptor. Apo B-48 belongs to chylomicrons and Apo A-I to HDL; VLDL picks up C-II and E from HDL, but they are not its structural protein.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "notes": {
+            "B": "Apo B-48 is the structural protein of chylomicrons.",
+            "C": "Apo A-I is the main HDL protein.",
+            "D": "Apo C-II is acquired from HDL and activates lipoprotein lipase.",
+            "E": "Apo E is acquired and helps remnant uptake; it is not structural."
+          }
         },
         {
           "id": "bio-318",
@@ -1282,7 +1514,13 @@
           "why": "VLDL and its remnants are atherogenic, so persistently high VLDL promotes atherosclerosis. Hepatosplenomegaly and abdominal pain (pancreatitis) are features of very high chylomicrons, and lipoprotein lipase deficiency is a cause, not a consequence.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "notes": {
+            "B": "High VLDL does not lower cholesterol.",
+            "C": "Hepatosplenomegaly goes with very high chylomicrons.",
+            "D": "Abdominal pain (pancreatitis) goes with very high chylomicrons.",
+            "E": "Lipoprotein lipase deficiency is a cause, not a consequence."
+          }
         },
         {
           "id": "bio-319",
@@ -1314,7 +1552,13 @@
           "why": "Lipidoses (lipid storage diseases) are diagnosed by demonstrating the specific enzyme defect.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "They are inherited enzyme defects.",
+            "B": "The substrate ACCUMULATES; it is not deficient.",
+            "C": "Storage is in tissues such as the brain, liver and spleen, not the stomach.",
+            "E": "Substrate accumulation CAN support the diagnosis."
+          }
         },
         {
           "id": "bio-320",
@@ -1346,7 +1590,13 @@
           "why": "Cholestyramine is a bile acid sequestrant.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "Cholestyramine binds bile acids, not an enzyme.",
+            "C": "Niacin works only at high doses.",
+            "D": "Niacin reduces VLDL production; it does not block cholesterol excretion.",
+            "E": "Sitosterol competes with dietary cholesterol for absorption."
+          }
         },
         {
           "id": "bio-321",
@@ -1378,7 +1628,13 @@
           "why": "Statins lower LDL levels, reducing the risk of further cardiovascular events.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Statins LOWER cholesterol.",
+            "B": "Statins do not lower blood glucose.",
+            "D": "Statins do not act on fatty acid oxidation.",
+            "E": "Statins LOWER LDL."
+          }
         },
         {
           "id": "bio-322",
@@ -1410,7 +1666,13 @@
           "why": "ApoC-II is required for lipoprotein lipase to clear chylomicrons and VLDL, so a deficiency leads to elevated triglycerides.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "VLDL clearance is also slowed, but the defining finding is raised triglycerides.",
+            "B": "Triglycerides are raised.",
+            "D": "Cholesterol is usually normal or only mildly raised.",
+            "E": "Triglycerides are raised, not lowered."
+          }
         },
         {
           "id": "bio-323",
@@ -1438,7 +1700,12 @@
           "why": "Lipoproteins are metabolized via exogenous (dietary) and endogenous (hepatic) pathways.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "The pathway depends on whether the lipid is dietary or made in the liver.",
+            "C": "Bile is needed to absorb dietary lipid.",
+            "D": "Lipoproteins are also processed in the intestine, plasma and tissues."
+          }
         },
         {
           "id": "bio-324",
@@ -1466,7 +1733,12 @@
           "why": "The correct order from most dense to least dense is HDL > LDL > VLDL > Chylomicrons.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "notes": {
+            "A": "VLDL is not denser than LDL.",
+            "C": "HDL is the densest, not third.",
+            "D": "This is roughly the reverse."
+          }
         },
         {
           "id": "bio-391",
@@ -1499,7 +1771,13 @@
           "topicId": "lipids",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the assertion is false and the reason is false.",
+            "B": "Wrong here: the assertion is false and the reason is false.",
+            "C": "Wrong here: the assertion is false.",
+            "D": "Wrong here: the reason is false."
+          }
         },
         {
           "id": "bio-392",
@@ -1532,7 +1810,13 @@
           "topicId": "lipids",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the assertion is false.",
+            "B": "Wrong here: the assertion is false.",
+            "C": "Wrong here: the assertion is false and the reason is true.",
+            "E": "Wrong here: the reason is true."
+          }
         },
         {
           "id": "bio-393",
@@ -1565,7 +1849,13 @@
           "topicId": "lipids",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the reason is false.",
+            "B": "Wrong here: the reason is false.",
+            "D": "Wrong here: the assertion is true and the reason is false.",
+            "E": "Wrong here: the assertion is true."
+          }
         },
         {
           "id": "bio-443",
@@ -1597,7 +1887,13 @@
           "why": "A total plasma cholesterol greater than 7.0 mmol/L is a definitive indicator of severe hypercholesterolemia.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "Low bile salts affect fat digestion; this is not a cholesterol level.",
+            "C": "This describes fat malabsorption, not a cholesterol level.",
+            "D": "Reductase deficiency would LOWER cholesterol.",
+            "E": "This contradicts hypercholesterolaemia rather than indicating it."
+          }
         },
         {
           "id": "bio-444",
@@ -1629,7 +1925,13 @@
           "why": "Bile salts emulsify dietary fat into small droplets for pancreatic lipase. Low bile salts and acids therefore impair emulsification and fat absorption.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "A high cholesterol level does not stop fat emulsification.",
+            "C": "This is the result of poor emulsification, not its cause.",
+            "D": "The reductase makes cholesterol; it does not emulsify fat.",
+            "E": "This is unrelated to emulsification."
+          }
         },
         {
           "id": "bio-445",
@@ -1661,7 +1963,13 @@
           "why": "Emulsification is the physical breakdown of fat globules. If this doesn't happen, the fat remains too large for pancreatic lipase to act on, resulting in fat malabsorption.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Poor emulsification lowers fat uptake; it does not raise cholesterol.",
+            "B": "Low bile salts are the cause, not the clinical presentation.",
+            "D": "This is an enzyme defect, not a presentation of poor emulsification.",
+            "E": "This is unrelated to emulsification."
+          }
         },
         {
           "id": "bio-446",
@@ -1693,7 +2001,13 @@
           "why": "Hypercholesterolemia directly causes atherosclerosis, which drastically increases the risk of heart attacks. Therefore, stating the patient 'may not suffer a heart attack' is contrary to the disease.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "This defines hypercholesterolaemia rather than contradicting it.",
+            "B": "Low bile salts do not contradict high cholesterol.",
+            "C": "This points to low, not high, cholesterol, but it is a separate problem rather than a presentation contrary to the disease.",
+            "D": "This is a cause of low cholesterol, not a presentation."
+          }
         },
         {
           "id": "bio-447",
@@ -1725,7 +2039,13 @@
           "why": "If the body cannot absorb dietary fats/cholesterol from the gut, plasma cholesterol levels will drop significantly.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "This is HYPERcholesterolaemia.",
+            "B": "Low bile salts reduce fat absorption, but the direct cause asked about is the failure to absorb fat.",
+            "D": "This IS a congenital enzyme deficiency, which the question excludes.",
+            "E": "This is not a cause of low cholesterol."
+          }
         },
         {
           "id": "bio-458",
@@ -1753,7 +2073,12 @@
           "why": "Carrots are plant-based and do not contain cholesterol (plants do not synthesize cholesterol).",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Butter is an animal fat and contains cholesterol.",
+            "B": "Cheese is a dairy product and contains cholesterol.",
+            "C": "Egg yolk is one of the richest sources of cholesterol."
+          }
         },
         {
           "id": "bio-903",
@@ -1785,7 +2110,13 @@
           "why": "Bile salts are made from cholesterol, a sterol. Gangliosides are sphingolipids, geraniol is an isoprenoid on the path TO sterols, phosphatidylglycerol is a glycerophospholipid, and prostaglandins are eicosanoids from arachidonic acid.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "Gangliosides are sphingolipids, built on sphingosine.",
+            "C": "Geraniol is an isoprenoid precursor ON THE WAY to sterols.",
+            "D": "Phosphatidylglycerol is a glycerophospholipid.",
+            "E": "Prostaglandins come from arachidonic acid."
+          }
         },
         {
           "id": "bio-904",
@@ -1817,7 +2148,13 @@
           "why": "Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme of cholesterol synthesis. Lower liver cholesterol then upregulates LDL receptors, which clears LDL from the blood.",
           "topicId": "lipids",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "Statins do not act on lipoprotein lipase.",
+            "C": "Statins INHIBIT the reductase.",
+            "D": "LDL falls because LDL receptors increase, not because LDL synthesis is blocked.",
+            "E": "Any rise in HDL is small and not the mechanism."
+          }
         },
         {
           "id": "bio-031",
@@ -1866,7 +2203,12 @@
           "topicId": "ros",
           "subtopic": "",
           "difficulty": "easy",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Structure matters, but so do the environment and metals.",
+            "B": "The redox state matters, but so do structure and metals.",
+            "C": "Oxygen and metals matter, but so do structure and redox state."
+          }
         },
         {
           "id": "bio-033",
@@ -1899,7 +2241,13 @@
           "topicId": "ros",
           "subtopic": "",
           "difficulty": "easy",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Lipids are damaged, but so are the others.",
+            "B": "Carbohydrates are damaged, but so are the others.",
+            "C": "Proteins are damaged, but so are the others.",
+            "D": "DNA is damaged, but so are the others."
+          }
         },
         {
           "id": "bio-034",
@@ -1928,7 +2276,12 @@
           "topicId": "ros",
           "subtopic": "",
           "difficulty": "easy",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Being widespread does not explain quenching chemistry.",
+            "C": "The methyl groups are not what absorbs the energy.",
+            "D": "Option B is the reason."
+          }
         },
         {
           "id": "bio-035",
@@ -1956,7 +2309,12 @@
           "why": "Antioxidants scavenge or quench ROS, preventing them from reacting with and damaging cellular components.",
           "topicId": "ros",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Antioxidants do not block oxygen or aerobic pathways.",
+            "B": "They REDUCE free-radical formation.",
+            "D": "They neutralise ROS; they do not produce them."
+          }
         },
         {
           "id": "bio-036",
@@ -1984,7 +2342,12 @@
           "why": "The Fenton reaction generates highly toxic hydroxyl radicals; it does not protect against oxidative stress.",
           "topicId": "ros",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "True: Fe2+ + H2O2 gives OH•.",
+            "B": "True: iron cycles between Fe3+ and Fe2+.",
+            "C": "True: superoxide reduces Fe3+, which then reacts with H2O2 (the Haber–Weiss reaction)."
+          }
         },
         {
           "id": "bio-037",
@@ -2012,7 +2375,12 @@
           "why": "SOD converts superoxide to hydrogen peroxide (H2O2), not water.",
           "topicId": "ros",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "True: electron leak in the respiratory chain makes superoxide.",
+            "B": "True: superoxide has an unpaired electron.",
+            "D": "True: through the Haber–Weiss/Fenton reactions."
+          }
         },
         {
           "id": "bio-038",
@@ -2040,7 +2408,12 @@
           "why": "Hydrogen peroxide is a reactive oxygen species but not a free radical, because it has no unpaired electron. Superoxide is a radical, the hydroxyl radical is the most reactive species known in biology, and H2O2 crosses membranes because it is lipid soluble.",
           "topicId": "ros",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "True: superoxide has an unpaired electron.",
+            "C": "True: OH• is the most reactive ROS.",
+            "D": "True: H2O2 is uncharged and diffuses across membranes."
+          }
         },
         {
           "id": "bio-039",
@@ -2068,7 +2441,12 @@
           "why": "Antimalarials cause oxidative stress; in G6PD deficiency, this leads to hemolysis (black urine).",
           "topicId": "ros",
           "subtopic": "",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "notes": {
+            "A": "Nephritis gives haematuria, not drug-triggered haemolysis that settles.",
+            "C": "Hepatitis gives dark bilirubin urine and is not linked to the drug in this way.",
+            "D": "Haematuria is a sign, not the underlying condition; the urine here is dark from haemoglobin."
+          }
         },
         {
           "id": "bio-040",
@@ -2096,7 +2474,12 @@
           "why": "SOD converts superoxide to H2O2, and catalase then converts the H2O2 into water and oxygen.",
           "topicId": "ros",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "SOD alone leaves H2O2, which is still harmful.",
+            "B": "Catalase cannot act on superoxide.",
+            "D": "Glutathione peroxidase removes peroxides, not superoxide."
+          }
         },
         {
           "id": "bio-041",
@@ -2124,7 +2507,12 @@
           "why": "Glutathione peroxidase detoxifies peroxides; it does not generate radicals.",
           "topicId": "ros",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "SOD in the phagosome makes H2O2, which feeds radical generation.",
+            "B": "The Fenton reaction makes OH• (it is a reaction, not an enzyme).",
+            "C": "NADPH oxidase makes superoxide (the respiratory burst)."
+          }
         },
         {
           "id": "bio-042",
@@ -2152,7 +2540,12 @@
           "why": "Glutathione reductase uses NADPH to reduce oxidized glutathione (GSSG) back to reduced glutathione (GSH).",
           "topicId": "ros",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "The peroxidase OXIDISES GSH to GSSG.",
+            "B": "Glutathione dehydrogenase is not the enzyme of this cycle.",
+            "D": "The synthetase makes glutathione from its amino acids."
+          }
         },
         {
           "id": "bio-043",
@@ -2180,7 +2573,12 @@
           "why": "Myeloperoxidase generates hypochlorous acid (a strong oxidant).",
           "topicId": "ros",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "It removes H2O2 and lipid peroxides.",
+            "B": "It removes H2O2.",
+            "C": "It removes superoxide."
+          }
         },
         {
           "id": "bio-044",
@@ -2208,7 +2606,12 @@
           "why": "It is the enzyme glutathione peroxidase that catalyzes this, not glutathione itself.",
           "topicId": "ros",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "True: Mn-SOD is mitochondrial and Cu/Zn-SOD is cytosolic.",
+            "B": "True: SOD makes H2O2 from superoxide.",
+            "C": "True: catalase gives water and oxygen."
+          }
         },
         {
           "id": "bio-045",
@@ -2236,7 +2639,12 @@
           "why": "DNA is highly susceptible to oxidative damage.",
           "topicId": "ros",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "True: cells keep a balance of oxidants and antioxidants.",
+            "B": "True: mitochondria are a constant source of H2O2.",
+            "C": "True: Keap1/Nrf2 senses oxidants and switches on antioxidant genes."
+          }
         },
         {
           "id": "bio-046",
@@ -2264,7 +2672,12 @@
           "why": "The hydroxyl radical (OH•) is the most reactive radical in biology; it reacts almost instantly with whatever molecule is next to it. Superoxide (O2•−) is less reactive, and H2O2 is not a radical.",
           "topicId": "ros",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "Superoxide is fairly unreactive by comparison.",
+            "C": "H2O2 is not a radical.",
+            "D": "Peroxyl radicals are less reactive than OH•."
+          }
         },
         {
           "id": "bio-047",
@@ -2423,7 +2836,13 @@
           "topicId": "ros",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-054",
@@ -2456,7 +2875,13 @@
           "topicId": "ros",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out I and III, which are also true.",
+            "C": "Leaves out III, which is also true.",
+            "D": "Leaves out I, which is also true."
+          }
         },
         {
           "id": "bio-055",
@@ -2489,7 +2914,13 @@
           "topicId": "ros",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-056",
@@ -2522,7 +2953,13 @@
           "topicId": "ros",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out I and III, which are also true.",
+            "C": "Leaves out III, which is also true.",
+            "D": "Leaves out I, which is also true."
+          }
         },
         {
           "id": "bio-057",
@@ -2555,7 +2992,13 @@
           "topicId": "ros",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II, which is also true.",
+            "C": "Includes III, which is false, and leaves out I, which is true.",
+            "D": "Includes III, which is false, and leaves out II, which is true.",
+            "E": "Includes III, which is false."
+          }
         },
         {
           "id": "bio-058",
@@ -2583,7 +3026,12 @@
           "why": "The mechanism is: OH* attacks a polyunsaturated fatty acid to form a lipid radical. This radical reacts with O2 to form a lipid peroxyl radical.",
           "topicId": "ros",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Peroxyl radicals form, not only alkoxyl radicals.",
+            "B": "The order is reversed: peroxyl radicals come from lipid radicals plus O2.",
+            "C": "Polyunsaturated fatty acids are attacked, not saturated ones."
+          }
         },
         {
           "id": "bio-059",
@@ -2633,7 +3081,12 @@
           "topicId": "ros",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II, which is also true.",
+            "C": "Includes III, which is false, and leaves out I, which is true.",
+            "D": "Includes III, which is false."
+          }
         },
         {
           "id": "bio-325",
@@ -2665,7 +3118,13 @@
           "why": "Paraquat receives electrons from NADPH/NADH and transfers them to oxygen to form superoxide.",
           "topicId": "ros",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "True: it cycles between oxidised and reduced forms.",
+            "B": "True: it is absorbed after ingestion, hence its toxicity.",
+            "D": "True: it builds up in the lung and kills pneumocytes.",
+            "E": "True: it shuttles electrons from NAD(P)H to O2."
+          }
         },
         {
           "id": "bio-326",
@@ -2697,7 +3156,13 @@
           "why": "ROS includes oxygen compounds that are reactive free radicals (and non-radical derivatives like H2O2).",
           "topicId": "ros",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Too vague: an ROS is itself an oxygen species.",
+            "B": "ROS are oxygen-derived.",
+            "D": "ROS react with many molecules, not only with free radicals.",
+            "E": "ROS do react with free radicals."
+          }
         },
         {
           "id": "bio-332",
@@ -2730,7 +3195,13 @@
           "topicId": "ros",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II and III, which are also true.",
+            "E": "Leaves out I, II and III, which are also true."
+          }
         },
         {
           "id": "bio-333",
@@ -2763,7 +3234,13 @@
           "topicId": "ros",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Includes III, which is false.",
+            "C": "Includes III, which is false, and leaves out I, which is true.",
+            "D": "Leaves out II, which is also true.",
+            "E": "Leaves out I and II, which are also true."
+          }
         },
         {
           "id": "bio-334",
@@ -2796,7 +3273,13 @@
           "topicId": "ros",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II and III, which are also true.",
+            "E": "Leaves out I, II and III, which are also true."
+          }
         },
         {
           "id": "bio-335",
@@ -2829,7 +3312,13 @@
           "topicId": "ros",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Includes I and III, which are false.",
+            "B": "Includes I, which is false.",
+            "D": "Includes I, which is false, and leaves out II, which is true.",
+            "E": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-336",
@@ -2882,7 +3371,13 @@
           "topicId": "ros",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the reason does not explain the assertion.",
+            "C": "Wrong here: the reason is true.",
+            "D": "Wrong here: the assertion is true.",
+            "E": "Wrong here: the assertion is true and the reason is true."
+          }
         },
         {
           "id": "bio-395",
@@ -2915,7 +3410,13 @@
           "topicId": "ros",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the reason is false.",
+            "B": "Wrong here: the reason is false.",
+            "D": "Wrong here: the assertion is true and the reason is false.",
+            "E": "Wrong here: the assertion is true."
+          }
         },
         {
           "id": "bio-396",
@@ -2948,7 +3449,13 @@
           "topicId": "ros",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "B": "Wrong here: the reason does explain the assertion.",
+            "C": "Wrong here: the reason is true.",
+            "D": "Wrong here: the assertion is true.",
+            "E": "Wrong here: the assertion is true and the reason is true."
+          }
         },
         {
           "id": "bio-423",
@@ -2980,7 +3487,9 @@
           },
           "notes": {
             "C": "Oxidized glutathione increases.",
-            "D": "Reduced glutathione decreases."
+            "D": "Reduced glutathione decreases.",
+            "A": "Oxidative stress in the substantia nigra raises lipid peroxidation.",
+            "B": "Oxidative stress is raised in Parkinson's disease."
           },
           "topicId": "ros",
           "subtopic": "",
@@ -3016,7 +3525,13 @@
           },
           "topicId": "ros",
           "subtopic": "",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "notes": {
+            "A": "This is the free radical theory of ageing, accepted at this level.",
+            "B": "Enzymes and dietary antioxidants neutralise free radicals.",
+            "C": "Lipids, proteins and DNA are all damaged.",
+            "D": "Accumulated oxidative damage speeds ageing and raises the risk of degenerative disease."
+          }
         },
         {
           "id": "bio-456",
@@ -3089,7 +3604,13 @@
           "topicId": "ros",
           "subtopic": "",
           "difficulty": "easy",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Cytochrome P450 leaks superoxide.",
+            "B": "Phagocytes produce ROS in the respiratory burst.",
+            "C": "Alloxan makes ROS that destroy β-cells.",
+            "D": "Lipid peroxidation is a chain reaction that propagates radicals."
+          }
         },
         {
           "id": "bio-061",
@@ -3122,7 +3643,13 @@
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "easy",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Protein amino acids are α, not β.",
+            "B": "Protein amino acids are neither D nor β.",
+            "D": "D-amino acids are not built into proteins by ribosomes.",
+            "E": "Only L-α amino acids are used."
+          }
         },
         {
           "id": "bio-062",
@@ -3150,7 +3677,12 @@
           "why": "Serine is a polar uncharged amino acid. Arginine and Lysine are basic; Glutamate is acidic.",
           "topicId": "nitrogen",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Arginine is basic.",
+            "B": "Lysine is basic.",
+            "D": "Glutamate is acidic."
+          }
         },
         {
           "id": "bio-063",
@@ -3178,7 +3710,12 @@
           "why": "The primary structure (sequence) of a protein is held together by peptide bonds.",
           "topicId": "nitrogen",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Disulphide bridges stabilise tertiary structure, not the sequence.",
+            "C": "Too general: the specific bond is the peptide bond.",
+            "D": "Hydrogen bonds hold secondary structure."
+          }
         },
         {
           "id": "bio-064",
@@ -3206,7 +3743,12 @@
           "why": "Secondary structures (like α-helices and β-pleated sheets) are stabilized by hydrogen bonds.",
           "topicId": "nitrogen",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Disulphide bridges belong to tertiary structure.",
+            "B": "Peptide bonds hold primary structure.",
+            "D": "Too general: helices and sheets are held by hydrogen bonds."
+          }
         },
         {
           "id": "bio-065",
@@ -3234,7 +3776,12 @@
           "why": "Cystinuria is a defect of the renal and intestinal transporter for cystine and the dibasic amino acids: cystine, ornithine, lysine and arginine (COLA). Tryptophan is not involved (its transport defect is Hartnup disease).",
           "topicId": "nitrogen",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Cystine is the C of COLA.",
+            "B": "Lysine is the L of COLA.",
+            "C": "Ornithine is the O of COLA."
+          }
         },
         {
           "id": "bio-066",
@@ -3266,7 +3813,13 @@
           "why": "The urea cycle incorporates nitrogen from ammonia via carbamoyl phosphate, and from aspartate.",
           "topicId": "nitrogen",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Ornithine is a carrier; it gives no nitrogen to urea.",
+            "B": "Ornithine does not supply nitrogen.",
+            "C": "Ornithine does not supply nitrogen, and glutamate acts only indirectly.",
+            "E": "Glutamate acts indirectly, through ammonia or aspartate."
+          }
         },
         {
           "id": "bio-067",
@@ -3290,7 +3843,11 @@
           "why": "N-acetylglutamate is an essential allosteric activator for Carbamoyl Phosphate Synthetase I (CPS I).",
           "topicId": "nitrogen",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "NAG does not act on AMP.",
+            "C": "OTC is not regulated by NAG."
+          }
         },
         {
           "id": "bio-068",
@@ -3322,7 +3879,13 @@
           "why": "CPS I catalyzes the committed, rate-limiting step of the urea cycle.",
           "topicId": "nitrogen",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "OTC is not the regulated step.",
+            "C": "Argininosuccinate synthase is not the main control point.",
+            "D": "The lyase is not the main control point.",
+            "E": "Arginase is the last step and is not rate-limiting."
+          }
         },
         {
           "id": "bio-069",
@@ -3350,7 +3913,12 @@
           "why": "The two nitrogen atoms enter as ammonium (NH4+, via carbamoyl phosphate) and aspartate.",
           "topicId": "nitrogen",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Glutamine carries ammonia in blood but is not the urea cycle entry form.",
+            "C": "Glutamate is not the direct donor.",
+            "D": "Glutamate is not the direct donor; aspartate is."
+          }
         },
         {
           "id": "bio-070",
@@ -3378,7 +3946,12 @@
           "why": "In the liver, alanine transfers its amino group to α-ketoglutarate.",
           "topicId": "nitrogen",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Glutamate is the PRODUCT after it accepts the amino group.",
+            "B": "Glutamine carries ammonia but is not the acceptor here.",
+            "D": "Aspartate is a donor into the urea cycle."
+          }
         },
         {
           "id": "bio-071",
@@ -3407,7 +3980,12 @@
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "easy",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "This pair links transamination to the TCA cycle, not to the urea cycle.",
+            "C": "This pair belongs to the glucose–alanine cycle.",
+            "D": "Option B is the link (the aspartate–argininosuccinate shunt)."
+          }
         },
         {
           "id": "bio-072",
@@ -3435,7 +4013,12 @@
           "why": "The urea cycle produces fumarate, which directly enters the TCA cycle.",
           "topicId": "nitrogen",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "No urea cycle product enters glycolysis directly.",
+            "B": "No urea cycle product feeds the HMP shunt.",
+            "D": "Fumarate goes through the TCA cycle first, so the direct link is the TCA cycle."
+          }
         },
         {
           "id": "bio-073",
@@ -3463,7 +4046,12 @@
           "why": "The final step of the urea cycle is catalyzed by arginase, which cleaves arginine into urea and ornithine.",
           "topicId": "nitrogen",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Citrulline joins with aspartate; it is not cleaved to urea.",
+            "B": "Argininosuccinate is cleaved to arginine + fumarate.",
+            "D": "Ornithine is regenerated alongside urea."
+          }
         },
         {
           "id": "bio-074",
@@ -3491,7 +4079,12 @@
           "why": "Methionine cannot be synthesized by the human body and must be obtained from the diet.",
           "topicId": "nitrogen",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Aspartate is made by transamination of oxaloacetate.",
+            "B": "Tyrosine is made from phenylalanine.",
+            "D": "Serine is made from 3-phosphoglycerate."
+          }
         },
         {
           "id": "bio-075",
@@ -3519,7 +4112,12 @@
           "why": "Arginine is conditionally essential; dietary intake is required during periods of rapid growth or stress.",
           "topicId": "nitrogen",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Valine is fully essential.",
+            "C": "Lysine is fully essential.",
+            "D": "Threonine is fully essential."
+          }
         },
         {
           "id": "bio-076",
@@ -3547,7 +4145,12 @@
           "why": "Arginine is a highly polar, positively charged (basic) amino acid.",
           "topicId": "nitrogen",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Alanine is nonpolar.",
+            "B": "Leucine is nonpolar.",
+            "D": "Tyrosine is only weakly polar (aromatic); arginine is clearly polar and charged."
+          }
         },
         {
           "id": "bio-077",
@@ -3575,7 +4178,12 @@
           "why": "Valine contains a hydrophobic aliphatic side chain.",
           "topicId": "nitrogen",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Serine has a polar -OH side chain.",
+            "C": "Asparagine has a polar amide side chain.",
+            "D": "Threonine has a polar -OH side chain."
+          }
         },
         {
           "id": "bio-078",
@@ -3603,7 +4211,12 @@
           "why": "Isoleucine is broken down to acetyl-CoA and succinyl-CoA, so it is ketogenic (as well as glucogenic). Valine, cysteine and glycine are glucogenic only.",
           "topicId": "nitrogen",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Valine gives succinyl-CoA only, so it is glucogenic.",
+            "B": "Cysteine gives pyruvate, so it is glucogenic.",
+            "D": "Glycine is glucogenic."
+          }
         },
         {
           "id": "bio-079",
@@ -3631,7 +4244,12 @@
           "why": "Threonine has a hydroxyl group but does not contain sulfur.",
           "topicId": "nitrogen",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Cysteine has an -SH group.",
+            "B": "Cystine is two cysteines joined by a disulphide.",
+            "C": "Methionine has a thioether sulphur."
+          }
         },
         {
           "id": "bio-080",
@@ -3659,7 +4277,12 @@
           "why": "Tyrosine contains an aromatic benzene ring.",
           "topicId": "nitrogen",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Lysine is basic and aliphatic.",
+            "C": "Taurine is a sulphonic acid, not an aromatic amino acid.",
+            "D": "Arginine is basic, with a guanidino group and no ring."
+          }
         },
         {
           "id": "bio-081",
@@ -3687,7 +4310,12 @@
           "why": "Urea is the primary nitrogenous waste product of protein catabolism.",
           "topicId": "nitrogen",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "Glutamine carries nitrogen in blood; little is excreted.",
+            "C": "Ammonium is a smaller fraction, used for acid–base balance.",
+            "D": "Uric acid comes from purines, not from protein."
+          }
         },
         {
           "id": "bio-082",
@@ -3715,7 +4343,12 @@
           "why": "Glutamate decarboxylase removes CO2 from glutamate to synthesize Gamma-aminobutyric acid (GABA).",
           "topicId": "nitrogen",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "Glutathione is a tripeptide antioxidant, not a decarboxylation product.",
+            "C": "Histamine comes from histidine.",
+            "D": "Serotonin comes from tryptophan."
+          }
         },
         {
           "id": "bio-083",
@@ -3748,7 +4381,13 @@
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the reason is false.",
+            "B": "Wrong here: the reason is false.",
+            "D": "Wrong here: the assertion is true and the reason is false.",
+            "E": "Wrong here: the assertion is true."
+          }
         },
         {
           "id": "bio-084",
@@ -3781,7 +4420,13 @@
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the reason does not explain the assertion.",
+            "C": "Wrong here: the reason is true.",
+            "D": "Wrong here: the assertion is true.",
+            "E": "Wrong here: the assertion is true and the reason is true."
+          }
         },
         {
           "id": "bio-085",
@@ -3814,7 +4459,13 @@
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the reason is false.",
+            "B": "Wrong here: the reason is false.",
+            "D": "Wrong here: the assertion is true and the reason is false.",
+            "E": "Wrong here: the assertion is true."
+          }
         },
         {
           "id": "bio-086",
@@ -3847,7 +4498,13 @@
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the assertion is false and the reason is false.",
+            "B": "Wrong here: the assertion is false and the reason is false.",
+            "C": "Wrong here: the assertion is false.",
+            "D": "Wrong here: the reason is false."
+          }
         },
         {
           "id": "bio-087",
@@ -3880,7 +4537,13 @@
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-088",
@@ -3913,7 +4576,13 @@
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II, which is also true.",
+            "C": "Includes III, which is false, and leaves out I, which is true.",
+            "D": "Includes III, which is false, and leaves out II, which is true.",
+            "E": "Includes III, which is false."
+          }
         },
         {
           "id": "bio-089",
@@ -3946,7 +4615,13 @@
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-090",
@@ -3979,7 +4654,13 @@
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II, which is also true.",
+            "C": "Includes III, which is false, and leaves out I, which is true.",
+            "D": "Includes III, which is false, and leaves out II, which is true.",
+            "E": "Includes III, which is false."
+          }
         },
         {
           "id": "bio-091",
@@ -4012,7 +4693,13 @@
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II, which is also true.",
+            "C": "Includes III, which is false, and leaves out I, which is true.",
+            "D": "Includes III, which is false, and leaves out II, which is true.",
+            "E": "Includes III, which is false."
+          }
         },
         {
           "id": "bio-092",
@@ -4045,7 +4732,13 @@
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II, which is also true.",
+            "C": "Includes III, which is false, and leaves out I, which is true.",
+            "D": "Includes III, which is false, and leaves out II, which is true.",
+            "E": "Includes III, which is false."
+          }
         },
         {
           "id": "bio-093",
@@ -4078,7 +4771,13 @@
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II, which is also true.",
+            "C": "Includes III, which is false, and leaves out I, which is true.",
+            "D": "Includes III, which is false, and leaves out II, which is true.",
+            "E": "Includes III, which is false."
+          }
         },
         {
           "id": "bio-094",
@@ -4111,7 +4810,13 @@
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-095",
@@ -4144,7 +4849,13 @@
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II, which is also true.",
+            "C": "Includes III, which is false, and leaves out I, which is true.",
+            "D": "Includes III, which is false, and leaves out II, which is true.",
+            "E": "Includes III, which is false."
+          }
         },
         {
           "id": "bio-096",
@@ -4177,7 +4888,13 @@
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "B": "Includes II, which is false.",
+            "C": "Includes II and III, which are false, and leaves out I, which is true.",
+            "D": "Includes III, which is false.",
+            "E": "Includes II and III, which are false."
+          }
         },
         {
           "id": "bio-306",
@@ -4210,7 +4927,13 @@
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the reason is false.",
+            "B": "Wrong here: the reason is false.",
+            "D": "Wrong here: the assertion is true and the reason is false.",
+            "E": "Wrong here: the assertion is true."
+          }
         },
         {
           "id": "bio-397",
@@ -4243,7 +4966,13 @@
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the reason is false.",
+            "B": "Wrong here: the reason is false.",
+            "D": "Wrong here: the assertion is true and the reason is false.",
+            "E": "Wrong here: the assertion is true."
+          }
         },
         {
           "id": "bio-398",
@@ -4276,7 +5005,13 @@
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "B": "Wrong here: the reason does explain the assertion.",
+            "C": "Wrong here: the reason is true.",
+            "D": "Wrong here: the assertion is true.",
+            "E": "Wrong here: the assertion is true and the reason is true."
+          }
         },
         {
           "id": "bio-399",
@@ -4309,7 +5044,13 @@
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "hard",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the assertion is false.",
+            "B": "Wrong here: the assertion is false.",
+            "C": "Wrong here: the assertion is false and the reason is true.",
+            "E": "Wrong here: the reason is true."
+          }
         },
         {
           "id": "bio-403",
@@ -4342,7 +5083,13 @@
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the assertion is false.",
+            "B": "Wrong here: the assertion is false.",
+            "C": "Wrong here: the assertion is false and the reason is true.",
+            "E": "Wrong here: the reason is true."
+          }
         },
         {
           "id": "bio-441",
@@ -4375,7 +5122,13 @@
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "B": "Wrong here: the reason does explain the assertion.",
+            "C": "Wrong here: the reason is true.",
+            "D": "Wrong here: the assertion is true.",
+            "E": "Wrong here: the assertion is true and the reason is true."
+          }
         },
         {
           "id": "bio-442",
@@ -4408,7 +5161,13 @@
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "B": "Wrong here: the reason does explain the assertion.",
+            "C": "Wrong here: the reason is true.",
+            "D": "Wrong here: the assertion is true.",
+            "E": "Wrong here: the assertion is true and the reason is true."
+          }
         },
         {
           "id": "bio-901",
@@ -4441,7 +5200,13 @@
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out III, which is also true.",
+            "B": "Includes II, which is false, and leaves out III, which is true.",
+            "C": "Includes II, which is false, and leaves out I, which is true.",
+            "E": "Includes II, which is false."
+          }
         },
         {
           "id": "bio-902",
@@ -4474,7 +5239,13 @@
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-097",
@@ -4507,7 +5278,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-098",
@@ -4535,7 +5312,12 @@
           "why": "Phenylalanine hydroxylase (PAH) deficiency causes Phenylketonuria (PKU).",
           "topicId": "iem",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Its deficiency causes tyrosinaemia type I.",
+            "B": "Tyrosine hydroxylase makes DOPA; its deficiency does not give phenylketones.",
+            "D": "Its deficiency causes homocystinuria."
+          }
         },
         {
           "id": "bio-099",
@@ -4568,7 +5350,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-100",
@@ -4601,7 +5389,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Includes I, which is false, and leaves out II and III, which are true.",
+            "B": "Includes I, which is false, and leaves out III, which is true.",
+            "D": "Includes I, which is false, and leaves out II, which is true.",
+            "E": "Includes I, which is false."
+          }
         },
         {
           "id": "bio-101",
@@ -4634,7 +5428,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II, which is also true.",
+            "C": "Includes III, which is false, and leaves out I, which is true.",
+            "D": "Includes III, which is false, and leaves out II, which is true.",
+            "E": "Includes III, which is false."
+          }
         },
         {
           "id": "bio-102",
@@ -4667,7 +5467,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "hard",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II, which is also true.",
+            "C": "Includes III, which is false, and leaves out I, which is true.",
+            "D": "Includes III, which is false, and leaves out II, which is true.",
+            "E": "Includes III, which is false."
+          }
         },
         {
           "id": "bio-103",
@@ -4700,7 +5506,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "hard",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Includes I, which is false, and leaves out II and III, which are true.",
+            "B": "Includes I, which is false, and leaves out III, which is true.",
+            "D": "Includes I, which is false, and leaves out II, which is true.",
+            "E": "Includes I, which is false."
+          }
         },
         {
           "id": "bio-104",
@@ -4733,7 +5545,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "B": "Includes II, which is false.",
+            "C": "Includes II and III, which are false, and leaves out I, which is true.",
+            "D": "Includes III, which is false.",
+            "E": "Includes II and III, which are false."
+          }
         },
         {
           "id": "bio-105",
@@ -4766,7 +5584,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-106",
@@ -4799,7 +5623,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-107",
@@ -4832,7 +5662,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-108",
@@ -4865,7 +5701,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Includes I, which is false, and leaves out II and III, which are true.",
+            "B": "Includes I, which is false, and leaves out III, which is true.",
+            "D": "Includes I, which is false, and leaves out II, which is true.",
+            "E": "Includes I, which is false."
+          }
         },
         {
           "id": "bio-109",
@@ -4898,7 +5740,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-110",
@@ -4931,7 +5779,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II, which is also true.",
+            "C": "Includes III, which is false, and leaves out I, which is true.",
+            "D": "Includes III, which is false, and leaves out II, which is true.",
+            "E": "Includes III, which is false."
+          }
         },
         {
           "id": "bio-111",
@@ -4964,7 +5818,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-112",
@@ -4997,7 +5857,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-113",
@@ -5030,7 +5896,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-114",
@@ -5063,7 +5935,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-115",
@@ -5096,7 +5974,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Includes I, which is false, and leaves out III, which is true.",
+            "B": "Includes I and II, which are false, and leaves out III, which is true.",
+            "C": "Includes II, which is false.",
+            "D": "Includes I, which is false."
+          }
         },
         {
           "id": "bio-116",
@@ -5129,7 +6013,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "B": "Includes II, which is false.",
+            "C": "Includes II and III, which are false, and leaves out I, which is true.",
+            "D": "Includes III, which is false.",
+            "E": "Includes II and III, which are false."
+          }
         },
         {
           "id": "bio-117",
@@ -5162,7 +6052,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II, which is also true.",
+            "C": "Includes III, which is false, and leaves out I, which is true.",
+            "D": "Includes III, which is false, and leaves out II, which is true.",
+            "E": "Includes III, which is false."
+          }
         },
         {
           "id": "bio-118",
@@ -5195,7 +6091,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-119",
@@ -5228,7 +6130,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the reason does not explain the assertion.",
+            "C": "Wrong here: the reason is true.",
+            "D": "Wrong here: the assertion is true.",
+            "E": "Wrong here: the assertion is true and the reason is true."
+          }
         },
         {
           "id": "bio-120",
@@ -5261,7 +6169,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the reason does not explain the assertion.",
+            "C": "Wrong here: the reason is true.",
+            "D": "Wrong here: the assertion is true.",
+            "E": "Wrong here: the assertion is true and the reason is true."
+          }
         },
         {
           "id": "bio-147",
@@ -5293,7 +6207,13 @@
           "why": "AIP is caused by deficiency of PBG deaminase.",
           "topicId": "iem",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "This is a tumour-suppressor defect.",
+            "B": "This is a photoreceptor defect.",
+            "D": "This is a growth-factor receptor (FGFR3) defect.",
+            "E": "This is a lysosomal cystine transporter defect."
+          }
         },
         {
           "id": "bio-148",
@@ -5325,7 +6245,13 @@
           "why": "Retinoblastoma is caused by mutations in the RB tumor suppressor gene.",
           "topicId": "iem",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "This is a photoreceptor defect.",
+            "C": "This is a haem synthesis enzyme defect.",
+            "D": "FGFR3 is a growth-factor receptor; RB is the classic growth-control (tumour-suppressor) protein.",
+            "E": "This is a transporter defect."
+          }
         },
         {
           "id": "bio-307",
@@ -5358,7 +6284,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-309",
@@ -5391,7 +6323,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II, which is also true.",
+            "C": "Includes III, which is false, and leaves out I, which is true.",
+            "D": "Includes III, which is false, and leaves out II, which is true.",
+            "E": "Includes III, which is false."
+          }
         },
         {
           "id": "bio-380",
@@ -5424,7 +6362,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "B": "Includes II, which is false.",
+            "C": "Includes II and III, which are false, and leaves out I, which is true.",
+            "D": "Includes III, which is false.",
+            "E": "Includes II and III, which are false."
+          }
         },
         {
           "id": "bio-450",
@@ -5457,7 +6401,13 @@
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Includes I, which is false, and leaves out II and III, which are true.",
+            "B": "Includes I, which is false, and leaves out III, which is true.",
+            "D": "Includes I, which is false, and leaves out II, which is true.",
+            "E": "Includes I, which is false."
+          }
         },
         {
           "id": "bio-905",
@@ -5489,7 +6439,13 @@
           "why": "Achondroplasia is caused by an activating mutation of FGFR3, the receptor for fibroblast growth factor, a growth-signalling defect. Retinoblastoma is a tumour-suppressor (growth control) defect, retinitis pigmentosa a photoreceptor defect, AIP an enzyme defect and cystinosis a transporter defect.",
           "topicId": "iem",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "This is a tumour-suppressor (growth control) defect.",
+            "B": "This is a photoreceptor defect.",
+            "C": "This is a haem synthesis enzyme defect.",
+            "E": "This is a lysosomal transporter defect."
+          }
         },
         {
           "id": "bio-906",
@@ -5521,7 +6477,13 @@
           "why": "Many cases of retinitis pigmentosa are caused by mutations in rhodopsin, the light-sensitive receptor of rod cells, leading to progressive loss of photoreceptors.",
           "topicId": "iem",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "This is a tumour of retinal cells caused by RB loss, not a receptor defect.",
+            "C": "This is a haem synthesis enzyme defect.",
+            "D": "This is an FGFR3 defect.",
+            "E": "This is a lysosomal transporter defect."
+          }
         },
         {
           "id": "bio-136",
@@ -5549,7 +6511,12 @@
           "why": "ALA dehydratase (δ-ALA dehydrase) catalyzes the formation of PBG from two molecules of ALA.",
           "topicId": "haem",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "PBG deaminase uses PBG; it does not make it.",
+            "C": "Only two δ-ALA are needed.",
+            "D": "This step is in the cytosol."
+          }
         },
         {
           "id": "bio-137",
@@ -5577,7 +6544,12 @@
           "why": "Coproporphyrinogen III oxidase oxidatively decarboxylates the propionate side chains on rings A and B (positions 2 and 4) to vinyl groups, giving protoporphyrinogen IX. That is why protoporphyrin IX carries vinyls at 2 and 4 and keeps its propionates at 6 and 7.",
           "topicId": "haem",
           "subtopic": "",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "notes": {
+            "B": "6 and 7 keep their propionates in protoporphyrin IX.",
+            "C": "The groups are propionates, and the enzyme acts on them, not on acetates.",
+            "D": "That is not its reaction; it makes protoporphyrinogen IX from coproporphyrinogen III."
+          }
         },
         {
           "id": "bio-138",
@@ -5605,7 +6577,12 @@
           "why": "The first step requires O2 and NADPH.",
           "topicId": "haem",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Haem oxygenase opens the α methene bridge.",
+            "B": "The reductant is NADPH.",
+            "D": "CO is released, not CO2."
+          }
         },
         {
           "id": "bio-139",
@@ -5633,7 +6610,12 @@
           "why": "Vitamin D (dihydroxycholecalciferol) is a sterol derivative, unlike the others which are tetrapyrroles.",
           "topicId": "haem",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "B12 has a corrin ring, a modified tetrapyrrole.",
+            "B": "Chlorophyll is a porphyrin with magnesium.",
+            "D": "Bilirubin is an opened (linear) tetrapyrrole from haem."
+          }
         },
         {
           "id": "bio-140",
@@ -5661,7 +6643,12 @@
           "why": "It is the only endogenous source of carbon monoxide.",
           "topicId": "haem",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Haem induces haem oxygenase.",
+            "B": "It cleaves the α bridge.",
+            "D": "It acts on haem, not free protoporphyrin."
+          }
         },
         {
           "id": "bio-141",
@@ -5689,7 +6676,12 @@
           "why": "Porphin is a macrocyclic ring structure.",
           "topicId": "haem",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "Porphin is highly conjugated (unsaturated).",
+            "C": "Its rings are pyrroles, not imidazoles.",
+            "D": "Porphin itself has no metal; haem has the iron."
+          }
         },
         {
           "id": "bio-142",
@@ -5717,7 +6709,12 @@
           "why": "Porphin has four methene bridges connecting the pyrrole rings.",
           "topicId": "haem",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Porphin has no side chains.",
+            "B": "The bridges are methene (=CH–), not methylene (–CH2–).",
+            "D": "It is cyclic."
+          }
         },
         {
           "id": "bio-143",
@@ -5745,7 +6742,12 @@
           "why": "Protoporphyrin IX has methyl, vinyl, and propionate side chains.",
           "topicId": "haem",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Protoporphyrin also has propionate side chains.",
+            "C": "Porphyrins are intensely coloured.",
+            "D": "They absorb strongly (Soret band about 400 nm)."
+          }
         },
         {
           "id": "bio-144",
@@ -5773,7 +6775,12 @@
           "why": "Uroporphyrins have four isomeric forms, though only III is biologically relevant.",
           "topicId": "haem",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Uroporphyrins have four isomers.",
+            "C": "Coproporphyrins have four isomers.",
+            "D": "Fifteen isomers belong to protoporphyrin (mixed side chains)."
+          }
         },
         {
           "id": "bio-145",
@@ -5801,7 +6808,12 @@
           "why": "AIP causes accumulation of PBG and 5-ALA.",
           "topicId": "haem",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "PBG synthase (ALA dehydratase) deficiency is a different porphyria.",
+            "B": "That defect causes porphyria cutanea tarda.",
+            "D": "The block is before uroporphyrinogen, so it does not accumulate."
+          }
         },
         {
           "id": "bio-146",
@@ -5829,7 +6841,12 @@
           "why": "PCT patients present with cutaneous photosensitivity.",
           "topicId": "haem",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "It is the most COMMON porphyria.",
+            "B": "It is caused by uroporphyrinogen decarboxylase deficiency.",
+            "D": "PCT is cutaneous; it lacks neurovisceral attacks."
+          }
         },
         {
           "id": "bio-327",
@@ -5857,7 +6874,12 @@
           "why": "Four molecules of PBG condense to form a linear tetrapyrrole which cyclizes to uroporphyrinogen I, then III.",
           "topicId": "haem",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Four PBG form a linear TETRApyrrole.",
+            "C": "The co-synthase acts on hydroxymethylbilane; it does not isomerise UPG I.",
+            "D": "The decarboxylase gives coproporphyrinogen III."
+          }
         },
         {
           "id": "bio-328",
@@ -5885,7 +6907,12 @@
           "why": "Uroporphyrinogen III decarboxylase removes CO2 from the four acetate side chains of UPG III, turning them into methyl groups and giving coproporphyrinogen III. The condensation uses 4 (not 6) PBG, PBG deaminase alone gives the linear hydroxymethylbilane (UPG III needs the co-synthase), and protoporphyrinogen IX is oxidised by protoporphyrinogen oxidase.",
           "topicId": "haem",
           "subtopic": "",
-          "difficulty": "hard"
+          "difficulty": "hard",
+          "notes": {
+            "A": "Four PBG are condensed, not six.",
+            "B": "PBG deaminase gives hydroxymethylbilane; the co-synthase forms UPG III.",
+            "D": "That oxidation is done by protoporphyrinogen oxidase."
+          }
         },
         {
           "id": "bio-329",
@@ -5913,7 +6940,12 @@
           "why": "The final steps of haem synthesis, including the formation of protoporphyrin IX, occur in the mitochondria.",
           "topicId": "haem",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "δ-ALA is made in the mitochondrion.",
+            "B": "PBG is made in the cytosol.",
+            "C": "UPG III is made in the cytosol."
+          }
         },
         {
           "id": "bio-330",
@@ -5941,7 +6973,12 @@
           "why": "Haem/hematin inhibits ALA synthase, providing negative feedback.",
           "topicId": "haem",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Haemin forms by oxidation of haem iron, not by degradation.",
+            "B": "Haemin INHIBITS δ-ALA synthase.",
+            "D": "Haemin PREVENTS eIF-2 inactivation, keeping globin translation going."
+          }
         },
         {
           "id": "bio-331",
@@ -5969,7 +7006,12 @@
           "why": "It decarboxylates and oxidizes two propionate side chains to vinyl groups.",
           "topicId": "haem",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "It removes CO2; it does not add it.",
+            "C": "It gives protoporphyrinogen IX.",
+            "D": "Only two of the four propionates become vinyls."
+          }
         },
         {
           "id": "bio-362",
@@ -6002,7 +7044,13 @@
           "topicId": "haem",
           "subtopic": "",
           "difficulty": "hard",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Includes I, which is false, and leaves out II and III, which are true.",
+            "B": "Includes I, which is false, and leaves out III, which is true.",
+            "D": "Includes I, which is false, and leaves out II, which is true.",
+            "E": "Includes I, which is false."
+          }
         },
         {
           "id": "bio-404",
@@ -6170,7 +7218,11 @@
             "E": "T"
           },
           "notes": {
-            "A": "It affects the liver."
+            "A": "It affects the liver.",
+            "B": "AIP is autosomal dominant.",
+            "C": "PBG deaminase (hydroxymethylbilane synthase) is deficient.",
+            "D": "The block causes the precursors before it to build up.",
+            "E": "Attacks give abdominal pain, neuropathy and psychiatric features."
           },
           "topicId": "haem",
           "subtopic": "",
@@ -6211,7 +7263,14 @@
           },
           "topicId": "haem",
           "subtopic": "",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "notes": {
+            "A": "PCT is the commonest porphyria.",
+            "B": "PCT is hepatic; the familial form is autosomal dominant.",
+            "C": "Uroporphyrinogen decarboxylase is deficient.",
+            "D": "Uroporphyrin(ogen) builds up and appears in urine.",
+            "E": "Porphyrins in the skin cause light-induced blistering."
+          }
         },
         {
           "id": "bio-418",
@@ -6248,7 +7307,10 @@
           },
           "notes": {
             "B": "It is highly unsaturated/aromatic.",
-            "D": "They are methene bridges."
+            "D": "They are methene bridges.",
+            "A": "Its four pyrroles form one large ring.",
+            "C": "Porphin is four pyrroles linked in a ring.",
+            "E": "Four =CH– bridges link the pyrroles."
           },
           "topicId": "haem",
           "subtopic": "",
@@ -6289,7 +7351,10 @@
           },
           "notes": {
             "B": "PBG synthase is another name for δ-ALA dehydratase.",
-            "C": "Requires two moles."
+            "C": "Requires two moles.",
+            "A": "ALA dehydratase joins two ALA to give PBG.",
+            "D": "ALA leaves the mitochondrion and PBG forms in the cytosol.",
+            "E": "This step is cytosolic, not mitochondrial."
           },
           "topicId": "haem",
           "subtopic": "",
@@ -6331,7 +7396,9 @@
           "notes": {
             "C": "(With co-synthase).",
             "D": "The co-synthase acts on the linear hydroxymethylbilane, closing it into UPG III; it does not convert UPG I.",
-            "E": "UPG III decarboxylase gives coproporphyrinogen III; a different enzyme then forms protoporphyrinogen IX."
+            "E": "UPG III decarboxylase gives coproporphyrinogen III; a different enzyme then forms protoporphyrinogen IX.",
+            "A": "Four PBG give the linear tetrapyrrole hydroxymethylbilane (polypyrryl methane).",
+            "B": "Without the co-synthase, the linear tetrapyrrole closes spontaneously to UPG I."
           },
           "topicId": "haem",
           "subtopic": "",
@@ -6373,7 +7440,9 @@
           "notes": {
             "A": "The propionates on rings A and B (positions 2 and 4) become vinyl groups.",
             "B": "The propionates at 6 and 7 are kept in protoporphyrin IX.",
-            "E": "Lead inhibits ALA dehydratase and ferrochelatase."
+            "E": "Lead inhibits ALA dehydratase and ferrochelatase.",
+            "C": "Each propionate loses CO2 and is oxidised to a vinyl group.",
+            "D": "That is its overall reaction."
           },
           "topicId": "haem",
           "subtopic": "",
@@ -6408,13 +7477,20 @@
           "answerByOption": {
             "A": "T",
             "B": "T",
-            "C": "T",
+            "C": "F",
             "D": "T",
             "E": "T"
           },
           "topicId": "haem",
           "subtopic": "",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "notes": {
+            "A": "PBG deaminase (UPG I synthase) joins four PBG.",
+            "B": "The co-synthase closes the ring in the III arrangement.",
+            "C": "It decarboxylates the ACETATE side chains, not the propionates.",
+            "D": "Two propionates become vinyl groups.",
+            "E": "Its product is protoporphyrinogen IX."
+          }
         },
         {
           "id": "bio-425",
@@ -6451,7 +7527,10 @@
           },
           "notes": {
             "B": "Light oxidizes them.",
-            "E": "That is variegate porphyria, not PCT."
+            "E": "That is variegate porphyria, not PCT.",
+            "A": "UPG decarboxylase deficiency lets porphyrinogens build up.",
+            "C": "Light-excited porphyrins pass energy to O2, making ROS.",
+            "D": "ROS damage the skin, causing blisters and scarring."
           },
           "topicId": "haem",
           "subtopic": "",
@@ -6488,7 +7567,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-185",
@@ -6521,7 +7606,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out III, which is also true.",
+            "B": "Includes II, which is false, and leaves out III, which is true.",
+            "C": "Includes II, which is false, and leaves out I, which is true.",
+            "E": "Includes II, which is false."
+          }
         },
         {
           "id": "bio-186",
@@ -6554,7 +7645,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-338",
@@ -6587,7 +7684,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "hard",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "B": "Includes II, which is false.",
+            "C": "Includes II and III, which are false, and leaves out I, which is true.",
+            "D": "Includes III, which is false.",
+            "E": "Includes II and III, which are false."
+          }
         },
         {
           "id": "bio-339",
@@ -6620,7 +7723,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II, which is also true.",
+            "C": "Includes III, which is false, and leaves out I, which is true.",
+            "D": "Includes III, which is false, and leaves out II, which is true.",
+            "E": "Includes III, which is false."
+          }
         },
         {
           "id": "bio-340",
@@ -6653,7 +7762,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "hard",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Includes I, which is false, and leaves out II and III, which are true.",
+            "B": "Includes I, which is false, and leaves out III, which is true.",
+            "D": "Includes I, which is false, and leaves out II, which is true.",
+            "E": "Includes I, which is false."
+          }
         },
         {
           "id": "bio-341",
@@ -6686,7 +7801,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "hard",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Includes I, which is false, and leaves out II and III, which are true.",
+            "B": "Includes I, which is false, and leaves out III, which is true.",
+            "D": "Includes I, which is false, and leaves out II, which is true.",
+            "E": "Includes I, which is false."
+          }
         },
         {
           "id": "bio-342",
@@ -6719,7 +7840,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-343",
@@ -6752,7 +7879,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "hard",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Includes I, which is false, and leaves out II and III, which are true.",
+            "B": "Includes I, which is false, and leaves out III, which is true.",
+            "D": "Includes I, which is false, and leaves out II, which is true.",
+            "E": "Includes I, which is false."
+          }
         },
         {
           "id": "bio-344",
@@ -6785,7 +7918,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "hard",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "B": "Includes II, which is false.",
+            "C": "Includes II and III, which are false, and leaves out I, which is true.",
+            "D": "Includes III, which is false.",
+            "E": "Includes II and III, which are false."
+          }
         },
         {
           "id": "bio-345",
@@ -6818,7 +7957,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "hard",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "B": "Includes II, which is false.",
+            "C": "Includes II and III, which are false, and leaves out I, which is true.",
+            "D": "Includes III, which is false.",
+            "E": "Includes II and III, which are false."
+          }
         },
         {
           "id": "bio-347",
@@ -6851,7 +7996,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II, which is also true.",
+            "C": "Includes III, which is false, and leaves out I, which is true.",
+            "D": "Includes III, which is false, and leaves out II, which is true.",
+            "E": "Includes III, which is false."
+          }
         },
         {
           "id": "bio-348",
@@ -6884,7 +8035,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Includes I, which is false, and leaves out III, which is true.",
+            "B": "Includes II, which is false, and leaves out III, which is true.",
+            "D": "Includes I and II, which are false, and leaves out III, which is true.",
+            "E": "Includes I and II, which are false."
+          }
         },
         {
           "id": "bio-349",
@@ -6917,7 +8074,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-350",
@@ -6950,7 +8113,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II, which is also true.",
+            "C": "Includes III, which is false, and leaves out I, which is true.",
+            "D": "Includes III, which is false, and leaves out II, which is true.",
+            "E": "Includes III, which is false."
+          }
         },
         {
           "id": "bio-351",
@@ -6983,7 +8152,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Includes I, which is false, and leaves out II and III, which are true.",
+            "B": "Includes I, which is false, and leaves out III, which is true.",
+            "D": "Includes I, which is false, and leaves out II, which is true.",
+            "E": "Includes I, which is false."
+          }
         },
         {
           "id": "bio-352",
@@ -7016,7 +8191,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Includes I, which is false, and leaves out II and III, which are true.",
+            "B": "Includes I, which is false, and leaves out III, which is true.",
+            "D": "Includes I, which is false, and leaves out II, which is true.",
+            "E": "Includes I, which is false."
+          }
         },
         {
           "id": "bio-353",
@@ -7049,7 +8230,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II, which is also true.",
+            "C": "Includes III, which is false, and leaves out I, which is true.",
+            "D": "Includes III, which is false, and leaves out II, which is true.",
+            "E": "Includes III, which is false."
+          }
         },
         {
           "id": "bio-354",
@@ -7082,7 +8269,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-355",
@@ -7115,7 +8308,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Includes I, which is false, and leaves out II and III, which are true.",
+            "B": "Includes I, which is false, and leaves out III, which is true.",
+            "D": "Includes I, which is false, and leaves out II, which is true.",
+            "E": "Includes I, which is false."
+          }
         },
         {
           "id": "bio-356",
@@ -7148,7 +8347,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "B": "Includes II, which is false.",
+            "C": "Includes II and III, which are false, and leaves out I, which is true.",
+            "D": "Includes III, which is false.",
+            "E": "Includes II and III, which are false."
+          }
         },
         {
           "id": "bio-357",
@@ -7181,7 +8386,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "hard",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-358",
@@ -7214,7 +8425,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Includes I, which is false, and leaves out III, which is true.",
+            "B": "Includes I and II, which are false, and leaves out III, which is true.",
+            "C": "Includes II, which is false.",
+            "D": "Includes I, which is false."
+          }
         },
         {
           "id": "bio-360",
@@ -7247,7 +8464,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Includes I, which is false, and leaves out III, which is true.",
+            "B": "Includes I and II, which are false, and leaves out III, which is true.",
+            "C": "Includes II, which is false.",
+            "D": "Includes I, which is false."
+          }
         },
         {
           "id": "bio-361",
@@ -7280,7 +8503,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Includes I, which is false, and leaves out III, which is true.",
+            "B": "Includes I and II, which are false, and leaves out III, which is true.",
+            "C": "Includes II, which is false.",
+            "D": "Includes I, which is false."
+          }
         },
         {
           "id": "bio-363",
@@ -7313,7 +8542,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "hard",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "B": "Includes I and II, which are false, and leaves out III, which is true.",
+            "C": "Includes II, which is false.",
+            "D": "Includes I, which is false.",
+            "E": "Includes I and II, which are false."
+          }
         },
         {
           "id": "bio-364",
@@ -7346,7 +8581,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II, which is also true.",
+            "C": "Includes III, which is false, and leaves out I, which is true.",
+            "D": "Includes III, which is false, and leaves out II, which is true.",
+            "E": "Includes III, which is false."
+          }
         },
         {
           "id": "bio-365",
@@ -7379,7 +8620,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out III, which is also true.",
+            "B": "Includes II, which is false, and leaves out III, which is true.",
+            "C": "Includes II, which is false, and leaves out I, which is true.",
+            "E": "Includes II, which is false."
+          }
         },
         {
           "id": "bio-366",
@@ -7412,7 +8659,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-367",
@@ -7445,7 +8698,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Includes I, which is false, and leaves out III, which is true.",
+            "B": "Includes I and II, which are false, and leaves out III, which is true.",
+            "C": "Includes II, which is false.",
+            "D": "Includes I, which is false."
+          }
         },
         {
           "id": "bio-368",
@@ -7478,7 +8737,13 @@
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "B": "Includes II, which is false.",
+            "C": "Includes II and III, which are false, and leaves out I, which is true.",
+            "D": "Includes III, which is false.",
+            "E": "Includes II and III, which are false."
+          }
         },
         {
           "id": "bio-369",
@@ -7709,7 +8974,9 @@
           "notes": {
             "B": "Free heme is rapidly oxidized.",
             "D": "Methemoglobin (Fe3+) cannot bind oxygen.",
-            "E": "Without the protective globin pocket, free heme molecules stack and form complexes."
+            "E": "Without the protective globin pocket, free heme molecules stack and form complexes.",
+            "A": "O2 binds to the ferrous iron of haem.",
+            "C": "Without globin, Fe2+ is quickly oxidised to Fe3+."
           },
           "topicId": "haemoglobin",
           "subtopic": "",
@@ -7752,7 +9019,8 @@
             "A": "They prevent this complex formation by steric hindrance.",
             "B": "The hydrophobic pocket protects the iron.",
             "D": "The steric hindrance prevents irreversible oxidation.",
-            "E": "It creates a hindered environment, not enhanced."
+            "E": "It creates a hindered environment, not enhanced.",
+            "C": "The hydrophobic pocket keeps iron as Fe2+."
           },
           "topicId": "haemoglobin",
           "subtopic": "",
@@ -7794,7 +9062,9 @@
           "notes": {
             "A": "The α1β1 interface is closer to the heme.",
             "B": "It slides significantly during oxygenation.",
-            "E": "Salt linkages break at the α1β2 interface."
+            "E": "Salt linkages break at the α1β2 interface.",
+            "C": "Oxygenation shifts the α1β2 contact (T to R).",
+            "D": "The α1β1 contact barely changes."
           },
           "topicId": "haemoglobin",
           "subtopic": "",
@@ -7835,7 +9105,10 @@
           },
           "notes": {
             "D": "This is sickle cell trait.",
-            "E": "This is hemoglobin C trait."
+            "E": "This is hemoglobin C trait.",
+            "A": "HbSC is a form of sickle cell disease.",
+            "B": "S/β-thalassaemia is a form of sickle cell disease.",
+            "C": "HbSS is sickle cell anaemia, the commonest form."
           },
           "topicId": "haemoglobin",
           "subtopic": "",
@@ -7876,7 +9149,14 @@
           },
           "topicId": "haemoglobin",
           "subtopic": "",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "notes": {
+            "A": "HbS polymers distort the cell.",
+            "B": "Rigid sickled cells block small vessels.",
+            "C": "Blocked vessels starve tissue of oxygen.",
+            "D": "Lower O2 raises deoxy-HbS, which polymerises more.",
+            "E": "Sickled cells are destroyed early."
+          }
         },
         {
           "id": "bio-428",
@@ -7913,7 +9193,10 @@
           },
           "notes": {
             "A": "They prevent formation.",
-            "D": "They resemble the complementary site."
+            "D": "They resemble the complementary site.",
+            "B": "They copy the region of βS that makes contacts in the polymer.",
+            "C": "They specifically block polymer (gel) formation.",
+            "E": "They block the acceptor sites to which the sticky patch binds."
           },
           "topicId": "haemoglobin",
           "subtopic": "",
@@ -7944,7 +9227,12 @@
           },
           "topicId": "haemoglobin",
           "subtopic": "",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "notes": {
+            "A": "Carbamylated Hb stays oxygenated, so there is less deoxy-HbS.",
+            "B": "Carbamylation raises O2 affinity.",
+            "C": "Cyanate carbamylates N-terminal amino groups irreversibly."
+          }
         },
         {
           "id": "bio-430",
@@ -7974,14 +9262,21 @@
           ],
           "answerByOption": {
             "A": "T",
-            "B": "T",
+            "B": "F",
             "C": "T",
             "D": "F",
             "E": "T"
           },
           "topicId": "haemoglobin",
           "subtopic": "",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "notes": {
+            "A": "Keeping the cell hydrated lowers HbS concentration.",
+            "B": "Raising HbF is the action of agents like hydroxyurea, not of ion channel drugs.",
+            "C": "A larger volume dilutes HbS.",
+            "D": "Shrinking the cell CONCENTRATES HbS and promotes sickling.",
+            "E": "They act by blocking K+ loss (e.g. Gardos channel blockers)."
+          }
         },
         {
           "id": "bio-431",
@@ -8018,7 +9313,14 @@
           },
           "topicId": "haemoglobin",
           "subtopic": "",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "notes": {
+            "A": "These drugs switch on γ-globin, raising HbF.",
+            "B": "These agents act on Hb or the red cell membrane.",
+            "C": "A transplant can cure the disease.",
+            "D": "Gene therapy is an emerging cure.",
+            "E": "These are core supportive treatments for crises."
+          }
         },
         {
           "id": "bio-432",
@@ -8054,7 +9356,11 @@
             "E": "T"
           },
           "notes": {
-            "A": "This is sickle cell."
+            "A": "This is sickle cell.",
+            "B": "A single substitution makes an abnormal Hb (e.g. HbS), not thalassaemia.",
+            "C": "Thalassaemia is a quantitative defect.",
+            "D": "The chain imbalance causes the disease.",
+            "E": "Excess unpaired chains precipitate, causing ineffective erythropoiesis."
           },
           "topicId": "haemoglobin",
           "subtopic": "",
@@ -8095,7 +9401,14 @@
           },
           "topicId": "haemoglobin",
           "subtopic": "",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "notes": {
+            "A": "β genes are on chromosome 11 and α genes on chromosome 16.",
+            "B": "Splicing, promoter and nonsense mutations all occur.",
+            "C": "Unstable mRNA lowers chain output.",
+            "D": "Some mutant chains are unstable.",
+            "E": "This is the basic defect."
+          }
         },
         {
           "id": "bio-434",
@@ -8127,7 +9440,13 @@
           },
           "topicId": "haemoglobin",
           "subtopic": "",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "notes": {
+            "A": "Two normal β genes.",
+            "B": "One affected β gene gives the minor (trait) form.",
+            "C": "Two β+ genes leave some β chain production.",
+            "D": "No or very little β chain is made."
+          }
         },
         {
           "id": "bio-435",
@@ -8164,7 +9483,14 @@
           },
           "topicId": "haemoglobin",
           "subtopic": "",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "notes": {
+            "A": "Two α genes sit on each chromosome 16, making four.",
+            "B": "There are four α genes, not two.",
+            "C": "β thalassaemia is mostly point mutations.",
+            "D": "Deletions of α genes are the usual cause.",
+            "E": "This mismatch drives the disease."
+          }
         },
         {
           "id": "bio-436",
@@ -8200,7 +9526,11 @@
             "E": "T"
           },
           "notes": {
-            "A": "Normal is aa/aa."
+            "A": "Normal is aa/aa.",
+            "B": "One α gene is missing.",
+            "C": "Two α genes are missing, either one from each chromosome or both from one.",
+            "D": "Only one α gene is left.",
+            "E": "No α genes, so only γ4 (Hb Bart's) forms."
           },
           "topicId": "haemoglobin",
           "subtopic": "",
@@ -8241,7 +9571,10 @@
           },
           "notes": {
             "A": "Myoglobin is a monomer.",
-            "B": "HbF has lower affinity."
+            "B": "HbF has lower affinity.",
+            "C": "Serine at γ143 binds 2,3-BPG weakly, so HbF has higher O2 affinity.",
+            "D": "γ143 is serine; histidine is at β143.",
+            "E": "His β143 is one of the positive groups that bind 2,3-BPG."
           },
           "topicId": "haemoglobin",
           "subtopic": "",
@@ -8282,7 +9615,10 @@
           },
           "notes": {
             "C": "(Bohr effect).",
-            "D": "CO2 causes changes."
+            "D": "CO2 causes changes.",
+            "A": "Binding at one haem raises affinity at the others.",
+            "B": "The sigmoid curve reflects cooperativity.",
+            "E": "2,3-BPG binds away from the haem and lowers O2 affinity."
           },
           "topicId": "haemoglobin",
           "subtopic": "",
@@ -8323,7 +9659,10 @@
           },
           "notes": {
             "B": "It lies to the left.",
-            "E": "It is ~2-3 torrs."
+            "E": "It is ~2-3 torrs.",
+            "A": "Myoglobin has the higher affinity at every PO2.",
+            "C": "Cooperative binding gives a sigmoid curve.",
+            "D": "Haemoglobin is half-saturated at about 26 torr."
           },
           "topicId": "haemoglobin",
           "subtopic": "",
@@ -8364,7 +9703,14 @@
           },
           "topicId": "haemoglobin",
           "subtopic": "",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "notes": {
+            "A": "The hydrophobic pocket keeps Fe2+ from oxidising.",
+            "B": "Distal His bends bound CO, lowering its affinity.",
+            "C": "Histidines and N-terminal groups take up H+ (Bohr effect).",
+            "D": "Globin lets haem bind O2 reversibly.",
+            "E": "β-chain residues form the 2,3-BPG pocket."
+          }
         },
         {
           "id": "bio-460",
@@ -8501,7 +9847,13 @@
           "why": "CTP is a pyrimidine. During catabolism, the ring is reduced and cleaved, releasing nitrogen as ammonia.",
           "topicId": "nucleotides",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Uric acid comes from PURINE breakdown.",
+            "C": "The pyrimidine ring is reduced, then opened.",
+            "D": "The ring is opened, giving β-alanine.",
+            "E": "Hypoxanthine is a purine intermediate."
+          }
         },
         {
           "id": "bio-208",
@@ -8533,7 +9885,13 @@
           "why": "Deoxyribonucleotides are made from ribonucleotides by ribonucleotide reductase, which uses thioredoxin.",
           "topicId": "nucleotides",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "dPRPP does not exist; deoxy forms are made at the diphosphate level.",
+            "B": "Salvage gives AMP, not dATP directly.",
+            "C": "This is not the main route for dATP.",
+            "E": "dIMP is not converted to dAMP this way; THF is used for TMP."
+          }
         },
         {
           "id": "bio-209",
@@ -8565,7 +9923,13 @@
           "why": "Inhibiting xanthine oxidase decreases uric acid production, treating gout.",
           "topicId": "nucleotides",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Excess PRPP drives purine synthesis and urate production.",
+            "C": "Cell turnover releases purines that become urate.",
+            "D": "ADA moves adenosine toward urate.",
+            "E": "Lesch–Nyhan: purines are not salvaged, so urate rises."
+          }
         },
         {
           "id": "bio-210",
@@ -8597,7 +9961,13 @@
           "why": "In humans the committed, regulated step of pyrimidine synthesis is cytosolic carbamoyl phosphate synthetase II, which UTP inhibits (allosteric feedback) and PRPP activates. Aspartate transcarbamylase is the control point in bacteria, glutamine-PRPP amidotransferase controls PURINE synthesis, and N-acetylglutamate activates the urea-cycle CPS I.",
           "topicId": "nucleotides",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "That enzyme controls PURINE synthesis.",
+            "B": "ATCase is the control point in bacteria.",
+            "C": "NAG regulates CPS I (urea cycle).",
+            "D": "Substrates matter, but the main control is feedback on CPS II."
+          }
         },
         {
           "id": "bio-211",
@@ -8629,7 +9999,13 @@
           "why": "The conversion of UTP to CTP requires the amide group of glutamine, not aspartate.",
           "topicId": "nucleotides",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "Aspartate supplies N1 and the amino group of AMP.",
+            "C": "Aspartate condenses with carbamoyl phosphate.",
+            "D": "The purine nucleotide cycle uses aspartate.",
+            "E": "Aspartate is a protein amino acid."
+          }
         },
         {
           "id": "bio-212",
@@ -8661,7 +10037,13 @@
           "why": "Salvage of increased xanthine/hypoxanthine consumes PRPP, so PRPP levels would decrease.",
           "topicId": "nucleotides",
           "subtopic": "",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "notes": {
+            "A": "More salvage of hypoxanthine gives IMP/GMP, which feedback-inhibits de novo synthesis.",
+            "B": "Less urate is made.",
+            "C": "Hypoxanthine is not oxidised, so it accumulates.",
+            "E": "Xanthine is not oxidised, so it accumulates."
+          }
         },
         {
           "id": "bio-213",
@@ -8694,7 +10076,13 @@
           "topicId": "nucleotides",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out 4, which is also true.",
+            "B": "Leaves out 2 and 4, which are also true.",
+            "C": "Leaves out 1 and 3, which are also true.",
+            "D": "Leaves out 1, 2 and 3, which are also true."
+          }
         },
         {
           "id": "bio-214",
@@ -8726,7 +10114,13 @@
           "why": "AMP contains adenine, a purine base.",
           "topicId": "nucleotides",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "UMP has uracil, a pyrimidine.",
+            "C": "UTP has uracil, a pyrimidine.",
+            "D": "CTP has cytosine, a pyrimidine.",
+            "E": "TMP has thymine, a pyrimidine."
+          }
         },
         {
           "id": "bio-215",
@@ -8759,7 +10153,13 @@
           "topicId": "nucleotides",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-216",
@@ -8792,7 +10192,13 @@
           "topicId": "nucleotides",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out III, which is also true.",
+            "B": "Includes II, which is false, and leaves out III, which is true.",
+            "C": "Includes II, which is false, and leaves out I, which is true.",
+            "E": "Includes II, which is false."
+          }
         },
         {
           "id": "bio-217",
@@ -8825,7 +10231,13 @@
           "topicId": "nucleotides",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "B": "Includes II, which is false.",
+            "C": "Includes II and III, which are false, and leaves out I, which is true.",
+            "D": "Includes III, which is false.",
+            "E": "Includes II and III, which are false."
+          }
         },
         {
           "id": "bio-218",
@@ -8858,7 +10270,13 @@
           "topicId": "nucleotides",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-219",
@@ -8886,7 +10304,12 @@
           "why": "Nucleotides are the monomers that polymerize to form DNA and RNA.",
           "topicId": "nucleotides",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "Nucleosides lack the phosphate needed for the backbone.",
+            "C": "Amino acids build proteins.",
+            "D": "Histones are proteins that package DNA."
+          }
         },
         {
           "id": "bio-220",
@@ -8914,7 +10337,12 @@
           "why": "Both DNA and RNA polymerases read the template strand in the 3' to 5' direction.",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "RNA polymerases use NTPs, not dNTPs.",
+            "B": "RNA polymerase needs no primer.",
+            "C": "DNA polymerase starts at origins and primers, not promoters."
+          }
         },
         {
           "id": "bio-221",
@@ -8942,7 +10370,12 @@
           "why": "DNA polymerase synthesizes DNA in the 5' to 3' direction.",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "No polymerase adds nucleotides 3'→5'.",
+            "C": "DNA polymerase does not make mRNA.",
+            "D": "RNA polymerase makes mRNA."
+          }
         },
         {
           "id": "bio-222",
@@ -8970,7 +10403,12 @@
           "why": "DNA ligase seals the nicks between Okazaki fragments.",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Adding nucleotides is the polymerase's job.",
+            "B": "Adding nucleotides is the polymerase's job.",
+            "D": "Base pairing is not catalysed by ligase."
+          }
         },
         {
           "id": "bio-223",
@@ -8998,7 +10436,12 @@
           "why": "DNA polymerase III has 3' to 5' exonuclease activity for proofreading.",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "5'→3' exonuclease removes RNA primers (Pol I).",
+            "C": "Proofreading uses an EXOnuclease.",
+            "D": "Proofreading uses an EXOnuclease working 3'→5'."
+          }
         },
         {
           "id": "bio-224",
@@ -9026,7 +10469,12 @@
           "why": "Topoisomerases relieve torsional stress ahead of the fork.",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Polymerases make DNA; they do not relieve supercoils.",
+            "B": "Helicases unwind the strands but create supercoils ahead.",
+            "C": "Primases make RNA primers."
+          }
         },
         {
           "id": "bio-225",
@@ -9054,7 +10502,12 @@
           "why": "Helicase breaks hydrogen bonds to separate the strands.",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Ligase seals nicks.",
+            "C": "Topoisomerase relieves supercoils; it does not separate strands.",
+            "D": "No such unwinding enzyme; exonucleases degrade DNA."
+          }
         },
         {
           "id": "bio-226",
@@ -9082,7 +10535,12 @@
           "why": "Prokaryotes do not undergo RNA splicing.",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Prokaryotes replicate DNA.",
+            "B": "Prokaryotes transcribe genes.",
+            "C": "Prokaryotes translate mRNA."
+          }
         },
         {
           "id": "bio-227",
@@ -9110,7 +10568,12 @@
           "why": "The Tus protein binds to termination (Ter) sites and stops the replication fork.",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "The polymerase is what gets stopped.",
+            "B": "Helicase is what Tus blocks.",
+            "C": "SSB only coats single strands."
+          }
         },
         {
           "id": "bio-228",
@@ -9142,7 +10605,13 @@
           "why": "A=T=30%. Total A+T = 60%. G+C = 40%. G = 20%.",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "30% is A (and T), not G.",
+            "B": "40% is G + C together.",
+            "D": "70% matches no base pair sum.",
+            "E": "Chargaff's rule gives the answer."
+          }
         },
         {
           "id": "bio-229",
@@ -9175,7 +10644,13 @@
           "topicId": "molbio",
           "subtopic": "",
           "difficulty": "easy",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Without labels, the orientation is unknown.",
+            "B": "Without labels, the orientation is unknown.",
+            "D": "ATGC read on the other strand is GCAT, so it is not palindromic.",
+            "E": "Option C is correct."
+          }
         },
         {
           "id": "bio-230",
@@ -9207,7 +10682,13 @@
           "why": "Genomic DNA is transcribed to produce mRNA.",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "tRNA is transcribed, not translated.",
+            "C": "Transcription makes RNA, not DNA.",
+            "D": "DNA is not translated directly.",
+            "E": "Replication makes DNA."
+          }
         },
         {
           "id": "bio-231",
@@ -9239,7 +10720,13 @@
           "why": "tRNA molecules have an anticodon and carry the corresponding amino acid.",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "rRNA forms the ribosome and catalyses peptide bonds.",
+            "C": "mRNA carries the codons; it is not the adaptor.",
+            "D": "siRNA silences genes.",
+            "E": "Not a recognised adaptor RNA."
+          }
         },
         {
           "id": "bio-232",
@@ -9267,7 +10754,12 @@
           "why": "DNA polymerase gamma replicates mitochondrial DNA.",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Pol α primes nuclear DNA.",
+            "B": "Pol β repairs DNA.",
+            "D": "Pol δ makes the nuclear lagging strand."
+          }
         },
         {
           "id": "bio-233",
@@ -9295,7 +10787,12 @@
           "why": "The lagging strand is synthesized discontinuously away from the replication fork.",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "The leading strand is continuous; it has no Okazaki fragments.",
+            "B": "Each fragment grows AWAY from the fork.",
+            "C": "Okazaki fragments are on the lagging strand."
+          }
         },
         {
           "id": "bio-234",
@@ -9327,7 +10824,13 @@
           "why": "A benign tumor is encapsulated and does not invade.",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Neoplasia covers both benign and malignant growth.",
+            "C": "Anaplasia is loss of differentiation, typical of malignancy.",
+            "D": "Cancer invades.",
+            "E": "Angiogenesis is new vessel growth."
+          }
         },
         {
           "id": "bio-235",
@@ -9359,7 +10862,13 @@
           "why": "Inducer binds repressor, causing it to fall off, increasing transcription.",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "The operator is DNA, and the inducer binds the repressor.",
+            "B": "The inducer increases transcription.",
+            "D": "Removing the repressor increases transcription.",
+            "E": "Co-repressors help repressors bind, decreasing transcription."
+          }
         },
         {
           "id": "bio-236",
@@ -9391,7 +10900,13 @@
           "why": "High glucose leads to low cAMP (catabolite repression).",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Bacteria do not use insulin.",
+            "B": "Bacteria do not use glucagon.",
+            "C": "Glycogen is a storage polymer, not the signal.",
+            "E": "Lactose switches the operon ON."
+          }
         },
         {
           "id": "bio-237",
@@ -9423,7 +10938,13 @@
           "why": "High Trp causes the termination hairpin to form, halting transcription.",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "Attenuation stops transcription, so it is negative.",
+            "C": "Low Trp lets transcription continue.",
+            "D": "Low Trp lets transcription continue.",
+            "E": "This is not a recognised description."
+          }
         },
         {
           "id": "bio-238",
@@ -9451,7 +10972,12 @@
           "why": "Controlling assembly at the promoter is transcriptional control.",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "This acts on RNA after it is made (splicing, export).",
+            "C": "This acts at the ribosome.",
+            "D": "This acts on the finished protein."
+          }
         },
         {
           "id": "bio-239",
@@ -9483,7 +11009,13 @@
           "why": "A single base change causes an amino acid substitution (missense).",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Silent mutations do not change the amino acid; HbS has Glu→Val.",
+            "C": "Nonsense mutations create a stop codon.",
+            "D": "No bases are inserted.",
+            "E": "No bases are deleted."
+          }
         },
         {
           "id": "bio-240",
@@ -9515,7 +11047,13 @@
           "why": "RNA polymerase is not used in cDNA cloning.",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "It makes cDNA from mRNA.",
+            "C": "It cuts the vector and insert.",
+            "D": "It joins insert to vector.",
+            "E": "It makes the second strand."
+          }
         },
         {
           "id": "bio-241",
@@ -9547,7 +11085,13 @@
           "why": "Reverse transcription is the synthesis of DNA from an RNA template.",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Transcription makes RNA from DNA.",
+            "C": "Translation makes protein.",
+            "D": "Replication copies DNA from DNA.",
+            "E": "Splicing removes introns."
+          }
         },
         {
           "id": "bio-242",
@@ -9576,7 +11120,12 @@
           "topicId": "molbio",
           "subtopic": "",
           "difficulty": "easy",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "B": "Not a standard vector type.",
+            "C": "Library vectors store DNA; they do not express it.",
+            "D": "Option A is correct."
+          }
         },
         {
           "id": "bio-243",
@@ -9608,7 +11157,13 @@
           "why": "Both require RNA polymerase to bind to a promoter.",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Capping and poly-A are eukaryotic only.",
+            "B": "Coupled transcription–translation is prokaryotic only.",
+            "C": "mRNA is made 5'→3'.",
+            "E": "Eukaryotic mRNA is spliced, so it is not co-linear."
+          }
         },
         {
           "id": "bio-244",
@@ -9640,7 +11195,13 @@
           "why": "Somatostatin was the first human hormone produced using recombinant DNA technology.",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Insulin came in 1978–79, after somatostatin (1977).",
+            "B": "Erythropoietin came later.",
+            "C": "Interferon came later.",
+            "E": "Growth hormone came later."
+          }
         },
         {
           "id": "bio-245",
@@ -9669,7 +11230,12 @@
           "topicId": "molbio",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "The host must receive the vector before expression.",
+            "C": "The gene must be isolated first.",
+            "D": "Nothing can be introduced before the gene is isolated and inserted."
+          }
         },
         {
           "id": "bio-246",
@@ -9702,7 +11268,13 @@
           "topicId": "molbio",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Includes I, which is false, and leaves out II and III, which are true.",
+            "B": "Includes I, which is false, and leaves out III, which is true.",
+            "D": "Includes I, which is false, and leaves out II, which is true.",
+            "E": "Includes I, which is false."
+          }
         },
         {
           "id": "bio-247",
@@ -9735,7 +11307,13 @@
           "topicId": "molbio",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Includes I, which is false, and leaves out II and III, which are true.",
+            "B": "Includes I, which is false, and leaves out III, which is true.",
+            "D": "Includes I, which is false, and leaves out II, which is true.",
+            "E": "Includes I, which is false."
+          }
         },
         {
           "id": "bio-248",
@@ -9768,7 +11346,13 @@
           "topicId": "molbio",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-249",
@@ -9801,7 +11385,13 @@
           "topicId": "molbio",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-250",
@@ -9834,7 +11424,13 @@
           "topicId": "molbio",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-251",
@@ -9867,7 +11463,13 @@
           "topicId": "molbio",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out III, which is also true.",
+            "B": "Includes II, which is false, and leaves out I and III, which are true.",
+            "D": "Includes II, which is false, and leaves out I, which is true.",
+            "E": "Includes II, which is false."
+          }
         },
         {
           "id": "bio-252",
@@ -9900,7 +11502,13 @@
           "topicId": "molbio",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Includes I, which is false, and leaves out III, which is true.",
+            "B": "Includes II, which is false, and leaves out III, which is true.",
+            "D": "Includes I and II, which are false, and leaves out III, which is true.",
+            "E": "Includes I and II, which are false."
+          }
         },
         {
           "id": "bio-253",
@@ -9933,7 +11541,13 @@
           "topicId": "molbio",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II, which is also true.",
+            "C": "Includes III, which is false, and leaves out I, which is true.",
+            "D": "Includes III, which is false, and leaves out II, which is true.",
+            "E": "Includes III, which is false."
+          }
         },
         {
           "id": "bio-254",
@@ -9966,7 +11580,13 @@
           "topicId": "molbio",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-255",
@@ -9999,7 +11619,13 @@
           "topicId": "molbio",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "B": "Includes II, which is false.",
+            "C": "Includes II and III, which are false, and leaves out I, which is true.",
+            "D": "Includes III, which is false.",
+            "E": "Includes II and III, which are false."
+          }
         },
         {
           "id": "bio-337",
@@ -10031,7 +11657,13 @@
           "why": "Gene therapy faces many limitations (delivery, immune responses, ethics).",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "True: colony PCR is standard screening.",
+            "B": "True: digestion releases the insert.",
+            "C": "True: sequencing confirms the insert.",
+            "D": "True: biotechnology is a major industry."
+          }
         },
         {
           "id": "bio-346",
@@ -10064,7 +11696,13 @@
           "topicId": "molbio",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Includes I, which is false, and leaves out II and III, which are true.",
+            "B": "Includes I, which is false, and leaves out III, which is true.",
+            "D": "Includes I, which is false, and leaves out II, which is true.",
+            "E": "Includes I, which is false."
+          }
         },
         {
           "id": "bio-401",
@@ -10097,7 +11735,13 @@
           "topicId": "molbio",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the assertion is false and the reason is false.",
+            "B": "Wrong here: the assertion is false and the reason is false.",
+            "C": "Wrong here: the assertion is false.",
+            "D": "Wrong here: the reason is false."
+          }
         },
         {
           "id": "bio-402",
@@ -10130,7 +11774,13 @@
           "topicId": "molbio",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the assertion is false.",
+            "B": "Wrong here: the assertion is false.",
+            "C": "Wrong here: the assertion is false and the reason is true.",
+            "E": "Wrong here: the reason is true."
+          }
         },
         {
           "id": "bio-453",
@@ -10158,7 +11808,12 @@
           "why": "The tRNA anticodon is complementary and antiparallel to the mRNA codon. If mRNA is 5'-AUG-3', the anticodon is 3'-UAC-5'.",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "tRNA has U, not T, and this is the wrong orientation.",
+            "C": "Written 5'→3', the anticodon is CAU, not UAC.",
+            "D": "tRNA has U, not T."
+          }
         },
         {
           "id": "bio-454",
@@ -10175,7 +11830,7 @@
             },
             {
               "label": "C",
-              "text": "3'-UAC-5'"
+              "text": "5'-UAC-3'"
             },
             {
               "label": "D",
@@ -10186,7 +11841,12 @@
           "why": "The transcript (mRNA) is complementary and antiparallel to the DNA template strand. RNA uses Uracil instead of Thymine. So 5'-ATG-3' becomes 5'-CAU-3'.",
           "topicId": "molbio",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "This is the template read as if it were RNA, not its complement.",
+            "C": "Not complementary: pairing must also be antiparallel.",
+            "D": "RNA has U, not T."
+          }
         },
         {
           "id": "bio-256",
@@ -10219,7 +11879,13 @@
           "topicId": "immunology",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "B": "Wrong here: the reason does explain the assertion.",
+            "C": "Wrong here: the reason is true.",
+            "D": "Wrong here: the assertion is true.",
+            "E": "Wrong here: the assertion is true and the reason is true."
+          }
         },
         {
           "id": "bio-257",
@@ -10252,7 +11918,13 @@
           "topicId": "immunology",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the assertion is false and the reason is false.",
+            "B": "Wrong here: the assertion is false and the reason is false.",
+            "C": "Wrong here: the assertion is false.",
+            "D": "Wrong here: the reason is false."
+          }
         },
         {
           "id": "bio-258",
@@ -10285,7 +11957,13 @@
           "topicId": "immunology",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the assertion is false and the reason is false.",
+            "B": "Wrong here: the assertion is false and the reason is false.",
+            "C": "Wrong here: the assertion is false.",
+            "D": "Wrong here: the reason is false."
+          }
         },
         {
           "id": "bio-259",
@@ -10318,7 +11996,13 @@
           "topicId": "immunology",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the reason is false.",
+            "B": "Wrong here: the reason is false.",
+            "D": "Wrong here: the assertion is true and the reason is false.",
+            "E": "Wrong here: the assertion is true."
+          }
         },
         {
           "id": "bio-260",
@@ -10351,7 +12035,13 @@
           "topicId": "immunology",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "B": "Wrong here: the reason does explain the assertion.",
+            "C": "Wrong here: the reason is true.",
+            "D": "Wrong here: the assertion is true.",
+            "E": "Wrong here: the assertion is true and the reason is true."
+          }
         },
         {
           "id": "bio-261",
@@ -10384,7 +12074,13 @@
           "topicId": "immunology",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the reason does not explain the assertion.",
+            "C": "Wrong here: the reason is true.",
+            "D": "Wrong here: the assertion is true.",
+            "E": "Wrong here: the assertion is true and the reason is true."
+          }
         },
         {
           "id": "bio-262",
@@ -10417,7 +12113,13 @@
           "topicId": "immunology",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the reason is false.",
+            "B": "Wrong here: the reason is false.",
+            "D": "Wrong here: the assertion is true and the reason is false.",
+            "E": "Wrong here: the assertion is true."
+          }
         },
         {
           "id": "bio-263",
@@ -10450,7 +12152,13 @@
           "topicId": "immunology",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the assertion is false.",
+            "B": "Wrong here: the assertion is false.",
+            "C": "Wrong here: the assertion is false and the reason is true.",
+            "E": "Wrong here: the reason is true."
+          }
         },
         {
           "id": "bio-264",
@@ -10483,7 +12191,13 @@
           "topicId": "immunology",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the reason is false.",
+            "B": "Wrong here: the reason is false.",
+            "D": "Wrong here: the assertion is true and the reason is false.",
+            "E": "Wrong here: the assertion is true."
+          }
         },
         {
           "id": "bio-265",
@@ -10516,7 +12230,13 @@
           "topicId": "immunology",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the assertion is false.",
+            "B": "Wrong here: the assertion is false.",
+            "C": "Wrong here: the assertion is false and the reason is true.",
+            "E": "Wrong here: the reason is true."
+          }
         },
         {
           "id": "bio-266",
@@ -10544,7 +12264,12 @@
           "why": "Redundancy means multiple different cytokines can perform the same function.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "No effect is not redundancy.",
+            "B": "Acting at a distance is endocrine action.",
+            "D": "That is pleiotropy."
+          }
         },
         {
           "id": "bio-267",
@@ -10572,7 +12297,12 @@
           "why": "A cytokine stimulating the production of more cytokines creates a cascade.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Synergy is two cytokines boosting each other's effect.",
+            "C": "Redundancy is different cytokines doing the same thing.",
+            "D": "Pleiotropy is one cytokine with many effects."
+          }
         },
         {
           "id": "bio-268",
@@ -10600,7 +12330,12 @@
           "why": "Once inside, bacteria are killed by the respiratory burst (ROS) and nitric oxide.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Th1 cytokines (IFN-γ) ACTIVATE the macrophage; the macrophage does the killing.",
+            "B": "Antibodies cannot reach bacteria inside cells.",
+            "C": "CTLs kill infected cells; macrophage killing uses ROS and NO."
+          }
         },
         {
           "id": "bio-269",
@@ -10628,7 +12363,12 @@
           "why": "Diphtheria is primarily a toxemia.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "Shigella dysentery involves invasion of the gut lining, not just a toxin.",
+            "C": "TB damage comes from intracellular growth and the host response.",
+            "D": "Strep throat involves invasion and several virulence factors."
+          }
         },
         {
           "id": "bio-270",
@@ -10656,7 +12396,12 @@
           "why": "M. tuberculosis prevents phagosome-lysosome fusion.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "M. tuberculosis has a waxy mycolic acid wall, not a polysaccharide capsule.",
+            "C": "Destroying complement is not its main evasion strategy.",
+            "D": "It lives in macrophages, not in an immune-privileged site."
+          }
         },
         {
           "id": "bio-271",
@@ -10684,7 +12429,12 @@
           "why": "Opsonization by antibodies and complement enhances phagocytosis.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Macrophages alone kill less efficiently without opsonins.",
+            "B": "Complement alone is not optimal.",
+            "C": "Antibody alone does not kill."
+          }
         },
         {
           "id": "bio-272",
@@ -10712,7 +12462,12 @@
           "why": "Hypersensitivity is an exaggerated immune response causing damage.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "Autoimmunity targets SELF antigens.",
+            "C": "Immunodeficiency is too LITTLE response.",
+            "D": "Tolerance is NO response."
+          }
         },
         {
           "id": "bio-273",
@@ -10740,7 +12495,12 @@
           "why": "IgE binds to mast cells and triggers allergic reactions.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "IgG mediates type II and III reactions.",
+            "B": "IgM mediates type II reactions (e.g. ABO).",
+            "D": "IgA protects mucosa."
+          }
         },
         {
           "id": "bio-274",
@@ -10768,7 +12528,12 @@
           "why": "Tolerance is the absence of an immune response to a specific antigen.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Autoimmunity is a response against self.",
+            "B": "Immunodeficiency is a failure of the system, not antigen-specific unresponsiveness.",
+            "D": "Recognition leads to a response."
+          }
         },
         {
           "id": "bio-275",
@@ -10796,7 +12561,12 @@
           "why": "Histamine is the primary mediator of immediate hypersensitivity.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Interleukins are signalling cytokines, not the main hypersensitivity mediator.",
+            "C": "Interferons are antiviral.",
+            "D": "Lysosomes are organelles, not messengers."
+          }
         },
         {
           "id": "bio-276",
@@ -10824,7 +12594,12 @@
           "why": "Type IV is delayed-type and mediated by T cells.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Type I is IgE-mediated.",
+            "B": "Type II is antibody-mediated (cytotoxic).",
+            "C": "Type III is immune-complex mediated."
+          }
         },
         {
           "id": "bio-277",
@@ -10852,7 +12627,12 @@
           "why": "Autoimmunity occurs when the immune system attacks its own tissues.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Hypersensitivity is an excess response to a foreign antigen.",
+            "C": "Immunodeficiency is too little response.",
+            "D": "Tolerance is the PROTECTION against attacking self."
+          }
         },
         {
           "id": "bio-278",
@@ -10880,7 +12660,12 @@
           "why": "Many autoimmune diseases are driven by autoantibodies.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Some are T-cell mediated (e.g. type 1 diabetes), but most involve autoantibodies.",
+            "C": "Macrophages are effectors, not the main driver.",
+            "D": "Mast cells drive allergy."
+          }
         },
         {
           "id": "bio-279",
@@ -10908,7 +12693,12 @@
           "why": "SCID is an immunodeficiency disorder.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Rheumatoid arthritis is autoimmune.",
+            "C": "Graves' disease is caused by TSH-receptor autoantibodies.",
+            "D": "Addison's disease is autoimmune adrenalitis."
+          }
         },
         {
           "id": "bio-280",
@@ -10936,7 +12726,12 @@
           "why": "Sensitization is the first exposure where IgE binds to mast cells.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "The second exposure triggers the reaction; it is not the priming step.",
+            "C": "Trauma is not required.",
+            "D": "Degranulation is the effector step, after priming."
+          }
         },
         {
           "id": "bio-281",
@@ -10964,7 +12759,12 @@
           "why": "Some pathogens induce tolerance to avoid being attacked.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Autoimmunity is a host disorder, not a pathogen strategy.",
+            "B": "Phagolysosome fusion KILLS pathogens; they try to block it.",
+            "D": "ROS are host weapons."
+          }
         },
         {
           "id": "bio-282",
@@ -10992,7 +12792,12 @@
           "why": "Type II is an antibody-mediated cytotoxic reaction.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "Mast cells drive type I.",
+            "C": "Red cells may be targets, but they do not characterise the type.",
+            "D": "Histamine drives type I."
+          }
         },
         {
           "id": "bio-283",
@@ -11020,7 +12825,12 @@
           "why": "Tumor antigens are often overexpressed self-proteins.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "Most tumour antigens are altered or overexpressed self-proteins.",
+            "C": "Antibodies recognise antigens; they are not antigens.",
+            "D": "T cell receptors recognise antigens."
+          }
         },
         {
           "id": "bio-284",
@@ -11048,7 +12858,12 @@
           "why": "Cancer is uncontrolled cell division due to loss of cell-cycle control.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Cell death removes cells.",
+            "B": "Apoptosis protects against cancer.",
+            "D": "Shutting down the cycle stops growth."
+          }
         },
         {
           "id": "bio-285",
@@ -11076,7 +12891,12 @@
           "why": "FcεRI is the high-affinity IgE receptor on mast cells.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "FcεRII (CD23) is the LOW-affinity receptor.",
+            "C": "B cell receptors bind antigen, not IgE Fc.",
+            "D": "TCRs bind peptide–MHC."
+          }
         },
         {
           "id": "bio-286",
@@ -11104,7 +12924,12 @@
           "why": "Atopy is the genetic tendency to develop allergic diseases.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Atrophy is shrinkage of tissue.",
+            "C": "Anergy is functional unresponsiveness.",
+            "D": "Synergy is a combined effect."
+          }
         },
         {
           "id": "bio-287",
@@ -11132,7 +12957,12 @@
           "why": "SLE is a Type III hypersensitivity.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Asthma is a type I reaction.",
+            "B": "Allergic rhinitis is a type I reaction.",
+            "D": "Atopic dermatitis is a type I reaction."
+          }
         },
         {
           "id": "bio-288",
@@ -11160,7 +12990,12 @@
           "why": "Naturally occurring ABO antibodies are predominantly IgM.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "IgG causes Rh disease; natural anti-A and anti-B are mainly IgM.",
+            "C": "IgA does not cause transfusion reactions.",
+            "D": "IgE drives type I."
+          }
         },
         {
           "id": "bio-289",
@@ -11188,7 +13023,12 @@
           "why": "Interferon-gamma (IFN-γ) is measured in TB diagnosis.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "TNF-α helps granulomas but is not measured.",
+            "B": "TNF-β (lymphotoxin) is not the diagnostic cytokine.",
+            "C": "IFN-α is mainly antiviral."
+          }
         },
         {
           "id": "bio-290",
@@ -11216,7 +13056,12 @@
           "why": "Trophoblast cells downregulate classical MHC class I molecules.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "This helps, but the main mechanism is MHC downregulation.",
+            "C": "Autoimmunity would harm, not protect.",
+            "D": "Regulatory T cells are ENHANCED, not exacerbated, and that is not the main evasion route."
+          }
         },
         {
           "id": "bio-291",
@@ -11244,7 +13089,12 @@
           "why": "Loss of tolerance to gut microbiota leads to inflammatory bowel diseases.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "Stomach ulcers are mainly due to H. pylori and NSAIDs.",
+            "C": "Vomiting is a symptom, not an immune disease.",
+            "D": "Bronchoconstriction is an airway (type I) response."
+          }
         },
         {
           "id": "bio-292",
@@ -11272,7 +13122,12 @@
           "why": "Corticosteroids are potent immunosuppressants used for autoimmune diseases.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "A": "Vaccines stimulate immunity.",
+            "B": "Not a standard treatment for autoimmunity (desensitisation is used for allergy).",
+            "C": "Antihistamines treat allergy."
+          }
         },
         {
           "id": "bio-293",
@@ -11447,7 +13302,12 @@
           "why": "Histidine decarboxylase removes the carboxyl group from histidine to produce histamine.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "notes": {
+            "B": "Methylation INACTIVATES histamine.",
+            "C": "Phosphorylation does not form histamine.",
+            "D": "Isomerisation does not form histamine."
+          }
         },
         {
           "id": "bio-301",
@@ -11480,7 +13340,13 @@
           "topicId": "immunology",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the reason is false.",
+            "B": "Wrong here: the reason is false.",
+            "D": "Wrong here: the assertion is true and the reason is false.",
+            "E": "Wrong here: the assertion is true."
+          }
         },
         {
           "id": "bio-302",
@@ -11513,7 +13379,13 @@
           "topicId": "immunology",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Wrong here: the reason is false.",
+            "B": "Wrong here: the reason is false.",
+            "D": "Wrong here: the assertion is true and the reason is false.",
+            "E": "Wrong here: the assertion is true."
+          }
         },
         {
           "id": "bio-303",
@@ -11541,7 +13413,12 @@
           "why": "Tryptophan is the precursor for serotonin. Its degradation via the kynurenine pathway produces hydroxyanthranilic acid.",
           "topicId": "immunology",
           "subtopic": "",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "notes": {
+            "B": "Histidine gives histamine.",
+            "C": "Methionine gives SAM and homocysteine.",
+            "D": "Tyrosine gives catecholamines and melanin."
+          }
         },
         {
           "id": "bio-308",
@@ -11574,7 +13451,13 @@
           "topicId": "immunology",
           "subtopic": "",
           "difficulty": "medium",
-          "lockOrder": true
+          "lockOrder": true,
+          "notes": {
+            "A": "Leaves out II and III, which are also true.",
+            "B": "Leaves out III, which is also true.",
+            "C": "Leaves out I, which is also true.",
+            "D": "Leaves out II, which is also true."
+          }
         },
         {
           "id": "bio-414",
@@ -11656,7 +13539,9 @@
           "notes": {
             "C": "This prevents premature aggregation.",
             "D": "Fibrinopeptide B contains this.",
-            "E": "Γ-carboxyglutamates are in clotting factors, not fibrinopeptides."
+            "E": "Γ-carboxyglutamates are in clotting factors, not fibrinopeptides.",
+            "A": "Acidic residues give a strong negative charge, so the peptides repel.",
+            "B": "They are rich in CHARGED (acidic) residues."
           },
           "topicId": "coagulation",
           "subtopic": "",
@@ -11698,7 +13583,9 @@
           "notes": {
             "A": "Oxalate precipitates calcium.",
             "B": "Citrate is an anticoagulant.",
-            "D": "Warfarin is an antagonist."
+            "D": "Warfarin is an antagonist.",
+            "C": "EDTA removes Ca2+, which clotting needs.",
+            "E": "Coumarins block vitamin K recycling."
           },
           "topicId": "coagulation",
           "subtopic": "",
@@ -11741,7 +13628,8 @@
             "A": "Hemophilia is X-linked recessive.",
             "C": "Hemophilia A.",
             "D": "Hemophilia B.",
-            "E": "Christmas factor is Factor IX."
+            "E": "Christmas factor is Factor IX.",
+            "B": "It is X-linked recessive."
           },
           "topicId": "coagulation",
           "subtopic": "",
