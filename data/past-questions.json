@@ -2721,6 +2721,44 @@
           "topicId": "cardiac-muscle",
           "subtopic": "Electrical coupling",
           "difficulty": "easy"
+        },
+        {
+          "id": "set-02-A-041",
+          "type": "single-best",
+          "stem": "Which of the following is the primary determinant of the resting membrane potential in cardiac contractile cells?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sodium permeability"
+            },
+            {
+              "label": "B",
+              "text": "Potassium permeability"
+            },
+            {
+              "label": "C",
+              "text": "Calcium permeability"
+            },
+            {
+              "label": "D",
+              "text": "Chloride permeability"
+            },
+            {
+              "label": "E",
+              "text": "Sodium-potassium pump activity"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "At rest, ventricular and atrial myocytes are far more permeable to K+ than to any other ion (inward-rectifier IK1 channels). K+ leaks out down its concentration gradient, so the resting potential (about −90 mV) sits close to the K+ equilibrium potential.",
+          "notes": {
+            "A": "Resting Na+ permeability is low; opening fast Na+ channels causes the upstroke, not the resting level.",
+            "C": "Ca2+ channels are closed at rest; Ca2+ entry shapes the plateau.",
+            "D": "Chloride contributes very little to the cardiac resting potential.",
+            "E": "The pump builds the K+ and Na+ gradients and adds only a few millivolts directly; the potential itself is set by K+ permeability."
+          },
+          "topicId": "cardiac-muscle",
+          "subtopic": "Action potentials and refractoriness",
+          "difficulty": "easy"
         }
       ]
     },

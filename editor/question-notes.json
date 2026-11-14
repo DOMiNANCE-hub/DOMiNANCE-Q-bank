@@ -1416,6 +1416,9 @@
    "section": "A",
    "number": 126,
    "originalExplanation": "The plateau (phase 2) of contractile myocyte action potentials comes from Ca2+ influx through L-type (slow) Ca2+ channels, balanced by K+ efflux. This Ca2+ also triggers SR Ca2+ release for contraction.\nNot A or D: Na+ entry causes the rapid upstroke (phase 0), and the fast Na+ channels then inactivate.\nNot C: a large rise in K+ permeability causes repolarisation (phase 3).\nNot E: a DECREASE in Ca2+ entry would shorten the plateau."
+  },
+  "set-02-A-041": {
+   "source": "Physiology.html (thatboy) Q44, past question not in the original sets"
   }
  },
  "curated": {
@@ -2138,6 +2141,1544 @@
   "M03-Q60": {
    "originalExplanation": "When ventricular pressure falls below aortic pressure, brief reversal tendency closes the aortic valve and starts isovolumetric relaxation. Not A: Venous pressure does not directly determine aortic valve closure. Not B: Atrial pressure governs mitral opening, not aortic closure. Not D: Ventricular pressure exceeding aortic pressure opens the valve.",
    "number": 60
+  }
+ },
+ "biochem": {
+  "bio-001": {
+   "sourceId": 1,
+   "originalExplanation": "Statins are structural analogs of HMG-CoA. They competitively inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol biosynthesis."
+  },
+  "bio-002": {
+   "sourceId": 2,
+   "originalExplanation": "AMPK acts as a cellular energy sensor. When cellular energy is low, it phosphorylates HMG-CoA reductase, which inactivates the enzyme."
+  },
+  "bio-003": {
+   "sourceId": 3,
+   "originalExplanation": "Upstream kinases (such as LKB1 or CaMKKβ) phosphorylate AMPK to activate it."
+  },
+  "bio-004": {
+   "sourceId": 4,
+   "originalExplanation": "Glucagon/epinephrine increases cAMP, which activates PKA. PKA initiates a cascade that keeps HMG-CoA reductase phosphorylated and inactive."
+  },
+  "bio-005": {
+   "sourceId": 5,
+   "originalExplanation": "Acetyl-CoA carboxylase (ACC) catalyzes the committed, rate-limiting step of fatty acid synthesis."
+  },
+  "bio-006": {
+   "sourceId": 6,
+   "originalExplanation": "Excess dietary carbohydrates are converted to acetyl-CoA and then to triacylglycerols for storage in humans."
+  },
+  "bio-007": {
+   "sourceId": 7,
+   "originalExplanation": "Insulin promotes lipogenesis (converting carbs to fat) and inhibits lipolysis."
+  },
+  "bio-008": {
+   "sourceId": 8,
+   "originalExplanation": "Phospholipid synthesis involves CDP-activated intermediates, but not condensation of two CDP-linked molecules."
+  },
+  "bio-009": {
+   "sourceId": 9,
+   "originalExplanation": "LDL delivers cholesterol to peripheral tissues via receptor-mediated endocytosis."
+  },
+  "bio-010": {
+   "sourceId": 10,
+   "originalExplanation": "VLDL transports endogenously synthesized triglycerides from the liver."
+  },
+  "bio-011": {
+   "sourceId": 11,
+   "originalExplanation": "All 27 carbons of cholesterol are derived from acetyl-CoA."
+  },
+  "bio-012": {
+   "sourceId": 12,
+   "revisionNote": "Original options restored from the 2020/21 paper.",
+   "originalExplanation": "Bile acids and steroid hormones are made from cholesterol. Vitamin C is a water-soluble vitamin."
+  },
+  "bio-013": {
+   "sourceId": 13,
+   "originalExplanation": "Non-fasting blood primarily reflects the presence of dietary chylomicrons."
+  },
+  "bio-014": {
+   "sourceId": 14,
+   "originalExplanation": "Bile acids emulsify dietary fats, aiding in their digestion and absorption."
+  },
+  "bio-015": {
+   "sourceId": 15,
+   "originalExplanation": "Type IIA is familial hypercholesterolemia, typically due to defective LDL receptors, preventing LDL clearance."
+  },
+  "bio-016": {
+   "sourceId": 16,
+   "originalExplanation": "Statins lower intracellular cholesterol, causing cells to upregulate LDL receptors, which clears LDL from the blood."
+  },
+  "bio-017": {
+   "sourceId": 17,
+   "originalExplanation": "The correct increasing order is: Chylomicrons < VLDL < IDL < LDL < HDL."
+  },
+  "bio-018": {
+   "sourceId": 18,
+   "revisionNote": "Stem and options rewritten: the original listed I/II/III codes without the key and had no correct option.",
+   "originalExplanation": "I (ACP) and III (Acetyl-CoA: ACP transacylase) represent the carrier and the enzyme that loads it."
+  },
+  "bio-019": {
+   "sourceId": 19,
+   "originalExplanation": "Acetyl-CoA: ACP transacylase transfers the acetyl group from Coenzyme A to the active site of the ACP."
+  },
+  "bio-020": {
+   "sourceId": 20,
+   "originalExplanation": "Malonyl-CoA: ACP transacylase transfers the malonyl group to the phosphopantetheine arm of the ACP."
+  },
+  "bio-021": {
+   "sourceId": 21,
+   "originalExplanation": "The condensation reaction joins the acetyl and malonyl groups, decarboxylating the malonyl group to release CO2. This is catalyzed by Keto Acyl: ACP synthase."
+  },
+  "bio-022": {
+   "sourceId": 22,
+   "originalExplanation": "The enzyme β-keto-Acyl: ACP reductase (II) reduces the keto group to a hydroxyl group, and it requires NADPH (I)."
+  },
+  "bio-023": {
+   "sourceId": 23,
+   "originalExplanation": "Enoyl-ACP reductase (III) reduces the double bond to a single bond, utilizing NADPH (I)."
+  },
+  "bio-024": {
+   "sourceId": 24,
+   "originalExplanation": "NADPH provides the reducing power for the two reduction steps in fatty acid synthesis."
+  },
+  "bio-025": {
+   "sourceId": 25,
+   "originalExplanation": "The Acyl Carrier Protein (ACP) holds the growing fatty acid chain during synthesis."
+  },
+  "bio-026": {
+   "sourceId": 26,
+   "originalExplanation": "Lipoprotein lipase deficiency causes hypertriglyceridemia, hepatosplenomegaly, and xanthomas, but not muscular dystrophy."
+  },
+  "bio-027": {
+   "sourceId": 27,
+   "revisionNote": "Option D changed: the original 'elevated cholesterol' was also correct.",
+   "originalExplanation": "ApoE deficiency impairs clearance of chylomicron and VLDL remnants, causing elevated triglycerides and cholesterol."
+  },
+  "bio-028": {
+   "sourceId": 28,
+   "originalExplanation": "The immediate precursor of added carbons is malonyl-CoA, not acetyl-CoA."
+  },
+  "bio-029": {
+   "sourceId": 29,
+   "revisionNote": "Stem corrected and option C reworded (the original also made C false, giving two answers).",
+   "originalExplanation": "It is the reverse: degradation is mitochondrial, synthesis is cytosolic."
+  },
+  "bio-030": {
+   "sourceId": 30,
+   "revisionNote": "Rewritten: the original keyed VLDL and had several true options.",
+   "originalExplanation": "Triglycerides (in VLDL and chylomicrons) are highly sensitive to recent food intake."
+  },
+  "bio-031": {
+   "sourceId": 31,
+   "originalExplanation": "Antioxidants neutralize or scavenge free radicals, preventing them from causing cellular damage."
+  },
+  "bio-032": {
+   "sourceId": 32,
+   "originalExplanation": "An antioxidant's effectiveness is influenced by its chemical structure, the local redox environment, and the presence of metals."
+  },
+  "bio-033": {
+   "sourceId": 33,
+   "originalExplanation": "Free radicals are highly reactive and can damage all major macromolecules in the cell."
+  },
+  "bio-034": {
+   "sourceId": 34,
+   "originalExplanation": "The long conjugated double-bond system allows carotenoids to absorb the excess energy from singlet oxygen."
+  },
+  "bio-035": {
+   "sourceId": 35,
+   "originalExplanation": "Antioxidants scavenge or quench ROS, preventing them from reacting with and damaging cellular components."
+  },
+  "bio-036": {
+   "sourceId": 36,
+   "originalExplanation": "The Fenton reaction generates highly toxic hydroxyl radicals; it does not protect against oxidative stress."
+  },
+  "bio-037": {
+   "sourceId": 37,
+   "originalExplanation": "SOD converts superoxide to hydrogen peroxide (H2O2), not water."
+  },
+  "bio-038": {
+   "sourceId": 38,
+   "revisionNote": "Option C changed: the original 'the hydroxyl radical is highly diffusible' is also untrue (it reacts where it forms), giving two answers.",
+   "originalExplanation": "H2O2 is a reactive oxygen species but not a free radical (it has no unpaired electrons)."
+  },
+  "bio-039": {
+   "sourceId": 39,
+   "originalExplanation": "Antimalarials cause oxidative stress; in G6PD deficiency, this leads to hemolysis (black urine)."
+  },
+  "bio-040": {
+   "sourceId": 40,
+   "originalExplanation": "SOD converts superoxide to H2O2, and catalase then converts the H2O2 into water and oxygen."
+  },
+  "bio-041": {
+   "sourceId": 41,
+   "originalExplanation": "Glutathione peroxidase detoxifies peroxides; it does not generate radicals."
+  },
+  "bio-042": {
+   "sourceId": 42,
+   "originalExplanation": "Glutathione reductase uses NADPH to reduce oxidized glutathione (GSSG) back to reduced glutathione (GSH)."
+  },
+  "bio-043": {
+   "sourceId": 43,
+   "originalExplanation": "Myeloperoxidase generates hypochlorous acid (a strong oxidant)."
+  },
+  "bio-044": {
+   "sourceId": 44,
+   "originalExplanation": "It is the enzyme glutathione peroxidase that catalyzes this, not glutathione itself."
+  },
+  "bio-045": {
+   "sourceId": 45,
+   "originalExplanation": "DNA is highly susceptible to oxidative damage."
+  },
+  "bio-046": {
+   "sourceId": 46,
+   "originalExplanation": "The hydroxyl radical (OH-) is the most reactive and destructive ROS in biological systems."
+  },
+  "bio-047": {
+   "sourceId": 47,
+   "originalExplanation": "Antioxidants have different solubilities and target different radicals."
+  },
+  "bio-048": {
+   "sourceId": 48,
+   "originalExplanation": "Oxidative stress can damage DNA and proteins directly without necessarily causing lipid peroxidation."
+  },
+  "bio-049": {
+   "sourceId": 49,
+   "originalExplanation": "Chain-breaking antioxidants stop the propagation of lipid peroxidation."
+  },
+  "bio-050": {
+   "sourceId": 50,
+   "originalExplanation": "Byproducts of lipid peroxidation (like malondialdehyde) are mutagenic and can initiate cancer."
+  },
+  "bio-051": {
+   "sourceId": 51,
+   "originalExplanation": "Vitamin C is a direct antioxidant; Zinc and Selenium are essential cofactors for antioxidant enzymes."
+  },
+  "bio-052": {
+   "sourceId": 52,
+   "originalExplanation": "DNA damage can trigger cellular stress pathways that lead to mitochondrial dysfunction and more ROS."
+  },
+  "bio-053": {
+   "sourceId": 53,
+   "originalExplanation": "Normal metabolism produces ROS, diseases produce them, and tissue damage generates them."
+  },
+  "bio-054": {
+   "sourceId": 54,
+   "originalExplanation": "Mitochondria are the primary source. The nucleus and cytoplasm also produce ROS."
+  },
+  "bio-055": {
+   "sourceId": 55,
+   "originalExplanation": "Coffee (polyphenols), almonds (Vitamin E), and mushrooms (ergothioneine) are all excellent sources."
+  },
+  "bio-056": {
+   "sourceId": 56,
+   "originalExplanation": "All three are extracellular proteins that prevent oxidative damage in the blood."
+  },
+  "bio-057": {
+   "sourceId": 57,
+   "originalExplanation": "Glutathione and Vitamin C can act catalytically (they are regenerated). Urate acts stoichiometrically."
+  },
+  "bio-058": {
+   "sourceId": 58,
+   "originalExplanation": "The mechanism is: OH* attacks a polyunsaturated fatty acid to form a lipid radical. This radical reacts with O2 to form a lipid peroxyl radical."
+  },
+  "bio-059": {
+   "sourceId": 59,
+   "originalExplanation": "Free radicals cause oxidative damage to proteins, marking them for degradation by the proteasome."
+  },
+  "bio-060": {
+   "sourceId": 60,
+   "originalExplanation": "The body synthesizes glutathione (GSH) and uric acid (urate) internally. Vitamin C must be obtained from the diet."
+  },
+  "bio-061": {
+   "sourceId": 61,
+   "originalExplanation": "Almost all naturally occurring amino acids incorporated into biological proteins are L-α-amino acids."
+  },
+  "bio-062": {
+   "sourceId": 62,
+   "originalExplanation": "Serine is a polar uncharged amino acid. Arginine and Lysine are basic; Glutamate is acidic."
+  },
+  "bio-063": {
+   "sourceId": 63,
+   "originalExplanation": "The primary structure (sequence) of a protein is held together by peptide bonds."
+  },
+  "bio-064": {
+   "sourceId": 64,
+   "originalExplanation": "Secondary structures (like α-helices and β-pleated sheets) are stabilized by hydrogen bonds."
+  },
+  "bio-065": {
+   "sourceId": 65,
+   "originalExplanation": "Cystinuria is a defect in the renal transporter for dibasic amino acids (COAL). Tryptophan is not involved."
+  },
+  "bio-066": {
+   "sourceId": 66,
+   "originalExplanation": "The urea cycle incorporates nitrogen from ammonia via carbamoyl phosphate, and from aspartate."
+  },
+  "bio-067": {
+   "sourceId": 67,
+   "originalExplanation": "N-acetylglutamate is an essential allosteric activator for Carbamoyl Phosphate Synthetase I (CPS I)."
+  },
+  "bio-068": {
+   "sourceId": 68,
+   "originalExplanation": "CPS I catalyzes the committed, rate-limiting step of the urea cycle."
+  },
+  "bio-069": {
+   "sourceId": 69,
+   "originalExplanation": "The two nitrogen atoms enter as ammonium (NH4+, via carbamoyl phosphate) and aspartate."
+  },
+  "bio-070": {
+   "sourceId": 70,
+   "originalExplanation": "In the liver, alanine transfers its amino group to α-ketoglutarate."
+  },
+  "bio-071": {
+   "sourceId": 71,
+   "originalExplanation": "Aspartate donates its amino group to the urea cycle and becomes oxaloacetate, which can enter the TCA cycle."
+  },
+  "bio-072": {
+   "sourceId": 72,
+   "originalExplanation": "The urea cycle produces fumarate, which directly enters the TCA cycle."
+  },
+  "bio-073": {
+   "sourceId": 73,
+   "originalExplanation": "The final step of the urea cycle is catalyzed by arginase, which cleaves arginine into urea and ornithine."
+  },
+  "bio-074": {
+   "sourceId": 74,
+   "originalExplanation": "Methionine cannot be synthesized by the human body and must be obtained from the diet."
+  },
+  "bio-075": {
+   "sourceId": 75,
+   "originalExplanation": "Arginine is conditionally essential; dietary intake is required during periods of rapid growth or stress."
+  },
+  "bio-076": {
+   "sourceId": 76,
+   "originalExplanation": "Arginine is a highly polar, positively charged (basic) amino acid."
+  },
+  "bio-077": {
+   "sourceId": 77,
+   "originalExplanation": "Valine contains a hydrophobic aliphatic side chain."
+  },
+  "bio-078": {
+   "sourceId": 78,
+   "revisionNote": "Option D changed from threonine, which some textbooks classify as ketogenic too.",
+   "originalExplanation": "Isoleucine is both glucogenic and ketogenic."
+  },
+  "bio-079": {
+   "sourceId": 79,
+   "originalExplanation": "Threonine has a hydroxyl group but does not contain sulfur."
+  },
+  "bio-080": {
+   "sourceId": 80,
+   "originalExplanation": "Tyrosine contains an aromatic benzene ring."
+  },
+  "bio-081": {
+   "sourceId": 81,
+   "originalExplanation": "Urea is the primary nitrogenous waste product of protein catabolism."
+  },
+  "bio-082": {
+   "sourceId": 82,
+   "originalExplanation": "Glutamate decarboxylase removes CO2 from glutamate to synthesize Gamma-aminobutyric acid (GABA)."
+  },
+  "bio-083": {
+   "sourceId": 83,
+   "originalExplanation": "The assertion is true. The reason is false: transdeamination involves transamination followed by oxidative deamination."
+  },
+  "bio-084": {
+   "sourceId": 84,
+   "originalExplanation": "Both true. The transport of alanine is the mechanism, not the reason why it's a burden."
+  },
+  "bio-085": {
+   "sourceId": 85,
+   "originalExplanation": "The assertion is true. The reason is false: the urea cycle consumes three ATP."
+  },
+  "bio-086": {
+   "sourceId": 86,
+   "originalExplanation": "Both false. The urea cycle occurs partly in mitochondria and partly in cytosol. Only two steps occur in mitochondria."
+  },
+  "bio-087": {
+   "sourceId": 87,
+   "originalExplanation": "Oxaloacetate can enter the TCA cycle, be converted to glucose, or be transaminated to aspartate."
+  },
+  "bio-088": {
+   "sourceId": 88,
+   "originalExplanation": "i is true. ii is true. iii is false; high ATP/GTP inhibits the enzyme."
+  },
+  "bio-089": {
+   "sourceId": 89,
+   "originalExplanation": "Ammonia depletes alpha-ketoglutarate, impairs protein synthesis, and alters neurotransmitters."
+  },
+  "bio-090": {
+   "sourceId": 90,
+   "originalExplanation": "Cysteine is converted to pyruvate and taurine. Glutathione is a peptide formed from cysteine, not a carbon skeleton end-product."
+  },
+  "bio-091": {
+   "sourceId": 91,
+   "originalExplanation": "Folic acid consists of PABA and a pteridine ring. (It contains glutamate, not glutamine)."
+  },
+  "bio-092": {
+   "sourceId": 92,
+   "originalExplanation": "Serine, alanine, aspartate, cysteine, histidine are glycogenic. Threonine and isoleucine are both."
+  },
+  "bio-093": {
+   "sourceId": 93,
+   "originalExplanation": "Isoleucine and tyrosine are both. Serine is purely glycogenic."
+  },
+  "bio-094": {
+   "sourceId": 94,
+   "originalExplanation": "All three are ketogenic (or both) and yield acetyl CoA during degradation."
+  },
+  "bio-095": {
+   "sourceId": 95,
+   "originalExplanation": "All three are polar uncharged amino acids."
+  },
+  "bio-096": {
+   "sourceId": 96,
+   "originalExplanation": "Arginine is basic (positive). Glutamine is polar uncharged. Glutamate is acidic (negative)."
+  },
+  "bio-097": {
+   "sourceId": 97,
+   "originalExplanation": "All are true. Defective PAH causes pale skin, phenylpyruvate is excreted in urine, and BH4 is a required cofactor."
+  },
+  "bio-098": {
+   "sourceId": 98,
+   "originalExplanation": "Phenylalanine hydroxylase (PAH) deficiency causes Phenylketonuria (PKU)."
+  },
+  "bio-099": {
+   "sourceId": 99,
+   "originalExplanation": "MSUD is caused by a defect in the branched-chain alpha-keto acid dehydrogenase complex, affecting all three."
+  },
+  "bio-100": {
+   "sourceId": 100,
+   "originalExplanation": "It is a variant of MSUD (ii) caused by the enzyme deficiency (iii), but symptoms appear intermittently, often later."
+  },
+  "bio-101": {
+   "sourceId": 101,
+   "originalExplanation": "i is true. ii is true. iii is false (Type II is due to tyrosine aminotransferase deficiency)."
+  },
+  "bio-102": {
+   "sourceId": 102,
+   "revisionNote": "Key changed from 'II and III' to 'I and II', matching the lecturer's key on the 2020/21 paper.",
+   "originalExplanation": "Type II (Richner-Hanhart syndrome) is characterized by eye and skin lesions and seizures."
+  },
+  "bio-103": {
+   "sourceId": 103,
+   "revisionNote": "Key changed to 'II and III', matching the lecturer's key on the 2020/21 paper.",
+   "originalExplanation": "All three enzyme deficiencies correctly match their resulting conditions."
+  },
+  "bio-104": {
+   "sourceId": 104,
+   "originalExplanation": "Cystathionuria is caused by a defect in cystathionine gamma-lyase (i)."
+  },
+  "bio-105": {
+   "sourceId": 105,
+   "originalExplanation": "Defects in methionine synthase, lack of PLP, and CBS deficiency can all lead to homocystinuria."
+  },
+  "bio-106": {
+   "sourceId": 106,
+   "originalExplanation": "Isovaleric acidemia causes speech defects, mild intellectual disability, and a distinct 'sweaty feet' odor."
+  },
+  "bio-107": {
+   "sourceId": 107,
+   "originalExplanation": "IEMs can present early or later (depending on severity/exposure to triggers)."
+  },
+  "bio-108": {
+   "sourceId": 108,
+   "originalExplanation": "In a block, the substrate accumulates (not reduces). It interferes with feedback and reduces the product."
+  },
+  "bio-109": {
+   "sourceId": 109,
+   "originalExplanation": "All can be used depending on the suspected disorder."
+  },
+  "bio-110": {
+   "sourceId": 110,
+   "originalExplanation": "CVS and amniotic fluid are prenatal. Liver biopsy is postnatal."
+  },
+  "bio-111": {
+   "sourceId": 111,
+   "originalExplanation": "Screening requires the disease to be common, treatable, and have an easy test."
+  },
+  "bio-112": {
+   "sourceId": 112,
+   "originalExplanation": "All are common presentations."
+  },
+  "bio-113": {
+   "sourceId": 113,
+   "originalExplanation": "All are standard tests for metabolic disorders."
+  },
+  "bio-114": {
+   "sourceId": 114,
+   "originalExplanation": "All are valid strategies."
+  },
+  "bio-115": {
+   "sourceId": 115,
+   "originalExplanation": "Classic galactosemia is caused by GALT (uridyltransferase) deficiency."
+  },
+  "bio-116": {
+   "sourceId": 116,
+   "originalExplanation": "Methylmalonic aciduria is caused by defects in the breakdown of isoleucine (and valine, methionine, threonine)."
+  },
+  "bio-117": {
+   "sourceId": 117,
+   "originalExplanation": "Menkes (copper transport) and Cystinosis (cystine transport) are transporter defects."
+  },
+  "bio-118": {
+   "sourceId": 118,
+   "originalExplanation": "All can result from receptor mutations."
+  },
+  "bio-119": {
+   "sourceId": 119,
+   "originalExplanation": "Both are true, but they are inheritable because of genetic mutations, not just because they affect metabolism."
+  },
+  "bio-120": {
+   "sourceId": 120,
+   "originalExplanation": "A block in histidase prevents conversion of histidine to urocanic acid, causing low urocanic acid and high histidine buildup."
+  },
+  "bio-136": {
+   "sourceId": 136,
+   "originalExplanation": "ALA dehydratase (δ-ALA dehydrase) catalyzes the formation of PBG from two molecules of ALA."
+  },
+  "bio-137": {
+   "sourceId": 137,
+   "revisionNote": "Key changed from B to A: positions 6 and 7 keep their propionates in protoporphyrin IX.",
+   "originalExplanation": "It acts on side chains 6 and 7."
+  },
+  "bio-138": {
+   "sourceId": 138,
+   "originalExplanation": "The first step requires O2 and NADPH."
+  },
+  "bio-139": {
+   "sourceId": 139,
+   "originalExplanation": "Vitamin D (dihydroxycholecalciferol) is a sterol derivative, unlike the others which are tetrapyrroles."
+  },
+  "bio-140": {
+   "sourceId": 140,
+   "originalExplanation": "It is the only endogenous source of carbon monoxide."
+  },
+  "bio-141": {
+   "sourceId": 141,
+   "originalExplanation": "Porphin is a macrocyclic ring structure."
+  },
+  "bio-142": {
+   "sourceId": 142,
+   "originalExplanation": "Porphin has four methene bridges connecting the pyrrole rings."
+  },
+  "bio-143": {
+   "sourceId": 143,
+   "originalExplanation": "Protoporphyrin IX has methyl, vinyl, and propionate side chains."
+  },
+  "bio-144": {
+   "sourceId": 144,
+   "originalExplanation": "Uroporphyrins have four isomeric forms, though only III is biologically relevant."
+  },
+  "bio-145": {
+   "sourceId": 145,
+   "originalExplanation": "AIP causes accumulation of PBG and 5-ALA."
+  },
+  "bio-146": {
+   "sourceId": 146,
+   "originalExplanation": "PCT patients present with cutaneous photosensitivity."
+  },
+  "bio-147": {
+   "sourceId": 147,
+   "originalExplanation": "AIP is caused by deficiency of PBG deaminase."
+  },
+  "bio-148": {
+   "sourceId": 148,
+   "originalExplanation": "Retinoblastoma is caused by mutations in the RB tumor suppressor gene."
+  },
+  "bio-184": {
+   "sourceId": 184,
+   "originalExplanation": "All three are key allosteric properties (Bohr effect for pH)."
+  },
+  "bio-185": {
+   "sourceId": 185,
+   "originalExplanation": "The myoglobin curve lies to the left."
+  },
+  "bio-186": {
+   "sourceId": 186,
+   "originalExplanation": "The globin chain performs all these functions."
+  },
+  "bio-207": {
+   "sourceId": 207,
+   "originalExplanation": "CTP is a pyrimidine. During catabolism, the ring is reduced and cleaved, releasing nitrogen as ammonia."
+  },
+  "bio-208": {
+   "sourceId": 208,
+   "originalExplanation": "Deoxyribonucleotides are made from ribonucleotides by ribonucleotide reductase, which uses thioredoxin."
+  },
+  "bio-209": {
+   "sourceId": 209,
+   "originalExplanation": "Inhibiting xanthine oxidase decreases uric acid production, treating gout."
+  },
+  "bio-210": {
+   "sourceId": 210,
+   "revisionNote": "Option E reworded from 'competitive inhibition' to 'feedback inhibition'; UTP is an allosteric inhibitor.",
+   "originalExplanation": "In humans, the rate-limiting step is catalyzed by CPS II, inhibited by UTP."
+  },
+  "bio-211": {
+   "sourceId": 211,
+   "originalExplanation": "The conversion of UTP to CTP requires the amide group of glutamine, not aspartate."
+  },
+  "bio-212": {
+   "sourceId": 212,
+   "originalExplanation": "Salvage of increased xanthine/hypoxanthine consumes PRPP, so PRPP levels would decrease."
+  },
+  "bio-213": {
+   "sourceId": 213,
+   "originalExplanation": "All four are direct sources."
+  },
+  "bio-214": {
+   "sourceId": 214,
+   "originalExplanation": "AMP contains adenine, a purine base."
+  },
+  "bio-215": {
+   "sourceId": 215,
+   "originalExplanation": "All three statements are true regarding the eukaryotic enzymes."
+  },
+  "bio-216": {
+   "sourceId": 216,
+   "originalExplanation": "Azaserine is a glutamine analog that inhibits glutamine-requiring enzymes like QP synthetase, but not ATCase."
+  },
+  "bio-217": {
+   "sourceId": 217,
+   "originalExplanation": "Hereditary orotic aciduria is caused by a defect in UMP synthase."
+  },
+  "bio-218": {
+   "sourceId": 218,
+   "originalExplanation": "All three are true (Lesch-Nyhan syndrome)."
+  },
+  "bio-219": {
+   "sourceId": 219,
+   "originalExplanation": "Nucleotides are the monomers that polymerize to form DNA and RNA."
+  },
+  "bio-220": {
+   "sourceId": 220,
+   "originalExplanation": "Both DNA and RNA polymerases read the template strand in the 3' to 5' direction."
+  },
+  "bio-221": {
+   "sourceId": 221,
+   "originalExplanation": "DNA polymerase synthesizes DNA in the 5' to 3' direction."
+  },
+  "bio-222": {
+   "sourceId": 222,
+   "originalExplanation": "DNA ligase seals the nicks between Okazaki fragments."
+  },
+  "bio-223": {
+   "sourceId": 223,
+   "originalExplanation": "DNA polymerase III has 3' to 5' exonuclease activity for proofreading."
+  },
+  "bio-224": {
+   "sourceId": 224,
+   "originalExplanation": "Topoisomerases relieve torsional stress ahead of the fork."
+  },
+  "bio-225": {
+   "sourceId": 225,
+   "originalExplanation": "Helicase breaks hydrogen bonds to separate the strands."
+  },
+  "bio-226": {
+   "sourceId": 226,
+   "originalExplanation": "Prokaryotes do not undergo RNA splicing."
+  },
+  "bio-227": {
+   "sourceId": 227,
+   "originalExplanation": "The Tus protein binds to termination (Ter) sites and stops the replication fork."
+  },
+  "bio-228": {
+   "sourceId": 228,
+   "originalExplanation": "A=T=30%. Total A+T = 60%. G+C = 40%. G = 20%."
+  },
+  "bio-229": {
+   "sourceId": 229,
+   "originalExplanation": "Without explicit labels, 'A' could technically be at either end."
+  },
+  "bio-230": {
+   "sourceId": 230,
+   "originalExplanation": "Genomic DNA is transcribed to produce mRNA."
+  },
+  "bio-231": {
+   "sourceId": 231,
+   "originalExplanation": "tRNA molecules have an anticodon and carry the corresponding amino acid."
+  },
+  "bio-232": {
+   "sourceId": 232,
+   "originalExplanation": "DNA polymerase gamma replicates mitochondrial DNA."
+  },
+  "bio-233": {
+   "sourceId": 233,
+   "originalExplanation": "The lagging strand is synthesized discontinuously away from the replication fork."
+  },
+  "bio-234": {
+   "sourceId": 234,
+   "originalExplanation": "A benign tumor is encapsulated and does not invade."
+  },
+  "bio-235": {
+   "sourceId": 235,
+   "originalExplanation": "Inducer binds repressor, causing it to fall off, increasing transcription."
+  },
+  "bio-236": {
+   "sourceId": 236,
+   "originalExplanation": "High glucose leads to low cAMP (catabolite repression)."
+  },
+  "bio-237": {
+   "sourceId": 237,
+   "originalExplanation": "High Trp causes the termination hairpin to form, halting transcription."
+  },
+  "bio-238": {
+   "sourceId": 238,
+   "originalExplanation": "Controlling assembly at the promoter is transcriptional control."
+  },
+  "bio-239": {
+   "sourceId": 239,
+   "originalExplanation": "A single base change causes an amino acid substitution (missense)."
+  },
+  "bio-240": {
+   "sourceId": 240,
+   "originalExplanation": "RNA polymerase is not used in cDNA cloning."
+  },
+  "bio-241": {
+   "sourceId": 241,
+   "originalExplanation": "Reverse transcription is the synthesis of DNA from an RNA template."
+  },
+  "bio-242": {
+   "sourceId": 242,
+   "originalExplanation": "An expression vector drives the transcription and translation of the inserted gene."
+  },
+  "bio-243": {
+   "sourceId": 243,
+   "originalExplanation": "Both require RNA polymerase to bind to a promoter."
+  },
+  "bio-244": {
+   "sourceId": 244,
+   "originalExplanation": "Somatostatin was the first human hormone produced using recombinant DNA technology."
+  },
+  "bio-245": {
+   "sourceId": 245,
+   "originalExplanation": "Isolate gene -> insert into vector -> introduce to host -> express -> extract."
+  },
+  "bio-246": {
+   "sourceId": 246,
+   "originalExplanation": "It separates in two directions (i is false)."
+  },
+  "bio-247": {
+   "sourceId": 247,
+   "originalExplanation": "RNA polymerase and a core promoter are required."
+  },
+  "bio-248": {
+   "sourceId": 248,
+   "originalExplanation": "All statements correctly describe the Watson-Crick model."
+  },
+  "bio-249": {
+   "sourceId": 249,
+   "originalExplanation": "Telomerase is an RNA-dependent DNA polymerase."
+  },
+  "bio-250": {
+   "sourceId": 250,
+   "originalExplanation": "Replication is template-directed, requires primers, and is highly accurate."
+  },
+  "bio-251": {
+   "sourceId": 251,
+   "originalExplanation": "DNA replication is semi-conservative and discontinuous on the lagging strand."
+  },
+  "bio-252": {
+   "sourceId": 252,
+   "originalExplanation": "Eukaryotic RNA polymerase requires basal transcription factors."
+  },
+  "bio-253": {
+   "sourceId": 253,
+   "originalExplanation": "ATCase is the committed step in bacteria. In humans, it's CPS II."
+  },
+  "bio-254": {
+   "sourceId": 254,
+   "originalExplanation": "All statements are correct."
+  },
+  "bio-255": {
+   "sourceId": 255,
+   "originalExplanation": "tRNA carries specific amino acids to the ribosome."
+  },
+  "bio-256": {
+   "sourceId": 256,
+   "originalExplanation": "Neutralizing antibodies bind to viral surface proteins and prevent attachment to host cells."
+  },
+  "bio-257": {
+   "sourceId": 257,
+   "originalExplanation": "Once integrated, antibodies cannot reach or eliminate the virus."
+  },
+  "bio-258": {
+   "sourceId": 258,
+   "originalExplanation": "Cell-mediated immunity targets intracellular pathogens. Antibodies neutralize toxins."
+  },
+  "bio-259": {
+   "sourceId": 259,
+   "originalExplanation": "Pleiotropy means one cytokine has multiple effects. Different cytokines having the same effect is redundancy."
+  },
+  "bio-260": {
+   "sourceId": 260,
+   "originalExplanation": "Cytokines can trigger signaling cascades that lead to more cytokine production."
+  },
+  "bio-261": {
+   "sourceId": 261,
+   "originalExplanation": "They do act as chemoattractants and regulate development, but the development role is not the reason for the chemoattraction."
+  },
+  "bio-262": {
+   "sourceId": 262,
+   "originalExplanation": "T-cells kill infected cells. Cell-mediated responses do not inactivate toxins."
+  },
+  "bio-263": {
+   "sourceId": 263,
+   "originalExplanation": "Innate immunity is the first line. Antibodies do block binding."
+  },
+  "bio-264": {
+   "sourceId": 264,
+   "originalExplanation": "Antibodies cannot eliminate integrated viral genomes."
+  },
+  "bio-265": {
+   "sourceId": 265,
+   "originalExplanation": "The merozoite stage causes major symptoms. Sporozoites do target liver cells."
+  },
+  "bio-266": {
+   "sourceId": 266,
+   "originalExplanation": "Redundancy means multiple different cytokines can perform the same function."
+  },
+  "bio-267": {
+   "sourceId": 267,
+   "originalExplanation": "A cytokine stimulating the production of more cytokines creates a cascade."
+  },
+  "bio-268": {
+   "sourceId": 268,
+   "originalExplanation": "Once inside, bacteria are killed by the respiratory burst (ROS) and nitric oxide."
+  },
+  "bio-269": {
+   "sourceId": 269,
+   "originalExplanation": "Diphtheria is primarily a toxemia."
+  },
+  "bio-270": {
+   "sourceId": 270,
+   "originalExplanation": "M. tuberculosis prevents phagosome-lysosome fusion."
+  },
+  "bio-271": {
+   "sourceId": 271,
+   "originalExplanation": "Opsonization by antibodies and complement enhances phagocytosis."
+  },
+  "bio-272": {
+   "sourceId": 272,
+   "originalExplanation": "Hypersensitivity is an exaggerated immune response causing damage."
+  },
+  "bio-273": {
+   "sourceId": 273,
+   "originalExplanation": "IgE binds to mast cells and triggers allergic reactions."
+  },
+  "bio-274": {
+   "sourceId": 274,
+   "originalExplanation": "Tolerance is the absence of an immune response to a specific antigen."
+  },
+  "bio-275": {
+   "sourceId": 275,
+   "originalExplanation": "Histamine is the primary mediator of immediate hypersensitivity."
+  },
+  "bio-276": {
+   "sourceId": 276,
+   "originalExplanation": "Type IV is delayed-type and mediated by T cells."
+  },
+  "bio-277": {
+   "sourceId": 277,
+   "originalExplanation": "Autoimmunity occurs when the immune system attacks its own tissues."
+  },
+  "bio-278": {
+   "sourceId": 278,
+   "originalExplanation": "Many autoimmune diseases are driven by autoantibodies."
+  },
+  "bio-279": {
+   "sourceId": 279,
+   "originalExplanation": "SCID is an immunodeficiency disorder."
+  },
+  "bio-280": {
+   "sourceId": 280,
+   "originalExplanation": "Sensitization is the first exposure where IgE binds to mast cells."
+  },
+  "bio-281": {
+   "sourceId": 281,
+   "originalExplanation": "Some pathogens induce tolerance to avoid being attacked."
+  },
+  "bio-282": {
+   "sourceId": 282,
+   "originalExplanation": "Type II is an antibody-mediated cytotoxic reaction."
+  },
+  "bio-283": {
+   "sourceId": 283,
+   "originalExplanation": "Tumor antigens are often overexpressed self-proteins."
+  },
+  "bio-284": {
+   "sourceId": 284,
+   "originalExplanation": "Cancer is uncontrolled cell division due to loss of cell-cycle control."
+  },
+  "bio-285": {
+   "sourceId": 285,
+   "originalExplanation": "FcεRI is the high-affinity IgE receptor on mast cells."
+  },
+  "bio-286": {
+   "sourceId": 286,
+   "originalExplanation": "Atopy is the genetic tendency to develop allergic diseases."
+  },
+  "bio-287": {
+   "sourceId": 287,
+   "originalExplanation": "SLE is a Type III hypersensitivity."
+  },
+  "bio-288": {
+   "sourceId": 288,
+   "originalExplanation": "Naturally occurring ABO antibodies are predominantly IgM."
+  },
+  "bio-289": {
+   "sourceId": 289,
+   "originalExplanation": "Interferon-gamma (IFN-γ) is measured in TB diagnosis."
+  },
+  "bio-290": {
+   "sourceId": 290,
+   "originalExplanation": "Trophoblast cells downregulate classical MHC class I molecules."
+  },
+  "bio-291": {
+   "sourceId": 291,
+   "originalExplanation": "Loss of tolerance to gut microbiota leads to inflammatory bowel diseases."
+  },
+  "bio-292": {
+   "sourceId": 292,
+   "originalExplanation": "Corticosteroids are potent immunosuppressants used for autoimmune diseases."
+  },
+  "bio-293": {
+   "sourceId": 293,
+   "revisionNote": "Key changed to False so it agrees with the bank's own definitions of hypersensitivity and autoimmunity.",
+   "originalExplanation": "Autoimmunity is an overreaction against self-antigens."
+  },
+  "bio-294": {
+   "sourceId": 294,
+   "originalExplanation": "They frequently affect younger women (e.g., SLE in the 20s and 30s)."
+  },
+  "bio-295": {
+   "sourceId": 295,
+   "originalExplanation": "Anergy is a state of functional unresponsiveness."
+  },
+  "bio-296": {
+   "sourceId": 296,
+   "originalExplanation": "T cells in the thymus, B cells in the bone marrow."
+  },
+  "bio-297": {
+   "sourceId": 297,
+   "originalExplanation": "Activation-induced cell death eliminates autoreactive cells."
+  },
+  "bio-298": {
+   "sourceId": 298,
+   "originalExplanation": "Drugs like procainamide can induce a lupus-like syndrome."
+  },
+  "bio-299": {
+   "sourceId": 299,
+   "originalExplanation": "Histamine is formed by decarboxylation of histidine."
+  },
+  "bio-300": {
+   "sourceId": 300,
+   "originalExplanation": "Histidine decarboxylase removes the carboxyl group from histidine to produce histamine."
+  },
+  "bio-301": {
+   "sourceId": 301,
+   "originalExplanation": "Both are true. They affect the skin due to melanin loss, but being inheritable is not the physiological mechanism."
+  },
+  "bio-302": {
+   "sourceId": 302,
+   "originalExplanation": "Tryptophan is indeed the precursor to serotonin. However, Tyrosine is the precursor to dopamine."
+  },
+  "bio-303": {
+   "sourceId": 303,
+   "originalExplanation": "Tryptophan is the precursor for serotonin. Its degradation via the kynurenine pathway produces hydroxyanthranilic acid."
+  },
+  "bio-304": {
+   "sourceId": 304,
+   "originalExplanation": "The assertion is false (it is inaccurate in certain conditions). The reason is true (factors like high triglycerides cause deviations)."
+  },
+  "bio-305": {
+   "sourceId": 305,
+   "originalExplanation": "Both statements are true. High chylomicrons cause capillary occlusion, leading to ischemia and acidosis, which activates pancreatic lipases to release toxic free fatty acids."
+  },
+  "bio-306": {
+   "sourceId": 306,
+   "originalExplanation": "The assertion is true (e.g., hydroxyproline). The reason is false: they are modified after translation, but the enzymes that modify them are genetically coded."
+  },
+  "bio-307": {
+   "sourceId": 307,
+   "originalExplanation": "All are features of Tay-Sachs (developmental regression, hypotonia, weakness)."
+  },
+  "bio-308": {
+   "sourceId": 308,
+   "originalExplanation": "Live vaccines are fatal, they get severe fungal/yeast infections, and are highly susceptible to all pathogens."
+  },
+  "bio-309": {
+   "sourceId": 309,
+   "originalExplanation": "COL1A1 mutations cause defective collagen. Triple helix formation is slow/defective. Cross-linking is deficient, not compact."
+  },
+  "bio-310": {
+   "sourceId": 310,
+   "originalExplanation": "In vertebrates, fatty acid synthase is a multifunctional megaprotein."
+  },
+  "bio-311": {
+   "sourceId": 311,
+   "originalExplanation": "Fatty acid synthesis occurs in the cytosol; only beta-oxidation occurs in the mitochondria."
+  },
+  "bio-313": {
+   "sourceId": 313,
+   "originalExplanation": "Lovastatin is a statin, which competitively inhibits HMG-CoA reductase."
+  },
+  "bio-314": {
+   "sourceId": 314,
+   "revisionNote": "Option B changed: 'nicotinic acid' is niacin, a genuine lipid-lowering drug, so it was also correct.",
+   "originalExplanation": "Simvastatin is a statin used to lower cholesterol and manage atherosclerosis."
+  },
+  "bio-315": {
+   "sourceId": 315,
+   "originalExplanation": "HDL is cardioprotective and prevents plaque formation."
+  },
+  "bio-316": {
+   "sourceId": 316,
+   "originalExplanation": "ApoB-100 and ApoE act as ligands for receptors."
+  },
+  "bio-317": {
+   "sourceId": 317,
+   "revisionNote": "Stem changed: VLDL carries B-100, C-I, C-II and E, so the original had several correct answers.",
+   "originalExplanation": "Apo B-100 is the primary structural apolipoprotein of VLDL."
+  },
+  "bio-318": {
+   "sourceId": 318,
+   "revisionNote": "Stem and option B changed: the original had several true options.",
+   "originalExplanation": "High VLDL contributes to plaque formation (atherosclerosis)."
+  },
+  "bio-319": {
+   "sourceId": 319,
+   "originalExplanation": "Lipidoses (lipid storage diseases) are diagnosed by demonstrating the specific enzyme defect."
+  },
+  "bio-320": {
+   "sourceId": 320,
+   "originalExplanation": "Cholestyramine is a bile acid sequestrant."
+  },
+  "bio-321": {
+   "sourceId": 321,
+   "originalExplanation": "Statins lower LDL levels, reducing the risk of further cardiovascular events."
+  },
+  "bio-322": {
+   "sourceId": 322,
+   "originalExplanation": "ApoC-II is required for lipoprotein lipase to clear chylomicrons and VLDL, so a deficiency leads to elevated triglycerides."
+  },
+  "bio-323": {
+   "sourceId": 323,
+   "originalExplanation": "Lipoproteins are metabolized via exogenous (dietary) and endogenous (hepatic) pathways."
+  },
+  "bio-324": {
+   "sourceId": 324,
+   "originalExplanation": "The correct order from most dense to least dense is HDL > LDL > VLDL > Chylomicrons."
+  },
+  "bio-325": {
+   "sourceId": 325,
+   "originalExplanation": "Paraquat receives electrons from NADPH/NADH and transfers them to oxygen to form superoxide."
+  },
+  "bio-326": {
+   "sourceId": 326,
+   "originalExplanation": "ROS includes oxygen compounds that are reactive free radicals (and non-radical derivatives like H2O2)."
+  },
+  "bio-327": {
+   "sourceId": 327,
+   "originalExplanation": "Four molecules of PBG condense to form a linear tetrapyrrole which cyclizes to uroporphyrinogen I, then III."
+  },
+  "bio-328": {
+   "sourceId": 328,
+   "revisionNote": "Rewritten: the original option D was also correct, and option C wrongly said 'propionate' side chains.",
+   "originalExplanation": "UPG III decarboxylase catalyzes the decarboxylation of propionate side chains in UPG III to form coproporphyrinogen III."
+  },
+  "bio-329": {
+   "sourceId": 329,
+   "originalExplanation": "The final steps of haem synthesis, including the formation of protoporphyrin IX, occur in the mitochondria."
+  },
+  "bio-330": {
+   "sourceId": 330,
+   "originalExplanation": "Haem/hematin inhibits ALA synthase, providing negative feedback."
+  },
+  "bio-331": {
+   "sourceId": 331,
+   "originalExplanation": "It decarboxylates and oxidizes two propionate side chains to vinyl groups."
+  },
+  "bio-332": {
+   "sourceId": 332,
+   "originalExplanation": "Lysosomes and mitochondria are primary organelle sources of free radicals."
+  },
+  "bio-333": {
+   "sourceId": 333,
+   "originalExplanation": "X-rays generate ROS which damage proteins (i). Free radicals damage receptor proteins (ii). Antibodies are proteins and can be damaged (iii is false)."
+  },
+  "bio-334": {
+   "sourceId": 334,
+   "originalExplanation": "Coffee, almonds, and mushrooms are all excellent dietary sources of antioxidants."
+  },
+  "bio-335": {
+   "sourceId": 335,
+   "originalExplanation": "Alpha-tocopherol (Vitamin E) is a major lipid-soluble intracellular antioxidant. Urate and Transferrin are extracellular."
+  },
+  "bio-336": {
+   "sourceId": 336,
+   "originalExplanation": "The initial hydroxyl radical attack forms a lipid radical, which reacts with O2 to form a peroxyl radical. This peroxyl radical then abstracts a hydrogen from another lipid to form a lipid hydroperoxide and a new alkoxyl radical."
+  },
+  "bio-337": {
+   "sourceId": 337,
+   "originalExplanation": "Gene therapy faces many limitations (delivery, immune responses, ethics)."
+  },
+  "bio-338": {
+   "sourceId": 338,
+   "revisionNote": "Key changed to 'I only': statement III uses N1/N2, but the correct labels are NA1/NA2 (as in the next question).",
+   "originalExplanation": "The first amino acid is A1 (i) and the N-terminal region is NA1, NA2 (iii)."
+  },
+  "bio-339": {
+   "sourceId": 339,
+   "originalExplanation": "The C-terminal region is designated HC1-HC5, not H1-H5."
+  },
+  "bio-340": {
+   "sourceId": 340,
+   "revisionNote": "Statement II changed from 'four' to 'two' polar residues, the textbook figure.",
+   "originalExplanation": "The interior is mostly non-polar (iii), but not entirely (i is false). There are a few polar residues (ii)."
+  },
+  "bio-341": {
+   "sourceId": 341,
+   "revisionNote": "Key changed from 'I and II' to 'II and III': statement I is false.",
+   "originalExplanation": "Charged residues are on the exterior (i is false). Amphipathic residues point non-polar inward (ii is true)."
+  },
+  "bio-342": {
+   "sourceId": 342,
+   "originalExplanation": "All are true features of the globin pocket."
+  },
+  "bio-343": {
+   "sourceId": 343,
+   "revisionNote": "Key changed from 'all three' to 'II and III': free haem strongly prefers CO.",
+   "originalExplanation": "Free heme binds CO and O2 similarly. The globin pocket reduces CO affinity, allowing O2 to bind reversibly."
+  },
+  "bio-344": {
+   "sourceId": 344,
+   "revisionNote": "Key changed to 'I only': CO2 does not bind at the haem site.",
+   "originalExplanation": "His F8 is covalently attached to the Fe. His E7 is distal and not attached."
+  },
+  "bio-345": {
+   "sourceId": 345,
+   "revisionNote": "Key changed to 'I only': 2,3-BPG binds in the central cavity, not the haem site.",
+   "originalExplanation": "E7 modulates it. Binding of O2 to other sites does affect it (cooperativity), so ii is false."
+  },
+  "bio-346": {
+   "sourceId": 346,
+   "originalExplanation": "Primary structure is the sequence, not just having one chain."
+  },
+  "bio-347": {
+   "sourceId": 347,
+   "originalExplanation": "Myoglobin is a monomer, so it has no quaternary structure."
+  },
+  "bio-348": {
+   "sourceId": 348,
+   "originalExplanation": "It allows reversible binding of O2."
+  },
+  "bio-349": {
+   "sourceId": 349,
+   "originalExplanation": "These residues are highly conserved to maintain the heme pocket structure."
+  },
+  "bio-350": {
+   "sourceId": 350,
+   "originalExplanation": "The curve is sigmoidal."
+  },
+  "bio-351": {
+   "sourceId": 351,
+   "originalExplanation": "CO2 does cause conformational changes."
+  },
+  "bio-352": {
+   "sourceId": 352,
+   "originalExplanation": "Mb curve lies to the left."
+  },
+  "bio-353": {
+   "sourceId": 353,
+   "originalExplanation": "It decreases affinity for CO."
+  },
+  "bio-354": {
+   "sourceId": 354,
+   "originalExplanation": "The globin chains bind CO2, buffer H+, and allow O2 binding."
+  },
+  "bio-355": {
+   "sourceId": 355,
+   "originalExplanation": "BPG stabilizes the T state."
+  },
+  "bio-356": {
+   "sourceId": 356,
+   "originalExplanation": "E7 prevents oxidation and discourages linear CO binding."
+  },
+  "bio-357": {
+   "sourceId": 357,
+   "revisionNote": "Key changed to 'all three', matching the lecturer's key on the 2020/21 paper. The sticky patch exists even when HbS is oxygenated.",
+   "originalExplanation": "The substitution is Valine for Glutamic acid. The sticky patch only appears when deoxygenated."
+  },
+  "bio-358": {
+   "sourceId": 358,
+   "originalExplanation": "Sickling is reversible. Fully oxygenated HbS does not have complementary sites."
+  },
+  "bio-360": {
+   "sourceId": 360,
+   "originalExplanation": "Trait has ~40% HbS. Both HbA and HbS are in every RBC."
+  },
+  "bio-361": {
+   "sourceId": 361,
+   "originalExplanation": "HbF is often detected in small amounts. Deoxygenation triggers sickling."
+  },
+  "bio-362": {
+   "sourceId": 362,
+   "revisionNote": "Statement I restored to 'β methene', and key set to 'II and III' to match the lecturer's key on the 2020/21 paper.",
+   "originalExplanation": "All are true regarding heme breakdown."
+  },
+  "bio-363": {
+   "sourceId": 363,
+   "revisionNote": "Key changed to 'III only', matching the lecturer's key on the 2020/21 paper. Option A now reads 'III only'.",
+   "originalExplanation": "Sickle cell anaemia broadly includes SS disease, SC disease, and S-beta thalassemia."
+  },
+  "bio-364": {
+   "sourceId": 364,
+   "originalExplanation": "They inhibit formation and mimic the C-terminal sequence. They do not dissolve formed crystals."
+  },
+  "bio-365": {
+   "sourceId": 365,
+   "originalExplanation": "They act as decoys by mimicking the complementary site, not the sticky patch."
+  },
+  "bio-366": {
+   "sourceId": 366,
+   "originalExplanation": "Cyanate carbamylates the N-terminal amino groups, increasing oxygen affinity and preventing sickling."
+  },
+  "bio-367": {
+   "sourceId": 367,
+   "originalExplanation": "Thalassemias are quantitative defects (reduced production), not qualitative structural defects."
+  },
+  "bio-368": {
+   "sourceId": 368,
+   "originalExplanation": "It is a mismatch in synthesis. Polymerization is sickle cell."
+  },
+  "bio-369": {
+   "sourceId": 369,
+   "originalExplanation": "A normal human has four alpha-globin genes, two on each chromosome 16."
+  },
+  "bio-370": {
+   "sourceId": 370,
+   "originalExplanation": "One alpha gene deletion leaves three functioning genes. This is asymptomatic."
+  },
+  "bio-371": {
+   "sourceId": 371,
+   "originalExplanation": "Two alpha gene deletions result in alpha-thalassemia minor."
+  },
+  "bio-372": {
+   "sourceId": 372,
+   "originalExplanation": "Three alpha gene deletions leave only one functioning gene, leading to the formation of beta-tetramers."
+  },
+  "bio-373": {
+   "sourceId": 373,
+   "originalExplanation": "Deletion of all four alpha genes is incompatible with life; it leads to hydrops fetalis."
+  },
+  "bio-380": {
+   "sourceId": 380,
+   "originalExplanation": "The alpha-keto acid dehydrogenase complex usually refers to the pyruvate dehydrogenase complex."
+  },
+  "bio-391": {
+   "sourceId": 391,
+   "originalExplanation": "The assertion is false because atherosclerosis affects arteries, not capillaries. The reason is true."
+  },
+  "bio-392": {
+   "sourceId": 392,
+   "originalExplanation": "The assertion is false; bile salts are essential for emulsifying lipids. The reason is true."
+  },
+  "bio-393": {
+   "sourceId": 393,
+   "originalExplanation": "The assertion is true. The reason is false: mevalonate is a precursor for cholesterol, CoQ10, and dolichol, but not acetyl CoA."
+  },
+  "bio-394": {
+   "sourceId": 394,
+   "originalExplanation": "Both are true. However, selenium works by being incorporated into enzymes (like glutathione peroxidase), not just by its own reversible oxidation."
+  },
+  "bio-395": {
+   "sourceId": 395,
+   "originalExplanation": "Both true. They are rich in vitamins, but the fact that they are 'fruits' isn't the scientific reason why they contain them."
+  },
+  "bio-396": {
+   "sourceId": 396,
+   "originalExplanation": "Both true. Aging is associated with free radical formation, which are generated as byproducts of normal metabolism."
+  },
+  "bio-397": {
+   "sourceId": 397,
+   "originalExplanation": "The assertion is true. The reason is false: it is activated by ADP and GDP, and inhibited by ATP and GTP."
+  },
+  "bio-398": {
+   "sourceId": 398,
+   "originalExplanation": "Both true. PLP acts as a tightly bound prosthetic group for transaminases to transfer amino groups."
+  },
+  "bio-399": {
+   "sourceId": 399,
+   "revisionNote": "Key set to D. The lecturer's key on the 2020/21 paper says E and the earlier app said A; this one is debatable.",
+   "originalExplanation": "Both true. Glutamate dehydrogenase produces NADH (or NADPH), which can be used in biosynthesis."
+  },
+  "bio-401": {
+   "sourceId": 401,
+   "originalExplanation": "Both statements are false. ALT is a marker for LIVER damage."
+  },
+  "bio-402": {
+   "sourceId": 402,
+   "originalExplanation": "The assertion is false (it makes it easier). The reason is true (it gives a straight line)."
+  },
+  "bio-403": {
+   "sourceId": 403,
+   "originalExplanation": "Both are false. Fructose 1,6-bisphosphate is a substrate (not an enzyme/hydrolase), and the enzyme that acts on it is a lyase (aldolase), not a hydrolase."
+  },
+  "bio-404": {
+   "sourceId": 404,
+   "originalExplanation": "This block tests your knowledge of the subcellular compartments where haem synthesis occurs."
+  },
+  "bio-405": {
+   "sourceId": 405,
+   "originalExplanation": "This block tests the regulatory mechanisms of haem synthesis."
+  },
+  "bio-406": {
+   "sourceId": 406,
+   "originalExplanation": "This block tests the details of haem degradation into bilirubin."
+  },
+  "bio-407": {
+   "sourceId": 407,
+   "originalExplanation": "This block tests the clinical and biochemical features of AIP."
+  },
+  "bio-408": {
+   "sourceId": 408,
+   "originalExplanation": "This block tests the features of Porphyria Cutanea Tarda."
+  },
+  "bio-409": {
+   "sourceId": 409,
+   "originalExplanation": "This block tests your understanding of myoglobin's tertiary structure."
+  },
+  "bio-410": {
+   "sourceId": 410,
+   "originalExplanation": "This block tests the chemistry of the haem iron and its ligands."
+  },
+  "bio-411": {
+   "sourceId": 411,
+   "originalExplanation": "This block contrasts free haem with haemoglobin."
+  },
+  "bio-412": {
+   "sourceId": 412,
+   "originalExplanation": "This block tests the protective role of the globin chain."
+  },
+  "bio-413": {
+   "sourceId": 413,
+   "originalExplanation": "This block tests the T-state to R-state transition."
+  },
+  "bio-414": {
+   "sourceId": 414,
+   "originalExplanation": "This block tests the role of platelets in the coagulation cascade."
+  },
+  "bio-415": {
+   "sourceId": 415,
+   "originalExplanation": "This block tests your knowledge of fibrinopeptides A and B."
+  },
+  "bio-416": {
+   "sourceId": 416,
+   "originalExplanation": "This block tests matching anticoagulants with their mechanisms."
+  },
+  "bio-417": {
+   "sourceId": 417,
+   "originalExplanation": "This block tests the genetics and types of haemophilia."
+  },
+  "bio-418": {
+   "sourceId": 418,
+   "originalExplanation": "This block tests the chemical structure of porphin."
+  },
+  "bio-419": {
+   "sourceId": 419,
+   "originalExplanation": "This block tests the formation of PBG."
+  },
+  "bio-420": {
+   "sourceId": 420,
+   "originalExplanation": "This block tests the assembly of the tetrapyrrole ring."
+  },
+  "bio-421": {
+   "sourceId": 421,
+   "originalExplanation": "This block tests the specific action of CPG oxidase."
+  },
+  "bio-422": {
+   "sourceId": 422,
+   "originalExplanation": "This block tests matching enzymes to their specific reactions."
+  },
+  "bio-423": {
+   "sourceId": 423,
+   "originalExplanation": "This block tests the biochemical markers of oxidative stress in Parkinson's."
+  },
+  "bio-424": {
+   "sourceId": 424,
+   "originalExplanation": "This block tests the general cellular impact of ROS."
+  },
+  "bio-425": {
+   "sourceId": 425,
+   "originalExplanation": "This block tests the mechanism of photosensitivity in PCT."
+  },
+  "bio-426": {
+   "sourceId": 426,
+   "originalExplanation": "This block tests the clinical definitions of sickle cell syndromes."
+  },
+  "bio-427": {
+   "sourceId": 427,
+   "originalExplanation": "This block tests the pathophysiology of sickle cell crises."
+  },
+  "bio-428": {
+   "sourceId": 428,
+   "originalExplanation": "This block tests the mechanism of anti-sickling peptides."
+  },
+  "bio-429": {
+   "sourceId": 429,
+   "originalExplanation": "This block tests cyanate-based therapies."
+  },
+  "bio-430": {
+   "sourceId": 430,
+   "originalExplanation": "This block tests ion-channel therapies for sickle cell."
+  },
+  "bio-431": {
+   "sourceId": 431,
+   "originalExplanation": "This block tests modern treatment options for sickle cell."
+  },
+  "bio-432": {
+   "sourceId": 432,
+   "originalExplanation": "This block tests the fundamental defect in thalassemia."
+  },
+  "bio-433": {
+   "sourceId": 433,
+   "originalExplanation": "This block tests the genetic causes of thalassemia."
+  },
+  "bio-434": {
+   "sourceId": 434,
+   "originalExplanation": "This block tests the genotypes of beta thalassemia."
+  },
+  "bio-435": {
+   "sourceId": 435,
+   "originalExplanation": "This block tests general thalassemia genetics."
+  },
+  "bio-436": {
+   "sourceId": 436,
+   "originalExplanation": "This block tests alpha thalassemia genotypes."
+  },
+  "bio-437": {
+   "sourceId": 437,
+   "originalExplanation": "This block tests differences between HbF and HbA."
+  },
+  "bio-438": {
+   "sourceId": 438,
+   "originalExplanation": "This block tests allosteric regulation of haemoglobin."
+  },
+  "bio-439": {
+   "sourceId": 439,
+   "originalExplanation": "This block tests reading the ODC curves."
+  },
+  "bio-440": {
+   "sourceId": 440,
+   "originalExplanation": "This block tests the multi-functional role of globin."
+  },
+  "bio-441": {
+   "sourceId": 441,
+   "originalExplanation": "Both statements are true, and the reason perfectly defines why lysine is essential."
+  },
+  "bio-442": {
+   "sourceId": 442,
+   "originalExplanation": "Both are true. Because it is a monosaccharide (already a simple sugar), it requires no digestion and is absorbed directly."
+  },
+  "bio-443": {
+   "sourceId": 443,
+   "originalExplanation": "A total plasma cholesterol greater than 7.0 mmol/L is a definitive indicator of severe hypercholesterolemia."
+  },
+  "bio-444": {
+   "sourceId": 444,
+   "originalExplanation": "Bile salts are required to emulsify dietary fats. Without them, fats cannot be properly digested or absorbed."
+  },
+  "bio-445": {
+   "sourceId": 445,
+   "originalExplanation": "Emulsification is the physical breakdown of fat globules. If this doesn't happen, the fat remains too large for pancreatic lipase to act on, resulting in fat malabsorption."
+  },
+  "bio-446": {
+   "sourceId": 446,
+   "originalExplanation": "Hypercholesterolemia directly causes atherosclerosis, which drastically increases the risk of heart attacks. Therefore, stating the patient 'may not suffer a heart attack' is contrary to the disease."
+  },
+  "bio-447": {
+   "sourceId": 447,
+   "originalExplanation": "If the body cannot absorb dietary fats/cholesterol from the gut, plasma cholesterol levels will drop significantly."
+  },
+  "bio-450": {
+   "sourceId": 450,
+   "originalExplanation": "Incidence is closer to 1:10,000. It is autosomal recessive and causes pale pigmentation."
+  },
+  "bio-453": {
+   "sourceId": 453,
+   "originalExplanation": "The tRNA anticodon is complementary and antiparallel to the mRNA codon. If mRNA is 5'-AUG-3', the anticodon is 3'-UAC-5'."
+  },
+  "bio-454": {
+   "sourceId": 454,
+   "originalExplanation": "The transcript (mRNA) is complementary and antiparallel to the DNA template strand. RNA uses Uracil instead of Thymine. So 5'-ATG-3' becomes 5'-CAU-3'."
+  },
+  "bio-456": {
+   "sourceId": 456,
+   "originalExplanation": "Glutathione is a major antioxidant that protects cells from oxidative damage caused by free radicals."
+  },
+  "bio-457": {
+   "sourceId": 457,
+   "originalExplanation": "Oxidative stress is defined as an imbalance where the production of free radicals exceeds the body's antioxidant defense capacity."
+  },
+  "bio-458": {
+   "sourceId": 458,
+   "originalExplanation": "Carrots are plant-based and do not contain cholesterol (plants do not synthesize cholesterol)."
+  },
+  "bio-459": {
+   "sourceId": 459,
+   "originalExplanation": "All listed options (p450 enzymes, macrophages, alloxan, and lipid peroxidation) are well-known sources or generators of free radicals in the body."
+  },
+  "bio-460": {
+   "sourceId": 460,
+   "originalExplanation": "False. The normal complement is four alpha genes, not two."
+  },
+  "bio-461": {
+   "sourceId": 461,
+   "originalExplanation": "False. Beta thalassemia is most commonly caused by point mutations in the beta-globin gene."
+  },
+  "bio-462": {
+   "sourceId": 462,
+   "originalExplanation": "True. Alpha thalassemia is typically caused by the deletion of one or more of the four alpha-globin genes."
+  },
+  "bio-463": {
+   "sourceId": 463,
+   "originalExplanation": "True. This mismatch leads to the precipitation of the excess unpaired chains, causing ineffective erythropoiesis and hemolysis."
+  },
+  "bio-464": {
+   "sourceId": 464,
+   "originalExplanation": "False. The normal genotype is aa/aa (four functioning genes)."
+  },
+  "bio-901": {
+   "sourceId": 901,
+   "source": "2020/21 paper Q25",
+   "originalExplanation": "A protein meal raises N-acetylglutamate, which activates CPS I, so carbamoyl phosphate synthesis rises (I). Each urea costs 3 ATP but 4 high-energy bonds, because argininosuccinate synthetase splits ATP to AMP + PPi (III). Ornithine transcarbamoylase is mitochondrial only (II false)."
+  },
+  "bio-902": {
+   "sourceId": 902,
+   "source": "2020/21 paper Q26",
+   "originalExplanation": "Excess ammonia drives glutamate dehydrogenase backwards, draining α-ketoglutarate from the TCA cycle and cutting ATP production (II). It also diverts glutamate into glutamine, reducing GABA synthesis (III), and NH4+ competes with K+ at the Na+/K+-ATPase, disturbing neuronal membranes (I)."
+  },
+  "bio-903": {
+   "sourceId": 903,
+   "source": "2020/21 paper Q89",
+   "originalExplanation": "Bile salts are made from cholesterol, a sterol. Gangliosides are sphingolipids, geraniol is an isoprenoid on the path TO sterols, phosphatidylglycerol is a glycerophospholipid, and prostaglandins are eicosanoids from arachidonic acid."
+  },
+  "bio-904": {
+   "sourceId": 904,
+   "source": "2020/21 paper Q105",
+   "originalExplanation": "Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme of cholesterol synthesis. Lower liver cholesterol then upregulates LDL receptors, which clears LDL from the blood."
+  },
+  "bio-905": {
+   "sourceId": 905,
+   "source": "2020/21 paper Q159",
+   "originalExplanation": "Achondroplasia is caused by an activating mutation of FGFR3, the receptor for fibroblast growth factor, a growth-signalling defect. Retinoblastoma is a tumour-suppressor (growth control) defect, retinitis pigmentosa a photoreceptor defect, AIP an enzyme defect and cystinosis a transporter defect."
+  },
+  "bio-906": {
+   "sourceId": 906,
+   "source": "2020/21 paper Q160",
+   "originalExplanation": "Many cases of retinitis pigmentosa are caused by mutations in rhodopsin, the light-sensitive receptor of rod cells, leading to progressive loss of photoreceptors."
   }
  }
 }

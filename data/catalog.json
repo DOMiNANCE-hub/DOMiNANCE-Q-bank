@@ -7,8 +7,16 @@
       "subtitle": "First years",
       "status": "soon",
       "semesters": [
-        { "id": "sem1", "title": "First semester", "courses": [] },
-        { "id": "sem2", "title": "Second semester", "courses": [] }
+        {
+          "id": "sem1",
+          "title": "First semester",
+          "courses": []
+        },
+        {
+          "id": "sem2",
+          "title": "Second semester",
+          "courses": []
+        }
       ]
     },
     {
@@ -27,13 +35,41 @@
               "id": "cvs",
               "title": "Cardiovascular",
               "topics": "data/topics.json",
-              "past": ["data/past-questions.json"],
-              "curated": ["data/mock-01-60q.json", "data/mock-02-60q.json", "data/mock-03-60q.json"]
+              "past": [
+                "data/past-questions.json"
+              ],
+              "curated": [
+                "data/mock-01-60q.json",
+                "data/mock-02-60q.json",
+                "data/mock-03-60q.json"
+              ]
             }
           ]
         },
-        { "id": "biochemistry", "title": "Biochemistry", "icon": "flask", "status": "soon", "systems": [] },
-        { "id": "anatomy", "title": "Anatomy", "icon": "bone", "status": "soon", "systems": [] }
+        {
+          "id": "biochemistry",
+          "title": "Biochemistry",
+          "icon": "flask",
+          "status": "live",
+          "systems": [
+            {
+              "id": "biochem",
+              "title": "Metabolism, genetics and immunology",
+              "topics": "data/biochem/topics.json",
+              "past": [
+                "data/biochem/past-questions.json"
+              ],
+              "curated": []
+            }
+          ]
+        },
+        {
+          "id": "anatomy",
+          "title": "Anatomy",
+          "icon": "bone",
+          "status": "soon",
+          "systems": []
+        }
       ]
     },
     {
