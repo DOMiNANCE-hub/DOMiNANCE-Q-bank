@@ -31,12 +31,18 @@ Comment lines live in `data/comments.json`, grouped by moment. Edit or add lines
 ## Data layout
 
 - `data/catalog.json` — years → (semesters for HB1) → courses → systems, with each system's topic file and question files. Set a course's `status` to `live` to show it.
-- `data/topics.json` — the 27 CVS topics and their order.
-- `data/past-questions.json` — 196 past questions (3 sets). Every question has an explanation, a hand-assigned `topicId`/`subtopic`, and a hidden `difficulty` (easy/medium/hard). Items DOMiNANCE corrected carry a `revisionNote`, shown as "DOMiNANCE revision".
-- `data/mock-01-60q.json`, `mock-02-60q.json`, `mock-03-60q.json` — 180 curated questions used as the **Curated by DOMiNANCE** topic pool (no longer offered as full papers), also with hidden `difficulty`.
+- `data/topics.json` — the 27 CVS topics, their order, and a `short` name shown above each question.
+- `data/past-questions.json` — 196 past questions (3 sets).
+- `data/mock-01-60q.json`, `mock-02-60q.json`, `mock-03-60q.json` — 180 curated questions used as the **Curated by DOMiNANCE** topic pool (no longer offered as full papers).
 - `data/comments.json` — DMC XPO comment lines.
+- `editor/question-notes.json` — **editor-only**, not loaded by the app: revision notes, the original full explanations, old review flags and source numbering.
 
-`difficulty` is only used for reactions and is never displayed to students.
+Each question carries only what students need: stem, options, answer, `why` (the key point), `notes` (one reason per wrong option, or per statement for true/false), `topicId`, `subtopic`, `difficulty` (hidden, drives reactions only) and `lockOrder` where options must not be shuffled.
+
+### How explanations show
+
+- Single best answer: **Answer: X**, then **Your pick** (the reason their wrong choice is wrong, only when they picked wrong), then **Why X**, then a folded **Why not the others** list.
+- True/false: each statement shows its answer and one-line reason right under it; a short **Key point** appears below when the question has one.
 
 ## Browser storage keys
 

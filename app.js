@@ -117,7 +117,7 @@
     const data = { key, course, topics: [], past: [], curated: [] };
     for (const sys of course.systems || []) {
       const topics = sys.topics ? await getJSON(sys.topics) : [];
-      topics.sort((a, b) => (a.order || 0) - (b.order || 0)).forEach(t => data.topics.push({ id: t.id, title: t.title, sys: sys.id, sysTitle: sys.title }));
+      topics.sort((a, b) => (a.order || 0) - (b.order || 0)).forEach(t => data.topics.push({ id: t.id, title: t.title, short: t.short || t.title, sys: sys.id, sysTitle: sys.title }));
       for (const f of sys.past || []) {
         const j = await getJSON(f);
         (j.sets || []).forEach(set => (set.questions || []).forEach(q => data.past.push(normPast(q, sys.id))));
@@ -130,7 +130,7 @@
     const known = new Set(data.topics.map(t => t.id));
     [...data.past, ...data.curated].forEach(q => { if (!known.has(q.topic)) { q.topic = 'other-' + q.sys; } });
     (course.systems || []).forEach(sys => {
-      if ([...data.past, ...data.curated].some(q => q.topic === 'other-' + sys.id)) data.topics.push({ id: 'other-' + sys.id, title: 'Other ' + sys.title + ' questions', sys: sys.id, sysTitle: sys.title });
+      if ([...data.past, ...data.curated].some(q => q.topic === 'other-' + sys.id)) data.topics.push({ id: 'other-' + sys.id, title: 'Other ' + sys.title + ' questions', short: 'Other', sys: sys.id, sysTitle: sys.title });
     });
     data.byId = {};
     [...data.past, ...data.curated].forEach(q => { data.byId[q.id] = q; });
@@ -143,7 +143,7 @@
       id: q.id, src: 'past', sys, type: tf ? 'tf' : 'sba', stem: q.stem,
       opts: (q.options || []).map((o, i) => ({ k: o.label || LET[i], t: o.text != null ? o.text : String(o) })),
       ans: q.correctAnswer, tf: q.answerByOption || null,
-      exp: q.explanation || '', rev: q.revisionNote || '', topic: q.topicId, sub: q.subtopic || '',
+      why: q.why || '', notes: q.notes || {}, topic: q.topicId, sub: q.subtopic || '',
       diff: q.difficulty || 'medium', lock: !!q.lockOrder
     };
   }
@@ -151,7 +151,7 @@
     return {
       id: q.id, src: 'curated', sys, type: 'sba', stem: q.stem,
       opts: (q.options || []).map((o, i) => ({ k: LET[i], t: typeof o === 'string' ? o : o.text })),
-      ans: q.answer, tf: null, exp: q.explanation || '', rev: q.revisionNote || '',
+      ans: q.answer, tf: null, why: q.why || '', notes: q.notes || {},
       topic: q.topicId, sub: q.subtopic || '', diff: q.difficulty || 'medium', lock: !!q.lockOrder
     };
   }
@@ -172,8 +172,9 @@
   }
   function crumbs(items) {
     const parent = items.length > 1 ? items[items.length - 2].href : '#/home';
+    const up = items.slice(0, -1);
     return '<nav class="crumbs" aria-label="Breadcrumb"><a class="back" href="' + parent + '" aria-label="Back">' + I.back + '</a>' +
-      items.map((it, i) => i === items.length - 1 ? '<span class="here" aria-current="page">' + esc(it.label) + '</span>' : '<a href="' + it.href + '">' + esc(it.label) + '</a><span class="sep">›</span>').join('') + '</nav>';
+      up.map((it, i) => '<a href="' + it.href + '">' + esc(it.label) + '</a>' + (i < up.length - 1 ? '<span class="sep">›</span>' : '')).join('') + '</nav>';
   }
   function trail(r, upto) {
     const year = yearById(r.year), out = [{ label: 'Home', href: '#/home' }, { label: year.title, href: '#/' + year.id }];
@@ -187,7 +188,7 @@
     return out;
   }
   function courseObj(r) { const y = yearById(r.year), sem = r.sem ? y.semesters.find(s => s.id === r.sem) : null; return coursesFor(y, sem).find(c => c.id === r.course); }
-  function wrap(inner) { return '<div class="wrap" id="main">' + inner + '<p class="foot">DOMiNANCE · Understand • Practise • Master</p></div>'; }
+  function wrap(inner, foot) { return '<div class="wrap" id="main">' + inner + (foot ? '<p class="foot">DOMiNANCE · Understand • Practise • Master</p>' : '') + '</div>'; }
 
   /* ---------- saved quizzes (one per course) ---------- */
   const saveKey = ck => 'dq.save.' + ck;
@@ -212,7 +213,7 @@
         : '<div class="year soon" aria-disabled="true"><b>' + esc(y.title) + '</b><span>' + esc(y.subtitle) + '</span><span class="badge" style="margin-top:6px;align-self:flex-start">Soon</span></div>';
     }).join('');
     return wrap(topbar() + '<section class="hero"><h1>Get locked in and <span>dominate</span>.</h1><p class="lead">Past questions and curated questions, sorted by topic, with explanations for every answer.</p></section>' +
-      resumeCards() + '<h2>Choose your year</h2><div class="years">' + years + '</div>');
+      resumeCards() + '<h2>Choose your year</h2><div class="years">' + years + '</div>', true);
   }
   function courseRows(r, list) {
     if (!list.length) return '<p class="empty">Courses for this year are coming soon.</p>';
@@ -261,7 +262,7 @@
     });
     if (sys !== null) html += '</div>';
     const dock = '<div class="dock"><div class="in"><div class="info">' + (sel.size ? '<b>' + sel.size + ' topic' + (sel.size === 1 ? '' : 's') + '</b> · ' + n + ' questions' : 'Tap folders to pick one or more topics') + '</div><button class="btn primary" data-a="continue">Continue</button></div></div>';
-    return wrap(topbar() + crumbs(trail(r, 'topics')) + '<h1>' + COLL[r.coll] + '</h1><p class="lead">' + esc(courseObj(r).title) + ' · tap to pick one or more topics.</p>' + html) + dock;
+    return wrap(topbar() + crumbs(trail(r, 'topics')) + '<h1>' + COLL[r.coll] + '</h1><p class="lead">Tap to pick one or more topics.</p>' + html) + dock;
   }
 
   /* ---------- view: setup ---------- */
@@ -278,7 +279,7 @@
     const timerChip = (val, label) => '<button class="chip" data-a="timer" data-v="' + val + '" aria-pressed="' + (st.timer === val) + '">' + label + '</button>';
     const planned = st.count === 'all' ? n : st.count === 'custom' ? (parseInt(st.custom, 10) || 0) : st.count;
     const body =
-      '<section class="card"><div class="setup-head"><div><h1 style="font-size:22px">Quiz setup</h1><p class="lead" style="margin:0">' + COLL[r.coll] + ' · ' + n + ' questions available</p></div>' +
+      '<section class="card"><div class="setup-head"><div><h1 style="font-size:22px">Quiz setup</h1></div>' +
       '<label class="xpo" title="DOMiNANCE EXPERIENCE: streaks, reactions, confetti and comments"><input type="checkbox" data-a="xpo"' + (st.xpo ? ' checked' : '') + '>DMC XPO</label></div>' +
       '<div class="topicchips">' + shown + ' <button class="linkbtn" data-a="changetopics">Change</button></div>' +
       '<div class="field"><span class="lbl">How many questions?</span><div class="chips">' + chip('all', 'All ' + n) + countOptions(n).map(v => chip(v, v)).join('') + chip('custom', 'Custom') + '</div>' +
@@ -352,7 +353,19 @@
     t = t.replace(/(^|[^A-Za-z])([A-E])(?= is (?:correct|the exception|the false statement|therefore correct|wrong|false|also correct|the intended answer|only partly true)\b)/g, (m, p, l) => p + (map[l] || l));
     return t;
   }
-  function remapRev(text, map) { return String(text || '').replace(/\b(Statements?|Option) ([A-E](?:(?:, and |, | and )[A-E])*)\b/g, (m, w, g) => w + ' ' + g.replace(/[A-E]/g, l => map[l] || l)); }
+  function tfWord(v) { return v === 'T' ? 'True' : 'False'; }
+  function explainSBA(a, q, ans, openOthers) {
+    const map = displayMap(a, q), order = a.order[q.id] || q.opts.map(o => o.k);
+    let h = '<p class="ans">Answer: ' + map[q.ans] + '</p>';
+    if (ans && ans !== q.ans && q.notes[ans]) h += '<span class="k">Your pick · ' + map[ans] + '</span><p>' + nl(remapExp(q.notes[ans], map)) + '</p>';
+    if (q.why) h += '<span class="k">Why ' + map[q.ans] + '</span><p>' + nl(remapExp(q.why, map)) + '</p>';
+    const rest = order.filter(k => k !== q.ans && k !== ans && q.notes[k]);
+    if (rest.length) {
+      const groups = []; rest.forEach(k => { const t = q.notes[k]; const g = groups.find(x => x.t === t); if (g) g.ks.push(map[k]); else groups.push({ t, ks: [map[k]] }); });
+      h += '<details' + (openOthers ? ' open' : '') + '><summary>Why not the others (' + rest.length + ')</summary><ul class="oth">' + groups.map(g => '<li><b>' + g.ks.join(', ') + '</b>' + esc(remapExp(g.t, map)) + '</li>').join('') + '</ul></details>';
+    }
+    return h;
+  }
 
   /* ---------- view: quiz ---------- */
   function viewQuiz() {
@@ -362,10 +375,10 @@
     const byKey = {}; q.opts.forEach(o => { byKey[o.k] = o; });
     const ans = a.ans[q.id];
     const timer = a.limit ? '<span class="timer' + (a.limit - a.elapsed <= 60 ? ' low' : '') + '" id="timer" aria-live="off">' + fmtTime(a.limit - a.elapsed) + '</span>' : '';
-    const top = '<div class="qtop"><div class="qbar"><button class="iconbtn" data-a="exit" aria-label="Exit quiz">' + I.x + '</button><div class="pos">' + (a.idx + 1) + ' of ' + n + '<small>' + esc(COLL[a.coll]) + '</small></div>' + timer +
+    const top = '<div class="qtop"><div class="qbar"><button class="iconbtn" data-a="exit" aria-label="Exit quiz">' + I.x + '</button><div class="pos">' + (a.idx + 1) + ' of ' + n + '</div>' + timer +
       '<button class="iconbtn" data-a="navigator" aria-label="Question navigator">' + I.grid + '</button><button class="iconbtn flagbtn" data-a="flag" aria-pressed="' + !!a.flags[q.id] + '" aria-label="' + (a.flags[q.id] ? 'Remove flag' : 'Flag for review') + '">' + I.star + '</button></div>' +
       '<div class="progress" aria-hidden="true"><div style="width:' + Math.round((a.idx + 1) / n * 100) + '%"></div></div></div>';
-    const topic = (dataForAttempt(a).topics.find(t => t.id === q.topic) || {}).title || '';
+    const topic = (dataForAttempt(a).topics.find(t => t.id === q.topic) || {}).short || '';
     let body = '';
     if (q.type === 'tf') {
       body = '<div role="list">' + order.map(k => {
@@ -374,7 +387,8 @@
         const sym = showMark ? (v === q.tf[k] ? '<span class="tfmark" style="color:var(--good)">✓</span>' : '<span class="tfmark" style="color:var(--bad)">✗</span>') : '';
         const dis = showMark ? ' disabled' : '';
         const rightT = showMark && v !== q.tf[k] && q.tf[k] === 'T' ? ' right' : '', rightF = showMark && v !== q.tf[k] && q.tf[k] === 'F' ? ' right' : '';
-        return '<div class="tfrow" role="listitem"><span class="st"><b>' + map[k] + '.</b>' + esc(o.t) + '</span>' + sym + '<span class="tfsw' + cls + '" role="group" aria-label="Statement ' + map[k] + '"><button class="' + rightT + '" data-a="tf" data-k="' + k + '" data-v="T" aria-pressed="' + (v === 'T') + '"' + dis + '>True</button><button class="' + rightF + '" data-a="tf" data-k="' + k + '" data-v="F" aria-pressed="' + (v === 'F') + '"' + dis + '>False</button></span></div>';
+        const why = showMark ? '<p class="tfwhy"><b>' + tfWord(q.tf[k]) + '.</b> ' + esc(remapExp(q.notes[k] || '', map)) + '</p>' : '';
+        return '<div class="tfrow" role="listitem"><span class="st"><b>' + map[k] + '.</b>' + esc(o.t) + '</span>' + sym + '<span class="tfsw' + cls + '" role="group" aria-label="Statement ' + map[k] + '"><button class="' + rightT + '" data-a="tf" data-k="' + k + '" data-v="T" aria-pressed="' + (v === 'T') + '"' + dis + '>True</button><button class="' + rightF + '" data-a="tf" data-k="' + k + '" data-v="F" aria-pressed="' + (v === 'F') + '"' + dis + '>False</button></span>' + why + '</div>';
       }).join('') + '</div>';
     } else {
       body = '<div class="opts" role="radiogroup" aria-label="Options">' + order.map(k => {
@@ -386,9 +400,8 @@
     }
     let fb = '';
     if (go_ && marked) {
-      const g = grade(q, ans);
-      const verdict = q.type === 'tf' ? (g.correct ? 'All ' + g.total + ' correct' : g.got + ' of ' + g.total + ' correct') : (g.correct ? 'Correct' : 'Not quite. The answer is ' + map[q.ans] + '.');
-      fb = '<div class="feedback" aria-live="polite"><p class="verdict ' + (g.correct ? 'ok' : 'no') + '">' + verdict + '</p>' + nl(remapExp(q.exp, map)) + (q.rev ? '<div class="rev"><b>DOMiNANCE revision:</b> ' + esc(remapRev(q.rev, map)) + '</div>' : '') + '</div>';
+      if (q.type === 'tf') { if (q.why) fb = '<div class="feedback" aria-live="polite"><span class="k" style="margin-top:0">Key point</span><p>' + nl(remapExp(q.why, map)) + '</p></div>'; }
+      else fb = '<div class="feedback" aria-live="polite">' + explainSBA(a, q, ans, false) + '</div>';
     }
     const last = a.idx === n - 1;
     let primary;
@@ -598,11 +611,11 @@
       const st = x.g.answered === 0 ? 'na' : x.g.correct ? 'ok' : 'no';
       let ansHtml;
       if (q.type === 'tf') {
-        ansHtml = (a.order[q.id] || q.opts.map(o => o.k)).map(k => { const v = x.ans && x.ans[k]; const right = v === q.tf[k]; return '<p class="a"><b>' + map[k] + '.</b> ' + esc(byKey[k].t) + ' — ' + (v ? '<span class="' + (right ? 'c' : 'y') + '">You: ' + (v === 'T' ? 'True' : 'False') + '</span>' : '<span class="y">Not answered</span>') + (right ? '' : ' · <span class="c">Answer: ' + (q.tf[k] === 'T' ? 'True' : 'False') + '</span>') + '</p>'; }).join('');
+        ansHtml = (a.order[q.id] || q.opts.map(o => o.k)).map(k => { const v = x.ans && x.ans[k]; const right = v === q.tf[k]; return '<p class="a"><b>' + map[k] + '.</b> ' + esc(byKey[k].t) + ' — ' + (v ? '<span class="' + (right ? 'c' : 'y') + '">You: ' + tfWord(v) + '</span>' : '<span class="y">Not answered</span>') + (right ? '' : ' · <span class="c">Answer: ' + tfWord(q.tf[k]) + '</span>') + '</p><p class="tfwhy">' + esc(remapExp(q.notes[k] || '', map)) + '</p>'; }).join('') + (q.why ? '<div class="feedback"><span class="k" style="margin-top:0">Key point</span><p>' + nl(remapExp(q.why, map)) + '</p></div>' : '');
       } else {
-        ansHtml = '<p class="a">Your answer: ' + (x.ans ? '<span class="' + (x.g.correct ? 'c' : 'y') + '">' + map[x.ans] + '. ' + esc(byKey[x.ans].t) + '</span>' : '<span class="y">Not answered</span>') + '</p>' + (x.g.correct ? '' : '<p class="a">Correct answer: <span class="c">' + map[q.ans] + '. ' + esc(byKey[q.ans].t) + '</span></p>');
+        ansHtml = '<p class="a">You: ' + (x.ans ? '<span class="' + (x.g.correct ? 'c' : 'y') + '">' + map[x.ans] + '. ' + esc(byKey[x.ans].t) + '</span>' : '<span class="y">Not answered</span>') + '</p>' + '<div class="feedback">' + explainSBA(a, q, x.ans, false) + '</div>';
       }
-      return '<article class="rv ' + st + '"><p class="q">' + (x.i + 1) + '. ' + esc(q.stem) + (x.flag ? ' ★' : '') + '</p>' + ansHtml + '<div class="e">' + nl(remapExp(q.exp, map)) + (q.rev ? '<br><b>DOMiNANCE revision:</b> ' + esc(remapRev(q.rev, map)) : '') + '</div></article>';
+      return '<article class="rv ' + st + '"><p class="q">' + (x.i + 1) + '. ' + esc(q.stem) + (x.flag ? ' ★' : '') + '</p>' + ansHtml + '</article>';
     }).join('');
     return wrap(topbar() + '<nav class="crumbs"><a class="back" href="#/results" aria-label="Back to results">' + I.back + '</a><a href="#/results">Results</a><span class="sep">›</span><span class="here">Review</span></nav><h1>Review answers</h1>' +
       '<div class="filters">' + fbtn('all', 'All ' + a.qids.length) + fbtn('wrong', 'Wrong') + fbtn('flagged', 'Flagged') + '</div>' +

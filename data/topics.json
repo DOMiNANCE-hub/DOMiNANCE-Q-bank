@@ -1,1 +1,191 @@
-[{"id":"cv-introduction","title":"Introduction to Heart and Circulation","group":"Heart","order":1},{"id":"cardiac-muscle","title":"Cardiac Muscle Physiology","group":"Heart","order":2},{"id":"cardiac-conduction","title":"Cardiac Conduction and Automaticity","group":"Heart","order":3},{"id":"cardiac-cycle","title":"The Cardiac Cycle","group":"Heart","order":4},{"id":"heart-sounds","title":"Heart Sounds and Murmurs","group":"Heart","order":5},{"id":"ecg","title":"Electrocardiography and Basic Rhythms","group":"Heart","order":6},{"id":"cardiac-output","title":"Cardiac Output and Frank–Starling Law","group":"Vessels","order":7},{"id":"co-measurement","title":"Cardiac Output Measurement and Heart Work","group":"Vessels","order":8},{"id":"hemodynamics","title":"Blood Flow and Haemodynamics","group":"Vessels","order":9},{"id":"blood-pressure","title":"Arterial Blood Pressure","group":"Vessels","order":10},{"id":"pulses","title":"Arterial and Jugular Venous Pulse","group":"Vessels","order":11},{"id":"venous-return","title":"Veins and Venous Return","group":"Vessels","order":12},{"id":"microcirculation","title":"Microcirculation and Capillary Exchange","group":"Vessels","order":13},{"id":"edema","title":"Formation of Oedema","group":"Vessels","order":14},{"id":"lymphatics","title":"Lymphatic Circulation","group":"Vessels","order":15},{"id":"local-regulation","title":"Local Control of Blood Flow","group":"Control","order":16},{"id":"neural-humoral","title":"Neural and Hormonal Control","group":"Control","order":17},{"id":"reflexes","title":"Cardiovascular Reflexes","group":"Control","order":18},{"id":"gravity","title":"Gravity, Posture and Acceleration","group":"Control","order":19},{"id":"shock","title":"Circulatory Shock","group":"Control","order":20},{"id":"heart-failure","title":"Heart Failure Physiology","group":"Control","order":21},{"id":"cerebral","title":"Cerebral Circulation, CSF and Blood–Brain Barrier","group":"Regional","order":22},{"id":"coronary","title":"Coronary Circulation","group":"Regional","order":23},{"id":"pulmonary","title":"Pulmonary Circulation","group":"Regional","order":24},{"id":"splanchnic","title":"Splanchnic and Hepatic Circulation","group":"Regional","order":25},{"id":"skin","title":"Cutaneous Circulation and Triple Response","group":"Regional","order":26},{"id":"fetal","title":"Fetal Circulation and Transition at Birth","group":"Regional","order":27}]
+[
+  {
+    "id": "cv-introduction",
+    "title": "Introduction to Heart and Circulation",
+    "group": "Heart",
+    "order": 1,
+    "short": "Heart and circulation"
+  },
+  {
+    "id": "cardiac-muscle",
+    "title": "Cardiac Muscle Physiology",
+    "group": "Heart",
+    "order": 2,
+    "short": "Cardiac muscle"
+  },
+  {
+    "id": "cardiac-conduction",
+    "title": "Cardiac Conduction and Automaticity",
+    "group": "Heart",
+    "order": 3,
+    "short": "Conduction"
+  },
+  {
+    "id": "cardiac-cycle",
+    "title": "The Cardiac Cycle",
+    "group": "Heart",
+    "order": 4,
+    "short": "Cardiac cycle"
+  },
+  {
+    "id": "heart-sounds",
+    "title": "Heart Sounds and Murmurs",
+    "group": "Heart",
+    "order": 5,
+    "short": "Heart sounds"
+  },
+  {
+    "id": "ecg",
+    "title": "Electrocardiography and Basic Rhythms",
+    "group": "Heart",
+    "order": 6,
+    "short": "ECG"
+  },
+  {
+    "id": "cardiac-output",
+    "title": "Cardiac Output and Frank–Starling Law",
+    "group": "Vessels",
+    "order": 7,
+    "short": "Cardiac output"
+  },
+  {
+    "id": "co-measurement",
+    "title": "Cardiac Output Measurement and Heart Work",
+    "group": "Vessels",
+    "order": 8,
+    "short": "Measuring CO"
+  },
+  {
+    "id": "hemodynamics",
+    "title": "Blood Flow and Haemodynamics",
+    "group": "Vessels",
+    "order": 9,
+    "short": "Haemodynamics"
+  },
+  {
+    "id": "blood-pressure",
+    "title": "Arterial Blood Pressure",
+    "group": "Vessels",
+    "order": 10,
+    "short": "Blood pressure"
+  },
+  {
+    "id": "pulses",
+    "title": "Arterial and Jugular Venous Pulse",
+    "group": "Vessels",
+    "order": 11,
+    "short": "Pulses and JVP"
+  },
+  {
+    "id": "venous-return",
+    "title": "Veins and Venous Return",
+    "group": "Vessels",
+    "order": 12,
+    "short": "Venous return"
+  },
+  {
+    "id": "microcirculation",
+    "title": "Microcirculation and Capillary Exchange",
+    "group": "Vessels",
+    "order": 13,
+    "short": "Microcirculation"
+  },
+  {
+    "id": "edema",
+    "title": "Formation of Oedema",
+    "group": "Vessels",
+    "order": 14,
+    "short": "Oedema"
+  },
+  {
+    "id": "lymphatics",
+    "title": "Lymphatic Circulation",
+    "group": "Vessels",
+    "order": 15,
+    "short": "Lymphatics"
+  },
+  {
+    "id": "local-regulation",
+    "title": "Local Control of Blood Flow",
+    "group": "Control",
+    "order": 16,
+    "short": "Local control"
+  },
+  {
+    "id": "neural-humoral",
+    "title": "Neural and Hormonal Control",
+    "group": "Control",
+    "order": 17,
+    "short": "Neural and hormonal"
+  },
+  {
+    "id": "reflexes",
+    "title": "Cardiovascular Reflexes",
+    "group": "Control",
+    "order": 18,
+    "short": "CVS reflexes"
+  },
+  {
+    "id": "gravity",
+    "title": "Gravity, Posture and Acceleration",
+    "group": "Control",
+    "order": 19,
+    "short": "Gravity and posture"
+  },
+  {
+    "id": "shock",
+    "title": "Circulatory Shock",
+    "group": "Control",
+    "order": 20,
+    "short": "Shock"
+  },
+  {
+    "id": "heart-failure",
+    "title": "Heart Failure Physiology",
+    "group": "Control",
+    "order": 21,
+    "short": "Heart failure"
+  },
+  {
+    "id": "cerebral",
+    "title": "Cerebral Circulation, CSF and Blood–Brain Barrier",
+    "group": "Regional",
+    "order": 22,
+    "short": "Cerebral circulation"
+  },
+  {
+    "id": "coronary",
+    "title": "Coronary Circulation",
+    "group": "Regional",
+    "order": 23,
+    "short": "Coronary circulation"
+  },
+  {
+    "id": "pulmonary",
+    "title": "Pulmonary Circulation",
+    "group": "Regional",
+    "order": 24,
+    "short": "Pulmonary circulation"
+  },
+  {
+    "id": "splanchnic",
+    "title": "Splanchnic and Hepatic Circulation",
+    "group": "Regional",
+    "order": 25,
+    "short": "Splanchnic circulation"
+  },
+  {
+    "id": "skin",
+    "title": "Cutaneous Circulation and Triple Response",
+    "group": "Regional",
+    "order": 26,
+    "short": "Skin circulation"
+  },
+  {
+    "id": "fetal",
+    "title": "Fetal Circulation and Transition at Birth",
+    "group": "Regional",
+    "order": 27,
+    "short": "Fetal circulation"
+  }
+]
