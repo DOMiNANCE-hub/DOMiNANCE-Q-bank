@@ -167,7 +167,7 @@
   /* ---------- shared chrome ---------- */
   function topbar() {
     const dark = store.get('dq.theme', 'dark') === 'dark';
-    return '<header class="topbar"><a class="brand" href="#/home"><span class="mark">D</span><span>DOMiNANCE<small>Q Bank</small></span></a>' +
+    return '<header class="topbar"><a class="brand" href="#/home" aria-label="DOMiNANCE Q Bank home"><span class="word">DOM<i>i</i>NANCE</span></a>' +
       '<button class="iconbtn" data-a="theme" aria-label="Switch to ' + (dark ? 'light' : 'dark') + ' theme">' + (dark ? I.sun : I.moon) + '</button></header>';
   }
   function crumbs(items) {
@@ -647,6 +647,7 @@
       case 'review': html = viewReview(); break;
       default: html = viewHome();
     }
+    document.body.dataset.view = r.view;
     $app.innerHTML = html;
     if (S.sheet) clearBubbles();
     if (r.view === 'quiz') runFx();

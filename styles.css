@@ -1,5 +1,5 @@
-:root{color-scheme:dark;--bg:#1b3678;--bg2:#2a4ea3;--glow:#3d6ad0;--panel:rgba(255,255,255,.08);--panel2:rgba(255,255,255,.12);--sheet:#25458f;--field:rgba(8,22,64,.28);--text:#f4f7ff;--muted:#c8d5f6;--edge:rgba(255,255,255,.16);--edge2:rgba(255,255,255,.3);--gold:rgba(246,196,83,.94);--gold-solid:#f6c453;--gold-tint:rgba(246,196,83,.16);--gold-ink:#3a2a00;--good:#4ade80;--good-bg:rgba(74,222,128,.15);--good-ink:#dcfce7;--bad:#f87171;--bad-bg:rgba(248,113,113,.15);--bad-ink:#fee2e2;--accent:#a9c4ff;--focus:0 0 0 3px rgba(246,196,83,.55);--radius:14px}
-:root[data-theme="light"]{color-scheme:light;--bg:#e9f0ff;--bg2:#d9e6ff;--glow:#c3d6ff;--panel:rgba(255,255,255,.7);--panel2:rgba(37,86,214,.07);--sheet:#ffffff;--field:rgba(255,255,255,.85);--text:#0f2a63;--muted:#4d6290;--edge:rgba(37,86,214,.16);--edge2:rgba(37,86,214,.32);--gold:rgba(240,176,34,.94);--gold-solid:#f0b022;--gold-tint:rgba(240,176,34,.18);--gold-ink:#3a2a00;--good:#16a34a;--good-bg:rgba(22,163,74,.12);--good-ink:#14532d;--bad:#dc2626;--bad-bg:rgba(220,38,38,.1);--bad-ink:#7f1d1d;--accent:#2556d6}
+:root{color-scheme:dark;--bg:#1b3678;--bg2:#2a4ea3;--glow:#3d6ad0;--panel:rgba(255,255,255,.08);--panel2:rgba(255,255,255,.12);--sheet:#25458f;--field:rgba(8,22,64,.28);--text:#f4f7ff;--muted:#c8d5f6;--edge:rgba(255,255,255,.16);--edge2:rgba(255,255,255,.3);--gold:rgba(246,196,83,.94);--gold-solid:#f6c453;--gold-tint:rgba(246,196,83,.16);--gold-ink:#3a2a00;--good:#4ade80;--good-bg:rgba(74,222,128,.15);--good-ink:#dcfce7;--bad:#f87171;--bad-bg:rgba(248,113,113,.15);--bad-ink:#fee2e2;--accent:#a9c4ff;--focus:0 0 0 3px rgba(246,196,83,.55);--radius:14px;--wm:rgba(255,255,255,.2);--wm-fill:rgba(255,255,255,.08)}
+:root[data-theme="light"]{color-scheme:light;--bg:#e9f0ff;--bg2:#d9e6ff;--glow:#c3d6ff;--panel:rgba(255,255,255,.7);--panel2:rgba(37,86,214,.07);--sheet:#ffffff;--field:rgba(255,255,255,.85);--text:#0f2a63;--muted:#4d6290;--edge:rgba(37,86,214,.16);--edge2:rgba(37,86,214,.32);--gold:rgba(240,176,34,.94);--gold-solid:#f0b022;--gold-tint:rgba(240,176,34,.18);--gold-ink:#3a2a00;--good:#16a34a;--good-bg:rgba(22,163,74,.12);--good-ink:#14532d;--bad:#dc2626;--bad-bg:rgba(220,38,38,.1);--bad-ink:#7f1d1d;--accent:#2556d6;--wm:rgba(37,86,214,.22);--wm-fill:rgba(37,86,214,.08)}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;min-height:100vh;background:var(--bg);background-image:radial-gradient(900px 520px at 15% -10%,var(--glow),transparent 65%),linear-gradient(170deg,var(--bg2),var(--bg) 55%);background-attachment:fixed;color:var(--text);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif}
@@ -9,9 +9,11 @@ a{color:inherit}
 .skip{position:absolute;left:-999px}.skip:focus{left:12px;top:12px;background:var(--gold);color:var(--gold-ink);padding:8px 12px;border-radius:8px;z-index:99}
 .wrap{max-width:760px;margin:0 auto;padding:16px 16px 120px}
 .topbar{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:14px}
-.brand{display:flex;align-items:center;gap:10px;text-decoration:none;font-weight:700;letter-spacing:.2px}
-.brand .mark{width:34px;height:34px;border-radius:10px;background:var(--gold);color:var(--gold-ink);display:grid;place-items:center;font-weight:800;font-size:15px}
-.brand small{display:block;font-weight:500;color:var(--muted);font-size:12px;letter-spacing:0}
+.brand{display:inline-flex;align-items:center;min-height:48px;padding:4px 2px;text-decoration:none}
+.brand .word{position:relative;z-index:1;font-weight:850;font-size:22px;letter-spacing:1.6px;line-height:1}
+.brand .word i{font-style:normal;color:var(--gold-solid)}
+.hero{position:relative;isolation:isolate}
+.hero:before{content:'Q BANK';position:absolute;z-index:-1;right:-8px;top:-18px;font-weight:900;font-size:clamp(84px,24vw,170px);letter-spacing:.06em;line-height:.9;color:transparent;-webkit-text-stroke:1.5px var(--wm);opacity:.9;pointer-events:none;white-space:nowrap}
 .iconbtn{width:40px;height:40px;border-radius:12px;border:1px solid var(--edge);background:var(--panel);display:grid;place-items:center;padding:0}
 .iconbtn svg{width:20px;height:20px}
 .crumbs{display:flex;align-items:center;gap:6px;flex-wrap:wrap;font-size:13px;color:var(--muted);margin:0 0 14px}
@@ -24,7 +26,7 @@ a{color:inherit}
 h1{font-size:26px;line-height:1.2;margin:0 0 4px}
 h2{font-size:18px;margin:22px 0 10px}
 .lead{color:var(--muted);margin:0 0 18px}
-.hero{padding:18px 4px 8px}
+.hero{padding:18px 4px 8px;overflow:hidden}
 .hero h1{font-size:30px}
 .hero h1 span{color:var(--gold)}
 .list{display:grid;gap:10px}
@@ -220,3 +222,7 @@ h2{font-size:18px;margin:22px 0 10px}
 .loading{padding:40px 0;text-align:center;color:var(--muted)}
 .foot{margin-top:28px;font-size:12px;color:var(--muted);text-align:center}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+
+#app{position:relative;z-index:1}
+body:after{content:'Q BANK';position:fixed;z-index:0;right:-6px;bottom:-14px;font-weight:900;font-size:clamp(90px,26vw,220px);letter-spacing:.06em;line-height:1;color:transparent;-webkit-text-stroke:1.5px var(--wm);opacity:.7;pointer-events:none;white-space:nowrap;user-select:none}
+body[data-view=home]:after,body[data-view=quiz]:after{display:none}
