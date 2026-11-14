@@ -1,0 +1,4970 @@
+{
+  "sets": [
+    {
+      "id": "gi-past",
+      "title": "Digestive physiology and metabolism past questions",
+      "questions": [
+        {
+          "id": "phy-gi-201",
+          "type": "single-best",
+          "stem": "The term 'metabolism':",
+          "options": [
+            {
+              "label": "A",
+              "text": "refers to all the chemical reactions that occur in the body"
+            },
+            {
+              "label": "B",
+              "text": "includes the synthesis of complex molecules from simpler ones"
+            },
+            {
+              "label": "C",
+              "text": "includes the breakdown of complex molecules into simpler ones"
+            },
+            {
+              "label": "D",
+              "text": "includes anabolism and catabolism"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Metabolism encompasses all chemical reactions, including both anabolic (building) and catabolic (breaking down) pathways.",
+          "notes": {
+            "A": "True, but so are the others.",
+            "B": "True, but so are the others.",
+            "C": "True, but so are the others.",
+            "D": "True, but so are the others."
+          },
+          "topicId": "gi-general",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-gi-204",
+          "type": "single-best",
+          "stem": "An example of absorption is the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "movement of food by peristalsis"
+            },
+            {
+              "label": "B",
+              "text": "active transport of glucose into a villus"
+            },
+            {
+              "label": "C",
+              "text": "hydrolysis of a peptide into amino acids"
+            },
+            {
+              "label": "D",
+              "text": "release of secretin in the presence of HCl"
+            },
+            {
+              "label": "E",
+              "text": "c, and d"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Absorption is the movement of nutrients (like glucose) from the gut lumen into the blood or lymph.",
+          "notes": {
+            "A": "That is motility.",
+            "C": "That is digestion.",
+            "D": "That is secretion.",
+            "E": "Both are false."
+          },
+          "topicId": "gi-general",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-gi-205",
+          "type": "single-best",
+          "stem": "Chewing food aids digestion by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "stimulating the release of bile"
+            },
+            {
+              "label": "B",
+              "text": "increasing the surface area of the food"
+            },
+            {
+              "label": "C",
+              "text": "breaking up large protein molecules into peptides"
+            },
+            {
+              "label": "D",
+              "text": "breaking down carbohydrates"
+            },
+            {
+              "label": "E",
+              "text": "breaking down fats"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Chewing (mastication) mechanically breaks food into smaller pieces, increasing the surface area for enzymatic action.",
+          "notes": {
+            "A": "Bile release is by CCK.",
+            "C": "Chewing is mechanical, not chemical.",
+            "D": "Chewing is mechanical.",
+            "E": "Chewing is mechanical."
+          },
+          "topicId": "gi-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-206",
+          "type": "single-best",
+          "stem": "A function of the small intestine is to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "secrete bile"
+            },
+            {
+              "label": "B",
+              "text": "filter waste"
+            },
+            {
+              "label": "C",
+              "text": "make vitamins"
+            },
+            {
+              "label": "D",
+              "text": "absorb nutrients"
+            },
+            {
+              "label": "E",
+              "text": "secrete HCl"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "The small intestine is the primary site of nutrient absorption.",
+          "notes": {
+            "A": "The liver makes bile.",
+            "B": "The kidneys filter waste.",
+            "C": "Gut bacteria in the colon make vitamin K.",
+            "E": "The stomach secretes HCl."
+          },
+          "topicId": "gi-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-225",
+          "type": "single-best",
+          "stem": "In the GI tract, the layer, responsible for absorption and secretion is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "mucosa"
+            },
+            {
+              "label": "B",
+              "text": "submucosa"
+            },
+            {
+              "label": "C",
+              "text": "muscularis"
+            },
+            {
+              "label": "D",
+              "text": "serosa"
+            },
+            {
+              "label": "E",
+              "text": "adventitia"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "The mucosa is the innermost lining where epithelial cells handle absorption and secretion.",
+          "notes": {
+            "B": "Supports vessels and nerves.",
+            "C": "Motility.",
+            "D": "Covering.",
+            "E": "Covering."
+          },
+          "topicId": "gi-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-228",
+          "type": "single-best",
+          "stem": "Most of the chemical and mechanical digestion is carried out within:",
+          "options": [
+            {
+              "label": "A",
+              "text": "pylorus"
+            },
+            {
+              "label": "B",
+              "text": "fundus"
+            },
+            {
+              "label": "C",
+              "text": "stomach"
+            },
+            {
+              "label": "D",
+              "text": "large intestine"
+            },
+            {
+              "label": "E",
+              "text": "small intestine"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "The small intestine is the primary site for the chemical digestion of nutrients and the absorption of the resulting molecules.",
+          "notes": {
+            "A": "Small region.",
+            "B": "Storage.",
+            "C": "Begins protein digestion only.",
+            "D": "Water and electrolyte absorption."
+          },
+          "topicId": "gi-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-231",
+          "type": "single-best",
+          "stem": "The chyme movement and flow into the stomach is controlled by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "nervous system"
+            },
+            {
+              "label": "B",
+              "text": "pancreas"
+            },
+            {
+              "label": "C",
+              "text": "various digestive system hormones"
+            },
+            {
+              "label": "D",
+              "text": "liver"
+            },
+            {
+              "label": "E",
+              "text": "both the nervous system and various digestive system hormones"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Gastric motility is regulated by both the enteric nervous system (parasympathetic/sympathetic) and hormones (gastrin, secretin, CCK).",
+          "notes": {
+            "A": "True, but hormones too.",
+            "B": "Not a controller.",
+            "C": "True, but nerves too.",
+            "D": "Not a controller."
+          },
+          "topicId": "gi-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-233",
+          "type": "single-best",
+          "stem": "Gastrointestinal hormones:",
+          "options": [
+            {
+              "label": "A",
+              "text": "are secreted by exocrine glands of the gut mucosa and affect metabolism"
+            },
+            {
+              "label": "B",
+              "text": "are secreted into the blood stream by specialized cells in the gut walls and modulate its motor and secretory activity"
+            },
+            {
+              "label": "C",
+              "text": "are secreted by the gastric walls and protect the gut mucosa from the effect of HCl and proteolytic enzymes"
+            },
+            {
+              "label": "D",
+              "text": "are situated in the epithelial intestinal cells (enterocytes) and control the cell metabolism of nutrients"
+            },
+            {
+              "label": "E",
+              "text": "are secreted by the gastric walls and colon and protect the gut mucosa from the effect of HCl and proteolytic and nucleic enzymes"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "GI hormones (like gastrin, secretin, CCK) are secreted by enteroendocrine cells into the blood to regulate motility and secretion.",
+          "notes": {
+            "A": "Hormones are ENDOcrine.",
+            "C": "Mucus protects.",
+            "D": "Not hormones.",
+            "E": "Mucus protects."
+          },
+          "topicId": "gi-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-234",
+          "type": "single-best",
+          "stem": "The gastrointestinal enzymes:",
+          "options": [
+            {
+              "label": "A",
+              "text": "are situated in the epithelial intestinal cells (enterocytes) and control cell metabolism"
+            },
+            {
+              "label": "B",
+              "text": "are secreted into the blood stream by specialized cells in the gut walls and modulate its motor and secretory activity"
+            },
+            {
+              "label": "C",
+              "text": "are secreted by exocrine glands of the gut mucosa and break down nutrients"
+            },
+            {
+              "label": "D",
+              "text": "are secreted by the gastric walls and protect the gut mucosa from the effect of HCl and proteolytic enzymes"
+            },
+            {
+              "label": "E",
+              "text": "are secreted by the gastric walls into the small intestine and protect the gut mucosa from the effect of HCl, proteolytic and nucleic enzymes"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Digestive enzymes are exocrine secretions that break down macromolecules into absorbable units.",
+          "notes": {
+            "A": "Not GI enzymes.",
+            "B": "Hormones.",
+            "D": "Mucus.",
+            "E": "Mucus."
+          },
+          "topicId": "gi-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-300",
+          "type": "single-best",
+          "stem": "All are GIT hormones except:",
+          "options": [
+            {
+              "label": "A",
+              "text": "cholecystokinin"
+            },
+            {
+              "label": "B",
+              "text": "gastrin"
+            },
+            {
+              "label": "C",
+              "text": "secretin"
+            },
+            {
+              "label": "D",
+              "text": "erythropoietin"
+            },
+            {
+              "label": "E",
+              "text": "somatostatin"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Erythropoietin is a hormone produced by the kidneys that stimulates red blood cell production, not a GI hormone.",
+          "notes": {
+            "A": "GI hormone.",
+            "B": "GI hormone.",
+            "C": "GI hormone.",
+            "E": "Also a GI hormone."
+          },
+          "topicId": "gi-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-203",
+          "type": "single-best",
+          "stem": "The enzyme amylase is secreted by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "liver and duodenum"
+            },
+            {
+              "label": "B",
+              "text": "duodenum and pancreas"
+            },
+            {
+              "label": "C",
+              "text": "salivary glands and liver"
+            },
+            {
+              "label": "D",
+              "text": "pancreas and salivary glands"
+            },
+            {
+              "label": "E",
+              "text": "stomach and duodenum"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Amylase is found in saliva (salivary amylase) and pancreatic juice (pancreatic amylase) to digest carbohydrates.",
+          "notes": {
+            "A": "The liver makes no amylase; the duodenum receives it.",
+            "B": "The duodenum does not secrete it.",
+            "C": "The liver does not secrete it.",
+            "E": "Neither secretes amylase."
+          },
+          "topicId": "gi-mouth",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-226",
+          "type": "single-best",
+          "stem": "The digestive enzyme, produced in the salivary glands and the pancreas is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "maltase"
+            },
+            {
+              "label": "B",
+              "text": "amylase"
+            },
+            {
+              "label": "C",
+              "text": "pepsin"
+            },
+            {
+              "label": "D",
+              "text": "nuclease"
+            },
+            {
+              "label": "E",
+              "text": "trypsin"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Amylase is produced by both salivary glands and the pancreas to digest starch.",
+          "notes": {
+            "A": "Brush border.",
+            "C": "Gastric.",
+            "D": "Pancreatic.",
+            "E": "Pancreatic only."
+          },
+          "topicId": "gi-mouth",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-255",
+          "type": "single-best",
+          "stem": "The humoral and pharmacological factors inhibiting salivary secretion are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "catecholamines"
+            },
+            {
+              "label": "B",
+              "text": "cholinolytics"
+            },
+            {
+              "label": "C",
+              "text": "adrenomenetics"
+            },
+            {
+              "label": "D",
+              "text": "catecholamines, cholinolytics; adrenomenetics"
+            },
+            {
+              "label": "E",
+              "text": "adrenolytics and cholinomenetics"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Sympathetic activity (catecholamines, adrenergic agonists) inhibits salivation (causing dry mouth), as do anticholinergics.",
+          "notes": {
+            "A": "True, but incomplete.",
+            "B": "True, but incomplete.",
+            "C": "True, but incomplete.",
+            "E": "These STIMULATE saliva."
+          },
+          "topicId": "gi-mouth",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-261",
+          "type": "single-best",
+          "stem": "Saliva:",
+          "options": [
+            {
+              "label": "A",
+              "text": "from different salivary glands has a similar composition"
+            },
+            {
+              "label": "B",
+              "text": "contains enzymes essential for the digestion of proteins"
+            },
+            {
+              "label": "C",
+              "text": "has less than half the ionic calcium level of plasma"
+            },
+            {
+              "label": "D",
+              "text": "has more than twice the iodide level of plasma"
+            },
+            {
+              "label": "E",
+              "text": "has a pH between 5 and 6"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Saliva concentrates iodine, having levels much higher than plasma.",
+          "notes": {
+            "A": "Composition differs between glands.",
+            "B": "No proteases.",
+            "C": "Not true.",
+            "E": "pH about 6–7."
+          },
+          "topicId": "gi-mouth",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-262",
+          "type": "single-best",
+          "stem": "Swallowing is a reflex which:",
+          "options": [
+            {
+              "label": "A",
+              "text": "has its reflex centres in the cervical segments of the spinal cord"
+            },
+            {
+              "label": "B",
+              "text": "is initiated by a voluntary act and includes inhibition of respiration"
+            },
+            {
+              "label": "C",
+              "text": "has its reflex centres in the thoracic segments of the spinal cord"
+            },
+            {
+              "label": "D",
+              "text": "is not dependent on intrinsic nerve networks in the oesophagus"
+            },
+            {
+              "label": "E",
+              "text": "is more effective when the person is lying down rather than when standing"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Swallowing begins voluntarily but becomes an involuntary reflex that momentarily inhibits breathing to prevent aspiration.",
+          "notes": {
+            "A": "The centre is in the medulla.",
+            "C": "Medullary.",
+            "D": "It IS dependent on them.",
+            "E": "Gravity helps when upright."
+          },
+          "topicId": "gi-mouth",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-264",
+          "type": "single-best",
+          "stem": "Secretion of saliva increases when:",
+          "options": [
+            {
+              "label": "A",
+              "text": "atropine is applied"
+            },
+            {
+              "label": "B",
+              "text": "the mouth is flushed with fluids with a pH of about 7"
+            },
+            {
+              "label": "C",
+              "text": "the subject thinks of unappetizing food"
+            },
+            {
+              "label": "D",
+              "text": "epinephrine is applied"
+            },
+            {
+              "label": "E",
+              "text": "the saliva glands parasympathetic nerve supply is stimulated"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Parasympathetic stimulation is the primary driver of salivary secretion.",
+          "notes": {
+            "A": "Atropine BLOCKS saliva.",
+            "B": "Neutral fluid is a weak stimulus.",
+            "C": "Unappetising thoughts inhibit.",
+            "D": "Adrenaline reduces watery saliva."
+          },
+          "topicId": "gi-mouth",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-298",
+          "type": "single-best",
+          "stem": "Muscle tone in the lower oesophagus is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "lower than tone in the middle oesophagus"
+            },
+            {
+              "label": "B",
+              "text": "a major factor in preventing heartburn"
+            },
+            {
+              "label": "C",
+              "text": "increased in pregnancy"
+            },
+            {
+              "label": "D",
+              "text": "decreased by gastrin"
+            },
+            {
+              "label": "E",
+              "text": "increased by anticholinergic drugs"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "The lower esophageal sphincter (LES) maintains tone to prevent gastric acid from refluxing into the esophagus.",
+          "notes": {
+            "A": "HIGHER.",
+            "C": "DECREASED (progesterone).",
+            "D": "INCREASED.",
+            "E": "DECREASED."
+          },
+          "topicId": "gi-mouth",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-306",
+          "type": "single-best",
+          "stem": "Normal swallowing is dependant on the integrity of the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "IX and X cranial nerves"
+            },
+            {
+              "label": "B",
+              "text": "pyramidal tract"
+            },
+            {
+              "label": "C",
+              "text": "trigeminal nerve"
+            },
+            {
+              "label": "D",
+              "text": "appetite center of hypothalamus"
+            },
+            {
+              "label": "E",
+              "text": "neurons, secreting VIP"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Swallowing relies heavily on the glossopharyngeal (IX) and vagus (X) cranial nerves.",
+          "notes": {
+            "B": "Not essential.",
+            "C": "Chewing.",
+            "D": "Not involved.",
+            "E": "Not essential."
+          },
+          "topicId": "gi-mouth",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-312",
+          "type": "single-best",
+          "stem": "Saliva is responsible for all except:",
+          "options": [
+            {
+              "label": "A",
+              "text": "deglutition"
+            },
+            {
+              "label": "B",
+              "text": "dental caries prevention"
+            },
+            {
+              "label": "C",
+              "text": "complete digestion of proteins"
+            },
+            {
+              "label": "D",
+              "text": "the concentration of iodine"
+            },
+            {
+              "label": "E",
+              "text": "maintaining the oral pH at about 7.0"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Saliva does not contain proteases that completely digest proteins (only lingual lipase and amylase for fats/carbs).",
+          "notes": {
+            "A": "Saliva lubricates.",
+            "B": "Saliva protects teeth.",
+            "D": "Saliva concentrates iodide.",
+            "E": "Saliva buffers."
+          },
+          "topicId": "gi-mouth",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-208",
+          "type": "single-best",
+          "stem": "Which of the following has the lowest pH?",
+          "options": [
+            {
+              "label": "A",
+              "text": "gastric juice"
+            },
+            {
+              "label": "B",
+              "text": "hepatic bile"
+            },
+            {
+              "label": "C",
+              "text": "pancreatic juice"
+            },
+            {
+              "label": "D",
+              "text": "saliva"
+            },
+            {
+              "label": "E",
+              "text": "secretion of the intestinal glands"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Gastric juice contains hydrochloric acid (HCl) and has a highly acidic pH of roughly 1.5 to 3.5.",
+          "notes": {
+            "B": "Hepatic bile is alkaline (about 7.8).",
+            "C": "Pancreatic juice is about 8.",
+            "D": "Saliva is about 6–7.",
+            "E": "Intestinal juice is about 7.5."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-210",
+          "type": "single-best",
+          "stem": "When parietal cells are stimulated, they secrete:",
+          "options": [
+            {
+              "label": "A",
+              "text": "HCl and intrinsic factor"
+            },
+            {
+              "label": "B",
+              "text": "HCl and pepsinogen"
+            },
+            {
+              "label": "C",
+              "text": "HCl and HCO3-"
+            },
+            {
+              "label": "D",
+              "text": "HCO3- and intrinsic factor"
+            },
+            {
+              "label": "E",
+              "text": "mucus and pepsinogen"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Parietal (oxyntic) cells secrete hydrochloric acid and intrinsic factor (essential for B12 absorption).",
+          "notes": {
+            "B": "Pepsinogen is from chief cells.",
+            "C": "HCO3- goes to the BLOOD (alkaline tide).",
+            "D": "Bicarbonate is not secreted into the lumen.",
+            "E": "These come from mucous and chief cells."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-211",
+          "type": "single-best",
+          "stem": "Secretion of HCl by the gastric parietal cells is needed for:",
+          "options": [
+            {
+              "label": "A",
+              "text": "activation of pancreatic lipases"
+            },
+            {
+              "label": "B",
+              "text": "activation of salivary lipases"
+            },
+            {
+              "label": "C",
+              "text": "activation of intrinsic factor"
+            },
+            {
+              "label": "D",
+              "text": "conversion of pepsinogen into pepsin"
+            },
+            {
+              "label": "E",
+              "text": "formation of micelles"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "The acidic environment converts inactive pepsinogen into active pepsin, the main proteolytic enzyme of the stomach.",
+          "notes": {
+            "A": "Acid INACTIVATES pancreatic lipase.",
+            "B": "Not needed.",
+            "C": "IF needs no activation.",
+            "E": "Micelles need bile salts."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-218",
+          "type": "single-best",
+          "stem": "Gastric acid secretion is decreased by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "vagal inhibition"
+            },
+            {
+              "label": "B",
+              "text": "ingestion of protein"
+            },
+            {
+              "label": "C",
+              "text": "histamine"
+            },
+            {
+              "label": "D",
+              "text": "acetylcholine"
+            },
+            {
+              "label": "E",
+              "text": "distension of the stomach wall"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "The vagus nerve stimulates gastric acid secretion. Therefore, vagal inhibition decreases it.",
+          "notes": {
+            "B": "Protein STIMULATES acid.",
+            "C": "Histamine STIMULATES acid.",
+            "D": "ACh STIMULATES acid.",
+            "E": "Distension STIMULATES acid."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-227",
+          "type": "single-best",
+          "stem": "This keeps the chyme in the stomach until it reaches the right consistency to pass into the small intestine:",
+          "options": [
+            {
+              "label": "A",
+              "text": "esophageal sphincter"
+            },
+            {
+              "label": "B",
+              "text": "intrinsic sphincter"
+            },
+            {
+              "label": "C",
+              "text": "cardiac sphincter"
+            },
+            {
+              "label": "D",
+              "text": "pyloric sphincter"
+            },
+            {
+              "label": "E",
+              "text": "duodenal sphincter"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "The pyloric sphincter regulates the emptying of chyme from the stomach into the duodenum.",
+          "notes": {
+            "A": "Upper and lower oesophageal sphincters guard the oesophagus.",
+            "B": "Not a gastric sphincter.",
+            "C": "Controls entry, not exit.",
+            "E": "Not a named sphincter."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-229",
+          "type": "single-best",
+          "stem": "Parietal cells secrete:",
+          "options": [
+            {
+              "label": "A",
+              "text": "serotonin"
+            },
+            {
+              "label": "B",
+              "text": "mucus"
+            },
+            {
+              "label": "C",
+              "text": "pepsinogen"
+            },
+            {
+              "label": "D",
+              "text": "hydrochloric acid"
+            },
+            {
+              "label": "E",
+              "text": "gastrin"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Parietal cells secrete hydrochloric acid (and intrinsic factor).",
+          "notes": {
+            "A": "Enterochromaffin cells.",
+            "B": "Mucous cells.",
+            "C": "Chief cells.",
+            "E": "G cells."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-230",
+          "type": "single-best",
+          "stem": "The cells at the base of fundic or oxyntic glands are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "chief cells"
+            },
+            {
+              "label": "B",
+              "text": "G cells"
+            },
+            {
+              "label": "C",
+              "text": "enteroendocrine cells"
+            },
+            {
+              "label": "D",
+              "text": "goblet cells"
+            },
+            {
+              "label": "E",
+              "text": "parietal cells"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Chief cells (peptic cells) are located deep in the gastric glands and secrete pepsinogen.",
+          "notes": {
+            "B": "In the antrum.",
+            "C": "Scattered.",
+            "D": "Intestinal.",
+            "E": "Mid-gland, not the base."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-235",
+          "type": "single-best",
+          "stem": "Which enzymes are secreted with the gastric juice:",
+          "options": [
+            {
+              "label": "A",
+              "text": "pepsinogene and lipase"
+            },
+            {
+              "label": "B",
+              "text": "pepsinogene, tripsinogene and maltase"
+            },
+            {
+              "label": "C",
+              "text": "pepsinogene, lipase and HCl"
+            },
+            {
+              "label": "D",
+              "text": "proteolytic, lipolytic and amylolytic enzymes"
+            },
+            {
+              "label": "E",
+              "text": "proteolytic, nucleolytic, lipolytic and amylolytic enzymes"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Gastric juice contains pepsinogen (protease precursor) and gastric lipase.",
+          "notes": {
+            "B": "Trypsinogen is pancreatic; maltase is brush border.",
+            "C": "HCl is not an enzyme.",
+            "D": "No amylase in gastric juice.",
+            "E": "Overstated."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-239",
+          "type": "single-best",
+          "stem": "The humoral factors inhibiting gastric motility are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "gastrin"
+            },
+            {
+              "label": "B",
+              "text": "GIP, catecholamines, secretin, somatostatin, cholecystokinin- pancreozimin"
+            },
+            {
+              "label": "C",
+              "text": "secretin and cholecystokinin- pancreozimin"
+            },
+            {
+              "label": "D",
+              "text": "gastrin and motilin"
+            },
+            {
+              "label": "E",
+              "text": "intestinal hormones, somatostatin, secretin and cholecystokinin- pancreozimin"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Enterogastrones (like secretin, CCK, GIP) and catecholamines inhibit gastric motility to slow emptying when the duodenum is busy.",
+          "notes": {
+            "A": "Gastrin stimulates motility.",
+            "C": "Incomplete.",
+            "D": "Stimulants.",
+            "E": "Less complete than B."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-240",
+          "type": "single-best",
+          "stem": "The humoral factors stimulating gastric motility are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "catecholamines, secretin, gastric peptide, somatostatin, cholecystokinin- pancreozimin"
+            },
+            {
+              "label": "B",
+              "text": "secretin and cholecystokinin- pancreozimin"
+            },
+            {
+              "label": "C",
+              "text": "motilin and gastrin"
+            },
+            {
+              "label": "D",
+              "text": "GIP, VIP, somatostatin, secretin and cholecystokinin- pancreozimin"
+            },
+            {
+              "label": "E",
+              "text": "gastrin, histamine, secretin"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Gastrin and motilin stimulate gastric smooth muscle contraction and motility.",
+          "notes": {
+            "A": "Inhibitors.",
+            "B": "Inhibitors.",
+            "D": "Inhibitors.",
+            "E": "Secretin inhibits."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-242",
+          "type": "single-best",
+          "stem": "The humoral factors that inhibit gastric secretion are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "gastrin, histamine, acetylcholine, cholecystokinin-pancreozymin, bombesin, motilin"
+            },
+            {
+              "label": "B",
+              "text": "gastrin, histamine and acetylcholine"
+            },
+            {
+              "label": "C",
+              "text": "GIP, secretin, cholecystokinin-pancreozymin, VIP, enterogastrone"
+            },
+            {
+              "label": "D",
+              "text": "enkephalins, endorphins, angiotensinogen"
+            },
+            {
+              "label": "E",
+              "text": "corticotropin, prolactin, substance P"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Enterogastrones (GIP, secretin, CCK, VIP) act as hormones to inhibit gastric acid and pepsinogen secretion.",
+          "notes": {
+            "A": "Stimulants.",
+            "B": "Stimulants.",
+            "D": "Not the main ones.",
+            "E": "Unrelated."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-243",
+          "type": "single-best",
+          "stem": "Which humoral factors stimulate gastric secretion:",
+          "options": [
+            {
+              "label": "A",
+              "text": "secretin, cholecystokinin, somatostatin"
+            },
+            {
+              "label": "B",
+              "text": "secretin, cholecystokinin-pancreozymin, histamine, acetylcholine, bombesin, motilin"
+            },
+            {
+              "label": "C",
+              "text": "VIP, somatostatin, GIP, cholecystokinin-pancreozymin"
+            },
+            {
+              "label": "D",
+              "text": "corticotropin, prolactin, substance P"
+            },
+            {
+              "label": "E",
+              "text": "gastrin, histamine, acetylcholine"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "The three direct stimulants of parietal cells are gastrin (via CCK-B receptors), histamine (H2) and acetylcholine (M3). Secretin and somatostatin INHIBIT acid secretion.",
+          "notes": {
+            "A": "These INHIBIT acid.",
+            "B": "Includes inhibitors (secretin, CCK).",
+            "C": "Inhibitors.",
+            "D": "Unrelated."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "hard"
+        },
+        {
+          "id": "phy-gi-244",
+          "type": "single-best",
+          "stem": "The physiological effect of gastrin on gastric secretion is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "increased amount of gastric juice of high acidity and low proteolytic activity"
+            },
+            {
+              "label": "B",
+              "text": "increased amount of gastric juice of low acidity and high proteolytic activity"
+            },
+            {
+              "label": "C",
+              "text": "to decrease the amount of gastric juice"
+            },
+            {
+              "label": "D",
+              "text": "decreased amount of gastric juice of high acidity and low proteolytic activity"
+            },
+            {
+              "label": "E",
+              "text": "decreased amount of gastric juice of low acidity"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Gastrin stimulates parietal cells (acid) more than chief cells (pepsinogen), resulting in high acidity but relatively low proteolytic activity.",
+          "notes": {
+            "B": "Reversed.",
+            "C": "Gastrin INCREASES secretion.",
+            "D": "Increased, not decreased.",
+            "E": "Increased, not decreased."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-245",
+          "type": "single-best",
+          "stem": "The physiological effect of histamine on gastric secretion is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "increased amount of gastric juice of high acidity and low proteolytic activity"
+            },
+            {
+              "label": "B",
+              "text": "to decrease the amount of the gastric juice"
+            },
+            {
+              "label": "C",
+              "text": "increased amount of gastric juice of low acidity and high proteolytic activity"
+            },
+            {
+              "label": "D",
+              "text": "increased amount of gastric juice of low acidity and low proteolytic activity"
+            },
+            {
+              "label": "E",
+              "text": "no change in the amount or acidity of gastric juice"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Histamine strongly stimulates acid secretion (via H2 receptors) but has little effect on pepsinogen.",
+          "notes": {
+            "B": "Histamine INCREASES it.",
+            "C": "Reversed.",
+            "D": "Acidity is HIGH.",
+            "E": "A marked change occurs."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-254",
+          "type": "single-best",
+          "stem": "The chief cells of the stomach glands secrete:",
+          "options": [
+            {
+              "label": "A",
+              "text": "proteolytic enzymes"
+            },
+            {
+              "label": "B",
+              "text": "hydrochloric acid"
+            },
+            {
+              "label": "C",
+              "text": "mucus"
+            },
+            {
+              "label": "D",
+              "text": "gastrointestinal hormones"
+            },
+            {
+              "label": "E",
+              "text": "autonomously active substances"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Chief cells secrete pepsinogen, a proteolytic enzyme precursor.",
+          "notes": {
+            "B": "Parietal cells.",
+            "C": "Mucous cells.",
+            "D": "Enteroendocrine cells.",
+            "E": "Vague."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-266",
+          "type": "single-best",
+          "stem": "In the stomach:",
+          "options": [
+            {
+              "label": "A",
+              "text": "pH rarely falls below 4.0"
+            },
+            {
+              "label": "B",
+              "text": "pepsinogen is converted to pepsin by hydrochloric acid"
+            },
+            {
+              "label": "C",
+              "text": "ferrous iron is reduced to ferric iron by hydrochloric acid"
+            },
+            {
+              "label": "D",
+              "text": "acid secretion is inhibited by pentagastrin"
+            },
+            {
+              "label": "E",
+              "text": "there is a rise in the bacterial count after histamine H1 receptor blockade"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Pepsinogen requires the acidic environment provided by HCl to become active pepsin.",
+          "notes": {
+            "A": "It falls to 1–2.",
+            "C": "Chemically wrong.",
+            "D": "Pentagastrin STIMULATES.",
+            "E": "H2 blockade, not H1."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-270",
+          "type": "single-best",
+          "stem": "The gastric juice:",
+          "options": [
+            {
+              "label": "A",
+              "text": "is secreted when the vagus nerves are stimulated"
+            },
+            {
+              "label": "B",
+              "text": "is secreted in vagotomized animals when food is chewed but not swallowed"
+            },
+            {
+              "label": "C",
+              "text": "activates the digestive enzymes secreted with saliva"
+            },
+            {
+              "label": "D",
+              "text": "digests the gastric mucosa because it is not protected by a pepsin inactivator"
+            },
+            {
+              "label": "E",
+              "text": "does not irritate the oesophageal mucosa if regurgitated from the stomach"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Vagal stimulation (parasympathetic) strongly promotes gastric acid and pepsinogen secretion.",
+          "notes": {
+            "B": "Vagotomy abolishes the cephalic phase.",
+            "C": "Acid INACTIVATES amylase.",
+            "D": "Mucus protects it.",
+            "E": "Reflux DOES irritate."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-275",
+          "type": "single-best",
+          "stem": "The normally innervated stomach:",
+          "options": [
+            {
+              "label": "A",
+              "text": "is stimulated to secrete gastric juice when food is chewed, even if it is not swallowed"
+            },
+            {
+              "label": "B",
+              "text": "secrete HCl when its H1- histamine receptors are blocked"
+            },
+            {
+              "label": "C",
+              "text": "increases gastric secretion when there are fear and depression"
+            },
+            {
+              "label": "D",
+              "text": "empties slower than the denervated stomach"
+            },
+            {
+              "label": "E",
+              "text": "is stimulated to secrete gastric juice by the hormone secretin"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "The cephalic phase of gastric secretion is triggered by the sight, smell, or taste of food (even just chewing), mediated by the vagus nerve.",
+          "notes": {
+            "B": "H2 blockade matters, not H1.",
+            "C": "Fear and depression inhibit.",
+            "D": "Empties faster than the denervated stomach.",
+            "E": "Secretin INHIBITS."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-279",
+          "type": "single-best",
+          "stem": "Secretion of gastric juice:",
+          "options": [
+            {
+              "label": "A",
+              "text": "decreases when food stimulates mucosal cells in the pyloric region"
+            },
+            {
+              "label": "B",
+              "text": "is associated with a decrease in the pH of venous blood draining the stomach"
+            },
+            {
+              "label": "C",
+              "text": "in response to food is increased after vagotomy"
+            },
+            {
+              "label": "D",
+              "text": "is essential for carbohydrate digestion"
+            },
+            {
+              "label": "E",
+              "text": "is essential for absorption of vitamin B12"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Gastric juice contains intrinsic factor, which is essential for Vitamin B12 absorption in the ileum.",
+          "notes": {
+            "A": "Antral food INCREASES gastrin.",
+            "B": "The alkaline tide RAISES pH.",
+            "C": "Vagotomy DECREASES it.",
+            "D": "Not essential."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-287",
+          "type": "single-best",
+          "stem": "Peptic ulcer pain is typically relieved by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "raising the pH of the fluid bathing the ulcer and a drug blocking the gastric proton pump"
+            },
+            {
+              "label": "B",
+              "text": "a drug decreasing the pH"
+            },
+            {
+              "label": "C",
+              "text": "H2 stimulators"
+            },
+            {
+              "label": "D",
+              "text": "a drug which interferes with the action of acetylcholinesterase"
+            },
+            {
+              "label": "E",
+              "text": "a drug which stimulates the gastric proton pump"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Proton pump inhibitors (PPIs) decrease acid secretion, raising the pH and allowing the ulcer to heal.",
+          "notes": {
+            "B": "Acid worsens pain.",
+            "C": "H2 stimulation increases acid.",
+            "D": "Raises ACh, so more acid.",
+            "E": "More acid."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-295",
+          "type": "single-best",
+          "stem": "Gastric:",
+          "options": [
+            {
+              "label": "A",
+              "text": "acid secretion in response to a lowered blood sugar is mediated by the hormone gastrin"
+            },
+            {
+              "label": "B",
+              "text": "emptying is facilitated by sympathetic nerve activity"
+            },
+            {
+              "label": "C",
+              "text": "acid secretion increases when histamine H2, muscarinic M1 or gastrin receptors are activated"
+            },
+            {
+              "label": "D",
+              "text": "acid secretion is inhibited by the presence of food in the duodenum"
+            },
+            {
+              "label": "E",
+              "text": "c, and d"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Gastric acid secretion is stimulated by histamine (H2), ACh (M3/M1), and gastrin. It is inhibited by enterogastrones when food (especially fat/acid) enters the duodenum.",
+          "notes": {
+            "A": "Vagal, not gastrin.",
+            "B": "Sympathetic SLOWS emptying.",
+            "C": "True, but so is D.",
+            "D": "True, but so is C."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-gi-299",
+          "type": "single-best",
+          "stem": "Which of the following are incorrectly paired:",
+          "options": [
+            {
+              "label": "A",
+              "text": "pancreatic alpha amylase- starch"
+            },
+            {
+              "label": "B",
+              "text": "elastase- tissue rich in elastin"
+            },
+            {
+              "label": "C",
+              "text": "renin- coagulated milk"
+            },
+            {
+              "label": "D",
+              "text": "enteropeptidase- trypsinogen"
+            },
+            {
+              "label": "E",
+              "text": "phospholipase A2- phospholipids"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Renin is an enzyme produced by the kidneys to regulate blood pressure. The milk-coagulating enzyme in the stomach is rennin (or chymosin).",
+          "notes": {
+            "A": "Correctly paired.",
+            "B": "Correctly paired.",
+            "D": "Correctly paired.",
+            "E": "Correctly paired."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-307",
+          "type": "single-best",
+          "stem": "Secretion of the intrinsic factor of Castle occurs in:",
+          "options": [
+            {
+              "label": "A",
+              "text": "parietal cells of the stomach"
+            },
+            {
+              "label": "B",
+              "text": "chief cells of the stomach"
+            },
+            {
+              "label": "C",
+              "text": "upper abdomen"
+            },
+            {
+              "label": "D",
+              "text": "alpha cells of pancreas"
+            },
+            {
+              "label": "E",
+              "text": "cells of the parotid gland"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Intrinsic factor is secreted by parietal cells.",
+          "notes": {
+            "B": "Pepsinogen.",
+            "C": "Not a cell.",
+            "D": "Glucagon.",
+            "E": "Saliva."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-311",
+          "type": "single-best",
+          "stem": "Gastrin secretion is increased by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "acid in the lumen of stomach"
+            },
+            {
+              "label": "B",
+              "text": "calcitonin"
+            },
+            {
+              "label": "C",
+              "text": "secretin"
+            },
+            {
+              "label": "D",
+              "text": "vagal discharge"
+            },
+            {
+              "label": "E",
+              "text": "a, and b"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Vagal stimulation (parasympathetic) stimulates G cells to release gastrin.",
+          "notes": {
+            "A": "Acid INHIBITS gastrin.",
+            "B": "Not a stimulus.",
+            "C": "Secretin INHIBITS gastrin.",
+            "E": "Both are false."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-gi-315",
+          "type": "single-best",
+          "stem": "The gastrin is secreted in the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "antrum of the stomach"
+            },
+            {
+              "label": "B",
+              "text": "fundus of the stomach"
+            },
+            {
+              "label": "C",
+              "text": "duodenum"
+            },
+            {
+              "label": "D",
+              "text": "ileum"
+            },
+            {
+              "label": "E",
+              "text": "colon"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Gastrin is primarily secreted by G cells located in the gastric antrum.",
+          "notes": {
+            "B": "Parietal and chief cells.",
+            "C": "Minor.",
+            "D": "None.",
+            "E": "None."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-322",
+          "type": "single-best",
+          "stem": "The motor activity of the stomach includes:",
+          "options": [
+            {
+              "label": "A",
+              "text": "peristalsis at fasting"
+            },
+            {
+              "label": "B",
+              "text": "propulsive peristalsis"
+            },
+            {
+              "label": "C",
+              "text": "non propulsive peristalsis"
+            },
+            {
+              "label": "D",
+              "text": "receptive relaxion"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "The stomach exhibits receptive relaxation (to accommodate food), peristalsis (to mix and grind), and migrating motor complexes during fasting.",
+          "notes": {
+            "A": "True, but all are.",
+            "B": "True, but all are.",
+            "C": "True, but all are.",
+            "D": "True, but all are."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-gi-323",
+          "type": "single-best",
+          "stem": "In the stomach:",
+          "options": [
+            {
+              "label": "A",
+              "text": "pH is above 4.0"
+            },
+            {
+              "label": "B",
+              "text": "pepsinogen is converted into pepsin under the influence of HCl"
+            },
+            {
+              "label": "C",
+              "text": "Fe2+ is oxidised to Fe3+ under the influence of HCl"
+            },
+            {
+              "label": "D",
+              "text": "HCl secretion is suppressed by pentagastrin"
+            },
+            {
+              "label": "E",
+              "text": "the bacterial count increases after applying H1-receptor blockers"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "HCl is required to activate pepsinogen into pepsin.",
+          "notes": {
+            "A": "Below 2.",
+            "C": "Acid helps REDUCE Fe3+ to Fe2+.",
+            "D": "Pentagastrin stimulates.",
+            "E": "H2 blockade."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-324",
+          "type": "single-best",
+          "stem": "The lowest pH is characteristic of the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "gastric juice"
+            },
+            {
+              "label": "B",
+              "text": "bile"
+            },
+            {
+              "label": "C",
+              "text": "pancreatic juice"
+            },
+            {
+              "label": "D",
+              "text": "saliva"
+            },
+            {
+              "label": "E",
+              "text": "juice of the small intestine"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Gastric juice has the lowest pH (most acidic).",
+          "notes": {
+            "B": "Alkaline.",
+            "C": "Alkaline.",
+            "D": "Near neutral.",
+            "E": "Alkaline."
+          },
+          "topicId": "gi-stomach",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-219",
+          "type": "single-best",
+          "stem": "Release of which one of the following increases the pH of duodenal contents?",
+          "options": [
+            {
+              "label": "A",
+              "text": "secretin"
+            },
+            {
+              "label": "B",
+              "text": "gastrin"
+            },
+            {
+              "label": "C",
+              "text": "intrinsic factor"
+            },
+            {
+              "label": "D",
+              "text": "cholecystokinin"
+            },
+            {
+              "label": "E",
+              "text": "gastrin releasing peptide"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Secretin stimulates the pancreas to release a bicarbonate-rich fluid, which neutralizes the acidic chyme and raises the pH in the duodenum.",
+          "notes": {
+            "B": "Gastrin raises acid.",
+            "C": "IF is for B12.",
+            "D": "CCK mainly stimulates enzymes.",
+            "E": "GRP releases gastrin."
+          },
+          "topicId": "gi-pancreas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-224",
+          "type": "single-best",
+          "stem": "In the duodenum in response to acidic chyme is released:",
+          "options": [
+            {
+              "label": "A",
+              "text": "cholecystokinin"
+            },
+            {
+              "label": "B",
+              "text": "gastrin"
+            },
+            {
+              "label": "C",
+              "text": "secretin"
+            },
+            {
+              "label": "D",
+              "text": "peptide"
+            },
+            {
+              "label": "E",
+              "text": "amylase"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Acidic chyme entering the duodenum stimulates S cells to release secretin.",
+          "notes": {
+            "A": "CCK is released by fat and protein.",
+            "B": "Gastrin is stomach-derived.",
+            "D": "Too vague.",
+            "E": "An enzyme, not released by acid."
+          },
+          "topicId": "gi-pancreas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-236",
+          "type": "single-best",
+          "stem": "Which enzymes are secreted with the pancreatic juice:",
+          "options": [
+            {
+              "label": "A",
+              "text": "lipolytic: lipase and esterase"
+            },
+            {
+              "label": "B",
+              "text": "proteolytic: trypsinogen, chymotrypsinogen, elastase, carboxypeptidase, etc."
+            },
+            {
+              "label": "C",
+              "text": "amylolytic: pancreatic α-amylase"
+            },
+            {
+              "label": "D",
+              "text": "nucleolytic: RNase and DNase"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Pancreatic juice is rich in all classes of digestive enzymes: lipolytic, proteolytic, amylolytic, and nucleolytic.",
+          "notes": {
+            "A": "True, but all are true.",
+            "B": "True, but all are true.",
+            "C": "True, but all are true.",
+            "D": "True, but all are true."
+          },
+          "topicId": "gi-pancreas",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-gi-238",
+          "type": "single-best",
+          "stem": "Which of the bile components are important for digestion:",
+          "options": [
+            {
+              "label": "A",
+              "text": "secretin and hepatocrinin"
+            },
+            {
+              "label": "B",
+              "text": "bile salts, phospholipids, cholesterol"
+            },
+            {
+              "label": "C",
+              "text": "acid phosphatase, secretin and hepatocrinin"
+            },
+            {
+              "label": "D",
+              "text": "proteolytic, lipolytic and amylolytic enzymes"
+            },
+            {
+              "label": "E",
+              "text": "cholecystokinin- pancreozimin and hepatocrinin"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Bile salts are the primary components essential for emulsifying fats to aid digestion.",
+          "notes": {
+            "A": "Hormones, not bile components.",
+            "C": "Not digestive.",
+            "D": "Bile has NO digestive enzymes.",
+            "E": "Hormones."
+          },
+          "topicId": "gi-pancreas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-246",
+          "type": "single-best",
+          "stem": "The humoral factors that stimulate the formation and secretion of bile are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "angiotensin, thyroxine, somatostatin"
+            },
+            {
+              "label": "B",
+              "text": "glucagon, calcitonin, VIP"
+            },
+            {
+              "label": "C",
+              "text": "secretin, gastrin, cholecystokinin- pancreozimin, bile salts"
+            },
+            {
+              "label": "D",
+              "text": "catecholamines, glucagon, calcitonin, VIP"
+            },
+            {
+              "label": "E",
+              "text": "alkaline and acid phosphatase"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Secretin stimulates bile duct secretion (bicarbonate), while CCK stimulates gallbladder contraction. Bile salts stimulate their own secretion via enterohepatic circulation.",
+          "notes": {
+            "A": "Not choleretic.",
+            "B": "Not choleretic.",
+            "D": "Catecholamines inhibit.",
+            "E": "Enzymes."
+          },
+          "topicId": "gi-pancreas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-247",
+          "type": "single-best",
+          "stem": "The humoral factors that inhibit the formation and secretion of bile are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "secretin, gastrin, cholecystokinin- pancreozimin, acetylcholine"
+            },
+            {
+              "label": "B",
+              "text": "catecholamines"
+            },
+            {
+              "label": "C",
+              "text": "alkaline and acid phosphatase"
+            },
+            {
+              "label": "D",
+              "text": "angiotensin, tiroxin, somatostatin"
+            },
+            {
+              "label": "E",
+              "text": "insulin, glucagon, catecholamines, growth hormone, glucocorticoids, thyroid hormones"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Sympathetic stimulation (catecholamines) generally inhibits bile secretion and gallbladder contraction.",
+          "notes": {
+            "A": "Stimulants.",
+            "C": "Enzymes.",
+            "D": "Not inhibitors.",
+            "E": "Mixed list."
+          },
+          "topicId": "gi-pancreas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-248",
+          "type": "single-best",
+          "stem": "The humoral factors that stimulate the secretion of pancreatic juice are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "glucagon, calcitonin, somatostatin"
+            },
+            {
+              "label": "B",
+              "text": "tripsin, amilase, lipase"
+            },
+            {
+              "label": "C",
+              "text": "secretin, cholecystokinin- pancreozimin, gastrin, serotonin,VIP, insulin"
+            },
+            {
+              "label": "D",
+              "text": "somatostatin, GIP"
+            },
+            {
+              "label": "E",
+              "text": "glucagon, insulin, catecholamines, growth hormone, glucocorticoids, thyroid hormones"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Secretin (bicarbonate) and CCK (enzymes) are the primary stimulants of pancreatic exocrine secretion.",
+          "notes": {
+            "A": "Somatostatin INHIBITS.",
+            "B": "Enzymes, not stimuli.",
+            "D": "Somatostatin inhibits.",
+            "E": "Mixed list."
+          },
+          "topicId": "gi-pancreas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-260",
+          "type": "single-best",
+          "stem": "As far as bile is considered:",
+          "options": [
+            {
+              "label": "A",
+              "text": "contains enzymes required for the digestion of fat"
+            },
+            {
+              "label": "B",
+              "text": "contains unconjugated bilirubin"
+            },
+            {
+              "label": "C",
+              "text": "bile salts make cholesterol more water- soluble"
+            },
+            {
+              "label": "D",
+              "text": "pigments contain iron"
+            },
+            {
+              "label": "E",
+              "text": "becomes more alkaline during storage in the gallbladder"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Bile salts act as detergents to emulsify fats and cholesterol, making them soluble in the aqueous chyme.",
+          "notes": {
+            "A": "Bile has NO enzymes.",
+            "B": "Bilirubin is CONJUGATED.",
+            "D": "Iron is removed.",
+            "E": "It becomes more ACIDIC."
+          },
+          "topicId": "gi-pancreas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-268",
+          "type": "single-best",
+          "stem": "Pancreatic secretion:",
+          "options": [
+            {
+              "label": "A",
+              "text": "in response to vagal stimulation is copious, rich in bicarbonate but poor in enzymes"
+            },
+            {
+              "label": "B",
+              "text": "in response to acid in the duodenum is scanty but rich in enzymes"
+            },
+            {
+              "label": "C",
+              "text": "in response to secretin secretion is low in bicarbonate"
+            },
+            {
+              "label": "D",
+              "text": "contains enzymes that digest neutral fat to glycerol and fatty acids"
+            },
+            {
+              "label": "E",
+              "text": "contains enzymes that convert disaccharides to monosaccharides"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Pancreatic lipase digests neutral fats (triglycerides) into fatty acids and monoglycerides/glycerol.",
+          "notes": {
+            "A": "That is the secretin response.",
+            "B": "Acid gives a copious, bicarbonate-rich juice.",
+            "C": "HIGH in bicarbonate.",
+            "E": "That is brush border."
+          },
+          "topicId": "gi-pancreas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-269",
+          "type": "single-best",
+          "stem": "The liver is the principal site for:",
+          "options": [
+            {
+              "label": "A",
+              "text": "synthesis of plasma albumin"
+            },
+            {
+              "label": "B",
+              "text": "synthesis of plasma globulins"
+            },
+            {
+              "label": "C",
+              "text": "synthesis of vitamin B12"
+            },
+            {
+              "label": "D",
+              "text": "storage of vitamin C"
+            },
+            {
+              "label": "E",
+              "text": "activation of some polypeptide hormones"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "The liver synthesizes most plasma proteins, most notably albumin.",
+          "notes": {
+            "B": "Immunoglobulins come from plasma cells.",
+            "C": "Only bacteria make B12.",
+            "D": "Vitamin C is not stored mainly there.",
+            "E": "Not its principal role."
+          },
+          "topicId": "gi-pancreas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-276",
+          "type": "single-best",
+          "stem": "The passage of acidic gastric contents to the duodenum may cause:",
+          "options": [
+            {
+              "label": "A",
+              "text": "copious secretion of pancreatic juice rich in bicarbonate"
+            },
+            {
+              "label": "B",
+              "text": "increased gastric motility"
+            },
+            {
+              "label": "C",
+              "text": "relaxation of the gallbladder"
+            },
+            {
+              "label": "D",
+              "text": "contraction of the sphincter of Oddi"
+            },
+            {
+              "label": "E",
+              "text": "inhibition of pancreozymin secretion"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Acid in the duodenum stimulates secretin release, leading to a bicarbonate-rich pancreatic secretion to neutralize the acid.",
+          "notes": {
+            "B": "Motility DECREASES.",
+            "C": "CCK contracts it.",
+            "D": "It relaxes.",
+            "E": "It is stimulated."
+          },
+          "topicId": "gi-pancreas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-277",
+          "type": "single-best",
+          "stem": "Bile salts:",
+          "options": [
+            {
+              "label": "A",
+              "text": "derived from cholesterol, are the only constituents of bile necessary for digestion"
+            },
+            {
+              "label": "B",
+              "text": "have a characteristic molecule, being water-soluble"
+            },
+            {
+              "label": "C",
+              "text": "are reabsorbed mainly in the upper small intestine"
+            },
+            {
+              "label": "D",
+              "text": "increase surface tension"
+            },
+            {
+              "label": "E",
+              "text": "are absorbed in the colon"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Bile salts are synthesized from cholesterol and are the essential component of bile for fat emulsification and digestion.",
+          "notes": {
+            "B": "They are amphipathic.",
+            "C": "TERMINAL ileum.",
+            "D": "They DECREASE surface tension.",
+            "E": "Ileum."
+          },
+          "topicId": "gi-pancreas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-281",
+          "type": "single-best",
+          "stem": "The cells of the liver:",
+          "options": [
+            {
+              "label": "A",
+              "text": "help to maintain the normal blood glucose level"
+            },
+            {
+              "label": "B",
+              "text": "deaminate amino acids to form NH4+ which is excreted as ammonium salts in the urine"
+            },
+            {
+              "label": "C",
+              "text": "synthesize Vitamin D3 (cholecalciferol)"
+            },
+            {
+              "label": "D",
+              "text": "manufacture most of the immune globulins"
+            },
+            {
+              "label": "E",
+              "text": "activate steroid hormones manufactured in the gonads"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "The liver plays a critical role in glucose homeostasis (glycogenesis, glycogenolysis, gluconeogenesis).",
+          "notes": {
+            "B": "Converted to urea.",
+            "C": "The skin makes D3.",
+            "D": "Plasma cells.",
+            "E": "The liver INACTIVATES them."
+          },
+          "topicId": "gi-pancreas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-292",
+          "type": "single-best",
+          "stem": "Urobilinogen is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "a mixture of colourless compounds also known as stercobilinogen"
+            },
+            {
+              "label": "B",
+              "text": "formed in the reticuloendothelial system from bilirubin"
+            },
+            {
+              "label": "C",
+              "text": "absorbed from the intestine"
+            },
+            {
+              "label": "D",
+              "text": "excreted mainly in the urine"
+            },
+            {
+              "label": "E",
+              "text": "a, and c"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Urobilinogen is formed by bacterial action in the gut. Some is excreted in feces, and some is reabsorbed into the blood and excreted in urine.",
+          "notes": {
+            "A": "True, but so is C.",
+            "B": "Formed by gut bacteria.",
+            "C": "True, but so is A.",
+            "D": "Mainly faeces."
+          },
+          "topicId": "gi-pancreas",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-gi-294",
+          "type": "single-best",
+          "stem": "Lack of pancreatic juice in the duodenum may lead to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the presence of undigested meat fibres in the stools"
+            },
+            {
+              "label": "B",
+              "text": "an increase in the fat content of the faeces"
+            },
+            {
+              "label": "C",
+              "text": "a decrease in the fat of the faeces"
+            },
+            {
+              "label": "D",
+              "text": "a high prothrombin level in blood"
+            },
+            {
+              "label": "E",
+              "text": "a, and b"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Without pancreatic enzymes, proteins and fats cannot be fully digested, leading to steatorrhea (fat in stool) and creatorrhea (undigested meat fibers).",
+          "notes": {
+            "A": "True, but so is B.",
+            "B": "True, but so is A.",
+            "C": "Fat INCREASES.",
+            "D": "Prothrombin FALLS (vitamin K loss)."
+          },
+          "topicId": "gi-pancreas",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-gi-303",
+          "type": "single-best",
+          "stem": "Which of the following has the highest pH:",
+          "options": [
+            {
+              "label": "A",
+              "text": "gastric juice"
+            },
+            {
+              "label": "B",
+              "text": "pancreatic juice"
+            },
+            {
+              "label": "C",
+              "text": "bile in gallbladder"
+            },
+            {
+              "label": "D",
+              "text": "secretions of intestinal glands"
+            },
+            {
+              "label": "E",
+              "text": "saliva"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Pancreatic juice is rich in bicarbonate and is highly alkaline (pH ~8.0-8.3), making it have the highest pH.",
+          "notes": {
+            "A": "Lowest.",
+            "C": "About 7.",
+            "D": "About 7.5.",
+            "E": "About 6–7."
+          },
+          "topicId": "gi-pancreas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-309",
+          "type": "single-best",
+          "stem": "Secretin is released by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "acid in duodenum"
+            },
+            {
+              "label": "B",
+              "text": "acid in stomach"
+            },
+            {
+              "label": "C",
+              "text": "cells in the liver"
+            },
+            {
+              "label": "D",
+              "text": "distention of colon"
+            },
+            {
+              "label": "E",
+              "text": "gallbladder"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Acidic chyme entering the duodenum stimulates S cells to secrete secretin.",
+          "notes": {
+            "B": "Gastric acid suppresses gastrin.",
+            "C": "Not a source.",
+            "D": "Not a stimulus.",
+            "E": "Not a source."
+          },
+          "topicId": "gi-pancreas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-332",
+          "type": "single-best",
+          "stem": "Choleretica are substances, which:",
+          "options": [
+            {
+              "label": "A",
+              "text": "stimulate emptying of the gallbladder"
+            },
+            {
+              "label": "B",
+              "text": "stimulate the secretion of bile by the liver"
+            },
+            {
+              "label": "C",
+              "text": "suppress pancreatic secretion"
+            },
+            {
+              "label": "D",
+              "text": "suppress the secretion of bile by the liver"
+            },
+            {
+              "label": "E",
+              "text": "suppress emptying of the gallbladder"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Choleretics stimulate bile secretion by the liver.",
+          "notes": {
+            "A": "Cholagogues do this.",
+            "C": "Not choleretics.",
+            "D": "Reversed.",
+            "E": "Reversed."
+          },
+          "topicId": "gi-pancreas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-333",
+          "type": "single-best",
+          "stem": "Enterohepatic circle refers to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "proteins"
+            },
+            {
+              "label": "B",
+              "text": "fats"
+            },
+            {
+              "label": "C",
+              "text": "carbohydrates"
+            },
+            {
+              "label": "D",
+              "text": "bile salts"
+            },
+            {
+              "label": "E",
+              "text": "bile pigments"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "The enterohepatic circulation is the recycling of bile salts from the ileum back to the liver.",
+          "notes": {
+            "A": "Amino acids are not recycled via bile.",
+            "B": "Fats are not recycled via bile.",
+            "C": "Carbohydrates are not recycled via bile.",
+            "E": "Minor recycling (urobilinogen)."
+          },
+          "topicId": "gi-pancreas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-334",
+          "type": "single-best",
+          "stem": "Tripsinogen is converted into tripsin under the influence of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "HCl"
+            },
+            {
+              "label": "B",
+              "text": "Fe salts"
+            },
+            {
+              "label": "C",
+              "text": "enterokynase"
+            },
+            {
+              "label": "D",
+              "text": "gastrin"
+            },
+            {
+              "label": "E",
+              "text": "acetylcholine"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Enterokinase (enteropeptidase) from the duodenal mucosa converts trypsinogen to active trypsin.",
+          "notes": {
+            "A": "HCl activates pepsinogen, not trypsinogen.",
+            "B": "Iron salts do not activate trypsinogen.",
+            "D": "Gastrin stimulates acid, not trypsin activation.",
+            "E": "ACh stimulates secretion but does not activate trypsinogen."
+          },
+          "topicId": "gi-pancreas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-335",
+          "type": "single-best",
+          "stem": "Which are the bile components of basic significance for digestion:",
+          "options": [
+            {
+              "label": "A",
+              "text": "secretin and hepatocorinine"
+            },
+            {
+              "label": "B",
+              "text": "bile salts"
+            },
+            {
+              "label": "C",
+              "text": "acid phosphatase and hepatocorinine"
+            },
+            {
+              "label": "D",
+              "text": "proteolytic, lyopolitic and amylolitic enzymes"
+            },
+            {
+              "label": "E",
+              "text": "cholecystokinin - pancreozymin and hepatocorinin"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Bile salts are essential for fat emulsification.",
+          "notes": {
+            "A": "Hormones.",
+            "C": "Not digestive.",
+            "D": "Bile has no enzymes.",
+            "E": "Hormones."
+          },
+          "topicId": "gi-pancreas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-209",
+          "type": "single-best",
+          "stem": "Calcium absorption is facilitated by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "hypercalcaemia"
+            },
+            {
+              "label": "B",
+              "text": "oxalates in the diet"
+            },
+            {
+              "label": "C",
+              "text": "iron overload"
+            },
+            {
+              "label": "D",
+              "text": "1,25-dihydroxycholecalciferol"
+            },
+            {
+              "label": "E",
+              "text": "increased Na+ absorption"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Active Vitamin D (1,25-dihydroxycholecalciferol) stimulates the synthesis of calbindin, which facilitates calcium absorption in the gut.",
+          "notes": {
+            "A": "High calcium SUPPRESSES absorption.",
+            "B": "Oxalate binds calcium.",
+            "C": "Iron overload does not help.",
+            "E": "Not a facilitator."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-212",
+          "type": "single-best",
+          "stem": "Fat absorption occurs mainly in the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "stomach"
+            },
+            {
+              "label": "B",
+              "text": "duodenum"
+            },
+            {
+              "label": "C",
+              "text": "terminal ileum"
+            },
+            {
+              "label": "D",
+              "text": "coecum"
+            },
+            {
+              "label": "E",
+              "text": "sigmoid colon"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Fat digestion and absorption primarily begin in the duodenum, where bile and pancreatic lipase are released.",
+          "notes": {
+            "A": "Little is absorbed there.",
+            "C": "Bile salts, not fat, are absorbed there.",
+            "D": "Fat is gone by the caecum.",
+            "E": "Fat is gone by the colon."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-213",
+          "type": "single-best",
+          "stem": "The movements of the small intestine are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "mixing contraction"
+            },
+            {
+              "label": "B",
+              "text": "propulsive contraction"
+            },
+            {
+              "label": "C",
+              "text": "antiperistaltic contraction"
+            },
+            {
+              "label": "D",
+              "text": "hunger contraction"
+            },
+            {
+              "label": "E",
+              "text": "a, and b"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "The small intestine exhibits both mixing (segmentation) contractions and propulsive (peristaltic) contractions.",
+          "notes": {
+            "A": "True, but so is B.",
+            "B": "True, but so is A.",
+            "C": "Not normal.",
+            "D": "These are gastric (MMC)."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-gi-214",
+          "type": "single-best",
+          "stem": "Where the protein hydrolysis occurs:",
+          "options": [
+            {
+              "label": "A",
+              "text": "oral cavity"
+            },
+            {
+              "label": "B",
+              "text": "stomach"
+            },
+            {
+              "label": "C",
+              "text": "small intestine"
+            },
+            {
+              "label": "D",
+              "text": "esophagus"
+            },
+            {
+              "label": "E",
+              "text": "b, and c"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Protein digestion begins in the stomach (pepsin) and is completed in the small intestine (pancreatic proteases).",
+          "notes": {
+            "A": "Saliva has no protease.",
+            "B": "True, but so is C.",
+            "C": "True, but so is B.",
+            "D": "No digestion occurs there."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-gi-216",
+          "type": "single-best",
+          "stem": "After a fatty meal is taken, most of the fat would be:",
+          "options": [
+            {
+              "label": "A",
+              "text": "absorbed in the portal circulation and transported to the liver"
+            },
+            {
+              "label": "B",
+              "text": "absorbed in the portal vein and transported in the hepatic artery"
+            },
+            {
+              "label": "C",
+              "text": "absorbed as chylomicrons in the lymphatic system"
+            },
+            {
+              "label": "D",
+              "text": "absorbed as triglycerides into the portal vein and bypasses the liver"
+            },
+            {
+              "label": "E",
+              "text": "absorbed in the duodenum"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Long-chain fatty acids are packaged into chylomicrons, which enter the lacteals (lymphatic system) rather than the portal blood.",
+          "notes": {
+            "A": "Short-chain fats go to the portal blood; most go to lymph.",
+            "B": "The hepatic artery is not involved.",
+            "D": "Not as triglycerides into the portal vein.",
+            "E": "Site, not route."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-217",
+          "type": "single-best",
+          "stem": "For fat digestion:",
+          "options": [
+            {
+              "label": "A",
+              "text": "bile salts are the most efficient emulsifiers"
+            },
+            {
+              "label": "B",
+              "text": "gastric lipase is the most important"
+            },
+            {
+              "label": "C",
+              "text": "pancreatic lipase in the duodenum is needed"
+            },
+            {
+              "label": "D",
+              "text": "digestion takes place in micelles"
+            },
+            {
+              "label": "E",
+              "text": "micelles attach to enterocyte receptor"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Pancreatic lipase is the primary enzyme responsible for the hydrolysis of triglycerides into fatty acids and monoglycerides.",
+          "notes": {
+            "A": "They help, but lipase is indispensable.",
+            "B": "Gastric lipase is minor.",
+            "D": "Micelles carry the PRODUCTS.",
+            "E": "There is no receptor; products diffuse in."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-220",
+          "type": "single-best",
+          "stem": "In the small intestine, glucose is absorbed:",
+          "options": [
+            {
+              "label": "A",
+              "text": "passively"
+            },
+            {
+              "label": "B",
+              "text": "by secondary active transport (coupled to Na+ transport)"
+            },
+            {
+              "label": "C",
+              "text": "by facilitated diffusion"
+            },
+            {
+              "label": "D",
+              "text": "by co-transport with chloride"
+            },
+            {
+              "label": "E",
+              "text": "actively by insulin dependent uptake"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Glucose absorption in the intestine uses SGLT1, a sodium-glucose linked transporter (secondary active transport).",
+          "notes": {
+            "A": "It is active.",
+            "C": "That is for fructose (GLUT5).",
+            "D": "It is coupled to Na+.",
+            "E": "Gut uptake is insulin-independent."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-221",
+          "type": "single-best",
+          "stem": "After ingestion of a meal:",
+          "options": [
+            {
+              "label": "A",
+              "text": "digestion of fat and carbohydrate begins in the mouth while protein digestion begins in the stomach"
+            },
+            {
+              "label": "B",
+              "text": "carbohydrates are digested in the stomach and proteins in the mouth"
+            },
+            {
+              "label": "C",
+              "text": "proteins are digested in the mouth and fats and carbohydrates in the stomach"
+            },
+            {
+              "label": "D",
+              "text": "most fluid and electrolytes are absorbed in the large bowel"
+            },
+            {
+              "label": "E",
+              "text": "composition of the food has no effect on transit time through the bowel"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Salivary amylase (carbs) and lingual lipase (fat) begin digestion in the mouth, while pepsin (protein) begins in the stomach.",
+          "notes": {
+            "B": "Reversed.",
+            "C": "Reversed.",
+            "D": "Most is absorbed in the SMALL intestine.",
+            "E": "Composition DOES affect transit."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-222",
+          "type": "single-best",
+          "stem": "Calcium uptake in the intestine:",
+          "options": [
+            {
+              "label": "A",
+              "text": "is passive"
+            },
+            {
+              "label": "B",
+              "text": "requires a carrier protein on the mucosal side"
+            },
+            {
+              "label": "C",
+              "text": "is by facilitated diffusion"
+            },
+            {
+              "label": "D",
+              "text": "is less than 10% of dietary intake"
+            },
+            {
+              "label": "E",
+              "text": "is facilitated by phosphate"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Active calcium absorption requires a calcium-binding carrier protein (calbindin) on the mucosal side of the enterocyte.",
+          "notes": {
+            "A": "Mainly active (when intake is low).",
+            "C": "Not simple facilitated diffusion.",
+            "D": "About 30% is absorbed.",
+            "E": "Phosphate binds calcium."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-223",
+          "type": "single-best",
+          "stem": "Which one of the following is a water soluble vitamin?",
+          "options": [
+            {
+              "label": "A",
+              "text": "vit. A"
+            },
+            {
+              "label": "B",
+              "text": "vit. B"
+            },
+            {
+              "label": "C",
+              "text": "vit. D"
+            },
+            {
+              "label": "D",
+              "text": "vit. E"
+            },
+            {
+              "label": "E",
+              "text": "vit. K"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Vitamin B complex (and Vitamin C) are water-soluble. Vitamins A, D, E, and K are fat-soluble.",
+          "notes": {
+            "A": "Fat-soluble.",
+            "C": "Fat-soluble.",
+            "D": "Fat-soluble.",
+            "E": "Fat-soluble."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-232",
+          "type": "single-best",
+          "stem": "The function of the ileum is to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "absorb nutrients"
+            },
+            {
+              "label": "B",
+              "text": "absorb vitamin B12 and bile salts"
+            },
+            {
+              "label": "C",
+              "text": "introduce bile and pancreatic juices"
+            },
+            {
+              "label": "D",
+              "text": "absorb alcohol and aspirin"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "The terminal ileum is uniquely responsible for the absorption of vitamin B12 (with intrinsic factor) and the reabsorption of bile salts.",
+          "notes": {
+            "A": "Mostly jejunum.",
+            "C": "Duodenum.",
+            "D": "Stomach.",
+            "E": "Only B is specific."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-gi-237",
+          "type": "single-best",
+          "stem": "The enzymes, secreted with the intestinal juice are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "exopeptidases, lipase, maltase, nucleic (nuclease, nucleotidases, nucleosidases)"
+            },
+            {
+              "label": "B",
+              "text": "endo- and exopeptidases, esterase and amylolytic enzymes"
+            },
+            {
+              "label": "C",
+              "text": "aminopeptidase, dipeptidase, nuclease and lipase"
+            },
+            {
+              "label": "D",
+              "text": "aminopeptidase, dipeptidase, nuclease, somatostatin, secretin, cholecystokinin- pancreozimin"
+            },
+            {
+              "label": "E",
+              "text": "trypsinogen, chymotrypsinogen, elastase and lipase"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Intestinal juice (succus entericus) contains enzymes like aminopeptidase, dipeptidase, nuclease, and lipase for final digestion.",
+          "notes": {
+            "A": "Maltase is brush border.",
+            "B": "Endopeptidases are pancreatic.",
+            "D": "Hormones are not enzymes.",
+            "E": "Pancreatic."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-241",
+          "type": "single-best",
+          "stem": "The humoral factors that stimulate intestinal motility are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "catecholamines and intestinal hormones"
+            },
+            {
+              "label": "B",
+              "text": "secretin and hepatocrinin"
+            },
+            {
+              "label": "C",
+              "text": "cholecystokinin-pancreozymin, motilin, gastrin, substance P and serotonin"
+            },
+            {
+              "label": "D",
+              "text": "intestinal hormones"
+            },
+            {
+              "label": "E",
+              "text": "gastrin, secretin, cholecystokinin-pancreozymin and hepatocrinin"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Several gut hormones including CCK, VIP, and substance P stimulate intestinal motility.",
+          "notes": {
+            "A": "Catecholamines inhibit.",
+            "B": "Secretin inhibits.",
+            "D": "Too vague.",
+            "E": "Secretin inhibits."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-249",
+          "type": "single-best",
+          "stem": "The carbohydrates are absorbed as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "mono- and disaccharides"
+            },
+            {
+              "label": "B",
+              "text": "glucose and glycogen"
+            },
+            {
+              "label": "C",
+              "text": "monosaccharides - pentoses and hexoses"
+            },
+            {
+              "label": "D",
+              "text": "glucosamines"
+            },
+            {
+              "label": "E",
+              "text": "glucose, glycogen, glucosamine"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Carbohydrates must be broken down into simple monosaccharides (like glucose, fructose, galactose) to be absorbed.",
+          "notes": {
+            "A": "Disaccharides must be split first.",
+            "B": "Glycogen is not absorbed.",
+            "D": "Not dietary carbohydrate products.",
+            "E": "Glycogen is not absorbed."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-265",
+          "type": "single-best",
+          "stem": "Defaecation is a reflex action:",
+          "options": [
+            {
+              "label": "A",
+              "text": "that is coordinated by reflex centres in the sacral cord"
+            },
+            {
+              "label": "B",
+              "text": "whose afferent limb carries impulses from stretch receptors in the colon"
+            },
+            {
+              "label": "C",
+              "text": "whose efferent limb travels mainly in sympathetic autonomic nerves"
+            },
+            {
+              "label": "D",
+              "text": "which is more likely to be initiated just before a meal than just after it"
+            },
+            {
+              "label": "E",
+              "text": "which can be involuntarily inhibited or facilitated"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "The defecation reflex is coordinated by the sacral segments of the spinal cord (S2-S4).",
+          "notes": {
+            "B": "From the RECTUM.",
+            "C": "Parasympathetic (pelvic).",
+            "D": "More likely AFTER (gastrocolic reflex).",
+            "E": "VOLUNTARILY."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-267",
+          "type": "single-best",
+          "stem": "Intestinal juice contain:",
+          "options": [
+            {
+              "label": "A",
+              "text": "potassium in a concentration similar to that in extracellular fluid"
+            },
+            {
+              "label": "B",
+              "text": "enzymes that are released when the vagus nerve is inhibited"
+            },
+            {
+              "label": "C",
+              "text": "enzymes that hydrolyze disaccharides"
+            },
+            {
+              "label": "D",
+              "text": "enzymes that hydrolyze monosaccharides"
+            },
+            {
+              "label": "E",
+              "text": "enzymes that suppress pancreatic proteolytic enzymes"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Intestinal juice contains disaccharidases (like maltase, sucrase, lactase) to break disaccharides into monosaccharides.",
+          "notes": {
+            "A": "Potassium is higher.",
+            "B": "Vagal stimulation releases them.",
+            "D": "Monosaccharides are not hydrolysed further.",
+            "E": "Not true."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-280",
+          "type": "single-best",
+          "stem": "In the small intestine:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the enzyme concentration in intestinal juice is higher in the ileum than in the jejunum"
+            },
+            {
+              "label": "B",
+              "text": "vitamin B12 is absorbed mainly in the jejunum"
+            },
+            {
+              "label": "C",
+              "text": "water absorption is independent on the active absorption of sodium and glucose"
+            },
+            {
+              "label": "D",
+              "text": "absorption of calcium occurs mainly in the terminal ileum"
+            },
+            {
+              "label": "E",
+              "text": "glucose absorption is dependent on sodium absorption"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Glucose is absorbed via SGLT-1, which requires the co-transport of sodium ions.",
+          "notes": {
+            "A": "Higher in the jejunum.",
+            "B": "Ileum.",
+            "C": "Water follows solute.",
+            "D": "Duodenum."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-282",
+          "type": "single-best",
+          "stem": "Absorption of dietary fat:",
+          "options": [
+            {
+              "label": "A",
+              "text": "can only occur after the neutral fat has been split into glycerol and fatty acids"
+            },
+            {
+              "label": "B",
+              "text": "does not depend on their size"
+            },
+            {
+              "label": "C",
+              "text": "is impaired when bile salt reabsorption is prevented by resection of the terminal ileum"
+            },
+            {
+              "label": "D",
+              "text": "is carried out by passive diffusion"
+            },
+            {
+              "label": "E",
+              "text": "is greatest in the lower parts of the small intestine"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Resection of the terminal ileum prevents bile salt reabsorption, leading to a depletion of the bile salt pool and impaired fat digestion/absorption.",
+          "notes": {
+            "A": "Monoglycerides are absorbed.",
+            "B": "Size matters (micelles).",
+            "D": "Partly; impaired bile is the key point.",
+            "E": "Upper intestine."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-284",
+          "type": "single-best",
+          "stem": "Cholesterol:",
+          "options": [
+            {
+              "label": "A",
+              "text": "can be absorbed from the gut by intestinal lymphatics following its incorporation into chylomicrons"
+            },
+            {
+              "label": "B",
+              "text": "can be synthesized in the spleen"
+            },
+            {
+              "label": "C",
+              "text": "in the diet comes mainly from vegetable sources"
+            },
+            {
+              "label": "D",
+              "text": "is eliminated from the body mainly by metabolic degradation"
+            },
+            {
+              "label": "E",
+              "text": "is a precursor of adrenal medulla hormones"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Dietary cholesterol is packaged into chylomicrons and absorbed via the lymphatics.",
+          "notes": {
+            "B": "Liver and gut.",
+            "C": "Animal sources.",
+            "D": "As bile salts and cholesterol in bile.",
+            "E": "Medullary hormones come from tyrosine."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-286",
+          "type": "single-best",
+          "stem": "Impaired intestinal absorption of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "iron occurs frequently following removal of most of the stomach"
+            },
+            {
+              "label": "B",
+              "text": "iodine leads to a reduction in size of the thyroid gland"
+            },
+            {
+              "label": "C",
+              "text": "water occurs in infants who cannot digest lipids"
+            },
+            {
+              "label": "D",
+              "text": "calcium is typical after removal of the colon"
+            },
+            {
+              "label": "E",
+              "text": "bile salts may occur following resection of the stomach"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Gastric acid is needed to reduce iron to its absorbable ferrous (Fe2+) form. Gastrectomy can lead to iron deficiency anemia.",
+          "notes": {
+            "B": "Low iodine ENLARGES the thyroid.",
+            "C": "Not typical.",
+            "D": "Calcium is absorbed in the small intestine.",
+            "E": "Not linked."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-290",
+          "type": "single-best",
+          "stem": "Complications that may arise after total gastrectomy include:",
+          "options": [
+            {
+              "label": "A",
+              "text": "depletion of vitamin B12 stores in the liver"
+            },
+            {
+              "label": "B",
+              "text": "malabsorption of fat due to rapid intestinal transit"
+            },
+            {
+              "label": "C",
+              "text": "impaired defaecation due to loss of the gastric reflex"
+            },
+            {
+              "label": "D",
+              "text": "inability to digest protein"
+            },
+            {
+              "label": "E",
+              "text": "a, and b"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Gastrectomy removes intrinsic factor (causing B12 deficiency) and the gastric reservoir (causing rapid dumping and fat malabsorption).",
+          "notes": {
+            "A": "True, but so is B.",
+            "B": "True, but so is A.",
+            "C": "Not a real reflex loss.",
+            "D": "Pancreatic proteases suffice."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-gi-291",
+          "type": "single-best",
+          "stem": "Severe diarrhoea causes a decrease in:",
+          "options": [
+            {
+              "label": "A",
+              "text": "body potassium"
+            },
+            {
+              "label": "B",
+              "text": "antidiuretic hormone level"
+            },
+            {
+              "label": "C",
+              "text": "extracellular fluid volume"
+            },
+            {
+              "label": "D",
+              "text": "total peripheral resistance"
+            },
+            {
+              "label": "E",
+              "text": "a, and c"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Diarrhoeal fluid is rich in K+ and HCO3-, so body potassium and ECF volume fall. The volume loss RAISES ADH and, through sympathetic activation, peripheral resistance.",
+          "notes": {
+            "A": "True, but so is C.",
+            "B": "ADH RISES.",
+            "C": "True, but so is A.",
+            "D": "Resistance RISES."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-gi-293",
+          "type": "single-best",
+          "stem": "Surgical removal of 90% of the small intestine may cause an increase in:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the fat content of the stools"
+            },
+            {
+              "label": "B",
+              "text": "bone mineralization (osteomalacia)"
+            },
+            {
+              "label": "C",
+              "text": "extracellular fluid volume"
+            },
+            {
+              "label": "D",
+              "text": "blood haemoglobin level"
+            },
+            {
+              "label": "E",
+              "text": "body weight"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Massive resection causes malabsorption of fat (steatorrhoea), so stool fat RISES, while bone mineralization, ECF volume, haemoglobin and body weight all fall.",
+          "notes": {
+            "B": "Bone mineralization FALLS.",
+            "C": "ECF FALLS.",
+            "D": "Haemoglobin FALLS.",
+            "E": "Weight FALLS."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "hard"
+        },
+        {
+          "id": "phy-gi-296",
+          "type": "single-best",
+          "stem": "Constipation is a recognized consequence of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "psychological stress"
+            },
+            {
+              "label": "B",
+              "text": "abnormality of the autonomic nerve supply to the esophagus"
+            },
+            {
+              "label": "C",
+              "text": "a diet that leaves little unabsorbed residue in the gut"
+            },
+            {
+              "label": "D",
+              "text": "over-activity of the thyroid gland as in thyrotoxicosis"
+            },
+            {
+              "label": "E",
+              "text": "a, and c"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "A low-fiber diet (low residue) leads to constipation. Psychological stress can also alter bowel habits.",
+          "notes": {
+            "A": "True, but so is C.",
+            "B": "Oesophagus is irrelevant.",
+            "C": "True, but so is A.",
+            "D": "Thyrotoxicosis causes diarrhoea."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-gi-297",
+          "type": "single-best",
+          "stem": "Absorption of glucose by intestinal mucosal cells:",
+          "options": [
+            {
+              "label": "A",
+              "text": "relies on a carrier mechanism in the cell membrane"
+            },
+            {
+              "label": "B",
+              "text": "is blocked not by the same agents that block renal reabsorption of glucose"
+            },
+            {
+              "label": "C",
+              "text": "is enhanced by blockade of active sodium transport in the cells"
+            },
+            {
+              "label": "D",
+              "text": "takes place mainly in the ileum"
+            },
+            {
+              "label": "E",
+              "text": "does not involve the same carriers that are used for the absorption of galactose"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Glucose absorption requires the SGLT-1 carrier protein on the apical membrane.",
+          "notes": {
+            "B": "The same agents (phlorizin) block both.",
+            "C": "Blocking Na+ transport STOPS it.",
+            "D": "Duodenum and jejunum.",
+            "E": "SGLT1 carries both."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-301",
+          "type": "single-best",
+          "stem": "Iron is absorbed in:",
+          "options": [
+            {
+              "label": "A",
+              "text": "stomach"
+            },
+            {
+              "label": "B",
+              "text": "duodenum"
+            },
+            {
+              "label": "C",
+              "text": "jejunum"
+            },
+            {
+              "label": "D",
+              "text": "ileum"
+            },
+            {
+              "label": "E",
+              "text": "colon"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Iron is primarily absorbed in the duodenum.",
+          "notes": {
+            "A": "Little absorption.",
+            "C": "Less.",
+            "D": "Less.",
+            "E": "None."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-302",
+          "type": "single-best",
+          "stem": "In infants, defecation often follows a meal. The cause of colonic contractions in this situation is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "gastro-ileal reflex"
+            },
+            {
+              "label": "B",
+              "text": "increased circulating levels of CCK"
+            },
+            {
+              "label": "C",
+              "text": "gastrocolic reflex"
+            },
+            {
+              "label": "D",
+              "text": "enterogastric reflex"
+            },
+            {
+              "label": "E",
+              "text": "decreased circulating levels of gastrin"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "The gastrocolic reflex stimulates colonic motility in response to stomach distension after a meal.",
+          "notes": {
+            "A": "That opens the ileocaecal valve.",
+            "B": "Not the main cause.",
+            "D": "Inhibits the stomach.",
+            "E": "Gastrin RISES."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-304",
+          "type": "single-best",
+          "stem": "Man is unable to digest:",
+          "options": [
+            {
+              "label": "A",
+              "text": "dextrin"
+            },
+            {
+              "label": "B",
+              "text": "glucose"
+            },
+            {
+              "label": "C",
+              "text": "cellulose"
+            },
+            {
+              "label": "D",
+              "text": "glycogen"
+            },
+            {
+              "label": "E",
+              "text": "maltose"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Humans lack the enzyme cellulase, so they cannot digest cellulose (dietary fiber).",
+          "notes": {
+            "A": "Digested by amylase.",
+            "B": "Absorbed directly.",
+            "D": "Digested.",
+            "E": "Digested by maltase."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-305",
+          "type": "single-best",
+          "stem": "Steatorrhoea may be caused by all factors except:",
+          "options": [
+            {
+              "label": "A",
+              "text": "pancreatectomy"
+            },
+            {
+              "label": "B",
+              "text": "gastrin-secreting tumour"
+            },
+            {
+              "label": "C",
+              "text": "resection of distal ileum"
+            },
+            {
+              "label": "D",
+              "text": "haemolytic jaundice"
+            },
+            {
+              "label": "E",
+              "text": "coeliac disease"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Hemolytic jaundice is due to excessive red blood cell breakdown, not fat malabsorption.",
+          "notes": {
+            "A": "Causes it (no lipase).",
+            "B": "Acid inactivates lipase.",
+            "C": "Bile salt loss.",
+            "E": "Mucosal damage."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-308",
+          "type": "single-best",
+          "stem": "In which of the following is absorption of water greatest:",
+          "options": [
+            {
+              "label": "A",
+              "text": "colon"
+            },
+            {
+              "label": "B",
+              "text": "jejunum"
+            },
+            {
+              "label": "C",
+              "text": "duodenum"
+            },
+            {
+              "label": "D",
+              "text": "stomach"
+            },
+            {
+              "label": "E",
+              "text": "mouth"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Most water absorption occurs in the small intestine, primarily the jejunum.",
+          "notes": {
+            "A": "Absorbs the remainder.",
+            "C": "Less than the jejunum.",
+            "D": "Little.",
+            "E": "None."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-310",
+          "type": "single-best",
+          "stem": "Vit. D is essential for normal:",
+          "options": [
+            {
+              "label": "A",
+              "text": "fat absorption"
+            },
+            {
+              "label": "B",
+              "text": "Ca2+ absorption"
+            },
+            {
+              "label": "C",
+              "text": "ADH secretion"
+            },
+            {
+              "label": "D",
+              "text": "protein absorption"
+            },
+            {
+              "label": "E",
+              "text": "glucose absorption"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Active Vitamin D is essential for intestinal calcium absorption.",
+          "notes": {
+            "A": "Bile salts.",
+            "C": "Not related.",
+            "D": "Not related.",
+            "E": "Not related."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-318",
+          "type": "single-best",
+          "stem": "The mass movements are characteristic of the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "large intestine"
+            },
+            {
+              "label": "B",
+              "text": "ileum"
+            },
+            {
+              "label": "C",
+              "text": "duodenum"
+            },
+            {
+              "label": "D",
+              "text": "stomach"
+            },
+            {
+              "label": "E",
+              "text": "esophagus"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Mass movements are powerful peristaltic waves that move contents through the colon (large intestine).",
+          "notes": {
+            "B": "Peristalsis.",
+            "C": "Peristalsis.",
+            "D": "Peristalsis.",
+            "E": "Peristalsis."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-319",
+          "type": "single-best",
+          "stem": "The proteins are resorbed in the form of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "polypeptides, dipeptides"
+            },
+            {
+              "label": "B",
+              "text": "dipeptides and aminoacids"
+            },
+            {
+              "label": "C",
+              "text": "aminoacids and pepsinogens"
+            },
+            {
+              "label": "D",
+              "text": "chylomicrones"
+            },
+            {
+              "label": "E",
+              "text": "proteolitic enzymes"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Proteins are absorbed as small peptides (di/tri-peptides) and free amino acids.",
+          "notes": {
+            "A": "Polypeptides are too large.",
+            "C": "Pepsinogen is an enzyme.",
+            "D": "Fats.",
+            "E": "Digested, not absorbed."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-320",
+          "type": "single-best",
+          "stem": "The carbohydrates are resorbed as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "mono- and disaccharides"
+            },
+            {
+              "label": "B",
+              "text": "glucose, glicogen"
+            },
+            {
+              "label": "C",
+              "text": "glucosaminglicans"
+            },
+            {
+              "label": "D",
+              "text": "glicogen"
+            },
+            {
+              "label": "E",
+              "text": "only monosaccharides"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Carbohydrates must be broken down into simple monosaccharides to be absorbed by enterocytes.",
+          "notes": {
+            "A": "Disaccharides are not absorbed.",
+            "B": "Glycogen is not absorbed.",
+            "C": "Not absorbed.",
+            "D": "Not absorbed."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-321",
+          "type": "single-best",
+          "stem": "The fats are resorbed as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "glicerol, free fatty acids and cholesterol"
+            },
+            {
+              "label": "B",
+              "text": "triglycerides"
+            },
+            {
+              "label": "C",
+              "text": "lipases and higher fatty acids"
+            },
+            {
+              "label": "D",
+              "text": "only cholesterol"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Fats are absorbed as monoglycerides, free fatty acids, and cholesterol.",
+          "notes": {
+            "B": "Must be split.",
+            "C": "Lipases are enzymes.",
+            "D": "Incomplete.",
+            "E": "Only A is correct."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-gi-325",
+          "type": "single-best",
+          "stem": "The secretion of K+ is in the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "antrum of the stomach"
+            },
+            {
+              "label": "B",
+              "text": "fundus of the stomach"
+            },
+            {
+              "label": "C",
+              "text": "duodenum"
+            },
+            {
+              "label": "D",
+              "text": "ileum"
+            },
+            {
+              "label": "E",
+              "text": "colon"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Potassium is primarily secreted into the colon (regulated by aldosterone).",
+          "notes": {
+            "A": "No K+ secretion.",
+            "B": "No K+ secretion.",
+            "C": "Absorbs.",
+            "D": "Absorbs."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-327",
+          "type": "single-best",
+          "stem": "The propulsive peristalsis of the small intestine:",
+          "options": [
+            {
+              "label": "A",
+              "text": "mixes the food"
+            },
+            {
+              "label": "B",
+              "text": "is coordinated by CNS"
+            },
+            {
+              "label": "C",
+              "text": "results from smooth muscle contractions behind and in front of the zone of irritation"
+            },
+            {
+              "label": "D",
+              "text": "results from smooth muscles' contraction behind the zone of irritation and relaxation in front of it"
+            },
+            {
+              "label": "E",
+              "text": "results from smooth muscles relaxation along the small intestine"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Peristalsis involves contraction behind the bolus and relaxation ahead of it to push it forward.",
+          "notes": {
+            "A": "Segmentation mixes.",
+            "B": "Enteric nervous system.",
+            "C": "Ahead it RELAXES.",
+            "E": "Contraction needed."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-328",
+          "type": "single-best",
+          "stem": "Steatorrhea is caused by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "lack of fats in food"
+            },
+            {
+              "label": "B",
+              "text": "no bile pigments in feces"
+            },
+            {
+              "label": "C",
+              "text": "stoppage of bile flow into the duodenum"
+            },
+            {
+              "label": "D",
+              "text": "the breakdown and reabsorption of fats are disturbed"
+            },
+            {
+              "label": "E",
+              "text": "c, and d"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Steatorrhea (fat in stool) is caused by impaired fat digestion or absorption, such as bile duct obstruction or intestinal disease.",
+          "notes": {
+            "A": "Less fat, less stool fat.",
+            "B": "Pale stools, not the cause.",
+            "C": "True, but so is D.",
+            "D": "True, but so is C."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-gi-331",
+          "type": "single-best",
+          "stem": "The segment movements of the small intestine are carried out by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the circular smooth muscle layer"
+            },
+            {
+              "label": "B",
+              "text": "the longitudinal smooth muscle layer"
+            },
+            {
+              "label": "C",
+              "text": "ring like contraction, when the segment in front relaxes"
+            },
+            {
+              "label": "D",
+              "text": "a, and b"
+            },
+            {
+              "label": "E",
+              "text": "a, b, and c"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Segmentation (mixing) contractions are primarily driven by the circular smooth muscle layer.",
+          "notes": {
+            "B": "Peristalsis.",
+            "C": "That is peristalsis.",
+            "D": "B is false.",
+            "E": "Only A."
+          },
+          "topicId": "gi-intestine",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-gi-202",
+          "type": "single-best",
+          "stem": "Which of the following statements concerning energy storage in the body is true?",
+          "options": [
+            {
+              "label": "A",
+              "text": "most is stored in the form of ATP"
+            },
+            {
+              "label": "B",
+              "text": "most is stored in the form of glucose"
+            },
+            {
+              "label": "C",
+              "text": "most is stored in the form of fat"
+            },
+            {
+              "label": "D",
+              "text": "most is stored in the form of protein"
+            },
+            {
+              "label": "E",
+              "text": "most is stored in the form of DNA"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Adipose tissue (fat) is the body's primary long-term energy storage form.",
+          "notes": {
+            "A": "ATP is a short-term currency (seconds).",
+            "B": "Little free glucose is stored.",
+            "D": "Protein is structural; it is used only in starvation.",
+            "E": "DNA is not an energy store."
+          },
+          "topicId": "gi-metab",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-207",
+          "type": "single-best",
+          "stem": "The main source of energy in a typical human diet is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "proteins"
+            },
+            {
+              "label": "B",
+              "text": "vitamins"
+            },
+            {
+              "label": "C",
+              "text": "nucleic acids"
+            },
+            {
+              "label": "D",
+              "text": "carbohydrates"
+            },
+            {
+              "label": "E",
+              "text": "lipids"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Carbohydrates are the body's preferred and main source of energy.",
+          "notes": {
+            "A": "Protein is a minor fuel.",
+            "B": "Vitamins give no energy.",
+            "C": "Nucleic acids are trivial as fuel.",
+            "E": "Fat is energy-dense but not the main dietary source."
+          },
+          "topicId": "gi-metab",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-215",
+          "type": "single-best",
+          "stem": "Which of the following organs or tissues is most dependent upon a constant blood supply of glucose?",
+          "options": [
+            {
+              "label": "A",
+              "text": "liver"
+            },
+            {
+              "label": "B",
+              "text": "brain"
+            },
+            {
+              "label": "C",
+              "text": "adipose tissue"
+            },
+            {
+              "label": "D",
+              "text": "skeletal muscle"
+            },
+            {
+              "label": "E",
+              "text": "cardiac muscle"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "The brain relies almost exclusively on glucose for energy and cannot store significant amounts, making it highly dependent on a constant supply.",
+          "notes": {
+            "A": "The liver makes glucose.",
+            "C": "Fat uses insulin-dependent uptake.",
+            "D": "Muscle uses fat and its own glycogen.",
+            "E": "Heart muscle prefers fatty acids."
+          },
+          "topicId": "gi-metab",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-250",
+          "type": "single-best",
+          "stem": "The hormones regulating carbohydrate metabolism (synthesis, catabolism) are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "androgens, estrogens, progesteron, adrenoglomerulotropin"
+            },
+            {
+              "label": "B",
+              "text": "insulin, glucagon, catecholamines, growth hormone, glucocorticoids (ACTH), T3 and T4 (TTH)"
+            },
+            {
+              "label": "C",
+              "text": "somatostatin, bombesin, gastrin, histamine, kinins"
+            },
+            {
+              "label": "D",
+              "text": "glucagon, calcitonin, somatostatin, catecholamines, serotonin"
+            },
+            {
+              "label": "E",
+              "text": "catecholamines, glucagon, dehydroepiandroserone, somatotropin"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Insulin lowers blood sugar; glucagon, catecholamines, GH, cortisol, and thyroid hormones raise it.",
+          "notes": {
+            "A": "Sex hormones.",
+            "C": "Gut and local factors.",
+            "D": "Incomplete; calcitonin is irrelevant.",
+            "E": "Incomplete."
+          },
+          "topicId": "gi-metab",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-251",
+          "type": "single-best",
+          "stem": "The hormones that increase significantly the basic metabolic rate are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "insulin and glucocorticoids"
+            },
+            {
+              "label": "B",
+              "text": "glucagon and parathyroid hormone"
+            },
+            {
+              "label": "C",
+              "text": "testosterone and estrogens"
+            },
+            {
+              "label": "D",
+              "text": "T3, T4, catecholamines and glucocorticoids"
+            },
+            {
+              "label": "E",
+              "text": "insulin and growth hormone"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Thyroid hormones (T3, T4) are the primary regulators of BMR, but catecholamines and glucocorticoids also increase it.",
+          "notes": {
+            "A": "Insulin has little effect.",
+            "B": "Minor.",
+            "C": "Small effect.",
+            "E": "Insulin has little effect."
+          },
+          "topicId": "gi-metab",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-252",
+          "type": "single-best",
+          "stem": "Glucose enters the blood stream via:",
+          "options": [
+            {
+              "label": "A",
+              "text": "absorption in the mouth"
+            },
+            {
+              "label": "B",
+              "text": "gluconeogenesis in the skeletal muscles"
+            },
+            {
+              "label": "C",
+              "text": "enterocytes' absorption, liver glycogen catabolism, hepatocytes and kidneys gluconeogenesis, renal proximal tubule epitheliocytes"
+            },
+            {
+              "label": "D",
+              "text": "degradation of glycogen in the skeletal muscles"
+            },
+            {
+              "label": "E",
+              "text": "glucogenolisis in the hepatocytes"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Blood glucose is maintained by intestinal absorption, hepatic glycogenolysis, and renal/hepatic gluconeogenesis.",
+          "notes": {
+            "A": "Not absorbed in the mouth.",
+            "B": "Muscle cannot release glucose.",
+            "D": "Muscle lacks glucose-6-phosphatase.",
+            "E": "True, but incomplete."
+          },
+          "topicId": "gi-metab",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-253",
+          "type": "single-best",
+          "stem": "The basal metabolic rate is the energy consumption of the body under the following conditions:",
+          "options": [
+            {
+              "label": "A",
+              "text": "adequate intake of vitamins regulating the intermediate processes of metabolism of the various substances"
+            },
+            {
+              "label": "B",
+              "text": "normal function of the endocrine glands"
+            },
+            {
+              "label": "C",
+              "text": "physical and psychic rest, 12 hours after the last meal in a room at a temperature of 20 - 22°C"
+            },
+            {
+              "label": "D",
+              "text": "during physical activity"
+            },
+            {
+              "label": "E",
+              "text": "during sleep, pregnancy or lactation"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "BMR is measured under strict conditions: awake, fully rested, fasting (12+ hrs), and in a thermoneutral environment.",
+          "notes": {
+            "A": "Not a BMR condition.",
+            "B": "Not a BMR condition.",
+            "D": "Activity is excluded.",
+            "E": "Excluded states."
+          },
+          "topicId": "gi-metab",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-256",
+          "type": "single-best",
+          "stem": "Humoral factors taking part in the calcium/ phosphorus homeostasis are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "parathyroid hormone and thyroxin"
+            },
+            {
+              "label": "B",
+              "text": "parathyroid hormone, thyrocalcitonin and vitamin D3"
+            },
+            {
+              "label": "C",
+              "text": "thyrocalcitonin and epinephrine"
+            },
+            {
+              "label": "D",
+              "text": "thyrocalcitonin and aldosteron"
+            },
+            {
+              "label": "E",
+              "text": "antidiuretic hormone, androgens and angiotensin II"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "PTH, calcitonin, and active Vitamin D (calcitriol) are the primary regulators of calcium and phosphate balance.",
+          "notes": {
+            "A": "Thyroxine is not a calcium hormone.",
+            "C": "Adrenaline is not.",
+            "D": "Aldosterone is not.",
+            "E": "Not calcium hormones."
+          },
+          "topicId": "gi-metab",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-257",
+          "type": "single-best",
+          "stem": "The body requires amino acids to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "produce new red blood cells"
+            },
+            {
+              "label": "B",
+              "text": "produce new protein"
+            },
+            {
+              "label": "C",
+              "text": "replace damaged red blood cells"
+            },
+            {
+              "label": "D",
+              "text": "replace damaged proteins"
+            },
+            {
+              "label": "E",
+              "text": "b, and d"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Amino acids are the building blocks for synthesizing new proteins and replacing damaged ones.",
+          "notes": {
+            "A": "Haem and globin need more than amino acids.",
+            "B": "True, but so is D.",
+            "C": "Vague.",
+            "D": "True, but so is B."
+          },
+          "topicId": "gi-metab",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-gi-258",
+          "type": "single-best",
+          "stem": "Which of the following will catalyze the breakdown of starches?",
+          "options": [
+            {
+              "label": "A",
+              "text": "protease"
+            },
+            {
+              "label": "B",
+              "text": "amylase"
+            },
+            {
+              "label": "C",
+              "text": "lipase"
+            },
+            {
+              "label": "D",
+              "text": "sucrase"
+            },
+            {
+              "label": "E",
+              "text": "peptidase"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Amylase specifically hydrolyzes starch into smaller carbohydrates.",
+          "notes": {
+            "A": "Proteins.",
+            "C": "Fats.",
+            "D": "Sucrose only.",
+            "E": "Peptides."
+          },
+          "topicId": "gi-metab",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-259",
+          "type": "single-best",
+          "stem": "Which molecule represents the storage form of glucose in the liver?",
+          "options": [
+            {
+              "label": "A",
+              "text": "glycogen"
+            },
+            {
+              "label": "B",
+              "text": "glucagon"
+            },
+            {
+              "label": "C",
+              "text": "disaccharide"
+            },
+            {
+              "label": "D",
+              "text": "lactic acid"
+            },
+            {
+              "label": "E",
+              "text": "carbonic acid"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Glucose is stored as glycogen in the liver and skeletal muscle.",
+          "notes": {
+            "B": "A hormone.",
+            "C": "Not a storage form.",
+            "D": "A product.",
+            "E": "Unrelated."
+          },
+          "topicId": "gi-metab",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-263",
+          "type": "single-best",
+          "stem": "Appetite for food is increased:",
+          "options": [
+            {
+              "label": "A",
+              "text": "by the secretion of cholecystokinin"
+            },
+            {
+              "label": "B",
+              "text": "by the secretion of calcitonin"
+            },
+            {
+              "label": "C",
+              "text": "when the stomach is distended"
+            },
+            {
+              "label": "D",
+              "text": "the stomach is denervated"
+            },
+            {
+              "label": "E",
+              "text": "the environment is cold"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Cold environments increase metabolic demand, stimulating appetite.",
+          "notes": {
+            "A": "CCK SUPPRESSES appetite.",
+            "B": "No effect.",
+            "C": "Distension REDUCES appetite.",
+            "D": "Not a recognised effect."
+          },
+          "topicId": "gi-metab",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-271",
+          "type": "single-best",
+          "stem": "The respiratory quotient (RQ):",
+          "options": [
+            {
+              "label": "A",
+              "text": "is the volume of O2 consumed to the volume of CO2 produced ratio"
+            },
+            {
+              "label": "B",
+              "text": "depends essentially on the type of substrate being metabolized and is 1.0 when the substrate is glucose"
+            },
+            {
+              "label": "C",
+              "text": "is 1.0 in conditions of metabolic alcalosis"
+            },
+            {
+              "label": "D",
+              "text": "is between 0.9 and 1.0 in the second week of fasting"
+            },
+            {
+              "label": "E",
+              "text": "is above 0.8 if fats are mainly metabolized"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "RQ = CO2 produced / O2 consumed. It is 1.0 for pure carbohydrate metabolism and ~0.7 for fat.",
+          "notes": {
+            "A": "Inverted: RQ = CO2/O2.",
+            "C": "Not related.",
+            "D": "Fasting gives about 0.7 (fat).",
+            "E": "Fat gives about 0.7."
+          },
+          "topicId": "gi-metab",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-272",
+          "type": "single-best",
+          "stem": "Oxygen consumption tends to increase when the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "concentration of oxygen in inspired air rises"
+            },
+            {
+              "label": "B",
+              "text": "metabolic rate falls"
+            },
+            {
+              "label": "C",
+              "text": "body temperature rises and environmental temperature falls"
+            },
+            {
+              "label": "D",
+              "text": "environmental temperature increases"
+            },
+            {
+              "label": "E",
+              "text": "before a meal is ingested"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Shivering thermogenesis (due to falling environmental temperature) and fever (rising body temperature) both increase O2 consumption.",
+          "notes": {
+            "A": "No effect on use.",
+            "B": "Consumption FALLS.",
+            "D": "Heat reduces consumption.",
+            "E": "After a meal (SDA)."
+          },
+          "topicId": "gi-metab",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-273",
+          "type": "single-best",
+          "stem": "Brown fat is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "relatively more abundant in adults than in infants"
+            },
+            {
+              "label": "B",
+              "text": "richer in mitochondria than ordinary fat and has an extensive sympathetic innervation"
+            },
+            {
+              "label": "C",
+              "text": "produces less heat and more ATP than other tissues"
+            },
+            {
+              "label": "D",
+              "text": "stimulated to generate more heat when its parasympathetic nerve supply is stimulated"
+            },
+            {
+              "label": "E",
+              "text": "less important than shivering in neonatal thermoregulation"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Brown adipose tissue is rich in mitochondria (using uncoupling protein 1) and is heavily innervated by sympathetic nerves to generate heat (non-shivering thermogenesis).",
+          "notes": {
+            "A": "More in infants.",
+            "C": "MORE heat, LESS ATP.",
+            "D": "Sympathetic.",
+            "E": "MORE important in neonates."
+          },
+          "topicId": "gi-metab",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-274",
+          "type": "single-best",
+          "stem": "Nitrogen balance:",
+          "options": [
+            {
+              "label": "A",
+              "text": "is the relationship between the body's nitrogen intake and nitrogen loss"
+            },
+            {
+              "label": "B",
+              "text": "is usually negative in childhood"
+            },
+            {
+              "label": "C",
+              "text": "becomes more positive when dietary protein is decreased"
+            },
+            {
+              "label": "D",
+              "text": "becomes positive whenever a single essential amino acid is omitted from the diet"
+            },
+            {
+              "label": "E",
+              "text": "becomes less negative in the final stages of fatal starvation"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Nitrogen balance compares nitrogen intake (from protein) to nitrogen excretion.",
+          "notes": {
+            "B": "POSITIVE in childhood.",
+            "C": "Becomes more negative.",
+            "D": "Becomes NEGATIVE.",
+            "E": "Becomes more negative (protein breakdown)."
+          },
+          "topicId": "gi-metab",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-278",
+          "type": "single-best",
+          "stem": "The specific dynamic action of food:",
+          "options": [
+            {
+              "label": "A",
+              "text": "is the decrease in metabolic rate that results from ingestion of food"
+            },
+            {
+              "label": "B",
+              "text": "persists for about an hour after a meal is ingested"
+            },
+            {
+              "label": "C",
+              "text": "is due to the additional energy expended in digesting and absorbing the food"
+            },
+            {
+              "label": "D",
+              "text": "results in about 30 per cent of the energy value of ingested protein being unavailable for other purposes"
+            },
+            {
+              "label": "E",
+              "text": "results in about 20 per cent of the energy value of ingested fat and carbohydrate being unavailable for other purposes"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "The thermic effect of food (SDA) for protein is the highest, around 30%, because a lot of energy is used to deaminate and synthesize proteins.",
+          "notes": {
+            "A": "An INCREASE.",
+            "B": "Lasts several hours.",
+            "C": "Due to metabolic processing, not digestion.",
+            "E": "Much less for fat and carbohydrate (about 5%)."
+          },
+          "topicId": "gi-metab",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-283",
+          "type": "single-best",
+          "stem": "One gram of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "carbohydrate, metabolized in the body, yields more energy when oxidized in a bomb calorimeter"
+            },
+            {
+              "label": "B",
+              "text": "fat, metabolized in the body, yields 10 per cent more energy than 1g of carbohydrate"
+            },
+            {
+              "label": "C",
+              "text": "protein, metabolized in the body, yields the same energy as when oxidized in a bomb calorimeter"
+            },
+            {
+              "label": "D",
+              "text": "carbohydrate, metabolized in the body, yields about the same energy as 1g of protein"
+            },
+            {
+              "label": "E",
+              "text": "protein per kg body weight is not the adequate daily protein intake for a sedentary adult"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Carbohydrates and proteins both yield approximately 4 kcal/g, while fats yield about 9 kcal/g.",
+          "notes": {
+            "A": "About the same.",
+            "B": "About 2.25 times.",
+            "C": "Less (urea retains energy).",
+            "E": "About 1 g/kg IS adequate."
+          },
+          "topicId": "gi-metab",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-285",
+          "type": "single-best",
+          "stem": "Free (non-esterified) fatty acids in plasma:",
+          "options": [
+            {
+              "label": "A",
+              "text": "are carried in plasma mainly inside chylomicrons"
+            },
+            {
+              "label": "B",
+              "text": "are bound to albumins"
+            },
+            {
+              "label": "C",
+              "text": "decrease when the level of blood adrenaline rises"
+            },
+            {
+              "label": "D",
+              "text": "cannot be used for energy by cardiac muscle"
+            },
+            {
+              "label": "E",
+              "text": "are never synthesized in adipose tissue"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Free fatty acids are hydrophobic and must be bound to albumin to travel in the aqueous plasma.",
+          "notes": {
+            "A": "They are released from lipoproteins and travel on albumin.",
+            "C": "They INCREASE.",
+            "D": "The heart uses them a lot.",
+            "E": "Adipose CAN make them."
+          },
+          "topicId": "gi-metab",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-288",
+          "type": "single-best",
+          "stem": "Fat stores in the adult:",
+          "options": [
+            {
+              "label": "A",
+              "text": "make up less than 5 % of average body weight"
+            },
+            {
+              "label": "B",
+              "text": "Make up a smaller percentage of body weight in women than in men"
+            },
+            {
+              "label": "C",
+              "text": "release fatty acids when there is increased sympathetic nerve activity"
+            },
+            {
+              "label": "D",
+              "text": "release fatty acids when insulin is injected"
+            },
+            {
+              "label": "E",
+              "text": "enlarge by increasing the number of adipocytes they contain"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Sympathetic stimulation (via beta-3 receptors) stimulates lipolysis in adipose tissue.",
+          "notes": {
+            "A": "About 15–25%.",
+            "B": "Higher in women.",
+            "D": "Insulin INHIBITS lipolysis.",
+            "E": "Mainly by size (hypertrophy)."
+          },
+          "topicId": "gi-metab",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-gi-289",
+          "type": "single-best",
+          "stem": "Metabolic rate can be estimated from measurements of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "total heat loss"
+            },
+            {
+              "label": "B",
+              "text": "the calorific value of the food consumed in the previous 24 hours"
+            },
+            {
+              "label": "C",
+              "text": "oxygen consumption and the respiratory quotient"
+            },
+            {
+              "label": "D",
+              "text": "carbon dioxide production and the respiratory quotient"
+            },
+            {
+              "label": "E",
+              "text": "c, and d"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Indirect calorimetry estimates metabolic rate by measuring O2 consumption and CO2 production.",
+          "notes": {
+            "A": "Direct calorimetry, but not the usual estimate.",
+            "B": "Not accurate.",
+            "C": "True, but D too.",
+            "D": "True, but C too."
+          },
+          "topicId": "gi-metab",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-gi-313",
+          "type": "single-best",
+          "stem": "Carbonic anhydrase has a role to play in the formation of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "HCl by the parietal cells of the stomach"
+            },
+            {
+              "label": "B",
+              "text": "carbaminohaemoglobin"
+            },
+            {
+              "label": "C",
+              "text": "cerebrospinal fluid in the choroid plexuses"
+            },
+            {
+              "label": "D",
+              "text": "bile salts"
+            },
+            {
+              "label": "E",
+              "text": "a, and c"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Carbonic anhydrase supplies H+ for the parietal cell proton pump and HCO3- for CSF secretion by the choroid plexus. Carbamino compounds form directly from CO2 and globin amino groups, without the enzyme.",
+          "notes": {
+            "A": "True, but so is C.",
+            "B": "Carbamino formation needs no enzyme.",
+            "C": "True, but so is A.",
+            "D": "Not involved."
+          },
+          "topicId": "gi-metab",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-gi-330",
+          "type": "single-best",
+          "stem": "The energy equivalent of oxygen (EEO) is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "determined by the body temperature and is the same when all the substances are oxidized"
+            },
+            {
+              "label": "B",
+              "text": "the amount of energy released, when one litre of O2 is utilized for the oxidation of a given substance"
+            },
+            {
+              "label": "C",
+              "text": "of highest value when lipids are oxidized, since they have the highest calorie content"
+            },
+            {
+              "label": "D",
+              "text": "the ratio of CO2 produced and O2 utilized"
+            },
+            {
+              "label": "E",
+              "text": "the energy, expended at rest for 24 hours"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "EEO is the amount of energy released per liter of oxygen consumed.",
+          "notes": {
+            "A": "Varies with the substrate.",
+            "C": "Carbohydrate is highest per litre of O2.",
+            "D": "That is RQ.",
+            "E": "That is BMR."
+          },
+          "topicId": "gi-metab",
+          "subtopic": "",
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1655 @@
+{
+  "sets": [
+    {
+      "id": "cns-past",
+      "title": "CNS and thermoregulation past questions",
+      "questions": [
+        {
+          "id": "phy-cns-446",
+          "type": "single-best",
+          "stem": "Thermoreceptors are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "activated only by severe cold or severe heat"
+            },
+            {
+              "label": "B",
+              "text": "located mainly in deep subcutaneous tissue"
+            },
+            {
+              "label": "C",
+              "text": "a subtype of nociceptors"
+            },
+            {
+              "label": "D",
+              "text": "on dendritic endings of A delta fibres and C fibres"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Warm and cold receptors are free nerve endings of Aδ (cold) and C (warm) fibres in the superficial skin. They respond to ordinary, non-painful temperatures; damaging extremes are signalled by separate thermal nociceptors.",
+          "notes": {
+            "A": "They respond to ordinary, non-painful temperatures.",
+            "B": "They lie just under the skin surface.",
+            "C": "Thermal nociceptors are separate receptors.",
+            "E": "A, B and C are false."
+          },
+          "topicId": "cns-thermo",
+          "subtopic": "",
+          "difficulty": "hard",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-cns-447",
+          "type": "single-best",
+          "stem": "The most significant heat source in the body is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "cellular respiration"
+            },
+            {
+              "label": "B",
+              "text": "conductive heat loss"
+            },
+            {
+              "label": "C",
+              "text": "convective heat loss"
+            },
+            {
+              "label": "D",
+              "text": "evaporation"
+            },
+            {
+              "label": "E",
+              "text": "shivering"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "The basal metabolic rate (cellular respiration) is the primary, continuous source of body heat.",
+          "notes": {
+            "B": "Conduction is a way of LOSING heat.",
+            "C": "Convection is a way of LOSING heat.",
+            "D": "Evaporation is a way of LOSING heat.",
+            "E": "Shivering is a reserve source, not the main continuous one."
+          },
+          "topicId": "cns-thermo",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-448",
+          "type": "single-best",
+          "stem": "A major means for conserving heat is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "vasodilatation of coetaneous blood vessels"
+            },
+            {
+              "label": "B",
+              "text": "increased metabolic rate"
+            },
+            {
+              "label": "C",
+              "text": "vasoconstriction of coetaneous blood vessels"
+            },
+            {
+              "label": "D",
+              "text": "enhanced sweating"
+            },
+            {
+              "label": "E",
+              "text": "increased convective loss"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Cutaneous (skin) vasoconstriction reduces blood flow to the skin, conserving heat in the body core.",
+          "notes": {
+            "A": "Vasodilatation LOSES heat.",
+            "B": "This GENERATES heat; conserving it means reducing loss.",
+            "D": "Sweating loses heat.",
+            "E": "More convection loses heat."
+          },
+          "topicId": "cns-thermo",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-449",
+          "type": "single-best",
+          "stem": "The thermoregulatory center is located in:",
+          "options": [
+            {
+              "label": "A",
+              "text": "cortex"
+            },
+            {
+              "label": "B",
+              "text": "vascular system"
+            },
+            {
+              "label": "C",
+              "text": "septal region"
+            },
+            {
+              "label": "D",
+              "text": "amygdale"
+            },
+            {
+              "label": "E",
+              "text": "hypothalamus"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "The hypothalamus (specifically the preoptic area and posterior hypothalamus) is the primary thermoregulatory center.",
+          "notes": {
+            "A": "The cortex drives behaviour, not the thermostat.",
+            "B": "The vessels are effectors.",
+            "C": "The septal region belongs to the limbic system.",
+            "D": "The amygdala handles emotion."
+          },
+          "topicId": "cns-thermo",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-450",
+          "type": "single-best",
+          "stem": "What is the normal body temperature?",
+          "options": [
+            {
+              "label": "A",
+              "text": "81.1°C"
+            },
+            {
+              "label": "B",
+              "text": "36.9°C"
+            },
+            {
+              "label": "C",
+              "text": "98.6°C"
+            },
+            {
+              "label": "D",
+              "text": "21.7°C"
+            },
+            {
+              "label": "E",
+              "text": "39.5°C"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Normal oral body temperature is approximately 36.9°C (98.6°F).",
+          "notes": {
+            "A": "Not a body temperature.",
+            "C": "98.6 is the Fahrenheit value, not °C.",
+            "D": "Far too low.",
+            "E": "That is a fever."
+          },
+          "topicId": "cns-thermo",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-451",
+          "type": "single-best",
+          "stem": "At which temperature does the excitation of the thermoreceptors begin to cause pain?",
+          "options": [
+            {
+              "label": "A",
+              "text": "at the temperature which causes tissue damage"
+            },
+            {
+              "label": "B",
+              "text": "over 45°C"
+            },
+            {
+              "label": "C",
+              "text": "at 30°C"
+            },
+            {
+              "label": "D",
+              "text": "at 20°C"
+            },
+            {
+              "label": "E",
+              "text": "b, and d"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Temperatures above 45°C activate nociceptors (pain receptors), signaling potential tissue damage.",
+          "notes": {
+            "A": "Pain starts before visible tissue damage.",
+            "C": "30°C is felt as cool, not painful.",
+            "D": "20°C is cool, not painful.",
+            "E": "Only B is correct."
+          },
+          "topicId": "cns-thermo",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-cns-452",
+          "type": "single-best",
+          "stem": "Heat stroke is characteristically associated with:",
+          "options": [
+            {
+              "label": "A",
+              "text": "profuse sweating"
+            },
+            {
+              "label": "B",
+              "text": "elevated basal metabolic rate"
+            },
+            {
+              "label": "C",
+              "text": "hot dry skin"
+            },
+            {
+              "label": "D",
+              "text": "a, and b"
+            },
+            {
+              "label": "E",
+              "text": "b, and c"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "In heat stroke, thermoregulation fails. Sweating stops (dry skin), and the body temperature (BMR) skyrockets.",
+          "notes": {
+            "A": "Sweating STOPS in heat stroke.",
+            "B": "Raised metabolism is present, but dry skin is also characteristic.",
+            "C": "Hot dry skin is present, but so is raised metabolism.",
+            "D": "A is false."
+          },
+          "topicId": "cns-thermo",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-cns-453",
+          "type": "single-best",
+          "stem": "As ambient temperature increases, heat loss increases by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "radiation"
+            },
+            {
+              "label": "B",
+              "text": "convection"
+            },
+            {
+              "label": "C",
+              "text": "conduction"
+            },
+            {
+              "label": "D",
+              "text": "evaporation"
+            },
+            {
+              "label": "E",
+              "text": "none of the above"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "When ambient temperature exceeds skin temperature, evaporation (sweating) becomes the only effective mechanism for heat loss.",
+          "notes": {
+            "A": "Radiation falls as the surroundings warm.",
+            "B": "Convection falls as the air warms.",
+            "C": "Conduction falls as the gradient narrows.",
+            "E": "Evaporation increases."
+          },
+          "topicId": "cns-thermo",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-cns-454",
+          "type": "single-best",
+          "stem": "Which one of the following is produced by sebaceous glands?",
+          "options": [
+            {
+              "label": "A",
+              "text": "adrenaline"
+            },
+            {
+              "label": "B",
+              "text": "oil"
+            },
+            {
+              "label": "C",
+              "text": "saliva"
+            },
+            {
+              "label": "D",
+              "text": "sweat"
+            },
+            {
+              "label": "E",
+              "text": "mucus"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Sebaceous glands secrete sebum (an oily substance) to lubricate the skin.",
+          "notes": {
+            "A": "Adrenaline comes from the adrenal medulla.",
+            "C": "Saliva comes from salivary glands.",
+            "D": "Sweat comes from sweat glands.",
+            "E": "Mucus comes from goblet cells and mucous glands."
+          },
+          "topicId": "cns-thermo",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-455",
+          "type": "single-best",
+          "stem": "Following adaptation to a hot climate there is an increase in:",
+          "options": [
+            {
+              "label": "A",
+              "text": "basal metabolic rate"
+            },
+            {
+              "label": "B",
+              "text": "heat loss by radiation and convection"
+            },
+            {
+              "label": "C",
+              "text": "urinary output"
+            },
+            {
+              "label": "D",
+              "text": "the ability to lose heat by sweating"
+            },
+            {
+              "label": "E",
+              "text": "decreasing arteriovenous shunting of blood to venous plexus near the surface of the skin"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Acclimatization to heat increases the capacity to sweat (earlier onset and higher volume).",
+          "notes": {
+            "A": "BMR tends to fall slightly with heat acclimatisation.",
+            "B": "These fall in hot surroundings.",
+            "C": "Urine output falls (water is conserved).",
+            "E": "Shunting to the skin INCREASES."
+          },
+          "topicId": "cns-thermo",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-456",
+          "type": "single-best",
+          "stem": "Heat-loss mechanisms:",
+          "options": [
+            {
+              "label": "A",
+              "text": "by radiation and convection increase when the ambient temperature decreases"
+            },
+            {
+              "label": "B",
+              "text": "by evaporation depend on sweat glands under sympathetic cholinergic (muscarinic) control"
+            },
+            {
+              "label": "C",
+              "text": "are controlled by the posterior hypothalamus"
+            },
+            {
+              "label": "D",
+              "text": "cause an increase in sympathetic tone to skin blood vessels"
+            },
+            {
+              "label": "E",
+              "text": "decrease arteriovenous shunting of blood to the venous plexus near the skin surface"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Sweat glands are innervated by sympathetic cholinergic (muscarinic) fibers, which stimulate sweating for evaporative heat loss.",
+          "notes": {
+            "A": "These FALL as the surroundings cool.",
+            "C": "The anterior hypothalamus controls heat loss.",
+            "D": "Heat loss REDUCES sympathetic tone to skin vessels.",
+            "E": "Heat loss INCREASES skin shunting."
+          },
+          "topicId": "cns-thermo",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-457",
+          "type": "single-best",
+          "stem": "The set-point temperature of the hypothalamus, triggering heat-loss or Heat-generating mechanisms is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "34°C"
+            },
+            {
+              "label": "B",
+              "text": "37°C"
+            },
+            {
+              "label": "C",
+              "text": "20°C"
+            },
+            {
+              "label": "D",
+              "text": "36.3°C"
+            },
+            {
+              "label": "E",
+              "text": "30°C"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "The hypothalamic set-point is normally around 37°C.",
+          "notes": {
+            "A": "Too low.",
+            "C": "Far too low.",
+            "D": "Lower than the usual set point.",
+            "E": "Far too low."
+          },
+          "topicId": "cns-thermo",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-458",
+          "type": "single-best",
+          "stem": "When the temperature of environtment is above 34oC, the only heat-loss mechanism is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "convection"
+            },
+            {
+              "label": "B",
+              "text": "radiation"
+            },
+            {
+              "label": "C",
+              "text": "shivering"
+            },
+            {
+              "label": "D",
+              "text": "evaporation"
+            },
+            {
+              "label": "E",
+              "text": "radiation and convection"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Evaporation (sweating) is the only heat loss mechanism that works when ambient temperature is higher than skin temperature.",
+          "notes": {
+            "A": "Above skin temperature, heat is GAINED by convection.",
+            "B": "Above skin temperature, heat is GAINED by radiation.",
+            "C": "Shivering produces heat.",
+            "E": "Both now add heat."
+          },
+          "topicId": "cns-thermo",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-459",
+          "type": "single-best",
+          "stem": "The set point level for body temperature is situated in:",
+          "options": [
+            {
+              "label": "A",
+              "text": "anterior hypothalamus"
+            },
+            {
+              "label": "B",
+              "text": "skin"
+            },
+            {
+              "label": "C",
+              "text": "spinal cord"
+            },
+            {
+              "label": "D",
+              "text": "posterior hypothalamus"
+            },
+            {
+              "label": "E",
+              "text": "brown adipose tissue"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "The thermostat (set point) sits in the preoptic area of the anterior hypothalamus, whose warm-sensitive neurons compare core temperature with the set point. The posterior hypothalamus organises the heat-conserving and heat-producing responses.",
+          "notes": {
+            "B": "The skin has receptors, not the set point.",
+            "C": "The spinal cord has receptors, not the set point.",
+            "D": "The posterior hypothalamus organises heat conservation and production.",
+            "E": "Brown fat is an effector (heat production)."
+          },
+          "topicId": "cns-thermo",
+          "subtopic": "",
+          "difficulty": "hard"
+        },
+        {
+          "id": "phy-cns-460",
+          "type": "single-best",
+          "stem": "The most potent mechanism for increasing heat production is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "activation of the parasympathetic nervous system"
+            },
+            {
+              "label": "B",
+              "text": "thyroid hormone increasing the metabolic rate"
+            },
+            {
+              "label": "C",
+              "text": "shivering"
+            },
+            {
+              "label": "D",
+              "text": "radiation"
+            },
+            {
+              "label": "E",
+              "text": "decrease in sympatetic tone to skin blood vessels"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Shivering thermogenesis can increase heat production by up to 5 times, making it the most potent short-term mechanism.",
+          "notes": {
+            "A": "It is the sympathetic system that raises heat production.",
+            "B": "Thyroid hormone acts slowly and less strongly.",
+            "D": "Radiation loses heat.",
+            "E": "Lower sympathetic tone LOSES heat."
+          },
+          "topicId": "cns-thermo",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-461",
+          "type": "single-best",
+          "stem": "Which of the following is a human thermoregulatory response controlled by cholinergic sympathetics?",
+          "options": [
+            {
+              "label": "A",
+              "text": "brown adipose tissue thermogenesis"
+            },
+            {
+              "label": "B",
+              "text": "hand vasomotion"
+            },
+            {
+              "label": "C",
+              "text": "shivering thermogenesis"
+            },
+            {
+              "label": "D",
+              "text": "sweat secretion"
+            },
+            {
+              "label": "E",
+              "text": "thermoregulatory behavior"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Sweat secretion is controlled by sympathetic cholinergic fibers (using acetylcholine, which is unusual for the sympathetic nervous system).",
+          "notes": {
+            "A": "Brown fat is driven by noradrenergic (β3) sympathetic fibres.",
+            "B": "Skin vessels are under noradrenergic control.",
+            "C": "Shivering uses somatic motor nerves.",
+            "E": "Behaviour is voluntary."
+          },
+          "topicId": "cns-thermo",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-462",
+          "type": "single-best",
+          "stem": "Capability to control body temperature is called:",
+          "options": [
+            {
+              "label": "A",
+              "text": "osmoregulation"
+            },
+            {
+              "label": "B",
+              "text": "thermodynamics"
+            },
+            {
+              "label": "C",
+              "text": "thermoregulation"
+            },
+            {
+              "label": "D",
+              "text": "regulation"
+            },
+            {
+              "label": "E",
+              "text": "homeostasis"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Thermoregulation is the process that maintains body temperature within certain boundaries.",
+          "notes": {
+            "A": "Osmoregulation controls water and solute balance.",
+            "B": "Thermodynamics is the physics of heat and energy.",
+            "D": "Too general.",
+            "E": "Homeostasis is the overall concept."
+          },
+          "topicId": "cns-thermo",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-463",
+          "type": "single-best",
+          "stem": "The most important function of sweat is to remove from the body excess:",
+          "options": [
+            {
+              "label": "A",
+              "text": "heat"
+            },
+            {
+              "label": "B",
+              "text": "salts"
+            },
+            {
+              "label": "C",
+              "text": "water"
+            },
+            {
+              "label": "D",
+              "text": "urea"
+            },
+            {
+              "label": "E",
+              "text": "bilirubin"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Sweat evaporation is a crucial mechanism for dissipating excess body heat.",
+          "notes": {
+            "B": "Salt loss is a side effect.",
+            "C": "Water loss is the cost, not the purpose.",
+            "D": "Urea is removed by the kidney.",
+            "E": "Bilirubin is removed in bile."
+          },
+          "topicId": "cns-thermo",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-464",
+          "type": "single-best",
+          "stem": "What is the result of a rise in body temperature?",
+          "options": [
+            {
+              "label": "A",
+              "text": "decrease in the production of sweat"
+            },
+            {
+              "label": "B",
+              "text": "an increase in blood flow to the skin"
+            },
+            {
+              "label": "C",
+              "text": "narrowing of blood vessels in the skin"
+            },
+            {
+              "label": "D",
+              "text": "raising of hairs on the skin"
+            },
+            {
+              "label": "E",
+              "text": "shivering of skeletal muscle"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "A rise in body temperature causes cutaneous vasodilation to increase heat loss by radiation and convection.",
+          "notes": {
+            "A": "Sweat production INCREASES.",
+            "C": "Skin vessels DILATE.",
+            "D": "Hair raising conserves heat.",
+            "E": "Shivering is a response to cold."
+          },
+          "topicId": "cns-thermo",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-465",
+          "type": "single-best",
+          "stem": "Which response to overcooling does not involve muscle contraction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "blood vessels narrowing"
+            },
+            {
+              "label": "B",
+              "text": "hairs standing up"
+            },
+            {
+              "label": "C",
+              "text": "shivering"
+            },
+            {
+              "label": "D",
+              "text": "reduced sweating"
+            },
+            {
+              "label": "E",
+              "text": "hyperventilation"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Reduced sweating is a neural response that conserves heat, but it does not involve muscle contraction.",
+          "notes": {
+            "A": "Vascular smooth muscle contracts.",
+            "B": "Arrector pili muscles contract.",
+            "C": "Skeletal muscles contract.",
+            "E": "Not a cold response, and breathing uses muscle."
+          },
+          "topicId": "cns-thermo",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-466",
+          "type": "single-best",
+          "stem": "What happens to the arterioles near the surface of the skin when the body temperature rises?",
+          "options": [
+            {
+              "label": "A",
+              "text": "they absorb oxygen from the surrounding tissues"
+            },
+            {
+              "label": "B",
+              "text": "they dilate and become wider"
+            },
+            {
+              "label": "C",
+              "text": "they move nearer the skin surface"
+            },
+            {
+              "label": "D",
+              "text": "they take in water from the surrounding tissues"
+            },
+            {
+              "label": "E",
+              "text": "they constrict"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Arterioles near the skin surface dilate (vasodilation) to increase blood flow and release heat.",
+          "notes": {
+            "A": "Arterioles do not absorb oxygen.",
+            "C": "Vessels do not move.",
+            "D": "Not a thermoregulatory change.",
+            "E": "Constriction happens in the cold."
+          },
+          "topicId": "cns-thermo",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-467",
+          "type": "single-best",
+          "stem": "Regarding the function of the cerebral hemispheres:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the parietal lobes are involved in pain perception"
+            },
+            {
+              "label": "B",
+              "text": "the frontal areas are involved in auditory perception"
+            },
+            {
+              "label": "C",
+              "text": "damage to the occipital lobes causes loss of hearing"
+            },
+            {
+              "label": "D",
+              "text": "the right parietal lobe is important for speech comprehension"
+            },
+            {
+              "label": "E",
+              "text": "a, and b"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "The parietal lobe (specifically the somatosensory cortex) processes pain and touch perception.",
+          "notes": {
+            "B": "Hearing is in the temporal lobes.",
+            "C": "Occipital damage affects vision, not hearing.",
+            "D": "Comprehension (Wernicke's area) is in the dominant, usually LEFT, temporal lobe.",
+            "E": "B is false."
+          },
+          "topicId": "cns-brain",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-cns-468",
+          "type": "single-best",
+          "stem": "Regarding speech:",
+          "options": [
+            {
+              "label": "A",
+              "text": "in left-handed people the faculty of speech is mainly located in the right hemisphere"
+            },
+            {
+              "label": "B",
+              "text": "individuals affected by Broca's aphasia are able to speak only with difficulty"
+            },
+            {
+              "label": "C",
+              "text": "in right-handed people the faculty of speech is mainly located in the right hemisphere"
+            },
+            {
+              "label": "D",
+              "text": "an individual with Broca's aphasia will have paralysis of the lips and tongue"
+            },
+            {
+              "label": "E",
+              "text": "Wernicke's aphasia results from damage to the frontal speech area"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Broca's aphasia (motor aphasia) results in difficulty producing speech, though comprehension is intact.",
+          "notes": {
+            "A": "Most left-handers are still left-dominant for speech.",
+            "C": "Right-handers use the LEFT hemisphere.",
+            "D": "Broca's aphasia is not paralysis.",
+            "E": "Wernicke's area is temporal."
+          },
+          "topicId": "cns-brain",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-469",
+          "type": "single-best",
+          "stem": "Regarding the electroencephalogram (EEG):",
+          "options": [
+            {
+              "label": "A",
+              "text": "the normal EEG of an awake person is dominated by alpha waves"
+            },
+            {
+              "label": "B",
+              "text": "during deep sleep the EEG is always dominated by delta waves"
+            },
+            {
+              "label": "C",
+              "text": "the presence of theta waves in the EEG of an awake child is indicative of cerebral pathology"
+            },
+            {
+              "label": "D",
+              "text": "the EEG can be used to monitor the bioelectrical activity of the brain"
+            },
+            {
+              "label": "E",
+              "text": "none of the above"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "The EEG records the brain's electrical activity and is used to monitor brain function, sleep stages, and pathology.",
+          "notes": {
+            "A": "An alert awake EEG is beta; alpha needs relaxed, eyes closed.",
+            "B": "Deep sleep is not 'always' delta-dominated.",
+            "C": "Theta is normal in children.",
+            "E": "Option D is correct."
+          },
+          "topicId": "cns-brain",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-cns-470",
+          "type": "single-best",
+          "stem": "Regarding sleep:",
+          "options": [
+            {
+              "label": "A",
+              "text": "reflects the intrinsic circadian rhythm of the brain"
+            },
+            {
+              "label": "B",
+              "text": "slow wave sleep is associated with rapid eye movements"
+            },
+            {
+              "label": "C",
+              "text": "young adults need less sleep than elderly individuals"
+            },
+            {
+              "label": "D",
+              "text": "during normal sleep the secretion of growth hormone is decreased"
+            },
+            {
+              "label": "E",
+              "text": "women need less sleep than men"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Sleep is heavily regulated by the brain's intrinsic circadian rhythms (controlled by the suprachiasmatic nucleus).",
+          "notes": {
+            "B": "Rapid eye movements occur in REM, not slow-wave sleep.",
+            "C": "Young adults need MORE sleep.",
+            "D": "GH secretion RISES in deep sleep.",
+            "E": "No such established difference."
+          },
+          "topicId": "cns-brain",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-471",
+          "type": "single-best",
+          "stem": "The dorsal column of the spinal cord conveys the following sensations:",
+          "options": [
+            {
+              "label": "A",
+              "text": "pain"
+            },
+            {
+              "label": "B",
+              "text": "temperature"
+            },
+            {
+              "label": "C",
+              "text": "vibration"
+            },
+            {
+              "label": "D",
+              "text": "proprioception"
+            },
+            {
+              "label": "E",
+              "text": "c, and d"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "The dorsal column-medial lemniscus pathway carries fine touch, vibration, and proprioception.",
+          "notes": {
+            "A": "Pain travels in the spinothalamic tract.",
+            "B": "Temperature travels in the spinothalamic tract.",
+            "C": "Vibration is carried, but so is proprioception.",
+            "D": "Proprioception is carried, but so is vibration."
+          },
+          "topicId": "cns-brain",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-cns-472",
+          "type": "single-best",
+          "stem": "What regions of the brain are involved in emotional reactions?",
+          "options": [
+            {
+              "label": "A",
+              "text": "hypothalamus"
+            },
+            {
+              "label": "B",
+              "text": "cerebral cortex"
+            },
+            {
+              "label": "C",
+              "text": "thalamus"
+            },
+            {
+              "label": "D",
+              "text": "limbic system"
+            },
+            {
+              "label": "E",
+              "text": "a, and d"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "The limbic system (including the amygdala and hippocampus) and the hypothalamus are key centers for emotion.",
+          "notes": {
+            "A": "The hypothalamus is involved, but so is the limbic system.",
+            "B": "The cortex modulates but is not the core centre.",
+            "C": "The thalamus relays information.",
+            "D": "The limbic system is involved, but so is the hypothalamus."
+          },
+          "topicId": "cns-brain",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-cns-473",
+          "type": "single-best",
+          "stem": "At what level the section of the spinal cord causes sudden death?",
+          "options": [
+            {
+              "label": "A",
+              "text": "I thoracic segment"
+            },
+            {
+              "label": "B",
+              "text": "I - II cervical segment"
+            },
+            {
+              "label": "C",
+              "text": "IV lumbar segment"
+            },
+            {
+              "label": "D",
+              "text": "VIII thoracic segment"
+            },
+            {
+              "label": "E",
+              "text": "I lumbar segment"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "A transection at the C1-C2 level paralyzes the diaphragm and intercostal muscles, causing immediate respiratory arrest and death.",
+          "notes": {
+            "A": "Below C3–C5, so the phrenic nerve is spared.",
+            "C": "Affects the legs and sacral function only.",
+            "D": "Paraplegia, not death.",
+            "E": "Paraplegia, not death."
+          },
+          "topicId": "cns-brain",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-474",
+          "type": "single-best",
+          "stem": "Which are the functions of the brain stem?",
+          "options": [
+            {
+              "label": "A",
+              "text": "control of respiration"
+            },
+            {
+              "label": "B",
+              "text": "control of cardiovascular system"
+            },
+            {
+              "label": "C",
+              "text": "control of gastrointestinal system"
+            },
+            {
+              "label": "D",
+              "text": "voluntary control of the limbs"
+            },
+            {
+              "label": "E",
+              "text": "a, b, and c"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "The brain stem (medulla, pons, midbrain) contains vital centers for respiration, cardiovascular control, and GI reflexes.",
+          "notes": {
+            "A": "Correct, but so are B and C.",
+            "B": "Correct, but so are A and C.",
+            "C": "Correct, but so are A and B.",
+            "D": "Voluntary limb control is cortical."
+          },
+          "topicId": "cns-brain",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-cns-475",
+          "type": "single-best",
+          "stem": "The primary motor cortex, Broca's area, and the premotor area are located in which lobe?",
+          "options": [
+            {
+              "label": "A",
+              "text": "frontal"
+            },
+            {
+              "label": "B",
+              "text": "parietal"
+            },
+            {
+              "label": "C",
+              "text": "temporal"
+            },
+            {
+              "label": "D",
+              "text": "occipital"
+            },
+            {
+              "label": "E",
+              "text": "prefrontal"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "These motor and speech production areas are located in the frontal lobe.",
+          "notes": {
+            "B": "The parietal lobe is somatosensory.",
+            "C": "The temporal lobe handles hearing and memory.",
+            "D": "The occipital lobe is visual.",
+            "E": "The prefrontal cortex is part of the frontal lobe but lies in front of these areas."
+          },
+          "topicId": "cns-brain",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-476",
+          "type": "single-best",
+          "stem": "The medulla oblongata has centers for the following:",
+          "options": [
+            {
+              "label": "A",
+              "text": "vasomotor"
+            },
+            {
+              "label": "B",
+              "text": "respiratory"
+            },
+            {
+              "label": "C",
+              "text": "emesis and coughing"
+            },
+            {
+              "label": "D",
+              "text": "sneezing"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "The medulla contains vital autonomic centers (vasomotor, respiratory) and reflex centers for coughing, sneezing, and vomiting.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "cns-brain",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-cns-477",
+          "type": "single-best",
+          "stem": "Lesions of which of the following nuclei cause hypothalamic obesity:",
+          "options": [
+            {
+              "label": "A",
+              "text": "ventromedial nucleus"
+            },
+            {
+              "label": "B",
+              "text": "dorsomedial nucleus"
+            },
+            {
+              "label": "C",
+              "text": "suprachiasmatic nucleus"
+            },
+            {
+              "label": "D",
+              "text": "supraoptic nucleus"
+            },
+            {
+              "label": "E",
+              "text": "paraventricular nucleus"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "The ventromedial nucleus of the hypothalamus is the 'satiety center'. Lesions cause hyperphagia and obesity.",
+          "notes": {
+            "B": "Not the satiety centre.",
+            "C": "This is the circadian clock.",
+            "D": "This makes ADH.",
+            "E": "This makes oxytocin, CRH and TRH."
+          },
+          "topicId": "cns-brain",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-478",
+          "type": "single-best",
+          "stem": "Loss of fear and emotion is often observed in the lesion at:",
+          "options": [
+            {
+              "label": "A",
+              "text": "septal nucleus"
+            },
+            {
+              "label": "B",
+              "text": "thalamus"
+            },
+            {
+              "label": "C",
+              "text": "amygdaloidal nucleus"
+            },
+            {
+              "label": "D",
+              "text": "sensory cortex"
+            },
+            {
+              "label": "E",
+              "text": "basal ganglia"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "The amygdala is critical for processing fear and emotion. Bilateral lesions (Kluver-Bucy syndrome) cause loss of fear.",
+          "notes": {
+            "A": "Septal lesions cause rage and hyperemotionality.",
+            "B": "The thalamus is a sensory relay.",
+            "D": "Sensory cortex lesions cause sensory loss.",
+            "E": "Basal ganglia lesions cause movement disorders."
+          },
+          "topicId": "cns-brain",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-479",
+          "type": "single-best",
+          "stem": "The Renshaw cells:",
+          "options": [
+            {
+              "label": "A",
+              "text": "receive recurrent collaterals from motor neurons and inhibit other motor neurons in the vicinity"
+            },
+            {
+              "label": "B",
+              "text": "represent the inhibitory system of cerebellum"
+            },
+            {
+              "label": "C",
+              "text": "are a major component of muscle spindle"
+            },
+            {
+              "label": "D",
+              "text": "are present in retina"
+            },
+            {
+              "label": "E",
+              "text": "are present in the basal ganglia"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Renshaw cells are inhibitory interneurons in the spinal cord that receive collaterals from alpha motor neurons and provide recurrent inhibition.",
+          "notes": {
+            "B": "Cerebellar inhibition uses Purkinje cells.",
+            "C": "Spindles contain intrafusal fibres.",
+            "D": "Retinal interneurons are different cells.",
+            "E": "They are spinal cells."
+          },
+          "topicId": "cns-brain",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-480",
+          "type": "single-best",
+          "stem": "Premotor cortex refers to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "some areas anterior to primary motor cortex causing complex co- ordinate movements like speech, eye movements"
+            },
+            {
+              "label": "B",
+              "text": "an area of motor cortex responsible for voluntary movements"
+            },
+            {
+              "label": "C",
+              "text": "an area in temporal cortex"
+            },
+            {
+              "label": "D",
+              "text": "an area of cerebellum"
+            },
+            {
+              "label": "E",
+              "text": "c, and d"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "The premotor cortex is located anterior to the primary motor cortex and plans complex, coordinated movements.",
+          "notes": {
+            "B": "That is the primary motor cortex.",
+            "C": "It is in the frontal lobe.",
+            "D": "It is cortical.",
+            "E": "Both are false."
+          },
+          "topicId": "cns-brain",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-cns-481",
+          "type": "single-best",
+          "stem": "Functions of limbic system are all the following except:",
+          "options": [
+            {
+              "label": "A",
+              "text": "olfaction"
+            },
+            {
+              "label": "B",
+              "text": "gustation"
+            },
+            {
+              "label": "C",
+              "text": "feeding behaviour"
+            },
+            {
+              "label": "D",
+              "text": "sexual behaviour"
+            },
+            {
+              "label": "E",
+              "text": "vision"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Vision is primarily processed in the occipital lobe, not the limbic system. The limbic system handles emotion, memory, olfaction, feeding, and sexual behavior.",
+          "notes": {
+            "A": "The limbic system began as the 'smell brain'.",
+            "B": "Taste links to limbic areas (insula, amygdala).",
+            "C": "The hypothalamus and amygdala drive feeding.",
+            "D": "Limbic structures drive sexual behaviour."
+          },
+          "topicId": "cns-brain",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-482",
+          "type": "single-best",
+          "stem": "REM is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "characterised by delta waves on EEG"
+            },
+            {
+              "label": "B",
+              "text": "a sound and dreamless sleep"
+            },
+            {
+              "label": "C",
+              "text": "characterised by total lack of muscular activity"
+            },
+            {
+              "label": "D",
+              "text": "referred to as paradoxical sleep"
+            },
+            {
+              "label": "E",
+              "text": "characterised by alfa waves on ECG"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "REM sleep is called paradoxical sleep because the brain shows high-frequency, awake-like EEG patterns while the body is paralyzed.",
+          "notes": {
+            "A": "REM shows fast, low-voltage activity.",
+            "B": "REM is when vivid dreams occur.",
+            "C": "The eyes and diaphragm still move.",
+            "E": "The EEG shows beta-like waves, and ECG is not EEG."
+          },
+          "topicId": "cns-brain",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-483",
+          "type": "single-best",
+          "stem": "Sleep deprivation:",
+          "options": [
+            {
+              "label": "A",
+              "text": "can cause psychotic episodes"
+            },
+            {
+              "label": "B",
+              "text": "improves the speed of thought"
+            },
+            {
+              "label": "C",
+              "text": "makes a person more alert"
+            },
+            {
+              "label": "D",
+              "text": "has no effect on the individual"
+            },
+            {
+              "label": "E",
+              "text": "can cause reduction in arterial pressure"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Severe sleep deprivation can lead to profound psychological disturbances, including hallucinations and psychotic episodes.",
+          "notes": {
+            "B": "It SLOWS thinking.",
+            "C": "It reduces alertness.",
+            "D": "It has many effects.",
+            "E": "It tends to RAISE arterial pressure."
+          },
+          "topicId": "cns-brain",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-484",
+          "type": "single-best",
+          "stem": "The naked nerve endings are responsible for the sensation of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "pain"
+            },
+            {
+              "label": "B",
+              "text": "touch"
+            },
+            {
+              "label": "C",
+              "text": "hearing"
+            },
+            {
+              "label": "D",
+              "text": "vision"
+            },
+            {
+              "label": "E",
+              "text": "olfaction"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Nociceptors (pain receptors) are free, naked nerve endings in the skin and tissues.",
+          "notes": {
+            "B": "Touch uses encapsulated receptors (Meissner, Pacinian).",
+            "C": "Hearing uses hair cells.",
+            "D": "Vision uses rods and cones.",
+            "E": "Smell uses olfactory receptor neurons."
+          },
+          "topicId": "cns-brain",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-485",
+          "type": "single-best",
+          "stem": "In a healthy adult sitting with eyes closed the EEG rhythm registered with electrodes on the occipital lobes is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "alpha rhythm"
+            },
+            {
+              "label": "B",
+              "text": "theta rhythm"
+            },
+            {
+              "label": "C",
+              "text": "delta rhythm"
+            },
+            {
+              "label": "D",
+              "text": "beta rhythm"
+            },
+            {
+              "label": "E",
+              "text": "delta, followed by beta episodes"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Alpha waves (8-13 Hz) are prominent in the occipital region when a person is awake and relaxed with eyes closed.",
+          "notes": {
+            "B": "Theta suggests drowsiness.",
+            "C": "Delta is deep sleep.",
+            "D": "Beta appears with the eyes open and attention.",
+            "E": "Not in a relaxed awake adult."
+          },
+          "topicId": "cns-brain",
+          "subtopic": "",
+          "difficulty": "medium"
+        },
+        {
+          "id": "phy-cns-486",
+          "type": "single-best",
+          "stem": "The basal ganglia are primarily concerned with:",
+          "options": [
+            {
+              "label": "A",
+              "text": "sensory integration"
+            },
+            {
+              "label": "B",
+              "text": "short term memory"
+            },
+            {
+              "label": "C",
+              "text": "control of movement"
+            },
+            {
+              "label": "D",
+              "text": "neuroendocrine control"
+            },
+            {
+              "label": "E",
+              "text": "control of body temperature"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "The basal ganglia are a group of nuclei involved in the regulation and coordination of voluntary movement.",
+          "notes": {
+            "A": "Sensory integration is cortical and thalamic.",
+            "B": "Short-term memory relies on the hippocampus and prefrontal cortex.",
+            "D": "Neuroendocrine control is hypothalamic.",
+            "E": "Temperature control is hypothalamic."
+          },
+          "topicId": "cns-brain",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-487",
+          "type": "single-best",
+          "stem": "Lesions of which of the following hypothalamic nuclei cause loss of circadian rhythm:",
+          "options": [
+            {
+              "label": "A",
+              "text": "ventromedial"
+            },
+            {
+              "label": "B",
+              "text": "dorsomedial"
+            },
+            {
+              "label": "C",
+              "text": "suprachiasmatic"
+            },
+            {
+              "label": "D",
+              "text": "supraoptic"
+            },
+            {
+              "label": "E",
+              "text": "paraventricular"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "The suprachiasmatic nucleus (SCN) is the body's master circadian clock.",
+          "notes": {
+            "A": "Ventromedial lesions cause obesity.",
+            "B": "Dorsomedial is not the master clock.",
+            "D": "Supraoptic makes ADH.",
+            "E": "Paraventricular makes oxytocin and CRH."
+          },
+          "topicId": "cns-brain",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-cns-488",
+          "type": "single-best",
+          "stem": "Human circadian (24-hour) rhythms:",
+          "options": [
+            {
+              "label": "A",
+              "text": "are triggered totally by external (exogenous) factors"
+            },
+            {
+              "label": "B",
+              "text": "depend more on the integrity of the cerebral cortex than of the hypothalamus"
+            },
+            {
+              "label": "C",
+              "text": "adapt within 48 hours on changing from day to night shift work"
+            },
+            {
+              "label": "D",
+              "text": "for melatonin secretion produce high night-time and low day-time levels of the hormone"
+            },
+            {
+              "label": "E",
+              "text": "for cortisol secretion produce peak values around midnight"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Melatonin secretion from the pineal gland peaks at night and is suppressed by light.",
+          "notes": {
+            "A": "They are mainly endogenous, set by light.",
+            "B": "The SCN of the hypothalamus is the clock.",
+            "C": "Adapting takes days to weeks.",
+            "E": "Cortisol peaks in the early MORNING."
+          },
+          "topicId": "cns-brain",
+          "subtopic": "",
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ]
+}

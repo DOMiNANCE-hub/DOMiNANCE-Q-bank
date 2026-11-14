@@ -1,0 +1,2899 @@
+{
+  "sets": [
+    {
+      "id": "endocrine-past",
+      "title": "Endocrine and reproductive physiology past questions",
+      "questions": [
+        {
+          "id": "phy-endocrine-001",
+          "type": "single-best",
+          "stem": "All hormones react to a negative feedback except:",
+          "options": [
+            {
+              "label": "A",
+              "text": "progesterone"
+            },
+            {
+              "label": "B",
+              "text": "estrogen"
+            },
+            {
+              "label": "C",
+              "text": "prolactin"
+            },
+            {
+              "label": "D",
+              "text": "oxytocin"
+            },
+            {
+              "label": "E",
+              "text": "none of the above"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Oxytocin operates via a positive feedback loop (e.g., uterine contractions stimulate more oxytocin release).",
+          "notes": {
+            "A": "Progesterone is controlled by negative feedback on LH.",
+            "B": "Oestrogen is mostly negative feedback; its mid-cycle positive feedback is the exception, not its rule.",
+            "C": "Prolactin feeds back negatively by raising hypothalamic dopamine.",
+            "E": "Oxytocin is the exception."
+          },
+          "topicId": "endo-general",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-003",
+          "type": "single-best",
+          "stem": "Lipid hormones derived from cholesterol are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "proteins"
+            },
+            {
+              "label": "B",
+              "text": "amino acids"
+            },
+            {
+              "label": "C",
+              "text": "polypeptides"
+            },
+            {
+              "label": "D",
+              "text": "steroids"
+            },
+            {
+              "label": "E",
+              "text": "eicosanoids"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Steroid hormones (like cortisol, aldosterone, testosterone, estrogen) are derived from cholesterol.",
+          "notes": {
+            "A": "Proteins are made from amino acids.",
+            "B": "Amino acid hormones (thyroid hormones, catecholamines) come from tyrosine.",
+            "C": "Polypeptides are made from amino acids.",
+            "E": "Eicosanoids come from arachidonic acid."
+          },
+          "topicId": "endo-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-004",
+          "type": "single-best",
+          "stem": "This type of hormone must bind to a receptor protein on the plasma membrane of the cell:",
+          "options": [
+            {
+              "label": "A",
+              "text": "water soluble and polypeptide"
+            },
+            {
+              "label": "B",
+              "text": "lipid soluble"
+            },
+            {
+              "label": "C",
+              "text": "steroid"
+            },
+            {
+              "label": "D",
+              "text": "polypeptide and lipid soluble"
+            },
+            {
+              "label": "E",
+              "text": "steroid and lipid soluble"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Water-soluble hormones (peptides, proteins, catecholamines) cannot cross the lipid bilayer and must bind to cell surface receptors.",
+          "notes": {
+            "B": "Lipid-soluble hormones cross the membrane to intracellular receptors.",
+            "C": "Steroids bind intracellular receptors.",
+            "D": "Lipid-soluble hormones do not need a surface receptor.",
+            "E": "Both describe hormones with intracellular receptors."
+          },
+          "topicId": "endo-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-005",
+          "type": "single-best",
+          "stem": "Endocrine glands release hormones in response to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "hormones from other endocrine glands"
+            },
+            {
+              "label": "B",
+              "text": "chemical characteristics of the blood"
+            },
+            {
+              "label": "C",
+              "text": "neural stimulation"
+            },
+            {
+              "label": "D",
+              "text": "all of the above"
+            },
+            {
+              "label": "E",
+              "text": "none of the above"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Endocrine glands can be stimulated by other hormones (e.g., TSH), blood chemical levels (e.g., glucose, calcium), and neural input (e.g., sympathetic stimulation of the adrenal medulla).",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "E": "True, but so are the other statements."
+          },
+          "topicId": "endo-general",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-006",
+          "type": "single-best",
+          "stem": "The anterior pituitary secretes:",
+          "options": [
+            {
+              "label": "A",
+              "text": "oxytocin"
+            },
+            {
+              "label": "B",
+              "text": "endorphins"
+            },
+            {
+              "label": "C",
+              "text": "ADH"
+            },
+            {
+              "label": "D",
+              "text": "TRH (thyreoliberin)"
+            },
+            {
+              "label": "E",
+              "text": "catecholamines"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "The anterior pituitary secretes endorphins (as part of POMC), along with GH, TSH, ACTH, FSH, LH, and Prolactin. Oxytocin and ADH are posterior pituitary.",
+          "notes": {
+            "A": "Oxytocin is released from the posterior pituitary.",
+            "C": "ADH is released from the posterior pituitary.",
+            "D": "TRH is a hypothalamic hormone.",
+            "E": "Catecholamines come from the adrenal medulla."
+          },
+          "topicId": "endo-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-009",
+          "type": "single-best",
+          "stem": "Gland which shrinks in size during adulthood, and has hormones that function in the maturation of T-lymphocytes:",
+          "options": [
+            {
+              "label": "A",
+              "text": "lymph nodes"
+            },
+            {
+              "label": "B",
+              "text": "thymus"
+            },
+            {
+              "label": "C",
+              "text": "spleen"
+            },
+            {
+              "label": "D",
+              "text": "GALT"
+            },
+            {
+              "label": "E",
+              "text": "tonsils"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "The thymus is responsible for T-lymphocyte maturation and involutes (shrinks) after puberty.",
+          "notes": {
+            "A": "Lymph nodes do not mature T cells.",
+            "C": "The spleen filters blood.",
+            "D": "GALT is mucosal lymphoid tissue.",
+            "E": "Tonsils are secondary lymphoid organs."
+          },
+          "topicId": "endo-general",
+          "subtopic": "",
+          "difficulty": "medium"
+        },
+        {
+          "id": "phy-endocrine-010",
+          "type": "single-best",
+          "stem": "Adrenocorticotrophic hormone (ACTH) secretion increases:",
+          "options": [
+            {
+              "label": "A",
+              "text": "when the median eminence of the hypothalamus is stimulated"
+            },
+            {
+              "label": "B",
+              "text": "when cortisol blood levels fall"
+            },
+            {
+              "label": "C",
+              "text": "in bursts during the night as the normal hour of wakening approaches"
+            },
+            {
+              "label": "D",
+              "text": "following severe trauma"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "ACTH is stimulated by CRH (hypothalamic), low cortisol (loss of negative feedback), circadian rhythms (peaking before waking), and stress (trauma).",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-general",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-011",
+          "type": "single-best",
+          "stem": "Melatonin:",
+          "options": [
+            {
+              "label": "A",
+              "text": "is produced mainly in the pineal gland"
+            },
+            {
+              "label": "B",
+              "text": "is synthesized in the body from serotonin"
+            },
+            {
+              "label": "C",
+              "text": "blood levels are highest during the night"
+            },
+            {
+              "label": "D",
+              "text": "influences the secretion rates of pituitary hormones"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Melatonin is produced by the pineal gland from serotonin, peaks at night, and regulates circadian rhythms and reproductive/pituitary hormones.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-general",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-015",
+          "type": "single-best",
+          "stem": "The growth hormone:",
+          "options": [
+            {
+              "label": "A",
+              "text": "promotes positive nitrogen and phosphorus balance"
+            },
+            {
+              "label": "B",
+              "text": "secretion is under hypothalamic control"
+            },
+            {
+              "label": "C",
+              "text": "secretion surges during sleep"
+            },
+            {
+              "label": "D",
+              "text": "stimulates the liver to secrete somatomedins which regulate bone and cartilage growth"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "GH promotes protein synthesis (positive nitrogen balance), is controlled by GHRH/somatostatin, surges in deep sleep, and acts via IGF-1 (somatomedins).",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-general",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-017",
+          "type": "single-best",
+          "stem": "Antidiuretic hormone (vasopressin):",
+          "options": [
+            {
+              "label": "A",
+              "text": "is released from nerve endings in the posterior pituitary gland"
+            },
+            {
+              "label": "B",
+              "text": "tends to raise the osmolality of plasma"
+            },
+            {
+              "label": "C",
+              "text": "increases the permeability of the cells to water in the loop of Henle"
+            },
+            {
+              "label": "D",
+              "text": "secretion is little affected by changes in plasma osmolality"
+            },
+            {
+              "label": "E",
+              "text": "decreases water reabsorption in kidneys"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "ADH is synthesized in the hypothalamus and released from the posterior pituitary. It increases water reabsorption in the collecting ducts, lowering plasma osmolality.",
+          "notes": {
+            "B": "ADH LOWERS plasma osmolality by retaining water.",
+            "C": "Its main water effect is on the collecting duct.",
+            "D": "Osmolality is the main regulator of ADH.",
+            "E": "ADH INCREASES water reabsorption."
+          },
+          "topicId": "endo-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-021",
+          "type": "single-best",
+          "stem": "Releasing hormones produced in the hypothalamus:",
+          "options": [
+            {
+              "label": "A",
+              "text": "are secreted by cells in the median eminence"
+            },
+            {
+              "label": "B",
+              "text": "pass down blood vessel to reach the pituitary gland"
+            },
+            {
+              "label": "C",
+              "text": "may control the output of more than one pituitary hormone"
+            },
+            {
+              "label": "D",
+              "text": "regulate the release of thyrotropin"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Hypothalamic releasing hormones enter the hypophyseal portal system to control anterior pituitary secretion.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-general",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-025",
+          "type": "single-best",
+          "stem": "The pituitary gland:",
+          "options": [
+            {
+              "label": "A",
+              "text": "regulates activity in all other endocrine glands"
+            },
+            {
+              "label": "B",
+              "text": "output of oxytocin is regulated by hypothalamic releasing factors"
+            },
+            {
+              "label": "C",
+              "text": "responds to nervous and hormonal influences from the brain"
+            },
+            {
+              "label": "D",
+              "text": "secretes antidiuretic hormone when blood osmolality falls"
+            },
+            {
+              "label": "E",
+              "text": "does not secrete melanotropin"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "The pituitary responds to both nervous and hormonal (hypothalamic) inputs. It does not regulate ALL other glands (e.g., pancreas is independent).",
+          "notes": {
+            "A": "Not all glands, e.g. the endocrine pancreas and parathyroids are independent.",
+            "B": "Oxytocin is released by nerve impulses, not by releasing factors.",
+            "D": "ADH is secreted when osmolality RISES.",
+            "E": "The pituitary does produce MSH (from POMC)."
+          },
+          "topicId": "endo-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-028",
+          "type": "single-best",
+          "stem": "Growth hormone secretion:",
+          "options": [
+            {
+              "label": "A",
+              "text": "increases when the blood glucose level falls"
+            },
+            {
+              "label": "B",
+              "text": "has a lactogenic effect"
+            },
+            {
+              "label": "C",
+              "text": "increases the size of viscera"
+            },
+            {
+              "label": "D",
+              "text": "stimulates liver production of somatomedins"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "GH secretion increases with hypoglycemia, has some prolactin-like effects, causes organomegaly, and stimulates IGF-1.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-general",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-030",
+          "type": "single-best",
+          "stem": "Prolactin:",
+          "options": [
+            {
+              "label": "A",
+              "text": "has a similar chemical structure and physiological action to luteinizing hormone"
+            },
+            {
+              "label": "B",
+              "text": "is responsible for breast growth in puberty"
+            },
+            {
+              "label": "C",
+              "text": "release is inhibited by dopamine"
+            },
+            {
+              "label": "D",
+              "text": "secretion is inhibited by suckling of the breast"
+            },
+            {
+              "label": "E",
+              "text": "causes ejection of milk by the breast during suckling"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Prolactin is unique in that it is tonically inhibited by dopamine (PIF) from the hypothalamus. Suckling stimulates its release.",
+          "notes": {
+            "A": "Prolactin resembles GH, not LH.",
+            "B": "Oestrogen drives pubertal breast growth.",
+            "D": "Suckling STIMULATES prolactin.",
+            "E": "Milk ejection is due to oxytocin."
+          },
+          "topicId": "endo-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-040",
+          "type": "single-best",
+          "stem": "When a patient with diabetes insipidus is treated successfully with antidiuretic hormone the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "urinary flow rate should fall by about 50 per cent"
+            },
+            {
+              "label": "B",
+              "text": "urinary output should be reduced to around 1 ml/minute"
+            },
+            {
+              "label": "C",
+              "text": "urinary osmolality should rise to between 100 and 200 mOsm/litre"
+            },
+            {
+              "label": "D",
+              "text": "plasma osmolality should rise"
+            },
+            {
+              "label": "E",
+              "text": "salt intake should be carefully regulated"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Untreated diabetes insipidus produces 10–20 L of dilute urine a day (about 7–14 ml/min). With ADH the collecting ducts reabsorb water again, so urine output falls to the normal ~1 ml/min and urine becomes concentrated.",
+          "notes": {
+            "A": "Urine flow falls much more than 50%.",
+            "C": "Urine becomes concentrated, well above plasma (about 300 mOsm).",
+            "D": "Plasma osmolality FALLS back to normal as water is retained.",
+            "E": "Salt restriction is not part of ADH treatment."
+          },
+          "topicId": "endo-general",
+          "subtopic": "",
+          "difficulty": "hard"
+        },
+        {
+          "id": "phy-endocrine-046",
+          "type": "single-best",
+          "stem": "A pituitary tumour secreting excess growth hormone (GH) in an adult may lead to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "myxoedema"
+            },
+            {
+              "label": "B",
+              "text": "giantism"
+            },
+            {
+              "label": "C",
+              "text": "reduced levels of somatomedins in blood"
+            },
+            {
+              "label": "D",
+              "text": "cretinism"
+            },
+            {
+              "label": "E",
+              "text": "raised blood glucose level"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Excess GH causes acromegaly in adults and raises blood glucose (diabetogenic effect) due to insulin antagonism.",
+          "notes": {
+            "A": "Myxoedema is due to hypothyroidism.",
+            "B": "Gigantism needs open epiphyses (childhood).",
+            "C": "Somatomedin levels RISE.",
+            "D": "Cretinism is congenital hypothyroidism."
+          },
+          "topicId": "endo-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-049",
+          "type": "single-best",
+          "stem": "Surgical removal of the pituitary gland is likely to lead to a decrease in:",
+          "options": [
+            {
+              "label": "A",
+              "text": "menstrual frequency"
+            },
+            {
+              "label": "B",
+              "text": "axillary hair"
+            },
+            {
+              "label": "C",
+              "text": "sexual desire (libido)"
+            },
+            {
+              "label": "D",
+              "text": "breast size"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Hypophysectomy removes gonadotropins (LH/FSH), causing amenorrhea, loss of libido, loss of secondary sexual hair (via adrenal androgen loss), and breast atrophy.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-general",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-562",
+          "type": "single-best",
+          "stem": "Secretion of the growth hormone:",
+          "options": [
+            {
+              "label": "A",
+              "text": "increases during REM sleep"
+            },
+            {
+              "label": "B",
+              "text": "increases after a glucose load"
+            },
+            {
+              "label": "C",
+              "text": "increases in obesity"
+            },
+            {
+              "label": "D",
+              "text": "increases during non-REM sleep"
+            },
+            {
+              "label": "E",
+              "text": "none of the above"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "The largest GH pulse occurs in the first episode of deep slow-wave (non-REM) sleep. Hyperglycaemia and obesity SUPPRESS GH.",
+          "notes": {
+            "A": "GH falls during REM sleep.",
+            "B": "Hyperglycaemia SUPPRESSES GH.",
+            "C": "Obesity SUPPRESSES GH.",
+            "E": "Option D is correct."
+          },
+          "topicId": "endo-general",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-568",
+          "type": "single-best",
+          "stem": "The pineal body (gland):",
+          "options": [
+            {
+              "label": "A",
+              "text": "is in the hypothalamus"
+            },
+            {
+              "label": "B",
+              "text": "releases epinephrine"
+            },
+            {
+              "label": "C",
+              "text": "releases melatonin"
+            },
+            {
+              "label": "D",
+              "text": "controls appetite"
+            },
+            {
+              "label": "E",
+              "text": "releases melanin"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "The pineal gland secretes melatonin, which regulates circadian rhythms.",
+          "notes": {
+            "A": "The pineal is in the epithalamus.",
+            "B": "Adrenaline comes from the adrenal medulla.",
+            "D": "Appetite is controlled by the hypothalamus.",
+            "E": "Melanin is made by melanocytes."
+          },
+          "topicId": "endo-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-574",
+          "type": "single-best",
+          "stem": "Excessive growth hormone secretion in adults causes:",
+          "options": [
+            {
+              "label": "A",
+              "text": "acromegaly"
+            },
+            {
+              "label": "B",
+              "text": "gigantism"
+            },
+            {
+              "label": "C",
+              "text": "increased entry of glucose in muscles"
+            },
+            {
+              "label": "D",
+              "text": "hypothyroidism"
+            },
+            {
+              "label": "E",
+              "text": "cretinism"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Excess GH in adults (after epiphyseal closure) causes acromegaly (enlargement of hands, feet, face).",
+          "notes": {
+            "B": "Gigantism occurs before the epiphyses close.",
+            "C": "GH REDUCES glucose uptake (insulin antagonism).",
+            "D": "GH excess does not cause hypothyroidism.",
+            "E": "Cretinism is congenital hypothyroidism."
+          },
+          "topicId": "endo-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-012",
+          "type": "single-best",
+          "stem": "Thyroid hormones, when secreted in excess, may cause an increase in the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "basal metabolic rate"
+            },
+            {
+              "label": "B",
+              "text": "frequency of defaecation"
+            },
+            {
+              "label": "C",
+              "text": "energy expenditure required for a given workload"
+            },
+            {
+              "label": "D",
+              "text": "heart rate when cardiac adrenergic and cholinergic receptors are blocked"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Hyperthyroidism increases BMR, GI motility, energy expenditure, and heart rate (partly via direct myocardial effects independent of autonomic receptors).",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-thyroid",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-023",
+          "type": "single-best",
+          "stem": "Thyroid-stimulating hormone (TSH) secretion is increased:",
+          "options": [
+            {
+              "label": "A",
+              "text": "after partial removal of the thyroid gland"
+            },
+            {
+              "label": "B",
+              "text": "in infants born without a thyroid gland"
+            },
+            {
+              "label": "C",
+              "text": "during cold seasons"
+            },
+            {
+              "label": "D",
+              "text": "when the diet is deficient in iodine"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "TSH increases when thyroid hormone levels fall (loss of negative feedback) due to partial removal, agenesis, or iodine deficiency.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-thyroid",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-031",
+          "type": "single-best",
+          "stem": "Thyroxine:",
+          "options": [
+            {
+              "label": "A",
+              "text": "increases the resting rate of carbon dioxide production"
+            },
+            {
+              "label": "B",
+              "text": "is essential for normal development of the brain"
+            },
+            {
+              "label": "C",
+              "text": "is essential for normal red cell production"
+            },
+            {
+              "label": "D",
+              "text": "acts more slowly than triiodothyronine (T3)"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "T4 increases BMR (CO2 production), is critical for brain development, stimulates erythropoiesis, and has a slower onset than T3.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-thyroid",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-041",
+          "type": "single-best",
+          "stem": "Hyperthyroidism is associated with a:",
+          "options": [
+            {
+              "label": "A",
+              "text": "positive nitrogen balance"
+            },
+            {
+              "label": "B",
+              "text": "decreased urinary excretion of calcium"
+            },
+            {
+              "label": "C",
+              "text": "clinical picture consistent with excessive beta adrenoceptor stimulation"
+            },
+            {
+              "label": "D",
+              "text": "decreased basal metabolic rate"
+            },
+            {
+              "label": "E",
+              "text": "rise in the level of thyroxine-binding protein in plasma"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Hyperthyroidism mimics sympathetic overactivity (tachycardia, tremor) because thyroid hormone increases beta-adrenergic receptor sensitivity.",
+          "notes": {
+            "A": "Nitrogen balance is NEGATIVE (protein breakdown).",
+            "B": "Urinary calcium is INCREASED.",
+            "D": "BMR is RAISED.",
+            "E": "Thyroxine-binding protein does not rise."
+          },
+          "topicId": "endo-thyroid",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-569",
+          "type": "single-best",
+          "stem": "Thyroid hormone stored in the lumen of follicles is in the form of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "free T3"
+            },
+            {
+              "label": "B",
+              "text": "free T4"
+            },
+            {
+              "label": "C",
+              "text": "attachment to thyroglobulin in the gland"
+            },
+            {
+              "label": "D",
+              "text": "attachment to thyroid binding globulin"
+            },
+            {
+              "label": "E",
+              "text": "TTH"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Thyroid hormones are stored in the follicle colloid as iodinated thyroglobulin.",
+          "notes": {
+            "A": "Free hormone is released into blood, not stored.",
+            "B": "Free hormone is released into blood, not stored.",
+            "D": "TBG carries hormone in plasma.",
+            "E": "Not a real hormone."
+          },
+          "topicId": "endo-thyroid",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-002",
+          "type": "single-best",
+          "stem": "A high blood calcium level may be due to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "calcitonin"
+            },
+            {
+              "label": "B",
+              "text": "parathyroid hormone"
+            },
+            {
+              "label": "C",
+              "text": "glucocorticoids"
+            },
+            {
+              "label": "D",
+              "text": "glucagon"
+            },
+            {
+              "label": "E",
+              "text": "testosterone"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Parathyroid hormone (PTH) increases blood calcium levels by stimulating bone resorption, renal calcium reabsorption, and activating vitamin D.",
+          "notes": {
+            "A": "Calcitonin LOWERS blood calcium.",
+            "C": "Glucocorticoids lower gut calcium absorption.",
+            "D": "Glucagon does not raise calcium.",
+            "E": "Testosterone does not control plasma calcium."
+          },
+          "topicId": "endo-calcium",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-016",
+          "type": "single-best",
+          "stem": "Parathormone:",
+          "options": [
+            {
+              "label": "A",
+              "text": "acts directly on bone to increase bone resorption"
+            },
+            {
+              "label": "B",
+              "text": "decreases the urinary output of calcium"
+            },
+            {
+              "label": "C",
+              "text": "increases phosphate excretion"
+            },
+            {
+              "label": "D",
+              "text": "promotes absorption of calcium from the intestines"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "PTH acts directly on bone (via osteoblasts signalling to osteoclasts) to release calcium, increases calcium reabsorption in the distal tubule, blocks phosphate reabsorption in the proximal tubule, and raises gut calcium absorption by activating vitamin D.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-calcium",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-019",
+          "type": "single-best",
+          "stem": "The concentration of ionized calcium in plasma is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the main regulator of parathormone secretion"
+            },
+            {
+              "label": "B",
+              "text": "about 50% of the total plasma calcium concentration"
+            },
+            {
+              "label": "C",
+              "text": "reduced when plasma pH rises"
+            },
+            {
+              "label": "D",
+              "text": "independent of the plasma albumin changes"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Ionized calcium regulates PTH, is ~50% of total calcium, decreases in alkalosis (binds to albumin more), and is independent of albumin changes (which affect total calcium).",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-calcium",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-026",
+          "type": "single-best",
+          "stem": "Thyrocalcitonin:",
+          "options": [
+            {
+              "label": "A",
+              "text": "is produced by the follicular cells of the thyroid gland"
+            },
+            {
+              "label": "B",
+              "text": "increases basal metabolic rate"
+            },
+            {
+              "label": "C",
+              "text": "reduces blood calcium in parathyroidectomized animals"
+            },
+            {
+              "label": "D",
+              "text": "secretion occurs when the blood phosphate level rises"
+            },
+            {
+              "label": "E",
+              "text": "stimulates osteoclast activity"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Calcitonin (from parafollicular C cells) lowers blood calcium by inhibiting osteoclasts, even in the absence of parathyroids.",
+          "notes": {
+            "A": "It comes from the parafollicular C cells.",
+            "B": "It has no effect on metabolic rate.",
+            "D": "Its secretion is triggered by high CALCIUM.",
+            "E": "It INHIBITS osteoclasts."
+          },
+          "topicId": "endo-calcium",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-029",
+          "type": "single-best",
+          "stem": "Vitamin D:",
+          "options": [
+            {
+              "label": "A",
+              "text": "increases the intestinal absorption of calcium"
+            },
+            {
+              "label": "B",
+              "text": "is essential for normal calcification of bones in childhood"
+            },
+            {
+              "label": "C",
+              "text": "requires hepatic modification for activation"
+            },
+            {
+              "label": "D",
+              "text": "deficiency may result in hyperparathyroidism"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Active Vitamin D (calcitriol) increases calcium absorption, is crucial for bone health, requires liver and kidney hydroxylation, and its deficiency causes secondary hyperparathyroidism.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-calcium",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-032",
+          "type": "single-best",
+          "stem": "Parathormone:",
+          "options": [
+            {
+              "label": "A",
+              "text": "increases the renal clearance of phosphate"
+            },
+            {
+              "label": "B",
+              "text": "mobilizes bone calcium independently of its actions on the kidney"
+            },
+            {
+              "label": "C",
+              "text": "in the blood rises when the calcium level falls"
+            },
+            {
+              "label": "D",
+              "text": "stimulates the final activation of vitamin D (cholecalciferol) in the kidney"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "PTH decreases phosphate reabsorption, directly stimulates osteoclasts, rises in hypocalcemia, and activates 1-alpha-hydroxylase in the kidney.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-calcium",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-039",
+          "type": "single-best",
+          "stem": "Sudden complete loss of parathyroid function:",
+          "options": [
+            {
+              "label": "A",
+              "text": "leads to skeletal muscle spasms"
+            },
+            {
+              "label": "B",
+              "text": "may be fatal if treatment is not given to raise the blood level of ionized calcium"
+            },
+            {
+              "label": "C",
+              "text": "may be treated in the short-term by slow intravenous injection of calcium ions"
+            },
+            {
+              "label": "D",
+              "text": "may be treated in the long-term by regular doses of vitamin D"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Hypocalcemia causes tetany (spasms), can be fatal, and is treated acutely with IV calcium and chronically with Vitamin D.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-calcium",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-044",
+          "type": "single-best",
+          "stem": "The risk of tetany is increased by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "hypocalcemia"
+            },
+            {
+              "label": "B",
+              "text": "sudden rises in plasma magnesium"
+            },
+            {
+              "label": "C",
+              "text": "removal of the anterior pituitary gland"
+            },
+            {
+              "label": "D",
+              "text": "the onset of respiratory failure"
+            },
+            {
+              "label": "E",
+              "text": "the onset of renal failure"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Tetany is a classic sign of hypocalcemia, which increases the excitability of nerve and muscle tissue.",
+          "notes": {
+            "B": "Magnesium lowers excitability.",
+            "C": "The parathyroids are not pituitary-dependent.",
+            "D": "Respiratory failure causes acidosis, which RAISES ionised calcium.",
+            "E": "Renal failure gives acidosis, which protects against tetany."
+          },
+          "topicId": "endo-calcium",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-570",
+          "type": "single-best",
+          "stem": "Thyrocalcitonin:",
+          "options": [
+            {
+              "label": "A",
+              "text": "is secreted by the thyroid gland"
+            },
+            {
+              "label": "B",
+              "text": "is secreted by the hypothalamus"
+            },
+            {
+              "label": "C",
+              "text": "is secreted by the parathyroid glands"
+            },
+            {
+              "label": "D",
+              "text": "increases Ca++ absorption by the stomach"
+            },
+            {
+              "label": "E",
+              "text": "is secreted by the kidneys"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Calcitonin is secreted by the parafollicular C cells of the thyroid gland.",
+          "notes": {
+            "B": "It comes from thyroid C cells.",
+            "C": "The parathyroids make PTH.",
+            "D": "It has no such action; the stomach does not absorb calcium.",
+            "E": "The kidney activates vitamin D."
+          },
+          "topicId": "endo-calcium",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-572",
+          "type": "single-best",
+          "stem": "Which of the following is not involved in regulation of plasma Ca++ levels:",
+          "options": [
+            {
+              "label": "A",
+              "text": "kidneys"
+            },
+            {
+              "label": "B",
+              "text": "skin"
+            },
+            {
+              "label": "C",
+              "text": "lungs"
+            },
+            {
+              "label": "D",
+              "text": "intestine"
+            },
+            {
+              "label": "E",
+              "text": "bones"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "The lungs are not involved in calcium homeostasis. Kidneys, skin (vitamin D synthesis), intestine, and bones are.",
+          "notes": {
+            "A": "Kidneys reabsorb calcium and activate vitamin D.",
+            "B": "Skin makes vitamin D3.",
+            "D": "The intestine absorbs calcium.",
+            "E": "Bone is the calcium store."
+          },
+          "topicId": "endo-calcium",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-573",
+          "type": "single-best",
+          "stem": "Growth of long bones at the epiphyseal plates is mediated mainly by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "calcitonin"
+            },
+            {
+              "label": "B",
+              "text": "somatomedins"
+            },
+            {
+              "label": "C",
+              "text": "1,25 dihydroxycholecalciferol"
+            },
+            {
+              "label": "D",
+              "text": "thyroxine"
+            },
+            {
+              "label": "E",
+              "text": "aldosterone"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "GH acts largely through somatomedins (IGF-1), which stimulate chondrocyte proliferation at the epiphyseal plates. Plate closure itself is driven by sex steroids (oestrogen).",
+          "notes": {
+            "A": "Calcitonin acts on osteoclasts, not plate growth.",
+            "C": "Calcitriol mineralises bone; it does not drive plate growth.",
+            "D": "Thyroxine is permissive and speeds maturation, but IGF-1 drives growth.",
+            "E": "Aldosterone has no role in bone growth."
+          },
+          "topicId": "endo-calcium",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-013",
+          "type": "single-best",
+          "stem": "Aldosterone secretion is increased by an increase in plasma of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "angiotensin II concentration"
+            },
+            {
+              "label": "B",
+              "text": "potassium concentration"
+            },
+            {
+              "label": "C",
+              "text": "renin concentration"
+            },
+            {
+              "label": "D",
+              "text": "ACTH concentration"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Aldosterone is stimulated by angiotensin II (RAAS), hyperkalemia, and ACTH (minorly).",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-adrenal",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-014",
+          "type": "single-best",
+          "stem": "Glucocorticoid injections lead to increases in:",
+          "options": [
+            {
+              "label": "A",
+              "text": "lymph gland size"
+            },
+            {
+              "label": "B",
+              "text": "fibroblastic activity"
+            },
+            {
+              "label": "C",
+              "text": "anabolic activity in muscle"
+            },
+            {
+              "label": "D",
+              "text": "bone resorption"
+            },
+            {
+              "label": "E",
+              "text": "inflammation and immunity"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Glucocorticoids (like cortisol) promote bone resorption and inhibit bone formation, leading to osteoporosis.",
+          "notes": {
+            "A": "Glucocorticoids SHRINK lymphoid tissue.",
+            "B": "They inhibit fibroblasts (poor wound healing).",
+            "C": "They are catabolic in muscle.",
+            "E": "They suppress inflammation and immunity."
+          },
+          "topicId": "endo-adrenal",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-020",
+          "type": "single-best",
+          "stem": "Cortisol:",
+          "options": [
+            {
+              "label": "A",
+              "text": "is bound to an alpha globulin in the plasma"
+            },
+            {
+              "label": "B",
+              "text": "injections lead to a rise in arterial pressure"
+            },
+            {
+              "label": "C",
+              "text": "inhibits release of ACTH from the anterior pituitary gland"
+            },
+            {
+              "label": "D",
+              "text": "is released with a circadian variation so that cortisol blood levels peak in the morning"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Cortisol is bound to transcortin (alpha globulin), causes hypertension (mineralocorticoid effect), inhibits ACTH (negative feedback), and peaks in the morning.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-adrenal",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-022",
+          "type": "single-best",
+          "stem": "Adrenaline secretion from the adrenal glands increases the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "blood glucose level"
+            },
+            {
+              "label": "B",
+              "text": "blood free fatty acid level"
+            },
+            {
+              "label": "C",
+              "text": "blood flow to skeletal muscle"
+            },
+            {
+              "label": "D",
+              "text": "release of renin in the kidneys"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Epinephrine (adrenaline) triggers the fight-or-flight response, increasing glucose, FFA, muscle blood flow (via beta-2), and renin release (via beta-1).",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-adrenal",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-027",
+          "type": "single-best",
+          "stem": "Adrenaline differs from noradrenaline in that it:",
+          "options": [
+            {
+              "label": "A",
+              "text": "increases the heart rate when injected intravenously"
+            },
+            {
+              "label": "B",
+              "text": "is the main catecholamine secreted by the adrenal medulla"
+            },
+            {
+              "label": "C",
+              "text": "is a more potent dilator of the bronchi"
+            },
+            {
+              "label": "D",
+              "text": "dilates blood vessels in skeletal muscle"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Adrenaline acts strongly on β2 receptors (bronchodilation, skeletal muscle vasodilation) and β1 receptors, so heart rate rises. Noradrenaline causes widespread vasoconstriction, and the reflex bradycardia this produces lowers heart rate. About 80% of adrenal medullary output is adrenaline.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-adrenal",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-034",
+          "type": "single-best",
+          "stem": "Hormones secreted by the adrenal cortex:",
+          "options": [
+            {
+              "label": "A",
+              "text": "include cholesterol"
+            },
+            {
+              "label": "B",
+              "text": "are mostly bound to plasma proteins"
+            },
+            {
+              "label": "C",
+              "text": "include catecholamines"
+            },
+            {
+              "label": "D",
+              "text": "are excreted mainly in the bile after conjugation"
+            },
+            {
+              "label": "E",
+              "text": "are essential for the maintenance of pregnancy"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Adrenal cortex hormones (steroids like cortisol, aldosterone) are lipophilic and travel bound to plasma proteins (e.g., transcortin, albumin).",
+          "notes": {
+            "A": "Cholesterol is the precursor, not a secreted hormone.",
+            "C": "Catecholamines come from the medulla.",
+            "D": "They are excreted mainly in urine after conjugation in the liver.",
+            "E": "The placenta maintains pregnancy hormonally."
+          },
+          "topicId": "endo-adrenal",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-037",
+          "type": "single-best",
+          "stem": "Inhibition of angiotensin-converting enzyme (ACE) decreases the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "formation of angiotensin II"
+            },
+            {
+              "label": "B",
+              "text": "plasma renin level"
+            },
+            {
+              "label": "C",
+              "text": "diuresis"
+            },
+            {
+              "label": "D",
+              "text": "circulating level of angiotensin I"
+            },
+            {
+              "label": "E",
+              "text": "total body potassium"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "ACE inhibitors block the conversion of Angiotensin I to Angiotensin II, decreasing vasoconstriction and aldosterone secretion.",
+          "notes": {
+            "B": "Renin RISES, because angiotensin II feedback is lost.",
+            "C": "Diuresis tends to rise as aldosterone falls.",
+            "D": "Angiotensin I RISES because it is not converted.",
+            "E": "Potassium tends to RISE as aldosterone falls."
+          },
+          "topicId": "endo-adrenal",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-042",
+          "type": "single-best",
+          "stem": "An adrenal medullary tumour (phaeochromocytoma) may cause an increase in:",
+          "options": [
+            {
+              "label": "A",
+              "text": "systolic blood pressure which may be transient or constant"
+            },
+            {
+              "label": "B",
+              "text": "tremor of the extended hand"
+            },
+            {
+              "label": "C",
+              "text": "basal metabolic rate"
+            },
+            {
+              "label": "D",
+              "text": "urinary catecholamines"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Pheochromocytoma secretes excess catecholamines, causing hypertension, tremor, increased BMR, and elevated urinary catecholamines.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-adrenal",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-045",
+          "type": "single-best",
+          "stem": "Excessive glucocorticoid production (Cushing's syndrome) causes an increase in:",
+          "options": [
+            {
+              "label": "A",
+              "text": "skin thickness"
+            },
+            {
+              "label": "B",
+              "text": "bone strength"
+            },
+            {
+              "label": "C",
+              "text": "blood glucose and arterial pressure"
+            },
+            {
+              "label": "D",
+              "text": "immunity"
+            },
+            {
+              "label": "E",
+              "text": "the rate of wound healing"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Cushing's syndrome causes hyperglycemia (gluconeogenesis) and hypertension (mineralocorticoid effect), while decreasing immunity and bone strength.",
+          "notes": {
+            "A": "The skin becomes THIN.",
+            "B": "Bone is weakened (osteoporosis).",
+            "D": "Immunity is suppressed.",
+            "E": "Wound healing is delayed."
+          },
+          "topicId": "endo-adrenal",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-571",
+          "type": "single-best",
+          "stem": "Cortisol increases blood glucose level by increasing:",
+          "options": [
+            {
+              "label": "A",
+              "text": "lipolysis"
+            },
+            {
+              "label": "B",
+              "text": "protein synthesis in muscles"
+            },
+            {
+              "label": "C",
+              "text": "gluconeogenesis"
+            },
+            {
+              "label": "D",
+              "text": "growth hormone secretion"
+            },
+            {
+              "label": "E",
+              "text": "insulin secretion"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Cortisol stimulates gluconeogenesis in the liver, raising blood glucose.",
+          "notes": {
+            "A": "Lipolysis supplies glycerol but is not the main mechanism.",
+            "B": "Cortisol BREAKS DOWN muscle protein.",
+            "D": "Not the mechanism.",
+            "E": "Insulin LOWERS glucose."
+          },
+          "topicId": "endo-adrenal",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-018",
+          "type": "single-best",
+          "stem": "Pancreatic glucagon:",
+          "options": [
+            {
+              "label": "A",
+              "text": "is produced by the alpha cells of the islets of Langerhans"
+            },
+            {
+              "label": "B",
+              "text": "is a polypeptide"
+            },
+            {
+              "label": "C",
+              "text": "output is inversely proportional to the blood glucose level"
+            },
+            {
+              "label": "D",
+              "text": "increases the breakdown of liver glycogen"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Glucagon is an alpha-cell polypeptide that opposes insulin, increasing blood glucose via glycogenolysis when glucose is low.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-pancreas",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-024",
+          "type": "single-best",
+          "stem": "Insulin:",
+          "options": [
+            {
+              "label": "A",
+              "text": "secretion is decreased by sympathetic nerve activity"
+            },
+            {
+              "label": "B",
+              "text": "facilitates entry of glucose into skeletal muscle"
+            },
+            {
+              "label": "C",
+              "text": "facilitates entry of amino acids into skeletal muscle"
+            },
+            {
+              "label": "D",
+              "text": "secretion is increased by vagal nerve activity"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Insulin promotes glucose and amino acid uptake into muscle. Its secretion is stimulated by parasympathetic (vagal) tone and inhibited by sympathetic tone.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-pancreas",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-033",
+          "type": "single-best",
+          "stem": "The chemical structure of insulin:",
+          "options": [
+            {
+              "label": "A",
+              "text": "contains a sterol ring"
+            },
+            {
+              "label": "B",
+              "text": "is identical in all mammalian species"
+            },
+            {
+              "label": "C",
+              "text": "is such that it is effective when taken by mouth"
+            },
+            {
+              "label": "D",
+              "text": "has been synthesized in the laboratory"
+            },
+            {
+              "label": "E",
+              "text": "none of the above"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Insulin is a polypeptide that has been synthesized in the lab (recombinant DNA technology). It is not a steroid and is degraded if taken orally.",
+          "notes": {
+            "A": "Insulin is a peptide.",
+            "B": "Insulin differs slightly between species.",
+            "C": "It is digested if taken by mouth.",
+            "E": "Option D is correct."
+          },
+          "topicId": "endo-pancreas",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-036",
+          "type": "single-best",
+          "stem": "Secretin differs from cholecystokinin-pancreozymin (CCK-PZ) in that it:",
+          "options": [
+            {
+              "label": "A",
+              "text": "is formed by mucosal cells in the upper small intestine"
+            },
+            {
+              "label": "B",
+              "text": "stimulates the pancreas to secrete a juice which is rich in digestive enzymes"
+            },
+            {
+              "label": "C",
+              "text": "stimulates the pancreas to secrete a watery alkaline juice"
+            },
+            {
+              "label": "D",
+              "text": "has higher effect on gallbladder smooth muscle"
+            },
+            {
+              "label": "E",
+              "text": "increases gastric motility"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Secretin stimulates the pancreas to secrete a bicarbonate-rich, watery juice. CCK stimulates enzyme-rich juice and gallbladder contraction.",
+          "notes": {
+            "A": "Both are made by mucosal cells in the upper small intestine.",
+            "B": "That is CCK's action.",
+            "D": "CCK contracts the gallbladder.",
+            "E": "Secretin REDUCES gastric motility."
+          },
+          "topicId": "endo-pancreas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-043",
+          "type": "single-best",
+          "stem": "Insulin:",
+          "options": [
+            {
+              "label": "A",
+              "text": "requirements at night are similar to those during the day"
+            },
+            {
+              "label": "B",
+              "text": "half-life is usually reduced in patients with diabetes mellitus"
+            },
+            {
+              "label": "C",
+              "text": "is mostly bound to plasma proteins in the blood"
+            },
+            {
+              "label": "D",
+              "text": "requirements are increased in obesity"
+            },
+            {
+              "label": "E",
+              "text": "requirements are increased by exercise"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Obesity causes insulin resistance, increasing the body's requirement for insulin.",
+          "notes": {
+            "A": "Needs vary with meals and the night-time rise in GH.",
+            "B": "The half-life is not reduced.",
+            "C": "Insulin circulates mostly UNBOUND (half-life about 5 minutes).",
+            "E": "Exercise LOWERS insulin needs."
+          },
+          "topicId": "endo-pancreas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-047",
+          "type": "single-best",
+          "stem": "In diabetic ketosis there is a decreased metabolic breakdown of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "ketones"
+            },
+            {
+              "label": "B",
+              "text": "glycogen"
+            },
+            {
+              "label": "C",
+              "text": "glucose"
+            },
+            {
+              "label": "D",
+              "text": "fat"
+            },
+            {
+              "label": "E",
+              "text": "amino acids"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "In diabetic ketosis (insulin deficiency), glucose cannot be utilized (decreased breakdown), so the body breaks down fat (ketogenesis) and protein instead.",
+          "notes": {
+            "A": "Ketones are produced in excess, not broken down less.",
+            "B": "Glycogen breakdown is INCREASED.",
+            "D": "Fat breakdown is INCREASED.",
+            "E": "Protein breakdown is INCREASED."
+          },
+          "topicId": "endo-pancreas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-048",
+          "type": "single-best",
+          "stem": "An oral glucose tolerance test in a patient with diabetes mellitus shows:",
+          "options": [
+            {
+              "label": "A",
+              "text": "a higher than normal fasting blood glucose level"
+            },
+            {
+              "label": "B",
+              "text": "glycosuria when blood glucose is three times the normal fasting level"
+            },
+            {
+              "label": "C",
+              "text": "a delayed return to the fasting blood glucose level"
+            },
+            {
+              "label": "D",
+              "text": "all of the above"
+            },
+            {
+              "label": "E",
+              "text": "none of the above"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Diabetics have high fasting glucose, renal threshold is exceeded (glycosuria), and glucose remains elevated for a prolonged period after a meal.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "E": "True, but so are the other statements."
+          },
+          "topicId": "endo-pancreas",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-007",
+          "type": "single-best",
+          "stem": "This hormone is only produced normally in the body when a woman is pregnant:",
+          "options": [
+            {
+              "label": "A",
+              "text": "estrogen"
+            },
+            {
+              "label": "B",
+              "text": "choriongonadotropic hormone"
+            },
+            {
+              "label": "C",
+              "text": "progesterone"
+            },
+            {
+              "label": "D",
+              "text": "FSH"
+            },
+            {
+              "label": "E",
+              "text": "LH"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Human chorionic gonadotropin (hCG) is produced by the placenta shortly after implantation.",
+          "notes": {
+            "A": "Oestrogen is produced in every menstrual cycle.",
+            "C": "Progesterone is produced after every ovulation.",
+            "D": "FSH is secreted throughout reproductive life.",
+            "E": "LH is secreted throughout reproductive life."
+          },
+          "topicId": "endo-repro",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-008",
+          "type": "single-best",
+          "stem": "Contractions of the uterus are stimulated by the release of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "oxytocin"
+            },
+            {
+              "label": "B",
+              "text": "FSH"
+            },
+            {
+              "label": "C",
+              "text": "LH"
+            },
+            {
+              "label": "D",
+              "text": "prolactin"
+            },
+            {
+              "label": "E",
+              "text": "estrogen"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Oxytocin stimulates uterine smooth muscle contractions during labor.",
+          "notes": {
+            "B": "FSH drives follicle growth.",
+            "C": "LH triggers ovulation.",
+            "D": "Prolactin drives milk production.",
+            "E": "Oestrogen makes the uterus more responsive but is not the contraction trigger."
+          },
+          "topicId": "endo-repro",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-035",
+          "type": "single-best",
+          "stem": "Androgen binding protein is produced by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "adrenals"
+            },
+            {
+              "label": "B",
+              "text": "hypothalamus"
+            },
+            {
+              "label": "C",
+              "text": "Sertoli cells"
+            },
+            {
+              "label": "D",
+              "text": "Leydig cells"
+            },
+            {
+              "label": "E",
+              "text": "ovaries"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Sertoli cells in the seminiferous tubules produce androgen-binding protein (ABP) under FSH stimulation to maintain high testosterone levels for spermatogenesis.",
+          "notes": {
+            "A": "The adrenals do not make ABP.",
+            "B": "The hypothalamus makes GnRH.",
+            "D": "Leydig cells make testosterone.",
+            "E": "ABP is a testicular protein."
+          },
+          "topicId": "endo-repro",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-038",
+          "type": "single-best",
+          "stem": "Early detection of pregnancy depends on detection of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "FSH"
+            },
+            {
+              "label": "B",
+              "text": "progesterone"
+            },
+            {
+              "label": "C",
+              "text": "LH"
+            },
+            {
+              "label": "D",
+              "text": "hCG"
+            },
+            {
+              "label": "E",
+              "text": "estrogen"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Human chorionic gonadotropin (hCG) is the basis for standard urine and blood pregnancy tests.",
+          "notes": {
+            "A": "FSH is not a pregnancy marker.",
+            "B": "Progesterone also rises in the luteal phase of every cycle.",
+            "C": "LH cross-reacts but is not the test target.",
+            "E": "Oestrogen rises in every cycle."
+          },
+          "topicId": "endo-repro",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-050",
+          "type": "single-best",
+          "stem": "In the normal menstrual cycle:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the proliferative phase depends on oestrogen secretion"
+            },
+            {
+              "label": "B",
+              "text": "cervical mucus becomes more fluid around the time of ovulation"
+            },
+            {
+              "label": "C",
+              "text": "ovulation is observed after a surge in blood luteinizing hormone level"
+            },
+            {
+              "label": "D",
+              "text": "basal body temperature is higher after ovulation"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "These are all classic physiological changes during the menstrual cycle.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-repro",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-550",
+          "type": "single-best",
+          "stem": "Fertilization of the human ovum normally:",
+          "options": [
+            {
+              "label": "A",
+              "text": "occurs in the fallopian tubes"
+            },
+            {
+              "label": "B",
+              "text": "prevents further spermatozoa from entering the ovum"
+            },
+            {
+              "label": "C",
+              "text": "occurs 5-7 days before implantation"
+            },
+            {
+              "label": "D",
+              "text": "leads to the secretion of human chorionic gonadotrophin (hCG) within two weeks"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Fertilization occurs in the fallopian tube, triggers the cortical reaction (preventing polyspermy), and the resulting zygote secretes hCG after implantation.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-repro",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-551",
+          "type": "single-best",
+          "stem": "Secretion of testosterone:",
+          "options": [
+            {
+              "label": "A",
+              "text": "depresses pituitary secretion of LH"
+            },
+            {
+              "label": "B",
+              "text": "causes the epiphyses of long bones to unite"
+            },
+            {
+              "label": "C",
+              "text": "may lead to a positive nitrogen balance"
+            },
+            {
+              "label": "D",
+              "text": "stimulates growth of body hair"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Testosterone provides negative feedback to the pituitary (LH), causes epiphyseal closure, promotes protein synthesis (positive nitrogen balance), and drives male secondary sex characteristics.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-repro",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-552",
+          "type": "single-best",
+          "stem": "Human chorionic gonadotrophic hormone (hCG):",
+          "options": [
+            {
+              "label": "A",
+              "text": "is a steroid"
+            },
+            {
+              "label": "B",
+              "text": "acts directly on the uterus to maintain the endometrium"
+            },
+            {
+              "label": "C",
+              "text": "is formed in the anterior pituitary"
+            },
+            {
+              "label": "D",
+              "text": "rises its blood level steadily throughout pregnancy"
+            },
+            {
+              "label": "E",
+              "text": "can be detected in the urine as an early sign of pregnancy"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "hCG is a glycoprotein hormone produced by the placenta. Its presence in urine is the basis for early pregnancy tests.",
+          "notes": {
+            "A": "hCG is a glycoprotein.",
+            "B": "It acts on the corpus luteum, not directly on the uterus.",
+            "C": "It is made by the placenta (syncytiotrophoblast).",
+            "D": "It peaks at 8–10 weeks, then falls."
+          },
+          "topicId": "endo-repro",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-553",
+          "type": "single-best",
+          "stem": "Compared with the adult, the newborn has less ability to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "excrete bilirubin"
+            },
+            {
+              "label": "B",
+              "text": "maintain a constant body temperature"
+            },
+            {
+              "label": "C",
+              "text": "manufacture antibodies"
+            },
+            {
+              "label": "D",
+              "text": "dilute and concentrate urine"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Newborns have immature liver function (jaundice), immature thermoregulation, an immature immune system, and immature kidneys.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-repro",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-554",
+          "type": "single-best",
+          "stem": "Androgens are secreted in the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "fetus in greater quantities than in early childhood"
+            },
+            {
+              "label": "B",
+              "text": "female by the ovary"
+            },
+            {
+              "label": "C",
+              "text": "male by the adrenal cortex"
+            },
+            {
+              "label": "D",
+              "text": "male in decreasing quantities after the age of 30"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Androgens are produced by the fetal testes, the female ovaries (and adrenal glands), and male adrenal glands, and decline gradually with age.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-repro",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-555",
+          "type": "single-best",
+          "stem": "Cryptorchidism means:",
+          "options": [
+            {
+              "label": "A",
+              "text": "descent of the testicles"
+            },
+            {
+              "label": "B",
+              "text": "hypogonadism"
+            },
+            {
+              "label": "C",
+              "text": "hyperfunction of the testicles"
+            },
+            {
+              "label": "D",
+              "text": "undescended testicles"
+            },
+            {
+              "label": "E",
+              "text": "priapism"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Cryptorchidism is the failure of one or both testes to descend into the scrotum.",
+          "notes": {
+            "A": "Normal descent is not cryptorchidism.",
+            "B": "Hypogonadism is reduced gonadal function.",
+            "C": "Hyperfunction is not the meaning.",
+            "E": "Priapism is a persistent erection."
+          },
+          "topicId": "endo-repro",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-556",
+          "type": "single-best",
+          "stem": "Fetal haemoglobin:",
+          "options": [
+            {
+              "label": "A",
+              "text": "is the only type identifiable in fetal blood"
+            },
+            {
+              "label": "B",
+              "text": "forms the bulk of total haemoglobin for the first year of life"
+            },
+            {
+              "label": "C",
+              "text": "has a higher oxygen-carrying capacity than adult haemoglobin"
+            },
+            {
+              "label": "D",
+              "text": "binds 2.3- DPG more avidly than does adult haemoglobin"
+            },
+            {
+              "label": "E",
+              "text": "has a higher affinity than the adult form for oxygen at low pO2"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Fetal hemoglobin (HbF) has a higher affinity for oxygen, allowing it to extract oxygen from maternal blood across the placenta.",
+          "notes": {
+            "A": "Some HbA is present in fetal blood.",
+            "B": "HbF falls to low levels by about 6 months.",
+            "C": "Carrying capacity per gram is the same.",
+            "D": "HbF binds 2,3-DPG LESS avidly."
+          },
+          "topicId": "endo-repro",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-557",
+          "type": "single-best",
+          "stem": "For normal development and fertility of spermatozoa there must be:",
+          "options": [
+            {
+              "label": "A",
+              "text": "secretion of testosterone"
+            },
+            {
+              "label": "B",
+              "text": "secretion of luteinizing hormone"
+            },
+            {
+              "label": "C",
+              "text": "secretion of follicle-stimulating hormone"
+            },
+            {
+              "label": "D",
+              "text": "a testicular temperature under 37°C"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Spermatogenesis requires the hormonal support of LH and FSH, high local testosterone levels, and a cooler scrotal temperature.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-repro",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-558",
+          "type": "single-best",
+          "stem": "In the mammary glands:",
+          "options": [
+            {
+              "label": "A",
+              "text": "milk formation can be depressed by hypothalamic activity"
+            },
+            {
+              "label": "B",
+              "text": "maintenance of lactation depends on suckling"
+            },
+            {
+              "label": "C",
+              "text": "lactation ceases if the anterior pituitary gland is destroyed"
+            },
+            {
+              "label": "D",
+              "text": "milk ejection ceases if the posterior pituitary gland is destroyed"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Prolactin (anterior pituitary) drives milk production, while oxytocin (posterior pituitary) drives milk ejection. Both are maintained by suckling reflexes.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-repro",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-559",
+          "type": "single-best",
+          "stem": "The male postpubertal state differs from the prepubertal in that:",
+          "options": [
+            {
+              "label": "A",
+              "text": "there is a greater output of 17- ketosteroids in the urine"
+            },
+            {
+              "label": "B",
+              "text": "skeletal muscle is stronger per unit mass of tissue"
+            },
+            {
+              "label": "C",
+              "text": "the circulating level of follicle- stimulating hormone (FSH) is higher"
+            },
+            {
+              "label": "D",
+              "text": "hypothalamic output of gonadotrophin- releasing factors is greater"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Puberty is marked by increased GnRH, FSH/LH, and androgen production, leading to muscle development and increased urinary 17-ketosteroids.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-repro",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-560",
+          "type": "single-best",
+          "stem": "The interstitial cells of the testis:",
+          "options": [
+            {
+              "label": "A",
+              "text": "contribute to the volume of seminal fluid"
+            },
+            {
+              "label": "B",
+              "text": "are the source of the hormone inhibin"
+            },
+            {
+              "label": "C",
+              "text": "are stimulated to secrete by luteinizing hormone (LH)"
+            },
+            {
+              "label": "D",
+              "text": "are stimulated to secrete by FSH"
+            },
+            {
+              "label": "E",
+              "text": "are non-functional unless the testis descends from the abdomen to the scrotum"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Leydig (interstitial) cells are stimulated by LH to secrete testosterone.",
+          "notes": {
+            "A": "Seminal fluid comes from the glands and tubules.",
+            "B": "Inhibin comes from Sertoli cells.",
+            "D": "FSH acts on Sertoli cells.",
+            "E": "Leydig cells function in the fetus before descent."
+          },
+          "topicId": "endo-repro",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-561",
+          "type": "single-best",
+          "stem": "Testosterone is secreted by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sertoli cells of the testes"
+            },
+            {
+              "label": "B",
+              "text": "cells of the adrenal medulla"
+            },
+            {
+              "label": "C",
+              "text": "cells of the hypothalamus"
+            },
+            {
+              "label": "D",
+              "text": "Leydig cells of the testes"
+            },
+            {
+              "label": "E",
+              "text": "B cells of the pancreas"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Leydig cells in the testes secrete testosterone.",
+          "notes": {
+            "A": "Sertoli cells make ABP and inhibin.",
+            "B": "The adrenal medulla makes catecholamines.",
+            "C": "The hypothalamus makes GnRH.",
+            "E": "Pancreatic B cells make insulin."
+          },
+          "topicId": "endo-repro",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-endocrine-563",
+          "type": "single-best",
+          "stem": "Ejaculation of semen:",
+          "options": [
+            {
+              "label": "A",
+              "text": "depends on a spinal cord reflex"
+            },
+            {
+              "label": "B",
+              "text": "depends on sympathetic nerve activity"
+            },
+            {
+              "label": "C",
+              "text": "involves rhythmic contractions of striated muscles"
+            },
+            {
+              "label": "D",
+              "text": "involves contraction of smooth muscle in the vas deferens and seminal vesicles"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Emission (sympathetic, L1–L2) moves semen into the urethra by smooth muscle contraction. Ejaculation proper is a spinal reflex with rhythmic contraction of the bulbospongiosus and ischiocavernosus (striated) muscles.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-repro",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-564",
+          "type": "single-best",
+          "stem": "Cessation of menstruation (secondary amenorrhoea) may occur because of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "psychological stress"
+            },
+            {
+              "label": "B",
+              "text": "severe weight loss"
+            },
+            {
+              "label": "C",
+              "text": "continuous administration of oestrogens"
+            },
+            {
+              "label": "D",
+              "text": "continuous administration of gonadotropin- releasing hormone (GnRH)"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Stress, weight loss, and continuous hormonal administration disrupt the normal pulsatile HPG axis, leading to amenorrhea.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-repro",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-565",
+          "type": "single-best",
+          "stem": "Administration of estrogens and progestogens to women:",
+          "options": [
+            {
+              "label": "A",
+              "text": "prevents menstruation if given daily throughout the year"
+            },
+            {
+              "label": "B",
+              "text": "tends to cause salt and water retention"
+            },
+            {
+              "label": "C",
+              "text": "depresses secretion of pituitary gonadotrophins"
+            },
+            {
+              "label": "D",
+              "text": "decreases the likelihood of ovulation"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Combined oral contraceptives prevent ovulation by suppressing FSH/LH via negative feedback, can cause fluid retention, and prevent regular menstruation.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-repro",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-566",
+          "type": "single-best",
+          "stem": "Methods for reducing fertility include:",
+          "options": [
+            {
+              "label": "A",
+              "text": "bilateral ligation and division of the uterine tubes"
+            },
+            {
+              "label": "B",
+              "text": "bilateral ligation and division of the vas deferens"
+            },
+            {
+              "label": "C",
+              "text": "the use of agents which prevent the fertilized ovum from implantation"
+            },
+            {
+              "label": "D",
+              "text": "mechanical barriers (condoms and caps)"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Tubal ligation, vasectomy, IUDs, and barrier methods are all valid fertility control mechanisms.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-repro",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-endocrine-567",
+          "type": "single-best",
+          "stem": "Secretion of androgens in the adult female:",
+          "options": [
+            {
+              "label": "A",
+              "text": "in large amounts can cause enlargement of the clitoris"
+            },
+            {
+              "label": "B",
+              "text": "affect the voice"
+            },
+            {
+              "label": "C",
+              "text": "may lead to growth of facial hair"
+            },
+            {
+              "label": "D",
+              "text": "may result in amenorrhoea"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Excess androgens in females (e.g., in PCOS or adrenal tumors) cause virilization, hirsutism, and amenorrhea.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "endo-repro",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        }
+      ]
+    }
+  ]
+}

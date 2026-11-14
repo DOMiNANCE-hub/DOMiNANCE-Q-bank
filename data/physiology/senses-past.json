@@ -1,0 +1,2339 @@
+{
+  "sets": [
+    {
+      "id": "senses-past",
+      "title": "Special senses past questions",
+      "questions": [
+        {
+          "id": "phy-senses-489",
+          "type": "single-best",
+          "stem": "Regarding the receptors in the skin:",
+          "options": [
+            {
+              "label": "A",
+              "text": "all skin receptor are encapsulated"
+            },
+            {
+              "label": "B",
+              "text": "the receptive fields of touch receptors are uniform in area"
+            },
+            {
+              "label": "C",
+              "text": "the nociceptors of the skin are bare nerve endings"
+            },
+            {
+              "label": "D",
+              "text": "sensory information from the skin reaches the brain via the dorsal pathway"
+            },
+            {
+              "label": "E",
+              "text": "sensory information from the skin is stored in the hypothalamus"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Nociceptors (pain receptors) are bare (free) nerve endings in the skin.",
+          "notes": {
+            "A": "Free nerve endings are not encapsulated.",
+            "B": "Fields are small on the fingertips and large on the back.",
+            "D": "Pain and temperature travel in the spinothalamic tract, not only the dorsal columns.",
+            "E": "Sensation is not stored in the hypothalamus."
+          },
+          "topicId": "sen-somatic",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-502",
+          "type": "single-best",
+          "stem": "The large onion-shaped receptors deep in the dermis and in subcutaneous tissue, which respond to deep pressure are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Merkel discs"
+            },
+            {
+              "label": "B",
+              "text": "Pacinian corpuscles"
+            },
+            {
+              "label": "C",
+              "text": "free nerve endings"
+            },
+            {
+              "label": "D",
+              "text": "muscle spindles"
+            },
+            {
+              "label": "E",
+              "text": "stretch receptors"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Pacinian corpuscles are encapsulated mechanoreceptors that detect deep pressure and high-frequency vibration.",
+          "notes": {
+            "A": "Merkel discs are superficial and sense light touch.",
+            "C": "Free endings sense pain and temperature.",
+            "D": "Spindles are in muscle.",
+            "E": "Too general."
+          },
+          "topicId": "sen-somatic",
+          "subtopic": "",
+          "difficulty": "medium"
+        },
+        {
+          "id": "phy-senses-510",
+          "type": "single-best",
+          "stem": "Which skin receptors are the most numerous?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pain receptors"
+            },
+            {
+              "label": "B",
+              "text": "heat receptors"
+            },
+            {
+              "label": "C",
+              "text": "cold receptors"
+            },
+            {
+              "label": "D",
+              "text": "proprioceptors"
+            },
+            {
+              "label": "E",
+              "text": "stretch receptors"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Nociceptors (pain receptors) are the most abundant sensory receptors in the skin.",
+          "notes": {
+            "B": "Warm receptors are few.",
+            "C": "Cold receptors are fewer than pain receptors.",
+            "D": "Proprioceptors are in muscles and joints.",
+            "E": "Stretch receptors are not the most numerous in skin."
+          },
+          "topicId": "sen-somatic",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-511",
+          "type": "single-best",
+          "stem": "Which two body areas were least sensitive to touch?",
+          "options": [
+            {
+              "label": "A",
+              "text": "neck and shoulders"
+            },
+            {
+              "label": "B",
+              "text": "back of calf and back of neck"
+            },
+            {
+              "label": "C",
+              "text": "palm of hand and back of hand"
+            },
+            {
+              "label": "D",
+              "text": "lips and fingertips"
+            },
+            {
+              "label": "E",
+              "text": "chest and abdomen"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Areas with the largest receptive fields (and fewest touch receptors per unit area) like the back and calf are least sensitive.",
+          "notes": {
+            "A": "The neck is moderately sensitive.",
+            "C": "The palm is very sensitive.",
+            "D": "These are the MOST sensitive areas.",
+            "E": "More sensitive than the calf and the back of the neck."
+          },
+          "topicId": "sen-somatic",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-540",
+          "type": "single-best",
+          "stem": "Which of these neurotransmitters is primarily responsible for natural pain relief in the body?",
+          "options": [
+            {
+              "label": "A",
+              "text": "NE"
+            },
+            {
+              "label": "B",
+              "text": "substance P"
+            },
+            {
+              "label": "C",
+              "text": "dopamine"
+            },
+            {
+              "label": "D",
+              "text": "serotonin"
+            },
+            {
+              "label": "E",
+              "text": "beta-endorphins"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Beta-endorphins are endogenous opioid peptides that provide natural pain relief (analgesia).",
+          "notes": {
+            "A": "Noradrenaline modulates pain but is not the natural opioid.",
+            "B": "Substance P TRANSMITS pain.",
+            "C": "Dopamine works in reward and movement.",
+            "D": "Serotonin modulates pain but is not the natural opioid."
+          },
+          "topicId": "sen-somatic",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-546",
+          "type": "single-best",
+          "stem": "Pain receptors in the gut and urinary tract may be stimulated by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "distention"
+            },
+            {
+              "label": "B",
+              "text": "inflammation of the wall"
+            },
+            {
+              "label": "C",
+              "text": "acid fluid"
+            },
+            {
+              "label": "D",
+              "text": "vigorous rhythmic contractions behind an obstruction"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Visceral nociceptors can be activated by distension, inflammation, ischemia, and strong contractions.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "sen-somatic",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-senses-547",
+          "type": "single-best",
+          "stem": "Visceral pain:",
+          "options": [
+            {
+              "label": "A",
+              "text": "is poorly localized compared with pain arising in skin"
+            },
+            {
+              "label": "B",
+              "text": "is often felt in the mid line"
+            },
+            {
+              "label": "C",
+              "text": "may cause reflex contraction of overlying skeletal muscle"
+            },
+            {
+              "label": "D",
+              "text": "may cause reflex vomiting"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Visceral pain is poorly localized, often referred to the midline or dermatomes, and can trigger autonomic reflexes like vomiting.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "sen-somatic",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-senses-548",
+          "type": "single-best",
+          "stem": "Headache can be caused by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "dilatation of intracranial blood vessels"
+            },
+            {
+              "label": "B",
+              "text": "meningeal irritation"
+            },
+            {
+              "label": "C",
+              "text": "blood in the cerebrospinal fluid"
+            },
+            {
+              "label": "D",
+              "text": "loss of cerebrospinal fluid following lumbar puncture"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Headaches can be caused by vascular dilation (migraine), meningeal irritation (meningitis), or CSF pressure changes.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "sen-somatic",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-senses-549",
+          "type": "single-best",
+          "stem": "Severe pain may lead to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "a fall in blood pressure due to a fall in vascular resistance in skeletal muscle"
+            },
+            {
+              "label": "B",
+              "text": "a fall in heart rate due to an increase in cardiac vagal tone"
+            },
+            {
+              "label": "C",
+              "text": "vomiting through a reflex centre in the brainstem"
+            },
+            {
+              "label": "D",
+              "text": "profuse sweating due to activation of sympathetic nerves"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Severe pain triggers intense sympathetic activation (sweating, tachycardia, vasoconstriction) and can also trigger vagal reflexes (bradycardia, hypotension) or nausea/vomiting.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "sen-somatic",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-senses-490",
+          "type": "single-best",
+          "stem": "Regarding the focusing of the eye:",
+          "options": [
+            {
+              "label": "A",
+              "text": "hypermetropia may be corrected by diverging lens"
+            },
+            {
+              "label": "B",
+              "text": "the focus of the eye is controlled by parasympathetic innervation of the ciliary body"
+            },
+            {
+              "label": "C",
+              "text": "the lens is the chief refractive element of the eye"
+            },
+            {
+              "label": "D",
+              "text": "when the eye focuses on a distant object the ciliary muscle contracts"
+            },
+            {
+              "label": "E",
+              "text": "the focus of the eye is controlled by sympathetic innervation of the ciliary body"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Parasympathetic innervation causes the ciliary muscle to contract for near vision (accommodation).",
+          "notes": {
+            "A": "Hypermetropia needs a CONVERGING (convex) lens.",
+            "C": "The cornea does most of the refraction.",
+            "D": "For distance the ciliary muscle RELAXES.",
+            "E": "The sympathetic role in accommodation is minor."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-491",
+          "type": "single-best",
+          "stem": "Regarding the physiology of the eye:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the intraocular pressure is about 1,5 mm Hg"
+            },
+            {
+              "label": "B",
+              "text": "when light is directed to one eye, both pupils constrict"
+            },
+            {
+              "label": "C",
+              "text": "the pupils dilate when the eye is focused on a near object"
+            },
+            {
+              "label": "D",
+              "text": "the aqueous humor is an ultrafiltrate of plasma"
+            },
+            {
+              "label": "E",
+              "text": "the pupils constrict when the eye is focused on a distant object"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "The consensual light reflex causes both pupils to constrict when light shines in one eye.",
+          "notes": {
+            "A": "Normal IOP is about 15 mmHg.",
+            "C": "Pupils CONSTRICT for near vision.",
+            "D": "Aqueous is actively secreted by the ciliary epithelium.",
+            "E": "Pupils dilate slightly for distance."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-492",
+          "type": "single-best",
+          "stem": "Regarding vision:",
+          "options": [
+            {
+              "label": "A",
+              "text": "protanopes cannot distinguish between red and green because they lack the pigment for detecting green light"
+            },
+            {
+              "label": "B",
+              "text": "full colour vision is possible in dim light"
+            },
+            {
+              "label": "C",
+              "text": "full dark adaptation takes nearly 30 min"
+            },
+            {
+              "label": "D",
+              "text": "in a dark-adapted eye, the visual activity is best in the centre of the visual field"
+            },
+            {
+              "label": "E",
+              "text": "in the retina there are more ganglion cells than photoreceptors"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Full dark adaptation (rod adaptation) takes about 20-30 minutes.",
+          "notes": {
+            "A": "Protanopes lack the RED pigment.",
+            "B": "Dim light uses rods, so colour is lost.",
+            "D": "In the dark the centre (fovea, cones only) is least sensitive.",
+            "E": "There are far more photoreceptors than ganglion cells."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-493",
+          "type": "single-best",
+          "stem": "In the lens:",
+          "options": [
+            {
+              "label": "A",
+              "text": "potassium concentration is higher than that of sodium"
+            },
+            {
+              "label": "B",
+              "text": "the majority of the lens proteins are water soluble"
+            },
+            {
+              "label": "C",
+              "text": "there is a high concentration of reduced glutathione"
+            },
+            {
+              "label": "D",
+              "text": "glutathione is decreased in the presence of cataract"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Lens fibres are cells with high K+, mostly soluble crystallin proteins and a high concentration of reduced glutathione, which protects the proteins from oxidation. Glutathione falls in cataract.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-senses-494",
+          "type": "single-best",
+          "stem": "Vitamin A is a precursor for the synthesis of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "somatostatin"
+            },
+            {
+              "label": "B",
+              "text": "retinine-1"
+            },
+            {
+              "label": "C",
+              "text": "the pigment of the iris"
+            },
+            {
+              "label": "D",
+              "text": "scotopsin"
+            },
+            {
+              "label": "E",
+              "text": "aqueous humour"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Vitamin A (retinol) is converted to retinal (retinene-1), which binds to opsin to form rhodopsin.",
+          "notes": {
+            "A": "Somatostatin is a peptide.",
+            "C": "Iris colour is melanin.",
+            "D": "Scotopsin is the protein part, made from amino acids.",
+            "E": "Aqueous is a secreted fluid."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-496",
+          "type": "single-best",
+          "stem": "Intraocular fluid includes:",
+          "options": [
+            {
+              "label": "A",
+              "text": "lens"
+            },
+            {
+              "label": "B",
+              "text": "aqueous humour"
+            },
+            {
+              "label": "C",
+              "text": "cornea"
+            },
+            {
+              "label": "D",
+              "text": "vitreous humour"
+            },
+            {
+              "label": "E",
+              "text": "ciliary body"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "The aqueous humour is the fluid filling the anterior and posterior chambers of the eye.",
+          "notes": {
+            "A": "The lens is a solid structure.",
+            "C": "The cornea is solid tissue.",
+            "D": "Vitreous is a gel, not the circulating intraocular fluid.",
+            "E": "The ciliary body secretes aqueous."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-498",
+          "type": "single-best",
+          "stem": "The retina:",
+          "options": [
+            {
+              "label": "A",
+              "text": "allows vision in light and dark, using cones and rods"
+            },
+            {
+              "label": "B",
+              "text": "gives depth perception using binocular vision"
+            },
+            {
+              "label": "C",
+              "text": "contains the ciliary muscles that control the shape of the lens"
+            },
+            {
+              "label": "D",
+              "text": "protects and supports the shape of the eye"
+            },
+            {
+              "label": "E",
+              "text": "controls colour vision"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "The retina contains photoreceptors: rods for low-light vision and cones for bright-light/color vision.",
+          "notes": {
+            "B": "Depth perception needs both eyes and the brain.",
+            "C": "The ciliary muscle is in the ciliary body.",
+            "D": "The sclera protects the eye.",
+            "E": "Cones mediate colour vision, but the retina does more than control colour."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-503",
+          "type": "single-best",
+          "stem": "The portion of the fibrous layer of the eyeball that is white and opaque is the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "choroid"
+            },
+            {
+              "label": "B",
+              "text": "cornea"
+            },
+            {
+              "label": "C",
+              "text": "retina"
+            },
+            {
+              "label": "D",
+              "text": "sclera"
+            },
+            {
+              "label": "E",
+              "text": "iris"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "The sclera is the tough, white outer layer of the eye.",
+          "notes": {
+            "A": "The choroid is the vascular layer.",
+            "B": "The cornea is clear.",
+            "C": "The retina is the neural layer.",
+            "E": "The iris is the coloured diaphragm."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-504",
+          "type": "single-best",
+          "stem": "Nearsightedness is more properly called:",
+          "options": [
+            {
+              "label": "A",
+              "text": "myopia"
+            },
+            {
+              "label": "B",
+              "text": "hyperopia"
+            },
+            {
+              "label": "C",
+              "text": "presbyopia"
+            },
+            {
+              "label": "D",
+              "text": "emmetropia"
+            },
+            {
+              "label": "E",
+              "text": "astigmatismus"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Myopia is nearsightedness (the eye is too long or the lens too strong, focusing images in front of the retina).",
+          "notes": {
+            "B": "Hyperopia is long-sightedness.",
+            "C": "Presbyopia is age-related loss of accommodation.",
+            "D": "Emmetropia is normal vision.",
+            "E": "Astigmatism is unequal corneal curvature."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-513",
+          "type": "single-best",
+          "stem": "Adaptation for vision in poor light is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "complete after 2-3 minutes"
+            },
+            {
+              "label": "B",
+              "text": "due mainly to dilatation of the pupil"
+            },
+            {
+              "label": "C",
+              "text": "due to regeneration of rod but not cone pigments"
+            },
+            {
+              "label": "D",
+              "text": "slower if red goggles are worn before entering the dark environment"
+            },
+            {
+              "label": "E",
+              "text": "more effective for peripheral than for central vision"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Rods are responsible for low-light vision and are absent in the fovea (central vision), making dark adaptation more effective in peripheral vision.",
+          "notes": {
+            "A": "It takes 20–30 minutes.",
+            "B": "The pupil contributes little.",
+            "C": "Cone pigments regenerate too, just faster.",
+            "D": "Red goggles SPEED dark adaptation."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-515",
+          "type": "single-best",
+          "stem": "The cones in the retina differ from rods in that they are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "more numerous"
+            },
+            {
+              "label": "B",
+              "text": "more concerned with colour vision and high visual acuity"
+            },
+            {
+              "label": "C",
+              "text": "more sensitive to light"
+            },
+            {
+              "label": "D",
+              "text": "not concerned with high visual acuity"
+            },
+            {
+              "label": "E",
+              "text": "more affected by vitamin a deficiency"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Cones are responsible for high-acuity color vision, while rods are responsible for low-light, black-and-white vision.",
+          "notes": {
+            "A": "Rods outnumber cones (about 120 million to 6 million).",
+            "C": "Rods are more sensitive.",
+            "D": "Cones give high acuity.",
+            "E": "Rods are hit first (night blindness)."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-517",
+          "type": "single-best",
+          "stem": "On entering a darkened room, the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "light intensity threshold of the eye starts to rise"
+            },
+            {
+              "label": "B",
+              "text": "final phase of retinal adaptation is mainly in the cones"
+            },
+            {
+              "label": "C",
+              "text": "final phase of retinal adaptation is mainly in the rods"
+            },
+            {
+              "label": "D",
+              "text": "adaptation is quicker if a long period was spent in bright light beforehand"
+            },
+            {
+              "label": "E",
+              "text": "time course for pupillary dilatation is similar to that for dark adaptation down to the adrenal medulla"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Dark adaptation is primarily mediated by rods, which take about 20-30 minutes to fully adapt.",
+          "notes": {
+            "A": "The threshold FALLS.",
+            "B": "Cones adapt early, in about 10 minutes.",
+            "D": "It is SLOWER after bright light.",
+            "E": "Pupillary dilatation takes seconds, not 30 minutes."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-518",
+          "type": "single-best",
+          "stem": "Dilation of the pupil:",
+          "options": [
+            {
+              "label": "A",
+              "text": "increases the amount of light entering the eye and the spherical aberration"
+            },
+            {
+              "label": "B",
+              "text": "increases the refractive power of the eye"
+            },
+            {
+              "label": "C",
+              "text": "decreases the spherical aberration"
+            },
+            {
+              "label": "D",
+              "text": "increases the depth of focus"
+            },
+            {
+              "label": "E",
+              "text": "increases the field of vision"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Pupil dilation (mydriasis) allows more light in, but reduces depth of focus and increases spherical aberration.",
+          "notes": {
+            "B": "Refractive power does not change.",
+            "C": "Aberration INCREASES.",
+            "D": "Depth of focus DECREASES.",
+            "E": "Field size is set by the retina."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-520",
+          "type": "single-best",
+          "stem": "During accommodation for near vision:",
+          "options": [
+            {
+              "label": "A",
+              "text": "more light enters the eye"
+            },
+            {
+              "label": "B",
+              "text": "the curvature of the cornea increases"
+            },
+            {
+              "label": "C",
+              "text": "chromatic and spherical aberration is decreased and the depth of focus increases"
+            },
+            {
+              "label": "D",
+              "text": "the depth of focus decreases"
+            },
+            {
+              "label": "E",
+              "text": "the visual axes of the two eyes diverge"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "During near vision accommodation, the pupils constrict (miosis), which reduces spherical and chromatic aberration and increases depth of focus.",
+          "notes": {
+            "A": "Less light enters (the pupil constricts).",
+            "B": "The LENS curvature changes, not the cornea.",
+            "D": "Depth of focus INCREASES.",
+            "E": "The eyes CONVERGE."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-521",
+          "type": "single-best",
+          "stem": "Visual acuity is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "a measure of the sensitivity of the retina to light"
+            },
+            {
+              "label": "B",
+              "text": "greater in a person with 0.5 vision than in one with 0.75"
+            },
+            {
+              "label": "C",
+              "text": "greater using central rather than peripheral vision"
+            },
+            {
+              "label": "D",
+              "text": "greater using one eye than both eyes"
+            },
+            {
+              "label": "E",
+              "text": "greater in normal than in colour-blind people"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Visual acuity is highest in the fovea centralis (central vision) where cone density is highest.",
+          "notes": {
+            "A": "That is sensitivity, not acuity.",
+            "B": "0.75 is better than 0.5.",
+            "D": "Binocular acuity is equal or better.",
+            "E": "Colour blindness does not reduce acuity."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-523",
+          "type": "single-best",
+          "stem": "In the refracting system of the eye:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the cornea causes less refraction than the lens"
+            },
+            {
+              "label": "B",
+              "text": "more refraction occurs at the inner surface of the cornea than at the outer surface"
+            },
+            {
+              "label": "C",
+              "text": "the lens, by becoming more convex, can more than double the total refractive power of the eye"
+            },
+            {
+              "label": "D",
+              "text": "the back surface of the lens contributes more to accommodation than the front"
+            },
+            {
+              "label": "E",
+              "text": "aging reduces the maximum refractive power of the eye"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Aging causes the lens to become stiffer (presbyopia), reducing its ability to change shape and thus reducing maximum refractive power for near vision.",
+          "notes": {
+            "A": "The cornea refracts MORE (about 2/3).",
+            "B": "Most refraction is at the OUTER surface (air–cornea).",
+            "C": "Accommodation adds about 12 D to about 60 D.",
+            "D": "The FRONT surface changes most."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-525",
+          "type": "single-best",
+          "stem": "When light is directed to one eye, the pupil:",
+          "options": [
+            {
+              "label": "A",
+              "text": "constricts even though its optic nerve has been cut"
+            },
+            {
+              "label": "B",
+              "text": "responds due to sympathetic nerve activity"
+            },
+            {
+              "label": "C",
+              "text": "does not respond if autonomic cholinergic nerves are blocked by local application of atropine or if there is brainstem death"
+            },
+            {
+              "label": "D",
+              "text": "In that eye constricts and the opposite pupil dilates"
+            },
+            {
+              "label": "E",
+              "text": "respond if instead brainstem is death"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "The pupillary light reflex is mediated by parasympathetic (cholinergic) efferents. Atropine blocks this, and brainstem death abolishes the reflex.",
+          "notes": {
+            "A": "Cutting the optic nerve abolishes the direct reflex.",
+            "B": "Constriction is parasympathetic.",
+            "D": "Both pupils constrict (consensual reflex).",
+            "E": "Brainstem death abolishes it."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-526",
+          "type": "single-best",
+          "stem": "Light from an object to the right of the visual axis:",
+          "options": [
+            {
+              "label": "A",
+              "text": "impinges on the retina in the right eye to the right of the fovea"
+            },
+            {
+              "label": "B",
+              "text": "impinges on the retina in the left eye to the left of the fovea"
+            },
+            {
+              "label": "C",
+              "text": "generates impulses which produce conscious sensation in the frontal lobe eye fields"
+            },
+            {
+              "label": "D",
+              "text": "forms an inverted image on the retina"
+            },
+            {
+              "label": "E",
+              "text": "b, and d"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "The lens inverts the image. Light from the right visual field hits the left side of the retina in both eyes.",
+          "notes": {
+            "A": "The image falls on the LEFT of the fovea in the right eye.",
+            "B": "True, but so is D.",
+            "C": "Conscious vision is occipital.",
+            "D": "True, but so is B."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-senses-528",
+          "type": "single-best",
+          "stem": "The rods in the retina:",
+          "options": [
+            {
+              "label": "A",
+              "text": "contain visual pigment which is more sensitive to red than to blue light"
+            },
+            {
+              "label": "B",
+              "text": "are rendered sensitive by ordinary daylight"
+            },
+            {
+              "label": "C",
+              "text": "are more widely distributed over the retina than are cones"
+            },
+            {
+              "label": "D",
+              "text": "reflect blue light more than red light"
+            },
+            {
+              "label": "E",
+              "text": "comprise about 20 per cent of foveal receptor cells"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Rods are found throughout the retina (except the fovea), while cones are concentrated in the fovea.",
+          "notes": {
+            "A": "Rhodopsin peaks at about 505 nm (blue-green), not red.",
+            "B": "They are bleached by daylight.",
+            "D": "They ABSORB blue-green light.",
+            "E": "The fovea has no rods."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-529",
+          "type": "single-best",
+          "stem": "Cones:",
+          "options": [
+            {
+              "label": "A",
+              "text": "are found in the most superficial layer of the retina"
+            },
+            {
+              "label": "B",
+              "text": "show a graded depolarization in response to light"
+            },
+            {
+              "label": "C",
+              "text": "contain pigments which are more light- sensitive than the rod pigment"
+            },
+            {
+              "label": "D",
+              "text": "contain pigments which are most affected by yellow-green light"
+            },
+            {
+              "label": "E",
+              "text": "are absent in an individual with colour blindness"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Cones are most sensitive to the yellow-green portion of the spectrum (around 555 nm).",
+          "notes": {
+            "A": "Photoreceptors are in the outermost (deepest) layer.",
+            "B": "Photoreceptors HYPERpolarise.",
+            "C": "Rod pigment is more sensitive.",
+            "E": "Usually one cone type is defective, not all absent."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-533",
+          "type": "single-best",
+          "stem": "Rhodopsin, the pigment of the rods is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "a yellow pigment"
+            },
+            {
+              "label": "B",
+              "text": "highly absorbent of red light"
+            },
+            {
+              "label": "C",
+              "text": "most sensitive to violet light"
+            },
+            {
+              "label": "D",
+              "text": "regenerated in the dark and least sensitive to red light"
+            },
+            {
+              "label": "E",
+              "text": "not regenerated in the dark and least sensitive to blue light"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Rhodopsin regenerates in darkness and is insensitive to red light (which is why red light doesn't ruin night vision).",
+          "notes": {
+            "A": "Rhodopsin is visual PURPLE.",
+            "B": "It absorbs red poorly.",
+            "C": "It peaks at blue-green (505 nm).",
+            "E": "It IS regenerated in the dark."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-534",
+          "type": "single-best",
+          "stem": "In the visual field of the left eye, an object:",
+          "options": [
+            {
+              "label": "A",
+              "text": "in the upper temporal quadrant is detected in the lower nasal quadrant of the retina"
+            },
+            {
+              "label": "B",
+              "text": "at the centre of the field of vision is detected in the optic disc"
+            },
+            {
+              "label": "C",
+              "text": "focused on the blind spot is in the nasal half of the visual field"
+            },
+            {
+              "label": "D",
+              "text": "in the temporal half generates impulses which travel the left optic tract"
+            },
+            {
+              "label": "E",
+              "text": "in the temporal half is more likely to be perceived in binocular vision than one in the nasal half"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Because the optics invert and reverse the image, an object in the upper temporal field is projected to the lower nasal retina.",
+          "notes": {
+            "B": "The optic disc is the blind spot.",
+            "C": "The blind spot is in the TEMPORAL field.",
+            "D": "This travels in the RIGHT optic tract (crossed fibres).",
+            "E": "The binocular zone is central and nasal."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-536",
+          "type": "single-best",
+          "stem": "In someone with short-sightedness (myopia):",
+          "options": [
+            {
+              "label": "A",
+              "text": "the eye tends to be longer than average from lens to retina"
+            },
+            {
+              "label": "B",
+              "text": "a convex lens is required to correct the refractive error"
+            },
+            {
+              "label": "C",
+              "text": "close vision is affected more than distance vision"
+            },
+            {
+              "label": "D",
+              "text": "the near-point is farther than normal from the eye"
+            },
+            {
+              "label": "E",
+              "text": "a circular object tends to appear oval"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Myopia occurs when the eyeball is too long, causing images to focus in front of the retina.",
+          "notes": {
+            "B": "Myopia needs a CONCAVE lens.",
+            "C": "DISTANCE vision is affected.",
+            "D": "The near point is CLOSER.",
+            "E": "That is astigmatism."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-537",
+          "type": "single-best",
+          "stem": "Colour blindness:",
+          "options": [
+            {
+              "label": "A",
+              "text": "results from inability to detect one of three primary colours: red, yellow and blue"
+            },
+            {
+              "label": "B",
+              "text": "where red and green are indistinguishable is due to failure of red or green cone systems"
+            },
+            {
+              "label": "C",
+              "text": "in which no colours can be detected is the commonest form"
+            },
+            {
+              "label": "D",
+              "text": "is more common in women than men"
+            },
+            {
+              "label": "E",
+              "text": "is a disability linked to the Y-chromosome"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Red-green color blindness is an X-linked recessive trait caused by defects in the red or green cone photopigments.",
+          "notes": {
+            "A": "The primaries are red, green and blue.",
+            "C": "Red–green defects are commonest.",
+            "D": "It is more common in MEN.",
+            "E": "It is X-linked."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-538",
+          "type": "single-best",
+          "stem": "Local application of atropine to the eye causes:",
+          "options": [
+            {
+              "label": "A",
+              "text": "dilation of the pupil and reduced drainage of aqueous humour"
+            },
+            {
+              "label": "B",
+              "text": "the near-point for clear vision to move closer to the eye"
+            },
+            {
+              "label": "C",
+              "text": "inability to focus on objects at infinity"
+            },
+            {
+              "label": "D",
+              "text": "dilation of the pupil and increased drainage of aqueous humour"
+            },
+            {
+              "label": "E",
+              "text": "difficulty in looking upwards"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Atropine is a muscarinic antagonist. It paralyzes the ciliary muscle (cycloplegia) and dilates the pupil (mydriasis). Pupil dilation can narrow the iridocorneal angle, reducing aqueous drainage and potentially triggering glaucoma.",
+          "notes": {
+            "B": "The near point moves FARTHER (cycloplegia).",
+            "C": "Distance vision is kept; near vision is lost.",
+            "D": "Drainage is REDUCED.",
+            "E": "Atropine does not affect the extraocular muscles."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-541",
+          "type": "single-best",
+          "stem": "Interruption of the visual pathway in the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "left optic tract causes blindness in the right visual field (right homonymous hemianopia)"
+            },
+            {
+              "label": "B",
+              "text": "optic chiasma causes blindness in the nasal half of each visual field (binasal hemianopia)"
+            },
+            {
+              "label": "C",
+              "text": "left optic radiation causes loss of vision to the left"
+            },
+            {
+              "label": "D",
+              "text": "occipital cortex causes loss of the light reflex"
+            },
+            {
+              "label": "E",
+              "text": "occipital cortex causes loss of central vision with preservation of peripheral vision"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "The left optic tract carries visual information from the right visual field of both eyes. A lesion causes right homonymous hemianopia.",
+          "notes": {
+            "B": "Chiasm lesions cause BItemporal hemianopia.",
+            "C": "Left radiation lesions cause RIGHT field loss.",
+            "D": "The light reflex bypasses the cortex.",
+            "E": "Cortical lesions often spare the MACULA (central vision)."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-542",
+          "type": "single-best",
+          "stem": "Squinting (strabismus) may result from:",
+          "options": [
+            {
+              "label": "A",
+              "text": "poor vision in one eye in childhood or a refractive error in childhood"
+            },
+            {
+              "label": "B",
+              "text": "damage to the posterior pituitary"
+            },
+            {
+              "label": "C",
+              "text": "central suppression of vision in one eye in childhood"
+            },
+            {
+              "label": "D",
+              "text": "damage to the cerebellum"
+            },
+            {
+              "label": "E",
+              "text": "damage to the external capsule"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Strabismus often results from uncorrected refractive errors or poor vision in one eye during childhood, disrupting binocular alignment.",
+          "notes": {
+            "B": "The pituitary does not move the eyes.",
+            "C": "This is a result of squint (amblyopia), not a cause.",
+            "D": "Cerebellar damage causes nystagmus, not squint.",
+            "E": "The external capsule is not involved."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-544",
+          "type": "single-best",
+          "stem": "Impairment of visual acuity in bright light can be explained by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "random light scattering when there is dense pigmentation of the eye"
+            },
+            {
+              "label": "B",
+              "text": "random light scattering when there is asymmetrical corneal curvature due to astigmatism"
+            },
+            {
+              "label": "C",
+              "text": "random light scattering in the cornea when there is vitamin A deficiency"
+            },
+            {
+              "label": "D",
+              "text": "impairment of rod function when there is vitamin A deficiency"
+            },
+            {
+              "label": "E",
+              "text": "inability to alter the focal length of the lens when a cataract is present"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Vitamin A deficiency can cause corneal drying and clouding (xerophthalmia), leading to light scattering and impaired acuity.",
+          "notes": {
+            "A": "Dense pigment REDUCES scatter.",
+            "B": "Astigmatism is a refractive error, not random scatter.",
+            "D": "Rod impairment affects DIM light.",
+            "E": "This is a focusing problem, not linked to bright light."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-545",
+          "type": "single-best",
+          "stem": "In long-sightedness (hypermetropia):",
+          "options": [
+            {
+              "label": "A",
+              "text": "objects at infinity cannot be focused sharply on the retina"
+            },
+            {
+              "label": "B",
+              "text": "objects at the usual near-point are focused in front of the retina"
+            },
+            {
+              "label": "C",
+              "text": "ciliary muscle contracts more strongly to bring objects in mid- visual range into clear focus"
+            },
+            {
+              "label": "D",
+              "text": "the range of unblurred vision (near-point to far-point) is greater than normal"
+            },
+            {
+              "label": "E",
+              "text": "the near-point can be brought closer to the eye by the use of a biconcave lens"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "In hyperopia, the eye is too short or the lens too weak. The ciliary muscle must contract continuously to focus, leading to eye strain.",
+          "notes": {
+            "A": "They CAN be focused by accommodating.",
+            "B": "They focus BEHIND the retina.",
+            "D": "The range is SMALLER.",
+            "E": "A CONVEX lens is needed."
+          },
+          "topicId": "sen-eye",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-497",
+          "type": "single-best",
+          "stem": "What controls not only hearing but also a sense of gravity and motion:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the incus and the stapes"
+            },
+            {
+              "label": "B",
+              "text": "the pinna and the ear drum"
+            },
+            {
+              "label": "C",
+              "text": "the vestibular nerve and the semi circular canals"
+            },
+            {
+              "label": "D",
+              "text": "the eustachian tube and the stapes"
+            },
+            {
+              "label": "E",
+              "text": "the mesencephalon"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "The vestibular apparatus (semicircular canals, utricle, saccule) and the vestibular nerve mediate balance and spatial orientation.",
+          "notes": {
+            "A": "The ossicles serve hearing only.",
+            "B": "These serve hearing only.",
+            "D": "The tube equalises pressure.",
+            "E": "The midbrain is not a sense organ."
+          },
+          "topicId": "sen-ear",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-500",
+          "type": "single-best",
+          "stem": "Hair cells in the ear:",
+          "options": [
+            {
+              "label": "A",
+              "text": "are sensory receptors that fire action potentials when they are disturbed"
+            },
+            {
+              "label": "B",
+              "text": "show a graded response, instead of the spikes typical of other neurons"
+            },
+            {
+              "label": "C",
+              "text": "are bent against the overhanging tectorial membrane"
+            },
+            {
+              "label": "D",
+              "text": "b, and c"
+            },
+            {
+              "label": "E",
+              "text": "a, b, and c"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Hair cells give graded receptor potentials, not action potentials. Bending of their stereocilia against the tectorial membrane opens mechanically gated channels, and they release glutamate onto the cochlear nerve fibres, which then fire.",
+          "notes": {
+            "A": "Hair cells give graded potentials; the nerve fibres fire.",
+            "B": "True, but so is C.",
+            "C": "True, but so is B.",
+            "E": "A is false."
+          },
+          "topicId": "sen-ear",
+          "subtopic": "",
+          "difficulty": "hard",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-senses-508",
+          "type": "single-best",
+          "stem": "The transmission of sound vibrations through the internal ear occurs mainly through the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "nerve fibers"
+            },
+            {
+              "label": "B",
+              "text": "air"
+            },
+            {
+              "label": "C",
+              "text": "fluid"
+            },
+            {
+              "label": "D",
+              "text": "bone"
+            },
+            {
+              "label": "E",
+              "text": "cartilage"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "In the inner ear, sound waves are transmitted through the fluid (perilymph and endolymph) within the cochlea.",
+          "notes": {
+            "A": "Nerves carry the signal after transduction.",
+            "B": "Air conducts in the outer and middle ear.",
+            "D": "Bone conducts in the middle ear.",
+            "E": "Cartilage is not involved."
+          },
+          "topicId": "sen-ear",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-509",
+          "type": "single-best",
+          "stem": "Which of the following is important in maintaining the balance of the body?",
+          "options": [
+            {
+              "label": "A",
+              "text": "visual cues"
+            },
+            {
+              "label": "B",
+              "text": "semicircular canals"
+            },
+            {
+              "label": "C",
+              "text": "the saccule"
+            },
+            {
+              "label": "D",
+              "text": "proprioceptors"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Balance relies on visual input, vestibular input (semicircular canals, utricle/saccule), and proprioception.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "sen-ear",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-senses-514",
+          "type": "single-best",
+          "stem": "The basilar membrane of the cochlea vibrates:",
+          "options": [
+            {
+              "label": "A",
+              "text": "at the same frequency as the applied sound"
+            },
+            {
+              "label": "B",
+              "text": "with an amplitude which is proportional to the frequency of the applied sound"
+            },
+            {
+              "label": "C",
+              "text": "with an amplitude which is counter proportional to the loudness of the applied sound"
+            },
+            {
+              "label": "D",
+              "text": "more along of its length when the applied sound has a high rather than low frequency"
+            },
+            {
+              "label": "E",
+              "text": "mainly at the base of the cochlea for the sound frequencies commonly used in speech"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "The basilar membrane vibrates in a traveling wave that matches the frequency of the incoming sound.",
+          "notes": {
+            "B": "Amplitude relates to loudness.",
+            "C": "Amplitude RISES with loudness.",
+            "D": "High frequencies excite only the BASE.",
+            "E": "Speech frequencies peak further along, not mainly at the base."
+          },
+          "topicId": "sen-ear",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-522",
+          "type": "single-best",
+          "stem": "The tympanic membrane:",
+          "options": [
+            {
+              "label": "A",
+              "text": "modifies the frequencies of sound waves impinging on the ear"
+            },
+            {
+              "label": "B",
+              "text": "stops vibrating almost immediately after the sound stops"
+            },
+            {
+              "label": "C",
+              "text": "bulges outwards when the pharyngotympanic tube is blocked"
+            },
+            {
+              "label": "D",
+              "text": "transmits sound more effectively when the small muscles of the middle ear are contracted"
+            },
+            {
+              "label": "E",
+              "text": "continues to vibtate after the sound stops"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "The tympanic membrane has very little inertia and stops vibrating almost instantly when the sound stimulus ends.",
+          "notes": {
+            "A": "It reproduces the frequency faithfully.",
+            "C": "It is drawn INWARD as air is absorbed.",
+            "D": "Muscle contraction DAMPENS transmission.",
+            "E": "It is critically damped."
+          },
+          "topicId": "sen-ear",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-524",
+          "type": "single-best",
+          "stem": "The hair cells in the semicircular canals are stimulated by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "movement of perilymph"
+            },
+            {
+              "label": "B",
+              "text": "linear acceleration"
+            },
+            {
+              "label": "C",
+              "text": "rotation at constant velocity"
+            },
+            {
+              "label": "D",
+              "text": "gravity"
+            },
+            {
+              "label": "E",
+              "text": "movement of endolymph relative to hair cells"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Semicircular canals detect angular acceleration via the movement of endolymph, which bends the cupula and hair cells.",
+          "notes": {
+            "A": "The canals contain endolymph; perilymph surrounds them.",
+            "B": "Linear acceleration is sensed by the otoliths.",
+            "C": "At constant velocity, endolymph catches up and there is no signal.",
+            "D": "Gravity is sensed by the otoliths."
+          },
+          "topicId": "sen-ear",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-527",
+          "type": "single-best",
+          "stem": "The tympanic membranes:",
+          "options": [
+            {
+              "label": "A",
+              "text": "bulge outwards during descent in an unpressurized airplane"
+            },
+            {
+              "label": "B",
+              "text": "have an area about twice that of the oval window"
+            },
+            {
+              "label": "C",
+              "text": "prevent sound waves from reaching the oval and round windows at the same time"
+            },
+            {
+              "label": "D",
+              "text": "transmit only 10 per cent of applied sound energy to the cochlea for sound waves of 1000 Hz"
+            },
+            {
+              "label": "E",
+              "text": "transmit sounds in the 500-5000 Hz frequency range with the least loss of energy"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "The middle ear system ensures that sound waves reach the oval window slightly before the round window, allowing the fluid to move.",
+          "notes": {
+            "A": "During descent it bulges INWARD.",
+            "B": "It is about 17 times larger.",
+            "D": "Transmission is about 60%.",
+            "E": "Not its defining role."
+          },
+          "topicId": "sen-ear",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-531",
+          "type": "single-best",
+          "stem": "Sound waves:",
+          "options": [
+            {
+              "label": "A",
+              "text": "are quantified on the decibel scale, which is logarithmic"
+            },
+            {
+              "label": "B",
+              "text": "with an intensity of 60 decibels are inaudible"
+            },
+            {
+              "label": "C",
+              "text": "with an intensity of 140 decibels are harmless"
+            },
+            {
+              "label": "D",
+              "text": "with an intensity of 90 decibels are usually painful"
+            },
+            {
+              "label": "E",
+              "text": "are heard as a note one octave higher when their frequency increases eight-fold"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "The decibel scale is logarithmic, measuring sound intensity relative to a reference level.",
+          "notes": {
+            "B": "60 dB is ordinary conversation.",
+            "C": "140 dB damages the ear.",
+            "D": "Pain starts at about 120–130 dB.",
+            "E": "An octave is a DOUBLING of frequency."
+          },
+          "topicId": "sen-ear",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-532",
+          "type": "single-best",
+          "stem": "The frequency of impulses generated by receptors in an utricle is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "related to the orientation of the head and reduced in the weightless conditions in outer spase"
+            },
+            {
+              "label": "B",
+              "text": "higher during travel at 100 than at 20 miles per hour"
+            },
+            {
+              "label": "C",
+              "text": "not related to the orientation of the head and increased in the weightless conditions in outer space"
+            },
+            {
+              "label": "D",
+              "text": "inversely related to the frequency being generated by the opposite utricle"
+            },
+            {
+              "label": "E",
+              "text": "related to the impulse frequency being generated by semicircular canal receptors"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "The utricle detects linear acceleration and head tilt relative to gravity. In weightlessness (microgravity), the otoliths don't press on the hair cells, reducing the impulse frequency.",
+          "notes": {
+            "B": "Constant velocity gives no signal.",
+            "C": "Firing IS related to head orientation.",
+            "D": "The two utricles are not simply reciprocal.",
+            "E": "They are independent sensors."
+          },
+          "topicId": "sen-ear",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-535",
+          "type": "single-best",
+          "stem": "An audiogram:",
+          "options": [
+            {
+              "label": "A",
+              "text": "is a plot of hearing ability (or hearing loss) against sound frequency"
+            },
+            {
+              "label": "B",
+              "text": "showing equal impairment of air and bone conduction suggests conductive deafness"
+            },
+            {
+              "label": "C",
+              "text": "showing hearing loss at high frequencies for air conduction suggests ear drum damage"
+            },
+            {
+              "label": "D",
+              "text": "showing loss at 8000 Hz for air and bone conduction suggests conductive deafness"
+            },
+            {
+              "label": "E",
+              "text": "showing hearing loss at the lower frequencies is common in elderly people"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "An audiogram graphs hearing threshold (dB) across different frequencies (Hz).",
+          "notes": {
+            "B": "Equal air and bone loss suggests SENSORINEURAL deafness.",
+            "C": "High-frequency loss suggests sensorineural damage.",
+            "D": "Air and bone loss together is sensorineural.",
+            "E": "The elderly lose HIGH frequencies (presbycusis)."
+          },
+          "topicId": "sen-ear",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-539",
+          "type": "single-best",
+          "stem": "In the middle ear:",
+          "options": [
+            {
+              "label": "A",
+              "text": "destruction of the auditory ossicles abolishes hearing"
+            },
+            {
+              "label": "B",
+              "text": "paralysis of the auditory muscles makes sounds more faint"
+            },
+            {
+              "label": "C",
+              "text": "immobilization of the stapes causes smaller deafness than removal of the ossicles"
+            },
+            {
+              "label": "D",
+              "text": "air pressure is normally atmospheric pressure"
+            },
+            {
+              "label": "E",
+              "text": "the round window doesnt move reciprocally with the oval window"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "The middle ear is normally filled with air at atmospheric pressure, equalized by the Eustachian tube.",
+          "notes": {
+            "A": "Bone conduction remains.",
+            "B": "Sounds become LOUDER (hyperacusis).",
+            "C": "Immobilising the stapes causes similar or greater loss.",
+            "E": "The two windows DO move reciprocally."
+          },
+          "topicId": "sen-ear",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-543",
+          "type": "single-best",
+          "stem": "Involuntary oscillatory eye movements (nystagmus):",
+          "options": [
+            {
+              "label": "A",
+              "text": "do not occur in healthy people"
+            },
+            {
+              "label": "B",
+              "text": "may result from cochlear disease"
+            },
+            {
+              "label": "C",
+              "text": "occur in cerebellar disease and when hot fluid is run into one external ear canal"
+            },
+            {
+              "label": "D",
+              "text": "occur when fluid at body temperature is run into one external ear canal"
+            },
+            {
+              "label": "E",
+              "text": "do not affect acuity of vision"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Nystagmus can be physiological (e.g., caloric stimulation with hot/cold water) or pathological (e.g., cerebellar disease).",
+          "notes": {
+            "A": "Physiological (optokinetic) nystagmus occurs.",
+            "B": "Nystagmus is vestibular, not cochlear.",
+            "D": "Body-temperature fluid causes no convection current.",
+            "E": "Nystagmus often reduces acuity."
+          },
+          "topicId": "sen-ear",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-495",
+          "type": "single-best",
+          "stem": "Taste receptors:",
+          "options": [
+            {
+              "label": "A",
+              "text": "for sweet, sour, salt and bitter are spatially separated on the surface of the tongue"
+            },
+            {
+              "label": "B",
+              "text": "are synonymous with taste buds"
+            },
+            {
+              "label": "C",
+              "text": "are a type of chemoreceptors"
+            },
+            {
+              "label": "D",
+              "text": "are innervated by afferents in the facial, trigeminal and glossopharyngeal nerves"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Taste receptor cells are chemoreceptors sitting in taste buds (a taste bud contains 50–100 receptor cells, so the terms are not synonymous). They are innervated by the facial, glossopharyngeal and vagus nerves, not the trigeminal, and all five tastes are sensed all over the tongue.",
+          "notes": {
+            "A": "All tastes are sensed over the whole tongue.",
+            "B": "Taste buds CONTAIN many receptor cells.",
+            "D": "The trigeminal nerve carries touch, not taste (VII, IX and X carry taste).",
+            "E": "A, B and D are false."
+          },
+          "topicId": "sen-chem",
+          "subtopic": "",
+          "difficulty": "hard",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-senses-499",
+          "type": "single-best",
+          "stem": "The sense that certain foods are sweet is due to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "fungiform papillae"
+            },
+            {
+              "label": "B",
+              "text": "taste buds of the soft palate"
+            },
+            {
+              "label": "C",
+              "text": "foliate papillae"
+            },
+            {
+              "label": "D",
+              "text": "circumvallate papillae"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Taste buds for sweetness are located on fungiform, foliate, and circumvallate papillae. (Filiform papillae do not contain taste buds).",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "sen-chem",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-senses-501",
+          "type": "single-best",
+          "stem": "These receptors react to foods treated with monosodium glutamate:",
+          "options": [
+            {
+              "label": "A",
+              "text": "salt"
+            },
+            {
+              "label": "B",
+              "text": "sour"
+            },
+            {
+              "label": "C",
+              "text": "bitter"
+            },
+            {
+              "label": "D",
+              "text": "sweet"
+            },
+            {
+              "label": "E",
+              "text": "umami"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Umami is the savory taste specifically elicited by glutamate (MSG).",
+          "notes": {
+            "A": "Salt is sensed through Na+ channels.",
+            "B": "Sour is H+.",
+            "C": "Bitter responds to alkaloids.",
+            "D": "Sweet responds to sugars."
+          },
+          "topicId": "sen-chem",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-505",
+          "type": "single-best",
+          "stem": "Olfactory tract damage would probably affect the ability to?",
+          "options": [
+            {
+              "label": "A",
+              "text": "see"
+            },
+            {
+              "label": "B",
+              "text": "hear"
+            },
+            {
+              "label": "C",
+              "text": "feel pain"
+            },
+            {
+              "label": "D",
+              "text": "smell"
+            },
+            {
+              "label": "E",
+              "text": "speak"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "The olfactory tract carries signals from the olfactory bulbs to the brain for the sense of smell.",
+          "notes": {
+            "A": "Vision uses the optic pathway.",
+            "B": "Hearing uses CN VIII.",
+            "C": "Pain uses the spinothalamic pathway.",
+            "E": "Speech is motor."
+          },
+          "topicId": "sen-chem",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-506",
+          "type": "single-best",
+          "stem": "Where are taste buds found?",
+          "options": [
+            {
+              "label": "A",
+              "text": "anterior part of the tongue"
+            },
+            {
+              "label": "B",
+              "text": "posterior part of the tongue"
+            },
+            {
+              "label": "C",
+              "text": "palate"
+            },
+            {
+              "label": "D",
+              "text": "lips"
+            },
+            {
+              "label": "E",
+              "text": "a, b, and c"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Taste buds are found on the tongue (anterior and posterior), the palate, and the epiglottis.",
+          "notes": {
+            "A": "True, but also elsewhere.",
+            "B": "True, but also elsewhere.",
+            "C": "True, but also elsewhere.",
+            "D": "The lips have no taste buds."
+          },
+          "topicId": "sen-chem",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-senses-507",
+          "type": "single-best",
+          "stem": "Cells in the olfactory bulb that act as local 'integrators' of olfactory inputs are the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "hair cells"
+            },
+            {
+              "label": "B",
+              "text": "granule cells"
+            },
+            {
+              "label": "C",
+              "text": "basal cells"
+            },
+            {
+              "label": "D",
+              "text": "mitral cells"
+            },
+            {
+              "label": "E",
+              "text": "supporting cells"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Mitral cells are the principal projection neurons of the olfactory bulb that integrate signals from olfactory receptor neurons.",
+          "notes": {
+            "A": "Hair cells are in the ear.",
+            "B": "Granule cells are inhibitory interneurons.",
+            "C": "Basal cells are stem cells in the epithelium.",
+            "E": "Supporting cells are in the epithelium."
+          },
+          "topicId": "sen-chem",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-512",
+          "type": "single-best",
+          "stem": "Olfactory cells:",
+          "options": [
+            {
+              "label": "A",
+              "text": "are epithelial cells which synapse with olfactory nerves"
+            },
+            {
+              "label": "B",
+              "text": "generate impulses when stimulated which are relayed in the thalamus"
+            },
+            {
+              "label": "C",
+              "text": "are chemoreceptors"
+            },
+            {
+              "label": "D",
+              "text": "show little adaptation"
+            },
+            {
+              "label": "E",
+              "text": "are less important than taste in appreciating the flavour of food"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Olfactory receptor cells are bipolar neurons (chemoreceptors) that detect odorant molecules.",
+          "notes": {
+            "A": "They are bipolar NEURONS.",
+            "B": "Smell largely bypasses the thalamus.",
+            "D": "They adapt quickly.",
+            "E": "Smell contributes MORE to flavour."
+          },
+          "topicId": "sen-chem",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-516",
+          "type": "single-best",
+          "stem": "Increasing the salt concentration applied to a 'salt' taste bud increases:",
+          "options": [
+            {
+              "label": "A",
+              "text": "its sensitivity to salt"
+            },
+            {
+              "label": "B",
+              "text": "the amplitude of its generator potentials and impulse traffic to the thalamus"
+            },
+            {
+              "label": "C",
+              "text": "the amplitude of the action potentials generated"
+            },
+            {
+              "label": "D",
+              "text": "impulse traffic to the anterior pituitary"
+            },
+            {
+              "label": "E",
+              "text": "impulse traffic to the adrenal medulla"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Higher stimulus intensity (salt concentration) increases the amplitude of the receptor (generator) potential and the frequency of action potentials sent to the brain.",
+          "notes": {
+            "A": "Sensitivity does not rise; receptors adapt.",
+            "C": "Action potentials are all-or-none.",
+            "D": "Taste is not relayed to the pituitary.",
+            "E": "Taste is not relayed to the adrenal medulla."
+          },
+          "topicId": "sen-chem",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-519",
+          "type": "single-best",
+          "stem": "The olfactory system can detect:",
+          "options": [
+            {
+              "label": "A",
+              "text": "only 20-40 distinct odours"
+            },
+            {
+              "label": "B",
+              "text": "the direction from which an odour comes and differences in odour between isomers of the same substance"
+            },
+            {
+              "label": "C",
+              "text": "odours equally well at all ages"
+            },
+            {
+              "label": "D",
+              "text": "small differences in the concentration of an odorant"
+            },
+            {
+              "label": "E",
+              "text": "odours better in old than in young people"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "The olfactory system is highly sensitive and can distinguish between subtle differences in chemical structures (isomers).",
+          "notes": {
+            "A": "Thousands of odours can be detected.",
+            "C": "Smell declines with age.",
+            "D": "Concentration discrimination is poor (about 30%).",
+            "E": "Young people smell better."
+          },
+          "topicId": "sen-chem",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-senses-530",
+          "type": "single-best",
+          "stem": "The receptor cells serving taste:",
+          "options": [
+            {
+              "label": "A",
+              "text": "are confined to the tongue"
+            },
+            {
+              "label": "B",
+              "text": "are stimulated when chemicals diffuse through the overlying epithelium to reach them"
+            },
+            {
+              "label": "C",
+              "text": "are primary sensory neurones"
+            },
+            {
+              "label": "D",
+              "text": "are histologically different for the four primary taste modalities"
+            },
+            {
+              "label": "E",
+              "text": "for sweetness are more common at the tip than at the back of the tongue"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Taste buds for sweetness are concentrated at the tip of the tongue (though modern science shows they are not exclusively there).",
+          "notes": {
+            "A": "They are also on the palate, pharynx and epiglottis.",
+            "B": "Chemicals reach them through the taste pore.",
+            "C": "They are modified epithelial cells.",
+            "D": "They look alike."
+          },
+          "topicId": "sen-chem",
+          "subtopic": "",
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ]
+}

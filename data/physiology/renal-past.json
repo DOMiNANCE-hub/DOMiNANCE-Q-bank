@@ -1,0 +1,4143 @@
+{
+  "sets": [
+    {
+      "id": "renal-past",
+      "title": "Renal physiology past questions",
+      "questions": [
+        {
+          "id": "phy-renal-337",
+          "type": "single-best",
+          "stem": "The nephron:",
+          "options": [
+            {
+              "label": "A",
+              "text": "has endocrine functions"
+            },
+            {
+              "label": "B",
+              "text": "is lined by a single layer of epithelial cells"
+            },
+            {
+              "label": "C",
+              "text": "is under endocrine control"
+            },
+            {
+              "label": "D",
+              "text": "absorbs more ions and molecules than it secretes"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "The nephron reabsorbs the vast majority of filtered ions and molecules, is under endocrine control (ADH, aldosterone), and has endocrine roles (e.g., renin, EPO).",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "ren-general",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-338",
+          "type": "single-best",
+          "stem": "The control of water excretion in the kidney is controlled by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the antidiuretic hormone (ADH)"
+            },
+            {
+              "label": "B",
+              "text": "the medulla oblongata"
+            },
+            {
+              "label": "C",
+              "text": "blood plasma"
+            },
+            {
+              "label": "D",
+              "text": "sodium amount in the blood"
+            },
+            {
+              "label": "E",
+              "text": "potassium amount in the blood"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "ADH (vasopressin) is the primary regulator of water reabsorption in the collecting ducts.",
+          "notes": {
+            "B": "The medulla does not set water excretion.",
+            "C": "Plasma is what is filtered, not the controller.",
+            "D": "Sodium affects osmolality, which then acts through ADH.",
+            "E": "Potassium does not control water excretion."
+          },
+          "topicId": "ren-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-339",
+          "type": "single-best",
+          "stem": "The kidneys have a direct effect on which of the following?",
+          "options": [
+            {
+              "label": "A",
+              "text": "blood pressure"
+            },
+            {
+              "label": "B",
+              "text": "how much water a person excretes"
+            },
+            {
+              "label": "C",
+              "text": "total blood volume"
+            },
+            {
+              "label": "D",
+              "text": "pH"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "The kidneys regulate BP (RAAS), fluid volume, water excretion, and acid-base balance (pH).",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "ren-general",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-345",
+          "type": "single-best",
+          "stem": "Urinary volume is increased with:",
+          "options": [
+            {
+              "label": "A",
+              "text": "consumption of alcohol"
+            },
+            {
+              "label": "B",
+              "text": "hyperglycemia"
+            },
+            {
+              "label": "C",
+              "text": "increased aldosterone secretion"
+            },
+            {
+              "label": "D",
+              "text": "damage to the posterior pituitary"
+            },
+            {
+              "label": "E",
+              "text": "a, b, and d"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Alcohol inhibits ADH (diuresis). Hyperglycemia causes osmotic diuresis. Posterior pituitary damage causes diabetes insipidus (lack of ADH).",
+          "notes": {
+            "A": "True, but B and D are also true.",
+            "B": "True, but A and D are also true.",
+            "C": "Aldosterone retains Na+ and water, so urine volume falls.",
+            "D": "True, but A and B are also true."
+          },
+          "topicId": "ren-general",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-347",
+          "type": "single-best",
+          "stem": "The antidiuretic hormone (ADH):",
+          "options": [
+            {
+              "label": "A",
+              "text": "decreases the osmolarity of urine"
+            },
+            {
+              "label": "B",
+              "text": "decreases the volume of urine"
+            },
+            {
+              "label": "C",
+              "text": "increases the reabsorption of water in the proximal tubules"
+            },
+            {
+              "label": "D",
+              "text": "is synthesized in the posterior pituitary gland"
+            },
+            {
+              "label": "E",
+              "text": "increases the excretion of glucose"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "ADH increases water reabsorption in the collecting ducts, thereby decreasing urine volume.",
+          "notes": {
+            "A": "Urine osmolality RISES.",
+            "C": "It acts on the collecting duct.",
+            "D": "It is made in the hypothalamus.",
+            "E": "No effect on glucose."
+          },
+          "topicId": "ren-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-348",
+          "type": "single-best",
+          "stem": "Regarding the kidneys:",
+          "options": [
+            {
+              "label": "A",
+              "text": "there are 1.3 million nephrons in each kidney"
+            },
+            {
+              "label": "B",
+              "text": "they produce aldosterone"
+            },
+            {
+              "label": "C",
+              "text": "they receive 12% of the cardiac output at rest"
+            },
+            {
+              "label": "D",
+              "text": "more blood flows through the renal cortex than the renal medulla"
+            },
+            {
+              "label": "E",
+              "text": "a, and d"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Each kidney has ~1 million nephrons. The cortex receives the vast majority of renal blood flow (~90%).",
+          "notes": {
+            "A": "True (about 1 million), but D is also true.",
+            "B": "Aldosterone is adrenal.",
+            "C": "They receive about 20–25%.",
+            "D": "True, but A is also true."
+          },
+          "topicId": "ren-general",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-352",
+          "type": "single-best",
+          "stem": "The glomerular capillaries have the following functions:",
+          "options": [
+            {
+              "label": "A",
+              "text": "blood plasma filtration"
+            },
+            {
+              "label": "B",
+              "text": "hormone secretion"
+            },
+            {
+              "label": "C",
+              "text": "water secretion"
+            },
+            {
+              "label": "D",
+              "text": "formation of primary urine"
+            },
+            {
+              "label": "E",
+              "text": "a, and d"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "The glomerulus filters blood plasma to form primary urine (ultrafiltrate).",
+          "notes": {
+            "A": "True, but so is D.",
+            "B": "Hormones come from JG cells.",
+            "C": "Water is filtered, not secreted.",
+            "D": "True, but so is A."
+          },
+          "topicId": "ren-general",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-353",
+          "type": "single-best",
+          "stem": "The obligatory urine volume (the minimum needed to excrete the daily solute load) is about:",
+          "options": [
+            {
+              "label": "A",
+              "text": "100 ml"
+            },
+            {
+              "label": "B",
+              "text": "300 ml"
+            },
+            {
+              "label": "C",
+              "text": "1500 ml"
+            },
+            {
+              "label": "D",
+              "text": "2500 ml"
+            },
+            {
+              "label": "E",
+              "text": "500 ml"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "About 600 mOsm of solute must be excreted each day, and the kidney can concentrate urine to at most about 1200 mOsm/L, so at least about 0.5 L of urine is needed.",
+          "notes": {
+            "A": "Too small to carry the solute load.",
+            "B": "Too small to carry the solute load.",
+            "C": "That is a normal output, not the minimum.",
+            "D": "Larger than the minimum."
+          },
+          "topicId": "ren-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-354",
+          "type": "single-best",
+          "stem": "Blood flow per gram of tissue at rest is highest in the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "brain"
+            },
+            {
+              "label": "B",
+              "text": "liver"
+            },
+            {
+              "label": "C",
+              "text": "kidneys"
+            },
+            {
+              "label": "D",
+              "text": "heart"
+            },
+            {
+              "label": "E",
+              "text": "skin"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "The kidneys receive ~20-25% of resting cardiac output, the highest per gram of tissue.",
+          "notes": {
+            "A": "The brain gets about 55 ml/100 g/min.",
+            "B": "The liver receives more in total, but less per gram.",
+            "D": "The heart gets about 70–80 ml/100 g/min.",
+            "E": "Skin flow is low at rest."
+          },
+          "topicId": "ren-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-355",
+          "type": "single-best",
+          "stem": "Renal blood flow depends on:",
+          "options": [
+            {
+              "label": "A",
+              "text": "juxtaglomerular apparatus"
+            },
+            {
+              "label": "B",
+              "text": "[Na+] at macula densa"
+            },
+            {
+              "label": "C",
+              "text": "afferent vasodilatation"
+            },
+            {
+              "label": "D",
+              "text": "arterial pressure"
+            },
+            {
+              "label": "E",
+              "text": "efferent vasoconstriction"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Renal blood flow is directly dependent on systemic arterial pressure (though autoregulated within a range).",
+          "notes": {
+            "A": "Part of control, not the determinant.",
+            "B": "Acts through tubuloglomerular feedback.",
+            "C": "Dilatation RAISES flow, but pressure is the driver.",
+            "E": "This raises resistance and LOWERS flow."
+          },
+          "topicId": "ren-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-360",
+          "type": "single-best",
+          "stem": "Kidneys produce:",
+          "options": [
+            {
+              "label": "A",
+              "text": "erythropoietin"
+            },
+            {
+              "label": "B",
+              "text": "ADH"
+            },
+            {
+              "label": "C",
+              "text": "angiotensin II"
+            },
+            {
+              "label": "D",
+              "text": "ANP"
+            },
+            {
+              "label": "E",
+              "text": "cholecalciferol"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "The kidneys produce erythropoietin in response to hypoxia to stimulate RBC production.",
+          "notes": {
+            "B": "ADH comes from the hypothalamus.",
+            "C": "Most conversion happens in the lungs.",
+            "D": "ANP comes from the heart.",
+            "E": "The kidney makes CALCITRIOL; cholecalciferol is made in the skin."
+          },
+          "topicId": "ren-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-363",
+          "type": "single-best",
+          "stem": "The kidneys filter from the blood every day about:",
+          "options": [
+            {
+              "label": "A",
+              "text": "1000 ml"
+            },
+            {
+              "label": "B",
+              "text": "180 l"
+            },
+            {
+              "label": "C",
+              "text": "18 l"
+            },
+            {
+              "label": "D",
+              "text": "50 l"
+            },
+            {
+              "label": "E",
+              "text": "8 l"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "GFR is ~125 mL/min, which totals about 180 liters per day.",
+          "notes": {
+            "A": "Too low.",
+            "C": "Too low.",
+            "D": "Too low.",
+            "E": "Too low."
+          },
+          "topicId": "ren-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-364",
+          "type": "single-best",
+          "stem": "Direct control of water excretion in the kidneys is controlled by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the antidiuretic hormone"
+            },
+            {
+              "label": "B",
+              "text": "the medulla oblongata"
+            },
+            {
+              "label": "C",
+              "text": "aldosterone"
+            },
+            {
+              "label": "D",
+              "text": "sodium amounts in the blood"
+            },
+            {
+              "label": "E",
+              "text": "adrenal cortex"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "ADH directly controls water permeability in the collecting ducts.",
+          "notes": {
+            "B": "The medulla does not set water excretion.",
+            "C": "Aldosterone acts on Na+, with water following.",
+            "D": "Sodium acts indirectly, through ADH.",
+            "E": "The adrenal cortex does not directly control water."
+          },
+          "topicId": "ren-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-384",
+          "type": "single-best",
+          "stem": "Long-standing obstruction of the urethra may cause:",
+          "options": [
+            {
+              "label": "A",
+              "text": "enlargement of the prostate gland"
+            },
+            {
+              "label": "B",
+              "text": "dystrophy of the bladder muscle"
+            },
+            {
+              "label": "C",
+              "text": "dilation of the ureters and reduction of the glomerular filtration rate"
+            },
+            {
+              "label": "D",
+              "text": "increase and reduction of the glomerular filtration rate"
+            },
+            {
+              "label": "E",
+              "text": "a decrease in residual volume in the bladder"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Urinary obstruction increases pressure backwards, causing hydroureter (dilation) and eventually damaging the kidneys, reducing GFR.",
+          "notes": {
+            "A": "Prostate enlargement is a CAUSE.",
+            "B": "The bladder muscle HYPERtrophies.",
+            "D": "Contradictory.",
+            "E": "Residual volume RISES."
+          },
+          "topicId": "ren-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-385",
+          "type": "single-best",
+          "stem": "Emptying of the bladder may be less effective if:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the sympathetic nerves carrying afferent information from bladder to the spinal cord are cut"
+            },
+            {
+              "label": "B",
+              "text": "the pelvic nerves are cut or anticholinergic drugs are administered"
+            },
+            {
+              "label": "C",
+              "text": "cholinergic agonists are administered"
+            },
+            {
+              "label": "D",
+              "text": "alpha- adrenergic receptor antagonists are administered"
+            },
+            {
+              "label": "E",
+              "text": "beta- adrenergic receptor blockers are administered"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "The pelvic nerves (parasympathetic) control detrusor muscle contraction during voiding. Cutting them or using anticholinergics impairs bladder emptying.",
+          "notes": {
+            "A": "Bladder afferents mainly run in the pelvic nerves.",
+            "C": "Cholinergic agonists HELP emptying.",
+            "D": "α blockers HELP emptying.",
+            "E": "β blockers have little effect."
+          },
+          "topicId": "ren-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-388",
+          "type": "single-best",
+          "stem": "A patient with chronic renal failure usually has:",
+          "options": [
+            {
+              "label": "A",
+              "text": "an increased blood urea and blood uric acid"
+            },
+            {
+              "label": "B",
+              "text": "a decreased blood uric acid"
+            },
+            {
+              "label": "C",
+              "text": "an increased creatinine clearance"
+            },
+            {
+              "label": "D",
+              "text": "an increased acid- base disturbance when he or she vomits"
+            },
+            {
+              "label": "E",
+              "text": "an increased acid- base problem on a low protein diet"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Renal failure impairs the excretion of nitrogenous waste, leading to elevated blood urea (uremia) and uric acid.",
+          "notes": {
+            "B": "Uric acid RISES.",
+            "C": "Clearance FALLS.",
+            "D": "Vomiting causes alkalosis that partly offsets the acidosis.",
+            "E": "A low-protein diet REDUCES the acid load."
+          },
+          "topicId": "ren-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-389",
+          "type": "single-best",
+          "stem": "Cutting the sympathetic nerves to the bladder may cause:",
+          "options": [
+            {
+              "label": "A",
+              "text": "difficulty in emptying the bladder"
+            },
+            {
+              "label": "B",
+              "text": "loss of tone in the internal sphincter of the bladder and loss of pain sensation in the bladder"
+            },
+            {
+              "label": "C",
+              "text": "loss of tone in the external sphincter of the bladder"
+            },
+            {
+              "label": "D",
+              "text": "increased pain sensation in the bladder"
+            },
+            {
+              "label": "E",
+              "text": "infertility in the female"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Sympathetic nerves control the internal sphincter (contraction) and carry pain afferents. Cutting them causes the sphincter to lose tone.",
+          "notes": {
+            "A": "Emptying is parasympathetic.",
+            "C": "The external sphincter is somatic (pudendal).",
+            "D": "Pain is LOST.",
+            "E": "Not a recognised effect."
+          },
+          "topicId": "ren-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-390",
+          "type": "single-best",
+          "stem": "Acute renal failure differs from chronic renal failure in that:",
+          "options": [
+            {
+              "label": "A",
+              "text": "potassium retention tends to be more severe"
+            },
+            {
+              "label": "B",
+              "text": "blood urea levels tend to be higher"
+            },
+            {
+              "label": "C",
+              "text": "depression of bone marrow activity is unlikely to occur"
+            },
+            {
+              "label": "D",
+              "text": "metabolic acidosis is usually not a problem"
+            },
+            {
+              "label": "E",
+              "text": "dietary protein restriction is unnecessary"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Acute renal failure often causes severe, rapid hyperkalemia, which can be life-threatening.",
+          "notes": {
+            "B": "Urea rises more in chronic failure.",
+            "C": "Marrow depression (no EPO) can occur.",
+            "D": "Acidosis IS a problem.",
+            "E": "Protein restriction helps."
+          },
+          "topicId": "ren-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-392",
+          "type": "single-best",
+          "stem": "The inhibition of the antidiuretic hormone (ADH), say by alcohol, would have what affect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "constriction of the afferent arteriole"
+            },
+            {
+              "label": "B",
+              "text": "inhibition of diuresis"
+            },
+            {
+              "label": "C",
+              "text": "stimulation of water conservation"
+            },
+            {
+              "label": "D",
+              "text": "constriction of the efferent arteriole"
+            },
+            {
+              "label": "E",
+              "text": "reduction in water reabsorption by the kidneys"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Inhibiting ADH prevents water reabsorption in the collecting ducts, causing diuresis.",
+          "notes": {
+            "A": "Not an ADH action.",
+            "B": "Diuresis INCREASES.",
+            "C": "Water is LOST.",
+            "D": "Not an ADH action."
+          },
+          "topicId": "ren-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-418",
+          "type": "single-best",
+          "stem": "The formation of the final urine is achieved by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "filtration, diffusion and secretion"
+            },
+            {
+              "label": "B",
+              "text": "reabsorption, osmosis and diffusion"
+            },
+            {
+              "label": "C",
+              "text": "filtration, reabsorption and secretion"
+            },
+            {
+              "label": "D",
+              "text": "filtration, secretion and paracrinia"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Urine formation involves three processes: glomerular filtration, tubular reabsorption, and tubular secretion.",
+          "notes": {
+            "A": "Leaves out reabsorption.",
+            "B": "Leaves out filtration and secretion.",
+            "D": "Paracrine action is not a step.",
+            "E": "Only C is correct."
+          },
+          "topicId": "ren-general",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-419",
+          "type": "single-best",
+          "stem": "Normal diuresis per 24h is about:",
+          "options": [
+            {
+              "label": "A",
+              "text": "500 ml"
+            },
+            {
+              "label": "B",
+              "text": "1.5 - 2 l"
+            },
+            {
+              "label": "C",
+              "text": "5 l"
+            },
+            {
+              "label": "D",
+              "text": "120 - 180 l"
+            },
+            {
+              "label": "E",
+              "text": "15 l"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Normal urine output is about 1.5 to 2 liters per day.",
+          "notes": {
+            "A": "That is oliguria.",
+            "C": "Polyuria.",
+            "D": "That is the GFR per day.",
+            "E": "Severe polyuria."
+          },
+          "topicId": "ren-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-420",
+          "type": "single-best",
+          "stem": "Volume of plasma, totally cleared from a substance when passing through the kidneys per unit time is called:",
+          "options": [
+            {
+              "label": "A",
+              "text": "diuresis"
+            },
+            {
+              "label": "B",
+              "text": "formation of final urine"
+            },
+            {
+              "label": "C",
+              "text": "glomerular filtration"
+            },
+            {
+              "label": "D",
+              "text": "transport maximum"
+            },
+            {
+              "label": "E",
+              "text": "clearance"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "This is the definition of renal clearance.",
+          "notes": {
+            "A": "Diuresis is urine flow.",
+            "B": "Vague.",
+            "C": "Filtration is a different measure.",
+            "D": "Tm is a transport limit."
+          },
+          "topicId": "ren-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-434",
+          "type": "single-best",
+          "stem": "All the following substances are synthesized in the kidneys, except:",
+          "options": [
+            {
+              "label": "A",
+              "text": "prostaglandines"
+            },
+            {
+              "label": "B",
+              "text": "bradykinins"
+            },
+            {
+              "label": "C",
+              "text": "ADH"
+            },
+            {
+              "label": "D",
+              "text": "calstiriol"
+            },
+            {
+              "label": "E",
+              "text": "renin"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "ADH is synthesized in the hypothalamus, not the kidneys.",
+          "notes": {
+            "A": "Made in the kidney.",
+            "B": "Made in the kidney.",
+            "D": "Activated in the kidney.",
+            "E": "Made in the kidney."
+          },
+          "topicId": "ren-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-443",
+          "type": "single-best",
+          "stem": "The secretion of less than 500 ml final urine per 24 hours is termed:",
+          "options": [
+            {
+              "label": "A",
+              "text": "polyuria"
+            },
+            {
+              "label": "B",
+              "text": "polydypsia"
+            },
+            {
+              "label": "C",
+              "text": "oliguria"
+            },
+            {
+              "label": "D",
+              "text": "anuria"
+            },
+            {
+              "label": "E",
+              "text": "glucosuria"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Oliguria is defined as abnormally low urine output (<400-500 mL/day).",
+          "notes": {
+            "A": "Excess urine.",
+            "B": "Excess drinking.",
+            "D": "Anuria is under about 100 ml/day.",
+            "E": "Glucose in the urine."
+          },
+          "topicId": "ren-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-444",
+          "type": "single-best",
+          "stem": "The nerve center, controlling the secretion of urine is located in:",
+          "options": [
+            {
+              "label": "A",
+              "text": "midbrain"
+            },
+            {
+              "label": "B",
+              "text": "medulla oblongata"
+            },
+            {
+              "label": "C",
+              "text": "the thoracic segments of the spinal cord"
+            },
+            {
+              "label": "D",
+              "text": "the sacral segments of the spinal cord"
+            },
+            {
+              "label": "E",
+              "text": "the lumbar segments of the spinal cord"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Micturition (urination) reflexes are integrated in the sacral segments of the spinal cord (S2-S4).",
+          "notes": {
+            "A": "The pontine centre modulates, but the reflex is sacral.",
+            "B": "Not the micturition centre.",
+            "C": "Thoracolumbar outflow is sympathetic (storage).",
+            "E": "Lumbar outflow is sympathetic."
+          },
+          "topicId": "ren-general",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-343",
+          "type": "single-best",
+          "stem": "The glomerulus:",
+          "options": [
+            {
+              "label": "A",
+              "text": "has both afferent and efferent arterioles"
+            },
+            {
+              "label": "B",
+              "text": "contains capillaries, which are at a higher hydrostatic pressure than the peritubular capillaries"
+            },
+            {
+              "label": "C",
+              "text": "filters 20% of the renal plasma flow"
+            },
+            {
+              "label": "D",
+              "text": "contains renin-secreting cells"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "All statements are true. The glomerulus is a high-pressure capillary bed between two arterioles, filtering about 20% of renal plasma flow.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "ren-gfr",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-351",
+          "type": "single-best",
+          "stem": "Stimulation of the sympathetic nerves cause the following effects:",
+          "options": [
+            {
+              "label": "A",
+              "text": "low diuresis"
+            },
+            {
+              "label": "B",
+              "text": "decreased net filtration pressure"
+            },
+            {
+              "label": "C",
+              "text": "increased glucose urine level"
+            },
+            {
+              "label": "D",
+              "text": "decreased glucose urine level"
+            },
+            {
+              "label": "E",
+              "text": "a, and b"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Sympathetic stimulation constricts renal arterioles, decreasing GFR and renal blood flow, leading to low diuresis.",
+          "notes": {
+            "A": "True, but so is B.",
+            "B": "True, but so is A.",
+            "C": "Glucose handling is unaffected.",
+            "D": "Glucose handling is unaffected."
+          },
+          "topicId": "ren-gfr",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-356",
+          "type": "single-best",
+          "stem": "Which of the following substances has the highest renal clearance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "PAH"
+            },
+            {
+              "label": "B",
+              "text": "glucose"
+            },
+            {
+              "label": "C",
+              "text": "urea"
+            },
+            {
+              "label": "D",
+              "text": "water"
+            },
+            {
+              "label": "E",
+              "text": "inulin"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "PAH (para-aminohippuric acid) is almost completely cleared from the plasma in one pass through the kidney, giving it the highest clearance.",
+          "notes": {
+            "B": "Glucose clearance is zero.",
+            "C": "About 70 ml/min.",
+            "D": "Free water clearance varies.",
+            "E": "About 125 ml/min."
+          },
+          "topicId": "ren-gfr",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-358",
+          "type": "single-best",
+          "stem": "Which of the following is involved in the regulation of glomerular filtration rate (GFR)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "juxtaglomerular apparatus"
+            },
+            {
+              "label": "B",
+              "text": "afferent arteriolar tone"
+            },
+            {
+              "label": "C",
+              "text": "efferent arteriolar tone"
+            },
+            {
+              "label": "D",
+              "text": "chloride transport at the macula densa"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "GFR is regulated by tubuloglomerular feedback (macula densa/JGA) and by the tone of afferent and efferent arterioles.",
+          "notes": {
+            "A": "True, but so are the others.",
+            "B": "True, but so are the others.",
+            "C": "True, but so are the others.",
+            "D": "True, but so are the others."
+          },
+          "topicId": "ren-gfr",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-361",
+          "type": "single-best",
+          "stem": "Increase in GFR occurs when there is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "increased sympathetic stimulation"
+            },
+            {
+              "label": "B",
+              "text": "decreased renal blood flow"
+            },
+            {
+              "label": "C",
+              "text": "hypoproteinaeimia"
+            },
+            {
+              "label": "D",
+              "text": "ureteric obstruction"
+            },
+            {
+              "label": "E",
+              "text": "none of the above"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Hypoproteinemia lowers plasma oncotic pressure, increasing the net filtration pressure and thus GFR.",
+          "notes": {
+            "A": "Reduces GFR.",
+            "B": "Reduces GFR.",
+            "D": "Raises capsule pressure, reducing GFR.",
+            "E": "Option C is correct."
+          },
+          "topicId": "ren-gfr",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-368",
+          "type": "single-best",
+          "stem": "The renal clearance of a substance:",
+          "options": [
+            {
+              "label": "A",
+              "text": "is inversely related to its urinary concentration, U"
+            },
+            {
+              "label": "B",
+              "text": "is directly related to the rate of urine formation, and is expressed in units of volume per unit time"
+            },
+            {
+              "label": "C",
+              "text": "is directly related to its plasma concentration, P"
+            },
+            {
+              "label": "D",
+              "text": "is expressed in mm Hg"
+            },
+            {
+              "label": "E",
+              "text": "must fall in the presence of metabolic poisons"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Clearance (C = U*V/P) is the volume of plasma completely cleared of a substance per unit time (mL/min).",
+          "notes": {
+            "A": "Clearance is DIRECTLY related to U.",
+            "C": "It is INVERSELY related to P.",
+            "D": "It is a volume per time.",
+            "E": "Not necessarily."
+          },
+          "topicId": "ren-gfr",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-373",
+          "type": "single-best",
+          "stem": "When a patient's mean arterial blood pressure falls by 50%:",
+          "options": [
+            {
+              "label": "A",
+              "text": "renal blood flow increases"
+            },
+            {
+              "label": "B",
+              "text": "glomerular filtration increases"
+            },
+            {
+              "label": "C",
+              "text": "there is a decrease in the circulating aldosterone level"
+            },
+            {
+              "label": "D",
+              "text": "renal vasoconstriction occurs"
+            },
+            {
+              "label": "E",
+              "text": "urinary output is increased"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "A severe drop in MAP triggers sympathetic-mediated renal vasoconstriction (especially of the afferent arteriole) to maintain systemic BP.",
+          "notes": {
+            "A": "Flow FALLS.",
+            "B": "GFR FALLS.",
+            "C": "Aldosterone RISES.",
+            "E": "Output FALLS."
+          },
+          "topicId": "ren-gfr",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-375",
+          "type": "single-best",
+          "stem": "Renal blood flow falls:",
+          "options": [
+            {
+              "label": "A",
+              "text": "about 10% when arterial pressure increases 10% above normal"
+            },
+            {
+              "label": "B",
+              "text": "about 5% when metabolic activity in the kidney falls by 5%"
+            },
+            {
+              "label": "C",
+              "text": "during emotional stress"
+            },
+            {
+              "label": "D",
+              "text": "after small haemorrhage"
+            },
+            {
+              "label": "E",
+              "text": "gradually from the inner medulla to the outer cortex per unit weight of tissue"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Emotional stress triggers sympathetic activation, causing renal vasoconstriction and decreased renal blood flow.",
+          "notes": {
+            "A": "Autoregulation keeps flow constant.",
+            "B": "Flow does not track metabolism.",
+            "D": "Autoregulation buffers a small bleed.",
+            "E": "Flow is HIGHEST in the cortex."
+          },
+          "topicId": "ren-gfr",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-377",
+          "type": "single-best",
+          "stem": "The renal clearance of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "inulin provides an estimate of glomerular filtration rate"
+            },
+            {
+              "label": "B",
+              "text": "chloride increases after an injection of aldosterone"
+            },
+            {
+              "label": "C",
+              "text": "PAH falls when the PAH load exceeds the Tm for PAH"
+            },
+            {
+              "label": "D",
+              "text": "urea is higher than that of inulin"
+            },
+            {
+              "label": "E",
+              "text": "inulin is dependent of its plasma concentration"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Inulin clearance is the gold standard for measuring GFR because it is freely filtered and neither secreted nor reabsorbed.",
+          "notes": {
+            "B": "Aldosterone DECREASES Cl- clearance.",
+            "C": "PAH clearance falls above Tm, but this does not estimate GFR.",
+            "D": "Urea is lower (reabsorbed).",
+            "E": "Inulin clearance is INDEPENDENT of concentration."
+          },
+          "topicId": "ren-gfr",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-380",
+          "type": "single-best",
+          "stem": "The renal clearance:",
+          "options": [
+            {
+              "label": "A",
+              "text": "of glucose is above 0, if the plasma concentration of a given substance is below 11 mmol·1-1"
+            },
+            {
+              "label": "B",
+              "text": "of urea is higher than creatinin's one"
+            },
+            {
+              "label": "C",
+              "text": "of glucose provides an estimate of renal plasma flow"
+            },
+            {
+              "label": "D",
+              "text": "of phosphate is decreased by parathormone"
+            },
+            {
+              "label": "E",
+              "text": "of proteins is normally zero"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Proteins are too large to be filtered by the glomerulus, so their clearance is normally zero.",
+          "notes": {
+            "A": "Glucose clearance is zero below threshold.",
+            "B": "Urea is lower.",
+            "C": "PAH estimates plasma flow.",
+            "D": "PTH INCREASES phosphate clearance."
+          },
+          "topicId": "ren-gfr",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-421",
+          "type": "single-best",
+          "stem": "The glomerular filtration is estimated via the clearance of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "PAHA"
+            },
+            {
+              "label": "B",
+              "text": "glucose"
+            },
+            {
+              "label": "C",
+              "text": "urea"
+            },
+            {
+              "label": "D",
+              "text": "inulin and creatinin"
+            },
+            {
+              "label": "E",
+              "text": "sodium"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Inulin and creatinine are used to measure GFR because they are freely filtered and not reabsorbed or secreted.",
+          "notes": {
+            "A": "PAH estimates plasma flow.",
+            "B": "Glucose clearance is zero.",
+            "C": "Urea is partly reabsorbed.",
+            "E": "Na+ is reabsorbed."
+          },
+          "topicId": "ren-gfr",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-423",
+          "type": "single-best",
+          "stem": "If the clearance of a substance is higher than the clearance of inuline:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the substance is additionally reabsorbed in the tubules"
+            },
+            {
+              "label": "B",
+              "text": "the substance is additionally secreted in the tubules"
+            },
+            {
+              "label": "C",
+              "text": "the substance is either additionally reabsorbed or secreted"
+            },
+            {
+              "label": "D",
+              "text": "the substance is transported with proteins in the tubules"
+            },
+            {
+              "label": "E",
+              "text": "the substance is secreted in the proximal more than in the distal tubule"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "If clearance > inulin clearance, the kidneys are adding the substance to the urine via tubular secretion.",
+          "notes": {
+            "A": "Reabsorption LOWERS clearance.",
+            "C": "Only secretion raises it.",
+            "D": "Not a mechanism.",
+            "E": "Not implied."
+          },
+          "topicId": "ren-gfr",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-424",
+          "type": "single-best",
+          "stem": "If the clearance of a substance is lower than the clearance of inulin:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the substance is additionally reabsorbed in the tubules"
+            },
+            {
+              "label": "B",
+              "text": "the substance is neither reabsorbed, neither secreted"
+            },
+            {
+              "label": "C",
+              "text": "the substance is additionally secreted in the tubules"
+            },
+            {
+              "label": "D",
+              "text": "the substance is co-transported with proteins in the tubules"
+            },
+            {
+              "label": "E",
+              "text": "the substance is secreted in the proximal more than in the distal tubule"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "If clearance < inulin clearance, the substance is being reabsorbed back into the blood.",
+          "notes": {
+            "B": "That would equal inulin clearance.",
+            "C": "Secretion RAISES it.",
+            "D": "Not a mechanism.",
+            "E": "Not implied."
+          },
+          "topicId": "ren-gfr",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-426",
+          "type": "single-best",
+          "stem": "The factors determining glomerular filtration are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "hemodynamic, colloid-osmotic"
+            },
+            {
+              "label": "B",
+              "text": "hemodynamic, reabsorptive"
+            },
+            {
+              "label": "C",
+              "text": "hemodynamic, colloid-osmotic, intracapsular"
+            },
+            {
+              "label": "D",
+              "text": "intraabdominal, hemodynamic, colloid- osmotic"
+            },
+            {
+              "label": "E",
+              "text": "filtration, reabsorptive"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "GFR depends on glomerular capillary hydrostatic pressure (hemodynamic), plasma oncotic pressure (colloid-osmotic), and Bowman's capsule hydrostatic pressure (intracapsular).",
+          "notes": {
+            "A": "Leaves out capsular pressure.",
+            "B": "Reabsorption is not a determinant of filtration.",
+            "D": "Abdominal pressure is not one.",
+            "E": "Wrong factors."
+          },
+          "topicId": "ren-gfr",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-427",
+          "type": "single-best",
+          "stem": "What is specific about juxtaglomerular nephrons, it is that:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the glomerules are located in the inter part of cortex (near medulla)"
+            },
+            {
+              "label": "B",
+              "text": "have long loops of Henle, reaching papillies"
+            },
+            {
+              "label": "C",
+              "text": "their efferent arterioles give rise of vasa recta in medulla"
+            },
+            {
+              "label": "D",
+              "text": "all of the above"
+            },
+            {
+              "label": "E",
+              "text": "there is no correct answer"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Juxtamedullary nephrons have glomeruli in the inner cortex next to the medulla and long loops of Henle reaching the papilla, and their efferent arterioles form the vasa recta. Together these make urine concentration possible.",
+          "notes": {
+            "A": "True, but so are B and C.",
+            "B": "True, but so are A and C.",
+            "C": "True, but so are A and B.",
+            "E": "D is correct."
+          },
+          "topicId": "ren-gfr",
+          "subtopic": "",
+          "difficulty": "hard",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-428",
+          "type": "single-best",
+          "stem": "Glomerular filtration rate is DECREASED by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "a rise in mean arterial pressure above 180 mmHg"
+            },
+            {
+              "label": "B",
+              "text": "hypoproteinaemia"
+            },
+            {
+              "label": "C",
+              "text": "constriction of the afferent arteriole"
+            },
+            {
+              "label": "D",
+              "text": "moderate constriction of the efferent arteriole"
+            },
+            {
+              "label": "E",
+              "text": "dilatation of the afferent arteriole"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Afferent constriction lowers glomerular capillary pressure and so GFR. A very high arterial pressure, low plasma protein, efferent constriction and afferent dilatation all RAISE GFR.",
+          "notes": {
+            "A": "GFR RISES once autoregulation is exceeded.",
+            "B": "GFR RISES (less oncotic pressure).",
+            "D": "GFR RISES.",
+            "E": "GFR RISES."
+          },
+          "topicId": "ren-gfr",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-431",
+          "type": "single-best",
+          "stem": "The volume of glomerular filtration is about:",
+          "options": [
+            {
+              "label": "A",
+              "text": "125 ml·min-1 primary urine"
+            },
+            {
+              "label": "B",
+              "text": "600 - 700 ml·min-1 primary urine"
+            },
+            {
+              "label": "C",
+              "text": "1200 - 1300 ml·min-1 primary urine"
+            },
+            {
+              "label": "D",
+              "text": "5 l·min-1 primary urine"
+            },
+            {
+              "label": "E",
+              "text": "170 l·min-1 primary urine"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Normal GFR is approximately 125 mL/min.",
+          "notes": {
+            "B": "That is the renal plasma flow.",
+            "C": "That is the renal blood flow.",
+            "D": "That is the cardiac output.",
+            "E": "Wrong units."
+          },
+          "topicId": "ren-gfr",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-340",
+          "type": "single-best",
+          "stem": "Glucose reabsorption occurs in the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "proximal tubule"
+            },
+            {
+              "label": "B",
+              "text": "loop of Henle"
+            },
+            {
+              "label": "C",
+              "text": "distal tubule"
+            },
+            {
+              "label": "D",
+              "text": "cortical collecting duct"
+            },
+            {
+              "label": "E",
+              "text": "medullary collecting duct"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Glucose is almost entirely reabsorbed in the proximal convoluted tubule via SGLT-2 and GLUT-2.",
+          "notes": {
+            "B": "Glucose is gone before the loop.",
+            "C": "None remains to reabsorb.",
+            "D": "None remains to reabsorb.",
+            "E": "None remains to reabsorb."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-346",
+          "type": "single-best",
+          "stem": "The following occurs in the proximal tubule of the nephron:",
+          "options": [
+            {
+              "label": "A",
+              "text": "reabsorption of all glucose"
+            },
+            {
+              "label": "B",
+              "text": "reabsorption of most water"
+            },
+            {
+              "label": "C",
+              "text": "active reabsorption of sodium"
+            },
+            {
+              "label": "D",
+              "text": "secretion of bicarbonate"
+            },
+            {
+              "label": "E",
+              "text": "a, b, and c"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "The proximal tubule reabsorbs ~100% of glucose, ~65-70% of water, and the majority of sodium.",
+          "notes": {
+            "A": "True, but so are B and C.",
+            "B": "True, but so are A and C.",
+            "C": "True, but so are A and B.",
+            "D": "Bicarbonate is REABSORBED."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-350",
+          "type": "single-best",
+          "stem": "Glucose is reabsorbed:",
+          "options": [
+            {
+              "label": "A",
+              "text": "by active transport"
+            },
+            {
+              "label": "B",
+              "text": "by passive transport"
+            },
+            {
+              "label": "C",
+              "text": "by Na+ co- transport"
+            },
+            {
+              "label": "D",
+              "text": "by H+ counter- transport"
+            },
+            {
+              "label": "E",
+              "text": "a, and c"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Glucose is reabsorbed via secondary active transport (co-transport with sodium).",
+          "notes": {
+            "A": "True, but it is secondary active (with Na+).",
+            "B": "It is active.",
+            "C": "True, but this is also active transport.",
+            "D": "It is a symport, not an antiport."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-357",
+          "type": "single-best",
+          "stem": "The ascending limb of the loop of Henle is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "impermeable to Na+"
+            },
+            {
+              "label": "B",
+              "text": "involved in active transport of K+ into the lumen"
+            },
+            {
+              "label": "C",
+              "text": "involved in active transport of Cl- out of the lumen"
+            },
+            {
+              "label": "D",
+              "text": "involved in active transport of Na+ into the lumen"
+            },
+            {
+              "label": "E",
+              "text": "hypertonic at the top"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "The thick ascending limb actively transports Na+, K+, and Cl- out of the tubular lumen (via the NKCC2 cotransporter) while remaining impermeable to water.",
+          "notes": {
+            "A": "It reabsorbs Na+.",
+            "B": "K+ recycles, but the transport is out of the lumen.",
+            "D": "Na+ moves OUT of the lumen.",
+            "E": "It is HYPOtonic at the top."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-359",
+          "type": "single-best",
+          "stem": "Water excretion by the kidney is due to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "osmosis"
+            },
+            {
+              "label": "B",
+              "text": "active transport into the lumen"
+            },
+            {
+              "label": "C",
+              "text": "passive secretion in the collecting tubules"
+            },
+            {
+              "label": "D",
+              "text": "solvent drag"
+            },
+            {
+              "label": "E",
+              "text": "facilitated diffusion"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Water reabsorption and excretion occur via osmosis, driven by osmotic gradients.",
+          "notes": {
+            "B": "Water is not pumped.",
+            "C": "Not a mechanism.",
+            "D": "Water carries solutes by solvent drag, not the other way round.",
+            "E": "Aquaporins allow osmosis, not facilitated diffusion."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-362",
+          "type": "single-best",
+          "stem": "The clearance (or 'renal regulation') of which one of the following is not regulated by a hormone:",
+          "options": [
+            {
+              "label": "A",
+              "text": "sodium"
+            },
+            {
+              "label": "B",
+              "text": "potassium"
+            },
+            {
+              "label": "C",
+              "text": "calcium"
+            },
+            {
+              "label": "D",
+              "text": "phosphate"
+            },
+            {
+              "label": "E",
+              "text": "sulphate"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Sulfate clearance is not directly regulated by a specific hormone in the way Na (aldosterone), K (aldosterone), Ca (PTH), or phosphate (PTH) are.",
+          "notes": {
+            "A": "Aldosterone and ANP regulate it.",
+            "B": "Aldosterone regulates it.",
+            "C": "PTH regulates it.",
+            "D": "PTH regulates it."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-366",
+          "type": "single-best",
+          "stem": "The countercurrent exchange system includes:",
+          "options": [
+            {
+              "label": "A",
+              "text": "glomerulus and macula densa"
+            },
+            {
+              "label": "B",
+              "text": "proximal convoluted tubule and distal convoluted tubule"
+            },
+            {
+              "label": "C",
+              "text": "loop of Henle and collecting tubule"
+            },
+            {
+              "label": "D",
+              "text": "afferent arteriole and efferent arteriole"
+            },
+            {
+              "label": "E",
+              "text": "ureters and bladder"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "The countercurrent system involves the loop of Henle (multiplier) and the vasa recta (exchanger) to create a concentrated medullary interstitium.",
+          "notes": {
+            "A": "These are not countercurrent.",
+            "B": "These are not countercurrent.",
+            "D": "These are vessels around the glomerulus.",
+            "E": "These are outflow."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-367",
+          "type": "single-best",
+          "stem": "Tubular reabsorption of a filtered substance is likely to be active rather than passive if:",
+          "options": [
+            {
+              "label": "A",
+              "text": "its concentration in the tubular fluid is lower than in peritubular capillary blood"
+            },
+            {
+              "label": "B",
+              "text": "is carried out by the mechanism of simple diffusion"
+            },
+            {
+              "label": "C",
+              "text": "renal clearance is lower than that of inulin"
+            },
+            {
+              "label": "D",
+              "text": "renal clearance rises at low plasma levels"
+            },
+            {
+              "label": "E",
+              "text": "osmolality there is higher than the plasma one"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "If a substance is reabsorbed against its concentration gradient (tubular fluid lower than blood), active transport is required.",
+          "notes": {
+            "B": "Simple diffusion is passive.",
+            "C": "Lower clearance shows reabsorption but not its mechanism.",
+            "D": "Not a sign of active reabsorption.",
+            "E": "Not relevant."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-369",
+          "type": "single-best",
+          "stem": "In the fluid in the distal part of the proximal convoluted tubule:",
+          "options": [
+            {
+              "label": "A",
+              "text": "urea concentration is higher than in Bowman's capsule"
+            },
+            {
+              "label": "B",
+              "text": "pH is less than 6 when the kidneys are excreting an acid urine"
+            },
+            {
+              "label": "C",
+              "text": "glucose concentration is similar to that in plasma"
+            },
+            {
+              "label": "D",
+              "text": "osmolality is about 25 per cent that of glomerular filtrate"
+            },
+            {
+              "label": "E",
+              "text": "bicarbonate concentration is higher than in plasma"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Because water is reabsorbed in the proximal tubule but urea is not, the concentration of urea rises along the length of the proximal tubule.",
+          "notes": {
+            "B": "Proximal fluid pH is about 6.7.",
+            "C": "Glucose is nearly zero by then.",
+            "D": "Proximal fluid is iso-osmotic.",
+            "E": "HCO3- is LOWER than in plasma."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-370",
+          "type": "single-best",
+          "stem": "Renal tubules normally reabsorb:",
+          "options": [
+            {
+              "label": "A",
+              "text": "fluids with osmolality lower than the plasma one"
+            },
+            {
+              "label": "B",
+              "text": "all filtered HCO3- in respiratory alcalosis"
+            },
+            {
+              "label": "C",
+              "text": "substances closely related to Cl-"
+            },
+            {
+              "label": "D",
+              "text": "all filtered plasma proteins"
+            },
+            {
+              "label": "E",
+              "text": "more K- than Cl-"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "The proximal tubule reabsorbs almost all filtered proteins (which normally do not pass the glomerular filter in large amounts anyway).",
+          "notes": {
+            "A": "Proximal reabsorption is iso-osmotic.",
+            "B": "In alkalosis HCO3- is EXCRETED.",
+            "C": "Vague.",
+            "E": "Far more Cl- than K+ is reabsorbed."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-371",
+          "type": "single-best",
+          "stem": "In the nephron, the osmolality of the fluid in the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "tip of the loop of Henle is less than that of plasma"
+            },
+            {
+              "label": "B",
+              "text": "Bowman's capsules is less than that in the distal tubules"
+            },
+            {
+              "label": "C",
+              "text": "collecting duct rises when vasopressin is being secreted"
+            },
+            {
+              "label": "D",
+              "text": "proximal convoluted tubule rises along its length"
+            },
+            {
+              "label": "E",
+              "text": "proximal tubule is with lower osmolality than plasma one"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Vasopressin (ADH) increases water permeability in the collecting duct, allowing water to be reabsorbed into the hypertonic medulla, raising the osmolality of the remaining tubular fluid.",
+          "notes": {
+            "A": "The tip is HYPERtonic.",
+            "B": "Distal fluid is hypotonic.",
+            "D": "It stays iso-osmotic.",
+            "E": "It is iso-osmotic."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-372",
+          "type": "single-best",
+          "stem": "Transport maximum (Tmax) - limited reabsorption of a substance implies that its:",
+          "options": [
+            {
+              "label": "A",
+              "text": "reabsorption is active"
+            },
+            {
+              "label": "B",
+              "text": "reabsorption is critically related to tubular transit time"
+            },
+            {
+              "label": "C",
+              "text": "reabsorption is passive"
+            },
+            {
+              "label": "D",
+              "text": "renal clearance falls with its plasma concentration"
+            },
+            {
+              "label": "E",
+              "text": "reabsorption is carried out by the mechanism of facilitated diffusion"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "A transport maximum exists for carrier-mediated active transport (e.g., glucose reabsorption).",
+          "notes": {
+            "B": "Tm is a carrier limit, not a time limit.",
+            "C": "Passive transport has no Tm.",
+            "D": "Clearance RISES above Tm.",
+            "E": "Tm implies an active carrier here."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-374",
+          "type": "single-best",
+          "stem": "The cells of the distal convoluted tubule:",
+          "options": [
+            {
+              "label": "A",
+              "text": "reabsorb about 50% of the water filtered by the glomeruli"
+            },
+            {
+              "label": "B",
+              "text": "reabsorb all filtered aminoacide"
+            },
+            {
+              "label": "C",
+              "text": "reabsorb all filtered proteins"
+            },
+            {
+              "label": "D",
+              "text": "reabsorb sodium in exchange for hydrogen or potassium ions"
+            },
+            {
+              "label": "E",
+              "text": "determine the final composition of urine"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "The distal tubule (and collecting duct) reabsorbs sodium in exchange for secreting potassium (under aldosterone) or hydrogen.",
+          "notes": {
+            "A": "The proximal tubule does that.",
+            "B": "Done proximally.",
+            "C": "Done proximally.",
+            "E": "The collecting duct finalises urine."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-376",
+          "type": "single-best",
+          "stem": "Urea:",
+          "options": [
+            {
+              "label": "A",
+              "text": "and glucose have different molar concentrations in normal blood"
+            },
+            {
+              "label": "B",
+              "text": "clearance is higher, than creatinins one"
+            },
+            {
+              "label": "C",
+              "text": "is actively secreted by the renal tubular cells into the tubular fluid"
+            },
+            {
+              "label": "D",
+              "text": "concentration in blood may rise ten-fold after a high protein meal"
+            },
+            {
+              "label": "E",
+              "text": "causes diuresis when its blood concentration is increased"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Urea is an osmotically active solute; high blood urea (uremia) causes an osmotic diuresis.",
+          "notes": {
+            "A": "They are similar (about 5 mmol/L).",
+            "B": "Urea is partly reabsorbed, so its clearance is lower.",
+            "C": "Urea is mainly passive.",
+            "D": "Not tenfold."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-379",
+          "type": "single-best",
+          "stem": "In healthy people, urinary:",
+          "options": [
+            {
+              "label": "A",
+              "text": "clearance of glucose differs 0, if its plasma concentration is below 11mmol·l-1"
+            },
+            {
+              "label": "B",
+              "text": "osmolality ranges from 200-400 mOsm·l-1"
+            },
+            {
+              "label": "C",
+              "text": "colour is due to small quantities of bile pigments"
+            },
+            {
+              "label": "D",
+              "text": "pH falls as dietary protein rises"
+            },
+            {
+              "label": "E",
+              "text": "calcium excretion is decreased by parathormon"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "High protein diets increase acid production (from amino acid metabolism), which lowers urinary pH.",
+          "notes": {
+            "A": "Below threshold glucose clearance is zero.",
+            "B": "Range is about 50–1200.",
+            "C": "Colour is urochrome.",
+            "E": "PTH DECREASES calcium excretion."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-382",
+          "type": "single-best",
+          "stem": "Diabetes insipidus (deficiency of antidiuretic hormone) causes a fall in the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "osmolality of the urine"
+            },
+            {
+              "label": "B",
+              "text": "reabsorption of water from the proximal tubules"
+            },
+            {
+              "label": "C",
+              "text": "extracellular but not intracellular fluid volume"
+            },
+            {
+              "label": "D",
+              "text": "extracellular fluid osmolality"
+            },
+            {
+              "label": "E",
+              "text": "intracellular fluid osmolality"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Without ADH, the collecting ducts cannot reabsorb water, resulting in the excretion of large volumes of dilute (low osmolality) urine.",
+          "notes": {
+            "B": "Proximal water is unaffected.",
+            "C": "Both compartments lose water.",
+            "D": "ECF osmolality RISES.",
+            "E": "ICF osmolality RISES."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-386",
+          "type": "single-best",
+          "stem": "Drugs which interfere with active transport of sodium in the proximal tubule tend to increase:",
+          "options": [
+            {
+              "label": "A",
+              "text": "urine production"
+            },
+            {
+              "label": "B",
+              "text": "plasma osmolality"
+            },
+            {
+              "label": "C",
+              "text": "chloride reabsorption"
+            },
+            {
+              "label": "D",
+              "text": "interstitial fluid volume"
+            },
+            {
+              "label": "E",
+              "text": "plasma volume"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Blocking sodium reabsorption in the proximal tubule leaves sodium (and water) in the lumen, increasing urine production (diuresis).",
+          "notes": {
+            "B": "Osmolality falls or stays unchanged.",
+            "C": "Cl- reabsorption FALLS.",
+            "D": "ECF FALLS.",
+            "E": "Plasma volume FALLS."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-393",
+          "type": "single-best",
+          "stem": "Reabsorption of amino acids from the filtrate requires many different protein carriers because:",
+          "options": [
+            {
+              "label": "A",
+              "text": "denaturation may occur"
+            },
+            {
+              "label": "B",
+              "text": "this transport is not competitive"
+            },
+            {
+              "label": "C",
+              "text": "there are only 10 different amino acids"
+            },
+            {
+              "label": "D",
+              "text": "transport of amino acids is typically highly specific"
+            },
+            {
+              "label": "E",
+              "text": "glucose inhibits amino acid transport"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Amino acid transporters are highly specific to the chemical structure of individual amino acids or groups of similar amino acids.",
+          "notes": {
+            "A": "Not the reason.",
+            "B": "Transport IS competitive within groups.",
+            "C": "There are 20.",
+            "E": "Not the reason."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-394",
+          "type": "single-best",
+          "stem": "Reabsorption (transport) of both Na+ and glucose together from the renal lumen is an example of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "facilitated diffusion"
+            },
+            {
+              "label": "B",
+              "text": "secondary passive transport"
+            },
+            {
+              "label": "C",
+              "text": "primary direct active transport"
+            },
+            {
+              "label": "D",
+              "text": "secondary indirect active antiport"
+            },
+            {
+              "label": "E",
+              "text": "secondary indirect active symport"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "SGLT transports Na+ and glucose in the same direction (symport), using the Na+ gradient established by the Na+/K+ pump (secondary active transport).",
+          "notes": {
+            "A": "It is coupled to Na+, not facilitated.",
+            "B": "It is active.",
+            "C": "No ATP is used directly.",
+            "D": "Both move the same way (symport)."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-412",
+          "type": "single-best",
+          "stem": "All statements about ADH are correct, except:",
+          "options": [
+            {
+              "label": "A",
+              "text": "is secreted by the posterior pituitary"
+            },
+            {
+              "label": "B",
+              "text": "its secretion is regulated by plasma osmolality"
+            },
+            {
+              "label": "C",
+              "text": "increases the tubular reabsorption of K+"
+            },
+            {
+              "label": "D",
+              "text": "increases reabsorption of water in the distal and collecting tubules"
+            },
+            {
+              "label": "E",
+              "text": "is synthesized in the hypothalamus"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "ADH regulates water reabsorption, not potassium reabsorption (that is aldosterone's role).",
+          "notes": {
+            "A": "True.",
+            "B": "True.",
+            "D": "True.",
+            "E": "True."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-422",
+          "type": "single-best",
+          "stem": "The transport maximum of glucose (TmaxGl) is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "125 ml·min-1"
+            },
+            {
+              "label": "B",
+              "text": "300 - 370 mg·min-1"
+            },
+            {
+              "label": "C",
+              "text": "2.8 - 6.1 mmol·l-1"
+            },
+            {
+              "label": "D",
+              "text": "up to 11.1 mmol·l-1"
+            },
+            {
+              "label": "E",
+              "text": "none of the above"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "The renal threshold for glucose is ~180 mg/dL, and the Tmax is about 300-375 mg/min.",
+          "notes": {
+            "A": "That is the GFR.",
+            "C": "That is fasting glucose.",
+            "D": "That is near the renal threshold for glucose.",
+            "E": "Option B is correct."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-425",
+          "type": "single-best",
+          "stem": "The human kidneys can concentrate the final urine up to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "100 mOsm·l-1"
+            },
+            {
+              "label": "B",
+              "text": "120 mOsm·l-1"
+            },
+            {
+              "label": "C",
+              "text": "295 mOsm·l-1"
+            },
+            {
+              "label": "D",
+              "text": "7.36 - 7.44·l-1"
+            },
+            {
+              "label": "E",
+              "text": "1200 mOsm·l-1"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "The maximum concentrating ability of the human kidney is about 1200 mOsm/L.",
+          "notes": {
+            "A": "That is the dilution limit.",
+            "B": "Too low.",
+            "C": "That is plasma.",
+            "D": "That is a pH value."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-429",
+          "type": "single-best",
+          "stem": "What is the percentage of water reabsorbed in the tubules, under the control of ADH?",
+          "options": [
+            {
+              "label": "A",
+              "text": "100%"
+            },
+            {
+              "label": "B",
+              "text": "85%"
+            },
+            {
+              "label": "C",
+              "text": "50%"
+            },
+            {
+              "label": "D",
+              "text": "15%"
+            },
+            {
+              "label": "E",
+              "text": "0%"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "About 85% of water is reabsorbed obligatorily in the proximal tubule and loop of Henle. ADH regulates the remaining ~15% in the distal tubule and collecting duct.",
+          "notes": {
+            "A": "Not all water reabsorption is ADH-dependent.",
+            "B": "That is the obligatory part.",
+            "C": "Too high.",
+            "E": "ADH does control some."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-430",
+          "type": "single-best",
+          "stem": "Glucose and amino acids are reabsorbed in the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "proximal tubule"
+            },
+            {
+              "label": "B",
+              "text": "distal tubule"
+            },
+            {
+              "label": "C",
+              "text": "collective tubule"
+            },
+            {
+              "label": "D",
+              "text": "loop of Henle"
+            },
+            {
+              "label": "E",
+              "text": "glucose is not reabsorbed"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Glucose and amino acids are reabsorbed in the proximal convoluted tubule.",
+          "notes": {
+            "B": "Little remains.",
+            "C": "Little remains.",
+            "D": "Not reabsorbed there.",
+            "E": "Glucose IS reabsorbed."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-433",
+          "type": "single-best",
+          "stem": "The human kidneys can dilute the final urine up to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "120 ml·min-1"
+            },
+            {
+              "label": "B",
+              "text": "100 mOsm·l-1"
+            },
+            {
+              "label": "C",
+              "text": "295 mOsm·kg -1"
+            },
+            {
+              "label": "D",
+              "text": "7.36 - 7.44 pH"
+            },
+            {
+              "label": "E",
+              "text": "1200 mOsm·l-1"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "The kidneys can dilute urine to a minimum osmolality of about 50-100 mOsm/L.",
+          "notes": {
+            "A": "Not osmolality.",
+            "C": "That is plasma.",
+            "D": "pH.",
+            "E": "The concentrating limit."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-435",
+          "type": "single-best",
+          "stem": "Which of the following are reabsorbed in the ascending limb of the loop of Henle:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Na+"
+            },
+            {
+              "label": "B",
+              "text": "K+"
+            },
+            {
+              "label": "C",
+              "text": "CL-"
+            },
+            {
+              "label": "D",
+              "text": "water"
+            },
+            {
+              "label": "E",
+              "text": "a, b, and c"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "The ascending limb actively reabsorbs Na+, K+, and Cl- (via NKCC2), but is impermeable to water.",
+          "notes": {
+            "A": "True, but so are K+ and Cl-.",
+            "B": "True, but so are Na+ and Cl-.",
+            "C": "True, but so are Na+ and K+.",
+            "D": "The ascending limb is impermeable to water."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-436",
+          "type": "single-best",
+          "stem": "Which of the following is/are reabsorbed in the descending limb of the loop of Henle:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Na+"
+            },
+            {
+              "label": "B",
+              "text": "Cl-"
+            },
+            {
+              "label": "C",
+              "text": "Ca2+"
+            },
+            {
+              "label": "D",
+              "text": "K+"
+            },
+            {
+              "label": "E",
+              "text": "water"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "The descending limb is highly permeable to water but impermeable to solutes.",
+          "notes": {
+            "A": "Impermeable to solute.",
+            "B": "Impermeable to solute.",
+            "C": "Not reabsorbed there.",
+            "D": "Not reabsorbed there."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-437",
+          "type": "single-best",
+          "stem": "Which statement is correct:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the loop of Henle is permeable for salts and weakly permeable for water"
+            },
+            {
+              "label": "B",
+              "text": "the descending limb of the loop of Henle is permeable for Na+ and K+ and weakly permeable for CL-"
+            },
+            {
+              "label": "C",
+              "text": "the thick segment of the ascending limb of the loop of Henle is permeable for ions"
+            },
+            {
+              "label": "D",
+              "text": "the ascending limb of the loop of Henle is permeable for water and weakly permeable for ions"
+            },
+            {
+              "label": "E",
+              "text": "the descending limb of the loop of Henle is permeable for salts and weakly permeable for water"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "The thick ascending limb is impermeable to water but actively transports ions (Na+, K+, Cl-) out of the lumen.",
+          "notes": {
+            "A": "The limbs differ.",
+            "B": "The descending limb is WATER-permeable.",
+            "D": "The ascending limb is water-IMpermeable.",
+            "E": "The reverse."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-438",
+          "type": "single-best",
+          "stem": "The concentration of the final urine is due to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the countercurrent multiplying mechanism in the loop of Henle"
+            },
+            {
+              "label": "B",
+              "text": "the countercurrent exchanger of vasa recta"
+            },
+            {
+              "label": "C",
+              "text": "ADH"
+            },
+            {
+              "label": "D",
+              "text": "the effective reabsorptive pressure"
+            },
+            {
+              "label": "E",
+              "text": "a, b, and c"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Urine concentration requires the loop of Henle (multiplier), vasa recta (exchanger), and ADH (permeability).",
+          "notes": {
+            "A": "True, but so are B and C.",
+            "B": "True, but so are A and C.",
+            "C": "True, but so are A and B.",
+            "D": "Not the concentrating mechanism."
+          },
+          "topicId": "ren-tubule",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-341",
+          "type": "single-best",
+          "stem": "Renin is secreted by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "cells in the macula densa"
+            },
+            {
+              "label": "B",
+              "text": "cells in the proximal tubule"
+            },
+            {
+              "label": "C",
+              "text": "cells in the distal tubule"
+            },
+            {
+              "label": "D",
+              "text": "juxtaglomerular cells"
+            },
+            {
+              "label": "E",
+              "text": "cells in the peritubular capillary bed"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Renin is secreted by juxtaglomerular (granular) cells in the afferent arteriole.",
+          "notes": {
+            "A": "The macula densa SENSES NaCl.",
+            "B": "Not a renin source.",
+            "C": "Not a renin source.",
+            "E": "Not a renin source."
+          },
+          "topicId": "ren-hormones",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-342",
+          "type": "single-best",
+          "stem": "Renin release:",
+          "options": [
+            {
+              "label": "A",
+              "text": "is promoted by reduced arteriolar stretch in the glomeruli"
+            },
+            {
+              "label": "B",
+              "text": "increases when systemic arterial pressure rises"
+            },
+            {
+              "label": "C",
+              "text": "directly activates angiotensin converting enzyme"
+            },
+            {
+              "label": "D",
+              "text": "tends to expand the plasma volume"
+            },
+            {
+              "label": "E",
+              "text": "a, and d"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Renin is released when renal perfusion pressure drops (reduced stretch) and leads to aldosterone secretion, expanding plasma volume.",
+          "notes": {
+            "A": "True, but so is D.",
+            "B": "It DECREASES with high pressure.",
+            "C": "Renin makes angiotensin I; ACE is separate.",
+            "D": "True, but so is A."
+          },
+          "topicId": "ren-hormones",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-378",
+          "type": "single-best",
+          "stem": "Aldosterone:",
+          "options": [
+            {
+              "label": "A",
+              "text": "is a steroid hormone secreted by the adrenal medulla"
+            },
+            {
+              "label": "B",
+              "text": "production ceases following removal of the kidneys and their juxtaglomerular cells"
+            },
+            {
+              "label": "C",
+              "text": "production increases during treatment with ACE inhibitors"
+            },
+            {
+              "label": "D",
+              "text": "secretion results in increased potassium reabsorption by the nephron"
+            },
+            {
+              "label": "E",
+              "text": "secretion results in increased plasma volume"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Aldosterone increases sodium and water reabsorption, expanding plasma volume.",
+          "notes": {
+            "A": "It comes from the cortex.",
+            "B": "ACTH and K+ still drive it.",
+            "C": "It DECREASES with ACE inhibitors.",
+            "D": "Aldosterone increases K+ SECRETION."
+          },
+          "topicId": "ren-hormones",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-381",
+          "type": "single-best",
+          "stem": "Secretion of renin:",
+          "options": [
+            {
+              "label": "A",
+              "text": "occurs in the stomach during infancy"
+            },
+            {
+              "label": "B",
+              "text": "is stimulated by the hormone angiotensin I"
+            },
+            {
+              "label": "C",
+              "text": "is stimulated by a fall in extracellular fluid volume and leads to raised levels of angiotensin II in the blood"
+            },
+            {
+              "label": "D",
+              "text": "inhibits the secretion of aldosterone"
+            },
+            {
+              "label": "E",
+              "text": "inhibits ACTH secretion by the pituitary gland"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Decreased ECF volume reduces renal perfusion pressure, stimulating renin release, which ultimately increases angiotensin II (a potent vasoconstrictor).",
+          "notes": {
+            "A": "Not a source of renin.",
+            "B": "Angiotensin II INHIBITS renin.",
+            "D": "Renin INCREASES aldosterone.",
+            "E": "No such effect."
+          },
+          "topicId": "ren-hormones",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-432",
+          "type": "single-best",
+          "stem": "All statements about aldosterone are correct except:",
+          "options": [
+            {
+              "label": "A",
+              "text": "is secreted by the adrenal cortex"
+            },
+            {
+              "label": "B",
+              "text": "acts on distal and collective tubules"
+            },
+            {
+              "label": "C",
+              "text": "increases the reabsorption of Na+"
+            },
+            {
+              "label": "D",
+              "text": "increases the tubular reabsorption of K+"
+            },
+            {
+              "label": "E",
+              "text": "its secretion is controlled by angiotensin II"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Aldosterone increases K+ secretion (not reabsorption) in the distal nephron.",
+          "notes": {
+            "A": "True.",
+            "B": "True.",
+            "C": "True.",
+            "E": "True."
+          },
+          "topicId": "ren-hormones",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-439",
+          "type": "single-best",
+          "stem": "The secretion of renin is stimulated by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "increased parasympathetic tone"
+            },
+            {
+              "label": "B",
+              "text": "increased sympathetic tone"
+            },
+            {
+              "label": "C",
+              "text": "increased extracellular fluid"
+            },
+            {
+              "label": "D",
+              "text": "decreased level of adrenalin"
+            },
+            {
+              "label": "E",
+              "text": "increased Na+ in the tubular fluid"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Sympathetic stimulation (via beta-1 receptors on JG cells) increases renin secretion.",
+          "notes": {
+            "A": "Parasympathetic has no effect.",
+            "C": "Increased ECF REDUCES renin.",
+            "D": "Less adrenaline means less renin.",
+            "E": "High Na+ at the macula densa REDUCES renin."
+          },
+          "topicId": "ren-hormones",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-440",
+          "type": "single-best",
+          "stem": "The atrial natriuretic peptide has/have the following effect/effects:",
+          "options": [
+            {
+              "label": "A",
+              "text": "increase the reabsorption of Na+ and water"
+            },
+            {
+              "label": "B",
+              "text": "increase the excretion of Na+ and water"
+            },
+            {
+              "label": "C",
+              "text": "generalized vasodilatation"
+            },
+            {
+              "label": "D",
+              "text": "b, and c"
+            },
+            {
+              "label": "E",
+              "text": "a, b, and c"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "ANP causes natriuresis and diuresis (raised GFR, reduced Na+ reabsorption in the collecting duct, inhibition of renin and aldosterone) and relaxes vascular smooth muscle.",
+          "notes": {
+            "A": "ANP DECREASES Na+ reabsorption.",
+            "B": "True, but so is C.",
+            "C": "True, but so is B.",
+            "E": "A is false."
+          },
+          "topicId": "ren-hormones",
+          "subtopic": "",
+          "difficulty": "hard",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-441",
+          "type": "single-best",
+          "stem": "In the juxtaglomerular apparatus are found:",
+          "options": [
+            {
+              "label": "A",
+              "text": "α1 - adrenergetic receptors"
+            },
+            {
+              "label": "B",
+              "text": "α2 - adrenergetic receptors"
+            },
+            {
+              "label": "C",
+              "text": "β1 - adrenergetic receptors"
+            },
+            {
+              "label": "D",
+              "text": "β2 - adrenergetic receptors"
+            },
+            {
+              "label": "E",
+              "text": "М1 - cholinergetic receptors"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Juxtaglomerular cells have beta-1 adrenergic receptors that stimulate renin release.",
+          "notes": {
+            "A": "Not the main renin receptor.",
+            "B": "Not the main renin receptor.",
+            "D": "Not the main renin receptor.",
+            "E": "Not present on JG cells."
+          },
+          "topicId": "ren-hormones",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-442",
+          "type": "single-best",
+          "stem": "Renin is secreted by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "juxtaglomerulary nephrons"
+            },
+            {
+              "label": "B",
+              "text": "adrenal medulla"
+            },
+            {
+              "label": "C",
+              "text": "juxtaglomerular apparatus"
+            },
+            {
+              "label": "D",
+              "text": "adrenal cortex"
+            },
+            {
+              "label": "E",
+              "text": "hypotalamus"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Renin is secreted by the juxtaglomerular apparatus.",
+          "notes": {
+            "A": "A type of nephron, not a secretory structure.",
+            "B": "The adrenal medulla secretes catecholamines.",
+            "D": "The adrenal cortex secretes steroids.",
+            "E": "The hypothalamus does not secrete renin."
+          },
+          "topicId": "ren-hormones",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-349",
+          "type": "single-best",
+          "stem": "Which of the following causes hyperkalemia?",
+          "options": [
+            {
+              "label": "A",
+              "text": "exercise"
+            },
+            {
+              "label": "B",
+              "text": "alkalosis"
+            },
+            {
+              "label": "C",
+              "text": "insulin injection"
+            },
+            {
+              "label": "D",
+              "text": "decreased serum osmolality"
+            },
+            {
+              "label": "E",
+              "text": "β2-agonist administration"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Exercise causes K+ to shift out of skeletal muscle cells, raising plasma potassium.",
+          "notes": {
+            "B": "Alkalosis drives K+ INTO cells.",
+            "C": "Insulin drives K+ INTO cells.",
+            "D": "Not a cause of hyperkalaemia.",
+            "E": "β2 agonists drive K+ INTO cells."
+          },
+          "topicId": "ren-fluid",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-383",
+          "type": "single-best",
+          "stem": "Dialysis fluid used in the treatment of renal failure should contain the normal plasma levels of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "urea"
+            },
+            {
+              "label": "B",
+              "text": "potassium"
+            },
+            {
+              "label": "C",
+              "text": "osmolality"
+            },
+            {
+              "label": "D",
+              "text": "plasma proteins"
+            },
+            {
+              "label": "E",
+              "text": "hydrogen ions"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Dialysis fluid is isotonic to plasma to prevent net fluid shifts (osmotic damage to blood cells).",
+          "notes": {
+            "A": "Urea should be ABSENT to remove it.",
+            "B": "K+ is set low.",
+            "D": "Proteins are not included.",
+            "E": "Buffer (bicarbonate) is added to remove acid."
+          },
+          "topicId": "ren-fluid",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-395",
+          "type": "single-best",
+          "stem": "Drinking a litre of water:",
+          "options": [
+            {
+              "label": "A",
+              "text": "increases secretion of antidiuretic hormone"
+            },
+            {
+              "label": "B",
+              "text": "reduces the plasma sodium concentration"
+            },
+            {
+              "label": "C",
+              "text": "increases osmolarity of the urine"
+            },
+            {
+              "label": "D",
+              "text": "causes body cells to shrink"
+            },
+            {
+              "label": "E",
+              "text": "decreases the specific gravity of the body"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Drinking water dilutes the blood, temporarily lowering plasma sodium concentration and osmolality.",
+          "notes": {
+            "A": "ADH FALLS.",
+            "C": "Urine is DILUTED.",
+            "D": "Cells SWELL slightly.",
+            "E": "Not meaningful."
+          },
+          "topicId": "ren-fluid",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-398",
+          "type": "single-best",
+          "stem": "A rise in the osmolality of extracellular fluid may lead to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "thirst and release of vasopressin"
+            },
+            {
+              "label": "B",
+              "text": "increased water reabsorption in the proximal convoluted tubules"
+            },
+            {
+              "label": "C",
+              "text": "a decrease of vasopressin secretion"
+            },
+            {
+              "label": "D",
+              "text": "an increase in intracellular fluid volume"
+            },
+            {
+              "label": "E",
+              "text": "suppression of sweat secretion"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Hyperosmolality is detected by hypothalamic osmoreceptors, triggering thirst and ADH (vasopressin) release.",
+          "notes": {
+            "B": "Proximal water reabsorption is not ADH-dependent.",
+            "C": "Vasopressin RISES.",
+            "D": "ICF SHRINKS.",
+            "E": "Not a response to raised osmolality."
+          },
+          "topicId": "ren-fluid",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-401",
+          "type": "single-best",
+          "stem": "Sodium retention:",
+          "options": [
+            {
+              "label": "A",
+              "text": "occurs for several days after major surgery"
+            },
+            {
+              "label": "B",
+              "text": "expands the extracellular fluid volume"
+            },
+            {
+              "label": "C",
+              "text": "expands the blood volume"
+            },
+            {
+              "label": "D",
+              "text": "increases the severity of oedema"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Surgery triggers aldosterone release (stress response), causing sodium retention, water retention, and potentially edema.",
+          "notes": {
+            "A": "True, but so are the others.",
+            "B": "True, but so are the others.",
+            "C": "True, but so are the others.",
+            "D": "True, but so are the others."
+          },
+          "topicId": "ren-fluid",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-402",
+          "type": "single-best",
+          "stem": "Sodium depletion differs from water depletion in that:",
+          "options": [
+            {
+              "label": "A",
+              "text": "cardiovascular changes are less pronounced"
+            },
+            {
+              "label": "B",
+              "text": "intracellular fluid volume is less affected"
+            },
+            {
+              "label": "C",
+              "text": "the haematocrit increases"
+            },
+            {
+              "label": "D",
+              "text": "thirst is more severe"
+            },
+            {
+              "label": "E",
+              "text": "antidiuretic hormone levels are higher"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "In pure water depletion, fluid shifts out of cells (intracellular volume falls). In sodium depletion, ECF volume falls but ICF is relatively spared initially.",
+          "notes": {
+            "A": "Cardiovascular changes are MORE marked.",
+            "C": "Haematocrit rises in both.",
+            "D": "Thirst is WORSE in water depletion.",
+            "E": "ADH is higher in water depletion."
+          },
+          "topicId": "ren-fluid",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-403",
+          "type": "single-best",
+          "stem": "A high blood potassium level (hyperkalaemia):",
+          "options": [
+            {
+              "label": "A",
+              "text": "occurs in acute renal failure"
+            },
+            {
+              "label": "B",
+              "text": "follows severe crush injuries to the limbs"
+            },
+            {
+              "label": "C",
+              "text": "may diminish cardiac performance and cause death"
+            },
+            {
+              "label": "D",
+              "text": "may be reduced by intravenous infusion of insulin and glucose"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Hyperkalemia is common in acute renal failure and crush injuries (cell lysis releases K+). Insulin drives K+ into cells to treat it.",
+          "notes": {
+            "A": "True, but so are the others.",
+            "B": "True, but so are the others.",
+            "C": "True, but so are the others.",
+            "D": "True, but so are the others."
+          },
+          "topicId": "ren-fluid",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-404",
+          "type": "single-best",
+          "stem": "A raised level of calcium in the blood (hypercalcaemia):",
+          "options": [
+            {
+              "label": "A",
+              "text": "may occur when parathyroid activity decreases"
+            },
+            {
+              "label": "B",
+              "text": "may occur when the plasma protein level falls"
+            },
+            {
+              "label": "C",
+              "text": "may occur in chronic renal failure"
+            },
+            {
+              "label": "D",
+              "text": "increases the risk of stone formation in the urinary tract"
+            },
+            {
+              "label": "E",
+              "text": "causes increased excitability of nerve and muscle"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Hypercalcemia increases urinary calcium excretion, predisposing to kidney stones.",
+          "notes": {
+            "A": "Low PTH causes LOW calcium.",
+            "B": "Low protein lowers TOTAL calcium.",
+            "C": "CRF usually causes LOW calcium.",
+            "E": "Excitability DECREASES."
+          },
+          "topicId": "ren-fluid",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-405",
+          "type": "single-best",
+          "stem": "Thirst is stimulated by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "increase in plasma osmolality and volume"
+            },
+            {
+              "label": "B",
+              "text": "increase in plasma osmolality and decrease in volume"
+            },
+            {
+              "label": "C",
+              "text": "decrease in osmolality and increase in volume"
+            },
+            {
+              "label": "D",
+              "text": "decrease in plasma osmolality and volume"
+            },
+            {
+              "label": "E",
+              "text": "increase in intracellular volume"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Thirst is stimulated by cellular dehydration (high osmolality) and hypovolemia (low volume).",
+          "notes": {
+            "A": "Raised volume REDUCES thirst.",
+            "C": "Both reduce thirst.",
+            "D": "Low osmolality reduces thirst.",
+            "E": "Cell swelling reduces thirst."
+          },
+          "topicId": "ren-fluid",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-406",
+          "type": "single-best",
+          "stem": "The reference interval of plasma osmolarity is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "190-200 mOsm·l-1"
+            },
+            {
+              "label": "B",
+              "text": "120 ml·min-1"
+            },
+            {
+              "label": "C",
+              "text": "280-285 mOsm·l-1"
+            },
+            {
+              "label": "D",
+              "text": "7.36 - 7.44 pH"
+            },
+            {
+              "label": "E",
+              "text": "1100 - 1200 mOsm·kg-1"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Normal plasma osmolality is tightly regulated between 280 and 295 mOsm/kg.",
+          "notes": {
+            "A": "Too low.",
+            "B": "That is the GFR.",
+            "D": "That is a pH range.",
+            "E": "That is maximal urine osmolality."
+          },
+          "topicId": "ren-fluid",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-407",
+          "type": "single-best",
+          "stem": "When the intake of water and salts is normal:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the osmotic pressure of ECF is higher than that of ICF"
+            },
+            {
+              "label": "B",
+              "text": "the osmotic pressure ICF is higher than that of ECF"
+            },
+            {
+              "label": "C",
+              "text": "the osmotic pressure of ECF is equal to that of ICF"
+            },
+            {
+              "label": "D",
+              "text": "the volume of ECF is bigger than that of ICF"
+            },
+            {
+              "label": "E",
+              "text": "none of the above"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Water moves freely between compartments, so ECF and ICF are in osmotic equilibrium.",
+          "notes": {
+            "A": "They are equal.",
+            "B": "They are equal.",
+            "D": "ICF is larger (2/3 of body water).",
+            "E": "Option C is correct."
+          },
+          "topicId": "ren-fluid",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-408",
+          "type": "single-best",
+          "stem": "All but except one are followed by thirst:",
+          "options": [
+            {
+              "label": "A",
+              "text": "plasmaosmolarity above 295 mOsm·kg-1"
+            },
+            {
+              "label": "B",
+              "text": "angiotensin II"
+            },
+            {
+              "label": "C",
+              "text": "ADH"
+            },
+            {
+              "label": "D",
+              "text": "hypervolemia"
+            },
+            {
+              "label": "E",
+              "text": "dry oral mucosa"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Hypervolemia (increased blood volume) suppresses thirst, whereas the other factors stimulate it.",
+          "notes": {
+            "A": "A strong thirst trigger.",
+            "B": "A strong thirst trigger.",
+            "C": "Released alongside thirst.",
+            "E": "Causes thirst."
+          },
+          "topicId": "ren-fluid",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-409",
+          "type": "single-best",
+          "stem": "The volume of ECF is regulated by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the renin-angiotensin-aldosterone system"
+            },
+            {
+              "label": "B",
+              "text": "atrial nauriuretic peptide"
+            },
+            {
+              "label": "C",
+              "text": "cathecholamines"
+            },
+            {
+              "label": "D",
+              "text": "sympathetic division of the ANS"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "ECF volume is regulated by RAAS (retains Na+), ANP (excretes Na+), and sympathetic tone (affects renal blood flow).",
+          "notes": {
+            "A": "True, but so are the others.",
+            "B": "True, but so are the others.",
+            "C": "True, but so are the others.",
+            "D": "True, but so are the others."
+          },
+          "topicId": "ren-fluid",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-445",
+          "type": "single-best",
+          "stem": "The information about the extracellular volume and its Na+ content is processed in the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "lateral hypothalamus"
+            },
+            {
+              "label": "B",
+              "text": "anterior hypothalamus"
+            },
+            {
+              "label": "C",
+              "text": "posterior hypothalamus"
+            },
+            {
+              "label": "D",
+              "text": "anterior thalamus"
+            },
+            {
+              "label": "E",
+              "text": "hyppocampus"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "The posterior hypothalamus is involved in regulating ECF volume and thirst.",
+          "notes": {
+            "A": "The lateral hypothalamus is linked to thirst and feeding.",
+            "B": "The anterior hypothalamus holds the osmoreceptors.",
+            "D": "The thalamus is a relay.",
+            "E": "The hippocampus is for memory."
+          },
+          "topicId": "ren-fluid",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-344",
+          "type": "single-best",
+          "stem": "The acid-buffering power:",
+          "options": [
+            {
+              "label": "A",
+              "text": "of HCO3- in blood is increased by respiratory control of pCO2"
+            },
+            {
+              "label": "B",
+              "text": "of haemoglobin exceeds that of HCO3- in blood"
+            },
+            {
+              "label": "C",
+              "text": "of HCO3- is increased by the action of carbonic anhydrase"
+            },
+            {
+              "label": "D",
+              "text": "of venous blood is normally greater than that of arterial blood"
+            },
+            {
+              "label": "E",
+              "text": "a, b, and d"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "The bicarbonate buffer system is highly effective due to respiratory control of CO2. Hemoglobin is also a major buffer, especially in venous blood.",
+          "notes": {
+            "A": "True, but B and D are also true.",
+            "B": "True, but A and D are also true.",
+            "C": "The enzyme speeds the reaction but does not add buffering power.",
+            "D": "True, but A and B are also true."
+          },
+          "topicId": "ren-acidbase",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-387",
+          "type": "single-best",
+          "stem": "A drug which inhibits carbonic anhydrase:",
+          "options": [
+            {
+              "label": "A",
+              "text": "decreases bicarbonate formation and reabsorption in the kidney"
+            },
+            {
+              "label": "B",
+              "text": "increases plasma bicarbonate levels"
+            },
+            {
+              "label": "C",
+              "text": "increases blood pH"
+            },
+            {
+              "label": "D",
+              "text": "decreases urinary loss of potassium ions"
+            },
+            {
+              "label": "E",
+              "text": "decreases urinary volume and pH"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Carbonic anhydrase inhibitors (like acetazolamide) reduce bicarbonate reabsorption, leading to alkaline urine and metabolic acidosis.",
+          "notes": {
+            "B": "Plasma bicarbonate FALLS.",
+            "C": "Blood pH FALLS.",
+            "D": "K+ loss INCREASES.",
+            "E": "Urine volume and pH INCREASE."
+          },
+          "topicId": "ren-acidbase",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-391",
+          "type": "single-best",
+          "stem": "A long-standing increase in arterial pCO2 (respiratory acidosis) leads to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "an increase in renal bicarbonate formation"
+            },
+            {
+              "label": "B",
+              "text": "a decrease in urinary ammonium salts"
+            },
+            {
+              "label": "C",
+              "text": "a decrease in plasma potassium concentration"
+            },
+            {
+              "label": "D",
+              "text": "an increase of the monohydrogen/dihydrogen phosphate ratio in urine"
+            },
+            {
+              "label": "E",
+              "text": "an increase in urinary bicarbonate excretion"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "In chronic respiratory acidosis, the kidneys compensate by retaining/generating more bicarbonate to raise blood pH.",
+          "notes": {
+            "B": "Ammonium excretion INCREASES.",
+            "C": "K+ tends to RISE.",
+            "D": "The ratio FALLS (more acid in urine).",
+            "E": "Urinary bicarbonate FALLS."
+          },
+          "topicId": "ren-acidbase",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-396",
+          "type": "single-best",
+          "stem": "An acid-base buffer system:",
+          "options": [
+            {
+              "label": "A",
+              "text": "can be a mixture of a weak acid and its conjugate base"
+            },
+            {
+              "label": "B",
+              "text": "can be a solution of sodium and chloride ions"
+            },
+            {
+              "label": "C",
+              "text": "prevents any change in pH when acid is added"
+            },
+            {
+              "label": "D",
+              "text": "works best when the pH is far from its pKa"
+            },
+            {
+              "label": "E",
+              "text": "cannot operate inside cells"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "A buffer consists of a weak acid and its conjugate base (or vice versa) that resists changes in pH.",
+          "notes": {
+            "B": "NaCl is not a buffer.",
+            "C": "Buffers MINIMISE change; they do not prevent it.",
+            "D": "Buffers work best near their pKa.",
+            "E": "Many buffers work inside cells (Hb, proteins, phosphate)."
+          },
+          "topicId": "ren-acidbase",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-397",
+          "type": "single-best",
+          "stem": "Acidosis in a patient may lead to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "increased urinary excretion of potassium"
+            },
+            {
+              "label": "B",
+              "text": "hypoventilation"
+            },
+            {
+              "label": "C",
+              "text": "a blood pH of less than 5.5"
+            },
+            {
+              "label": "D",
+              "text": "an urinary pH of less than 5.5"
+            },
+            {
+              "label": "E",
+              "text": "tetany"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "In acidosis, the kidneys excrete excess H+ into the urine, resulting in an acidic urinary pH (often below 5.5).",
+          "notes": {
+            "A": "Acidosis REDUCES K+ excretion acutely.",
+            "B": "Acidosis causes HYPERventilation.",
+            "C": "Incompatible with life.",
+            "E": "Tetany goes with ALKALOSIS."
+          },
+          "topicId": "ren-acidbase",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-399",
+          "type": "single-best",
+          "stem": "A raised blood pH and bicarbonate level is consistent with:",
+          "options": [
+            {
+              "label": "A",
+              "text": "metabolic acidosis"
+            },
+            {
+              "label": "B",
+              "text": "partly compensated respiratory alkalosis"
+            },
+            {
+              "label": "C",
+              "text": "a reduced pCO2"
+            },
+            {
+              "label": "D",
+              "text": "chronic renal failure with a raised pCO2"
+            },
+            {
+              "label": "E",
+              "text": "a history of persistent vomiting of gastric contents"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Persistent vomiting causes severe loss of stomach acid (HCl), leading to metabolic alkalosis (high pH and bicarbonate).",
+          "notes": {
+            "A": "Acidosis has low pH.",
+            "B": "That has LOW bicarbonate.",
+            "C": "Low pCO2 with raised bicarbonate is not this picture.",
+            "D": "Renal failure causes acidosis."
+          },
+          "topicId": "ren-acidbase",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-400",
+          "type": "single-best",
+          "stem": "A patient with partly compensated respiratory acidosis:",
+          "options": [
+            {
+              "label": "A",
+              "text": "must have a raised pCO2"
+            },
+            {
+              "label": "B",
+              "text": "must have a raised bicarbonate concentration [HCO3-]"
+            },
+            {
+              "label": "C",
+              "text": "may have evidence of renal compensation."
+            },
+            {
+              "label": "D",
+              "text": "may have respiratory failure due to hypoventilation"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Respiratory acidosis involves high pCO2 (hypoventilation). The kidneys compensate by retaining bicarbonate.",
+          "notes": {
+            "A": "True, but so are the others.",
+            "B": "True, but so are the others.",
+            "C": "True, but so are the others.",
+            "D": "True, but so are the others."
+          },
+          "topicId": "ren-acidbase",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-410",
+          "type": "single-best",
+          "stem": "The acid-base balance is maintained by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "buffer systems of body fluids"
+            },
+            {
+              "label": "B",
+              "text": "respiratory regulation"
+            },
+            {
+              "label": "C",
+              "text": "renal regulation"
+            },
+            {
+              "label": "D",
+              "text": "a, and c"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Acid-base balance involves chemical buffers (immediate), respiratory compensation (fast), and renal regulation (slow but powerful).",
+          "notes": {
+            "A": "True, but so are the others.",
+            "B": "True, but so are the others.",
+            "C": "True, but so are the others.",
+            "D": "Respiration also contributes."
+          },
+          "topicId": "ren-acidbase",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-411",
+          "type": "single-best",
+          "stem": "For the buffer capacity of the blood of highest significance is the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "haemoglobin buffer system"
+            },
+            {
+              "label": "B",
+              "text": "protein buffer system"
+            },
+            {
+              "label": "C",
+              "text": "phosphate buffer system"
+            },
+            {
+              "label": "D",
+              "text": "hydrogen carbonate buffer system"
+            },
+            {
+              "label": "E",
+              "text": "ammonium buffer system"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "The bicarbonate (hydrogen carbonate) buffer system is the most important extracellular buffer.",
+          "notes": {
+            "A": "Important, mainly intracellular.",
+            "B": "Moderate.",
+            "C": "Mainly intracellular and urinary.",
+            "E": "Urinary, not blood."
+          },
+          "topicId": "ren-acidbase",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-renal-413",
+          "type": "single-best",
+          "stem": "The H+ ions are excreted in the tubular fluid as a result of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "glomerular filtration"
+            },
+            {
+              "label": "B",
+              "text": "tubular reabsorption"
+            },
+            {
+              "label": "C",
+              "text": "tubular secretion"
+            },
+            {
+              "label": "D",
+              "text": "b, and c"
+            },
+            {
+              "label": "E",
+              "text": "none of the above"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "H+ is actively secreted into the tubular lumen by the proximal and distal tubules.",
+          "notes": {
+            "A": "Little H+ is filtered.",
+            "B": "Not reabsorbed.",
+            "D": "Only secretion.",
+            "E": "Option C is correct."
+          },
+          "topicId": "ren-acidbase",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-414",
+          "type": "single-best",
+          "stem": "HCO3- are excreted in the tubular fluid as a result of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "glomerular filtration"
+            },
+            {
+              "label": "B",
+              "text": "tubular reabsorption"
+            },
+            {
+              "label": "C",
+              "text": "tubular secretion"
+            },
+            {
+              "label": "D",
+              "text": "b, and c"
+            },
+            {
+              "label": "E",
+              "text": "none of the above"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Bicarbonate is freely filtered at the glomerulus. (Most is then reabsorbed).",
+          "notes": {
+            "B": "Reabsorption REMOVES it from the tubular fluid.",
+            "C": "HCO3- is not secreted in the proximal tubule.",
+            "D": "Only filtration.",
+            "E": "Option A is correct."
+          },
+          "topicId": "ren-acidbase",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-415",
+          "type": "single-best",
+          "stem": "The secretion of H+ in the tubular fluid is achieved by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "osmosis and diffusion"
+            },
+            {
+              "label": "B",
+              "text": "diffusion and primary active transport"
+            },
+            {
+              "label": "C",
+              "text": "primary and secondary active transport"
+            },
+            {
+              "label": "D",
+              "text": "secondary active transport"
+            },
+            {
+              "label": "E",
+              "text": "a, and d"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "H+ is secreted via primary active transport (H+-ATPase) and secondary active transport (Na+/H+ exchanger).",
+          "notes": {
+            "A": "Not involved.",
+            "B": "Not diffusion.",
+            "D": "Only part of it.",
+            "E": "A is false."
+          },
+          "topicId": "ren-acidbase",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-416",
+          "type": "single-best",
+          "stem": "In acidosis, the kidneys:",
+          "options": [
+            {
+              "label": "A",
+              "text": "increase the excretion of H+ and HCO3-"
+            },
+            {
+              "label": "B",
+              "text": "decrease the excretion of H+ and increase the reabsorption of HCO3-"
+            },
+            {
+              "label": "C",
+              "text": "increase the excretion of H+ and reabsorption of HCO3-"
+            },
+            {
+              "label": "D",
+              "text": "decrease the excretion of H+ and reabsorption of HCO3-"
+            },
+            {
+              "label": "E",
+              "text": "none of the above"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "In acidosis, the kidneys excrete more H+ (to remove acid) and reabsorb more HCO3- (to replenish base).",
+          "notes": {
+            "A": "HCO3- is RETAINED.",
+            "B": "H+ excretion INCREASES.",
+            "D": "Both INCREASE.",
+            "E": "Option C is correct."
+          },
+          "topicId": "ren-acidbase",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-renal-417",
+          "type": "single-best",
+          "stem": "In alcalosis, the kidneys:",
+          "options": [
+            {
+              "label": "A",
+              "text": "decrease the excretion of H+ and increase the reabsorption of HCO3-"
+            },
+            {
+              "label": "B",
+              "text": "increase the excretion of H+"
+            },
+            {
+              "label": "C",
+              "text": "increase the excretion of H+ and decrease the excretion of HCO3-"
+            },
+            {
+              "label": "D",
+              "text": "increase the indirect reabsorption of HCO3-"
+            },
+            {
+              "label": "E",
+              "text": "decrease the excretion of H+ and increase the excretion of HCO3-"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "In alkalosis, the kidneys conserve H+ (decrease excretion) and excrete excess HCO3-.",
+          "notes": {
+            "A": "HCO3- is EXCRETED.",
+            "B": "H+ excretion DECREASES.",
+            "C": "Both directions are reversed.",
+            "D": "Reabsorption DECREASES."
+          },
+          "topicId": "ren-acidbase",
+          "subtopic": "",
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ]
+}

@@ -43,6 +43,60 @@
                 "data/mock-02-60q.json",
                 "data/mock-03-60q.json"
               ]
+            },
+            {
+              "id": "gi",
+              "title": "Digestive physiology and metabolism",
+              "topics": "data/physiology/gi-topics.json",
+              "past": [
+                "data/physiology/gi-past.json"
+              ],
+              "curated": []
+            },
+            {
+              "id": "renal",
+              "title": "Renal physiology",
+              "topics": "data/physiology/renal-topics.json",
+              "past": [
+                "data/physiology/renal-past.json"
+              ],
+              "curated": []
+            },
+            {
+              "id": "resp",
+              "title": "Respiratory physiology",
+              "topics": "data/physiology/resp-topics.json",
+              "past": [
+                "data/physiology/resp-past.json"
+              ],
+              "curated": []
+            },
+            {
+              "id": "endocrine",
+              "title": "Endocrine and reproductive physiology",
+              "topics": "data/physiology/endocrine-topics.json",
+              "past": [
+                "data/physiology/endocrine-past.json"
+              ],
+              "curated": []
+            },
+            {
+              "id": "senses",
+              "title": "Special senses",
+              "topics": "data/physiology/senses-topics.json",
+              "past": [
+                "data/physiology/senses-past.json"
+              ],
+              "curated": []
+            },
+            {
+              "id": "cns",
+              "title": "CNS and thermoregulation",
+              "topics": "data/physiology/cns-topics.json",
+              "past": [
+                "data/physiology/cns-past.json"
+              ],
+              "curated": []
             }
           ]
         },

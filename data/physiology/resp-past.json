@@ -1,0 +1,4138 @@
+{
+  "sets": [
+    {
+      "id": "resp-past",
+      "title": "Respiratory physiology past questions",
+      "questions": [
+        {
+          "id": "phy-resp-051",
+          "type": "single-best",
+          "stem": "Inspiration occurs as a result of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "an upward movement of the diaphragm"
+            },
+            {
+              "label": "B",
+              "text": "upward and outward movement of the ribs due to contraction of the external intercostal muscles"
+            },
+            {
+              "label": "C",
+              "text": "downward movement of the diaphragm"
+            },
+            {
+              "label": "D",
+              "text": "a and b"
+            },
+            {
+              "label": "E",
+              "text": "b and c"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Inspiration is an active process driven by the downward contraction of the diaphragm and the outward/upward movement of the ribs (external intercostals).",
+          "notes": {
+            "A": "The diaphragm moves DOWN in inspiration.",
+            "B": "True, but so is C.",
+            "C": "True, but so is B.",
+            "D": "A is false."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-resp-052",
+          "type": "single-best",
+          "stem": "In order for the lungs to function normally, the intrapleural pressure must:",
+          "options": [
+            {
+              "label": "A",
+              "text": "be lower than alveolar pressure"
+            },
+            {
+              "label": "B",
+              "text": "be between +5 and +10 mmHg above the atmospheric pressure"
+            },
+            {
+              "label": "C",
+              "text": "alternate between being less than and greater than the atmospheric pressure"
+            },
+            {
+              "label": "D",
+              "text": "change as respiratory demands of the body change"
+            },
+            {
+              "label": "E",
+              "text": "be the same as the atmospheric pressure"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "A negative (subatmospheric) intrapleural pressure relative to alveolar pressure is essential to keep the lungs expanded.",
+          "notes": {
+            "B": "It is subatmospheric (about −4 mmHg).",
+            "C": "It stays subatmospheric in quiet breathing.",
+            "D": "It does vary, but staying below alveolar pressure is what keeps the lungs open.",
+            "E": "Equal pressure (pneumothorax) collapses the lung."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-055",
+          "type": "single-best",
+          "stem": "Which of the following is the site of the highest airway resistance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mouth"
+            },
+            {
+              "label": "B",
+              "text": "largest bronchi"
+            },
+            {
+              "label": "C",
+              "text": "medium sized bronchi"
+            },
+            {
+              "label": "D",
+              "text": "smallest bronchi"
+            },
+            {
+              "label": "E",
+              "text": "alveoli"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "While the total cross-sectional area is smaller higher up, the medium-sized bronchi contribute the most to total airway resistance.",
+          "notes": {
+            "A": "The mouth contributes little at rest.",
+            "B": "The largest bronchi carry less resistance than medium ones.",
+            "D": "Small airways are numerous, in parallel, so their total resistance is low.",
+            "E": "Alveoli are not conducting airways."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-059",
+          "type": "single-best",
+          "stem": "Vital Capacity includes:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Tidal Volume"
+            },
+            {
+              "label": "B",
+              "text": "Expiratory Reserve Volume"
+            },
+            {
+              "label": "C",
+              "text": "Residual Volume"
+            },
+            {
+              "label": "D",
+              "text": "Inspiratory Reserve Volume"
+            },
+            {
+              "label": "E",
+              "text": "a, b, and d"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Vital Capacity = Tidal Volume + Inspiratory Reserve Volume + Expiratory Reserve Volume. It excludes Residual Volume.",
+          "notes": {
+            "A": "Included, along with ERV and IRV.",
+            "B": "Included, along with TV and IRV.",
+            "C": "RV is NOT part of VC.",
+            "D": "Included, along with TV and ERV."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-resp-060",
+          "type": "single-best",
+          "stem": "Which muscles contract in quiet breathing?",
+          "options": [
+            {
+              "label": "A",
+              "text": "abdominal"
+            },
+            {
+              "label": "B",
+              "text": "external intercostal muscles"
+            },
+            {
+              "label": "C",
+              "text": "diaphragm"
+            },
+            {
+              "label": "D",
+              "text": "pectoral muscle"
+            },
+            {
+              "label": "E",
+              "text": "b and c"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Quiet inspiration is driven primarily by the diaphragm and the external intercostal muscles.",
+          "notes": {
+            "A": "Abdominals are for active expiration.",
+            "B": "Correct, but the diaphragm also contracts.",
+            "C": "Correct, but the external intercostals also contract.",
+            "D": "Pectorals are accessory muscles."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-resp-066",
+          "type": "single-best",
+          "stem": "Surfactant:",
+          "options": [
+            {
+              "label": "A",
+              "text": "is produced by type I alveolar cells"
+            },
+            {
+              "label": "B",
+              "text": "increases alveolar surface tension"
+            },
+            {
+              "label": "C",
+              "text": "makes the intrapleural pressure positive"
+            },
+            {
+              "label": "D",
+              "text": "reduces blood flow to the lungs"
+            },
+            {
+              "label": "E",
+              "text": "increases pulmonary compliance"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Surfactant reduces surface tension, which prevents alveolar collapse and significantly increases pulmonary compliance.",
+          "notes": {
+            "A": "Type II cells make it.",
+            "B": "It LOWERS surface tension.",
+            "C": "Intrapleural pressure stays negative.",
+            "D": "It does not affect blood flow."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-068",
+          "type": "single-best",
+          "stem": "Obligatory respiratory muscles are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the diaphragm and mm. intercostales interni"
+            },
+            {
+              "label": "B",
+              "text": "the diaphragm and mm. intercostales externi"
+            },
+            {
+              "label": "C",
+              "text": "mm. abdominales"
+            },
+            {
+              "label": "D",
+              "text": "mm. serrati posteriores inferiores"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "The diaphragm and external intercostals are the primary (obligatory) muscles of quiet inspiration.",
+          "notes": {
+            "A": "The internal intercostals are expiratory.",
+            "C": "Abdominals are for forced expiration.",
+            "D": "These are accessory muscles.",
+            "E": "Only B is obligatory."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-resp-070",
+          "type": "single-best",
+          "stem": "For the surfactant it is true that:",
+          "options": [
+            {
+              "label": "A",
+              "text": "is produced by type II alveolar cells"
+            },
+            {
+              "label": "B",
+              "text": "consists of phospholipids, proteins and carbohydrates"
+            },
+            {
+              "label": "C",
+              "text": "decreases the alveolar surface tension at the end of expiration"
+            },
+            {
+              "label": "D",
+              "text": "protects the lungs from atelectasis and edema"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Surfactant is produced by type II pneumocytes, is a mix of lipids/proteins, lowers surface tension more at expiration, and prevents atelectasis.",
+          "notes": {
+            "A": "True, but so are the other statements.",
+            "B": "True, but so are the other statements.",
+            "C": "True, but so are the other statements.",
+            "D": "True, but so are the other statements."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-resp-073",
+          "type": "single-best",
+          "stem": "Normal breathing at rest is called:",
+          "options": [
+            {
+              "label": "A",
+              "text": "polypnoe"
+            },
+            {
+              "label": "B",
+              "text": "eupnoe"
+            },
+            {
+              "label": "C",
+              "text": "tachyphnoe"
+            },
+            {
+              "label": "D",
+              "text": "dyspnoe"
+            },
+            {
+              "label": "E",
+              "text": "hyperpnoe"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Eupnea is the medical term for normal, quiet breathing at rest.",
+          "notes": {
+            "A": "Polypnoea means fast, shallow breathing.",
+            "C": "Tachypnoea is a fast rate.",
+            "D": "Dyspnoea is difficult breathing.",
+            "E": "Hyperpnoea is increased depth."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-074",
+          "type": "single-best",
+          "stem": "During expiration:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the thoracic cage recoils and the diaphragm moves upwards"
+            },
+            {
+              "label": "B",
+              "text": "the intrapleural pressure decreases"
+            },
+            {
+              "label": "C",
+              "text": "the intrapleural pressure increases"
+            },
+            {
+              "label": "D",
+              "text": "a, and b"
+            },
+            {
+              "label": "E",
+              "text": "a, and c"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Expiration is typically passive: the diaphragm relaxes (moves up) and the chest wall recoils. This increases (makes less negative) intrapleural pressure.",
+          "notes": {
+            "A": "True, but C is also true.",
+            "B": "It rises (becomes less negative).",
+            "C": "True, but A is also true.",
+            "D": "B is false."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-resp-076",
+          "type": "single-best",
+          "stem": "Tidal Volume (TV) is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the volume of air, which passes through the lungs per minute"
+            },
+            {
+              "label": "B",
+              "text": "bigger than the Residual Volume (RV)"
+            },
+            {
+              "label": "C",
+              "text": "an element of the Functional Residual Capacity (FRC)"
+            },
+            {
+              "label": "D",
+              "text": "a, b, and c"
+            },
+            {
+              "label": "E",
+              "text": "0.5 l approximately"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Normal tidal volume is about 500 mL (0.5 L).",
+          "notes": {
+            "A": "That is minute ventilation.",
+            "B": "RV (about 1.2 L) is bigger than TV.",
+            "C": "FRC = ERV + RV.",
+            "D": "A, B and C are false."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-resp-077",
+          "type": "single-best",
+          "stem": "The intrapleural pressure is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "higher than the atmospheric pressure"
+            },
+            {
+              "label": "B",
+              "text": "lower than the atmospheric pressure"
+            },
+            {
+              "label": "C",
+              "text": "equal to the atmospheric pressure"
+            },
+            {
+              "label": "D",
+              "text": "depends on the water molecules' surface tension and elastic fibers"
+            },
+            {
+              "label": "E",
+              "text": "b, and d"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Intrapleural pressure is subatmospheric (about −4 mmHg at rest) because the lung's elastic fibres and alveolar surface tension pull the lung inward while the chest wall pulls outward.",
+          "notes": {
+            "A": "It is subatmospheric.",
+            "B": "True, but D is also true.",
+            "C": "It is not atmospheric.",
+            "D": "True, but B is also true."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "hard",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-resp-078",
+          "type": "single-best",
+          "stem": "The anatomical dead space:",
+          "options": [
+            {
+              "label": "A",
+              "text": "includes the volume of air in the alveoli"
+            },
+            {
+              "label": "B",
+              "text": "is the space where most gas exchange occurs"
+            },
+            {
+              "label": "C",
+              "text": "is approximately 140 ml"
+            },
+            {
+              "label": "D",
+              "text": "is approximately 500 ml"
+            },
+            {
+              "label": "E",
+              "text": "is about 6 l·min-1"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Anatomical dead space (the conducting airways) is normally about 150 mL (the exam key says 140 mL, which is acceptable).",
+          "notes": {
+            "A": "Dead space excludes the alveoli.",
+            "B": "No gas exchange occurs there.",
+            "D": "500 ml is the tidal volume.",
+            "E": "That is a minute ventilation figure."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-079",
+          "type": "single-best",
+          "stem": "The Residual Volume (RV) is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the volume of air, which remains in the lungs after maximal expiration"
+            },
+            {
+              "label": "B",
+              "text": "the volume of air, which remains in the lungs after maximal inspiration"
+            },
+            {
+              "label": "C",
+              "text": "is about 2 - 3 l"
+            },
+            {
+              "label": "D",
+              "text": "is the tidal volume plus the inspiratory reserve volume"
+            },
+            {
+              "label": "E",
+              "text": "a component of the Vital Capacity (VC)"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "RV is the air left in the lungs after a maximal forced expiration. It is not part of vital capacity.",
+          "notes": {
+            "B": "That is TLC.",
+            "C": "RV is about 1.2 L.",
+            "D": "TV + IRV = IC.",
+            "E": "RV is not part of VC."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-575",
+          "type": "single-best",
+          "stem": "It is not true that Vital Capacity (VC):",
+          "options": [
+            {
+              "label": "A",
+              "text": "is a sum of ERV+TV+IRV"
+            },
+            {
+              "label": "B",
+              "text": "depends on sex and age"
+            },
+            {
+              "label": "C",
+              "text": "depends on chest measurement"
+            },
+            {
+              "label": "D",
+              "text": "is a sum of IC+ERV"
+            },
+            {
+              "label": "E",
+              "text": "is a sum of TV+ERV+RV"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "VC does NOT include residual volume (RV). VC = TV + IRV + ERV.",
+          "notes": {
+            "A": "True: VC = ERV + TV + IRV.",
+            "B": "True: VC varies with sex and age.",
+            "C": "True: VC varies with body size.",
+            "D": "True: IC + ERV = VC."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-576",
+          "type": "single-best",
+          "stem": "There are smooth muscles in the respiratory system:",
+          "options": [
+            {
+              "label": "A",
+              "text": "on the external surface of the lungs"
+            },
+            {
+              "label": "B",
+              "text": "on the medial surface of the lungs"
+            },
+            {
+              "label": "C",
+              "text": "in the trachea, bronchi and bronchioles"
+            },
+            {
+              "label": "D",
+              "text": "around the alveoli"
+            },
+            {
+              "label": "E",
+              "text": "on the external and medial surfaces of the lungs"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Smooth muscle is found in the walls of the airways (trachea, bronchi, bronchioles), controlling their diameter. Alveoli lack smooth muscle.",
+          "notes": {
+            "A": "The lung surface (pleura) has no smooth muscle layer.",
+            "B": "The lung surface (pleura) has no smooth muscle layer.",
+            "D": "Alveoli have no muscle.",
+            "E": "The lung surfaces (pleura) have no smooth muscle layer."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-578",
+          "type": "single-best",
+          "stem": "The elastic fibers in the lungs are situated:",
+          "options": [
+            {
+              "label": "A",
+              "text": "around the alveoli"
+            },
+            {
+              "label": "B",
+              "text": "around the terminal branches of the bronchi"
+            },
+            {
+              "label": "C",
+              "text": "on the external and the medial surface of the lungs"
+            },
+            {
+              "label": "D",
+              "text": "a, and b"
+            },
+            {
+              "label": "E",
+              "text": "all of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Elastic fibers are distributed throughout the lung parenchyma (alveoli, airways, and pleural surfaces) to provide elastic recoil.",
+          "notes": {
+            "A": "True, but they are elsewhere too.",
+            "B": "True, but they are elsewhere too.",
+            "C": "True, but they are elsewhere too.",
+            "D": "C is also true."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-resp-583",
+          "type": "single-best",
+          "stem": "Which of the following does not happen during inspiration?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the ribs move upward"
+            },
+            {
+              "label": "B",
+              "text": "the diaphragm lifts up"
+            },
+            {
+              "label": "C",
+              "text": "the antero-posterior dimensions of the chest are increased"
+            },
+            {
+              "label": "D",
+              "text": "the transverse dimensions of the thorax are increased"
+            },
+            {
+              "label": "E",
+              "text": "the scalene and sternocleidomastoid muscles can be recruited for inspiration"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "During inspiration, the diaphragm contracts and moves DOWNWARD, not upward.",
+          "notes": {
+            "A": "Ribs DO move up.",
+            "C": "AP diameter DOES increase.",
+            "D": "Transverse diameter DOES increase.",
+            "E": "Accessory muscles CAN be used."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-584",
+          "type": "single-best",
+          "stem": "Total Lung Capacity (TLC) of men would normally be about:",
+          "options": [
+            {
+              "label": "A",
+              "text": "4200 ml"
+            },
+            {
+              "label": "B",
+              "text": "1500 ml"
+            },
+            {
+              "label": "C",
+              "text": "6000 ml"
+            },
+            {
+              "label": "D",
+              "text": "8000 ml"
+            },
+            {
+              "label": "E",
+              "text": "10000 ml"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Normal TLC is approximately 6 liters (6000 mL) in an average adult male.",
+          "notes": {
+            "A": "4200 ml is about the vital capacity.",
+            "B": "1500 ml is too small.",
+            "D": "Too large.",
+            "E": "Too large."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-589",
+          "type": "single-best",
+          "stem": "The surfactant:",
+          "options": [
+            {
+              "label": "A",
+              "text": "makes expiration difficult"
+            },
+            {
+              "label": "B",
+              "text": "reduces the surface tension of the water layer within alveoli"
+            },
+            {
+              "label": "C",
+              "text": "relaxes the bronchi"
+            },
+            {
+              "label": "D",
+              "text": "increases in concentration when the sympathetic tone is increased"
+            },
+            {
+              "label": "E",
+              "text": "in increased concentration causes oedema"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Surfactant reduces alveolar surface tension, preventing alveolar collapse at the end of expiration.",
+          "notes": {
+            "A": "It makes the lungs EASIER to inflate and keeps them stable in expiration.",
+            "C": "It does not act on smooth muscle.",
+            "D": "Not a recognised effect.",
+            "E": "It PREVENTS oedema."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-594",
+          "type": "single-best",
+          "stem": "Pulmonary surfactant increases:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the surface tension of the fluid lining alveolar walls"
+            },
+            {
+              "label": "B",
+              "text": "lung compliance"
+            },
+            {
+              "label": "C",
+              "text": "in effectiveness as the lungs are inflated"
+            },
+            {
+              "label": "D",
+              "text": "in amount when pulmonary blood flow is interrupted"
+            },
+            {
+              "label": "E",
+              "text": "the airflow resistance in bronchi"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Surfactant lowers surface tension, which increases pulmonary compliance (making the lungs easier to inflate).",
+          "notes": {
+            "A": "It DECREASES surface tension.",
+            "C": "It works BEST when alveoli are small.",
+            "D": "Interrupted flow REDUCES surfactant.",
+            "E": "It does not act on bronchi."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-596",
+          "type": "single-best",
+          "stem": "During inspiration:",
+          "options": [
+            {
+              "label": "A",
+              "text": "intrapleural pressure is lowest at midinspiration"
+            },
+            {
+              "label": "B",
+              "text": "intrapulmonary pressure is lowest around mid-inspiration"
+            },
+            {
+              "label": "C",
+              "text": "intraoesophageal pressure is lowest at midinspiration"
+            },
+            {
+              "label": "D",
+              "text": "the rate of air flow is greatest at endinspiration"
+            },
+            {
+              "label": "E",
+              "text": "the lung volume/intrapleural pressure relationship is the same as in expiration"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Intrapulmonary (alveolar) pressure drops below atmospheric pressure during inspiration, reaching its lowest point mid-inspiration when airflow is highest.",
+          "notes": {
+            "A": "Intrapleural pressure is lowest at END inspiration.",
+            "C": "Oesophageal pressure follows pleural pressure (lowest at end).",
+            "D": "Flow is greatest at MID inspiration.",
+            "E": "There is hysteresis."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-602",
+          "type": "single-best",
+          "stem": "During inspiration:",
+          "options": [
+            {
+              "label": "A",
+              "text": "venous return to the heart is increased"
+            },
+            {
+              "label": "B",
+              "text": "less energy is expended than during expiration"
+            },
+            {
+              "label": "C",
+              "text": "lung expansion is assisted by surface tension forces in the alveoli"
+            },
+            {
+              "label": "D",
+              "text": "lung expansion begins when intrapleural pressure falls below atmospheric"
+            },
+            {
+              "label": "E",
+              "text": "the relative concentration of surfactant increases in alveoli"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "The decrease in intrathoracic pressure during inspiration draws more blood into the thoracic veins, increasing venous return.",
+          "notes": {
+            "B": "Inspiration is the ACTIVE phase.",
+            "C": "Surface tension OPPOSES expansion.",
+            "D": "Pleural pressure is ALREADY subatmospheric.",
+            "E": "Surfactant is diluted as alveoli expand."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-603",
+          "type": "single-best",
+          "stem": "The residual volume (RV) is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the volume of air remaining in the lungs at the end of a maximal expiration"
+            },
+            {
+              "label": "B",
+              "text": "greater on average in women than in men"
+            },
+            {
+              "label": "C",
+              "text": "3-4 litres on average in young adults"
+            },
+            {
+              "label": "D",
+              "text": "measured directly using a spirometer"
+            },
+            {
+              "label": "E",
+              "text": "smaller in old than in young people"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "RV is the air left in the lungs after the most forceful expiration. It cannot be measured directly by a spirometer.",
+          "notes": {
+            "B": "It is greater in men (larger lungs).",
+            "C": "RV is about 1.2 L.",
+            "D": "Spirometry cannot measure RV.",
+            "E": "RV is LARGER in the elderly."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-609",
+          "type": "single-best",
+          "stem": "The compliance of the lungs and chest wall is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "expressed as volume change per unit change in pressure"
+            },
+            {
+              "label": "B",
+              "text": "minimal during quiet breathing"
+            },
+            {
+              "label": "C",
+              "text": "increased by the surface tension of the fluid lining the alveoli"
+            },
+            {
+              "label": "D",
+              "text": "decreased by surfactant"
+            },
+            {
+              "label": "E",
+              "text": "changed by parallel displacement of the line relating lung volume to distending pressure"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Compliance is defined as the change in lung volume per unit change in transpulmonary pressure (ΔV/ΔP).",
+          "notes": {
+            "B": "It is normal, not minimal.",
+            "C": "Surface tension DECREASES compliance.",
+            "D": "Surfactant INCREASES compliance.",
+            "E": "Compliance is the slope; a parallel shift keeps it."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-610",
+          "type": "single-best",
+          "stem": "Respiratory dead space:",
+          "options": [
+            {
+              "label": "A",
+              "text": "includes the volume of air in the airways up to the terminal bronchi"
+            },
+            {
+              "label": "B",
+              "text": "is where the gas exchange occur"
+            },
+            {
+              "label": "C",
+              "text": "is about 360 ml"
+            },
+            {
+              "label": "D",
+              "text": "makes great changes in O2 and CO2 contain in alveolar air"
+            },
+            {
+              "label": "E",
+              "text": "includes the volume of air which reaches the alveoli"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Anatomical dead space is the volume of the conducting airways where no gas exchange occurs.",
+          "notes": {
+            "B": "No exchange occurs there.",
+            "C": "It is about 150 ml.",
+            "D": "It has little effect at normal tidal volumes.",
+            "E": "Air that reaches the alveoli is alveolar ventilation."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-615",
+          "type": "single-best",
+          "stem": "Air in the pleural cavity (pneumothorax):",
+          "options": [
+            {
+              "label": "A",
+              "text": "allows intrapleural pressure to rise and become equal to the atmospheric pressure"
+            },
+            {
+              "label": "B",
+              "text": "causes the underlying lung to collapse by compressing it"
+            },
+            {
+              "label": "C",
+              "text": "increases the functional residual capacity"
+            },
+            {
+              "label": "D",
+              "text": "leads to a slight inward movement of the chest wall"
+            },
+            {
+              "label": "E",
+              "text": "increases the vital capacity"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "In pneumothorax, the negative intrapleural pressure is lost, causing the lung to collapse.",
+          "notes": {
+            "B": "The lung collapses by its own recoil.",
+            "C": "FRC FALLS.",
+            "D": "The chest wall springs OUTWARD.",
+            "E": "VC FALLS."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-616",
+          "type": "single-best",
+          "stem": "Loss of pulmonary elastic tissue in 'emphysema' reduces:",
+          "options": [
+            {
+              "label": "A",
+              "text": "physiological dead space"
+            },
+            {
+              "label": "B",
+              "text": "the surfactant"
+            },
+            {
+              "label": "C",
+              "text": "residual volume"
+            },
+            {
+              "label": "D",
+              "text": "vital capacity"
+            },
+            {
+              "label": "E",
+              "text": "the intrapleural pressure"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Emphysema destroys alveolar walls and elastic recoil, leading to air trapping (increased RV) and decreased vital capacity.",
+          "notes": {
+            "A": "Dead space INCREASES.",
+            "B": "Surfactant is not the defect.",
+            "C": "RV INCREASES (air trapping).",
+            "E": "Pleural pressure becomes less negative."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-617",
+          "type": "single-best",
+          "stem": "Complete obstruction of a major bronchus usually results in:",
+          "options": [
+            {
+              "label": "A",
+              "text": "collapse of the alveoli supplied by the bronchus"
+            },
+            {
+              "label": "B",
+              "text": "a rise in local intrapleural pressure"
+            },
+            {
+              "label": "C",
+              "text": "an increase in physiological dead space"
+            },
+            {
+              "label": "D",
+              "text": "an increase in blood flow to the lung tissue supplied by the bronchus"
+            },
+            {
+              "label": "E",
+              "text": "cyanosis"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Air trapped behind a complete obstruction is absorbed, causing the alveoli to collapse (atelectasis).",
+          "notes": {
+            "B": "Local pleural pressure FALLS.",
+            "C": "Collapse creates a SHUNT.",
+            "D": "Hypoxic vasoconstriction REDUCES flow.",
+            "E": "Not usual with one major bronchus."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-626",
+          "type": "single-best",
+          "stem": "For air to enter the lungs during inspiration:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the pressure inside the lungs must be higher than the atmospheric pressure"
+            },
+            {
+              "label": "B",
+              "text": "the pressure inside the lungs must become lower than the atmospheric pressure"
+            },
+            {
+              "label": "C",
+              "text": "the pressure inside the lungs must be equal to the atmospheric pressure"
+            },
+            {
+              "label": "D",
+              "text": "the diaphragm must be relaxed"
+            },
+            {
+              "label": "E",
+              "text": "the external intercostal muscles must be relaxed"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Air flows into the lungs due to a pressure gradient. Intra-alveolar pressure must drop below atmospheric pressure.",
+          "notes": {
+            "A": "That would push air OUT.",
+            "C": "No gradient means no flow.",
+            "D": "The diaphragm CONTRACTS.",
+            "E": "They CONTRACT."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-629",
+          "type": "single-best",
+          "stem": "If forcefully exhaling as much air as possible after a normal breath, this is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "tidal volume"
+            },
+            {
+              "label": "B",
+              "text": "expiratory reserve volume"
+            },
+            {
+              "label": "C",
+              "text": "maximum expiratory flow rate"
+            },
+            {
+              "label": "D",
+              "text": "eupnea"
+            },
+            {
+              "label": "E",
+              "text": "inspiratory reserve volume"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "The extra volume of air that can be forcibly exhaled after a normal expiration is the expiratory reserve volume (ERV).",
+          "notes": {
+            "A": "TV is a normal breath.",
+            "C": "That is a flow, not a volume.",
+            "D": "Eupnoea is normal breathing.",
+            "E": "IRV is extra INSPIRATION."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-631",
+          "type": "single-best",
+          "stem": "Water molecules on the surface of the alveoli generate surface tension. This force:",
+          "options": [
+            {
+              "label": "A",
+              "text": "inhibits alveolar collapse"
+            },
+            {
+              "label": "B",
+              "text": "assists pulmonary compliance"
+            },
+            {
+              "label": "C",
+              "text": "assists elastic recoil"
+            },
+            {
+              "label": "D",
+              "text": "resists elastic recoil"
+            },
+            {
+              "label": "E",
+              "text": "impairs gas exchange"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Surface tension acts to minimize surface area, assisting in elastic recoil (which helps expiration). Surfactant reduces this tension.",
+          "notes": {
+            "A": "It PROMOTES collapse.",
+            "B": "It REDUCES compliance.",
+            "D": "It ADDS to recoil.",
+            "E": "Its main effect is on recoil and compliance."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-635",
+          "type": "single-best",
+          "stem": "The normal FEV1/FVC ratio in an adult is about:",
+          "options": [
+            {
+              "label": "A",
+              "text": "95%"
+            },
+            {
+              "label": "B",
+              "text": "80%"
+            },
+            {
+              "label": "C",
+              "text": "65%"
+            },
+            {
+              "label": "D",
+              "text": "50%"
+            },
+            {
+              "label": "E",
+              "text": "40%"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Normal FEV1/FVC ratio is approximately 80%.",
+          "notes": {
+            "A": "Too high.",
+            "C": "Suggests obstruction.",
+            "D": "Obstructive disease.",
+            "E": "Severe obstruction."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-637",
+          "type": "single-best",
+          "stem": "Intrapleural pressure:",
+          "options": [
+            {
+              "label": "A",
+              "text": "is higher than the atmospheric one as in inspiration"
+            },
+            {
+              "label": "B",
+              "text": "is lower than the atmospheric one as in inspiration"
+            },
+            {
+              "label": "C",
+              "text": "is equal to the atmospheric one"
+            },
+            {
+              "label": "D",
+              "text": "does not depend on the water molecules"
+            },
+            {
+              "label": "E",
+              "text": "does not change when pleural cavity hermeticity is impaired"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Intrapleural pressure is normally subatmospheric (negative), and becomes even more negative during inspiration.",
+          "notes": {
+            "A": "It is never above atmospheric in quiet breathing.",
+            "C": "It is subatmospheric.",
+            "D": "Surface tension DOES matter.",
+            "E": "Pneumothorax brings it to atmospheric."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-639",
+          "type": "single-best",
+          "stem": "Surfactant is secreted by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "type 2 pneumocytes"
+            },
+            {
+              "label": "B",
+              "text": "type 1 pneumocytes"
+            },
+            {
+              "label": "C",
+              "text": "goblet cells"
+            },
+            {
+              "label": "D",
+              "text": "pulmonary vessels"
+            },
+            {
+              "label": "E",
+              "text": "bronchial smooth muscle cells"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Type II alveolar cells secrete pulmonary surfactant.",
+          "notes": {
+            "B": "Type I cells are for exchange.",
+            "C": "Goblet cells make mucus.",
+            "D": "Not secretory for surfactant.",
+            "E": "Smooth muscle does not secrete it."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-641",
+          "type": "single-best",
+          "stem": "Airway resistance:",
+          "options": [
+            {
+              "label": "A",
+              "text": "increases in asthma"
+            },
+            {
+              "label": "B",
+              "text": "decreases in emphysema"
+            },
+            {
+              "label": "C",
+              "text": "increases in paraplegic patients"
+            },
+            {
+              "label": "D",
+              "text": "does not affect work of breathing"
+            },
+            {
+              "label": "E",
+              "text": "decreases in asthma"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Asthma causes bronchoconstriction and increased mucus, significantly increasing airway resistance.",
+          "notes": {
+            "B": "It INCREASES in emphysema (airway collapse).",
+            "C": "Airways are normal in paraplegia.",
+            "D": "Resistance ADDS work.",
+            "E": "It INCREASES in asthma."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-643",
+          "type": "single-best",
+          "stem": "The intrapleural pressure at the end of quiet expiration is about:",
+          "options": [
+            {
+              "label": "A",
+              "text": "- 4 mm Hg"
+            },
+            {
+              "label": "B",
+              "text": "+ 4 mm Hg"
+            },
+            {
+              "label": "C",
+              "text": "- 6 mm Hg"
+            },
+            {
+              "label": "D",
+              "text": "+ 6 mm Hg"
+            },
+            {
+              "label": "E",
+              "text": "- 10 mm Hg"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "At FRC the inward recoil of the lung and the outward recoil of the chest wall give an intrapleural pressure of about −5 cmH2O (−4 mmHg). It falls to about −6 mmHg at the end of quiet inspiration and much lower in deep inspiration.",
+          "notes": {
+            "B": "It is never positive in quiet breathing.",
+            "C": "That is end of quiet INSPIRATION.",
+            "D": "Positive is wrong.",
+            "E": "Deeper inspiration."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-650",
+          "type": "single-best",
+          "stem": "The pulmonary ventilation is a process that includes:",
+          "options": [
+            {
+              "label": "A",
+              "text": "only expiration"
+            },
+            {
+              "label": "B",
+              "text": "only inspiration"
+            },
+            {
+              "label": "C",
+              "text": "inspiration and expiration"
+            },
+            {
+              "label": "D",
+              "text": "exchange of O2 and CO2 via the capillary walls"
+            },
+            {
+              "label": "E",
+              "text": "transport of O2 and CO2 via blood"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Pulmonary ventilation is the mechanical process of moving air in (inspiration) and out (expiration) of the lungs.",
+          "notes": {
+            "A": "It needs both phases.",
+            "B": "It needs both phases.",
+            "D": "That is diffusion.",
+            "E": "That is transport."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-651",
+          "type": "single-best",
+          "stem": "During inspiration:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the water surface tension in alveoli decreases"
+            },
+            {
+              "label": "B",
+              "text": "the chest volume decreases and the diaphragm goes up"
+            },
+            {
+              "label": "C",
+              "text": "the tidal volume decreases"
+            },
+            {
+              "label": "D",
+              "text": "alveolar pressure increases"
+            },
+            {
+              "label": "E",
+              "text": "intrapleural pressure decreases"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "During inspiration, the expansion of the thoracic cavity causes intrapleural pressure to become more negative (decreases).",
+          "notes": {
+            "A": "Surface tension RISES as alveoli expand.",
+            "B": "The chest ENLARGES and the diaphragm goes DOWN.",
+            "C": "TV is a fixed definition.",
+            "D": "Alveolar pressure FALLS."
+          },
+          "topicId": "resp-mech",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-061",
+          "type": "single-best",
+          "stem": "Which of the following events are sympathetic effects?",
+          "options": [
+            {
+              "label": "A",
+              "text": "vasoconstriction in the lungs"
+            },
+            {
+              "label": "B",
+              "text": "dilation of the bronchi"
+            },
+            {
+              "label": "C",
+              "text": "vasodilatation in the lungs"
+            },
+            {
+              "label": "D",
+              "text": "constriction of the bronchi"
+            },
+            {
+              "label": "E",
+              "text": "a and b"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Sympathetic stimulation causes bronchodilation (via beta-2) and pulmonary vasoconstriction (via alpha-1).",
+          "notes": {
+            "A": "True, but so is B.",
+            "B": "True, but so is A.",
+            "C": "Sympathetic effect is CONSTRICTION.",
+            "D": "Parasympathetic causes bronchoconstriction."
+          },
+          "topicId": "resp-airway",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-resp-069",
+          "type": "single-best",
+          "stem": "The bronchial muscles relax under the influence of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "epinephrine"
+            },
+            {
+              "label": "B",
+              "text": "atropine"
+            },
+            {
+              "label": "C",
+              "text": "epinephrine and atropine"
+            },
+            {
+              "label": "D",
+              "text": "bradikinine and histamine"
+            },
+            {
+              "label": "E",
+              "text": "acetylcholine"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Epinephrine (beta-2 agonist) causes bronchodilation, and atropine (muscarinic antagonist) blocks cholinergic bronchoconstriction.",
+          "notes": {
+            "A": "True, but atropine also relaxes them.",
+            "B": "True, but adrenaline also relaxes them.",
+            "D": "These CONSTRICT.",
+            "E": "This CONSTRICTS."
+          },
+          "topicId": "resp-airway",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-072",
+          "type": "single-best",
+          "stem": "Dilation of bronchi can be achieved by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "increased level of catecholamines"
+            },
+            {
+              "label": "B",
+              "text": "decreased level of catecholamines"
+            },
+            {
+              "label": "C",
+              "text": "increase of acetylcholine and serotonin levels"
+            },
+            {
+              "label": "D",
+              "text": "increase of bradikinine and histamine levels"
+            },
+            {
+              "label": "E",
+              "text": "a, c, and d"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Catecholamines (like epinephrine) stimulate beta-2 receptors to cause bronchodilation.",
+          "notes": {
+            "B": "Less catecholamine favours constriction.",
+            "C": "These constrict.",
+            "D": "These constrict.",
+            "E": "C and D are false."
+          },
+          "topicId": "resp-airway",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-resp-075",
+          "type": "single-best",
+          "stem": "The sympathetic division of ANS affects the bronchial muscles activating:",
+          "options": [
+            {
+              "label": "A",
+              "text": "alpha- adrenergic receptors"
+            },
+            {
+              "label": "B",
+              "text": "beta- adrenergic receptors"
+            },
+            {
+              "label": "C",
+              "text": "M- cholinergic receptors"
+            },
+            {
+              "label": "D",
+              "text": "N- cholinergic receptors"
+            },
+            {
+              "label": "E",
+              "text": "H2 receptors"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Sympathetic innervation causes bronchodilation via beta-2 adrenergic receptors.",
+          "notes": {
+            "A": "Alpha receptors play little part in bronchial muscle.",
+            "C": "M receptors are parasympathetic.",
+            "D": "N receptors are at ganglia.",
+            "E": "H2 receptors are not the sympathetic route."
+          },
+          "topicId": "resp-airway",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-592",
+          "type": "single-best",
+          "stem": "The bronchodilatory effect of atropin is due to blocking:",
+          "options": [
+            {
+              "label": "A",
+              "text": "N-cholinergic receptors"
+            },
+            {
+              "label": "B",
+              "text": "M-cholinergic receptors"
+            },
+            {
+              "label": "C",
+              "text": "α-adrenergic receptors"
+            },
+            {
+              "label": "D",
+              "text": "β-adrenergic receptors"
+            },
+            {
+              "label": "E",
+              "text": "H1-receptors"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Atropine blocks muscarinic (M) cholinergic receptors, preventing parasympathetically mediated bronchoconstriction.",
+          "notes": {
+            "A": "Atropine does not block N receptors.",
+            "C": "Atropine is not an α blocker.",
+            "D": "Blocking β would CONSTRICT.",
+            "E": "Atropine is not an antihistamine."
+          },
+          "topicId": "resp-airway",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-597",
+          "type": "single-best",
+          "stem": "The bronchial muscles relax under the influence of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "increased parasympathetic tone"
+            },
+            {
+              "label": "B",
+              "text": "acetylcholine"
+            },
+            {
+              "label": "C",
+              "text": "histamine"
+            },
+            {
+              "label": "D",
+              "text": "atropin"
+            },
+            {
+              "label": "E",
+              "text": "none of the above"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Atropine blocks cholinergic constriction, causing bronchodilation (relaxation of bronchial smooth muscle).",
+          "notes": {
+            "A": "This CONSTRICTS.",
+            "B": "This CONSTRICTS.",
+            "C": "This CONSTRICTS.",
+            "E": "Option D is correct."
+          },
+          "topicId": "resp-airway",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-resp-599",
+          "type": "single-best",
+          "stem": "Bronchial smooth muscle contracts in response to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "bronchial mucosal irritation"
+            },
+            {
+              "label": "B",
+              "text": "local beta adrenoceptor stimulation"
+            },
+            {
+              "label": "C",
+              "text": "a fall in bronchial pO2"
+            },
+            {
+              "label": "D",
+              "text": "inhalation of air warmed to 37oC"
+            },
+            {
+              "label": "E",
+              "text": "circulating noradrenaline"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Irritation triggers parasympathetic reflexes that cause bronchoconstriction to protect the airways.",
+          "notes": {
+            "B": "β2 stimulation RELAXES.",
+            "C": "Not a constrictor stimulus.",
+            "D": "Warm air does not cause constriction.",
+            "E": "Noradrenaline does not constrict bronchi."
+          },
+          "topicId": "resp-airway",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-614",
+          "type": "single-best",
+          "stem": "Bronchial asthma is likely to be relieved by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "stimulation of cholinergic receptors"
+            },
+            {
+              "label": "B",
+              "text": "stimulation of beta adrenoceptors"
+            },
+            {
+              "label": "C",
+              "text": "histamine aerosols"
+            },
+            {
+              "label": "D",
+              "text": "non steroidal anti-inflammatory drugs"
+            },
+            {
+              "label": "E",
+              "text": "mineralcorticoids"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Beta-adrenergic agonists (like albuterol) cause bronchodilation and are mainstays of asthma treatment.",
+          "notes": {
+            "A": "Cholinergic stimulation CONSTRICTS.",
+            "C": "Histamine CONSTRICTS.",
+            "D": "NSAIDs may worsen asthma.",
+            "E": "Mineralocorticoids are not anti-inflammatory."
+          },
+          "topicId": "resp-airway",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-621",
+          "type": "single-best",
+          "stem": "Histamine affects the bronchial muscles via:",
+          "options": [
+            {
+              "label": "A",
+              "text": "H1-receptors"
+            },
+            {
+              "label": "B",
+              "text": "H2-receptors"
+            },
+            {
+              "label": "C",
+              "text": "M-holineric receptors"
+            },
+            {
+              "label": "D",
+              "text": "N-holineric receptors"
+            },
+            {
+              "label": "E",
+              "text": "α-adrenergic receptors"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Histamine binds to H1 receptors on bronchial smooth muscle, causing bronchoconstriction.",
+          "notes": {
+            "B": "H2 receptors are gastric.",
+            "C": "Muscarinic receptors are for ACh.",
+            "D": "Nicotinic receptors are at ganglia.",
+            "E": "α receptors are minor here."
+          },
+          "topicId": "resp-airway",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-622",
+          "type": "single-best",
+          "stem": "Coughing:",
+          "options": [
+            {
+              "label": "A",
+              "text": "is reflexly initiated by irritation of the alveoli"
+            },
+            {
+              "label": "B",
+              "text": "is associated with relaxation of airways smooth muscle"
+            },
+            {
+              "label": "C",
+              "text": "depends on contraction of the diaphragm for expulsion of air"
+            },
+            {
+              "label": "D",
+              "text": "differs from sneezing in that the glottis is initially closed"
+            },
+            {
+              "label": "E",
+              "text": "is equivalent of sneezing"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "A cough involves a deep inspiration, glottis closure, and forced expiration against a closed glottis. Sneezing does not have the initial glottis closure.",
+          "notes": {
+            "A": "Cough comes from airway receptors, not alveoli.",
+            "B": "Airways CONSTRICT.",
+            "C": "Expulsion uses expiratory muscles.",
+            "E": "They differ."
+          },
+          "topicId": "resp-airway",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-623",
+          "type": "single-best",
+          "stem": "The sympathetic branch of the Autonomic Nervous System affects the bronchial muscles via:",
+          "options": [
+            {
+              "label": "A",
+              "text": "β2- adrenergic receptors"
+            },
+            {
+              "label": "B",
+              "text": "α2- adrenergic receptors"
+            },
+            {
+              "label": "C",
+              "text": "M1- cholinergic receptors"
+            },
+            {
+              "label": "D",
+              "text": "N- cholinergic receptors"
+            },
+            {
+              "label": "E",
+              "text": "none of the above"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Sympathetic stimulation of β2-adrenergic receptors causes bronchodilation.",
+          "notes": {
+            "B": "α2 is not the bronchial route.",
+            "C": "M receptors are parasympathetic.",
+            "D": "N receptors are ganglionic.",
+            "E": "Option A is correct."
+          },
+          "topicId": "resp-airway",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-resp-648",
+          "type": "single-best",
+          "stem": "The bronchial muscles increase their tone under the influence of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "adrenaline"
+            },
+            {
+              "label": "B",
+              "text": "noradrenaline"
+            },
+            {
+              "label": "C",
+              "text": "histamin"
+            },
+            {
+              "label": "D",
+              "text": "atropin"
+            },
+            {
+              "label": "E",
+              "text": "curare"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Histamine is a potent bronchoconstrictor (increases tone) involved in allergic asthma.",
+          "notes": {
+            "A": "Adrenaline dilates.",
+            "B": "Noradrenaline has little bronchial effect.",
+            "D": "Atropine dilates.",
+            "E": "Curare acts on skeletal muscle."
+          },
+          "topicId": "resp-airway",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-649",
+          "type": "single-best",
+          "stem": "The bronchial muscles dilate under the influence of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "catheholamines"
+            },
+            {
+              "label": "B",
+              "text": "acetylcholine"
+            },
+            {
+              "label": "C",
+              "text": "histamine"
+            },
+            {
+              "label": "D",
+              "text": "bradikinine"
+            },
+            {
+              "label": "E",
+              "text": "serotonin"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Catecholamines (like epinephrine) act on beta-2 receptors to dilate the bronchial muscles.",
+          "notes": {
+            "B": "ACh constricts.",
+            "C": "Histamine constricts.",
+            "D": "Bradykinin constricts.",
+            "E": "Serotonin constricts."
+          },
+          "topicId": "resp-airway",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-053",
+          "type": "single-best",
+          "stem": "Most of the CO2 that is transported in blood is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "dissolved in the plasma"
+            },
+            {
+              "label": "B",
+              "text": "bound to haemoglobin"
+            },
+            {
+              "label": "C",
+              "text": "in carbonic acid"
+            },
+            {
+              "label": "D",
+              "text": "in bicarbonate ions"
+            },
+            {
+              "label": "E",
+              "text": "in carbonic anhydrase"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "About 70% of CO2 is transported as bicarbonate ions (HCO3-) in the plasma, generated by carbonic anhydrase in RBCs.",
+          "notes": {
+            "A": "About 7–10% is dissolved.",
+            "B": "About 20–23% is carbamino.",
+            "C": "Carbonic acid is transient and very small.",
+            "E": "This is an enzyme, not a carrier."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-054",
+          "type": "single-best",
+          "stem": "In which vascular bed does hypoxia cause vasoconstriction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "coronary"
+            },
+            {
+              "label": "B",
+              "text": "pulmonary"
+            },
+            {
+              "label": "C",
+              "text": "cerebral"
+            },
+            {
+              "label": "D",
+              "text": "muscle"
+            },
+            {
+              "label": "E",
+              "text": "skin"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Hypoxic pulmonary vasoconstriction is a unique mechanism in the lungs to divert blood away from poorly ventilated areas to optimize gas exchange.",
+          "notes": {
+            "A": "Hypoxia DILATES coronary vessels.",
+            "C": "Hypoxia DILATES cerebral vessels.",
+            "D": "Hypoxia DILATES muscle vessels.",
+            "E": "Skin vessels are under neural control."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-056",
+          "type": "single-best",
+          "stem": "Compared with the systemic circulation, the pulmonary circulation has a:",
+          "options": [
+            {
+              "label": "A",
+              "text": "higher flow"
+            },
+            {
+              "label": "B",
+              "text": "lower resistance"
+            },
+            {
+              "label": "C",
+              "text": "higher arterial pressure"
+            },
+            {
+              "label": "D",
+              "text": "higher capillary pressure"
+            },
+            {
+              "label": "E",
+              "text": "higher cardiac output"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Pulmonary circulation is a high-flow, low-resistance, low-pressure system.",
+          "notes": {
+            "A": "Flow is the SAME (the whole cardiac output).",
+            "C": "Pulmonary pressure is about 15 mmHg vs 95.",
+            "D": "Capillary pressure is lower (about 10 mmHg).",
+            "E": "Output is the same in both."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-057",
+          "type": "single-best",
+          "stem": "Hypoventilation will cause:",
+          "options": [
+            {
+              "label": "A",
+              "text": "hypercapnia"
+            },
+            {
+              "label": "B",
+              "text": "anoxia"
+            },
+            {
+              "label": "C",
+              "text": "hypoxia"
+            },
+            {
+              "label": "D",
+              "text": "hypocapnia"
+            },
+            {
+              "label": "E",
+              "text": "a and c"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Hypoventilation leads to increased CO2 (hypercapnia) and decreased O2 (hypoxia) in the blood.",
+          "notes": {
+            "A": "True, but hypoxia also occurs.",
+            "B": "Anoxia (no O2) is too extreme.",
+            "C": "True, but hypercapnia also occurs.",
+            "D": "CO2 RISES."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-resp-058",
+          "type": "single-best",
+          "stem": "Which of the following events is caused by an increased pCO2 in tissues?",
+          "options": [
+            {
+              "label": "A",
+              "text": "increased pH"
+            },
+            {
+              "label": "B",
+              "text": "decreased association between hemoglobin and O2"
+            },
+            {
+              "label": "C",
+              "text": "decreased pH"
+            },
+            {
+              "label": "D",
+              "text": "vasoconstriction"
+            },
+            {
+              "label": "E",
+              "text": "b and c"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Increased pCO2 decreases pH (acidosis) and shifts the oxygen-hemoglobin dissociation curve to the right (Bohr effect), decreasing O2 affinity.",
+          "notes": {
+            "A": "pH FALLS.",
+            "B": "True, but so is C.",
+            "C": "True, but so is B.",
+            "D": "CO2 causes vasoDILATATION."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-resp-062",
+          "type": "single-best",
+          "stem": "Which of the following is related to the respiratory function of the lungs?",
+          "options": [
+            {
+              "label": "A",
+              "text": "regulation of lung blood pressure"
+            },
+            {
+              "label": "B",
+              "text": "lung ventilation"
+            },
+            {
+              "label": "C",
+              "text": "diffusion of gases between the alveolar air and blood"
+            },
+            {
+              "label": "D",
+              "text": "fat metabolism"
+            },
+            {
+              "label": "E",
+              "text": "b and c"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Ventilation and gas diffusion are the primary respiratory functions of the lungs.",
+          "notes": {
+            "A": "That is a non-respiratory (circulatory) function.",
+            "B": "True, but so is C.",
+            "C": "True, but so is B.",
+            "D": "Not a respiratory function."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-resp-063",
+          "type": "single-best",
+          "stem": "Which factors affect the gas diffusion through the respiratory membrane?",
+          "options": [
+            {
+              "label": "A",
+              "text": "membrane thickness"
+            },
+            {
+              "label": "B",
+              "text": "membrane area"
+            },
+            {
+              "label": "C",
+              "text": "tidal volume"
+            },
+            {
+              "label": "D",
+              "text": "residual volume"
+            },
+            {
+              "label": "E",
+              "text": "a and b"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Fick's law states diffusion is proportional to area and inversely proportional to thickness, alongside partial pressure gradients.",
+          "notes": {
+            "A": "True, but so is area.",
+            "B": "True, but so is thickness.",
+            "C": "Tidal volume affects ventilation, not membrane diffusion.",
+            "D": "RV does not affect diffusion across the membrane."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-resp-064",
+          "type": "single-best",
+          "stem": "Gas exchange in the respiratory system of humans takes place in the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "trachea"
+            },
+            {
+              "label": "B",
+              "text": "bronchus"
+            },
+            {
+              "label": "C",
+              "text": "bronchioles"
+            },
+            {
+              "label": "D",
+              "text": "alveoli"
+            },
+            {
+              "label": "E",
+              "text": "larynx"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Alveoli are the primary sites of gas exchange in the lungs.",
+          "notes": {
+            "A": "Conducting airway.",
+            "B": "Conducting airway.",
+            "C": "Mostly conducting; only respiratory bronchioles exchange a little.",
+            "E": "Conducting airway."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-065",
+          "type": "single-best",
+          "stem": "As regards the distribution of ventilation (V) and perfusion (Q), the V/Q ratio:",
+          "options": [
+            {
+              "label": "A",
+              "text": "gradient of change of ventilation is greater than that of perfusion"
+            },
+            {
+              "label": "B",
+              "text": "ventilation increases up the lung"
+            },
+            {
+              "label": "C",
+              "text": "perfusion increases up the lung"
+            },
+            {
+              "label": "D",
+              "text": "at apex is greater than at base in prone position"
+            },
+            {
+              "label": "E",
+              "text": "none of the above"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "In an upright lung both ventilation and perfusion INCREASE down the lung, but perfusion has the steeper gradient, so V/Q is highest at the apex. When lying prone or supine the apex–base gradient largely disappears. None of A–D is true.",
+          "notes": {
+            "A": "Perfusion has the STEEPER gradient.",
+            "B": "Ventilation increases DOWN the lung.",
+            "C": "Perfusion increases DOWN the lung.",
+            "D": "In the prone position the gradient is largely lost."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "hard",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-resp-067",
+          "type": "single-best",
+          "stem": "Carbon dioxide transport is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "70% dissolved in plasma"
+            },
+            {
+              "label": "B",
+              "text": "70% as carbamino hemoglobin"
+            },
+            {
+              "label": "C",
+              "text": "70% as bicarbonates"
+            },
+            {
+              "label": "D",
+              "text": "10% as bicarbonates"
+            },
+            {
+              "label": "E",
+              "text": "unaffected by pO2"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Approximately 70% of CO2 is transported as bicarbonate in the plasma.",
+          "notes": {
+            "A": "Only about 7–10% is dissolved.",
+            "B": "About 20–23% is carbamino.",
+            "D": "The figure is about 70%, not 10%.",
+            "E": "Low pO2 increases CO2 carriage (Haldane effect)."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-071",
+          "type": "single-best",
+          "stem": "For the alveolar capillary membrane it is true that:",
+          "options": [
+            {
+              "label": "A",
+              "text": "consists of alveolar epithelium, pulmonary capillary endothelium and their base membranes"
+            },
+            {
+              "label": "B",
+              "text": "diffusion of O2 and CO2 occurs across it"
+            },
+            {
+              "label": "C",
+              "text": "has better permeability for O2 than CO2"
+            },
+            {
+              "label": "D",
+              "text": "a, and b"
+            },
+            {
+              "label": "E",
+              "text": "none of the above"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "The respiratory membrane consists of the alveolar and capillary walls. CO2 is actually more soluble and diffuses faster than O2, so statement 'c' is false.",
+          "notes": {
+            "A": "True, but B is also true.",
+            "B": "True, but A is also true.",
+            "C": "CO2 crosses about 20 times faster.",
+            "E": "A and B are true."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-resp-080",
+          "type": "single-best",
+          "stem": "Which of the following factors shifts the dissociation curve of HbO2 to the right:",
+          "options": [
+            {
+              "label": "A",
+              "text": "increased pCO2"
+            },
+            {
+              "label": "B",
+              "text": "decreased pCO2"
+            },
+            {
+              "label": "C",
+              "text": "decreased pO2"
+            },
+            {
+              "label": "D",
+              "text": "increased pO2"
+            },
+            {
+              "label": "E",
+              "text": "increased pH"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Increased pCO2 lowers pH (Bohr effect) and shifts the oxygen dissociation curve to the right, facilitating oxygen unloading.",
+          "notes": {
+            "B": "Shifts LEFT.",
+            "C": "pO2 itself does not shift the curve.",
+            "D": "pO2 itself does not shift the curve.",
+            "E": "Raised pH shifts LEFT."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-577",
+          "type": "single-best",
+          "stem": "It is true that the air in the alveoli:",
+          "options": [
+            {
+              "label": "A",
+              "text": "has a higher CO2 content than the atmosphere"
+            },
+            {
+              "label": "B",
+              "text": "has lower O2 content than in the atmosphere"
+            },
+            {
+              "label": "C",
+              "text": "consists of N2 approximately equal to that in the atmosphere"
+            },
+            {
+              "label": "D",
+              "text": "has the same components as the atmosphere"
+            },
+            {
+              "label": "E",
+              "text": "a, b, and c"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Alveolar gas exchange lowers O2, raises CO2, and nitrogen concentration remains relatively unchanged.",
+          "notes": {
+            "A": "True, but B and C are also true.",
+            "B": "True, but A and C are also true.",
+            "C": "True, but A and B are also true.",
+            "D": "Alveolar gas differs (water vapour, CO2)."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-resp-580",
+          "type": "single-best",
+          "stem": "Which of the following compounds doesn't take part in the transport of CO2 under physiological conditions:",
+          "options": [
+            {
+              "label": "A",
+              "text": "carbamino Hb"
+            },
+            {
+              "label": "B",
+              "text": "carboxi Hb"
+            },
+            {
+              "label": "C",
+              "text": "NaHCO3"
+            },
+            {
+              "label": "D",
+              "text": "physically dissolved in fluids"
+            },
+            {
+              "label": "E",
+              "text": "carbamino Hb and physically dissolved in the fluids"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Carboxyhemoglobin is hemoglobin bound to carbon monoxide (CO), not carbon dioxide (CO2).",
+          "notes": {
+            "A": "Carbamino Hb carries about 20%.",
+            "C": "Bicarbonate carries about 70%.",
+            "D": "Dissolved CO2 is about 7–10%.",
+            "E": "Both do carry CO2."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-582",
+          "type": "single-best",
+          "stem": "The ventilation/perfusion (V/Q) ratio of 0.8 refers to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the upper parts of the lungs in upright position"
+            },
+            {
+              "label": "B",
+              "text": "the middle parts of the lungs in upright position"
+            },
+            {
+              "label": "C",
+              "text": "the lower parts of the lungs in upright position"
+            },
+            {
+              "label": "D",
+              "text": "in all parts of the lungs in supine position"
+            },
+            {
+              "label": "E",
+              "text": "b and d"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "The overall V/Q ratio of the lung is about 0.8, which represents the middle parts in an upright position or the whole lung in a supine position.",
+          "notes": {
+            "A": "The apex has a high V/Q (about 3).",
+            "B": "True, but D is also true.",
+            "C": "The base has a low V/Q (about 0.6).",
+            "D": "True, but B is also true."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-resp-585",
+          "type": "single-best",
+          "stem": "Oxygen enters the cell via?",
+          "options": [
+            {
+              "label": "A",
+              "text": "diffusion"
+            },
+            {
+              "label": "B",
+              "text": "filtration"
+            },
+            {
+              "label": "C",
+              "text": "osmosis"
+            },
+            {
+              "label": "D",
+              "text": "active transport"
+            },
+            {
+              "label": "E",
+              "text": "carrier-mediated facilitated transport"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Oxygen moves from areas of higher partial pressure to lower partial pressure via simple diffusion.",
+          "notes": {
+            "B": "Filtration needs a hydrostatic gradient.",
+            "C": "Osmosis is water movement.",
+            "D": "No pump moves O2.",
+            "E": "No carrier is needed for O2."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-586",
+          "type": "single-best",
+          "stem": "Most of the carbon dioxide produced by tissues is transported to the lungs as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "small gas bubbles in the plasma"
+            },
+            {
+              "label": "B",
+              "text": "gas bound to hemoglobin in the red blood cells"
+            },
+            {
+              "label": "C",
+              "text": "bicarbonate in the plasma"
+            },
+            {
+              "label": "D",
+              "text": "gas bound to white blood cells and albumin"
+            },
+            {
+              "label": "E",
+              "text": "gas transported through the lymphatic system"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "About 70% of CO2 is transported as bicarbonate (HCO3-) dissolved in the plasma.",
+          "notes": {
+            "A": "Gas bubbles would be dangerous emboli.",
+            "B": "Only about 20% is carbamino.",
+            "D": "Not a carriage route.",
+            "E": "Lymph does not carry CO2."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-588",
+          "type": "single-best",
+          "stem": "Where does gas exchange take place?",
+          "options": [
+            {
+              "label": "A",
+              "text": "bronchioles"
+            },
+            {
+              "label": "B",
+              "text": "bronchi"
+            },
+            {
+              "label": "C",
+              "text": "pulmonary capillaries"
+            },
+            {
+              "label": "D",
+              "text": "roots of the lungs"
+            },
+            {
+              "label": "E",
+              "text": "trachea"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Gas exchange occurs across the alveolar-capillary membrane in the pulmonary capillaries.",
+          "notes": {
+            "A": "Bronchioles are conducting.",
+            "B": "Bronchi are conducting.",
+            "D": "The hilum is not an exchange site.",
+            "E": "The trachea is conducting."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-590",
+          "type": "single-best",
+          "stem": "Hemoglobin gives up oxygen when the environment is more:",
+          "options": [
+            {
+              "label": "A",
+              "text": "acidic"
+            },
+            {
+              "label": "B",
+              "text": "alkaline"
+            },
+            {
+              "label": "C",
+              "text": "icy"
+            },
+            {
+              "label": "D",
+              "text": "open"
+            },
+            {
+              "label": "E",
+              "text": "none of the above"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "The Bohr effect states that a lower pH (more acidic) shifts the oxygen dissociation curve to the right, facilitating oxygen unloading.",
+          "notes": {
+            "B": "Alkaline conditions hold O2 more tightly.",
+            "C": "Cold INCREASES affinity.",
+            "D": "Not a physiological variable.",
+            "E": "Option A is correct."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-resp-598",
+          "type": "single-best",
+          "stem": "In the lungs:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the rate of alveolar ventilation at rest exceeds the rate of alveolar capillary perfusion"
+            },
+            {
+              "label": "B",
+              "text": "the ventilation/perfusion (V/Q) ratio in less 0.6 during maximal exercise"
+            },
+            {
+              "label": "C",
+              "text": "the V/Q ratio is higher at the apex than at the base of the lungs when a person is standing"
+            },
+            {
+              "label": "D",
+              "text": "oxygen transfer can be explained by active transport"
+            },
+            {
+              "label": "E",
+              "text": "dead space decreases during inspiration"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Due to gravity, blood flow (Q) decreases more than ventilation (V) at the apex, resulting in a higher V/Q ratio at the top of the lungs.",
+          "notes": {
+            "A": "Ventilation (about 4 L) is LESS than perfusion (about 5 L).",
+            "B": "V/Q rises in exercise.",
+            "D": "O2 moves by diffusion.",
+            "E": "Dead space INCREASES in inspiration."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-601",
+          "type": "single-best",
+          "stem": "CO2 is transported basically as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "bicarbonates"
+            },
+            {
+              "label": "B",
+              "text": "carbhemoglobin"
+            },
+            {
+              "label": "C",
+              "text": "physically dissolved"
+            },
+            {
+              "label": "D",
+              "text": "connected to plasma proteins"
+            },
+            {
+              "label": "E",
+              "text": "connected to the hem of Hb"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "The majority of CO2 is transported in the blood as bicarbonate ions.",
+          "notes": {
+            "B": "About 20%.",
+            "C": "About 7–10%.",
+            "D": "Minor.",
+            "E": "CO2 binds globin amino groups, not haem."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-606",
+          "type": "single-best",
+          "stem": "Pulmonary:",
+          "options": [
+            {
+              "label": "A",
+              "text": "arterial mean pressure is about one- sixth of systemic mean arterial pressure"
+            },
+            {
+              "label": "B",
+              "text": "blood flow/minute is greater then the systemic blood flow/minute"
+            },
+            {
+              "label": "C",
+              "text": "vascular resistance is about 50 per cent that of systemic vascular resistance"
+            },
+            {
+              "label": "D",
+              "text": "vascular capacity is similar to systemic vascular capacity"
+            },
+            {
+              "label": "E",
+              "text": "arterial pressure increases by about 50 per cent when cardiac output rises by 50 per cent"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Pulmonary arterial pressure (~15 mmHg) is much lower than systemic pressure (~90 mmHg), roughly one-sixth.",
+          "notes": {
+            "B": "The two flows are equal.",
+            "C": "It is about 1/10 or less.",
+            "D": "Pulmonary capacity is smaller.",
+            "E": "Recruitment keeps the pressure rise small."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-607",
+          "type": "single-best",
+          "stem": "Carbon dioxide is carried in the blood in:",
+          "options": [
+            {
+              "label": "A",
+              "text": "combination with the myoglobin molecule"
+            },
+            {
+              "label": "B",
+              "text": "combination with plasma globulins"
+            },
+            {
+              "label": "C",
+              "text": "physical solution in red blood cells"
+            },
+            {
+              "label": "D",
+              "text": "greater quantity in red blood cells than in plasma"
+            },
+            {
+              "label": "E",
+              "text": "greater quantity as HCO3- than as other forms"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Bicarbonate (HCO3-) is the primary transport form for CO2 in the blood.",
+          "notes": {
+            "A": "Myoglobin is in muscle and carries O2.",
+            "B": "Globulins carry very little.",
+            "C": "Little is dissolved.",
+            "D": "Most is carried in plasma as HCO3-."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-608",
+          "type": "single-best",
+          "stem": "A shift of the oxygen dissociation curve of blood to the right:",
+          "options": [
+            {
+              "label": "A",
+              "text": "occurs in the pulmonary capillaries"
+            },
+            {
+              "label": "B",
+              "text": "occurs if blood temperature decreases"
+            },
+            {
+              "label": "C",
+              "text": "favours oxygen delivery to the tissues"
+            },
+            {
+              "label": "D",
+              "text": "favours oxygen uptake from the lungs by alveolar capillary blood"
+            },
+            {
+              "label": "E",
+              "text": "occurs if the pH of the blood increases"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "A rightward shift decreases hemoglobin's affinity for O2, enhancing O2 unloading at the tissues.",
+          "notes": {
+            "A": "In the lungs the curve shifts LEFT.",
+            "B": "Cooling shifts it LEFT.",
+            "D": "A left shift favours uptake.",
+            "E": "Raised pH shifts it LEFT."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-611",
+          "type": "single-best",
+          "stem": "The correct statement is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the diffusion velocity of O2 and CO2 is equal"
+            },
+            {
+              "label": "B",
+              "text": "O2 diffuses 20 times faster than CO2"
+            },
+            {
+              "label": "C",
+              "text": "CO2 diffuses about 20 times faster than O2"
+            },
+            {
+              "label": "D",
+              "text": "the diffusion velocity of O2 is higher than that of CO2 when the concentration of O2 is increased"
+            },
+            {
+              "label": "E",
+              "text": "the diffusion velocity doesn't depend on cell membrane permeability"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "CO2 is much more soluble in water/lipids than O2 and diffuses about 20 times faster across the respiratory membrane.",
+          "notes": {
+            "A": "CO2 is much faster.",
+            "B": "Reversed.",
+            "D": "CO2 remains faster.",
+            "E": "Permeability DOES matter."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-613",
+          "type": "single-best",
+          "stem": "The CO2 dissociation curve for whole blood shows that:",
+          "options": [
+            {
+              "label": "A",
+              "text": "its shape is sigmoid"
+            },
+            {
+              "label": "B",
+              "text": "blood saturates with CO2 when pCO2 exceeds normal alveolar levels"
+            },
+            {
+              "label": "C",
+              "text": "blood contains some CO2 even when the pCO2 is zero"
+            },
+            {
+              "label": "D",
+              "text": "oxygenation of the blood drives CO2 out of the blood"
+            },
+            {
+              "label": "E",
+              "text": "adding CO2 to the blood drives O2 out of the blood"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "The Haldane effect states that oxygenation of hemoglobin in the lungs reduces its affinity for CO2, driving CO2 out of the blood.",
+          "notes": {
+            "A": "The CO2 curve is nearly linear.",
+            "B": "There is no saturation plateau.",
+            "C": "With zero pCO2 there is no CO2.",
+            "E": "That is the Bohr effect, seen on the O2 curve."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-618",
+          "type": "single-best",
+          "stem": "A shift of the oxygen dissociation curve of blood to the left:",
+          "options": [
+            {
+              "label": "A",
+              "text": "decreases the O2 content of blood at a given pO2"
+            },
+            {
+              "label": "B",
+              "text": "impairs O2 delivery to the tissues at the normal tissue pO2"
+            },
+            {
+              "label": "C",
+              "text": "occurs in blood perfusing hot extremities"
+            },
+            {
+              "label": "D",
+              "text": "occurs in blood with lower pH than with higher pH"
+            },
+            {
+              "label": "E",
+              "text": "is characteristic of adult blood when compared with fetal blood"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "A leftward shift increases O2 affinity, making it harder for hemoglobin to release O2 to the tissues.",
+          "notes": {
+            "A": "Content at a given pO2 INCREASES.",
+            "C": "Heat shifts it RIGHT.",
+            "D": "Low pH shifts it RIGHT.",
+            "E": "FETAL blood is left-shifted."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-620",
+          "type": "single-best",
+          "stem": "Cyanosis:",
+          "options": [
+            {
+              "label": "A",
+              "text": "may be caused by high levels of carboxyhaemoglobin in the blood"
+            },
+            {
+              "label": "B",
+              "text": "may be caused by high levels of methaemoglobin in the blood"
+            },
+            {
+              "label": "C",
+              "text": "is seen in fingers of hands immersed in iced water"
+            },
+            {
+              "label": "D",
+              "text": "occurs more easily in anaemic than in polycythaemic patients"
+            },
+            {
+              "label": "E",
+              "text": "is severe in cyanide poisoning"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Methemoglobinemia (e.g., from nitrites) causes cyanosis because the oxidized iron cannot bind oxygen.",
+          "notes": {
+            "A": "COHb is cherry-red.",
+            "C": "Cold blood holds O2 and the skin is red.",
+            "D": "It is EASIER in polycythaemia.",
+            "E": "In cyanide poisoning venous blood stays oxygenated."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-624",
+          "type": "single-best",
+          "stem": "A 50 % fall in the ventilation/perfusion (V/Q) ratio in each of lungs would:",
+          "options": [
+            {
+              "label": "A",
+              "text": "lower systemic arterial oxygen content"
+            },
+            {
+              "label": "B",
+              "text": "has no effect on the O2 in systemic circulation"
+            },
+            {
+              "label": "C",
+              "text": "increase the physiological dead space"
+            },
+            {
+              "label": "D",
+              "text": "lower systemic arterial carbon dioxide content"
+            },
+            {
+              "label": "E",
+              "text": "be compensated (with respect to oxygen uptake) by a high ratio in the other lung"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "A significant drop in V/Q ratio means shunting (perfusion without adequate ventilation), which lowers systemic arterial O2.",
+          "notes": {
+            "B": "Low V/Q lowers O2.",
+            "C": "Low V/Q acts as a shunt, not dead space.",
+            "D": "CO2 tends to rise or stay the same.",
+            "E": "High V/Q cannot add O2 to saturated blood."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-625",
+          "type": "single-best",
+          "stem": "The total amount of O2 carried by the circulation to the tissues/min. (oxygen delivery or total available oxygen):",
+          "options": [
+            {
+              "label": "A",
+              "text": "normally equals the rate of O2 consumption by the body/min"
+            },
+            {
+              "label": "B",
+              "text": "is normally more than 95 per cent combined with haemoglobin"
+            },
+            {
+              "label": "C",
+              "text": "must fall by about half if haemoglobin concentration is halved"
+            },
+            {
+              "label": "D",
+              "text": "is more closely related to PO2 than to percentage saturation of the blood with O2"
+            },
+            {
+              "label": "E",
+              "text": "must double if body oxygen consumption doubles"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Almost all oxygen (97-98%) is transported bound to hemoglobin.",
+          "notes": {
+            "A": "Delivery (about 1000 ml/min) exceeds use (about 250 ml/min).",
+            "C": "Not necessarily, since cardiac output can compensate.",
+            "D": "Content follows SATURATION.",
+            "E": "Extraction can rise instead."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "medium"
+        },
+        {
+          "id": "phy-resp-627",
+          "type": "single-best",
+          "stem": "Given: CO2 + H2O -> H2CO3-> HCO3- + H+, what happens if bicarbonate ions are increased?",
+          "options": [
+            {
+              "label": "A",
+              "text": "more carbon monoxide produced"
+            },
+            {
+              "label": "B",
+              "text": "more bicarbonate ions produced"
+            },
+            {
+              "label": "C",
+              "text": "an increase in protons"
+            },
+            {
+              "label": "D",
+              "text": "there would be a shift to the left"
+            },
+            {
+              "label": "E",
+              "text": "there would be a shift to the right first, then to the left"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "By Le Chatelier's principle, increasing the product (HCO3-) drives the reaction to the left, forming more CO2 and H2O.",
+          "notes": {
+            "A": "Carbon monoxide is not involved.",
+            "B": "Bicarbonate is CONSUMED.",
+            "C": "Protons are CONSUMED.",
+            "E": "There is no right shift."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-628",
+          "type": "single-best",
+          "stem": "The values (mm Hg) for pCO2 and pO2 in the interstitial spaces of peripheral tissues are approximately:",
+          "options": [
+            {
+              "label": "A",
+              "text": "60; 40"
+            },
+            {
+              "label": "B",
+              "text": "40; 60"
+            },
+            {
+              "label": "C",
+              "text": "46; 40"
+            },
+            {
+              "label": "D",
+              "text": "66; 46"
+            },
+            {
+              "label": "E",
+              "text": "46; 100"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "In peripheral tissues, cells consume O2 (dropping pO2 to ~40 mmHg) and produce CO2 (raising pCO2 to ~46 mmHg).",
+          "notes": {
+            "A": "Wrong pairing.",
+            "B": "Reversed.",
+            "D": "Too high.",
+            "E": "100 is arterial pO2."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-630",
+          "type": "single-best",
+          "stem": "Which of the following reactions takes place in the systemic capillaries (where CO2 is increased and O2 is decreased)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hb + O2 -> HbO2"
+            },
+            {
+              "label": "B",
+              "text": "Hb + CO2 -> HbCO2"
+            },
+            {
+              "label": "C",
+              "text": "HbCO2 -> Hb + CO2"
+            },
+            {
+              "label": "D",
+              "text": "HCO3- + H+ -> H2CO3"
+            },
+            {
+              "label": "E",
+              "text": "Na+ + HCO3- -> NaHCO3"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "In systemic tissues, CO2 binds to hemoglobin to form carbaminohemoglobin (HbCO2).",
+          "notes": {
+            "A": "O2 is RELEASED in tissues.",
+            "C": "This happens in the lungs.",
+            "D": "This happens in the lungs.",
+            "E": "Not a capillary reaction."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "medium"
+        },
+        {
+          "id": "phy-resp-647",
+          "type": "single-best",
+          "stem": "Which of the following factors decrease the affinity of Hb to O2 in tissues:",
+          "options": [
+            {
+              "label": "A",
+              "text": "decreased pCO2"
+            },
+            {
+              "label": "B",
+              "text": "decreased pCO2 and lowered pH"
+            },
+            {
+              "label": "C",
+              "text": "lowered to"
+            },
+            {
+              "label": "D",
+              "text": "increased pCO2, and lowered pH"
+            },
+            {
+              "label": "E",
+              "text": "decreased pCO2, higher pH and lowered to"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "The Bohr effect: increased pCO2 and lowered pH shift the dissociation curve to the right, decreasing Hb's affinity for O2.",
+          "notes": {
+            "A": "INCREASES affinity.",
+            "B": "Mixed; low CO2 increases affinity.",
+            "C": "Cooling INCREASES affinity.",
+            "E": "These INCREASE affinity."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-652",
+          "type": "single-best",
+          "stem": "The exchange of O2 and CO2 between the capillary blood and the cells is carried out by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "osmosis"
+            },
+            {
+              "label": "B",
+              "text": "diffusion"
+            },
+            {
+              "label": "C",
+              "text": "filtration"
+            },
+            {
+              "label": "D",
+              "text": "transport across pores"
+            },
+            {
+              "label": "E",
+              "text": "reabsorption"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Gas exchange between blood and tissues occurs via simple diffusion down partial pressure gradients.",
+          "notes": {
+            "A": "Osmosis moves water.",
+            "C": "Filtration needs a pressure gradient.",
+            "D": "Gases cross membranes directly.",
+            "E": "Not a gas exchange process."
+          },
+          "topicId": "resp-gas",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-579",
+          "type": "single-best",
+          "stem": "The peripheral chemoreceptors are situated:",
+          "options": [
+            {
+              "label": "A",
+              "text": "on the ventral surface of medulla oblongata"
+            },
+            {
+              "label": "B",
+              "text": "on the dorsal surface of medulla oblongata"
+            },
+            {
+              "label": "C",
+              "text": "in arcus aortae and arteria carotis communis"
+            },
+            {
+              "label": "D",
+              "text": "in the inferior and superior venae cavae and the right atrium"
+            },
+            {
+              "label": "E",
+              "text": "in the hypothalamus"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Peripheral chemoreceptors are located in the carotid bodies (carotid bifurcation) and aortic bodies (aortic arch).",
+          "notes": {
+            "A": "These are central chemoreceptors.",
+            "B": "These are respiratory groups.",
+            "D": "These are volume receptors.",
+            "E": "The hypothalamus is not chemoreceptive for breathing."
+          },
+          "topicId": "resp-control",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-581",
+          "type": "single-best",
+          "stem": "Which of the following factors increases the rate of breathing:",
+          "options": [
+            {
+              "label": "A",
+              "text": "decreased pCO2"
+            },
+            {
+              "label": "B",
+              "text": "increased pO2"
+            },
+            {
+              "label": "C",
+              "text": "alkalosis"
+            },
+            {
+              "label": "D",
+              "text": "decreased pCO2 and increased pO2"
+            },
+            {
+              "label": "E",
+              "text": "increased pCO2 and decreased pO2"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "High CO2 (hypercapnia) and low O2 (hypoxia) are potent stimulators of the respiratory centers.",
+          "notes": {
+            "A": "Low CO2 REDUCES breathing.",
+            "B": "High O2 reduces drive.",
+            "C": "Alkalosis reduces drive.",
+            "D": "All of these reduce drive."
+          },
+          "topicId": "resp-control",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-587",
+          "type": "single-best",
+          "stem": "The need to breathe is caused by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "a drop in blood pH"
+            },
+            {
+              "label": "B",
+              "text": "a rise in blood pH"
+            },
+            {
+              "label": "C",
+              "text": "a drop in blood oxygen levels"
+            },
+            {
+              "label": "D",
+              "text": "a drop in carbon dioxide levels"
+            },
+            {
+              "label": "E",
+              "text": "none of the above"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "The primary drive to breathe is an increase in CO2 (hypercapnia), which lowers blood pH (increases H+ concentration).",
+          "notes": {
+            "B": "Rising pH REDUCES drive.",
+            "C": "Hypoxia stimulates only when severe; CO2/H+ is the main drive.",
+            "D": "Low CO2 REDUCES drive.",
+            "E": "Option A is correct."
+          },
+          "topicId": "resp-control",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-resp-591",
+          "type": "single-best",
+          "stem": "Acidosis is when blood pH is below?",
+          "options": [
+            {
+              "label": "A",
+              "text": "7.05"
+            },
+            {
+              "label": "B",
+              "text": "7.15"
+            },
+            {
+              "label": "C",
+              "text": "7.25"
+            },
+            {
+              "label": "D",
+              "text": "7.35"
+            },
+            {
+              "label": "E",
+              "text": "6.50"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Normal blood pH is 7.35 - 7.45. Acidosis is a pH below 7.35.",
+          "notes": {
+            "A": "That is severe acidosis.",
+            "B": "That is severe acidosis.",
+            "C": "That is acidosis, but the cut-off is 7.35.",
+            "E": "That is incompatible with life."
+          },
+          "topicId": "resp-control",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-593",
+          "type": "single-best",
+          "stem": "The carotid bodies:",
+          "options": [
+            {
+              "label": "A",
+              "text": "are stretch receptors in the walls of the internal carotid arteries"
+            },
+            {
+              "label": "B",
+              "text": "have a blood flow per unit volume similar to that in the brain"
+            },
+            {
+              "label": "C",
+              "text": "are inhibited by a rise in blood pCO2"
+            },
+            {
+              "label": "D",
+              "text": "generate fewer afferent impulses when blood H+ concentration rises"
+            },
+            {
+              "label": "E",
+              "text": "and the aortic bodies are mainly responsible for the increased ventilation in hypoxia"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "Carotid and aortic bodies are peripheral chemoreceptors primarily responsible for detecting hypoxia and stimulating ventilation.",
+          "notes": {
+            "A": "They are chemoreceptors at the bifurcation.",
+            "B": "Their flow is far higher (about 2 L/100 g/min).",
+            "C": "CO2 STIMULATES them.",
+            "D": "H+ INCREASES firing."
+          },
+          "topicId": "resp-control",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-595",
+          "type": "single-best",
+          "stem": "The hemoreceptors in the carotid artery and aortic arc are excited when:",
+          "options": [
+            {
+              "label": "A",
+              "text": "pCO2 in plasma is decreased"
+            },
+            {
+              "label": "B",
+              "text": "plasma pH is increased"
+            },
+            {
+              "label": "C",
+              "text": "pO2 in plasma is increased"
+            },
+            {
+              "label": "D",
+              "text": "pO2 in plasma is decreased"
+            },
+            {
+              "label": "E",
+              "text": "plasma osmolality is increased"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "Peripheral chemoreceptors are stimulated primarily by a decrease in arterial pO2 (hypoxia).",
+          "notes": {
+            "A": "Low CO2 reduces firing.",
+            "B": "Alkalosis reduces firing.",
+            "C": "High O2 reduces firing.",
+            "E": "Osmolality is not their stimulus."
+          },
+          "topicId": "resp-control",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-600",
+          "type": "single-best",
+          "stem": "Which of the following factors stimulate respiration:",
+          "options": [
+            {
+              "label": "A",
+              "text": "decreased pCO2"
+            },
+            {
+              "label": "B",
+              "text": "increased pO2"
+            },
+            {
+              "label": "C",
+              "text": "alkalosis"
+            },
+            {
+              "label": "D",
+              "text": "decreased pCO2, increased pO2, alkalosis"
+            },
+            {
+              "label": "E",
+              "text": "increased pCO2, decreased pO2, acidosis"
+            }
+          ],
+          "correctAnswer": "E",
+          "why": "High CO2 and low O2 strongly stimulate respiration. (Note: Alkalosis typically inhibits respiration, but based on the options, E contains the correct stimulating factors).",
+          "notes": {
+            "A": "This REDUCES drive.",
+            "B": "This REDUCES drive.",
+            "C": "This REDUCES drive.",
+            "D": "All three REDUCE drive."
+          },
+          "topicId": "resp-control",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-604",
+          "type": "single-best",
+          "stem": "A rise in arterial pCO2 causes:",
+          "options": [
+            {
+              "label": "A",
+              "text": "an increase in ventilation due to stimulation of peripheral and central chemoreceptors"
+            },
+            {
+              "label": "B",
+              "text": "a decrease in ventilation due to stimulation of central and peripheral chemoreceptors"
+            },
+            {
+              "label": "C",
+              "text": "a decrease in arterial pressure"
+            },
+            {
+              "label": "D",
+              "text": "a decrease in cerebral blood flow"
+            },
+            {
+              "label": "E",
+              "text": "a decrease in the plasma bicarbonate level"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Hypercapnia stimulates both central (medullary) and peripheral chemoreceptors to increase ventilation.",
+          "notes": {
+            "B": "Ventilation INCREASES.",
+            "C": "Arterial pressure tends to rise.",
+            "D": "Cerebral flow INCREASES.",
+            "E": "Bicarbonate RISES."
+          },
+          "topicId": "resp-control",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-605",
+          "type": "single-best",
+          "stem": "Ventilation is increased during:",
+          "options": [
+            {
+              "label": "A",
+              "text": "periods when cerebrospinal fluid pH is reduced"
+            },
+            {
+              "label": "B",
+              "text": "compensated chronic renal failure"
+            },
+            {
+              "label": "C",
+              "text": "periods when plasma bicarbonate level is increased"
+            },
+            {
+              "label": "D",
+              "text": "deep sleep"
+            },
+            {
+              "label": "E",
+              "text": "exercise because of the ensuing fall in arterial pO2"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "A decrease in CSF pH (due to increased CO2) strongly stimulates the central respiratory centers.",
+          "notes": {
+            "B": "Compensated: drive is not increased.",
+            "C": "High bicarbonate (alkalosis) REDUCES drive.",
+            "D": "Ventilation falls in deep sleep.",
+            "E": "Arterial pO2 does not fall in moderate exercise."
+          },
+          "topicId": "resp-control",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-632",
+          "type": "single-best",
+          "stem": "What does the ventral respiratory group within the medulla oblongata do?",
+          "options": [
+            {
+              "label": "A",
+              "text": "triggers inspiration"
+            },
+            {
+              "label": "B",
+              "text": "decreased ventilation rate"
+            },
+            {
+              "label": "C",
+              "text": "nothing"
+            },
+            {
+              "label": "D",
+              "text": "triggers forced breathing"
+            },
+            {
+              "label": "E",
+              "text": "inhibits apneustic center, sets limit to over inflation of lungs"
+            }
+          ],
+          "correctAnswer": "D",
+          "why": "The VRG is primarily active during forceful expiration and forced breathing, whereas the DRG handles quiet inspiration.",
+          "notes": {
+            "A": "The DRG triggers quiet inspiration.",
+            "B": "Not its role.",
+            "C": "It is active in forced breathing.",
+            "E": "That is the pneumotaxic centre."
+          },
+          "topicId": "resp-control",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-633",
+          "type": "single-best",
+          "stem": "The region in the brain that sets the limit for over-inflation of lungs is located in the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "pons"
+            },
+            {
+              "label": "B",
+              "text": "apneustic center"
+            },
+            {
+              "label": "C",
+              "text": "arterial blood chemistry"
+            },
+            {
+              "label": "D",
+              "text": "medulla oblongata"
+            },
+            {
+              "label": "E",
+              "text": "stretch receptors"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "The pneumotaxic center in the pons inhibits the apneustic center, limiting inspiration and preventing over-inflation.",
+          "notes": {
+            "B": "The apneustic centre PROMOTES inspiration.",
+            "C": "Not a brain region.",
+            "D": "The pons, not the medulla, contains the pneumotaxic centre.",
+            "E": "Not a brain region."
+          },
+          "topicId": "resp-control",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-636",
+          "type": "single-best",
+          "stem": "The most important gas maintaining alveolar ventilation is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "oxygen"
+            },
+            {
+              "label": "B",
+              "text": "hydrogen"
+            },
+            {
+              "label": "C",
+              "text": "carbon dioxide"
+            },
+            {
+              "label": "D",
+              "text": "N2"
+            },
+            {
+              "label": "E",
+              "text": "CO"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "CO2 is the primary regulator of respiration, acting on central chemoreceptors.",
+          "notes": {
+            "A": "O2 drives breathing only when it falls a lot.",
+            "B": "Hydrogen gas is not involved.",
+            "D": "N2 is inert.",
+            "E": "CO is a toxin."
+          },
+          "topicId": "resp-control",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-642",
+          "type": "single-best",
+          "stem": "Decrease of pCO2, decrease in H+ and increased pO2 causes:",
+          "options": [
+            {
+              "label": "A",
+              "text": "hyperventilation"
+            },
+            {
+              "label": "B",
+              "text": "hypoventilation"
+            },
+            {
+              "label": "C",
+              "text": "hypercapnoea"
+            },
+            {
+              "label": "D",
+              "text": "hypoxia"
+            },
+            {
+              "label": "E",
+              "text": "non of the above"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Low CO2 (hypocapnia) and high O2 remove the stimulus for breathing, causing hypoventilation.",
+          "notes": {
+            "A": "These REDUCE the drive to breathe.",
+            "C": "CO2 is low.",
+            "D": "O2 is high.",
+            "E": "Option B is correct."
+          },
+          "topicId": "resp-control",
+          "subtopic": "",
+          "difficulty": "medium",
+          "lockOrder": true
+        },
+        {
+          "id": "phy-resp-645",
+          "type": "single-best",
+          "stem": "Sudden complete obstruction of the respiratory tract causes:",
+          "options": [
+            {
+              "label": "A",
+              "text": "a fall in blood pressure"
+            },
+            {
+              "label": "B",
+              "text": "stimulation of central chemoreceptors"
+            },
+            {
+              "label": "C",
+              "text": "a fall in arterial pCO2"
+            },
+            {
+              "label": "D",
+              "text": "relaxation of the respiratory muscles"
+            },
+            {
+              "label": "E",
+              "text": "constriction of the pupils"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "Complete obstruction prevents ventilation, causing CO2 retention, which directly stimulates central chemoreceptors.",
+          "notes": {
+            "A": "Blood pressure RISES initially.",
+            "C": "pCO2 RISES.",
+            "D": "Respiratory efforts INCREASE.",
+            "E": "The pupils DILATE (sympathetic)."
+          },
+          "topicId": "resp-control",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-612",
+          "type": "single-best",
+          "stem": "Oxygen debt is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "the total amount of O2 consumed during exercise"
+            },
+            {
+              "label": "B",
+              "text": "incurred because the pulmonary capillary walls limit O2 uptake during exercise"
+            },
+            {
+              "label": "C",
+              "text": "possible since skeletal muscle can function temporarily without oxygen"
+            },
+            {
+              "label": "D",
+              "text": "associated with a decrease in blood lactate"
+            },
+            {
+              "label": "E",
+              "text": "associated with metabolic alkalosis"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "Oxygen debt occurs because muscles can perform anaerobic metabolism temporarily, creating an oxygen deficit that must be repaid later.",
+          "notes": {
+            "A": "The debt is the EXTRA O2 consumed after exercise.",
+            "B": "Diffusion is not limiting.",
+            "D": "Lactate RISES.",
+            "E": "It is linked to lactic ACIDOSIS."
+          },
+          "topicId": "resp-env",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-619",
+          "type": "single-best",
+          "stem": "A diver breathing air at a depth of 30 metres under water:",
+          "options": [
+            {
+              "label": "A",
+              "text": "is exposed to a pressure equal to that at the surface"
+            },
+            {
+              "label": "B",
+              "text": "has a raised pressure of nitrogen in the alveoli"
+            },
+            {
+              "label": "C",
+              "text": "has a four-fold increase in the oxygen content of blood"
+            },
+            {
+              "label": "D",
+              "text": "has a four-fold increase in alveolar water vapour pressure"
+            },
+            {
+              "label": "E",
+              "text": "Expends less energy than normal on the work of breathing"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "At 30m depth, total pressure is 4 atmospheres. The partial pressure of nitrogen rises significantly, increasing the risk of nitrogen narcosis and decompression sickness.",
+          "notes": {
+            "A": "The pressure is 4 atmospheres.",
+            "C": "Hb is already saturated; dissolved O2 rises only a little.",
+            "D": "Water vapour pressure depends only on temperature.",
+            "E": "Dense gas INCREASES the work of breathing."
+          },
+          "topicId": "resp-env",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-634",
+          "type": "single-best",
+          "stem": "In Caissons disease pain in the joints and muscles is due to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "formation of N2 bubbles"
+            },
+            {
+              "label": "B",
+              "text": "formation of CO2 bubbles"
+            },
+            {
+              "label": "C",
+              "text": "due to fatigue"
+            },
+            {
+              "label": "D",
+              "text": "due to increase in barometric pressure"
+            },
+            {
+              "label": "E",
+              "text": "formation of O2 bubbles"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Decompression sickness (Caissons disease) occurs when nitrogen bubbles form in the blood and tissues due to rapid pressure reduction.",
+          "notes": {
+            "B": "CO2 is very soluble.",
+            "C": "The pain is not due to fatigue.",
+            "D": "Bubbles form on DECOMPRESSION.",
+            "E": "O2 is used up by tissues."
+          },
+          "topicId": "resp-env",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-638",
+          "type": "single-best",
+          "stem": "As one ascends to higher than 3000 meters above sea level changes in alveolar pO2 and pCO2 are as follows:",
+          "options": [
+            {
+              "label": "A",
+              "text": "decrease in pO2, increase in pCO2"
+            },
+            {
+              "label": "B",
+              "text": "decrease in pO2, decrease in pCO2"
+            },
+            {
+              "label": "C",
+              "text": "increase in both pO2 and pCO2"
+            },
+            {
+              "label": "D",
+              "text": "increase in pO2, decrease in pCO2"
+            },
+            {
+              "label": "E",
+              "text": "no change in pO2 and pCO2"
+            }
+          ],
+          "correctAnswer": "B",
+          "why": "At high altitude, lower atmospheric pressure reduces pO2. Hyperventilation (triggered by hypoxia) blows off more CO2, decreasing pCO2.",
+          "notes": {
+            "A": "CO2 falls (hyperventilation).",
+            "C": "pO2 falls.",
+            "D": "pO2 falls.",
+            "E": "Both change."
+          },
+          "topicId": "resp-env",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-640",
+          "type": "single-best",
+          "stem": "Which of the following effects is not observed during prolonged stay is space:",
+          "options": [
+            {
+              "label": "A",
+              "text": "decrease in blood volume"
+            },
+            {
+              "label": "B",
+              "text": "decrease in muscle strength"
+            },
+            {
+              "label": "C",
+              "text": "increase in red cell mass"
+            },
+            {
+              "label": "D",
+              "text": "loss of bone mass"
+            },
+            {
+              "label": "E",
+              "text": "osteoporosis"
+            }
+          ],
+          "correctAnswer": "C",
+          "why": "In microgravity, astronauts experience a decrease in red cell mass (space anemia), not an increase.",
+          "notes": {
+            "A": "Blood volume DOES fall.",
+            "B": "Strength DOES fall.",
+            "D": "Bone IS lost.",
+            "E": "Osteoporosis DOES occur."
+          },
+          "topicId": "resp-env",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-644",
+          "type": "single-best",
+          "stem": "Exercise which doubles the metabolic rate is likely to at least double the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "oxygen consumption"
+            },
+            {
+              "label": "B",
+              "text": "cardiac output"
+            },
+            {
+              "label": "C",
+              "text": "stroke volume"
+            },
+            {
+              "label": "D",
+              "text": "arterial pCO2"
+            },
+            {
+              "label": "E",
+              "text": "ventilation/perfusion ratio"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Oxygen consumption (VO2) increases linearly with metabolic rate during exercise.",
+          "notes": {
+            "B": "Cardiac output rises less than oxygen consumption.",
+            "C": "Stroke volume plateaus.",
+            "D": "Arterial pCO2 stays normal.",
+            "E": "V/Q rises less."
+          },
+          "topicId": "resp-env",
+          "subtopic": "",
+          "difficulty": "easy"
+        },
+        {
+          "id": "phy-resp-646",
+          "type": "single-best",
+          "stem": "The effects of moving from sea level to an altitude of 5000 metres include an increase in:",
+          "options": [
+            {
+              "label": "A",
+              "text": "alveolar ventilation"
+            },
+            {
+              "label": "B",
+              "text": "blood bicarbonate level"
+            },
+            {
+              "label": "C",
+              "text": "appetite for food"
+            },
+            {
+              "label": "D",
+              "text": "exercise tolerance"
+            },
+            {
+              "label": "E",
+              "text": "muscle strength"
+            }
+          ],
+          "correctAnswer": "A",
+          "why": "Hypoxia at high altitude stimulates peripheral chemoreceptors, significantly increasing alveolar ventilation.",
+          "notes": {
+            "B": "Bicarbonate FALLS (renal compensation).",
+            "C": "Appetite falls.",
+            "D": "Exercise tolerance falls.",
+            "E": "Strength falls."
+          },
+          "topicId": "resp-env",
+          "subtopic": "",
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ]
+}
