@@ -62,6 +62,7 @@
     if (upto === 'year') return '#/' + parts.join('/');
     parts.push(r.course); if (upto === 'course') return '#/' + parts.join('/');
     parts.push(r.coll); if (upto === 'topics') return '#/' + parts.join('/');
+    if (upto === 'sys') return '#/' + parts.join('/') + '/' + r.sys;
     return '#/' + parts.join('/') + '/setup';
   }
   const COLL = { past: 'Past questions', curated: 'Curated by DOMiNANCE' };
@@ -82,6 +83,7 @@
     if (seg[i]) { r.course = seg[i]; r.view = 'course'; }
     if (seg[i + 1]) { r.coll = seg[i + 1] === 'curated' ? 'curated' : 'past'; r.view = 'topics'; }
     if (seg[i + 2] === 'setup') r.view = 'setup';
+    else if (seg[i + 2]) r.sys = seg[i + 2];
     return r;
   }
   function go(hash) { if (location.hash === hash) route(); else location.hash = hash; }
@@ -184,6 +186,7 @@
     if (upto === 'course') return out;
     out.push({ label: COLL[r.coll], href: baseHash(r, 'topics') });
     if (upto === 'topics') return out;
+    if (upto === 'sys') { const d = currentData(), t = d && d.topics.find(x => x.sys === r.sys); out.push({ label: t ? t.sysTitle : r.sys, href: baseHash(r, 'sys') }); return out; }
     out.push({ label: 'Setup', href: baseHash(r, 'setup') });
     return out;
   }
@@ -252,17 +255,35 @@
     const counts = {}; d[r.coll].forEach(q => { counts[q.topic] = (counts[q.topic] || 0) + 1; });
     const topics = d.topics.filter(t => counts[t.id]);
     const sel = new Set(getSel(r).filter(id => counts[id]));
-    const all = topics.length && topics.every(t => sel.has(t.id));
     const n = pool(d, r.coll, [...sel]).length;
-    let html = '<div class="folders" role="group" aria-label="Topics"><button class="folder all" data-a="topicall" aria-pressed="' + all + '"><span class="tick">' + I.check + '</span><span class="fi">' + I.folders + '</span><span class="ft">All topics</span><span class="fc">' + d[r.coll].length + ' questions</span></button></div>';
-    let sys = null;
-    topics.forEach(t => {
-      if (t.sys !== sys) { if (sys !== null) html += '</div>'; sys = t.sys; html += '<div class="syshead">' + esc(t.sysTitle) + '</div><div class="folders" role="group" aria-label="' + esc(t.sysTitle) + ' topics">'; }
-      html += '<button class="folder" data-a="topic" data-id="' + esc(t.id) + '" aria-pressed="' + sel.has(t.id) + '"><span class="tick">' + I.check + '</span><span class="fi">' + I.folder + '</span><span class="ft">' + esc(t.title) + '</span><span class="fc">' + counts[t.id] + ' question' + (counts[t.id] === 1 ? '' : 's') + '</span></button>';
-    });
-    if (sys !== null) html += '</div>';
+    const systems = [];
+    topics.forEach(t => { let g = systems.find(x => x.id === t.sys); if (!g) systems.push(g = { id: t.sys, title: t.sysTitle, topics: [] }); g.topics.push(t); });
+    const grouped = systems.length > 1;
+    const cur = grouped && r.sys ? systems.find(x => x.id === r.sys) : null;
+    if (grouped && r.sys && !cur) { setTimeout(() => go(baseHash(r, 'topics')), 0); return ''; }
+    const qn = k => k + ' question' + (k === 1 ? '' : 's');
+    const sum = list => list.reduce((a, t) => a + counts[t.id], 0);
+    let html, head, lead;
+    if (grouped && !cur) {
+      const all = topics.every(t => sel.has(t.id));
+      html = '<div class="folders" role="group" aria-label="Systems"><button class="folder all" data-a="topicall" aria-pressed="' + all + '"><span class="tick">' + I.check + '</span><span class="fi">' + I.folders + '</span><span class="ft">Everything</span><span class="fc">' + qn(d[r.coll].length) + '</span></button>' +
+        systems.map(g => {
+          const k = g.topics.filter(t => sel.has(t.id)).length;
+          const state = k === 0 ? '' : k === g.topics.length ? 'All topics picked' : k + ' of ' + g.topics.length + ' picked';
+          return '<a class="folder sys" href="' + baseHash(Object.assign({}, r, { sys: g.id }), 'sys') + '" aria-pressed="' + (k > 0) + '"><span class="tick">' + I.check + '</span><span class="fi">' + I.folders + '</span><span class="ft">' + esc(g.title) + '</span><span class="fc">' + (state ? '<b>' + state + '</b>' : g.topics.length + ' topics · ' + qn(sum(g.topics))) + '</span></a>';
+        }).join('') + '</div>';
+      head = crumbs(trail(r, 'topics')) + '<h1>' + COLL[r.coll] + '</h1>';
+      lead = 'Open a system to pick topics. You can pick from more than one.';
+    } else {
+      const list = cur ? cur.topics : topics;
+      const all = list.every(t => sel.has(t.id));
+      html = '<div class="folders" role="group" aria-label="Topics"><button class="folder all" data-a="topicall"' + (cur ? ' data-sys="' + esc(cur.id) + '"' : '') + ' aria-pressed="' + all + '"><span class="tick">' + I.check + '</span><span class="fi">' + I.folders + '</span><span class="ft">' + (cur ? 'All ' + esc(cur.title) : 'All topics') + '</span><span class="fc">' + qn(sum(list)) + '</span></button>' +
+        list.map(t => '<button class="folder" data-a="topic" data-id="' + esc(t.id) + '" aria-pressed="' + sel.has(t.id) + '"><span class="tick">' + I.check + '</span><span class="fi">' + I.folder + '</span><span class="ft">' + esc(t.title) + '</span><span class="fc">' + qn(counts[t.id]) + '</span></button>').join('') + '</div>';
+      head = cur ? crumbs(trail(r, 'sys')) + '<h1>' + esc(cur.title) + '</h1>' : crumbs(trail(r, 'topics')) + '<h1>' + COLL[r.coll] + '</h1>';
+      lead = 'Tap to pick one or more topics.';
+    }
     const dock = '<div class="dock"><div class="in"><div class="info">' + (sel.size ? '<b>' + sel.size + ' topic' + (sel.size === 1 ? '' : 's') + '</b> · ' + n + ' questions' : 'Tap folders to pick one or more topics') + '</div><button class="btn primary" data-a="continue">Continue</button></div></div>';
-    return wrap(topbar() + crumbs(trail(r, 'topics')) + '<h1>' + COLL[r.coll] + '</h1><p class="lead">Tap to pick one or more topics.</p>' + html) + dock;
+    return wrap(topbar() + head + '<p class="lead">' + lead + '</p>' + html) + dock;
   }
 
   /* ---------- view: setup ---------- */
@@ -679,7 +700,7 @@
         const d = currentData(), counts = {}; d[r.coll].forEach(q => { counts[q.topic] = 1; });
         const ids = d.topics.filter(t => counts[t.id]).map(t => t.id);
         let sel = new Set(getSel(r).filter(id => counts[id]));
-        if (act === 'topicall') sel = ids.every(id => sel.has(id)) ? new Set() : new Set(ids);
+        if (act === 'topicall') { const scope = el.dataset.sys ? d.topics.filter(t => counts[t.id] && t.sys === el.dataset.sys).map(t => t.id) : ids; if (scope.every(id => sel.has(id))) scope.forEach(id => sel.delete(id)); else scope.forEach(id => sel.add(id)); }
         else { const id = el.dataset.id; sel.has(id) ? sel.delete(id) : sel.add(id); }
         putSel(r, ids.filter(id => sel.has(id))); render(); break;
       }
