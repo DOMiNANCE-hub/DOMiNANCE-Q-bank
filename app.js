@@ -141,32 +141,52 @@
       const year = yearById(r.year), sem = r.sem ? (year.semesters || []).find(s => s.id === r.sem) : null;
       const course = coursesFor(year, sem).find(c => c.id === r.course);
       if (!course || course.status !== 'live') { go(baseHash(r, 'year')); return; }
-      try { await loadCourse(courseKeyOf(r), course); } catch (e) { $app.innerHTML = '<div class="wrap"><p class="banner">Questions could not load. Check your connection and refresh.</p></div>'; return; }
+      if (!S.cache[courseKeyOf(r)] && !S_loading[courseKeyOf(r)] && S.prefetchTok) { S.prefetchTok.abort(); S.prefetchTok = null; } // your tap beats background preloading
+      if (!S.cache[courseKeyOf(r)]) $app.innerHTML = wrap(topbar() + '<div class="loading" role="status"><span class="spin" aria-hidden="true"></span>Loading ' + esc(course.title) + ' questions…</div>');
+      try { await loadCourseOnce(courseKeyOf(r), course); } catch (e) { $app.innerHTML = '<div class="wrap"><p class="banner">Questions could not load. Check your connection and refresh.</p></div>'; return; }
     }
     if (r.view === 'quiz' && !S.attempt) { go('#/home'); return; }
     if ((r.view === 'results' || r.view === 'review') && !S.last) { go('#/home'); return; }
     render();
     window.scrollTo(0, 0);
+    if (r.view === 'year' || r.view === 'sem') prefetchCourses(r);
     if (r.view === 'quiz') startTimer();
   }
 
   /* ---------- data loading + normalisation ---------- */
-  async function getJSON(url) { const res = await fetch(url, { cache: 'no-cache' }); if (!res.ok) throw new Error(url); return res.json(); }
-  async function loadCourse(key, course) {
+  async function getJSON(url, low) { const res = await fetch(url, low ? { cache: 'no-cache', priority: 'low', signal: low } : { cache: 'no-cache' }); if (!res.ok) throw new Error(url); return res.json(); }
+  const S_loading = {};
+  function loadCourseOnce(key, course, low) {
+    if (S.cache[key]) return Promise.resolve(S.cache[key]);
+    if (!S_loading[key]) S_loading[key] = loadCourse(key, course, low).finally(() => { delete S_loading[key]; });
+    return S_loading[key];
+  }
+  function prefetchCourses(r) {
+    const year = yearById(r.year); if (!year) return;
+    const sems = r.sem ? [(year.semesters || []).find(s => s.id === r.sem)] : (year.semesters ? [] : [null]);
+    // warm the cache quietly, one course at a time and at low priority, so a tap opens instantly
+    const todo = [];
+    sems.forEach(sem => coursesFor(year, sem).filter(c => c.status === 'live').forEach(c => todo.push([courseKeyOf(Object.assign({}, r, { course: c.id })), c])));
+    const tok = S.prefetchTok = new AbortController();
+    const next = () => { if (S.prefetchTok !== tok || tok.signal.aborted || !todo.length) return; const [k, c] = todo.shift(); loadCourseOnce(k, c, tok.signal).catch(() => {}).then(next); };
+    setTimeout(next, 600);
+  }
+  async function loadCourse(key, course, low) {
+    const get = u => getJSON(u, low);
     if (S.cache[key]) return S.cache[key];
     const data = { key, course, topics: [], past: [], curated: [] };
-    for (const sys of course.systems || []) {
-      const topics = sys.topics ? await getJSON(sys.topics) : [];
+    // fetch every file of the course at once (was one after another: slow on mobile data)
+    const files = await Promise.all((course.systems || []).map(sys => Promise.all([
+      sys.topics ? get(sys.topics) : Promise.resolve([]),
+      Promise.all((sys.past || []).map(get)),
+      Promise.all((sys.curated || []).map(get))
+    ])));
+    (course.systems || []).forEach((sys, si) => {
+      const [topics, pastFiles, curFiles] = files[si];
       topics.sort((a, b) => (a.order || 0) - (b.order || 0)).forEach(t => { if (course.onlyTag && t.tag !== course.onlyTag) return; data.topics.push({ id: t.id, title: t.title, short: t.short || t.title, tag: course.onlyTag ? '' : (t.tag || ''), sys: sys.id, sysTitle: sys.title }); });
-      for (const f of sys.past || []) {
-        const j = await getJSON(f);
-        (j.sets || []).forEach(set => (set.questions || []).forEach(q => data.past.push(normPast(q, sys.id))));
-      }
-      for (const f of sys.curated || []) {
-        const j = await getJSON(f);
-        (j.questions || []).forEach(q => data.curated.push(normCurated(q, sys.id)));
-      }
-    }
+      pastFiles.forEach(j => (j.sets || []).forEach(set => (set.questions || []).forEach(q => data.past.push(normPast(q, sys.id)))));
+      curFiles.forEach(j => (j.questions || []).forEach(q => data.curated.push(normCurated(q, sys.id))));
+    });
     const known = new Set(data.topics.map(t => t.id));
     if (course.onlyTag) { data.past = data.past.filter(q => known.has(q.topic)); data.curated = data.curated.filter(q => known.has(q.topic)); }
     [...data.past, ...data.curated].forEach(q => { if (!known.has(q.topic)) { q.topic = 'other-' + q.sys; } });
@@ -357,7 +377,7 @@
         systems.map(g => {
           const k = g.topics.filter(t => sel.has(t.id)).length;
           const state = k === 0 ? '' : k === g.topics.length ? 'All topics picked' : k + ' of ' + g.topics.length + ' picked';
-          return '<a class="folder sys" href="' + baseHash(Object.assign({}, r, { sys: g.id }), 'sys') + '" aria-pressed="' + (k > 0) + '"><span class="tick">' + I.check + '</span><span class="fi">' + sysIcon(g) + '</span><span class="ft">' + esc(g.title) + '</span><span class="fc">' + (state ? '<b>' + state + '</b>' : g.topics.length + ' topics · ' + qn(sum(g.topics))) + '</span></a>';
+          return '<a class="folder sys" href="' + baseHash(Object.assign({}, r, { sys: g.id }), 'sys') + '"' + (k > 0 ? ' data-picked="1"' : '') + '><span class="fi">' + sysIcon(g) + '</span><span class="ft">' + esc(g.title) + '</span><span class="fc">' + (state ? '<b>' + state + '</b>' : g.topics.length + ' topics · ' + qn(sum(g.topics))) + '</span></a>';
         }).join('') + '</div>';
       head = crumbs(trail(r, 'topics')) + '<h1>' + COLL[r.coll] + '</h1>';
       lead = 'Open a system to pick topics. You can pick from more than one.';
@@ -365,8 +385,8 @@
       const list = cur ? cur.topics : topics;
       const all = list.every(t => sel.has(t.id));
       const allBtn = cur ? '<button class="folder all" data-a="topicall" data-sys="' + esc(cur.id) + '" aria-pressed="' + all + '"><span class="tick">' + I.check + '</span><span class="fi">' + I.folders + '</span><span class="ft">All ' + esc(cur.title) + '</span><span class="fc">' + qn(sum(list)) + '</span></button>' : '';
-      html = '<div class="folders' + (cur ? '' : ' sq') + '" role="group" aria-label="Topics">' + allBtn +
-        list.map((t, i) => (t.tag && (i === 0 || !list[i - 1].tag) ? '</div><div class="syshead">From ' + esc(t.tag) + '</div><div class="folders' + (cur ? '' : ' sq') + '" role="group">' : '') + '<button class="folder" data-a="topic" data-id="' + esc(t.id) + '" aria-pressed="' + sel.has(t.id) + '"><span class="tick">' + I.check + '</span><span class="ft" title="' + esc(t.title) + '">' + esc(cur ? t.title : shortTitle(t.title)) + '</span><span class="fc">' + qn(counts[t.id]) + '</span></button>').join('') + '</div>';
+      html = '<div class="folders sq" role="group" aria-label="Topics">' + allBtn +
+        list.map((t, i) => (t.tag && (i === 0 || !list[i - 1].tag) ? '</div><div class="syshead">From ' + esc(t.tag) + '</div><div class="folders sq" role="group">' : '') + '<button class="folder" data-a="topic" data-id="' + esc(t.id) + '" aria-pressed="' + sel.has(t.id) + '"><span class="tick">' + I.check + '</span><span class="ft" title="' + esc(t.title) + '">' + esc(shortTitle(t.title)) + '</span><span class="fc">' + qn(counts[t.id]) + '</span></button>').join('') + '</div>';
       head = cur ? crumbs(trail(r, 'sys')) + '<h1>' + esc(cur.title) + '</h1>' : crumbs(trail(r, 'topics')) + '<h1>' + COLL[r.coll] + '</h1>';
       lead = 'Pick one or more topics.';
     }

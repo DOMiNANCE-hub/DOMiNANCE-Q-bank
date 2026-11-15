@@ -420,3 +420,12 @@ body:before,body:after{content:none!important;display:none!important}
 @media (min-width:701px){.bubble{right:max(24px,calc(50vw - 420px));bottom:120px}}
 .floaty{position:fixed;bottom:calc(120px + env(safe-area-inset-bottom));z-index:44;line-height:1;pointer-events:none;will-change:transform,opacity;filter:drop-shadow(0 4px 10px rgba(0,0,0,.3))}
 @media (min-width:701px){.floaty{right:max(30px,calc(50vw - 400px))!important}}
+.loading{display:flex;align-items:center;justify-content:center;gap:12px;min-height:50vh;color:var(--muted);font-weight:600}
+.spin{width:22px;height:22px;border-radius:50%;border:2.5px solid rgba(246,196,83,.25);border-top-color:var(--gold-solid);animation:spin .8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){.spin{animation-duration:2.4s}}
+/* system tiles open a page, so no tick; show a gold edge when topics inside are picked */
+.sq .folder.sys[data-picked]{border-color:rgba(246,196,83,.55);box-shadow:var(--hi),0 0 0 1px rgba(246,196,83,.35) inset,var(--sh)}
+.sq .folder.sys .fc b{color:var(--gold-solid);font-weight:700}
+.sq .folder.all .ft{color:var(--gold-solid)}
+.sq .folder.sys .ft{font-size:12.5px;overflow-wrap:normal}
