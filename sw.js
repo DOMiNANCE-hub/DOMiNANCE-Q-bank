@@ -1,7 +1,7 @@
 /* DOMiNANCE Q Bank service worker: fast repeat visits and offline use.
    Pages, code and question files: network first (always fresh when online), cached copy when offline.
    Images: cache first (file names never change once published). */
-const CACHE = 'dq-v3';
+const CACHE = 'dq-v4';
 self.addEventListener('install', e => { self.skipWaiting(); e.waitUntil(caches.open(CACHE).then(c => c.addAll(['./', './index.html', './styles.css', './app.js', './data/catalog.json', './fonts/inter.woff2', './fonts/anton.woff2']).catch(() => {}))); });
 self.addEventListener('activate', e => { e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k)))).then(() => self.clients.claim())); });
 self.addEventListener('fetch', e => {

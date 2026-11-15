@@ -295,8 +295,21 @@
     const hist = store.get('dq.hist.' + ck, []).slice(0, 5);
     const coll = k => '<a class="row" href="' + baseHash(Object.assign({}, r, { coll: k }), 'topics') + '"><span class="ico">' + (k === 'past' ? I.archive : I.spark) + '</span><span class="txt"><span class="t">' + COLL[k] + '</span><span class="s">' + d[k].length + ' questions</span></span><span class="chev">' + I.chev + '</span></a>';
     return wrap(topbar() + crumbs(trail(r, 'course')) + '<h1>' + esc(c.title) + '</h1><p class="lead">' + (d.past.length && d.curated.length ? 'Choose a collection. Both are sorted by topic.' : 'Questions are sorted by topic.') + '</p>' + resumeCards(ck) +
-      '<div class="list">' + ['past', 'curated'].filter(k => d[k].length).map(coll).join('') + '</div>' +
+      '<div class="list">' + ['past', 'curated'].filter(k => d[k].length).map(coll).join('') + '</div>' + jumpSystems(r, d) +
       '<h2>Your recent scores</h2>' + (hist.length ? '<div class="history">' + hist.map(h => '<div class="hi"><b>' + h.pct + '%</b><span>' + esc(COLL[h.coll]) + ' · ' + esc(h.label) + '<br><small>' + h.got + '/' + h.total + ' marks · ' + esc(new Date(h.at).toLocaleDateString()) + '</small></span></div>').join('') + '</div>' : '<p class="empty">Finish a quiz and your scores will show here.</p>'));
+  }
+
+  function jumpSystems(r, d) {
+    const sys = []; const tsys = {};
+    d.topics.forEach(t => { tsys[t.id] = t.sys; if (!sys.find(x => x.id === t.sys)) sys.push({ id: t.sys, title: t.sysTitle }); });
+    if (sys.length < 2) return '';
+    const n = (k, id) => d[k].filter(q => tsys[q.topic] === id).length;
+    const tiles = sys.map(g => {
+      const p = n('past', g.id), c = n('curated', g.id); if (!p && !c) return '';
+      const k = p ? 'past' : 'curated';
+      return '<a class="jump" href="' + baseHash(Object.assign({}, r, { coll: k, sys: g.id }), 'sys') + '"><span class="fi">' + sysIcon(g) + '</span><span class="jt">' + esc(g.title) + '</span><span class="jc">' + (p ? p + ' past' : '') + (p && c ? ' · ' : '') + (c ? c + ' curated' : '') + '</span></a>';
+    }).join('');
+    return tiles ? '<h2>Jump to a system</h2><div class="jumps">' + tiles + '</div>' : '';
   }
 
   /* ---------- view: topic folders ---------- */
