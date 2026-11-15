@@ -358,3 +358,6 @@ body[data-view="quiz"]:before,body[data-view="quiz"]:after,body[data-view="revie
   .folder[data-a="topic"] .fc{font-size:12px}
   .folders{gap:7px}
 }
+
+/* watermark removed */
+body:before,body:after{content:none!important;display:none!important}

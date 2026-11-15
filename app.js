@@ -126,6 +126,7 @@
   })();
   function clearBubbles() { clearTimeout(S.bubbleT); document.querySelectorAll('.bubble').forEach(b => b.remove()); }
   async function route() {
+    if (!S.catalog) return; // still loading; boot calls route() when ready
     stopTimer(); clearBubbles();
     S.sheet = null; S.inlineErr = '';
     const r = parseHash();
