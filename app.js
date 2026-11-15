@@ -218,7 +218,7 @@
   /* ---------- shared chrome ---------- */
   function topbar() {
     const dark = store.get('dq.theme', 'dark') === 'dark';
-    return '<header class="topbar"><a class="brand" href="#/home" aria-label="DOMiNANCE Q Bank home"><span class="word">DOM<i>i</i>NANCE</span></a>' +
+    return '<header class="topbar"><a class="brand" href="#/home" aria-label="DOMiNANCE Q Bank home"><span class="word">DOM<i>i</i>NANCE</span><span class="qb">Q BANK</span></a>' +
       '<button class="iconbtn" data-a="theme" aria-label="Switch to ' + (dark ? 'light' : 'dark') + ' theme">' + (dark ? I.sun : I.moon) + '</button></header>';
   }
   function crumbs(items) {
@@ -764,7 +764,7 @@
     const base = Object.assign({}, r);
     return wrap(topbar() +
       '<p class="lead" style="margin:0 0 4px">' + esc(a.courseTitle) + ' · ' + esc(COLL[a.coll]) + ' · ' + esc(a.label) + '</p><h1>Results</h1>' +
-      '<div class="score"><div class="ring" style="--p:' + L.pct + '"><div>' + L.pct + '%</div></div><div><div class="msg">' + (xpo ? esc(L.msg) : 'Quiz complete') + '</div><div class="s">' + L.got + ' of ' + L.total + ' marks · ' + a.qids.length + ' questions</div></div></div>' +
+      '<div class="score"><span class="scorebrand" aria-hidden="true">DOM<i>i</i>NANCE <b>Q BANK</b></span><div class="ring" style="--p:' + L.pct + '"><div>' + L.pct + '%</div></div><div><div class="msg">' + (xpo ? esc(L.msg) : 'Quiz complete') + '</div><div class="s">' + L.got + ' of ' + L.total + ' marks · ' + a.qids.length + ' questions</div></div></div>' +
       '<div class="metrics">' + metric('Correct', L.got) + metric('Wrong', L.wrong) + metric('Unanswered', L.missing) + metric('Time', fmtTime(a.elapsed)) + (xpo ? metric('Longest streak', L.best) : '') + '</div>' +
       byTopic +
       '<div class="acts-col"><button class="btn primary" data-a="review">Review answers</button><button class="btn" data-a="retrywrong">Retry wrong ones</button></div>' +
