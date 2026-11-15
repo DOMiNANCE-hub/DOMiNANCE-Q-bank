@@ -361,3 +361,23 @@ body[data-view="quiz"]:before,body[data-view="quiz"]:after,body[data-view="revie
 
 /* watermark removed */
 body:before,body:after{content:none!important;display:none!important}
+/* few-item pages: tiles grow to fill the screen on phones */
+@media (max-width:700px){
+  body[data-view="year"] .wrap,body[data-view="sem"] .wrap{padding-bottom:calc(20px + env(safe-area-inset-bottom))}
+  body[data-view="year"] .wrap>.list,body[data-view="sem"] .wrap>.list{flex:1 1 auto;grid-auto-rows:minmax(118px,1fr);max-height:720px;gap:12px}
+  body[data-view="year"] .row,body[data-view="sem"] .row{padding:20px 18px;gap:16px;align-items:center}
+  body[data-view="year"] .row .ico,body[data-view="sem"] .row .ico{width:60px;height:60px;border-radius:18px}
+  body[data-view="year"] .row .ico svg,body[data-view="sem"] .row .ico svg{width:28px;height:28px}
+  body[data-view="year"] .row .emo,body[data-view="sem"] .row .emo{font-size:32px}
+  body[data-view="year"] .row .t,body[data-view="sem"] .row .t{font-size:22px;margin-bottom:4px}
+  body[data-view="year"] .row .s,body[data-view="sem"] .row .s{font-size:14px;line-height:1.45}
+  body[data-view="course"] .wrap>.list{gap:12px}
+  body[data-view="course"] .wrap>.list .row{min-height:104px;padding:18px}
+  body[data-view="course"] .wrap>.list .row .ico{width:54px;height:54px;border-radius:16px}
+  body[data-view="course"] .wrap>.list .row .ico svg{width:26px;height:26px}
+  body[data-view="course"] .wrap>.list .row .t{font-size:18.5px}
+  body[data-view="course"] .jump{min-height:72px;padding:14px 16px}
+  body[data-view="course"] .jump .fi{width:44px;height:44px}
+  body[data-view="course"] .jump .emo{font-size:24px}
+  body[data-view="course"] .jump .jt{font-size:16px}
+}
