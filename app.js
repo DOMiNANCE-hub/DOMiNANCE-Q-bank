@@ -336,6 +336,7 @@
     return tiles ? '<h2>Jump to a system</h2><div class="jumps">' + tiles + '</div>' : '';
   }
 
+  const shortTitle = t => String(t).replace(/\s*\([^)]*\)/g, '').trim() || String(t);
   /* ---------- view: topic folders ---------- */
   function viewTopics(r) {
     const d = currentData();
@@ -352,8 +353,7 @@
     const sum = list => list.reduce((a, t) => a + counts[t.id], 0);
     let html, head, lead;
     if (grouped && !cur) {
-      const all = topics.every(t => sel.has(t.id));
-      html = '<div class="folders" role="group" aria-label="Systems"><button class="folder all" data-a="topicall" aria-pressed="' + all + '"><span class="tick">' + I.check + '</span><span class="fi">' + I.folders + '</span><span class="ft">Everything</span><span class="fc">' + qn(d[r.coll].length) + '</span></button>' +
+      html = '<div class="folders sq" role="group" aria-label="Systems">' +
         systems.map(g => {
           const k = g.topics.filter(t => sel.has(t.id)).length;
           const state = k === 0 ? '' : k === g.topics.length ? 'All topics picked' : k + ' of ' + g.topics.length + ' picked';
@@ -364,8 +364,9 @@
     } else {
       const list = cur ? cur.topics : topics;
       const all = list.every(t => sel.has(t.id));
-      html = '<div class="folders" role="group" aria-label="Topics"><button class="folder all" data-a="topicall"' + (cur ? ' data-sys="' + esc(cur.id) + '"' : '') + ' aria-pressed="' + all + '"><span class="tick">' + I.check + '</span><span class="fi">' + I.folders + '</span><span class="ft">' + (cur ? 'All ' + esc(cur.title) : 'All topics') + '</span><span class="fc">' + qn(sum(list)) + '</span></button>' +
-        list.map((t, i) => (t.tag && (i === 0 || !list[i - 1].tag) ? '</div><div class="syshead">From ' + esc(t.tag) + '</div><div class="folders" role="group">' : '') + '<button class="folder" data-a="topic" data-id="' + esc(t.id) + '" aria-pressed="' + sel.has(t.id) + '"><span class="tick">' + I.check + '</span><span class="ft">' + esc(t.title) + '</span><span class="fc">' + qn(counts[t.id]) + '</span></button>').join('') + '</div>';
+      const allBtn = cur ? '<button class="folder all" data-a="topicall" data-sys="' + esc(cur.id) + '" aria-pressed="' + all + '"><span class="tick">' + I.check + '</span><span class="fi">' + I.folders + '</span><span class="ft">All ' + esc(cur.title) + '</span><span class="fc">' + qn(sum(list)) + '</span></button>' : '';
+      html = '<div class="folders' + (cur ? '' : ' sq') + '" role="group" aria-label="Topics">' + allBtn +
+        list.map((t, i) => (t.tag && (i === 0 || !list[i - 1].tag) ? '</div><div class="syshead">From ' + esc(t.tag) + '</div><div class="folders' + (cur ? '' : ' sq') + '" role="group">' : '') + '<button class="folder" data-a="topic" data-id="' + esc(t.id) + '" aria-pressed="' + sel.has(t.id) + '"><span class="tick">' + I.check + '</span><span class="ft" title="' + esc(t.title) + '">' + esc(cur ? t.title : shortTitle(t.title)) + '</span><span class="fc">' + qn(counts[t.id]) + '</span></button>').join('') + '</div>';
       head = cur ? crumbs(trail(r, 'sys')) + '<h1>' + esc(cur.title) + '</h1>' : crumbs(trail(r, 'topics')) + '<h1>' + COLL[r.coll] + '</h1>';
       lead = 'Pick one or more topics.';
     }

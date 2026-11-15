@@ -390,3 +390,27 @@ body:before,body:after{content:none!important;display:none!important}
 .scorebrand{position:absolute;top:14px;left:18px;font-weight:850;font-size:11.5px;letter-spacing:1.4px;color:var(--muted)}
 .scorebrand i{font-style:normal;color:var(--gold-solid)}
 .scorebrand b{margin-left:4px;padding:2px 6px;border-radius:5px;font-size:10px;color:var(--gold-ink);background:linear-gradient(180deg,#ffd97a,#f0b022)}
+/* ---- course-level topic & system tiles as squares (less scrolling); sub-topics stay as rows ---- */
+.folders.sq{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}
+.sq .folder{aspect-ratio:1/1;min-height:0;flex-direction:column;align-items:flex-start;justify-content:flex-start;gap:8px;padding:14px 14px 12px;text-align:left;overflow:hidden}
+.sq .folder[aria-pressed="true"]{padding:13px 13px 11px}
+.sq .folder .ft{flex:none;font-size:15px;font-weight:650;line-height:1.25;display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical;overflow:hidden;padding-right:22px}
+.sq .folder .fc{margin-top:auto;max-width:none;text-align:left;font-size:12px;line-height:1.3}
+.sq .folder .tick{position:absolute;top:10px;right:10px;transform:none;width:22px;height:22px}
+.sq .folder .fi{width:40px;height:40px}
+.sq .folder .fi .emo{font-size:22px}
+.sq .folder.sys{aspect-ratio:auto;min-height:150px}
+@media (max-width:700px){
+  .folders.sq{grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+  .sq .folder{padding:11px 10px 10px;gap:6px;border-radius:16px}
+  .sq .folder[aria-pressed="true"]{padding:10px 9px 9px}
+  .sq .folder .ft{font-size:13px;padding-right:16px}
+  .sq .folder .fc{font-size:11px}
+  .sq .folder .tick{top:8px;right:8px;width:18px;height:18px}
+  .sq .folder .fi{width:34px;height:34px;border-radius:10px}
+  .sq .folder .fi .emo{font-size:19px}
+  .sq .folder.sys{min-height:142px}
+}
+@media (max-width:340px){.folders.sq{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.sq .folder .ft{hyphens:auto;-webkit-hyphens:auto;overflow-wrap:anywhere}
+.sq .folder.sys .ft{padding-right:0}
