@@ -305,7 +305,7 @@
     const y = yearById(r.year);
     let body;
     if (y.semesters) {
-      body = '<div class="list">' + y.semesters.map(s => '<a class="row" href="#/' + y.id + '/' + s.id + '"><span class="ico">' + emo('📅') + '</span><span class="txt"><span class="t">' + esc(s.title) + '</span><span class="s">' + ((s.courses || []).length ? (s.courses.length + ' courses') : 'Coming soon') + '</span></span><span class="chev">' + I.chev + '</span></a>').join('') + '</div>';
+      body = '<div class="list">' + y.semesters.map(s => '<a class="row" href="#/' + y.id + '/' + s.id + '"><span class="ico">' + I.cal + '</span><span class="txt"><span class="t">' + esc(s.title) + '</span><span class="s">' + ((s.courses || []).length ? (s.courses.length + ' courses') : 'Coming soon') + '</span></span><span class="chev">' + I.chev + '</span></a>').join('') + '</div>';
     } else body = courseRows(r, y.courses || []);
     return wrap(topbar() + crumbs(trail(r, 'year')) + '<h1>' + esc(y.title) + ' · ' + esc(y.subtitle) + '</h1><p class="lead">' + (y.semesters ? 'Pick a semester.' : 'Pick a course.') + ' <button class="linkbtn" data-a="changeyear">Change year</button></p>' + resumeCards() + body);
   }
@@ -316,7 +316,7 @@
   function viewCourse(r) {
     const d = currentData(), c = courseObj(r), ck = courseKeyOf(r);
     const hist = store.get('dq.hist.' + ck, []).slice(0, 5);
-    const coll = k => '<a class="row" href="' + baseHash(Object.assign({}, r, { coll: k }), 'topics') + '"><span class="ico">' + emo(k === 'past' ? '📚' : '✨') + '</span><span class="txt"><span class="t">' + COLL[k] + '</span><span class="s">' + d[k].length + ' questions</span></span><span class="chev">' + I.chev + '</span></a>';
+    const coll = k => '<a class="row" href="' + baseHash(Object.assign({}, r, { coll: k }), 'topics') + '"><span class="ico">' + (k === 'past' ? I.archive : I.spark) + '</span><span class="txt"><span class="t">' + COLL[k] + '</span><span class="s">' + d[k].length + ' questions</span></span><span class="chev">' + I.chev + '</span></a>';
     return wrap(topbar() + crumbs(trail(r, 'course')) + '<h1>' + esc(c.title) + '</h1><p class="lead">' + (d.past.length && d.curated.length ? 'Choose a collection. Both are sorted by topic.' : 'Questions are sorted by topic.') + '</p>' + resumeCards(ck) +
       '<div class="list">' + ['past', 'curated'].filter(k => d[k].length).map(coll).join('') + '</div>' + jumpSystems(r, d) +
       '<h2>Your recent scores</h2>' + (hist.length ? '<div class="history">' + hist.map(h => '<div class="hi"><b>' + h.pct + '%</b><span>' + esc(COLL[h.coll]) + ' · ' + esc(h.label) + '<br><small>' + h.got + '/' + h.total + ' marks · ' + esc(new Date(h.at).toLocaleDateString()) + '</small></span></div>').join('') + '</div>' : '<p class="empty">Finish a quiz and your scores will show here.</p>'));
@@ -352,7 +352,7 @@
     let html, head, lead;
     if (grouped && !cur) {
       const all = topics.every(t => sel.has(t.id));
-      html = '<div class="folders" role="group" aria-label="Systems"><button class="folder all" data-a="topicall" aria-pressed="' + all + '"><span class="tick">' + I.check + '</span><span class="fi">' + emo('📂') + '</span><span class="ft">Everything</span><span class="fc">' + qn(d[r.coll].length) + '</span></button>' +
+      html = '<div class="folders" role="group" aria-label="Systems"><button class="folder all" data-a="topicall" aria-pressed="' + all + '"><span class="tick">' + I.check + '</span><span class="fi">' + I.folders + '</span><span class="ft">Everything</span><span class="fc">' + qn(d[r.coll].length) + '</span></button>' +
         systems.map(g => {
           const k = g.topics.filter(t => sel.has(t.id)).length;
           const state = k === 0 ? '' : k === g.topics.length ? 'All topics picked' : k + ' of ' + g.topics.length + ' picked';
@@ -363,8 +363,8 @@
     } else {
       const list = cur ? cur.topics : topics;
       const all = list.every(t => sel.has(t.id));
-      html = '<div class="folders" role="group" aria-label="Topics"><button class="folder all" data-a="topicall"' + (cur ? ' data-sys="' + esc(cur.id) + '"' : '') + ' aria-pressed="' + all + '"><span class="tick">' + I.check + '</span><span class="fi">' + emo('📂') + '</span><span class="ft">' + (cur ? 'All ' + esc(cur.title) : 'All topics') + '</span><span class="fc">' + qn(sum(list)) + '</span></button>' +
-        list.map((t, i) => (t.tag && (i === 0 || !list[i - 1].tag) ? '</div><div class="syshead">From ' + esc(t.tag) + '</div><div class="folders" role="group">' : '') + '<button class="folder" data-a="topic" data-id="' + esc(t.id) + '" aria-pressed="' + sel.has(t.id) + '"><span class="tick">' + I.check + '</span><span class="fi">' + emo(pickEmo(t.title)) + '</span><span class="ft">' + esc(t.title) + '</span><span class="fc">' + qn(counts[t.id]) + '</span></button>').join('') + '</div>';
+      html = '<div class="folders" role="group" aria-label="Topics"><button class="folder all" data-a="topicall"' + (cur ? ' data-sys="' + esc(cur.id) + '"' : '') + ' aria-pressed="' + all + '"><span class="tick">' + I.check + '</span><span class="fi">' + I.folders + '</span><span class="ft">' + (cur ? 'All ' + esc(cur.title) : 'All topics') + '</span><span class="fc">' + qn(sum(list)) + '</span></button>' +
+        list.map((t, i) => (t.tag && (i === 0 || !list[i - 1].tag) ? '</div><div class="syshead">From ' + esc(t.tag) + '</div><div class="folders" role="group">' : '') + '<button class="folder" data-a="topic" data-id="' + esc(t.id) + '" aria-pressed="' + sel.has(t.id) + '"><span class="tick">' + I.check + '</span><span class="ft">' + esc(t.title) + '</span><span class="fc">' + qn(counts[t.id]) + '</span></button>').join('') + '</div>';
       head = cur ? crumbs(trail(r, 'sys')) + '<h1>' + esc(cur.title) + '</h1>' : crumbs(trail(r, 'topics')) + '<h1>' + COLL[r.coll] + '</h1>';
       lead = 'Pick one or more topics.';
     }
