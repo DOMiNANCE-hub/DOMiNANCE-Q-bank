@@ -1,4 +1,4 @@
-:root{color-scheme:dark;--bg:#1b3678;--bg2:#2a4ea3;--glow:#3d6ad0;--panel:rgba(255,255,255,.08);--panel2:rgba(255,255,255,.12);--sheet:#25458f;--field:rgba(8,22,64,.28);--text:#f4f7ff;--muted:#c8d5f6;--edge:rgba(255,255,255,.16);--edge2:rgba(255,255,255,.3);--gold:rgba(246,196,83,.94);--gold-solid:#f6c453;--gold-tint:rgba(246,196,83,.16);--gold-ink:#3a2a00;--good:#4ade80;--good-bg:rgba(74,222,128,.15);--good-ink:#dcfce7;--bad:#f87171;--bad-bg:rgba(248,113,113,.15);--bad-ink:#fee2e2;--accent:#a9c4ff;--focus:0 0 0 3px rgba(246,196,83,.55);--radius:14px;--wm:rgba(255,255,255,.2);--wm-fill:rgba(255,255,255,.08)}
+:root{color-scheme:dark;--bg:#11265c;--bg2:#1c3a85;--glow:#2c56b4;--panel:rgba(255,255,255,.08);--panel2:rgba(255,255,255,.12);--sheet:#1a3477;--field:rgba(8,22,64,.28);--text:#f4f7ff;--muted:#c8d5f6;--edge:rgba(255,255,255,.16);--edge2:rgba(255,255,255,.3);--gold:rgba(246,196,83,.94);--gold-solid:#f6c453;--gold-tint:rgba(246,196,83,.16);--gold-ink:#3a2a00;--good:#4ade80;--good-bg:rgba(74,222,128,.15);--good-ink:#dcfce7;--bad:#f87171;--bad-bg:rgba(248,113,113,.15);--bad-ink:#fee2e2;--accent:#a9c4ff;--focus:0 0 0 3px rgba(246,196,83,.55);--radius:14px;--wm:rgba(255,255,255,.2);--wm-fill:rgba(255,255,255,.08)}
 :root[data-theme="light"]{color-scheme:light;--bg:#e9f0ff;--bg2:#d9e6ff;--glow:#c3d6ff;--panel:rgba(255,255,255,.7);--panel2:rgba(37,86,214,.07);--sheet:#ffffff;--field:rgba(255,255,255,.85);--text:#0f2a63;--muted:#4d6290;--edge:rgba(37,86,214,.16);--edge2:rgba(37,86,214,.32);--gold:rgba(240,176,34,.94);--gold-solid:#f0b022;--gold-tint:rgba(240,176,34,.18);--gold-ink:#3a2a00;--good:#16a34a;--good-bg:rgba(22,163,74,.12);--good-ink:#14532d;--bad:#dc2626;--bad-bg:rgba(220,38,38,.1);--bad-ink:#7f1d1d;--accent:#2556d6;--wm:rgba(37,86,214,.22);--wm-fill:rgba(37,86,214,.08)}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
@@ -13,7 +13,6 @@ a{color:inherit}
 .brand .word{position:relative;z-index:1;font-weight:850;font-size:22px;letter-spacing:1.6px;line-height:1}
 .brand .word i{font-style:normal;color:var(--gold-solid)}
 .hero{position:relative;isolation:isolate}
-.hero:before{content:'Q BANK';position:absolute;z-index:-1;right:-8px;top:-18px;font-weight:900;font-size:clamp(84px,24vw,170px);letter-spacing:.06em;line-height:.9;color:transparent;-webkit-text-stroke:1.5px var(--wm);opacity:.9;pointer-events:none;white-space:nowrap}
 .iconbtn{width:40px;height:40px;border-radius:12px;border:1px solid var(--edge);background:var(--panel);display:grid;place-items:center;padding:0}
 .iconbtn svg{width:20px;height:20px}
 .crumbs{display:flex;align-items:center;gap:6px;flex-wrap:wrap;font-size:13px;color:var(--muted);margin:0 0 14px}
@@ -224,8 +223,6 @@ h2{font-size:18px;margin:22px 0 10px}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
 
 #app{position:relative;z-index:1}
-body:after{content:'Q BANK';position:fixed;z-index:0;right:-6px;bottom:-14px;font-weight:900;font-size:clamp(90px,26vw,220px);letter-spacing:.06em;line-height:1;color:transparent;-webkit-text-stroke:1.5px var(--wm);opacity:.7;pointer-events:none;white-space:nowrap;user-select:none}
-body[data-view=home]:after,body[data-view=quiz]:after{display:none}
 a.folder{color:inherit;text-decoration:none}
 .folder .fc b{color:var(--gold);font-weight:700}
 
@@ -241,8 +238,6 @@ html{overflow-x:hidden}
 button,a,.opt,.folder,.row{-webkit-tap-highlight-color:transparent;touch-action:manipulation}
 .qtop{margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw);padding-left:calc(50vw - 50%);padding-right:calc(50vw - 50%);border-bottom:1px solid var(--edge)}
 .qtop>*{max-width:728px;margin-left:auto;margin-right:auto}
-body:not([data-view="home"]):after{opacity:.22}
-body[data-view="quiz"]:after,body[data-view="review"]:after{display:none}
 #app>.enter{animation:pop .22s cubic-bezier(.2,.7,.2,1) both}
 .btn,.opt,.folder,.row,.tfbtn{transition:border-color .15s,background-color .15s,transform .15s,box-shadow .15s,filter .15s}
 .btn:active,.opt:active:not([disabled]),.folder:active,.row:active{transform:scale(.985)}
@@ -258,3 +253,27 @@ body[data-view="quiz"]:after,body[data-view="review"]:after{display:none}
 .qtop{transform:translateZ(0)}
 body[data-view="quiz"] .wrap{padding-top:16px}
 @media (max-width:700px){body[data-view="quiz"] .qnav{position:sticky;bottom:0;z-index:14;margin-left:-16px;margin-right:-16px;padding:10px 16px calc(10px + env(safe-area-inset-bottom));background:color-mix(in srgb,var(--bg) 86%,transparent);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-top:1px solid var(--edge)}}
+
+/* ---- premium pass ---- */
+body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizeLegibility;font-feature-settings:"cv11","ss01"}
+h1,h2,.hero h1,.row .t,.qstem,.year b{letter-spacing:-.015em}
+:root{--hi:inset 0 1px 0 rgba(255,255,255,.10);--sh:0 1px 2px rgba(0,0,0,.18),0 10px 30px -12px rgba(0,0,0,.45);--panel:rgba(255,255,255,.065);--panel2:rgba(255,255,255,.10);--edge:rgba(255,255,255,.13);--edge2:rgba(255,255,255,.26);--muted:#b9c7ec}
+:root[data-theme="light"]{--hi:inset 0 1px 0 rgba(255,255,255,.9);--sh:0 1px 2px rgba(15,42,99,.06),0 12px 28px -14px rgba(15,42,99,.28);--panel:rgba(255,255,255,.78);--edge:rgba(20,50,130,.12);--edge2:rgba(20,50,130,.26);--bg:#e8eefc;--bg2:#d6e2fb;--glow:#bcd0fb;--text:#0b2156;--muted:#465c8c}
+.row,.year,.folder,.qcard,.sheet,.opt,.btn{box-shadow:var(--hi),var(--sh);backdrop-filter:blur(14px) saturate(1.15);-webkit-backdrop-filter:blur(14px) saturate(1.15)}
+.opt{box-shadow:var(--hi)}
+.btn.primary{background:linear-gradient(180deg,#ffd76e,#f0b022);border-color:#f3bb34;color:#2a1d00;box-shadow:inset 0 1px 0 rgba(255,255,255,.45),0 8px 20px -8px rgba(240,176,34,.6)}
+.row .ico,.folder .fi{border-radius:12px}
+.folder .fi{width:38px;height:38px;display:grid;place-items:center;background:linear-gradient(180deg,rgba(246,196,83,.20),rgba(246,196,83,.08));border:1px solid rgba(246,196,83,.28)}
+.folder .fi svg{width:21px;height:21px}
+.row .ico{background:linear-gradient(180deg,rgba(246,196,83,.20),rgba(246,196,83,.08));border:1px solid rgba(246,196,83,.28)}
+.year b{font-size:28px;font-weight:800}
+/* big background watermark */
+body:after,body:not([data-view="home"]):after{content:'Q BANK';display:block;position:fixed;z-index:0;left:50%;top:50%;right:auto;bottom:auto;width:max-content;transform:translate(-50%,-50%);font-weight:900;font-size:min(19vw,44vh);letter-spacing:.04em;line-height:1;color:transparent;-webkit-text-stroke:2px var(--wm);opacity:.75;pointer-events:none;white-space:nowrap;user-select:none}
+body[data-view="quiz"]:after,body[data-view="review"]:after{display:block;opacity:.4}
+@media (orientation:portrait) and (max-width:700px){
+  body:after,body:not([data-view="home"]):after{content:'Q BANK';transform:translate(-50%,-50%) rotate(-90deg);font-size:min(18.5vh,50vw);-webkit-text-stroke:1.5px var(--wm)}
+}
+/* quiz nav */
+.btn .bi{display:inline-grid;width:18px;height:18px}.btn .bi svg{width:18px;height:18px}
+.btn.icon{flex:0 0 52px!important;padding:0}.btn.icon svg{width:20px;height:20px}
+.qnav.three .btn.primary{flex:1}

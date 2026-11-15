@@ -20,6 +20,19 @@
   };
 
   const I = {
+    microscope: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M6 18h8M3 22h18M14 22a7 7 0 1 0 0-14h-1"/><path d="M9 14h2M9 12a2 2 0 0 1-2-2V6h6v4a2 2 0 0 1-2 2Z"/><path d="M12 6V3a1 1 0 0 0-1-1H9a1 1 0 0 0-1 1v3"/></svg>',
+    embryo: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21a9 9 0 1 0-9-9"/><path d="M13.5 15.5a4 4 0 1 0-4-4c0 1.5.8 2.6 2 3.3"/><circle cx="13" cy="11" r="1"/><path d="M3 12c0 2 1 4 3 5"/></svg>',
+    body: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="4.5" r="2"/><path d="M5 9h14M12 9v6M9 22l3-7 3 7"/></svg>',
+    lungs: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4v9M12 11l-3 2M12 11l3 2"/><path d="M8.5 7C6 7 3 11 3 16c0 2.5 1.5 4 3.5 4S10 18.5 10 16v-4.5C10 9 9.5 7 8.5 7ZM15.5 7C18 7 21 11 21 16c0 2.5-1.5 4-3.5 4S14 18.5 14 16v-4.5C14 9 14.5 7 15.5 7Z"/></svg>',
+    kidney: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 3C5 3 3 7 3 11.5S5.5 21 9 21c2.5 0 3.5-2 3-4-.4-1.6-2-2.4-2-5s1.6-3.3 2-5c.5-2-.5-4-3-4Z"/><path d="M15 5c3.5 0 6 3 6 7.5S18.5 20 15 20c-1.5 0-2.3-1-2-2.3.3-1.4 1.7-2.4 1.7-5.2S13.3 8.6 13 7.2C12.7 6 13.5 5 15 5Z"/></svg>',
+    stomach: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v4c0 2 1 3 3 3 4 0 8 2 8 7 0 4-3 6-7 6-3 0-5-1.5-6-3.5-.6-1.2.3-2.5 1.6-2.5H10c1.5 0 2-1 2-2"/></svg>',
+    drop: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2.5s-6 6.6-6 11a6 6 0 0 0 12 0c0-4.4-6-11-6-11Z"/><path d="M9.5 14a2.5 2.5 0 0 0 2.5 2.5"/></svg>',
+    eye: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7S2 12 2 12Z"/><circle cx="12" cy="12" r="3"/></svg>',
+    brain: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5a3 3 0 0 0-5.8-1A3 3 0 0 0 4 9a3 3 0 0 0 0 5 3 3 0 0 0 3 4.5A3 3 0 0 0 12 20Z"/><path d="M12 5a3 3 0 0 1 5.8-1A3 3 0 0 1 20 9a3 3 0 0 1 0 5 3 3 0 0 1-3 4.5A3 3 0 0 1 12 20Z"/><path d="M12 5v15"/></svg>',
+    pulse: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1-1.1a5.5 5.5 0 0 0-7.8 7.8L12 21l8.8-8.6a5.5 5.5 0 0 0 0-7.8Z"/><path d="M3.5 12h4l2-3 3 6 2-3h6"/></svg>',
+    dna: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3c0 5 10 5 10 9s-10 4-10 9M17 3c0 5-10 5-10 9s10 4 10 9"/><path d="M8.5 6.5h7M8.5 17.5h7M10 9.5h4M10 14.5h4"/></svg>',
+    arrowR: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>',
+    arrowL: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M11 6l-6 6 6 6"/></svg>',
     back: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>',
     chev: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18l6-6-6-6"/></svg>',
     folder: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"><path d="M3 7a2 2 0 0 1 2-2h4l2 2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg>',
@@ -228,6 +241,8 @@
     return wrap(topbar() + '<section class="hero"><h1>Get locked in and <span>dominate</span>.</h1><p class="lead">Past questions and curated questions, sorted by topic, with explanations for every answer.</p></section>' +
       resumeCards() + '<h2>Choose your year</h2><div class="years">' + years + '</div>', true);
   }
+  const SYSICO = { gross: 'body', micro: 'microscope', embryo: 'embryo', cvs: 'pulse', gi: 'stomach', renal: 'kidney', resp: 'lungs', endocrine: 'drop', senses: 'eye', cns: 'brain', biochem: 'dna' };
+  const sysIcon = g => I[g.icon] || I[SYSICO[g.id]] || I.folders;
   function courseRows(r, list) {
     if (!list.length) return '<p class="empty">Courses for this year are coming soon.</p>';
     return '<div class="list">' + list.map(c => {
@@ -280,7 +295,7 @@
         systems.map(g => {
           const k = g.topics.filter(t => sel.has(t.id)).length;
           const state = k === 0 ? '' : k === g.topics.length ? 'All topics picked' : k + ' of ' + g.topics.length + ' picked';
-          return '<a class="folder sys" href="' + baseHash(Object.assign({}, r, { sys: g.id }), 'sys') + '" aria-pressed="' + (k > 0) + '"><span class="tick">' + I.check + '</span><span class="fi">' + I.folders + '</span><span class="ft">' + esc(g.title) + '</span><span class="fc">' + (state ? '<b>' + state + '</b>' : g.topics.length + ' topics · ' + qn(sum(g.topics))) + '</span></a>';
+          return '<a class="folder sys" href="' + baseHash(Object.assign({}, r, { sys: g.id }), 'sys') + '" aria-pressed="' + (k > 0) + '"><span class="tick">' + I.check + '</span><span class="fi">' + sysIcon(g) + '</span><span class="ft">' + esc(g.title) + '</span><span class="fc">' + (state ? '<b>' + state + '</b>' : g.topics.length + ' topics · ' + qn(sum(g.topics))) + '</span></a>';
         }).join('') + '</div>';
       head = crumbs(trail(r, 'topics')) + '<h1>' + COLL[r.coll] + '</h1>';
       lead = 'Open a system to pick topics. You can pick from more than one.';
@@ -436,10 +451,11 @@
     }
     const last = a.idx === n - 1;
     let primary;
-    if (go_ && !marked && a.settings.markOn === 'check') primary = '<button class="btn primary" data-a="check">Check answer</button>';
-    else primary = '<button class="btn primary" data-a="' + (last ? 'finish' : 'next') + '">' + (last ? (go_ ? 'Finish' : 'Submit') : 'Next') + '</button>';
+    const checking = go_ && !marked && a.settings.markOn === 'check', three = checking && !last;
+    if (checking) primary = '<button class="btn primary" data-a="check">Check answer</button>' + (three ? '<button class="btn icon" data-a="next" aria-label="Next question" title="Next question">' + I.arrowR + '</button>' : '');
+    else primary = '<button class="btn primary" data-a="' + (last ? 'finish' : 'next') + '">' + (last ? (go_ ? 'Finish' : 'Submit') : 'Next <span class="bi">' + I.arrowR + '</span>') + '</button>';
     const kbd = '<p class="kbd" aria-hidden="true">' + (q.type === 'sba' ? '<kbd>A</kbd>–<kbd>' + LET[Math.max(0, q.opts.length - 1)] + '</kbd> choose · ' : '<kbd>T</kbd>/<kbd>F</kbd> mark next statement · ') + '<kbd>Enter</kbd> ' + (go_ ? 'check / next' : 'next') + ' · <kbd>←</kbd><kbd>→</kbd> move</p>';
-    const nav = '<div class="qnav"><button class="btn" data-a="prev"' + (a.idx === 0 ? ' aria-disabled="true"' : '') + '>Previous</button>' + primary + '</div>' + (S.inlineErr ? '<p class="inline-err" role="alert">' + esc(S.inlineErr) + '</p>' : '') + kbd;
+    const nav = '<div class="qnav' + (three ? ' three' : '') + '"><button class="btn' + (three ? ' icon' : '') + '" data-a="prev"' + (a.idx === 0 ? ' aria-disabled="true"' : '') + ' aria-label="Previous question" title="Previous question">' + (three ? I.arrowL : '<span class="bi">' + I.arrowL + '</span> Previous') + '</button>' + primary + '</div>' + (S.inlineErr ? '<p class="inline-err" role="alert">' + esc(S.inlineErr) + '</p>' : '') + kbd;
     const streak = a.settings.xpo && a.streak >= 3 ? '<span class="streak" aria-live="polite">🔥 ' + a.streak + ' in a row</span>' : '';
     const banner = a.timeUp && go_ ? '<p class="banner">Time\'s up. You can keep going at your own pace.</p>' : '';
     return '<div class="wrap" id="main">' + top + banner + '<article class="qcard" id="qcard"><p class="qtag"><span>' + esc(topic) + (q.type === 'tf' ? ' · True or false' : '') + '</span>' + streak + '</p><p class="qstem">' + esc(q.stem) + '</p>' + figHtml(q) + body + fb + '</article>' + nav + '</div>' + sheetHtml();
