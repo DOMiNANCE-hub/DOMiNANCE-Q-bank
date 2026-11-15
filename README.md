@@ -1,6 +1,6 @@
 # DOMiNANCE Q Bank
 
-A static, mobile-first question bank for KNUST medical students (HB1, HB2 and HB3), with past questions and DOMiNANCE-curated questions sorted by topic.
+A static, mobile-first question bank for KNUST medical students (HB1, HB2 and HB3), with past questions and DOMiNANCE Originals (our own questions) sorted by topic.
 
 ## Student flow
 
@@ -33,7 +33,7 @@ Comment lines live in `data/comments.json`, grouped by moment. Edit or add lines
 - `data/catalog.json` — years → (semesters for HB1) → courses → systems, with each system's topic file and question files. Set a course's `status` to `live` to show it.
 - `data/topics.json` — the 27 CVS topics, their order, and a `short` name shown above each question.
 - `data/past-questions.json` — 196 past questions (3 sets).
-- `data/mock-01-60q.json`, `mock-02-60q.json`, `mock-03-60q.json` — 180 curated questions used as the **Curated by DOMiNANCE** topic pool (no longer offered as full papers).
+- `data/mock-01-60q.json`, `mock-02-60q.json`, `mock-03-60q.json` — 180 curated questions used as the **DOMiNANCE Originals** topic pool (no longer offered as full papers).
 - `data/comments.json` — DMC XPO comment lines.
 - `editor/question-notes.json` — **editor-only**, not loaded by the app: revision notes, the original full explanations, old review flags and source numbering.
 

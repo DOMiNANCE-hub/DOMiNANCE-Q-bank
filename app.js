@@ -80,7 +80,8 @@
     if (upto === 'sys') return '#/' + parts.join('/') + '/' + r.sys;
     return '#/' + parts.join('/') + '/setup';
   }
-  const COLL = { past: 'Past questions', curated: 'Curated by DOMiNANCE' };
+  const COLL = { past: 'Past questions', curated: 'DOMiNANCE Originals' };
+  const COLL_SUB = { past: 'The questions they actually set', curated: 'Every slide covered. Every answer explained.' };
 
   /* ---------- routing ---------- */
   function parseHash() {
@@ -284,7 +285,7 @@
         ? '<a class="year' + (y.id === mine ? ' mine' : '') + '" href="#/' + y.id + '"><b>' + esc(y.title) + '</b><span>' + esc(y.subtitle) + '</span></a>'
         : '<div class="year soon" aria-disabled="true"><b>' + esc(y.title) + '</b><span>' + esc(y.subtitle) + '</span><span class="badge" style="margin-top:6px;align-self:flex-start">Soon</span></div>';
     }).join('');
-    return wrap(topbar() + '<section class="hero"><h1>Get locked in and <span>dominate</span>.</h1><p class="lead">Past questions and curated questions, sorted by topic, with explanations for every answer.</p></section>' +
+    return wrap(topbar() + '<section class="hero"><h1>Become the doctor you\'re <span>studying&nbsp;to&nbsp;be.</span></h1><p class="lead">Past questions and DOMiNANCE Originals, sorted by topic, with every answer explained.</p></section>' +
       resumeCards() + '<h2>Choose your year</h2><div class="years">' + years + '</div>', true);
   }
 
@@ -337,7 +338,7 @@
   function viewCourse(r) {
     const d = currentData(), c = courseObj(r), ck = courseKeyOf(r);
     const hist = store.get('dq.hist.' + ck, []).slice(0, 5);
-    const coll = k => '<a class="row" href="' + baseHash(Object.assign({}, r, { coll: k }), 'topics') + '"><span class="ico">' + (k === 'past' ? I.archive : I.spark) + '</span><span class="txt"><span class="t">' + COLL[k] + '</span><span class="s">' + d[k].length + ' questions</span></span><span class="chev">' + I.chev + '</span></a>';
+    const coll = k => '<a class="row" href="' + baseHash(Object.assign({}, r, { coll: k }), 'topics') + '"><span class="ico">' + (k === 'past' ? I.archive : I.spark) + '</span><span class="txt"><span class="t">' + COLL[k] + '</span><span class="s">' + COLL_SUB[k] + '</span><span class="s n">' + d[k].length + ' questions</span></span><span class="chev">' + I.chev + '</span></a>';
     return wrap(topbar() + crumbs(trail(r, 'course')) + '<h1>' + esc(c.title) + '</h1><p class="lead">' + (d.past.length && d.curated.length ? 'Choose a collection. Both are sorted by topic.' : 'Questions are sorted by topic.') + '</p>' + resumeCards(ck) +
       '<div class="list">' + ['past', 'curated'].filter(k => d[k].length).map(coll).join('') + '</div>' +
       '<h2>Your recent scores</h2>' + (hist.length ? '<div class="history">' + hist.map(h => '<div class="hi"><b>' + h.pct + '%</b><span>' + esc(COLL[h.coll]) + ' · ' + esc(h.label) + '<br><small>' + h.got + '/' + h.total + ' marks · ' + esc(new Date(h.at).toLocaleDateString()) + '</small></span></div>').join('') + '</div>' : '<p class="empty">Finish a quiz and your scores will show here.</p>'));
@@ -360,7 +361,7 @@
     const sum = list => list.reduce((a, t) => a + counts[t.id], 0);
     let html, head, lead;
     if (grouped && !cur) {
-      html = '<div class="folders sq" role="group" aria-label="Systems">' +
+      html = '<div class="folders big" role="group" aria-label="Systems">' +
         systems.map(g => {
           const k = g.topics.filter(t => sel.has(t.id)).length;
           const state = k === 0 ? '' : k === g.topics.length ? 'All topics picked' : k + ' of ' + g.topics.length + ' picked';
@@ -372,8 +373,8 @@
       const list = cur ? cur.topics : topics;
       const all = list.every(t => sel.has(t.id));
       const allBtn = cur ? '<button class="folder all" data-a="topicall" data-sys="' + esc(cur.id) + '" aria-pressed="' + all + '"><span class="tick">' + I.check + '</span><span class="fi">' + I.folders + '</span><span class="ft">All ' + esc(cur.title) + '</span><span class="fc">' + qn(sum(list)) + '</span></button>' : '';
-      html = '<div class="folders sq" role="group" aria-label="Topics">' + allBtn +
-        list.map((t, i) => (t.tag && (i === 0 || !list[i - 1].tag) ? '</div><div class="syshead">From ' + esc(t.tag) + '</div><div class="folders sq" role="group">' : '') + '<button class="folder" data-a="topic" data-id="' + esc(t.id) + '" aria-pressed="' + sel.has(t.id) + '"><span class="tick">' + I.check + '</span><span class="ft" title="' + esc(t.title) + '">' + esc(shortTitle(t.title)) + '</span><span class="fc">' + qn(counts[t.id]) + '</span></button>').join('') + '</div>';
+      html = '<div class="folders big" role="group" aria-label="Topics">' + allBtn +
+        list.map((t, i) => (t.tag && (i === 0 || !list[i - 1].tag) ? '</div><div class="syshead">From ' + esc(t.tag) + '</div><div class="folders big" role="group">' : '') + '<button class="folder" data-a="topic" data-id="' + esc(t.id) + '" aria-pressed="' + sel.has(t.id) + '"><span class="tick">' + I.check + '</span><span class="ft" title="' + esc(t.title) + '">' + esc(t.title) + '</span><span class="fc">' + qn(counts[t.id]) + '</span></button>').join('') + '</div>';
       head = cur ? crumbs(trail(r, 'sys')) + '<h1>' + esc(cur.title) + '</h1>' : crumbs(trail(r, 'topics')) + '<h1>' + COLL[r.coll] + '</h1>';
       lead = 'Pick one or more topics.';
     }
@@ -604,13 +605,13 @@
     const fx = { kind: g.correct ? 'ok' : 'no', hard: g.correct && q.diff === 'hard', comment: null };
     if (g.correct) {
       a.streak++; a.best = Math.max(a.best, a.streak); a.wrongRun = 0;
-      if (q.diff === 'hard') fx.comment = { group: 'hardCorrect', priority: true };
+      if (q.diff === 'hard' && Math.random() < .5) fx.comment = { group: 'hardCorrect' };
       if (a.streak === 3) fx.comment = fx.comment || { group: 'streak3', priority: true };
       else if (a.streak === 5) fx.comment = { group: 'streak5', priority: true };
       else if (a.streak >= 10 && a.streak % 5 === 0) fx.comment = { group: 'streak10', priority: true };
     } else {
       a.streak = 0; a.wrongRun++;
-      if (q.diff === 'easy') fx.comment = { group: 'easyWrong' };
+      if (q.diff === 'easy' && Math.random() < .5) fx.comment = { group: 'easyWrong' };
       else if (a.wrongRun >= 3 && a.wrongRun % 3 === 0) fx.comment = { group: 'wrongRun' };
     }
     S.fx = fx;
@@ -694,27 +695,25 @@
   function maybeComment(c) {
     const a = S.attempt, nav = c.group === 'halfway' || c.group === 'lastQuestion';
     if (nav) { if (document.querySelector('.bubble')) return; }
-    else { const gap = a.markCount - a.lastComment; if (!(gap >= 3 || (c.priority && gap >= 2))) return; }
+    else { const gap = a.markCount - a.lastComment; if (!(gap >= 5 || (c.priority && gap >= 3))) return; }
     const lines = (S.comments[c.group] || []).filter(l => a.used.indexOf(l) < 0);
     if (!lines.length) return;
     const line = pick(lines); a.used.push(line); if (!nav) a.lastComment = a.markCount; persistAttempt();
     clearTimeout(S.bubbleT); S.bubbleT = setTimeout(() => { if (S.route && S.route.view === 'quiz' && !S.sheet) bubble(line); }, nav ? 150 : 550);
   }
   function bubble(text) {
-    document.querySelectorAll('.bubble,.floaty').forEach(b => b.remove());
-    const m = text.match(/(\p{Extended_Pictographic}\uFE0F?(?:\u200D\p{Extended_Pictographic}\uFE0F?)*)\s*$/u), emo = m ? m[1] : '🔥', words = m ? text.slice(0, m.index).trim() : text;
+    document.querySelectorAll('.bubble').forEach(b => b.remove());
     const b = document.createElement('div'); b.className = 'bubble'; b.setAttribute('role', 'status');
-    b.innerHTML = '<span class="be" aria-hidden="true">' + esc(emo) + '</span><span class="bt">' + esc(words) + '</span>';
+    b.innerHTML = '<span class="bav" aria-hidden="true">D</span><span class="bb"><b class="bn">DOMiNANCE</b><span class="bx">' + esc(text) + '</span></span>';
     document.body.appendChild(b); SND.play('pop');
-    if (reduceMotion()) { b.animate([{ opacity: 0 }, { opacity: 1, offset: .1 }, { opacity: 1, offset: .85 }, { opacity: 0 }], { duration: 3600, fill: 'both' }); setTimeout(() => b.remove(), 3700); return; }
-    // the comment pill drifts up slowly so it can be read
+    const still = reduceMotion();
     b.animate([
-      { opacity: 0, transform: 'translateY(40px) scale(.85)' },
-      { opacity: 1, transform: 'translateY(0) scale(1)', offset: .12 },
-      { opacity: 1, transform: 'translateY(-90px) scale(1)', offset: .82 },
-      { opacity: 0, transform: 'translateY(-150px) scale(.96)' }
-    ], { duration: 5000, easing: 'cubic-bezier(.25,.8,.35,1)', fill: 'both' });
-    setTimeout(() => b.remove(), 5100);
+      { opacity: 0, transform: still ? 'none' : 'translateY(26px)' },
+      { opacity: 1, transform: 'translateY(0)', offset: .08 },
+      { opacity: 1, transform: 'translateY(0)', offset: .88 },
+      { opacity: 0, transform: still ? 'none' : 'translateY(-14px)' }
+    ], { duration: 4000, easing: 'cubic-bezier(.2,.8,.3,1)', fill: 'both' });
+    setTimeout(() => b.remove(), 4100);
   }
   window.DQ_bubble = bubble; // handy for testing the comment animation
   function toast(text) { document.querySelectorAll('.toast').forEach(b => b.remove()); const b = document.createElement('div'); b.className = 'toast'; b.setAttribute('role', 'status'); b.textContent = text; document.body.appendChild(b); setTimeout(() => b.remove(), 2500); }
