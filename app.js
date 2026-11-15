@@ -20,6 +20,8 @@
   };
 
   const I = {
+    soundOn: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 5 6 9H2v6h4l5 4z"/><path d="M15.5 8.5a5 5 0 0 1 0 7M19 5a10 10 0 0 1 0 14"/></svg>',
+    soundOff: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 5 6 9H2v6h4l5 4z"/><path d="m22 9-6 6M16 9l6 6"/></svg>',
     microscope: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M6 18h8M3 22h18M14 22a7 7 0 1 0 0-14h-1"/><path d="M9 14h2M9 12a2 2 0 0 1-2-2V6h6v4a2 2 0 0 1-2 2Z"/><path d="M12 6V3a1 1 0 0 0-1-1H9a1 1 0 0 0-1 1v3"/></svg>',
     embryo: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21a9 9 0 1 0-9-9"/><path d="M13.5 15.5a4 4 0 1 0-4-4c0 1.5.8 2.6 2 3.3"/><circle cx="13" cy="11" r="1"/><path d="M3 12c0 2 1 4 3 5"/></svg>',
     body: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="4.5" r="2"/><path d="M5 9h14M12 9v6M9 22l3-7 3 7"/></svg>',
@@ -100,6 +102,28 @@
     return r;
   }
   function go(hash) { if (location.hash === hash) route(); else location.hash = hash; }
+  /* ---------- sound (Web Audio, no files) ---------- */
+  const SND = (() => {
+    let ctx = null;
+    const on = () => { try { return localStorage.getItem('dq.sound') !== '0'; } catch (e) { return true; } };
+    const set = v => { try { localStorage.setItem('dq.sound', v ? '1' : '0'); } catch (e) { } };
+    const ac = () => { if (!ctx) { const C = window.AudioContext || window.webkitAudioContext; if (!C) return null; ctx = new C(); } if (ctx.state === 'suspended') ctx.resume(); return ctx; };
+    function tone(f, t0, dur, type, vol, f2) {
+      const c = ac(); if (!c) return; const o = c.createOscillator(), g = c.createGain(), t = c.currentTime + t0;
+      o.type = type || 'sine'; o.frequency.setValueAtTime(f, t); if (f2) o.frequency.exponentialRampToValueAtTime(f2, t + dur);
+      g.gain.setValueAtTime(0.0001, t); g.gain.exponentialRampToValueAtTime(vol || 0.12, t + 0.012); g.gain.exponentialRampToValueAtTime(0.0001, t + dur);
+      o.connect(g); g.connect(c.destination); o.start(t); o.stop(t + dur + 0.02);
+    }
+    const fx = {
+      tap: () => tone(1250, 0, 0.05, 'sine', 0.035),
+      ok: () => { tone(880, 0, 0.16, 'sine', 0.12); tone(1320, 0.09, 0.26, 'sine', 0.11); },
+      no: () => { tone(220, 0, 0.22, 'triangle', 0.13, 150); tone(165, 0.09, 0.26, 'triangle', 0.09, 120); },
+      streak: () => [660, 880, 1100, 1320].forEach((f, i) => tone(f, i * 0.07, 0.18, 'sine', 0.09)),
+      pop: () => tone(520, 0, 0.12, 'sine', 0.07, 900),
+      finish: () => [523, 659, 784, 1047, 1319].forEach((f, i) => tone(f, i * 0.11, 0.35, 'triangle', 0.1))
+    };
+    return { on, set, play: k => { if (on() && fx[k]) try { fx[k](); } catch (e) { } }, unlock: () => { try { ac(); } catch (e) { } } };
+  })();
   function clearBubbles() { clearTimeout(S.bubbleT); document.querySelectorAll('.bubble').forEach(b => b.remove()); }
   async function route() {
     stopTimer(); clearBubbles();
@@ -422,7 +446,7 @@
     const ans = a.ans[q.id];
     const timer = a.limit ? '<span class="timer' + (a.limit - a.elapsed <= 60 ? ' low' : '') + '" id="timer" aria-live="off">' + fmtTime(a.limit - a.elapsed) + '</span>' : '';
     const top = '<div class="qtop"><div class="qbar"><button class="iconbtn" data-a="exit" aria-label="Exit quiz">' + I.x + '</button><div class="pos">' + (a.idx + 1) + ' of ' + n + '</div>' + timer +
-      '<button class="iconbtn" data-a="navigator" aria-label="Question navigator">' + I.grid + '</button><button class="iconbtn flagbtn" data-a="flag" aria-pressed="' + !!a.flags[q.id] + '" aria-label="' + (a.flags[q.id] ? 'Remove flag' : 'Flag for review') + '">' + I.star + '</button></div>' +
+      '<button class="iconbtn" data-a="sound" aria-pressed="' + SND.on() + '" aria-label="' + (SND.on() ? 'Turn sound off' : 'Turn sound on') + '">' + (SND.on() ? I.soundOn : I.soundOff) + '</button><button class="iconbtn" data-a="navigator" aria-label="Question navigator">' + I.grid + '</button><button class="iconbtn flagbtn" data-a="flag" aria-pressed="' + !!a.flags[q.id] + '" aria-label="' + (a.flags[q.id] ? 'Remove flag' : 'Flag for review') + '">' + I.star + '</button></div>' +
       '<div class="progress" aria-hidden="true"><div style="width:' + Math.round((a.idx + 1) / n * 100) + '%"></div></div></div>';
     const topic = (dataForAttempt(a).topics.find(t => t.id === q.topic) || {}).short || '';
     let body = '';
@@ -515,6 +539,7 @@
   function onPick(k) {
     const a = S.attempt, q = qOf(a.qids[a.idx]);
     if (a.settings.marking === 'go' && a.marked[q.id]) return;
+    SND.play('tap');
     a.ans[q.id] = k; S.inlineErr = '';
     if (a.settings.marking === 'go' && a.settings.markOn === 'tap') markQuestion(q);
     persistAttempt(); render();
@@ -524,6 +549,7 @@
     if (a.settings.marking === 'go' && a.marked[q.id]) return;
     const cur = Object.assign({}, a.ans[q.id] || {});
     if (a.settings.marking === 'go' && a.settings.markOn === 'tap' && cur[k]) return;
+    SND.play('tap');
     cur[k] = v; a.ans[q.id] = cur; S.inlineErr = '';
     if (a.settings.marking === 'go' && a.settings.markOn === 'tap' && q.opts.every(o => cur[o.k])) markQuestion(q);
     persistAttempt(); render();
@@ -554,7 +580,10 @@
 
   function runFx() {
     const fx = S.fx; S.fx = null; if (!fx) return;
-    const a = S.attempt; if (!a || !a.settings.xpo) return;
+    const a = S.attempt; if (!a) return;
+    if (fx.kind === 'ok') SND.play(a.streak >= 3 && a.streak % 5 === 0 || a.streak === 3 ? 'streak' : 'ok');
+    if (fx.kind === 'no') { SND.play('no'); focusExplanation(a); }
+    if (!a.settings.xpo) return;
     const card = document.getElementById('qcard'); const rm = reduceMotion();
     if (fx.kind === 'ok' && card) {
       const tgt = card.querySelector('.opt.ok') || card.querySelector('.tfsw.ok') || card;
@@ -567,6 +596,22 @@
     }
     if (fx.comment) maybeComment(fx.comment);
   }
+  function focusExplanation(a) {
+    const idx = a.idx; clearTimeout(S.scrollBackT); S.userScrolled = false;
+    setTimeout(() => {
+      if (!S.attempt || S.attempt.idx !== idx || S.route.view !== 'quiz') return;
+      const card = document.getElementById('qcard'); if (!card) return;
+      const t = card.querySelector('.tfrow .tfsw.no') ? card.querySelector('.tfsw.no').closest('.tfrow') : card.querySelector('.feedback');
+      if (!t) return;
+      const r = t.getBoundingClientRect(); if (r.top > 70 && r.bottom < window.innerHeight - 90) return;
+      S.autoScrolling = true; t.scrollIntoView({ behavior: reduceMotion() ? 'auto' : 'smooth', block: 'start' });
+      setTimeout(() => { S.autoScrolling = false; S.userScrolled = false; }, 900);
+      S.scrollBackT = setTimeout(() => {
+        if (!S.attempt || S.attempt.idx !== idx || S.route.view !== 'quiz' || S.userScrolled || S.sheet) return;
+        window.scrollTo({ top: 0, behavior: reduceMotion() ? 'auto' : 'smooth' });
+      }, 25000);
+    }, 650);
+  }
   function maybeComment(c) {
     const a = S.attempt, nav = c.group === 'halfway' || c.group === 'lastQuestion';
     if (nav) { if (document.querySelector('.bubble')) return; }
@@ -576,7 +621,13 @@
     const line = pick(lines); a.used.push(line); if (!nav) a.lastComment = a.markCount; persistAttempt();
     clearTimeout(S.bubbleT); S.bubbleT = setTimeout(() => { if (S.route && S.route.view === 'quiz' && !S.sheet) bubble(line); }, nav ? 150 : 550);
   }
-  function bubble(text) { document.querySelectorAll('.bubble').forEach(b => b.remove()); const b = document.createElement('div'); b.className = 'bubble'; b.setAttribute('role', 'status'); b.textContent = text; document.body.appendChild(b); setTimeout(() => b.remove(), 2500); }
+  function bubble(text) {
+    document.querySelectorAll('.bubble').forEach(b => b.remove());
+    const m = text.match(/(\p{Extended_Pictographic}\uFE0F?)\s*$/u), emo = m ? m[1] : '💬', words = m ? text.slice(0, m.index).trim() : text;
+    const b = document.createElement('div'); b.className = 'bubble'; b.setAttribute('role', 'status');
+    b.innerHTML = '<span class="be" aria-hidden="true">' + esc(emo) + '</span><span class="bt">' + esc(words) + '</span>';
+    document.body.appendChild(b); SND.play('pop'); setTimeout(() => b.classList.add('out'), 3300); setTimeout(() => b.remove(), 3700);
+  }
   function toast(text) { document.querySelectorAll('.toast').forEach(b => b.remove()); const b = document.createElement('div'); b.className = 'toast'; b.setAttribute('role', 'status'); b.textContent = text; document.body.appendChild(b); setTimeout(() => b.remove(), 2500); }
   function confetti(count, anchor) {
     if (reduceMotion()) return;
@@ -702,7 +753,7 @@
     if (S.sheet) clearBubbles();
     if (r.view === 'quiz') { runFx(); prefetchFigs(S.attempt); }
     if (r.view === 'results' && S.last && S.last.celebrate) {
-      S.last.celebrate = false;
+      S.last.celebrate = false; if (S.last.pct >= 50) SND.play('finish');
       if (S.last.a.settings.xpo) { if (S.last.pct === 100) confetti(70); else if (S.last.pct >= 80) confetti(40); }
     }
     const sheet = document.querySelector('.sheet'); if (sheet) { const f = sheet.querySelector('input,button.primary,button'); if (f) f.focus(); }
@@ -739,6 +790,7 @@
       case 'marking': case 'markOn': case 'timer': { const st = getSetup(); st[act] = el.dataset.v; putSetup(st); render(); break; }
       case 'start': startFromSetup(); break;
       case 'replacego': { const sh = S.sheet; S.sheet = null; beginAttempt(buildAttempt(r, sh.qids, getSetup(), sh.label)); break; }
+      case 'sound': { SND.set(!SND.on()); if (SND.on()) { SND.unlock(); SND.play('ok'); } render(); break; }
       case 'zoom': { const z = document.createElement('div'); z.className = 'zoom'; z.setAttribute('role', 'dialog'); z.setAttribute('aria-label', 'Image, tap to close'); z.innerHTML = '<img src="' + esc(el.dataset.src) + '" alt="">'; z.addEventListener('click', () => z.remove()); document.body.appendChild(z); break; }
       case 'pick': onPick(el.dataset.k); break;
       case 'tf': onTF(el.dataset.k, el.dataset.v); break;
@@ -790,6 +842,9 @@
     const dx = e.changedTouches[0].clientX - tx, dy = e.changedTouches[0].clientY - ty; tx = null;
     if (Math.abs(dx) > 70 && Math.abs(dy) < 40) move(dx < 0 ? 1 : -1);
   }, { passive: true });
+  window.addEventListener('scroll', () => { if (!S.autoScrolling) S.userScrolled = true; }, { passive: true });
+  ['touchstart', 'wheel', 'keydown'].forEach(ev => window.addEventListener(ev, () => { if (!S.autoScrolling) S.userScrolled = true; }, { passive: true }));
+  document.addEventListener('pointerdown', () => SND.unlock(), { once: true });
   window.addEventListener('hashchange', route);
   if ('serviceWorker' in navigator && location.protocol !== 'file:') window.addEventListener('load', () => { navigator.serviceWorker.register('./sw.js').catch(() => {}); });
   window.addEventListener('pagehide', persistAttempt);
