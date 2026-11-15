@@ -197,6 +197,7 @@
     for (let j = 1; j <= 2; j++) { const id = a.qids[a.idx + j]; if (!id) break; const q = qOf(id); (q && q.figs || []).forEach(f => { const im = new Image(); im.decoding = 'async'; im.src = f.src; }); }
   }
   function normCurated(q, sys) {
+    if (q.type === 'true-false' || q.type === 'single-best') return Object.assign(normPast(q, sys), { src: 'curated' });
     return {
       id: q.id, src: 'curated', sys, type: 'sba', stem: q.stem,
       opts: (q.options || []).map((o, i) => ({ k: LET[i], t: typeof o === 'string' ? o : o.text })),
