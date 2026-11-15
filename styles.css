@@ -471,3 +471,8 @@ body:before,body:after{content:none!important;display:none!important}
   .big .folder.sys .fc{grid-column:2;max-width:none;text-align:left;align-self:start;font-size:13px}
 }
 .row .s.n{margin-top:6px;font-weight:650;color:var(--gold-solid);font-size:13px}
+/* Agent DMC */
+.bubble .bav{font-size:18px;background:linear-gradient(180deg,#1c2b5e,#0b1433);box-shadow:0 0 0 2px rgba(246,196,83,.75)}
+.bubble .bn{color:var(--gold-solid,#f6c453);letter-spacing:.2px}
+[data-theme="light"] .bubble .bn{color:#a26b00}
+.verdict{font-size:12px;font-weight:750;letter-spacing:.3px;color:var(--gold-solid);margin-bottom:3px}

@@ -551,7 +551,7 @@
       const r = await fetch('/api/report', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
       if (!r.ok) throw new Error(r.status === 503 ? 'Reporting isn\'t switched on yet. Please try again later.' : 'Couldn\'t send. Please try again.');
       const m = reported(); m[sh.id] = Date.now(); store.set('dq.reported', m);
-      S.sheet = null; render(); toast('Report sent. Thank you!');
+      S.sheet = null; render(); toast('🕶️ Agent DMC: Report received. We\'re on it.');
     } catch (e) { sh.sending = false; sh.err = e && e.message && !/fetch/i.test(e.message) ? e.message : 'Couldn\'t send. Check your connection and try again.'; render(); }
   }
 
@@ -704,7 +704,7 @@
   function bubble(text) {
     document.querySelectorAll('.bubble').forEach(b => b.remove());
     const b = document.createElement('div'); b.className = 'bubble'; b.setAttribute('role', 'status');
-    b.innerHTML = '<span class="bav" aria-hidden="true">D</span><span class="bb"><b class="bn">DOMiNANCE</b><span class="bx">' + esc(text) + '</span></span>';
+    b.innerHTML = '<span class="bav" aria-hidden="true">🕶️</span><span class="bb"><b class="bn">Agent DMC</b><span class="bx">' + esc(text) + '</span></span>';
     document.body.appendChild(b); SND.play('pop');
     const still = reduceMotion();
     b.animate([
@@ -781,7 +781,7 @@
     const base = Object.assign({}, r);
     return wrap(topbar() +
       '<p class="lead" style="margin:0 0 4px">' + esc(a.courseTitle) + ' · ' + esc(COLL[a.coll]) + ' · ' + esc(a.label) + '</p><h1>Results</h1>' +
-      '<div class="score"><span class="scorebrand" aria-hidden="true">DOM<i>i</i>NANCE <b>Q BANK</b></span><div class="ring" style="--p:' + L.pct + '"><div>' + L.pct + '%</div></div><div><div class="msg">' + (xpo ? esc(L.msg) : 'Quiz complete') + '</div><div class="s">' + L.got + ' of ' + L.total + ' marks · ' + a.qids.length + ' questions</div></div></div>' +
+      '<div class="score"><span class="scorebrand" aria-hidden="true">DOM<i>i</i>NANCE <b>Q BANK</b></span><div class="ring" style="--p:' + L.pct + '"><div>' + L.pct + '%</div></div><div>' + (xpo ? '<div class="verdict">🕶️ Agent DMC\'s verdict</div>' : '') + '<div class="msg">' + (xpo ? esc(L.msg) : 'Quiz complete') + '</div><div class="s">' + L.got + ' of ' + L.total + ' marks · ' + a.qids.length + ' questions</div></div></div>' +
       '<div class="metrics">' + metric('Correct', L.got) + metric('Wrong', L.wrong) + metric('Unanswered', L.missing) + metric('Time', fmtTime(a.elapsed)) + (xpo ? metric('Longest streak', L.best) : '') + '</div>' +
       byTopic +
       '<div class="acts-col"><button class="btn primary" data-a="review">Review answers</button><button class="btn" data-a="retrywrong">Retry wrong ones</button></div>' +
