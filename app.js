@@ -147,15 +147,24 @@
       opts: (q.options || []).map((o, i) => ({ k: o.label || LET[i], t: o.text != null ? o.text : String(o) })),
       ans: q.correctAnswer, tf: q.answerByOption || null,
       why: q.why || '', notes: q.notes || {}, topic: q.topicId, sub: q.subtopic || '',
-      diff: q.difficulty || 'medium', lock: !!q.lockOrder
+      diff: q.difficulty || 'medium', lock: !!q.lockOrder, figs: normFigs(q),
     };
+  }
+  function normFigs(q) { return [].concat(q.images || q.image || []).map(x => typeof x === 'string' ? { src: x } : x).filter(x => x && x.src); }
+  function figHtml(q, small) {
+    if (!q.figs || !q.figs.length) return '';
+    return q.figs.map(f => '<figure class="qfig' + (small ? ' sm' : '') + '"><button class="figbtn" data-a="zoom" data-src="' + esc(f.src) + '" aria-label="Enlarge image"><img src="' + esc(f.src) + '" alt="' + esc(f.alt || 'Question image') + '" decoding="async"' + (f.w ? ' width="' + f.w + '" height="' + f.h + '"' : '') + '></button>' + (f.caption ? '<figcaption>' + esc(f.caption) + '</figcaption>' : '') + '</figure>').join('');
+  }
+  function prefetchFigs(a) {
+    if (!a) return;
+    for (let j = 1; j <= 2; j++) { const id = a.qids[a.idx + j]; if (!id) break; const q = qOf(id); (q && q.figs || []).forEach(f => { const im = new Image(); im.decoding = 'async'; im.src = f.src; }); }
   }
   function normCurated(q, sys) {
     return {
       id: q.id, src: 'curated', sys, type: 'sba', stem: q.stem,
       opts: (q.options || []).map((o, i) => ({ k: LET[i], t: typeof o === 'string' ? o : o.text })),
       ans: q.answer, tf: null, why: q.why || '', notes: q.notes || {},
-      topic: q.topicId, sub: q.subtopic || '', diff: q.difficulty || 'medium', lock: !!q.lockOrder
+      topic: q.topicId, sub: q.subtopic || '', diff: q.difficulty || 'medium', lock: !!q.lockOrder, figs: normFigs(q),
     };
   }
   function currentData() { return S.route && S.route.course ? S.cache[courseKeyOf(S.route)] : null; }
@@ -432,7 +441,7 @@
     const nav = '<div class="qnav"><button class="btn" data-a="prev"' + (a.idx === 0 ? ' aria-disabled="true"' : '') + '>Previous</button>' + primary + '</div>' + (S.inlineErr ? '<p class="inline-err" role="alert">' + esc(S.inlineErr) + '</p>' : '');
     const streak = a.settings.xpo && a.streak >= 3 ? '<span class="streak" aria-live="polite">🔥 ' + a.streak + ' in a row</span>' : '';
     const banner = a.timeUp && go_ ? '<p class="banner">Time\'s up. You can keep going at your own pace.</p>' : '';
-    return '<div class="wrap" id="main">' + top + banner + '<article class="qcard" id="qcard"><p class="qtag"><span>' + esc(topic) + (q.type === 'tf' ? ' · True or false' : '') + '</span>' + streak + '</p><p class="qstem">' + esc(q.stem) + '</p>' + body + fb + '</article>' + nav + '</div>' + sheetHtml();
+    return '<div class="wrap" id="main">' + top + banner + '<article class="qcard" id="qcard"><p class="qtag"><span>' + esc(topic) + (q.type === 'tf' ? ' · True or false' : '') + '</span>' + streak + '</p><p class="qstem">' + esc(q.stem) + '</p>' + figHtml(q) + body + fb + '</article>' + nav + '</div>' + sheetHtml();
   }
 
   /* ---------- sheets (exit, navigator, submit, replace) ---------- */
@@ -637,7 +646,7 @@
       } else {
         ansHtml = '<p class="a">You: ' + (x.ans ? '<span class="' + (x.g.correct ? 'c' : 'y') + '">' + map[x.ans] + '. ' + esc(byKey[x.ans].t) + '</span>' : '<span class="y">Not answered</span>') + '</p>' + '<div class="feedback">' + explainSBA(a, q, x.ans, false) + '</div>';
       }
-      return '<article class="rv ' + st + '"><p class="q">' + (x.i + 1) + '. ' + esc(q.stem) + (x.flag ? ' ★' : '') + '</p>' + ansHtml + '</article>';
+      return '<article class="rv ' + st + '"><p class="q">' + (x.i + 1) + '. ' + esc(q.stem) + (x.flag ? ' ★' : '') + '</p>' + figHtml(q, true) + ansHtml + '</article>';
     }).join('');
     return wrap(topbar() + '<nav class="crumbs"><a class="back" href="#/results" aria-label="Back to results">' + I.back + '</a><a href="#/results">Results</a><span class="sep">›</span><span class="here">Review</span></nav><h1>Review answers</h1>' +
       '<div class="filters">' + fbtn('all', 'All ' + a.qids.length) + fbtn('wrong', 'Wrong') + fbtn('flagged', 'Flagged') + '</div>' +
@@ -672,7 +681,7 @@
     document.body.dataset.view = r.view;
     $app.innerHTML = html;
     if (S.sheet) clearBubbles();
-    if (r.view === 'quiz') runFx();
+    if (r.view === 'quiz') { runFx(); prefetchFigs(S.attempt); }
     if (r.view === 'results' && S.last && S.last.celebrate) {
       S.last.celebrate = false;
       if (S.last.a.settings.xpo) { if (S.last.pct === 100) confetti(70); else if (S.last.pct >= 80) confetti(40); }
@@ -711,6 +720,7 @@
       case 'marking': case 'markOn': case 'timer': { const st = getSetup(); st[act] = el.dataset.v; putSetup(st); render(); break; }
       case 'start': startFromSetup(); break;
       case 'replacego': { const sh = S.sheet; S.sheet = null; beginAttempt(buildAttempt(r, sh.qids, getSetup(), sh.label)); break; }
+      case 'zoom': { const z = document.createElement('div'); z.className = 'zoom'; z.setAttribute('role', 'dialog'); z.setAttribute('aria-label', 'Image, tap to close'); z.innerHTML = '<img src="' + esc(el.dataset.src) + '" alt="">'; z.addEventListener('click', () => z.remove()); document.body.appendChild(z); break; }
       case 'pick': onPick(el.dataset.k); break;
       case 'tf': onTF(el.dataset.k, el.dataset.v); break;
       case 'check': onCheck(); break;
