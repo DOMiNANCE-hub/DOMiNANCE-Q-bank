@@ -124,7 +124,7 @@
     };
     return { on, set, play: k => { if (on() && fx[k]) try { fx[k](); } catch (e) { } }, unlock: () => { try { ac(); } catch (e) { } } };
   })();
-  function clearBubbles() { clearTimeout(S.bubbleT); document.querySelectorAll('.bubble').forEach(b => b.remove()); }
+  function clearBubbles() { clearTimeout(S.bubbleT); document.querySelectorAll('.bubble,.floaty').forEach(b => b.remove()); }
   async function route() {
     if (!S.catalog) return; // still loading; boot calls route() when ready
     stopTimer(); clearBubbles();
@@ -694,12 +694,39 @@
     clearTimeout(S.bubbleT); S.bubbleT = setTimeout(() => { if (S.route && S.route.view === 'quiz' && !S.sheet) bubble(line); }, nav ? 150 : 550);
   }
   function bubble(text) {
-    document.querySelectorAll('.bubble').forEach(b => b.remove());
-    const m = text.match(/(\p{Extended_Pictographic}\uFE0F?)\s*$/u), emo = m ? m[1] : '💬', words = m ? text.slice(0, m.index).trim() : text;
+    document.querySelectorAll('.bubble,.floaty').forEach(b => b.remove());
+    const m = text.match(/(\p{Extended_Pictographic}\uFE0F?(?:\u200D\p{Extended_Pictographic}\uFE0F?)*)\s*$/u), emo = m ? m[1] : '🔥', words = m ? text.slice(0, m.index).trim() : text;
     const b = document.createElement('div'); b.className = 'bubble'; b.setAttribute('role', 'status');
     b.innerHTML = '<span class="be" aria-hidden="true">' + esc(emo) + '</span><span class="bt">' + esc(words) + '</span>';
-    document.body.appendChild(b); SND.play('pop'); setTimeout(() => b.classList.add('out'), 3300); setTimeout(() => b.remove(), 3700);
+    document.body.appendChild(b); SND.play('pop');
+    if (reduceMotion()) { b.animate([{ opacity: 0 }, { opacity: 1, offset: .1 }, { opacity: 1, offset: .85 }, { opacity: 0 }], { duration: 3600, fill: 'both' }); setTimeout(() => b.remove(), 3700); return; }
+    // the comment pill drifts up slowly so it can be read
+    b.animate([
+      { opacity: 0, transform: 'translateY(40px) scale(.85)' },
+      { opacity: 1, transform: 'translateY(0) scale(1)', offset: .12 },
+      { opacity: 1, transform: 'translateY(-90px) scale(1)', offset: .82 },
+      { opacity: 0, transform: 'translateY(-150px) scale(.96)' }
+    ], { duration: 5000, easing: 'cubic-bezier(.25,.8,.35,1)', fill: 'both' });
+    setTimeout(() => b.remove(), 5100);
+    // a stream of the emoji floats up, like live reactions
+    const n = 7;
+    for (let k = 0; k < n; k++) {
+      setTimeout(() => {
+        const e = document.createElement('span'); e.className = 'floaty'; e.textContent = emo; e.setAttribute('aria-hidden', 'true');
+        const size = 24 + Math.random() * 18, sway = (Math.random() * 2 - 1) * 46, rise = window.innerHeight * (.55 + Math.random() * .3), dur = 2600 + Math.random() * 1200, rot = (Math.random() * 2 - 1) * 24;
+        e.style.fontSize = size + 'px'; e.style.right = (18 + Math.random() * 42) + 'px';
+        document.body.appendChild(e);
+        e.animate([
+          { transform: 'translate(0,0) scale(.4) rotate(0deg)', opacity: 0 },
+          { transform: 'translate(' + sway * .4 + 'px,' + (-rise * .2) + 'px) scale(1.05) rotate(' + rot * .5 + 'deg)', opacity: 1, offset: .18 },
+          { transform: 'translate(' + (-sway * .6) + 'px,' + (-rise * .6) + 'px) scale(1) rotate(' + (-rot) + 'deg)', opacity: .95, offset: .6 },
+          { transform: 'translate(' + sway + 'px,' + (-rise) + 'px) scale(.9) rotate(' + rot + 'deg)', opacity: 0 }
+        ], { duration: dur, easing: 'cubic-bezier(.3,.6,.4,1)', fill: 'both' });
+        setTimeout(() => e.remove(), dur + 50);
+      }, k * 130);
+    }
   }
+  window.DQ_bubble = bubble; // handy for testing the comment animation
   function toast(text) { document.querySelectorAll('.toast').forEach(b => b.remove()); const b = document.createElement('div'); b.className = 'toast'; b.setAttribute('role', 'status'); b.textContent = text; document.body.appendChild(b); setTimeout(() => b.remove(), 2500); }
   function confetti(count, anchor) {
     if (reduceMotion()) return;

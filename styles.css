@@ -414,3 +414,9 @@ body:before,body:after{content:none!important;display:none!important}
 @media (max-width:340px){.folders.sq{grid-template-columns:repeat(2,minmax(0,1fr))}}
 .sq .folder .ft{hyphens:auto;-webkit-hyphens:auto;overflow-wrap:anywhere}
 .sq .folder.sys .ft{padding-right:0}
+/* live-reaction comments: pill + emoji stream rising from bottom-right */
+.bubble{left:auto;right:14px;top:auto;bottom:calc(118px + env(safe-area-inset-bottom));transform:none;animation:none;max-width:min(80vw,380px);padding:9px 16px 9px 10px;border-radius:999px;font-size:15px;gap:10px}
+.bubble .be{font-size:26px;animation:wob 1s ease-in-out .3s 2}
+@media (min-width:701px){.bubble{right:max(24px,calc(50vw - 420px));bottom:120px}}
+.floaty{position:fixed;bottom:calc(120px + env(safe-area-inset-bottom));z-index:44;line-height:1;pointer-events:none;will-change:transform,opacity;filter:drop-shadow(0 4px 10px rgba(0,0,0,.3))}
+@media (min-width:701px){.floaty{right:max(30px,calc(50vw - 400px))!important}}
