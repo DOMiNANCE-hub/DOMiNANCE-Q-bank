@@ -5,6 +5,20 @@ const { put } = require('@vercel/blob');
 const REASONS = ['Wrong answer key', 'Explanation is wrong', 'Typo or wording', 'Unclear or ambiguous', 'Image problem', 'Something else'];
 const clip = (v, n) => String(v == null ? '' : v).replace(/[\u0000-\u0008\u000b-\u001f]/g, '').trim().slice(0, n);
 
+// Optional instant phone alert through ntfy.sh (free, no account): set NTFY_TOPIC to a secret topic name.
+async function notify(r) {
+  const topic = process.env.NTFY_TOPIC; if (!topic) return;
+  const host = (process.env.SITE_URL || 'https://dominance-q-bank.vercel.app').replace(/\/$/, '');
+  const ctl = new AbortController(); const t = setTimeout(() => ctl.abort(), 2500);
+  try {
+    await fetch('https://ntfy.sh/' + encodeURIComponent(topic), {
+      method: 'POST', signal: ctl.signal,
+      headers: { Title: 'Question report: ' + r.reason, Tags: 'triangular_flag_on_post', Click: host + '/reports.html' },
+      body: (r.stem || r.qid).slice(0, 160) + (r.note ? '\n“' + r.note.slice(0, 200) + '”' : '') + '\n' + [r.course, r.topic].filter(Boolean).join(' · ')
+    });
+  } catch (e) { console.error('notify failed', e && e.message); } finally { clearTimeout(t); }
+}
+
 module.exports = async (req, res) => {
   res.setHeader('Cache-Control', 'no-store');
   if (req.method !== 'POST') { res.setHeader('Allow', 'POST'); return res.status(405).json({ ok: false, error: 'POST only' }); }
@@ -22,6 +36,7 @@ module.exports = async (req, res) => {
   try {
     const safe = r.qid.replace(/[^\w-]/g, '_');
     await put('reports/' + Date.now() + '-' + safe + '.json', JSON.stringify(r), { access: 'public', addRandomSuffix: true, contentType: 'application/json' });
+    await notify(r);
     return res.status(200).json({ ok: true });
   } catch (e) {
     console.error('report save failed', e && e.message);
