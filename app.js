@@ -290,9 +290,9 @@
       html = '<div class="folders" role="group" aria-label="Topics"><button class="folder all" data-a="topicall"' + (cur ? ' data-sys="' + esc(cur.id) + '"' : '') + ' aria-pressed="' + all + '"><span class="tick">' + I.check + '</span><span class="fi">' + I.folders + '</span><span class="ft">' + (cur ? 'All ' + esc(cur.title) : 'All topics') + '</span><span class="fc">' + qn(sum(list)) + '</span></button>' +
         list.map((t, i) => (t.tag && (i === 0 || !list[i - 1].tag) ? '</div><div class="syshead">From ' + esc(t.tag) + '</div><div class="folders" role="group">' : '') + '<button class="folder" data-a="topic" data-id="' + esc(t.id) + '" aria-pressed="' + sel.has(t.id) + '"><span class="tick">' + I.check + '</span><span class="fi">' + I.folder + '</span><span class="ft">' + esc(t.title) + '</span><span class="fc">' + qn(counts[t.id]) + '</span></button>').join('') + '</div>';
       head = cur ? crumbs(trail(r, 'sys')) + '<h1>' + esc(cur.title) + '</h1>' : crumbs(trail(r, 'topics')) + '<h1>' + COLL[r.coll] + '</h1>';
-      lead = 'Tap to pick one or more topics.';
+      lead = 'Pick one or more topics.';
     }
-    const dock = '<div class="dock"><div class="in"><div class="info">' + (sel.size ? '<b>' + sel.size + ' topic' + (sel.size === 1 ? '' : 's') + '</b> · ' + n + ' questions' : 'Tap folders to pick one or more topics') + '</div><button class="btn primary" data-a="continue">Continue</button></div></div>';
+    const dock = '<div class="dock"><div class="in"><div class="info">' + (sel.size ? '<b>' + sel.size + ' topic' + (sel.size === 1 ? '' : 's') + '</b> · ' + n + ' questions' : 'Pick one or more topics') + '</div><button class="btn primary" data-a="continue">Continue</button></div></div>';
     return wrap(topbar() + head + '<p class="lead">' + lead + '</p>' + html) + dock;
   }
 
@@ -438,7 +438,8 @@
     let primary;
     if (go_ && !marked && a.settings.markOn === 'check') primary = '<button class="btn primary" data-a="check">Check answer</button>';
     else primary = '<button class="btn primary" data-a="' + (last ? 'finish' : 'next') + '">' + (last ? (go_ ? 'Finish' : 'Submit') : 'Next') + '</button>';
-    const nav = '<div class="qnav"><button class="btn" data-a="prev"' + (a.idx === 0 ? ' aria-disabled="true"' : '') + '>Previous</button>' + primary + '</div>' + (S.inlineErr ? '<p class="inline-err" role="alert">' + esc(S.inlineErr) + '</p>' : '');
+    const kbd = '<p class="kbd" aria-hidden="true">' + (q.type === 'sba' ? '<kbd>A</kbd>–<kbd>' + LET[Math.max(0, q.opts.length - 1)] + '</kbd> choose · ' : '<kbd>T</kbd>/<kbd>F</kbd> mark next statement · ') + '<kbd>Enter</kbd> ' + (go_ ? 'check / next' : 'next') + ' · <kbd>←</kbd><kbd>→</kbd> move</p>';
+    const nav = '<div class="qnav"><button class="btn" data-a="prev"' + (a.idx === 0 ? ' aria-disabled="true"' : '') + '>Previous</button>' + primary + '</div>' + (S.inlineErr ? '<p class="inline-err" role="alert">' + esc(S.inlineErr) + '</p>' : '') + kbd;
     const streak = a.settings.xpo && a.streak >= 3 ? '<span class="streak" aria-live="polite">🔥 ' + a.streak + ' in a row</span>' : '';
     const banner = a.timeUp && go_ ? '<p class="banner">Time\'s up. You can keep going at your own pace.</p>' : '';
     return '<div class="wrap" id="main">' + top + banner + '<article class="qcard" id="qcard"><p class="qtag"><span>' + esc(topic) + (q.type === 'tf' ? ' · True or false' : '') + '</span>' + streak + '</p><p class="qstem">' + esc(q.stem) + '</p>' + figHtml(q) + body + fb + '</article>' + nav + '</div>' + sheetHtml();
@@ -467,7 +468,7 @@
     }
     if (sh.kind === 'submit') {
       const missing = a.qids.map((id, i) => isAnswered(id, a) ? null : i).filter(i => i !== null);
-      return '<div class="overlay" data-a="closesheet"><div class="sheet" role="dialog" aria-modal="true" aria-labelledby="sh-t" data-stop="1"><h3 id="sh-t">' + missing.length + ' question' + (missing.length === 1 ? '' : 's') + ' not finished</h3><p>Tap a number to go back to it, or finish now. Unanswered parts score zero.</p><div class="grid">' +
+      return '<div class="overlay" data-a="closesheet"><div class="sheet" role="dialog" aria-modal="true" aria-labelledby="sh-t" data-stop="1"><h3 id="sh-t">' + missing.length + ' question' + (missing.length === 1 ? '' : 's') + ' not finished</h3><p>Choose a number to go back to it, or finish now. Unanswered parts score zero.</p><div class="grid">' +
         missing.map(i => '<button class="dot" data-a="jump" data-i="' + i + '">' + (i + 1) + '</button>').join('') + '</div><div class="acts"><button class="btn" data-a="jump" data-i="' + missing[0] + '">Go to first</button><button class="btn primary" data-a="submitnow">' + (a.settings.marking === 'go' ? 'Finish anyway' : 'Submit anyway') + '</button></div></div></div>';
     }
     if (sh.kind === 'replace') {
@@ -679,7 +680,9 @@
       default: html = viewHome();
     }
     document.body.dataset.view = r.view;
+    const vk = r.view + (r.view === 'quiz' && S.attempt ? ':' + S.attempt.idx : '') + (r.view !== 'quiz' ? location.hash : '');
     $app.innerHTML = html;
+    if (vk !== S.lastVk) { const m = $app.firstElementChild; if (m) m.classList.add('enter'); S.lastVk = vk; }
     if (S.sheet) clearBubbles();
     if (r.view === 'quiz') { runFx(); prefetchFigs(S.attempt); }
     if (r.view === 'results' && S.last && S.last.celebrate) {
@@ -759,6 +762,7 @@
     if (e.target && /input|textarea|select/i.test(e.target.tagName)) return;
     const a = S.attempt, q = qOf(a.qids[a.idx]), key = e.key.toLowerCase();
     if (q.type === 'sba' && /^[a-h]$/.test(key)) { const order = a.order[q.id]; const i = key.charCodeAt(0) - 97; if (order[i]) { onPick(order[i]); e.preventDefault(); } }
+    else if (q.type === 'tf' && (key === 't' || key === 'f')) { const order = a.order[q.id] || q.opts.map(o => o.k); const cur = a.ans[q.id] || {}; const k = order.find(x => !cur[x]); if (k) { onTF(k, key === 't' ? 'T' : 'F'); e.preventDefault(); } }
     else if (e.key === 'ArrowRight') { move(1); e.preventDefault(); }
     else if (e.key === 'ArrowLeft') { move(-1); e.preventDefault(); }
     else if (e.key === 'Enter') { const b = document.querySelector('.qnav .btn.primary'); if (b) { b.click(); e.preventDefault(); } }
@@ -771,6 +775,7 @@
     if (Math.abs(dx) > 70 && Math.abs(dy) < 40) move(dx < 0 ? 1 : -1);
   }, { passive: true });
   window.addEventListener('hashchange', route);
+  if ('serviceWorker' in navigator && location.protocol !== 'file:') window.addEventListener('load', () => { navigator.serviceWorker.register('./sw.js').catch(() => {}); });
   window.addEventListener('pagehide', persistAttempt);
 
   /* ---------- boot ---------- */
