@@ -339,21 +339,8 @@
     const hist = store.get('dq.hist.' + ck, []).slice(0, 5);
     const coll = k => '<a class="row" href="' + baseHash(Object.assign({}, r, { coll: k }), 'topics') + '"><span class="ico">' + (k === 'past' ? I.archive : I.spark) + '</span><span class="txt"><span class="t">' + COLL[k] + '</span><span class="s">' + d[k].length + ' questions</span></span><span class="chev">' + I.chev + '</span></a>';
     return wrap(topbar() + crumbs(trail(r, 'course')) + '<h1>' + esc(c.title) + '</h1><p class="lead">' + (d.past.length && d.curated.length ? 'Choose a collection. Both are sorted by topic.' : 'Questions are sorted by topic.') + '</p>' + resumeCards(ck) +
-      '<div class="list">' + ['past', 'curated'].filter(k => d[k].length).map(coll).join('') + '</div>' + jumpSystems(r, d) +
+      '<div class="list">' + ['past', 'curated'].filter(k => d[k].length).map(coll).join('') + '</div>' +
       '<h2>Your recent scores</h2>' + (hist.length ? '<div class="history">' + hist.map(h => '<div class="hi"><b>' + h.pct + '%</b><span>' + esc(COLL[h.coll]) + ' · ' + esc(h.label) + '<br><small>' + h.got + '/' + h.total + ' marks · ' + esc(new Date(h.at).toLocaleDateString()) + '</small></span></div>').join('') + '</div>' : '<p class="empty">Finish a quiz and your scores will show here.</p>'));
-  }
-
-  function jumpSystems(r, d) {
-    const sys = []; const tsys = {};
-    d.topics.forEach(t => { tsys[t.id] = t.sys; if (!sys.find(x => x.id === t.sys)) sys.push({ id: t.sys, title: t.sysTitle }); });
-    if (sys.length < 2) return '';
-    const n = (k, id) => d[k].filter(q => tsys[q.topic] === id).length;
-    const tiles = sys.map(g => {
-      const p = n('past', g.id), c = n('curated', g.id); if (!p && !c) return '';
-      const k = p ? 'past' : 'curated';
-      return '<a class="jump" href="' + baseHash(Object.assign({}, r, { coll: k, sys: g.id }), 'sys') + '"><span class="fi">' + sysIcon(g) + '</span><span class="jt">' + esc(g.title) + '</span><span class="jc">' + (p ? p + ' past' : '') + (p && c ? ' · ' : '') + (c ? c + ' curated' : '') + '</span></a>';
-    }).join('');
-    return tiles ? '<h2>Jump to a system</h2><div class="jumps">' + tiles + '</div>' : '';
   }
 
   const shortTitle = t => String(t).replace(/\s*\([^)]*\)/g, '').trim() || String(t);
@@ -728,23 +715,6 @@
       { opacity: 0, transform: 'translateY(-150px) scale(.96)' }
     ], { duration: 5000, easing: 'cubic-bezier(.25,.8,.35,1)', fill: 'both' });
     setTimeout(() => b.remove(), 5100);
-    // a stream of the emoji floats up, like live reactions
-    const n = 7;
-    for (let k = 0; k < n; k++) {
-      setTimeout(() => {
-        const e = document.createElement('span'); e.className = 'floaty'; e.textContent = emo; e.setAttribute('aria-hidden', 'true');
-        const size = 24 + Math.random() * 18, sway = (Math.random() * 2 - 1) * 46, rise = window.innerHeight * (.55 + Math.random() * .3), dur = 2600 + Math.random() * 1200, rot = (Math.random() * 2 - 1) * 24;
-        e.style.fontSize = size + 'px'; e.style.right = (18 + Math.random() * 42) + 'px';
-        document.body.appendChild(e);
-        e.animate([
-          { transform: 'translate(0,0) scale(.4) rotate(0deg)', opacity: 0 },
-          { transform: 'translate(' + sway * .4 + 'px,' + (-rise * .2) + 'px) scale(1.05) rotate(' + rot * .5 + 'deg)', opacity: 1, offset: .18 },
-          { transform: 'translate(' + (-sway * .6) + 'px,' + (-rise * .6) + 'px) scale(1) rotate(' + (-rot) + 'deg)', opacity: .95, offset: .6 },
-          { transform: 'translate(' + sway + 'px,' + (-rise) + 'px) scale(.9) rotate(' + rot + 'deg)', opacity: 0 }
-        ], { duration: dur, easing: 'cubic-bezier(.3,.6,.4,1)', fill: 'both' });
-        setTimeout(() => e.remove(), dur + 50);
-      }, k * 130);
-    }
   }
   window.DQ_bubble = bubble; // handy for testing the comment animation
   function toast(text) { document.querySelectorAll('.toast').forEach(b => b.remove()); const b = document.createElement('div'); b.className = 'toast'; b.setAttribute('role', 'status'); b.textContent = text; document.body.appendChild(b); setTimeout(() => b.remove(), 2500); }

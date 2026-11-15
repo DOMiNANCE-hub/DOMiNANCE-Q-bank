@@ -429,3 +429,12 @@ body:before,body:after{content:none!important;display:none!important}
 .sq .folder.sys .fc b{color:var(--gold-solid);font-weight:700}
 .sq .folder.all .ft{color:var(--gold-solid)}
 .sq .folder.sys .ft{font-size:12.5px;overflow-wrap:normal}
+/* course page: the two collections are big tiles that fill the screen */
+@media (max-width:700px){
+  body[data-view="course"] .wrap>.list{flex:1 1 auto;grid-auto-rows:minmax(150px,1fr);max-height:470px;gap:12px}
+  body[data-view="course"] .wrap>.list .row{min-height:0;padding:22px 20px;gap:16px}
+  body[data-view="course"] .wrap>.list .row .ico{width:60px;height:60px;border-radius:18px}
+  body[data-view="course"] .wrap>.list .row .ico svg{width:28px;height:28px}
+  body[data-view="course"] .wrap>.list .row .t{font-size:21px;margin-bottom:4px}
+  body[data-view="course"] .wrap>.list .row .s{font-size:14px}
+}
