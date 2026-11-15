@@ -334,3 +334,16 @@ body[data-view="quiz"]:before,body[data-view="quiz"]:after,body[data-view="revie
 .jump .jc{font-size:12px;color:var(--muted);margin-top:auto}
 @media (max-width:480px){.jumps{grid-template-columns:1fr;gap:8px}.jump{flex-direction:row;align-items:center;gap:12px;padding:12px}.jump .jt{flex:1;font-size:15px}.jump .jc{margin-top:0;text-align:right;max-width:42%}}
 .year b{margin-bottom:auto}
+/* emoji icons */
+.emo{font-size:22px;line-height:1;font-family:"Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji",sans-serif;filter:saturate(1.05)}
+.row .ico,.folder .fi,.jump .fi{background:linear-gradient(180deg,rgba(255,255,255,.12),rgba(255,255,255,.05));border:1px solid var(--edge)}
+[data-theme="light"] .row .ico,[data-theme="light"] .folder .fi,[data-theme="light"] .jump .fi{background:linear-gradient(180deg,#fff,rgba(255,255,255,.6))}
+.folder .fi .emo,.jump .fi .emo{font-size:20px}
+/* report */
+.reportlink{display:inline-flex;align-items:center;gap:6px;margin:10px 2px 0;padding:6px 2px;background:none;border:0;color:var(--muted);font:inherit;font-size:13px;cursor:pointer}
+.reportlink:hover{color:var(--text)}
+.reportlink[aria-pressed="true"]{color:var(--gold)}
+.rv .reportlink{margin-top:6px}
+.sheet.report .chips{display:flex;flex-wrap:wrap;gap:8px;margin:6px 0 12px}
+.sheet.report textarea{width:100%;box-sizing:border-box;border-radius:12px;border:1px solid var(--edge2);background:var(--panel2);color:var(--text);font:inherit;font-size:15px;padding:10px 12px;resize:vertical}
+.sheet.report .chip{min-height:36px;padding:6px 13px;font-size:14px}

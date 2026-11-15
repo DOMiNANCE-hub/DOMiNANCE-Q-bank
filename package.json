@@ -1,0 +1,8 @@
+{
+  "name": "dominance-q-bank",
+  "private": true,
+  "description": "Static Q bank site plus two small Vercel functions for question reports.",
+  "dependencies": {
+    "@vercel/blob": "^2.9.0"
+  }
+}

@@ -266,12 +266,35 @@
     return wrap(topbar() + '<section class="hero"><h1>Get locked in and <span>dominate</span>.</h1><p class="lead">Past questions and curated questions, sorted by topic, with explanations for every answer.</p></section>' +
       resumeCards() + '<h2>Choose your year</h2><div class="years">' + years + '</div>', true);
   }
+
+  /* ---------- emoji icons for courses, systems and topics ---------- */
+  const EMO_RULES = [
+    [/electrocardio|ecg/, '📈'], [/sounds|murmur|arterial blood pressure|jugular/, '🩺'], [/oedema|body fluid|fluids/, '💧'], [/shock/, '⚡'],
+    [/temperature|thermo/, '🌡️'], [/exercise/, '🏃'], [/gravity|posture/, '🧍'], [/acid.base/, '⚗️'],
+    [/fetal|placenta|fetal membranes|bilaminar|trilaminar|cleavage|twins|implant/, '👶'], [/gametogen|fertili|menstrual|clon/, '🥚'], [/pregnan|reproduction/, '🤰'],
+    [/female/, '♀️'], [/male/, '♂️'], [/genital/, '🧬'],
+    [/eye|vision/, '👁️'], [/hearing|ear\b|balance/, '👂'], [/taste|smell/, '👅'], [/skin|cutaneous|pain/, '✋'], [/special senses/, '👁️'],
+    [/autonomic/, '⚡'], [/brain|cns|cerebral|spinal cord|sleep|cranial|nerv(?!e? tissue)|nervous system/, '🧠'], [/nervous tissue/, '🧠'],
+    [/respir|lung|breath|gas exchange|airway|pulmonary|altitude/, '🫁'],
+    [/mouth|saliva|oral|swallow/, '🦷'], [/digest|gi tract|stomach|intestin|gut/, '🍔'], [/liver|bile|hepatic|splanchnic/, '🟤'], [/pancrea|diabet/, '🍬'],
+    [/urin|kidney|renal|glomer|tubul|renin/, '🫘'],
+    [/thyroid|parathy|calcium/, '🦋'], [/adrenal/, '⚡'], [/endocrin|hormon|hypothal|pituit/, '🧪'],
+    [/lymph|immun|hypersens/, '🛡️'], [/haem|myoglobin|coagul|fibrino|porphyri/, '🩸'],
+    [/purine|pyrimidine|molecular|genetic|inborn/, '🧬'], [/fatty|cholesterol|lipid/, '🧈'], [/free radical|antioxid/, '🍊'], [/amino|nitrogen/, '🔗'],
+    [/metabolism|energy/, '🔥'], [/muscle tissue|muscle/, '💪'], [/bone|osteo|limbs|musculoskeletal/, '🦴'], [/joint/, '🦵'],
+    [/head and neck|face|palate|pharyngeal/, '🗣️'], [/epithel/, '🧱'], [/connective|cartilage/, '🧵'], [/introduction|terminology|overview/, '📘'],
+    [/heart|cardi|circul|vessel|blood flow|vein|venous|coronary|capillar|haemodynam|reflex|baroreflex/, '🫀']
+  ];
+  const SYSEMO = { gross: '🦴', micro: '🔬', embryo: '👶', cvs: '🫀', gi: '🍔', renal: '🫘', resp: '🫁', endocrine: '🧪', senses: '👁️', cns: '🧠', biochem: '🧬' };
+  const COURSEEMO = { anatomy: '🩻', physiology: '🫀', biochemistry: '⚗️' };
+  const pickEmo = t => { const s = String(t || '').toLowerCase(); const r = EMO_RULES.find(([re]) => re.test(s)); return r ? r[1] : '📁'; };
+  const emo = ch => '<span class="emo" aria-hidden="true">' + ch + '</span>';
   const SYSICO = { gross: 'body', micro: 'microscope', embryo: 'embryo', cvs: 'pulse', gi: 'stomach', renal: 'kidney', resp: 'lungs', endocrine: 'drop', senses: 'eye', cns: 'brain', biochem: 'dna' };
-  const sysIcon = g => I[g.icon] || I[SYSICO[g.id]] || I.folders;
+  const sysIcon = g => emo(SYSEMO[g.id] || pickEmo(g.title));
   function courseRows(r, list) {
     if (!list.length) return '<p class="empty">Courses for this year are coming soon.</p>';
     return '<div class="list">' + list.map(c => {
-      const ico = I[c.icon] || I.book;
+      const ico = emo(COURSEEMO[c.id] || pickEmo(c.title));
       if (c.status !== 'live') return '<div class="row soon" aria-disabled="true"><span class="ico">' + ico + '</span><span class="txt"><span class="t">' + esc(c.title) + '</span><span class="s">Coming soon</span></span></div>';
       const href = '#/' + r.year + (r.sem ? '/' + r.sem : '') + '/' + c.id;
       const sys = (c.systems || []).map(s => s.title).join(', ');
@@ -282,7 +305,7 @@
     const y = yearById(r.year);
     let body;
     if (y.semesters) {
-      body = '<div class="list">' + y.semesters.map(s => '<a class="row" href="#/' + y.id + '/' + s.id + '"><span class="ico">' + I.cal + '</span><span class="txt"><span class="t">' + esc(s.title) + '</span><span class="s">' + ((s.courses || []).length ? (s.courses.length + ' courses') : 'Coming soon') + '</span></span><span class="chev">' + I.chev + '</span></a>').join('') + '</div>';
+      body = '<div class="list">' + y.semesters.map(s => '<a class="row" href="#/' + y.id + '/' + s.id + '"><span class="ico">' + emo('📅') + '</span><span class="txt"><span class="t">' + esc(s.title) + '</span><span class="s">' + ((s.courses || []).length ? (s.courses.length + ' courses') : 'Coming soon') + '</span></span><span class="chev">' + I.chev + '</span></a>').join('') + '</div>';
     } else body = courseRows(r, y.courses || []);
     return wrap(topbar() + crumbs(trail(r, 'year')) + '<h1>' + esc(y.title) + ' · ' + esc(y.subtitle) + '</h1><p class="lead">' + (y.semesters ? 'Pick a semester.' : 'Pick a course.') + ' <button class="linkbtn" data-a="changeyear">Change year</button></p>' + resumeCards() + body);
   }
@@ -293,7 +316,7 @@
   function viewCourse(r) {
     const d = currentData(), c = courseObj(r), ck = courseKeyOf(r);
     const hist = store.get('dq.hist.' + ck, []).slice(0, 5);
-    const coll = k => '<a class="row" href="' + baseHash(Object.assign({}, r, { coll: k }), 'topics') + '"><span class="ico">' + (k === 'past' ? I.archive : I.spark) + '</span><span class="txt"><span class="t">' + COLL[k] + '</span><span class="s">' + d[k].length + ' questions</span></span><span class="chev">' + I.chev + '</span></a>';
+    const coll = k => '<a class="row" href="' + baseHash(Object.assign({}, r, { coll: k }), 'topics') + '"><span class="ico">' + emo(k === 'past' ? '📚' : '✨') + '</span><span class="txt"><span class="t">' + COLL[k] + '</span><span class="s">' + d[k].length + ' questions</span></span><span class="chev">' + I.chev + '</span></a>';
     return wrap(topbar() + crumbs(trail(r, 'course')) + '<h1>' + esc(c.title) + '</h1><p class="lead">' + (d.past.length && d.curated.length ? 'Choose a collection. Both are sorted by topic.' : 'Questions are sorted by topic.') + '</p>' + resumeCards(ck) +
       '<div class="list">' + ['past', 'curated'].filter(k => d[k].length).map(coll).join('') + '</div>' + jumpSystems(r, d) +
       '<h2>Your recent scores</h2>' + (hist.length ? '<div class="history">' + hist.map(h => '<div class="hi"><b>' + h.pct + '%</b><span>' + esc(COLL[h.coll]) + ' · ' + esc(h.label) + '<br><small>' + h.got + '/' + h.total + ' marks · ' + esc(new Date(h.at).toLocaleDateString()) + '</small></span></div>').join('') + '</div>' : '<p class="empty">Finish a quiz and your scores will show here.</p>'));
@@ -329,7 +352,7 @@
     let html, head, lead;
     if (grouped && !cur) {
       const all = topics.every(t => sel.has(t.id));
-      html = '<div class="folders" role="group" aria-label="Systems"><button class="folder all" data-a="topicall" aria-pressed="' + all + '"><span class="tick">' + I.check + '</span><span class="fi">' + I.folders + '</span><span class="ft">Everything</span><span class="fc">' + qn(d[r.coll].length) + '</span></button>' +
+      html = '<div class="folders" role="group" aria-label="Systems"><button class="folder all" data-a="topicall" aria-pressed="' + all + '"><span class="tick">' + I.check + '</span><span class="fi">' + emo('📂') + '</span><span class="ft">Everything</span><span class="fc">' + qn(d[r.coll].length) + '</span></button>' +
         systems.map(g => {
           const k = g.topics.filter(t => sel.has(t.id)).length;
           const state = k === 0 ? '' : k === g.topics.length ? 'All topics picked' : k + ' of ' + g.topics.length + ' picked';
@@ -340,8 +363,8 @@
     } else {
       const list = cur ? cur.topics : topics;
       const all = list.every(t => sel.has(t.id));
-      html = '<div class="folders" role="group" aria-label="Topics"><button class="folder all" data-a="topicall"' + (cur ? ' data-sys="' + esc(cur.id) + '"' : '') + ' aria-pressed="' + all + '"><span class="tick">' + I.check + '</span><span class="fi">' + I.folders + '</span><span class="ft">' + (cur ? 'All ' + esc(cur.title) : 'All topics') + '</span><span class="fc">' + qn(sum(list)) + '</span></button>' +
-        list.map((t, i) => (t.tag && (i === 0 || !list[i - 1].tag) ? '</div><div class="syshead">From ' + esc(t.tag) + '</div><div class="folders" role="group">' : '') + '<button class="folder" data-a="topic" data-id="' + esc(t.id) + '" aria-pressed="' + sel.has(t.id) + '"><span class="tick">' + I.check + '</span><span class="fi">' + I.folder + '</span><span class="ft">' + esc(t.title) + '</span><span class="fc">' + qn(counts[t.id]) + '</span></button>').join('') + '</div>';
+      html = '<div class="folders" role="group" aria-label="Topics"><button class="folder all" data-a="topicall"' + (cur ? ' data-sys="' + esc(cur.id) + '"' : '') + ' aria-pressed="' + all + '"><span class="tick">' + I.check + '</span><span class="fi">' + emo('📂') + '</span><span class="ft">' + (cur ? 'All ' + esc(cur.title) : 'All topics') + '</span><span class="fc">' + qn(sum(list)) + '</span></button>' +
+        list.map((t, i) => (t.tag && (i === 0 || !list[i - 1].tag) ? '</div><div class="syshead">From ' + esc(t.tag) + '</div><div class="folders" role="group">' : '') + '<button class="folder" data-a="topic" data-id="' + esc(t.id) + '" aria-pressed="' + sel.has(t.id) + '"><span class="tick">' + I.check + '</span><span class="fi">' + emo(pickEmo(t.title)) + '</span><span class="ft">' + esc(t.title) + '</span><span class="fc">' + qn(counts[t.id]) + '</span></button>').join('') + '</div>';
       head = cur ? crumbs(trail(r, 'sys')) + '<h1>' + esc(cur.title) + '</h1>' : crumbs(trail(r, 'topics')) + '<h1>' + COLL[r.coll] + '</h1>';
       lead = 'Pick one or more topics.';
     }
@@ -496,7 +519,30 @@
     const nav = '<div class="qnav' + (three ? ' three' : '') + '"><button class="btn' + (three ? ' icon' : '') + '" data-a="prev"' + (a.idx === 0 ? ' aria-disabled="true"' : '') + ' aria-label="Previous question" title="Previous question">' + (three ? I.arrowL : '<span class="bi">' + I.arrowL + '</span> Previous') + '</button>' + primary + '</div>' + (S.inlineErr ? '<p class="inline-err" role="alert">' + esc(S.inlineErr) + '</p>' : '') + kbd;
     const streak = a.settings.xpo && a.streak >= 3 ? '<span class="streak" aria-live="polite">🔥 ' + a.streak + ' in a row</span>' : '';
     const banner = a.timeUp && go_ ? '<p class="banner">Time\'s up. You can keep going at your own pace.</p>' : '';
-    return '<div class="wrap" id="main">' + top + banner + '<article class="qcard" id="qcard"><p class="qtag"><span>' + esc(topic) + (q.type === 'tf' ? ' · True or false' : '') + '</span>' + streak + '</p><p class="qstem">' + esc(q.stem) + '</p>' + figHtml(q) + body + fb + '</article>' + nav + '</div>' + sheetHtml();
+    return '<div class="wrap" id="main">' + top + banner + '<article class="qcard" id="qcard"><p class="qtag"><span>' + esc(topic) + (q.type === 'tf' ? ' · True or false' : '') + '</span>' + streak + '</p><p class="qstem">' + esc(q.stem) + '</p>' + figHtml(q) + body + fb + '</article>' + reportLink(q.id) + nav + '</div>' + sheetHtml();
+  }
+
+  /* ---------- question reports ---------- */
+  const REPORT_REASONS = [['wrong', 'Wrong answer key'], ['explain', 'Explanation is wrong'], ['typo', 'Typo or wording'], ['unclear', 'Unclear or ambiguous'], ['image', 'Image problem'], ['other', 'Something else']];
+  const reported = () => store.get('dq.reported', {});
+  function reportLink(id) { return '<button class="reportlink" data-a="report" data-id="' + esc(id) + '"' + (reported()[id] ? ' aria-pressed="true"' : '') + '><span aria-hidden="true">🚩</span>' + (reported()[id] ? 'Reported. Thanks' : 'Report a problem with this question') + '</button>'; }
+  function reportCtx(id) {
+    const a = S.attempt || (S.last && S.last.a), d = a ? dataForAttempt(a) : null, q = d && d.byId[id];
+    const t = q && d.topics.find(x => x.id === q.topic);
+    return { qid: id, course: a ? (a.courseTitle || '') : '', topic: t ? (t.sysTitle ? t.sysTitle + ' › ' : '') + t.title : '', stem: q ? q.stem.slice(0, 400) : '', collection: a && a.route ? a.route.coll || '' : '' };
+  }
+  async function sendReport() {
+    const sh = S.sheet; if (!sh || sh.sending) return;
+    const box = document.getElementById('rnote'); sh.note = box ? box.value.trim() : (sh.note || '');
+    if (!sh.reason) { sh.err = 'Pick what\'s wrong first.'; render(); return; }
+    const body = Object.assign(reportCtx(sh.id), { reason: (REPORT_REASONS.find(r => r[0] === sh.reason) || [])[1], note: sh.note, page: location.href, website: '' });
+    sh.sending = true; sh.err = ''; render();
+    try {
+      const r = await fetch('/api/report', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
+      if (!r.ok) throw new Error(r.status === 503 ? 'Reporting isn\'t switched on yet. Please try again later.' : 'Couldn\'t send. Please try again.');
+      const m = reported(); m[sh.id] = Date.now(); store.set('dq.reported', m);
+      S.sheet = null; render(); toast('Report sent. Thank you!');
+    } catch (e) { sh.sending = false; sh.err = e && e.message && !/fetch/i.test(e.message) ? e.message : 'Couldn\'t send. Check your connection and try again.'; render(); }
   }
 
   /* ---------- sheets (exit, navigator, submit, replace) ---------- */
@@ -524,6 +570,16 @@
       const missing = a.qids.map((id, i) => isAnswered(id, a) ? null : i).filter(i => i !== null);
       return '<div class="overlay" data-a="closesheet"><div class="sheet" role="dialog" aria-modal="true" aria-labelledby="sh-t" data-stop="1"><h3 id="sh-t">' + missing.length + ' question' + (missing.length === 1 ? '' : 's') + ' not finished</h3><p>Choose a number to go back to it, or finish now. Unanswered parts score zero.</p><div class="grid">' +
         missing.map(i => '<button class="dot" data-a="jump" data-i="' + i + '">' + (i + 1) + '</button>').join('') + '</div><div class="acts"><button class="btn" data-a="jump" data-i="' + missing[0] + '">Go to first</button><button class="btn primary" data-a="submitnow">' + (a.settings.marking === 'go' ? 'Finish anyway' : 'Submit anyway') + '</button></div></div></div>';
+    }
+    if (sh.kind === 'report') {
+      const done = reported()[sh.id];
+      const rs = REPORT_REASONS.map(([k, l]) => '<button class="chip" data-a="rreason" data-v="' + k + '" aria-pressed="' + (sh.reason === k) + '">' + l + '</button>').join('');
+      return '<div class="overlay" data-a="closesheet"><div class="sheet report" role="dialog" aria-modal="true" aria-labelledby="sh-t" data-stop="1"><h3 id="sh-t">Report this question</h3>' +
+        (done ? '<p>You already reported this question. Thanks, we\'re on it.</p><div class="acts"><button class="btn primary" data-a="closesheet">Close</button></div>' :
+        '<p>What\'s wrong with it? We check every report.</p><div class="chips">' + rs + '</div>' +
+        '<label for="rnote" class="sr">Details</label><textarea id="rnote" maxlength="500" rows="3" placeholder="Optional: tell us more, e.g. which option you think is right and why">' + esc(sh.note || '') + '</textarea>' +
+        (sh.err ? '<p class="inline-err" role="alert">' + esc(sh.err) + '</p>' : '') +
+        '<div class="acts"><button class="btn" data-a="closesheet">Cancel</button><button class="btn primary" data-a="rsend"' + (sh.sending ? ' aria-disabled="true"' : '') + '>' + (sh.sending ? 'Sending…' : 'Send report') + '</button></div>') + '</div></div>';
     }
     if (sh.kind === 'replace') {
       return '<div class="overlay" data-a="closesheet"><div class="sheet" role="dialog" aria-modal="true" aria-labelledby="sh-t" data-stop="1"><h3 id="sh-t">Replace your saved quiz?</h3><p>You have an unfinished quiz in this course. Starting a new one will replace it.</p><div class="acts"><button class="btn" data-a="resume" data-k="' + esc(courseKeyOf(S.route)) + '">Resume saved</button><button class="btn primary" data-a="replacego">Start new</button></div></div></div>';
@@ -728,12 +784,12 @@
       } else {
         ansHtml = '<p class="a">You: ' + (x.ans ? '<span class="' + (x.g.correct ? 'c' : 'y') + '">' + map[x.ans] + '. ' + esc(byKey[x.ans].t) + '</span>' : '<span class="y">Not answered</span>') + '</p>' + '<div class="feedback">' + explainSBA(a, q, x.ans, false) + '</div>';
       }
-      return '<article class="rv ' + st + '"><p class="q">' + (x.i + 1) + '. ' + esc(q.stem) + (x.flag ? ' ★' : '') + '</p>' + figHtml(q, true) + ansHtml + '</article>';
+      return '<article class="rv ' + st + '"><p class="q">' + (x.i + 1) + '. ' + esc(q.stem) + (x.flag ? ' ★' : '') + '</p>' + figHtml(q, true) + ansHtml + reportLink(q.id) + '</article>';
     }).join('');
     return wrap(topbar() + '<nav class="crumbs"><a class="back" href="#/results" aria-label="Back to results">' + I.back + '</a><a href="#/results">Results</a><span class="sep">›</span><span class="here">Review</span></nav><h1>Review answers</h1>' +
       '<div class="filters">' + fbtn('all', 'All ' + a.qids.length) + fbtn('wrong', 'Wrong') + fbtn('flagged', 'Flagged') + '</div>' +
       (items.length ? '<div class="review">' + list + '</div>' : '<p class="empty">' + (f === 'wrong' ? 'Nothing wrong. Clean sheet!' : 'You didn\'t flag any questions.') + '</p>') +
-      '<div class="acts-col"><button class="btn" data-a="retrywrong">Retry wrong ones</button><a class="btn" href="#/results">Back to results</a></div>');
+      '<div class="acts-col"><button class="btn" data-a="retrywrong">Retry wrong ones</button><a class="btn" href="#/results">Back to results</a></div>') + sheetHtml();
   }
   function retryWrong() {
     const L = S.last, a = L.a, d = dataForAttempt(a);
@@ -818,6 +874,9 @@
       case 'jump': { const a = S.attempt; a.idx = parseInt(el.dataset.i, 10) || 0; S.sheet = null; S.inlineErr = ''; persistAttempt(); render(); window.scrollTo(0, 0); break; }
       case 'exit': S.sheet = { kind: 'exit' }; render(); break;
       case 'closesheet': S.sheet = null; render(); break;
+      case 'report': S.sheet = { kind: 'report', id: el.dataset.id, reason: '', note: '' }; render(); break;
+      case 'rreason': { const b = document.getElementById('rnote'); if (b) S.sheet.note = b.value; S.sheet.reason = el.dataset.v; S.sheet.err = ''; render(); break; }
+      case 'rsend': sendReport(); break;
       case 'leave': {
         const a = S.attempt, keep = document.getElementById('keep');
         stopTimer();

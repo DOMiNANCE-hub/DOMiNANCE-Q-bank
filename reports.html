@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<title>Question reports · DOMiNANCE Q Bank</title>
+<style>
+@font-face{font-family:Inter;src:url(fonts/inter.woff2) format("woff2");font-weight:100 900;font-display:swap}
+:root{--bg:#0d1f4f;--bg2:#163276;--panel:rgba(255,255,255,.08);--edge:rgba(255,255,255,.14);--text:#eef3ff;--muted:#a9b8de;--gold:#f6c453;--bad:#ff8a8a;--good:#4ade80}
+*{box-sizing:border-box}
+body{margin:0;min-height:100vh;background:linear-gradient(170deg,var(--bg2),var(--bg) 60%);background-attachment:fixed;color:var(--text);font:15px/1.5 Inter,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:820px;margin:0 auto;padding:18px 16px 60px}
+h1{font-size:24px;margin:6px 0 2px;letter-spacing:-.01em}
+.sub{color:var(--muted);margin:0 0 16px}
+.card{background:var(--panel);border:1px solid var(--edge);border-radius:16px;padding:14px 16px;margin-bottom:10px;backdrop-filter:blur(12px)}
+input,button,select{font:inherit}
+input,select{width:100%;padding:12px 14px;border-radius:12px;border:1px solid var(--edge);background:rgba(0,0,0,.2);color:var(--text)}
+button{cursor:pointer;border-radius:12px;border:1px solid var(--edge);background:var(--panel);color:var(--text);padding:10px 16px;font-weight:600}
+button.primary{background:linear-gradient(180deg,#ffd97a,#f0b022);color:#3a2a00;border:0}
+.row{display:flex;gap:10px;align-items:center}
+.row>*{flex:1}
+.bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:4px 0 14px}
+.chip{display:inline-block;padding:3px 10px;border-radius:999px;font-size:12.5px;font-weight:700;background:rgba(246,196,83,.18);color:var(--gold);border:1px solid rgba(246,196,83,.35)}
+.meta{color:var(--muted);font-size:13px}
+.stem{margin:8px 0 6px;font-weight:600}
+.note{margin:6px 0;padding:8px 10px;border-left:3px solid var(--gold);background:rgba(0,0,0,.15);border-radius:6px;white-space:pre-wrap}
+.head{display:flex;justify-content:space-between;gap:10px;align-items:flex-start}
+.qid{font-family:ui-monospace,Menlo,monospace;font-size:12.5px;color:var(--muted);user-select:all}
+.err{color:var(--bad)}
+.empty{color:var(--muted);text-align:center;padding:30px 0}
+a{color:var(--gold)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>🚩 Question reports</h1>
+  <p class="sub">Reports students sent from the quiz. Tap <b>Done</b> once you've fixed or checked a question.</p>
+  <div id="login" class="card" hidden>
+    <p style="margin-top:0">Enter the reports password.</p>
+    <div class="row"><input id="pw" type="password" autocomplete="current-password" placeholder="Password"><button class="primary" id="go" style="flex:none">Open</button></div>
+    <p id="lerr" class="err" hidden></p>
+  </div>
+  <div id="main" hidden>
+    <div class="bar">
+      <select id="filter" style="flex:1;min-width:180px"></select>
+      <button id="reload">Refresh</button>
+      <button id="logout">Lock</button>
+    </div>
+    <p id="count" class="meta"></p>
+    <div id="list"></div>
+  </div>
+</div>
+<script>
+(function () {
+  var KEY = 'dq.adminKey', items = [], $ = function (id) { return document.getElementById(id); };
+  function esc(s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
+  function key() { try { return localStorage.getItem(KEY) || ''; } catch (e) { return ''; } }
+  function setKey(v) { try { v ? localStorage.setItem(KEY, v) : localStorage.removeItem(KEY); } catch (e) {} }
+  function showLogin(msg) { $('main').hidden = true; $('login').hidden = false; $('lerr').hidden = !msg; $('lerr').textContent = msg || ''; $('pw').focus(); }
+  function when(iso) { var d = new Date(iso); return isNaN(d) ? '' : d.toLocaleString(undefined, { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' }); }
+  function draw() {
+    var f = $('filter').value, shown = items.filter(function (x) { return !f || x.reason === f; });
+    $('count').textContent = shown.length + ' report' + (shown.length === 1 ? '' : 's') + (f ? ' · ' + f : '') + (items.total > items.length ? ' (newest ' + items.length + ' of ' + items.total + ')' : '');
+    $('list').innerHTML = shown.length ? shown.map(function (x, i) {
+      return '<article class="card"><div class="head"><div><span class="chip">' + esc(x.reason) + '</span> <span class="meta">' + esc(when(x.at)) + '</span></div><button data-done="' + esc(x.url) + '">Done</button></div>' +
+        '<p class="stem">' + esc(x.stem || '(question text not sent)') + '</p>' +
+        (x.note ? '<div class="note">' + esc(x.note) + '</div>' : '') +
+        '<p class="meta">' + esc([x.course, x.topic, x.collection].filter(Boolean).join(' · ')) + '</p>' +
+        '<p class="qid">' + esc(x.qid) + '</p></article>';
+    }).join('') : '<p class="empty">No reports. Nice. 🎉</p>';
+  }
+  function load() {
+    $('list').innerHTML = '<p class="empty">Loading…</p>';
+    fetch('/api/reports', { headers: { 'x-admin-key': key() }, cache: 'no-store' }).then(function (r) {
+      if (r.status === 401) { setKey(''); return showLogin('Wrong password.'); }
+      if (r.status === 503) { $('login').hidden = true; $('main').hidden = false; $('list').innerHTML = '<p class="empty">Reports storage isn\'t connected yet.</p>'; return; }
+      return r.json().then(function (j) {
+        if (!j.ok) throw new Error(j.error || 'error');
+        items = j.items || []; items.total = j.total || items.length;
+        var reasons = []; items.forEach(function (x) { if (reasons.indexOf(x.reason) < 0) reasons.push(x.reason); });
+        var cur = $('filter').value;
+        $('filter').innerHTML = '<option value="">All reasons</option>' + reasons.map(function (r) { return '<option' + (r === cur ? ' selected' : '') + '>' + esc(r) + '</option>'; }).join('');
+        $('login').hidden = true; $('main').hidden = false; draw();
+      });
+    }).catch(function () { $('list').innerHTML = '<p class="empty err">Couldn\'t load reports. Check your connection and tap Refresh.</p>'; $('main').hidden = false; $('login').hidden = true; });
+  }
+  $('go').onclick = function () { var v = $('pw').value.trim(); if (!v) return; setKey(v); $('pw').value = ''; load(); };
+  $('pw').onkeydown = function (e) { if (e.key === 'Enter') $('go').click(); };
+  $('reload').onclick = load;
+  $('logout').onclick = function () { setKey(''); showLogin(''); };
+  $('filter').onchange = draw;
+  $('list').onclick = function (e) {
+    var b = e.target.closest('[data-done]'); if (!b) return;
+    b.disabled = true; b.textContent = '…';
+    fetch('/api/reports?url=' + encodeURIComponent(b.dataset.done), { method: 'DELETE', headers: { 'x-admin-key': key() } }).then(function (r) {
+      if (!r.ok) throw 0;
+      items = items.filter(function (x) { return x.url !== b.dataset.done; }); items.total = Math.max(0, (items.total || 1) - 1); draw();
+    }).catch(function () { b.disabled = false; b.textContent = 'Done'; alert('Could not mark it done. Try again.'); });
+  };
+  key() ? load() : showLogin('');
+})();
+</script>
+</body>
+</html>
