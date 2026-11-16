@@ -56,7 +56,7 @@
   };
 
   /* ---------- state ---------- */
-  const S = {
+  const S = { tmap: {},
     catalog: null, comments: {}, cache: {}, route: null,
     attempt: null, last: null, reviewFilter: 'all', sheet: null, fx: null, timerId: null, inlineErr: ''
   };
@@ -177,6 +177,7 @@
     if (S.cache[key]) return S.cache[key];
     const data = { key, course, topics: [], past: [], curated: [] };
     // fetch every file of the course at once (was one after another: slow on mobile data)
+    const groupsP = get('data/topic-groups.json').catch(() => ({ systems: {} }));
     const files = await Promise.all((course.systems || []).map(sys => Promise.all([
       sys.topics ? get(sys.topics) : Promise.resolve([]),
       Promise.all((sys.past || []).map(get)),
@@ -194,6 +195,19 @@
     (course.systems || []).forEach(sys => {
       if ([...data.past, ...data.curated].some(q => q.topic === 'other-' + sys.id)) data.topics.push({ id: 'other-' + sys.id, title: 'Other ' + sys.title + ' questions', short: 'Other', sys: sys.id, sysTitle: sys.title });
     });
+    // merge small related subtopics for display (data/topic-groups.json); questions keep their original topic in q.topic0
+    const groups = (await groupsP).systems || {}, toGroup = {}, made = {}, merged = [];
+    Object.keys(groups).forEach(sid => groups[sid].forEach(g => g.members.forEach(m => { toGroup[sid + '|' + m] = g; })));
+    data.topics.forEach(t => {
+      const g = toGroup[t.sys + '|' + t.id];
+      if (!g) { merged.push(t); return; }
+      const k = t.sys + '|' + g.id;
+      if (!made[k]) { made[k] = { id: g.id, title: g.title, short: g.title, tag: t.tag, sys: t.sys, sysTitle: t.sysTitle, includes: [] }; merged.push(made[k]); }
+      made[k].includes.push({ id: t.id, title: t.title });
+      S.tmap[t.id] = g.id;
+    });
+    data.topics = merged;
+    [...data.past, ...data.curated].forEach(q => { const g = toGroup[q.sys + '|' + q.topic]; if (g) { q.topic0 = q.topic; q.topic = g.id; } });
     data.byId = {};
     [...data.past, ...data.curated].forEach(q => { data.byId[q.id] = q; });
     S.cache[key] = data;
@@ -232,7 +246,7 @@
 
   /* ---------- selected topics (remembered per course + collection) ---------- */
   function selKey(r) { return 'dq.sel.' + courseKeyOf(r) + '.' + r.coll; }
-  function getSel(r) { return store.get(selKey(r), []); }
+  function getSel(r) { return [...new Set(store.get(selKey(r), []).map(id => S.tmap[id] || id))]; }
   function putSel(r, v) { store.set(selKey(r), v); }
   function pool(data, coll, topicIds) { const set = new Set(topicIds); return data[coll].filter(q => set.has(q.topic)); }
 
@@ -369,17 +383,19 @@
         }).join('') + '</div>';
       head = crumbs(trail(r, 'topics')) + '<h1>' + COLL[r.coll] + '</h1>';
       lead = 'Open a system to pick topics. You can pick from more than one.';
+      var sysLevel = true;
     } else {
       const list = cur ? cur.topics : topics;
       const all = list.every(t => sel.has(t.id));
       const allBtn = cur ? '<button class="folder all" data-a="topicall" data-sys="' + esc(cur.id) + '" aria-pressed="' + all + '"><span class="tick">' + I.check + '</span><span class="fi">' + I.folders + '</span><span class="ft">All ' + esc(cur.title) + '</span><span class="fc">' + qn(sum(list)) + '</span></button>' : '';
       html = '<div class="folders big" role="group" aria-label="Topics">' + allBtn +
-        list.map((t, i) => (t.tag && (i === 0 || !list[i - 1].tag) ? '</div><div class="syshead">From ' + esc(t.tag) + '</div><div class="folders big" role="group">' : '') + '<button class="folder" data-a="topic" data-id="' + esc(t.id) + '" aria-pressed="' + sel.has(t.id) + '"><span class="tick">' + I.check + '</span><span class="ft" title="' + esc(t.title) + '">' + esc(t.title) + '</span><span class="fc">' + qn(counts[t.id]) + '</span></button>').join('') + '</div>';
+        list.map((t, i) => (t.tag && (i === 0 || !list[i - 1].tag) ? '</div><div class="syshead">From ' + esc(t.tag) + '</div><div class="folders big" role="group">' : '') + '<div class="fwrap' + (t.includes ? ' hasinfo' : '') + '"><button class="folder" data-a="topic" data-id="' + esc(t.id) + '" aria-pressed="' + sel.has(t.id) + '"><span class="tick">' + I.check + '</span><span class="ft">' + esc(t.title) + '</span><span class="fc">' + qn(counts[t.id]) + '</span></button>' + (t.includes ? '<button class="tinfo" data-a="tinfo" data-id="' + esc(t.id) + '" aria-label="What\'s included in ' + esc(t.title) + '?">i</button>' : '') + '</div>').join('') + '</div>' + sheetHtml();
       head = cur ? crumbs(trail(r, 'sys')) + '<h1>' + esc(cur.title) + '</h1>' : crumbs(trail(r, 'topics')) + '<h1>' + COLL[r.coll] + '</h1>';
       lead = 'Pick one or more topics.';
     }
     const dock = '<div class="dock"><div class="in"><div class="info">' + (sel.size ? '<b>' + sel.size + ' topic' + (sel.size === 1 ? '' : 's') + '</b> · ' + n + ' questions' : 'Pick one or more topics') + '</div><button class="btn primary" data-a="continue">Continue</button></div></div>';
-    return wrap(topbar() + head + '<p class="lead">' + lead + '</p>' + html) + dock;
+    // on the list of systems there is nothing to tick, so the bar only appears once topics inside have been picked
+    return wrap(topbar() + head + '<p class="lead">' + lead + '</p>' + html) + (sysLevel && !sel.size ? '' : dock);
   }
 
   /* ---------- view: setup ---------- */
@@ -397,7 +413,8 @@
     const planned = st.count === 'all' ? n : st.count === 'custom' ? (parseInt(st.custom, 10) || 0) : st.count;
     const body =
       '<section class="card"><div class="setup-head"><div><h1 style="font-size:22px">Quiz setup</h1></div>' +
-      '<label class="xpo" title="DOMiNANCE EXPERIENCE: streaks, reactions, confetti and comments"><input type="checkbox" data-a="xpo"' + (st.xpo ? ' checked' : '') + '>DMC XPO</label></div>' +
+      '<span class="dmcrow"><label class="xpo"><input type="checkbox" data-a="xpo"' + (st.xpo ? ' checked' : '') + '><span aria-hidden="true">🕶️</span> Agent DMC</label><button class="tinfo inl" data-a="dmcinfo" aria-label="What does Agent DMC do?">i</button></span></div>' +
+      '<p class="dmcsub">' + (st.xpo ? 'Agent DMC reacts as you answer: comments, streaks and a verdict at the end.' : 'Agent DMC is off: no comments, streaks or verdict.') + '</p>' +
       '<div class="topicchips">' + shown + ' <button class="linkbtn" data-a="changetopics">Change</button></div>' +
       '<div class="field"><span class="lbl">How many questions?</span><div class="chips">' + chip('all', 'All ' + n) + countOptions(n).map(v => chip(v, v)).join('') + chip('custom', 'Custom') + '</div>' +
       (st.count === 'custom' ? '<div class="inline"><label for="custom" class="sr">Number of questions</label><input id="custom" class="num" type="number" inputmode="numeric" min="1" max="' + n + '" step="1" value="' + esc(st.custom) + '" placeholder="15"><span class="empty">of ' + n + '</span></div>' : '') +
@@ -408,7 +425,7 @@
       (st.timer === 'custom' ? '<div class="inline"><label for="tmin" class="sr">Minutes</label><input id="tmin" class="num" type="number" inputmode="numeric" min="1" max="300" step="1" value="' + esc(st.timerMin) + '"><span class="empty">minutes</span></div>' : '') + '</div>' +
       '</section>';
     const dock = '<div class="dock"><div class="in"><div class="info"><b>' + (planned > 0 ? planned : '—') + ' question' + (planned === 1 ? '' : 's') + '</b> · ' + (st.marking === 'go' ? 'Mark as you go' : 'Submit at the end') + '</div><button class="btn primary" data-a="start">Start quiz</button></div></div>';
-    return wrap(topbar() + crumbs(trail(r, 'setup')) + body) + dock;
+    return wrap(topbar() + crumbs(trail(r, 'setup')) + body) + dock + sheetHtml();
   }
 
   /* ---------- building an attempt ---------- */
@@ -591,13 +608,25 @@
         (sh.err ? '<p class="inline-err" role="alert">' + esc(sh.err) + '</p>' : '') +
         '<div class="acts"><button class="btn" data-a="closesheet">Cancel</button><button class="btn primary" data-a="rsend"' + (sh.sending ? ' aria-disabled="true"' : '') + '>' + (sh.sending ? 'Sending…' : 'Send report') + '</button></div>') + '</div></div>';
     }
+    if (sh.kind === 'dmcinfo') {
+      return '<div class="overlay" data-a="closesheet"><div class="sheet tinfo-sheet" role="dialog" aria-modal="true" aria-labelledby="sh-t" data-stop="1"><h3 id="sh-t">🕶️ Agent DMC</h3><p>The mind behind the Q bank. He set the questions, he knows the answers, and he has jokes. When he\'s on, you get:</p><ul class="inc">' +
+        ['Short comments at big moments, like streaks, halfway and the last question', 'A streak counter when you get 3 or more right in a row', 'His verdict and your longest streak on the results screen', 'Confetti when you score 80% or more'].map(x => '<li><span>' + x + '</span></li>').join('') +
+        '</ul><p>Switch him off for a quiet quiz. Marking, explanations and the timer work the same either way.</p><div class="acts"><button class="btn primary" data-a="closesheet">Got it</button></div></div></div>';
+    }
+    if (sh.kind === 'tinfo') {
+      const d = currentData(), t = d && d.topics.find(x => x.id === sh.id); if (!t || !t.includes) return '';
+      const n = {}; d[S.route.coll].forEach(q => { if (q.topic === t.id) n[q.topic0] = (n[q.topic0] || 0) + 1; });
+      return '<div class="overlay" data-a="closesheet"><div class="sheet tinfo-sheet" role="dialog" aria-modal="true" aria-labelledby="sh-t" data-stop="1"><h3 id="sh-t">' + esc(t.title) + '</h3><p>What\'s included?</p><ul class="inc">' +
+        t.includes.filter(m => n[m.id]).map(m => '<li><span>' + esc(m.title) + '</span><span class="n">' + (n[m.id] || 0) + '</span></li>').join('') +
+        '</ul><div class="acts"><button class="btn primary" data-a="closesheet">Got it</button></div></div></div>';
+    }
     if (sh.kind === 'replace') {
       return '<div class="overlay" data-a="closesheet"><div class="sheet" role="dialog" aria-modal="true" aria-labelledby="sh-t" data-stop="1"><h3 id="sh-t">Replace your saved quiz?</h3><p>You have an unfinished quiz in this course. Starting a new one will replace it.</p><div class="acts"><button class="btn" data-a="resume" data-k="' + esc(courseKeyOf(S.route)) + '">Resume saved</button><button class="btn primary" data-a="replacego">Start new</button></div></div></div>';
     }
     return '';
   }
 
-  /* ---------- answering + DMC XPO ---------- */
+  /* ---------- answering + Agent DMC (setting key: xpo) ---------- */
   function markQuestion(q) {
     const a = S.attempt; if (a.marked[q.id]) return;
     a.marked[q.id] = true; a.markCount++;
@@ -696,7 +725,9 @@
     const a = S.attempt, nav = c.group === 'halfway' || c.group === 'lastQuestion';
     if (nav) { if (document.querySelector('.bubble')) return; }
     else { const gap = a.markCount - a.lastComment; if (!(gap >= 5 || (c.priority && gap >= 3))) return; }
-    const lines = (S.comments[c.group] || []).filter(l => a.used.indexOf(l) < 0);
+    // JayTee teaches gross anatomy only, so his lines (and "gross class") stay in gross anatomy questions
+    const cq = currentData() && currentData().byId[a.qids[a.idx]], gross = !!cq && cq.sys === 'gross';
+    const lines = (S.comments[c.group] || []).filter(l => a.used.indexOf(l) < 0 && (gross || !/JayTee|gross class/i.test(l)));
     if (!lines.length) return;
     const line = pick(lines); a.used.push(line); if (!nav) a.lastComment = a.markCount; persistAttempt();
     clearTimeout(S.bubbleT); S.bubbleT = setTimeout(() => { if (S.route && S.route.view === 'quiz' && !S.sheet) bubble(line); }, nav ? 150 : 550);
@@ -837,7 +868,16 @@
     document.body.dataset.view = r.view;
     const vk = r.view + (r.view === 'quiz' && S.attempt ? ':' + S.attempt.idx : '') + (r.view !== 'quiz' ? location.hash : '');
     $app.innerHTML = html;
-    if (vk !== S.lastVk) { const m = $app.firstElementChild; if (m) m.classList.add('enter'); S.lastVk = vk; }
+    if (vk !== S.lastVk) {
+      const was = S.lastVk || '', m = $app.firstElementChild;
+      if (r.view === 'quiz' && was.indexOf('quiz:') === 0) {
+        // next/previous question: the frame stays still, only the question card slides
+        const from = parseInt(was.slice(5), 10), to = S.attempt.idx, card = document.getElementById('qcard'), bar = document.querySelector('.progress div'), n = S.attempt.qids.length;
+        if (card && !reduceMotion()) card.classList.add(to >= from ? 'slide-next' : 'slide-prev');
+        if (bar && !reduceMotion()) { const w = bar.style.width; bar.style.transition = 'none'; bar.style.width = Math.round((from + 1) / n * 100) + '%'; void bar.offsetWidth; bar.style.transition = ''; bar.style.width = w; }
+      } else if (m) m.classList.add('enter');
+      S.lastVk = vk;
+    }
     if (S.sheet) clearBubbles();
     if (r.view === 'quiz') { runFx(); prefetchFigs(S.attempt); }
     if (r.view === 'results' && S.last && S.last.celebrate) {
@@ -848,7 +888,16 @@
   }
 
   /* ---------- events ---------- */
+  let lpT = 0, lpFired = false;
+  document.addEventListener('pointerdown', e => {
+    const w = e.target.closest('.fwrap.hasinfo'); clearTimeout(lpT); lpFired = false; if (!w || e.target.closest('.tinfo')) return;
+    const id = w.querySelector('.tinfo').dataset.id;
+    lpT = setTimeout(() => { lpFired = true; S.sheet = { kind: 'tinfo', id }; render(); }, 550);
+  });
+  ['pointerup', 'pointercancel', 'pointermove', 'scroll'].forEach(ev => document.addEventListener(ev, e => { if (ev !== 'pointermove' || Math.abs(e.movementX) + Math.abs(e.movementY) > 6) clearTimeout(lpT); }, true));
+  document.addEventListener('contextmenu', e => { if (e.target.closest('.fwrap.hasinfo')) e.preventDefault(); });
   document.addEventListener('click', e => {
+    if (lpFired) { lpFired = false; e.preventDefault(); return; }
     const el = e.target.closest('[data-a]'); if (!el) return;
     const act = el.dataset.a;
     if (act === 'closesheet' && el.classList.contains('overlay') && e.target !== el) return; // click inside sheet
@@ -892,6 +941,8 @@
       case 'jump': { const a = S.attempt; a.idx = parseInt(el.dataset.i, 10) || 0; S.sheet = null; S.inlineErr = ''; persistAttempt(); render(); window.scrollTo(0, 0); break; }
       case 'exit': S.sheet = { kind: 'exit' }; render(); break;
       case 'closesheet': S.sheet = null; render(); break;
+      case 'dmcinfo': S.sheet = { kind: 'dmcinfo' }; render(); { const b = document.querySelector('.sheet .btn'); if (b) b.focus(); } break;
+      case 'tinfo': S.sheet = { kind: 'tinfo', id: el.dataset.id }; render(); { const b = document.querySelector('.sheet .btn'); if (b) b.focus(); } break;
       case 'report': S.sheet = { kind: 'report', id: el.dataset.id, reason: '', note: '' }; render(); break;
       case 'rreason': { const b = document.getElementById('rnote'); if (b) S.sheet.note = b.value; S.sheet.reason = el.dataset.v; S.sheet.err = ''; render(); break; }
       case 'rsend': sendReport(); break;
