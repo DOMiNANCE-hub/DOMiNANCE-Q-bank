@@ -609,7 +609,7 @@
         '<div class="acts"><button class="btn" data-a="closesheet">Cancel</button><button class="btn primary" data-a="rsend"' + (sh.sending ? ' aria-disabled="true"' : '') + '>' + (sh.sending ? 'Sending…' : 'Send report') + '</button></div>') + '</div></div>';
     }
     if (sh.kind === 'dmcinfo') {
-      return '<div class="overlay" data-a="closesheet"><div class="sheet tinfo-sheet" role="dialog" aria-modal="true" aria-labelledby="sh-t" data-stop="1"><h3 id="sh-t">🕶️ Agent DMC</h3><p>Your senior in the quiz. When he\'s on, you get:</p><ul class="inc">' +
+      return '<div class="overlay" data-a="closesheet"><div class="sheet tinfo-sheet" role="dialog" aria-modal="true" aria-labelledby="sh-t" data-stop="1"><h3 id="sh-t">🕶️ Agent DMC</h3><p>The mind behind the Q bank. He set the questions, he knows the answers, and he has jokes. When he\'s on, you get:</p><ul class="inc">' +
         ['Short comments at big moments, like streaks, halfway and the last question', 'A streak counter when you get 3 or more right in a row', 'His verdict and your longest streak on the results screen', 'Confetti when you score 80% or more'].map(x => '<li><span>' + x + '</span></li>').join('') +
         '</ul><p>Switch him off for a quiet quiz. Marking, explanations and the timer work the same either way.</p><div class="acts"><button class="btn primary" data-a="closesheet">Got it</button></div></div></div>';
     }
