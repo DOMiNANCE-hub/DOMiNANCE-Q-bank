@@ -866,7 +866,16 @@
     document.body.dataset.view = r.view;
     const vk = r.view + (r.view === 'quiz' && S.attempt ? ':' + S.attempt.idx : '') + (r.view !== 'quiz' ? location.hash : '');
     $app.innerHTML = html;
-    if (vk !== S.lastVk) { const m = $app.firstElementChild; if (m) m.classList.add('enter'); S.lastVk = vk; }
+    if (vk !== S.lastVk) {
+      const was = S.lastVk || '', m = $app.firstElementChild;
+      if (r.view === 'quiz' && was.indexOf('quiz:') === 0) {
+        // next/previous question: the frame stays still, only the question card slides
+        const from = parseInt(was.slice(5), 10), to = S.attempt.idx, card = document.getElementById('qcard'), bar = document.querySelector('.progress div'), n = S.attempt.qids.length;
+        if (card && !reduceMotion()) card.classList.add(to >= from ? 'slide-next' : 'slide-prev');
+        if (bar && !reduceMotion()) { const w = bar.style.width; bar.style.transition = 'none'; bar.style.width = Math.round((from + 1) / n * 100) + '%'; void bar.offsetWidth; bar.style.transition = ''; bar.style.width = w; }
+      } else if (m) m.classList.add('enter');
+      S.lastVk = vk;
+    }
     if (S.sheet) clearBubbles();
     if (r.view === 'quiz') { runFx(); prefetchFigs(S.attempt); }
     if (r.view === 'results' && S.last && S.last.celebrate) {
