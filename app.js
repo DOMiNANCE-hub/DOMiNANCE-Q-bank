@@ -383,6 +383,7 @@
         }).join('') + '</div>';
       head = crumbs(trail(r, 'topics')) + '<h1>' + COLL[r.coll] + '</h1>';
       lead = 'Open a system to pick topics. You can pick from more than one.';
+      var sysLevel = true;
     } else {
       const list = cur ? cur.topics : topics;
       const all = list.every(t => sel.has(t.id));
@@ -393,7 +394,8 @@
       lead = 'Pick one or more topics.';
     }
     const dock = '<div class="dock"><div class="in"><div class="info">' + (sel.size ? '<b>' + sel.size + ' topic' + (sel.size === 1 ? '' : 's') + '</b> · ' + n + ' questions' : 'Pick one or more topics') + '</div><button class="btn primary" data-a="continue">Continue</button></div></div>';
-    return wrap(topbar() + head + '<p class="lead">' + lead + '</p>' + html) + dock;
+    // on the list of systems there is nothing to tick, so the bar only appears once topics inside have been picked
+    return wrap(topbar() + head + '<p class="lead">' + lead + '</p>' + html) + (sysLevel && !sel.size ? '' : dock);
   }
 
   /* ---------- view: setup ---------- */
