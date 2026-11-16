@@ -299,7 +299,7 @@
         ? '<a class="year' + (y.id === mine ? ' mine' : '') + '" href="#/' + y.id + '"><b>' + esc(y.title) + '</b><span>' + esc(y.subtitle) + '</span></a>'
         : '<div class="year soon" aria-disabled="true"><b>' + esc(y.title) + '</b><span>' + esc(y.subtitle) + '</span><span class="badge" style="margin-top:6px;align-self:flex-start">Soon</span></div>';
     }).join('');
-    return wrap(topbar() + '<section class="hero"><h1>Become the doctor you\'re <span>studying&nbsp;to&nbsp;be.</span></h1><p class="lead">Past questions and DOMiNANCE Originals, sorted by topic, with every answer explained.</p></section>' +
+    return wrap(topbar() + '<section class="hero"><h1>Study, Practise, <span>Excel.</span></h1><p class="lead">Past questions and DOMiNANCE Originals, sorted by topic, with every answer explained.</p></section>' +
       resumeCards() + '<h2>Choose your year</h2><div class="years">' + years + '</div>', true);
   }
 
@@ -341,7 +341,7 @@
     const y = yearById(r.year);
     let body;
     if (y.semesters) {
-      body = '<div class="list">' + y.semesters.map(s => '<a class="row" href="#/' + y.id + '/' + s.id + '"><span class="ico">' + I.cal + '</span><span class="txt"><span class="t">' + esc(s.title) + '</span><span class="s">' + ((s.courses || []).length ? (s.courses.length + ' courses') : 'Coming soon') + '</span></span><span class="chev">' + I.chev + '</span></a>').join('') + '</div>';
+      body = '<div class="list">' + y.semesters.map(s => '<a class="row" href="#/' + y.id + '/' + s.id + '"><span class="ico">' + I.cal + '</span><span class="txt"><span class="t">' + esc(s.title) + '</span><span class="s">' + ((s.courses || []).length ? (s.courses.length + ' course' + (s.courses.length === 1 ? '' : 's')) : 'Coming soon') + '</span></span><span class="chev">' + I.chev + '</span></a>').join('') + '</div>';
     } else body = courseRows(r, y.courses || []);
     return wrap(topbar() + crumbs(trail(r, 'year')) + '<h1>' + esc(y.title) + ' · ' + esc(y.subtitle) + '</h1><p class="lead">' + (y.semesters ? 'Pick a semester.' : 'Pick a course.') + ' <button class="linkbtn" data-a="changeyear">Change year</button></p>' + resumeCards() + body);
   }
