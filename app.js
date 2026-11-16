@@ -752,18 +752,23 @@
   window.DQ_bubble = bubble; // handy for testing the comment animation
   function toast(text) { document.querySelectorAll('.toast').forEach(b => b.remove()); const b = document.createElement('div'); b.className = 'toast'; b.setAttribute('role', 'status'); b.textContent = text; document.body.appendChild(b); setTimeout(() => b.remove(), 2500); }
   function confetti(count, anchor) {
-    if (reduceMotion()) return;
+    // Respect reduced motion with a gentle burst (fewer pieces, small pop, no spin, quick fade)
+    // rather than nothing at all, so the celebration still lands.
+    const calm = reduceMotion();
     const colors = ['#ffc745', '#2fbf71', '#7fa6ff', '#ef5b6e', '#ffffff'];
     let x = window.innerWidth / 2, y = window.innerHeight / 3;
     if (anchor && anchor.getBoundingClientRect) { const r = anchor.getBoundingClientRect(); x = r.left + r.width / 2; y = r.top + r.height / 2; }
-    for (let i = 0; i < count; i++) {
+    const n = calm ? Math.min(count, 16) : count;
+    for (let i = 0; i < n; i++) {
       const p = document.createElement('span'); p.className = 'conf';
       p.style.left = x + 'px'; p.style.top = y + 'px'; p.style.background = colors[i % colors.length];
       document.body.appendChild(p);
-      const ang = Math.random() * Math.PI * 2, dist = 60 + Math.random() * (count > 30 ? 260 : 120);
-      const dx = Math.cos(ang) * dist, dy = Math.sin(ang) * dist - 40;
-      p.animate([{ transform: 'translate(-50%,-50%) rotate(0)', opacity: 1 }, { transform: 'translate(calc(-50% + ' + dx + 'px), calc(-50% + ' + (dy + 120) + 'px)) rotate(' + (Math.random() * 540) + 'deg)', opacity: 0 }], { duration: 900 + Math.random() * 600, easing: 'cubic-bezier(.2,.7,.3,1)' });
-      setTimeout(() => p.remove(), 1600);
+      const ang = Math.random() * Math.PI * 2;
+      const dist = calm ? 18 + Math.random() * 34 : 60 + Math.random() * (count > 30 ? 260 : 120);
+      const dx = Math.cos(ang) * dist, dy = Math.sin(ang) * dist - (calm ? 8 : 40);
+      const fall = calm ? 18 : 120, rot = calm ? 0 : Math.random() * 540;
+      p.animate([{ transform: 'translate(-50%,-50%) rotate(0)', opacity: 1 }, { transform: 'translate(calc(-50% + ' + dx + 'px), calc(-50% + ' + (dy + fall) + 'px)) rotate(' + rot + 'deg)', opacity: 0 }], { duration: calm ? 650 : 900 + Math.random() * 600, easing: 'cubic-bezier(.2,.7,.3,1)' });
+      setTimeout(() => p.remove(), calm ? 800 : 1600);
     }
   }
 
