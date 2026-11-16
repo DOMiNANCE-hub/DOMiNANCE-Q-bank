@@ -476,3 +476,21 @@ body:before,body:after{content:none!important;display:none!important}
 .bubble .bn{color:var(--gold-solid,#f6c453);letter-spacing:.2px}
 [data-theme="light"] .bubble .bn{color:#a26b00}
 .verdict{font-size:12px;font-weight:750;letter-spacing:.3px;color:var(--gold-solid);margin-bottom:3px}
+/* ---- merged subtopics: info button + "What's included?" sheet ---- */
+.fwrap{position:relative;display:flex;min-width:0}
+.fwrap>.folder{flex:1;min-width:0;width:100%}
+.tinfo{position:absolute;right:10px;bottom:10px;width:30px;height:30px;border-radius:50%;border:1.5px solid var(--edge2);background:var(--panel2,rgba(255,255,255,.06));color:var(--muted);font:italic 700 15px/1 Georgia,"Times New Roman",serif;display:grid;place-items:center;cursor:pointer}
+.tinfo:hover,.tinfo:focus-visible{color:var(--gold-solid);border-color:var(--gold-solid)}
+.tinfo:before{content:'';position:absolute;inset:-8px}
+.fwrap.hasinfo>.folder{-webkit-touch-callout:none;-webkit-user-select:none;user-select:none}
+.inc{list-style:none;margin:4px 0 14px;padding:0}
+.inc li{display:flex;justify-content:space-between;gap:14px;padding:10px 0;border-bottom:1px solid var(--edge);font-size:15px}
+.inc li:last-child{border-bottom:0}
+.inc .n{flex:none;color:var(--muted);font-variant-numeric:tabular-nums}
+@media (max-width:700px){
+  .tinfo{top:50%;bottom:auto;right:52px;transform:translateY(-50%)}
+  .big .fwrap.hasinfo>.folder,.big .fwrap.hasinfo>.folder[data-a="topic"]{padding-right:94px}
+  .big .fwrap.hasinfo>.folder[aria-pressed="true"]{padding-right:93px}
+  .big .fwrap.hasinfo .fc{max-width:30%}
+}
+@media (min-width:701px){.fwrap>.folder .ft{padding-right:26px}}

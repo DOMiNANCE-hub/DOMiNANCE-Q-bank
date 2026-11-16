@@ -2,7 +2,7 @@
    Pages and code: network first, cached copy when offline. Question files: cache first with background refresh
    (the cache name changes with every release, so new questions arrive on the next visit).
    Images: cache first (file names never change once published). */
-const CACHE = 'dq-v16';
+const CACHE = 'dq-v17';
 self.addEventListener('install', e => { self.skipWaiting(); e.waitUntil(caches.open(CACHE).then(c => c.addAll(['./', './index.html', './styles.css', './app.js', './data/catalog.json', './fonts/inter.woff2', './fonts/anton.woff2']).catch(() => {}))); });
 self.addEventListener('activate', e => { e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k)))).then(() => self.clients.claim())); });
 self.addEventListener('fetch', e => {

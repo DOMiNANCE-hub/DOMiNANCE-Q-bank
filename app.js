@@ -56,7 +56,7 @@
   };
 
   /* ---------- state ---------- */
-  const S = {
+  const S = { tmap: {},
     catalog: null, comments: {}, cache: {}, route: null,
     attempt: null, last: null, reviewFilter: 'all', sheet: null, fx: null, timerId: null, inlineErr: ''
   };
@@ -177,6 +177,7 @@
     if (S.cache[key]) return S.cache[key];
     const data = { key, course, topics: [], past: [], curated: [] };
     // fetch every file of the course at once (was one after another: slow on mobile data)
+    const groupsP = get('data/topic-groups.json').catch(() => ({ systems: {} }));
     const files = await Promise.all((course.systems || []).map(sys => Promise.all([
       sys.topics ? get(sys.topics) : Promise.resolve([]),
       Promise.all((sys.past || []).map(get)),
@@ -194,6 +195,19 @@
     (course.systems || []).forEach(sys => {
       if ([...data.past, ...data.curated].some(q => q.topic === 'other-' + sys.id)) data.topics.push({ id: 'other-' + sys.id, title: 'Other ' + sys.title + ' questions', short: 'Other', sys: sys.id, sysTitle: sys.title });
     });
+    // merge small related subtopics for display (data/topic-groups.json); questions keep their original topic in q.topic0
+    const groups = (await groupsP).systems || {}, toGroup = {}, made = {}, merged = [];
+    Object.keys(groups).forEach(sid => groups[sid].forEach(g => g.members.forEach(m => { toGroup[sid + '|' + m] = g; })));
+    data.topics.forEach(t => {
+      const g = toGroup[t.sys + '|' + t.id];
+      if (!g) { merged.push(t); return; }
+      const k = t.sys + '|' + g.id;
+      if (!made[k]) { made[k] = { id: g.id, title: g.title, short: g.title, tag: t.tag, sys: t.sys, sysTitle: t.sysTitle, includes: [] }; merged.push(made[k]); }
+      made[k].includes.push({ id: t.id, title: t.title });
+      S.tmap[t.id] = g.id;
+    });
+    data.topics = merged;
+    [...data.past, ...data.curated].forEach(q => { const g = toGroup[q.sys + '|' + q.topic]; if (g) { q.topic0 = q.topic; q.topic = g.id; } });
     data.byId = {};
     [...data.past, ...data.curated].forEach(q => { data.byId[q.id] = q; });
     S.cache[key] = data;
@@ -232,7 +246,7 @@
 
   /* ---------- selected topics (remembered per course + collection) ---------- */
   function selKey(r) { return 'dq.sel.' + courseKeyOf(r) + '.' + r.coll; }
-  function getSel(r) { return store.get(selKey(r), []); }
+  function getSel(r) { return [...new Set(store.get(selKey(r), []).map(id => S.tmap[id] || id))]; }
   function putSel(r, v) { store.set(selKey(r), v); }
   function pool(data, coll, topicIds) { const set = new Set(topicIds); return data[coll].filter(q => set.has(q.topic)); }
 
@@ -374,7 +388,7 @@
       const all = list.every(t => sel.has(t.id));
       const allBtn = cur ? '<button class="folder all" data-a="topicall" data-sys="' + esc(cur.id) + '" aria-pressed="' + all + '"><span class="tick">' + I.check + '</span><span class="fi">' + I.folders + '</span><span class="ft">All ' + esc(cur.title) + '</span><span class="fc">' + qn(sum(list)) + '</span></button>' : '';
       html = '<div class="folders big" role="group" aria-label="Topics">' + allBtn +
-        list.map((t, i) => (t.tag && (i === 0 || !list[i - 1].tag) ? '</div><div class="syshead">From ' + esc(t.tag) + '</div><div class="folders big" role="group">' : '') + '<button class="folder" data-a="topic" data-id="' + esc(t.id) + '" aria-pressed="' + sel.has(t.id) + '"><span class="tick">' + I.check + '</span><span class="ft" title="' + esc(t.title) + '">' + esc(t.title) + '</span><span class="fc">' + qn(counts[t.id]) + '</span></button>').join('') + '</div>';
+        list.map((t, i) => (t.tag && (i === 0 || !list[i - 1].tag) ? '</div><div class="syshead">From ' + esc(t.tag) + '</div><div class="folders big" role="group">' : '') + '<div class="fwrap' + (t.includes ? ' hasinfo' : '') + '"><button class="folder" data-a="topic" data-id="' + esc(t.id) + '" aria-pressed="' + sel.has(t.id) + '"><span class="tick">' + I.check + '</span><span class="ft">' + esc(t.title) + '</span><span class="fc">' + qn(counts[t.id]) + '</span></button>' + (t.includes ? '<button class="tinfo" data-a="tinfo" data-id="' + esc(t.id) + '" aria-label="What\'s included in ' + esc(t.title) + '?">i</button>' : '') + '</div>').join('') + '</div>' + sheetHtml();
       head = cur ? crumbs(trail(r, 'sys')) + '<h1>' + esc(cur.title) + '</h1>' : crumbs(trail(r, 'topics')) + '<h1>' + COLL[r.coll] + '</h1>';
       lead = 'Pick one or more topics.';
     }
@@ -590,6 +604,13 @@
         '<label for="rnote" class="sr">Details</label><textarea id="rnote" maxlength="500" rows="3" placeholder="Optional: tell us more, e.g. which option you think is right and why">' + esc(sh.note || '') + '</textarea>' +
         (sh.err ? '<p class="inline-err" role="alert">' + esc(sh.err) + '</p>' : '') +
         '<div class="acts"><button class="btn" data-a="closesheet">Cancel</button><button class="btn primary" data-a="rsend"' + (sh.sending ? ' aria-disabled="true"' : '') + '>' + (sh.sending ? 'Sending…' : 'Send report') + '</button></div>') + '</div></div>';
+    }
+    if (sh.kind === 'tinfo') {
+      const d = currentData(), t = d && d.topics.find(x => x.id === sh.id); if (!t || !t.includes) return '';
+      const n = {}; d[S.route.coll].forEach(q => { if (q.topic === t.id) n[q.topic0] = (n[q.topic0] || 0) + 1; });
+      return '<div class="overlay" data-a="closesheet"><div class="sheet tinfo-sheet" role="dialog" aria-modal="true" aria-labelledby="sh-t" data-stop="1"><h3 id="sh-t">' + esc(t.title) + '</h3><p>What\'s included?</p><ul class="inc">' +
+        t.includes.filter(m => n[m.id]).map(m => '<li><span>' + esc(m.title) + '</span><span class="n">' + (n[m.id] || 0) + '</span></li>').join('') +
+        '</ul><div class="acts"><button class="btn primary" data-a="closesheet">Got it</button></div></div></div>';
     }
     if (sh.kind === 'replace') {
       return '<div class="overlay" data-a="closesheet"><div class="sheet" role="dialog" aria-modal="true" aria-labelledby="sh-t" data-stop="1"><h3 id="sh-t">Replace your saved quiz?</h3><p>You have an unfinished quiz in this course. Starting a new one will replace it.</p><div class="acts"><button class="btn" data-a="resume" data-k="' + esc(courseKeyOf(S.route)) + '">Resume saved</button><button class="btn primary" data-a="replacego">Start new</button></div></div></div>';
@@ -848,7 +869,16 @@
   }
 
   /* ---------- events ---------- */
+  let lpT = 0, lpFired = false;
+  document.addEventListener('pointerdown', e => {
+    const w = e.target.closest('.fwrap.hasinfo'); clearTimeout(lpT); lpFired = false; if (!w || e.target.closest('.tinfo')) return;
+    const id = w.querySelector('.tinfo').dataset.id;
+    lpT = setTimeout(() => { lpFired = true; S.sheet = { kind: 'tinfo', id }; render(); }, 550);
+  });
+  ['pointerup', 'pointercancel', 'pointermove', 'scroll'].forEach(ev => document.addEventListener(ev, e => { if (ev !== 'pointermove' || Math.abs(e.movementX) + Math.abs(e.movementY) > 6) clearTimeout(lpT); }, true));
+  document.addEventListener('contextmenu', e => { if (e.target.closest('.fwrap.hasinfo')) e.preventDefault(); });
   document.addEventListener('click', e => {
+    if (lpFired) { lpFired = false; e.preventDefault(); return; }
     const el = e.target.closest('[data-a]'); if (!el) return;
     const act = el.dataset.a;
     if (act === 'closesheet' && el.classList.contains('overlay') && e.target !== el) return; // click inside sheet
@@ -892,6 +922,7 @@
       case 'jump': { const a = S.attempt; a.idx = parseInt(el.dataset.i, 10) || 0; S.sheet = null; S.inlineErr = ''; persistAttempt(); render(); window.scrollTo(0, 0); break; }
       case 'exit': S.sheet = { kind: 'exit' }; render(); break;
       case 'closesheet': S.sheet = null; render(); break;
+      case 'tinfo': S.sheet = { kind: 'tinfo', id: el.dataset.id }; render(); { const b = document.querySelector('.sheet .btn'); if (b) b.focus(); } break;
       case 'report': S.sheet = { kind: 'report', id: el.dataset.id, reason: '', note: '' }; render(); break;
       case 'rreason': { const b = document.getElementById('rnote'); if (b) S.sheet.note = b.value; S.sheet.reason = el.dataset.v; S.sheet.err = ''; render(); break; }
       case 'rsend': sendReport(); break;
