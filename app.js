@@ -245,9 +245,10 @@
   function dataForAttempt(a) { return S.cache[a.courseKey]; }
 
   /* ---------- selected topics (remembered per course + collection) ---------- */
-  function selKey(r) { return 'dq.sel.' + courseKeyOf(r) + '.' + r.coll; }
-  function getSel(r) { return [...new Set(store.get(selKey(r), []).map(id => S.tmap[id] || id))]; }
-  function putSel(r, v) { store.set(selKey(r), v); }
+  const SELMEM = {};
+  function selKey(r) { return courseKeyOf(r) + '.' + r.coll; }
+  function getSel(r) { return [...new Set((SELMEM[selKey(r)] || []).map(id => S.tmap[id] || id))]; }
+  function putSel(r, v) { SELMEM[selKey(r)] = v; }
   function pool(data, coll, topicIds) { const set = new Set(topicIds); return data[coll].filter(q => set.has(q.topic)); }
 
   /* ---------- shared chrome ---------- */
@@ -458,7 +459,9 @@
     if (saved && !saved.finished) {
       S.sheet = { kind: 'replace', qids, label: topicLabel(d, sel, r.coll) }; render(); return;
     }
-    beginAttempt(buildAttempt(r, qids, st, topicLabel(d, sel, r.coll)));
+    const label = topicLabel(d, sel, r.coll);
+    putSel(r, []);
+    beginAttempt(buildAttempt(r, qids, st, label));
   }
   function beginAttempt(a) { S.attempt = a; persistAttempt(); go('#/quiz'); }
 
