@@ -725,7 +725,9 @@
     const a = S.attempt, nav = c.group === 'halfway' || c.group === 'lastQuestion';
     if (nav) { if (document.querySelector('.bubble')) return; }
     else { const gap = a.markCount - a.lastComment; if (!(gap >= 5 || (c.priority && gap >= 3))) return; }
-    const lines = (S.comments[c.group] || []).filter(l => a.used.indexOf(l) < 0);
+    // JayTee teaches gross anatomy only, so his lines (and "gross class") stay in gross anatomy questions
+    const cq = currentData() && currentData().byId[a.qids[a.idx]], gross = !!cq && cq.sys === 'gross';
+    const lines = (S.comments[c.group] || []).filter(l => a.used.indexOf(l) < 0 && (gross || !/JayTee|gross class/i.test(l)));
     if (!lines.length) return;
     const line = pick(lines); a.used.push(line); if (!nav) a.lastComment = a.markCount; persistAttempt();
     clearTimeout(S.bubbleT); S.bubbleT = setTimeout(() => { if (S.route && S.route.view === 'quiz' && !S.sheet) bubble(line); }, nav ? 150 : 550);
