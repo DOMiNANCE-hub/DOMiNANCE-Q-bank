@@ -413,7 +413,8 @@
     const planned = st.count === 'all' ? n : st.count === 'custom' ? (parseInt(st.custom, 10) || 0) : st.count;
     const body =
       '<section class="card"><div class="setup-head"><div><h1 style="font-size:22px">Quiz setup</h1></div>' +
-      '<label class="xpo" title="DOMiNANCE EXPERIENCE: streaks, reactions, confetti and comments"><input type="checkbox" data-a="xpo"' + (st.xpo ? ' checked' : '') + '>DMC XPO</label></div>' +
+      '<span class="dmcrow"><label class="xpo"><input type="checkbox" data-a="xpo"' + (st.xpo ? ' checked' : '') + '><span aria-hidden="true">🕶️</span> Agent DMC</label><button class="tinfo inl" data-a="dmcinfo" aria-label="What does Agent DMC do?">i</button></span></div>' +
+      '<p class="dmcsub">' + (st.xpo ? 'Agent DMC reacts as you answer: comments, streaks and a verdict at the end.' : 'Agent DMC is off: no comments, streaks or verdict.') + '</p>' +
       '<div class="topicchips">' + shown + ' <button class="linkbtn" data-a="changetopics">Change</button></div>' +
       '<div class="field"><span class="lbl">How many questions?</span><div class="chips">' + chip('all', 'All ' + n) + countOptions(n).map(v => chip(v, v)).join('') + chip('custom', 'Custom') + '</div>' +
       (st.count === 'custom' ? '<div class="inline"><label for="custom" class="sr">Number of questions</label><input id="custom" class="num" type="number" inputmode="numeric" min="1" max="' + n + '" step="1" value="' + esc(st.custom) + '" placeholder="15"><span class="empty">of ' + n + '</span></div>' : '') +
@@ -424,7 +425,7 @@
       (st.timer === 'custom' ? '<div class="inline"><label for="tmin" class="sr">Minutes</label><input id="tmin" class="num" type="number" inputmode="numeric" min="1" max="300" step="1" value="' + esc(st.timerMin) + '"><span class="empty">minutes</span></div>' : '') + '</div>' +
       '</section>';
     const dock = '<div class="dock"><div class="in"><div class="info"><b>' + (planned > 0 ? planned : '—') + ' question' + (planned === 1 ? '' : 's') + '</b> · ' + (st.marking === 'go' ? 'Mark as you go' : 'Submit at the end') + '</div><button class="btn primary" data-a="start">Start quiz</button></div></div>';
-    return wrap(topbar() + crumbs(trail(r, 'setup')) + body) + dock;
+    return wrap(topbar() + crumbs(trail(r, 'setup')) + body) + dock + sheetHtml();
   }
 
   /* ---------- building an attempt ---------- */
@@ -607,6 +608,11 @@
         (sh.err ? '<p class="inline-err" role="alert">' + esc(sh.err) + '</p>' : '') +
         '<div class="acts"><button class="btn" data-a="closesheet">Cancel</button><button class="btn primary" data-a="rsend"' + (sh.sending ? ' aria-disabled="true"' : '') + '>' + (sh.sending ? 'Sending…' : 'Send report') + '</button></div>') + '</div></div>';
     }
+    if (sh.kind === 'dmcinfo') {
+      return '<div class="overlay" data-a="closesheet"><div class="sheet tinfo-sheet" role="dialog" aria-modal="true" aria-labelledby="sh-t" data-stop="1"><h3 id="sh-t">🕶️ Agent DMC</h3><p>Your senior in the quiz. When he\'s on, you get:</p><ul class="inc">' +
+        ['Short comments at big moments, like streaks, halfway and the last question', 'A streak counter when you get 3 or more right in a row', 'His verdict and your longest streak on the results screen', 'Confetti when you score 80% or more'].map(x => '<li><span>' + x + '</span></li>').join('') +
+        '</ul><p>Switch him off for a quiet quiz. Marking, explanations and the timer work the same either way.</p><div class="acts"><button class="btn primary" data-a="closesheet">Got it</button></div></div></div>';
+    }
     if (sh.kind === 'tinfo') {
       const d = currentData(), t = d && d.topics.find(x => x.id === sh.id); if (!t || !t.includes) return '';
       const n = {}; d[S.route.coll].forEach(q => { if (q.topic === t.id) n[q.topic0] = (n[q.topic0] || 0) + 1; });
@@ -620,7 +626,7 @@
     return '';
   }
 
-  /* ---------- answering + DMC XPO ---------- */
+  /* ---------- answering + Agent DMC (setting key: xpo) ---------- */
   function markQuestion(q) {
     const a = S.attempt; if (a.marked[q.id]) return;
     a.marked[q.id] = true; a.markCount++;
@@ -924,6 +930,7 @@
       case 'jump': { const a = S.attempt; a.idx = parseInt(el.dataset.i, 10) || 0; S.sheet = null; S.inlineErr = ''; persistAttempt(); render(); window.scrollTo(0, 0); break; }
       case 'exit': S.sheet = { kind: 'exit' }; render(); break;
       case 'closesheet': S.sheet = null; render(); break;
+      case 'dmcinfo': S.sheet = { kind: 'dmcinfo' }; render(); { const b = document.querySelector('.sheet .btn'); if (b) b.focus(); } break;
       case 'tinfo': S.sheet = { kind: 'tinfo', id: el.dataset.id }; render(); { const b = document.querySelector('.sheet .btn'); if (b) b.focus(); } break;
       case 'report': S.sheet = { kind: 'report', id: el.dataset.id, reason: '', note: '' }; render(); break;
       case 'rreason': { const b = document.getElementById('rnote'); if (b) S.sheet.note = b.value; S.sheet.reason = el.dataset.v; S.sheet.err = ''; render(); break; }

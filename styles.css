@@ -494,3 +494,7 @@ body:before,body:after{content:none!important;display:none!important}
   .big .fwrap.hasinfo .fc{max-width:30%}
 }
 @media (min-width:701px){.fwrap>.folder .ft{padding-right:26px}}
+/* Agent DMC toggle on quiz setup */
+.dmcrow{display:inline-flex;align-items:center;gap:8px;flex:none}
+.tinfo.inl{position:relative;right:auto;top:auto;bottom:auto;transform:none;flex:none}
+.dmcsub{margin:8px 0 12px;font-size:13.5px;line-height:1.45;color:var(--muted)}
