@@ -996,7 +996,63 @@
   ['touchstart', 'wheel', 'keydown'].forEach(ev => window.addEventListener(ev, () => { if (!S.autoScrolling) S.userScrolled = true; }, { passive: true }));
   document.addEventListener('pointerdown', () => SND.unlock(), { once: true });
   window.addEventListener('hashchange', route);
-  if ('serviceWorker' in navigator && location.protocol !== 'file:') window.addEventListener('load', () => { navigator.serviceWorker.register('./sw.js').catch(() => {}); });
+  if ('serviceWorker' in navigator && location.protocol !== 'file:') window.addEventListener('load', () => {
+    navigator.serviceWorker.register('./sw.js').then(reg => {
+      reg.update().catch(() => {});
+      setInterval(() => reg.update().catch(() => {}), 60 * 60 * 1000);
+    }).catch(() => {});
+  });
+
+  /* ---------- install to home screen ---------- */
+  function setupInstall() {
+    const standalone = (window.matchMedia && window.matchMedia('(display-mode: standalone)').matches) || navigator.standalone === true;
+    if (standalone || store.get('dq.installDismissed', false)) return;
+    const ua = navigator.userAgent || '';
+    const isiOS = /iphone|ipad|ipod/i.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+    let deferred = null;
+    function style() {
+      if (document.getElementById('dqi-style')) return;
+      const s = document.createElement('style'); s.id = 'dqi-style';
+      s.textContent = '#dqinstall{position:fixed;left:12px;right:12px;bottom:12px;z-index:60;display:flex;align-items:center;gap:10px;'
+        + 'background:#15294f;border:1px solid rgba(255,199,69,.4);border-radius:14px;padding:10px 12px;color:#fff;'
+        + 'box-shadow:0 8px 28px rgba(0,0,0,.35);font-family:inherit;max-width:520px;margin:0 auto}'
+        + '#dqinstall .dqi-t{flex:1;font-size:13.5px;line-height:1.3}#dqinstall .dqi-t b{color:#ffc745;font-weight:700}'
+        + '#dqinstall .dqi-go{background:#ffc745;color:#2a1f00;border:0;border-radius:10px;padding:9px 14px;font-weight:700;font-size:14px;cursor:pointer}'
+        + '#dqinstall .dqi-x{background:transparent;border:0;color:#9fb0d0;font-size:22px;line-height:1;cursor:pointer;padding:0 4px}'
+        + '.dqi-ov{position:fixed;inset:0;z-index:70;background:rgba(5,12,28,.6);display:flex;align-items:flex-end;justify-content:center}'
+        + '.dqi-sheet{background:#fff;color:#16294f;border-radius:18px 18px 0 0;max-width:520px;width:100%;padding:20px 20px 28px;font-size:15px;line-height:1.5}'
+        + '.dqi-sheet h3{margin:0 0 10px;font-size:17px}.dqi-sheet ol{margin:0;padding-left:20px}.dqi-sheet li{margin:6px 0}'
+        + '.dqi-sheet .dqi-close{margin-top:16px;width:100%;background:#15294f;color:#fff;border:0;border-radius:12px;padding:12px;font-size:15px;font-weight:600;cursor:pointer}';
+      document.head.appendChild(s);
+    }
+    function dismiss() { const b = document.getElementById('dqinstall'); if (b) b.remove(); store.set('dq.installDismissed', true); }
+    function iosSheet() {
+      const ov = document.createElement('div'); ov.className = 'dqi-ov';
+      ov.innerHTML = '<div class="dqi-sheet"><h3>Add DQB to your home screen</h3>'
+        + '<ol><li>Tap the <b>Share</b> icon (the square with an up-arrow) in Safari’s bottom bar.</li>'
+        + '<li>Scroll down and tap <b>Add to Home Screen</b>.</li><li>Tap <b>Add</b> — DQB appears as an app.</li></ol>'
+        + '<button class="dqi-close">Got it</button></div>';
+      ov.addEventListener('click', ev => { if (ev.target === ov || ev.target.className === 'dqi-close') ov.remove(); });
+      document.body.appendChild(ov);
+    }
+    function banner() {
+      if (document.getElementById('dqinstall')) return;
+      style();
+      const bar = document.createElement('div'); bar.id = 'dqinstall';
+      bar.innerHTML = '<span class="dqi-t"><b>Install DQB</b> — one tap, works offline</span>'
+        + '<button class="dqi-go">Install</button><button class="dqi-x" aria-label="Dismiss">×</button>';
+      document.body.appendChild(bar);
+      bar.querySelector('.dqi-x').onclick = dismiss;
+      bar.querySelector('.dqi-go').onclick = () => {
+        if (deferred) { deferred.prompt(); deferred.userChoice.finally(() => { deferred = null; const b = document.getElementById('dqinstall'); if (b) b.remove(); }); }
+        else if (isiOS) iosSheet();
+      };
+    }
+    window.addEventListener('beforeinstallprompt', e => { e.preventDefault(); deferred = e; banner(); });
+    window.addEventListener('appinstalled', () => dismiss());
+    if (isiOS) setTimeout(banner, 1500);
+  }
+  setupInstall();
   window.addEventListener('pagehide', persistAttempt);
 
   /* ---------- boot ---------- */
