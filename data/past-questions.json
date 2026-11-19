@@ -96,6 +96,50 @@
           "difficulty": "medium"
         },
         {
+          "id": "set-01-A-003",
+          "type": "true-false",
+          "stem": "In the heart",
+          "options": [
+            {
+              "label": "A",
+              "text": "The left atrial wall is about three times thicker than the right atrial wall."
+            },
+            {
+              "label": "B",
+              "text": "Systolic contraction normally begins in the left atrium."
+            },
+            {
+              "label": "C",
+              "text": "Excitation spreads directly from atrial muscle cells to ventricular muscle cells."
+            },
+            {
+              "label": "D",
+              "text": "Atrial and ventricular muscle contracts simultaneously in systole."
+            },
+            {
+              "label": "E",
+              "text": "The contracting ventricles shorten from apex to base."
+            }
+          ],
+          "answerByOption": {
+            "A": "F",
+            "B": "F",
+            "C": "F",
+            "D": "F",
+            "E": "T"
+          },
+          "notes": {
+            "A": "The left atrial wall is only slightly thicker than the right; the threefold difference applies to the ventricles (LV vs RV).",
+            "B": "Excitation starts at the SA node in the right atrium, so the right atrium is activated first.",
+            "C": "The fibrous skeleton insulates atria from ventricles; the only normal electrical path is the AV node and bundle of His.",
+            "D": "Atrial systole comes first (about 0.1-0.2 s before ventricular systole), giving the AV nodal delay time for atria to top up the ventricles.",
+            "E": "As the ventricles contract, the base (AV ring) is pulled down towards the apex, shortening the long axis of the ventricles."
+          },
+          "topicId": "cv-introduction",
+          "subtopic": "Heart chambers and valves",
+          "difficulty": "medium"
+        },
+        {
           "id": "set-01-A-004",
           "type": "true-false",
           "stem": "The net loss of fluid from capillaries in the legs is increased by",
