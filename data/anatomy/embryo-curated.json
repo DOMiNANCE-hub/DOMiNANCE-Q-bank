@@ -1,0 +1,1799 @@
+{
+  "id": "dq-embryo",
+  "title": "Developmental anatomy — DOMiNANCE Originals",
+  "source": "Obeng's HB2 embryology lectures (F. K. Addai, SMD KNUST)",
+  "questions": [
+    {
+      "id": "dq-embryo-g-001",
+      "type": "single-best",
+      "stem": "The complete process of spermatogenesis, from spermatogonium to spermatozoon, takes about",
+      "options": [
+        {
+          "label": "A",
+          "text": "64 days"
+        },
+        {
+          "label": "B",
+          "text": "16 days"
+        },
+        {
+          "label": "C",
+          "text": "24 days"
+        },
+        {
+          "label": "D",
+          "text": "7 days"
+        },
+        {
+          "label": "E",
+          "text": "90 days"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Spermatogenesis takes ~64 days: spermatocytogenesis (16) + meiosis (24) + spermiogenesis (24).",
+      "topicId": "e-gameto",
+      "subtopic": "Spermatogenesis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-002",
+      "type": "single-best",
+      "stem": "Spermiogenesis, the cytodifferentiation of a spermatid into a spermatozoon, takes about",
+      "options": [
+        {
+          "label": "A",
+          "text": "48 days"
+        },
+        {
+          "label": "B",
+          "text": "24 days"
+        },
+        {
+          "label": "C",
+          "text": "64 days"
+        },
+        {
+          "label": "D",
+          "text": "16 days"
+        },
+        {
+          "label": "E",
+          "text": "2 days"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Spermiogenesis (tail, acrosome formation, nuclear condensation, shedding of cytoplasm) takes ~24 days.",
+      "topicId": "e-gameto",
+      "subtopic": "Spermatogenesis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-003",
+      "type": "single-best",
+      "stem": "The blood-testis barrier, formed by tight junctions between Sertoli cells, separates a basal compartment (spermatogonia, mitosis) from an adluminal compartment where",
+      "options": [
+        {
+          "label": "A",
+          "text": "testosterone is made"
+        },
+        {
+          "label": "B",
+          "text": "Leydig cells lie"
+        },
+        {
+          "label": "C",
+          "text": "spermatocytes undergo meiosis"
+        },
+        {
+          "label": "D",
+          "text": "spermatogonia undergo mitosis"
+        },
+        {
+          "label": "E",
+          "text": "spermatozoa are stored"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The adluminal compartment houses spermatocytes undergoing meiosis, shielded from the immune system by the barrier.",
+      "topicId": "e-gameto",
+      "subtopic": "Spermatogenesis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-004",
+      "type": "single-best",
+      "stem": "Meiosis in the male occurs only after puberty, which is important because meiotic products",
+      "options": [
+        {
+          "label": "A",
+          "text": "need maternal hormones"
+        },
+        {
+          "label": "B",
+          "text": "require a cold scrotum only"
+        },
+        {
+          "label": "C",
+          "text": "are haploid"
+        },
+        {
+          "label": "D",
+          "text": "they would trigger autoimmunity"
+        },
+        {
+          "label": "E",
+          "text": "cannot survive before puberty"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Meiotic cells carry novel antigens; the blood-testis barrier plus post-pubertal timing (mature immune system) prevents autoimmune destruction and infertility.",
+      "topicId": "e-gameto",
+      "subtopic": "Spermatogenesis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-005",
+      "type": "single-best",
+      "stem": "The reserve stem cell of the spermatogenic lineage that can continue spermatogenesis throughout life is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "type A pale spermatogonium"
+        },
+        {
+          "label": "B",
+          "text": "type B spermatogonium"
+        },
+        {
+          "label": "C",
+          "text": "primary spermatocyte"
+        },
+        {
+          "label": "D",
+          "text": "secondary spermatocyte"
+        },
+        {
+          "label": "E",
+          "text": "type A dark spermatogonium"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The type A dark (Ad) spermatogonium is the reserve stem cell; type A pale divides to type B, which gives primary spermatocytes.",
+      "topicId": "e-gameto",
+      "subtopic": "Spermatogenesis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-006",
+      "type": "single-best",
+      "stem": "Primary oocytes are arrested in prophase of the first meiotic division at which stage, from fetal life until puberty?",
+      "options": [
+        {
+          "label": "A",
+          "text": "dictyotene"
+        },
+        {
+          "label": "B",
+          "text": "diplotene of meiosis II"
+        },
+        {
+          "label": "C",
+          "text": "metaphase II"
+        },
+        {
+          "label": "D",
+          "text": "anaphase I"
+        },
+        {
+          "label": "E",
+          "text": "interphase"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Oocytes rest in the dictyotene (diffuse diplotene) stage of prophase I, held by oocyte maturation inhibitor until the LH surge.",
+      "topicId": "e-gameto",
+      "subtopic": "Oogenesis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-007",
+      "type": "single-best",
+      "stem": "Meiotic arrest of the primary oocyte is maintained by oocyte maturation inhibitor secreted by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "zona pellucida"
+        },
+        {
+          "label": "B",
+          "text": "follicular cells"
+        },
+        {
+          "label": "C",
+          "text": "the theca cells"
+        },
+        {
+          "label": "D",
+          "text": "the corpus luteum"
+        },
+        {
+          "label": "E",
+          "text": "Sertoli cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Follicular (granulosa) cells secrete oocyte maturation inhibitor (OMI), holding the oocyte in meiotic arrest.",
+      "topicId": "e-gameto",
+      "subtopic": "Oogenesis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-008",
+      "type": "single-best",
+      "stem": "A normal ejaculate volume is about",
+      "options": [
+        {
+          "label": "A",
+          "text": "6 to 9 ml"
+        },
+        {
+          "label": "B",
+          "text": "20 ml"
+        },
+        {
+          "label": "C",
+          "text": "1.8 to 5.5 ml"
+        },
+        {
+          "label": "D",
+          "text": "0.2 to 0.5 ml"
+        },
+        {
+          "label": "E",
+          "text": "10 to 15 ml"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Semen volume is ~1.8-5.5 ml (average ~3.5 ml), with about 100 million spermatozoa per ml.",
+      "topicId": "e-fert",
+      "subtopic": "Semen",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-009",
+      "type": "single-best",
+      "stem": "For fertility, at least what fraction of spermatozoa should be motile with progressive forward movement?",
+      "options": [
+        {
+          "label": "A",
+          "text": "about 90%"
+        },
+        {
+          "label": "B",
+          "text": "about 10%"
+        },
+        {
+          "label": "C",
+          "text": "about 70%"
+        },
+        {
+          "label": "D",
+          "text": "about 40%"
+        },
+        {
+          "label": "E",
+          "text": "about 4%"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "At least ~40% of sperm should be motile with forward progression; a minimum of ~15 million per ejaculate is needed.",
+      "topicId": "e-fert",
+      "subtopic": "Semen",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-010",
+      "type": "single-best",
+      "stem": "Immotile sperm flagella due to a ciliary (dynein) defect, as in Kartagener's syndrome, is",
+      "options": [
+        {
+          "label": "A",
+          "text": "asthenozoospermia"
+        },
+        {
+          "label": "B",
+          "text": "oligozoospermia"
+        },
+        {
+          "label": "C",
+          "text": "teratozoospermia"
+        },
+        {
+          "label": "D",
+          "text": "azoospermia"
+        },
+        {
+          "label": "E",
+          "text": "Kartagener syndrome"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Primary ciliary dyskinesia (Kartagener's) gives immotile flagella and infertility.",
+      "topicId": "e-fert",
+      "subtopic": "Infertility",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-011",
+      "type": "single-best",
+      "stem": "The term for a complete absence of spermatozoa in the ejaculate, even after centrifugation, is",
+      "options": [
+        {
+          "label": "A",
+          "text": "azoospermia"
+        },
+        {
+          "label": "B",
+          "text": "aspermia"
+        },
+        {
+          "label": "C",
+          "text": "oligozoospermia"
+        },
+        {
+          "label": "D",
+          "text": "asthenozoospermia"
+        },
+        {
+          "label": "E",
+          "text": "teratozoospermia"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Azoospermia is no sperm in the ejaculate; aspermia is absence of semen (no ejaculation).",
+      "topicId": "e-fert",
+      "subtopic": "Infertility",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-012",
+      "type": "single-best",
+      "stem": "During the acrosome reaction, the enzyme that digests the cumulus/corona cells around the oocyte is",
+      "options": [
+        {
+          "label": "A",
+          "text": "enterokinase"
+        },
+        {
+          "label": "B",
+          "text": "hyaluronidase"
+        },
+        {
+          "label": "C",
+          "text": "acrosin"
+        },
+        {
+          "label": "D",
+          "text": "neuraminidase"
+        },
+        {
+          "label": "E",
+          "text": "trypsin"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Hyaluronidase digests the corona radiata; acrosin (exposed on the inner acrosomal membrane) helps penetrate the zona; neuraminidase is also released.",
+      "topicId": "e-fert",
+      "subtopic": "Fertilization",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-013",
+      "type": "single-best",
+      "stem": "Fertilization proceeds in three sequential steps: penetration of the corona radiata, penetration of the zona pellucida, and",
+      "options": [
+        {
+          "label": "A",
+          "text": "completion of oogenesis before ovulation"
+        },
+        {
+          "label": "B",
+          "text": "decidualization"
+        },
+        {
+          "label": "C",
+          "text": "fusion of the oocyte and sperm cell membranes"
+        },
+        {
+          "label": "D",
+          "text": "the first cleavage division"
+        },
+        {
+          "label": "E",
+          "text": "formation of the morula"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The three steps are corona penetration, zona penetration, then membrane binding and fusion.",
+      "topicId": "e-fert",
+      "subtopic": "Fertilization",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-014",
+      "type": "single-best",
+      "stem": "Polyspermic fertilization in the human characteristically",
+      "options": [
+        {
+          "label": "A",
+          "text": "produces a healthy triploid fetus"
+        },
+        {
+          "label": "B",
+          "text": "is the usual mechanism of twinning"
+        },
+        {
+          "label": "C",
+          "text": "prevents implantation entirely"
+        },
+        {
+          "label": "D",
+          "text": "dies at or after the 8-cell stage"
+        },
+        {
+          "label": "E",
+          "text": "develops into normal twins"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "A polyspermic pre-embryo does not proceed beyond a few cleavages and dies around the 8-cell stage.",
+      "topicId": "e-fert",
+      "subtopic": "Fertilization",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-015",
+      "type": "single-best",
+      "stem": "A hydatidiform mole, with masses of trophoblast secreting large amounts of hCG and no viable fetus, may arise from",
+      "options": [
+        {
+          "label": "A",
+          "text": "normal monospermic fertilization"
+        },
+        {
+          "label": "B",
+          "text": "failure of the acrosome reaction"
+        },
+        {
+          "label": "C",
+          "text": "arrest of the oocyte in dictyotene"
+        },
+        {
+          "label": "D",
+          "text": "absence of the corpus luteum"
+        },
+        {
+          "label": "E",
+          "text": "expulsion of a pronucleus"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Loss of a pronucleus (often with polyspermic fertilization) gives molar pregnancy with excess trophoblast and hCG.",
+      "topicId": "e-fert",
+      "subtopic": "Clinical",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-016",
+      "type": "single-best",
+      "stem": "Cleavage of the human zygote is described as holoblastic, meaning the division furrows",
+      "options": [
+        {
+          "label": "A",
+          "text": "pass completely through the whole cell"
+        },
+        {
+          "label": "B",
+          "text": "involve only part of the cell"
+        },
+        {
+          "label": "C",
+          "text": "add new cytoplasm each time"
+        },
+        {
+          "label": "D",
+          "text": "occur only after implantation"
+        },
+        {
+          "label": "E",
+          "text": "produce larger cells each time"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Human cleavage is holoblastic (complete) and occurs without growth, fractionating the zygote into smaller blastomeres.",
+      "topicId": "e-cleave",
+      "subtopic": "Cleavage",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-017",
+      "type": "single-best",
+      "stem": "The ball of blastomeres is moved from the oviduct to the uterus by peristalsis and by",
+      "options": [
+        {
+          "label": "A",
+          "text": "uterine suction"
+        },
+        {
+          "label": "B",
+          "text": "a ciliary escalator of oviductal cilia"
+        },
+        {
+          "label": "C",
+          "text": "its own flagella"
+        },
+        {
+          "label": "D",
+          "text": "contraction of the blastomeres"
+        },
+        {
+          "label": "E",
+          "text": "gravity alone"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Rhythmic beating of oviductal cilia (the 'ciliary escalator') plus tubal peristalsis move the conceptus to the uterus.",
+      "topicId": "e-cleave",
+      "subtopic": "Cleavage",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-018",
+      "type": "single-best",
+      "stem": "Compaction of the morula is driven mainly by",
+      "options": [
+        {
+          "label": "A",
+          "text": "hCG secretion"
+        },
+        {
+          "label": "B",
+          "text": "Sonic hedgehog signalling"
+        },
+        {
+          "label": "C",
+          "text": "E-cadherin cell adhesion"
+        },
+        {
+          "label": "D",
+          "text": "loss of the zona pellucida"
+        },
+        {
+          "label": "E",
+          "text": "Na+/K+-ATPase pumping"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "E-cadherin tightens cell-cell contacts during compaction and outer-cell polarization precedes the first lineage decision.",
+      "topicId": "e-cleave",
+      "subtopic": "Cleavage",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-019",
+      "type": "single-best",
+      "stem": "The blastocoel cavity forms when outer trophoblast cells pump ions using",
+      "options": [
+        {
+          "label": "A",
+          "text": "the Na+-glucose cotransporter"
+        },
+        {
+          "label": "B",
+          "text": "aquaporins only"
+        },
+        {
+          "label": "C",
+          "text": "the chloride shift"
+        },
+        {
+          "label": "D",
+          "text": "Na+/K+-ATPase (osmotic gradient)"
+        },
+        {
+          "label": "E",
+          "text": "a proton pump (H+/K+-ATPase)"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Outer cells express Na+/K+-ATPase; the resulting osmotic influx of fluid forms the blastocoel, converting morula to blastocyst.",
+      "topicId": "e-cleave",
+      "subtopic": "Blastocyst",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-020",
+      "type": "single-best",
+      "stem": "In the morula-to-blastocyst transition, trophoblast fate in the outer cells is promoted by the transcription factor",
+      "options": [
+        {
+          "label": "A",
+          "text": "NANOG"
+        },
+        {
+          "label": "B",
+          "text": "OCT4"
+        },
+        {
+          "label": "C",
+          "text": "SOX17"
+        },
+        {
+          "label": "D",
+          "text": "NODAL"
+        },
+        {
+          "label": "E",
+          "text": "CDX2"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "In outer cells the Hippo pathway is inactive, YAP enters the nucleus and activates CDX2 for trophoblast fate; inner cells keep OCT4/SOX2/NANOG.",
+      "topicId": "e-cleave",
+      "subtopic": "Blastocyst",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-021",
+      "type": "single-best",
+      "stem": "Pluripotency of the inner cell mass is maintained by the transcription factors",
+      "options": [
+        {
+          "label": "A",
+          "text": "OCT4, SOX2 and NANOG"
+        },
+        {
+          "label": "B",
+          "text": "CDX2, YAP and GATA6"
+        },
+        {
+          "label": "C",
+          "text": "SOX17, GATA6 and CDX2"
+        },
+        {
+          "label": "D",
+          "text": "NODAL, WNT3 and FGF8"
+        },
+        {
+          "label": "E",
+          "text": "Snail, SHH and BMP"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "OCT4, SOX2 and NANOG mutually reinforce pluripotency in the ICM and suppress trophoblast genes.",
+      "topicId": "e-cleave",
+      "subtopic": "Blastocyst",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-022",
+      "type": "single-best",
+      "stem": "Implantation requires a receptive endometrium and a blastocyst that has",
+      "options": [
+        {
+          "label": "A",
+          "text": "completed gastrulation"
+        },
+        {
+          "label": "B",
+          "text": "hatched out of the zona pellucida"
+        },
+        {
+          "label": "C",
+          "text": "retained its zona pellucida"
+        },
+        {
+          "label": "D",
+          "text": "formed three germ layers"
+        },
+        {
+          "label": "E",
+          "text": "begun secreting progesterone"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The blastocyst must hatch from the zona to expose the trophoblast to the receptive mid-secretory endometrium.",
+      "topicId": "e-cleave",
+      "subtopic": "Implantation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-023",
+      "type": "single-best",
+      "stem": "The three stages of implantation, in order, are",
+      "options": [
+        {
+          "label": "A",
+          "text": "apposition, invasion, adhesion"
+        },
+        {
+          "label": "B",
+          "text": "adhesion, invasion, apposition"
+        },
+        {
+          "label": "C",
+          "text": "apposition, adhesion, invasion"
+        },
+        {
+          "label": "D",
+          "text": "adhesion, apposition, invasion"
+        },
+        {
+          "label": "E",
+          "text": "invasion, adhesion, apposition"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Implantation proceeds as apposition, then adhesion, then trophoblast invasion through the epithelial basement membrane.",
+      "topicId": "e-cleave",
+      "subtopic": "Implantation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-024",
+      "type": "single-best",
+      "stem": "The usual site of implantation is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "ampulla of the uterine tube"
+        },
+        {
+          "label": "B",
+          "text": "ovarian surface"
+        },
+        {
+          "label": "C",
+          "text": "cervical canal"
+        },
+        {
+          "label": "D",
+          "text": "body of the uterus"
+        },
+        {
+          "label": "E",
+          "text": "lower uterine segment over the os"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Normal implantation is in the body of the uterus, upper posterior wall near the midline; elsewhere is ectopic.",
+      "topicId": "e-cleave",
+      "subtopic": "Implantation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-025",
+      "type": "single-best",
+      "stem": "Monochorionic-diamniotic (Mo-Di) monozygotic twins, sharing one placenta but with separate amnions, make up about",
+      "options": [
+        {
+          "label": "A",
+          "text": "5% of monozygotic twins"
+        },
+        {
+          "label": "B",
+          "text": "30% of monozygotic twins"
+        },
+        {
+          "label": "C",
+          "text": "100% of monozygotic twins"
+        },
+        {
+          "label": "D",
+          "text": "1% of all twins"
+        },
+        {
+          "label": "E",
+          "text": "60 to 70% of monozygotic twins"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Mo-Di is the commonest monozygotic pattern (~60-70%); sharing one placenta risks twin-to-twin transfusion.",
+      "topicId": "e-cleave",
+      "subtopic": "Twinning",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-026",
+      "type": "single-best",
+      "stem": "Monochorionic-monoamniotic (Mo-Mo) twins, the riskiest type, carry a mortality of about",
+      "options": [
+        {
+          "label": "A",
+          "text": "20%"
+        },
+        {
+          "label": "B",
+          "text": "2%"
+        },
+        {
+          "label": "C",
+          "text": "50%"
+        },
+        {
+          "label": "D",
+          "text": "5%"
+        },
+        {
+          "label": "E",
+          "text": "80%"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Mo-Mo twins (~5% of twins) share one placenta and one amnion, with a mortality around 20%.",
+      "topicId": "e-cleave",
+      "subtopic": "Twinning",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-027",
+      "type": "single-best",
+      "stem": "Conjoined twinning is possible only in which type of monozygotic twins?",
+      "options": [
+        {
+          "label": "A",
+          "text": "superfetation twins"
+        },
+        {
+          "label": "B",
+          "text": "Mo-Mo (monochorionic-monoamniotic)"
+        },
+        {
+          "label": "C",
+          "text": "Di-Di (dichorionic-diamniotic)"
+        },
+        {
+          "label": "D",
+          "text": "Mo-Di (monochorionic-diamniotic)"
+        },
+        {
+          "label": "E",
+          "text": "dizygotic twins"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Conjoining results from late (post-bilaminar-disc) splitting and occurs only in Mo-Mo twins.",
+      "topicId": "e-cleave",
+      "subtopic": "Twinning",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-028",
+      "type": "single-best",
+      "stem": "Conjoined twins joined at the cranium are termed",
+      "options": [
+        {
+          "label": "A",
+          "text": "pygopagus"
+        },
+        {
+          "label": "B",
+          "text": "parapagus"
+        },
+        {
+          "label": "C",
+          "text": "craniopagus"
+        },
+        {
+          "label": "D",
+          "text": "thoracopagus"
+        },
+        {
+          "label": "E",
+          "text": "omphalopagus"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Craniopagus (joined at the skull) accounts for about 2-6% of conjoined twins.",
+      "topicId": "e-cleave",
+      "subtopic": "Twinning",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-029",
+      "type": "single-best",
+      "stem": "The simultaneous presence of two embryos conceived weeks apart in the same uterus is",
+      "options": [
+        {
+          "label": "A",
+          "text": "mosaicism"
+        },
+        {
+          "label": "B",
+          "text": "chimerism"
+        },
+        {
+          "label": "C",
+          "text": "molar pregnancy"
+        },
+        {
+          "label": "D",
+          "text": "superfetation"
+        },
+        {
+          "label": "E",
+          "text": "superfecundation"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Superfetation is a second conception during an existing pregnancy; it is very rare and almost always linked to ART.",
+      "topicId": "e-cleave",
+      "subtopic": "Twinning",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-030",
+      "type": "single-best",
+      "stem": "The syncytiotrophoblast differs from the cytotrophoblast in that it is",
+      "options": [
+        {
+          "label": "A",
+          "text": "mononuclear and mitotically active"
+        },
+        {
+          "label": "B",
+          "text": "the stem layer for the cytotrophoblast"
+        },
+        {
+          "label": "C",
+          "text": "part of the embryoblast"
+        },
+        {
+          "label": "D",
+          "text": "lined by Heuser's membrane"
+        },
+        {
+          "label": "E",
+          "text": "multinucleated, amitotic and invasive"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The syncytiotrophoblast is multinucleated, amitotic, invasive, in contact with maternal blood, secretes hCG and performs most placental functions; the cytotrophoblast is its mitotic stem layer.",
+      "topicId": "e-membranes",
+      "subtopic": "Trophoblast",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-031",
+      "type": "single-best",
+      "stem": "The primary (primitive) yolk sac is lined by a thin layer called",
+      "options": [
+        {
+          "label": "A",
+          "text": "Heuser's membrane"
+        },
+        {
+          "label": "B",
+          "text": "the amnion"
+        },
+        {
+          "label": "C",
+          "text": "the chorion"
+        },
+        {
+          "label": "D",
+          "text": "Reichert's membrane"
+        },
+        {
+          "label": "E",
+          "text": "the decidua"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Hypoblast-derived Heuser's (exocoelomic) membrane lines the former blastocyst cavity to form the primary yolk sac.",
+      "topicId": "e-membranes",
+      "subtopic": "Second week",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-032",
+      "type": "single-best",
+      "stem": "Extraembryonic somatic (parietal) mesoderm is associated with the amnion and chorion, whereas extraembryonic splanchnic mesoderm covers the",
+      "options": [
+        {
+          "label": "A",
+          "text": "decidua basalis"
+        },
+        {
+          "label": "B",
+          "text": "yolk sac and allantois"
+        },
+        {
+          "label": "C",
+          "text": "amniotic cavity"
+        },
+        {
+          "label": "D",
+          "text": "chorion frondosum"
+        },
+        {
+          "label": "E",
+          "text": "body stalk"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Somatic extraembryonic mesoderm lines the cytotrophoblast and amnion (with ectoderm); splanchnic covers the yolk sac and allantois (with endoderm).",
+      "topicId": "e-membranes",
+      "subtopic": "Extraembryonic mesoderm",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-033",
+      "type": "single-best",
+      "stem": "The umbilical cord develops from the",
+      "options": [
+        {
+          "label": "A",
+          "text": "the amnion"
+        },
+        {
+          "label": "B",
+          "text": "chorion laeve"
+        },
+        {
+          "label": "C",
+          "text": "connecting stalk"
+        },
+        {
+          "label": "D",
+          "text": "the notochord"
+        },
+        {
+          "label": "E",
+          "text": "allantois alone"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The connecting (body) stalk of extraembryonic mesoderm that suspends the disc in the chorionic cavity becomes the umbilical cord.",
+      "topicId": "e-membranes",
+      "subtopic": "Umbilical cord",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-034",
+      "type": "single-best",
+      "stem": "The villous chorion related to the decidua basalis, forming the fetal placenta, is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "amniochorion"
+        },
+        {
+          "label": "B",
+          "text": "decidua parietalis"
+        },
+        {
+          "label": "C",
+          "text": "Heuser's membrane"
+        },
+        {
+          "label": "D",
+          "text": "chorion frondosum"
+        },
+        {
+          "label": "E",
+          "text": "chorion laeve"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Chorion frondosum (bushy chorion) faces the decidua basalis and forms the fetal placenta; chorion laeve (smooth) faces the capsularis and regresses.",
+      "topicId": "e-membranes",
+      "subtopic": "Chorion",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-035",
+      "type": "single-best",
+      "stem": "The connective tissue of the umbilical cord that cushions its vessels is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reichert's membrane"
+        },
+        {
+          "label": "B",
+          "text": "Heuser's membrane"
+        },
+        {
+          "label": "C",
+          "text": "Nabothian jelly"
+        },
+        {
+          "label": "D",
+          "text": "Waldeyer's sheath"
+        },
+        {
+          "label": "E",
+          "text": "Wharton's jelly"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The cord vessels are embedded in Wharton's jelly, a mucous connective tissue from extraembryonic mesoderm.",
+      "topicId": "e-membranes",
+      "subtopic": "Umbilical cord",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-036",
+      "type": "single-best",
+      "stem": "Early in development the umbilical cord contains two arteries and two veins; later there remains",
+      "options": [
+        {
+          "label": "A",
+          "text": "two arteries and one vein"
+        },
+        {
+          "label": "B",
+          "text": "one artery and one vein"
+        },
+        {
+          "label": "C",
+          "text": "two arteries and two veins"
+        },
+        {
+          "label": "D",
+          "text": "one artery and two veins"
+        },
+        {
+          "label": "E",
+          "text": "three arteries"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "One umbilical vein degenerates, leaving the definitive cord with two arteries and one vein.",
+      "topicId": "e-membranes",
+      "subtopic": "Umbilical cord",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-037",
+      "type": "single-best",
+      "stem": "A chorionic villus becomes a tertiary villus when it acquires",
+      "options": [
+        {
+          "label": "A",
+          "text": "amniotic epithelium"
+        },
+        {
+          "label": "B",
+          "text": "blood vessels in its mesenchymal core"
+        },
+        {
+          "label": "C",
+          "text": "a mesenchymal core only"
+        },
+        {
+          "label": "D",
+          "text": "a covering of syncytiotrophoblast only"
+        },
+        {
+          "label": "E",
+          "text": "a layer of decidua"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Primary villi (trophoblast) gain a mesenchyme core (secondary), then blood vessels (tertiary), enabling exchange.",
+      "topicId": "e-membranes",
+      "subtopic": "Placental villi",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-038",
+      "type": "single-best",
+      "stem": "Villi that anchor the placenta to the decidua basalis are the",
+      "options": [
+        {
+          "label": "A",
+          "text": "stem villi only"
+        },
+        {
+          "label": "B",
+          "text": "chorionic plate"
+        },
+        {
+          "label": "C",
+          "text": "anchoring villi"
+        },
+        {
+          "label": "D",
+          "text": "terminal (free) villi"
+        },
+        {
+          "label": "E",
+          "text": "primary villi"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Anchoring villi insert into the decidua; terminal (free) villi are the main sites of materno-fetal exchange.",
+      "topicId": "e-membranes",
+      "subtopic": "Placental villi",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-039",
+      "type": "single-best",
+      "stem": "In the mature (late) placenta, the number of layers separating maternal and fetal blood is",
+      "options": [
+        {
+          "label": "A",
+          "text": "two"
+        },
+        {
+          "label": "B",
+          "text": "one"
+        },
+        {
+          "label": "C",
+          "text": "five"
+        },
+        {
+          "label": "D",
+          "text": "three"
+        },
+        {
+          "label": "E",
+          "text": "six"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The late barrier has three layers (syncytiotrophoblast, fused basement membranes, fetal capillary endothelium); the early barrier has six.",
+      "topicId": "e-membranes",
+      "subtopic": "Placental barrier",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-040",
+      "type": "single-best",
+      "stem": "Placenta accreta is characterised by",
+      "options": [
+        {
+          "label": "A",
+          "text": "villi penetrating the myometrium"
+        },
+        {
+          "label": "B",
+          "text": "the placenta overlying the internal os"
+        },
+        {
+          "label": "C",
+          "text": "premature placental separation"
+        },
+        {
+          "label": "D",
+          "text": "two umbilical veins"
+        },
+        {
+          "label": "E",
+          "text": "abnormal adherence, no decidua basalis"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "In accreta the decidua basalis is deficient so villi adhere abnormally; percreta is penetration through the myometrium; praevia overlies the os.",
+      "topicId": "e-membranes",
+      "subtopic": "Placental anomalies",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-041",
+      "type": "single-best",
+      "stem": "At term the normal amniotic fluid volume is about",
+      "options": [
+        {
+          "label": "A",
+          "text": "800 to 1000 ml"
+        },
+        {
+          "label": "B",
+          "text": "100 to 200 ml"
+        },
+        {
+          "label": "C",
+          "text": "2 to 3 litres"
+        },
+        {
+          "label": "D",
+          "text": "50 to 100 ml"
+        },
+        {
+          "label": "E",
+          "text": "1500 to 2000 ml"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Amniotic fluid rises to ~800-1000 ml near term (it peaks ~1000 ml around 32-34 weeks).",
+      "topicId": "e-membranes",
+      "subtopic": "Amniotic fluid",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-042",
+      "type": "single-best",
+      "stem": "From about 20 weeks to term, the main source of amniotic fluid is",
+      "options": [
+        {
+          "label": "A",
+          "text": "amniotic epithelial secretion"
+        },
+        {
+          "label": "B",
+          "text": "fetal urine"
+        },
+        {
+          "label": "C",
+          "text": "maternal plasma ultrafiltrate"
+        },
+        {
+          "label": "D",
+          "text": "fetal lung secretions only"
+        },
+        {
+          "label": "E",
+          "text": "transudate across fetal skin"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "By term fetal kidneys make 600-700 ml urine/day (the chief source); lungs add ~250 ml/day; the fetus swallows ~500 ml/day.",
+      "topicId": "e-membranes",
+      "subtopic": "Amniotic fluid",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-043",
+      "type": "single-best",
+      "stem": "After delivery, the placenta normally separates through the",
+      "options": [
+        {
+          "label": "A",
+          "text": "the myometrium"
+        },
+        {
+          "label": "B",
+          "text": "decidua parietalis"
+        },
+        {
+          "label": "C",
+          "text": "the decidua basalis"
+        },
+        {
+          "label": "D",
+          "text": "the chorion laeve"
+        },
+        {
+          "label": "E",
+          "text": "the amnion"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Placental separation occurs through the spongy layer of the decidua basalis, aided by a retroplacental haematoma.",
+      "topicId": "e-membranes",
+      "subtopic": "Placenta",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-044",
+      "type": "single-best",
+      "stem": "The placental hormone with growth-hormone-like actions that promotes maternal lipolysis and glucose sparing is",
+      "options": [
+        {
+          "label": "A",
+          "text": "relaxin"
+        },
+        {
+          "label": "B",
+          "text": "progesterone"
+        },
+        {
+          "label": "C",
+          "text": "oxytocin"
+        },
+        {
+          "label": "D",
+          "text": "human chorionic somatomammotrophin"
+        },
+        {
+          "label": "E",
+          "text": "human chorionic gonadotrophin"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Human chorionic somatomammotrophin (human placental lactogen) has GH-like effects and promotes mammary development.",
+      "topicId": "e-membranes",
+      "subtopic": "Placental hormones",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-045",
+      "type": "single-best",
+      "stem": "Gastrulation begins with the appearance of the primitive streak on the",
+      "options": [
+        {
+          "label": "A",
+          "text": "cranial midline of the hypoblast"
+        },
+        {
+          "label": "B",
+          "text": "surface of the trophoblast"
+        },
+        {
+          "label": "C",
+          "text": "edge of the amnion"
+        },
+        {
+          "label": "D",
+          "text": "notochordal plate"
+        },
+        {
+          "label": "E",
+          "text": "caudal midline of the epiblast"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The primitive streak appears in the caudal (posterior) three-fifths of the epiblast around day 15-16.",
+      "topicId": "e-disc",
+      "subtopic": "Gastrulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-046",
+      "type": "single-best",
+      "stem": "Epiblast cells ingress through the primitive streak by a process called",
+      "options": [
+        {
+          "label": "A",
+          "text": "epithelial-to-mesenchymal transition"
+        },
+        {
+          "label": "B",
+          "text": "repeated mitosis without growth"
+        },
+        {
+          "label": "C",
+          "text": "programmed apoptosis"
+        },
+        {
+          "label": "D",
+          "text": "blastomere compaction"
+        },
+        {
+          "label": "E",
+          "text": "endometrial decidualization"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "EMT (driven by Snail repressing E-cadherin, with FGF8/WNT) lets epiblast cells detach and migrate through the streak.",
+      "topicId": "e-disc",
+      "subtopic": "Gastrulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-047",
+      "type": "single-best",
+      "stem": "The master inducer (a TGF-beta family member) that initiates primitive-streak formation is",
+      "options": [
+        {
+          "label": "A",
+          "text": "BMP4"
+        },
+        {
+          "label": "B",
+          "text": "NODAL"
+        },
+        {
+          "label": "C",
+          "text": "Sonic hedgehog"
+        },
+        {
+          "label": "D",
+          "text": "CDX2"
+        },
+        {
+          "label": "E",
+          "text": "NANOG"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "NODAL induces the primitive streak; WNT3/beta-catenin and FGF8 reinforce streak formation and migration.",
+      "topicId": "e-disc",
+      "subtopic": "Gastrulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-048",
+      "type": "single-best",
+      "stem": "The first wave of cells migrating through the primitive streak displaces the hypoblast to become",
+      "options": [
+        {
+          "label": "A",
+          "text": "notochord"
+        },
+        {
+          "label": "B",
+          "text": "neural crest"
+        },
+        {
+          "label": "C",
+          "text": "definitive endoderm"
+        },
+        {
+          "label": "D",
+          "text": "intraembryonic mesoderm"
+        },
+        {
+          "label": "E",
+          "text": "ectoderm"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The first wave forms definitive endoderm (also replacing Heuser's membrane); the second wave forms mesoderm; epiblast left behind is ectoderm.",
+      "topicId": "e-disc",
+      "subtopic": "Gastrulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-049",
+      "type": "single-best",
+      "stem": "The notochord secretes which signalling molecule to pattern the neural tube and somites?",
+      "options": [
+        {
+          "label": "A",
+          "text": "hCG"
+        },
+        {
+          "label": "B",
+          "text": "WNT3"
+        },
+        {
+          "label": "C",
+          "text": "E-cadherin"
+        },
+        {
+          "label": "D",
+          "text": "Sonic hedgehog"
+        },
+        {
+          "label": "E",
+          "text": "NODAL"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The notochord secretes Sonic hedgehog, induces neuroectoderm (inhibiting BMP) and establishes the midline axis.",
+      "topicId": "e-disc",
+      "subtopic": "Notochord",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-050",
+      "type": "single-best",
+      "stem": "The two points where ectoderm and endoderm stay fused with no intervening mesoderm are the",
+      "options": [
+        {
+          "label": "A",
+          "text": "amnion and chorion"
+        },
+        {
+          "label": "B",
+          "text": "primitive node and streak"
+        },
+        {
+          "label": "C",
+          "text": "buccopharyngeal membrane and notochord"
+        },
+        {
+          "label": "D",
+          "text": "two yolk sacs"
+        },
+        {
+          "label": "E",
+          "text": "oropharyngeal and cloacal membranes"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Mesoderm surrounds the disc except at the cranial oropharyngeal (buccopharyngeal) and caudal cloacal membranes.",
+      "topicId": "e-disc",
+      "subtopic": "Gastrulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-051",
+      "type": "single-best",
+      "stem": "The human embryo has a total of how many pairs of somites?",
+      "options": [
+        {
+          "label": "A",
+          "text": "42 to 44"
+        },
+        {
+          "label": "B",
+          "text": "7"
+        },
+        {
+          "label": "C",
+          "text": "12"
+        },
+        {
+          "label": "D",
+          "text": "20 to 25"
+        },
+        {
+          "label": "E",
+          "text": "60"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "There are 42-44 somites: 5 occipital, 7 cervical, 12 thoracic, 5 lumbar, 5 sacral and 8-10 coccygeal, appearing days 20-31.",
+      "topicId": "e-disc",
+      "subtopic": "Somites",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-052",
+      "type": "single-best",
+      "stem": "The lateral plate mesoderm is split into somatic and splanchnic layers by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "chorionic cavity"
+        },
+        {
+          "label": "B",
+          "text": "intraembryonic coelom"
+        },
+        {
+          "label": "C",
+          "text": "neural canal"
+        },
+        {
+          "label": "D",
+          "text": "primitive groove"
+        },
+        {
+          "label": "E",
+          "text": "amniotic cavity"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "A cavity (the intraembryonic coelom) splits the lateral plate into somatic (parietal) and splanchnic (visceral) leaflets.",
+      "topicId": "e-disc",
+      "subtopic": "Mesoderm",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-053",
+      "type": "single-best",
+      "stem": "The embryonic period of organogenesis, when the embryo is most sensitive to teratogens, spans weeks",
+      "options": [
+        {
+          "label": "A",
+          "text": "8 to 12"
+        },
+        {
+          "label": "B",
+          "text": "12 to 16"
+        },
+        {
+          "label": "C",
+          "text": "3 to 8"
+        },
+        {
+          "label": "D",
+          "text": "1 to 2"
+        },
+        {
+          "label": "E",
+          "text": "9 to 12"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Gastrulation begins the embryonic stage (weeks 3-8) of organogenesis, a period of high teratogen susceptibility.",
+      "topicId": "e-disc",
+      "subtopic": "Embryonic period",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-054",
+      "type": "single-best",
+      "stem": "Insufficient migration of mesoderm around the oropharyngeal membrane is associated with",
+      "options": [
+        {
+          "label": "A",
+          "text": "sacrococcygeal teratoma"
+        },
+        {
+          "label": "B",
+          "text": "spina bifida"
+        },
+        {
+          "label": "C",
+          "text": "situs inversus"
+        },
+        {
+          "label": "D",
+          "text": "holoprosencephaly"
+        },
+        {
+          "label": "E",
+          "text": "sirenomelia"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Deficient cranial mesoderm underlies holoprosencephaly (failure of forebrain cleavage); deficient caudal mesoderm gives sirenomelia.",
+      "topicId": "e-disc",
+      "subtopic": "Anomalies",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-055",
+      "type": "single-best",
+      "stem": "Caudal dysgenesis with fused lower limbs (the 'mermaid' malformation) from insufficient caudal mesoderm is",
+      "options": [
+        {
+          "label": "A",
+          "text": "holoprosencephaly"
+        },
+        {
+          "label": "B",
+          "text": "omphalocele"
+        },
+        {
+          "label": "C",
+          "text": "gastroschisis"
+        },
+        {
+          "label": "D",
+          "text": "meromelia"
+        },
+        {
+          "label": "E",
+          "text": "sirenomelia"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Sirenomelia (caudal dysgenesis) results from deficient mesoderm around the cloacal membrane.",
+      "topicId": "e-disc",
+      "subtopic": "Anomalies",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-056",
+      "type": "single-best",
+      "stem": "Remnants of the primitive streak that persist can give rise, in the newborn, to a",
+      "options": [
+        {
+          "label": "A",
+          "text": "sacrococcygeal teratoma"
+        },
+        {
+          "label": "B",
+          "text": "Wilms tumour"
+        },
+        {
+          "label": "C",
+          "text": "neuroblastoma"
+        },
+        {
+          "label": "D",
+          "text": "hydatidiform mole"
+        },
+        {
+          "label": "E",
+          "text": "dermoid cyst of the ovary"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Failed degeneration of primitive-streak cells can produce a sacrococcygeal teratoma in the buttock region.",
+      "topicId": "e-disc",
+      "subtopic": "Anomalies",
+      "difficulty": "hard"
+    }
+  ]
+}
