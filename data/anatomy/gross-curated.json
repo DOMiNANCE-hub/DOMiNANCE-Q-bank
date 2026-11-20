@@ -19436,6 +19436,2310 @@
       "topicId": "g-ans",
       "subtopic": "Autonomic innervation",
       "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-001",
+      "type": "single-best",
+      "stem": "The kidneys normally extend between which vertebral levels?",
+      "options": [
+        {
+          "label": "A",
+          "text": "T12 to L3"
+        },
+        {
+          "label": "B",
+          "text": "T8 to T12"
+        },
+        {
+          "label": "C",
+          "text": "L2 to L5"
+        },
+        {
+          "label": "D",
+          "text": "T10 to L1"
+        },
+        {
+          "label": "E",
+          "text": "L1 to S1"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The kidneys lie against the posterior abdominal wall from about T12 to L3.",
+      "topicId": "g-urinary",
+      "subtopic": "Kidney location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-002",
+      "type": "single-best",
+      "stem": "The long axis of each kidney runs parallel to the lateral border of which muscle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "iliacus"
+        },
+        {
+          "label": "B",
+          "text": "psoas major"
+        },
+        {
+          "label": "C",
+          "text": "quadratus lumborum"
+        },
+        {
+          "label": "D",
+          "text": "transversus abdominis"
+        },
+        {
+          "label": "E",
+          "text": "erector spinae"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Each kidney lies obliquely with its long axis along the lateral border of psoas major.",
+      "topicId": "g-urinary",
+      "subtopic": "Kidney location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-003",
+      "type": "single-best",
+      "stem": "Because each kidney lies obliquely on psoas major, its upper pole is",
+      "options": [
+        {
+          "label": "A",
+          "text": "tilted anteriorly"
+        },
+        {
+          "label": "B",
+          "text": "at the level of the iliac crest"
+        },
+        {
+          "label": "C",
+          "text": "nearer the midline than the lower pole"
+        },
+        {
+          "label": "D",
+          "text": "further from the midline than the lower pole"
+        },
+        {
+          "label": "E",
+          "text": "directly above the lower pole"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The oblique lie brings the upper pole closer to the midline (and more posterior) than the lower pole.",
+      "topicId": "g-urinary",
+      "subtopic": "Kidney location",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-004",
+      "type": "single-best",
+      "stem": "The transpyloric plane passes through the hila such that it crosses the",
+      "options": [
+        {
+          "label": "A",
+          "text": "both hila at their midpoints"
+        },
+        {
+          "label": "B",
+          "text": "lower poles of both kidneys"
+        },
+        {
+          "label": "C",
+          "text": "upper poles of both kidneys"
+        },
+        {
+          "label": "D",
+          "text": "superior part of the right hilum and inferior part of the left hilum"
+        },
+        {
+          "label": "E",
+          "text": "inferior part of the right hilum and superior part of the left hilum"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The transpyloric plane (L1) crosses the upper right hilum and the lower left hilum.",
+      "topicId": "g-urinary",
+      "subtopic": "Kidney location",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-005",
+      "type": "single-best",
+      "stem": "During quiet respiration the kidneys move within their fascial sheath by about",
+      "options": [
+        {
+          "label": "A",
+          "text": "5 to 6 cm in any direction"
+        },
+        {
+          "label": "B",
+          "text": "less than 1 mm"
+        },
+        {
+          "label": "C",
+          "text": "2 to 3 cm, side to side"
+        },
+        {
+          "label": "D",
+          "text": "only when standing"
+        },
+        {
+          "label": "E",
+          "text": "2 to 3 cm, vertically only"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The kidneys descend and ascend 2-3 cm with respiration, moving only up and down.",
+      "topicId": "g-urinary",
+      "subtopic": "Kidney location",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-006",
+      "type": "single-best",
+      "stem": "From the kidney surface outward, the correct order of coverings is",
+      "options": [
+        {
+          "label": "A",
+          "text": "fibrous capsule, perirenal fat, renal fascia, pararenal fat"
+        },
+        {
+          "label": "B",
+          "text": "renal fascia, perirenal fat, fibrous capsule, pararenal fat"
+        },
+        {
+          "label": "C",
+          "text": "perirenal fat, fibrous capsule, pararenal fat, renal fascia"
+        },
+        {
+          "label": "D",
+          "text": "pararenal fat, renal fascia, perirenal fat, fibrous capsule"
+        },
+        {
+          "label": "E",
+          "text": "fibrous capsule, renal fascia, perirenal fat, pararenal fat"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Inside to outside: true fibrous capsule, perirenal fat, renal (Gerota's) fascia, then pararenal fat.",
+      "topicId": "g-urinary",
+      "subtopic": "Kidney coverings",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-007",
+      "type": "single-best",
+      "stem": "The renal (Gerota's) fascia encloses the kidney, perirenal fat and also the",
+      "options": [
+        {
+          "label": "A",
+          "text": "second part of duodenum"
+        },
+        {
+          "label": "B",
+          "text": "suprarenal gland"
+        },
+        {
+          "label": "C",
+          "text": "liver"
+        },
+        {
+          "label": "D",
+          "text": "spleen"
+        },
+        {
+          "label": "E",
+          "text": "pancreas"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Renal fascia encloses the kidney, perirenal fat, vessels, upper ureter and the suprarenal gland.",
+      "topicId": "g-urinary",
+      "subtopic": "Kidney coverings",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-008",
+      "type": "single-best",
+      "stem": "Downward tracking of a perinephric abscess toward the pelvis is possible because the renal fascia is",
+      "options": [
+        {
+          "label": "A",
+          "text": "fused to the peritoneum"
+        },
+        {
+          "label": "B",
+          "text": "attached to the diaphragm below"
+        },
+        {
+          "label": "C",
+          "text": "weakly attached or open inferiorly"
+        },
+        {
+          "label": "D",
+          "text": "firmly closed inferiorly"
+        },
+        {
+          "label": "E",
+          "text": "attached to the iliac crest"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The inferior part of the renal fascia has weak or absent attachments, so pus or fluid can track down to the pelvis.",
+      "topicId": "g-urinary",
+      "subtopic": "Kidney coverings",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-009",
+      "type": "single-best",
+      "stem": "Downward displacement of the kidney by more than about 5 cm is termed",
+      "options": [
+        {
+          "label": "A",
+          "text": "nephrolithiasis"
+        },
+        {
+          "label": "B",
+          "text": "horseshoe kidney"
+        },
+        {
+          "label": "C",
+          "text": "polycystic kidney"
+        },
+        {
+          "label": "D",
+          "text": "nephroptosis"
+        },
+        {
+          "label": "E",
+          "text": "hydronephrosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Nephroptosis ('floating kidney') is descent >5 cm from poor fascial/fat support and can kink the ureter.",
+      "topicId": "g-urinary",
+      "subtopic": "Clinical",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-010",
+      "type": "single-best",
+      "stem": "The fat-filled space inside the kidney that houses the pelvis, calyces and vessels is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "renal column"
+        },
+        {
+          "label": "B",
+          "text": "renal pyramid"
+        },
+        {
+          "label": "C",
+          "text": "renal papilla"
+        },
+        {
+          "label": "D",
+          "text": "perinephric space"
+        },
+        {
+          "label": "E",
+          "text": "renal sinus"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The renal sinus, entered through the hilum, contains the renal pelvis, calyces, vessels and nerves in fat.",
+      "topicId": "g-urinary",
+      "subtopic": "Kidney structure",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-011",
+      "type": "single-best",
+      "stem": "The combined capacity of the renal pelvis and calyces is only about",
+      "options": [
+        {
+          "label": "A",
+          "text": "8 ml"
+        },
+        {
+          "label": "B",
+          "text": "80 ml"
+        },
+        {
+          "label": "C",
+          "text": "40 ml"
+        },
+        {
+          "label": "D",
+          "text": "1 ml"
+        },
+        {
+          "label": "E",
+          "text": "25 ml"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The pelvicalyceal system holds roughly 8 ml, which matters when injecting contrast.",
+      "topicId": "g-urinary",
+      "subtopic": "Kidney structure",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-012",
+      "type": "single-best",
+      "stem": "Inward extensions of cortical tissue that lie between the renal pyramids are the",
+      "options": [
+        {
+          "label": "A",
+          "text": "renal sinuses"
+        },
+        {
+          "label": "B",
+          "text": "renal columns"
+        },
+        {
+          "label": "C",
+          "text": "renal papillae"
+        },
+        {
+          "label": "D",
+          "text": "medullary rays"
+        },
+        {
+          "label": "E",
+          "text": "minor calyces"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Renal columns of Bertin are cortical extensions separating the pyramids.",
+      "topicId": "g-urinary",
+      "subtopic": "Kidney structure",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-013",
+      "type": "single-best",
+      "stem": "The apex of a renal pyramid, which projects into a minor calyx, is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "renal sinus"
+        },
+        {
+          "label": "B",
+          "text": "major calyx"
+        },
+        {
+          "label": "C",
+          "text": "renal papilla"
+        },
+        {
+          "label": "D",
+          "text": "renal column"
+        },
+        {
+          "label": "E",
+          "text": "renal hilum"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The papilla is the pyramid apex; its papillary ducts open into the minor calyx.",
+      "topicId": "g-urinary",
+      "subtopic": "Kidney structure",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-014",
+      "type": "single-best",
+      "stem": "At the renal hilum, the structures from superior to inferior are arranged as",
+      "options": [
+        {
+          "label": "A",
+          "text": "pelvis, artery, vein"
+        },
+        {
+          "label": "B",
+          "text": "vein, pelvis, artery"
+        },
+        {
+          "label": "C",
+          "text": "artery, pelvis, vein"
+        },
+        {
+          "label": "D",
+          "text": "artery, vein, pelvis"
+        },
+        {
+          "label": "E",
+          "text": "vein, artery, pelvis"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Superior to inferior the hilar order is artery, vein, pelvis (AVP); front to back it is vein, artery, pelvis (VAP).",
+      "topicId": "g-urinary",
+      "subtopic": "Kidney structure",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-015",
+      "type": "single-best",
+      "stem": "An extrarenal (protruding) renal pelvis, compared with an intrarenal one, makes",
+      "options": [
+        {
+          "label": "A",
+          "text": "nephrectomy impossible"
+        },
+        {
+          "label": "B",
+          "text": "the kidney non-functional"
+        },
+        {
+          "label": "C",
+          "text": "hydronephrosis inevitable"
+        },
+        {
+          "label": "D",
+          "text": "the ureter longer"
+        },
+        {
+          "label": "E",
+          "text": "pyelolithotomy easier"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "A pelvis that protrudes outside the parenchyma is easier to open surgically for stones than a buried (intrarenal) pelvis.",
+      "topicId": "g-urinary",
+      "subtopic": "Clinical",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-016",
+      "type": "single-best",
+      "stem": "The renal artery arises from the abdominal aorta at about the level of",
+      "options": [
+        {
+          "label": "A",
+          "text": "L2, just below the superior mesenteric artery"
+        },
+        {
+          "label": "B",
+          "text": "T12, at the coeliac trunk"
+        },
+        {
+          "label": "C",
+          "text": "L4, at the aortic bifurcation"
+        },
+        {
+          "label": "D",
+          "text": "L1, above the coeliac trunk"
+        },
+        {
+          "label": "E",
+          "text": "L3, at the inferior mesenteric artery"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The renal arteries leave the aorta at L2, just below the superior mesenteric artery.",
+      "topicId": "g-urinary",
+      "subtopic": "Renal vessels",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-017",
+      "type": "single-best",
+      "stem": "The kidneys receive approximately what fraction of the resting cardiac output?",
+      "options": [
+        {
+          "label": "A",
+          "text": "75%"
+        },
+        {
+          "label": "B",
+          "text": "20 to 25%"
+        },
+        {
+          "label": "C",
+          "text": "1 to 2%"
+        },
+        {
+          "label": "D",
+          "text": "50 to 60%"
+        },
+        {
+          "label": "E",
+          "text": "5 to 10%"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The kidneys take about 20-25% of resting cardiac output.",
+      "topicId": "g-urinary",
+      "subtopic": "Renal vessels",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-018",
+      "type": "single-best",
+      "stem": "The left renal vein is longer than the right and is preferred for live-donor nephrectomy; it crosses the midline",
+      "options": [
+        {
+          "label": "A",
+          "text": "posterior to the IVC"
+        },
+        {
+          "label": "B",
+          "text": "behind the SMA only"
+        },
+        {
+          "label": "C",
+          "text": "anterior to the aorta"
+        },
+        {
+          "label": "D",
+          "text": "posterior to the aorta"
+        },
+        {
+          "label": "E",
+          "text": "anterior to the IVC"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The left renal vein passes anterior to the aorta (and behind the SMA) and is about three times longer than the right.",
+      "topicId": "g-urinary",
+      "subtopic": "Renal vessels",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-019",
+      "type": "single-best",
+      "stem": "The left renal vein, unlike the right, receives the",
+      "options": [
+        {
+          "label": "A",
+          "text": "the hepatic portal vein"
+        },
+        {
+          "label": "B",
+          "text": "the hepatic veins"
+        },
+        {
+          "label": "C",
+          "text": "the inferior mesenteric vein"
+        },
+        {
+          "label": "D",
+          "text": "gonadal and suprarenal veins"
+        },
+        {
+          "label": "E",
+          "text": "the right gonadal vein"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The left renal vein receives the left suprarenal, gonadal and a lumbar vein; the right gonadal and suprarenal veins drain directly to the IVC.",
+      "topicId": "g-urinary",
+      "subtopic": "Renal vessels",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-020",
+      "type": "single-best",
+      "stem": "Compression of the left renal vein between the aorta and the superior mesenteric artery causes",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wilkie syndrome"
+        },
+        {
+          "label": "B",
+          "text": "nephroptosis"
+        },
+        {
+          "label": "C",
+          "text": "horseshoe kidney"
+        },
+        {
+          "label": "D",
+          "text": "renal colic"
+        },
+        {
+          "label": "E",
+          "text": "nutcracker syndrome"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Nutcracker syndrome is left-renal-vein compression, giving haematuria, flank pain and sometimes a left varicocele.",
+      "topicId": "g-urinary",
+      "subtopic": "Clinical",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-021",
+      "type": "single-best",
+      "stem": "The relatively avascular surgical plane of the kidney, used for incisions during nephrolithotomy, is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "line of Brodel"
+        },
+        {
+          "label": "B",
+          "text": "line of Toldt"
+        },
+        {
+          "label": "C",
+          "text": "white line of Hilton"
+        },
+        {
+          "label": "D",
+          "text": "arcuate line"
+        },
+        {
+          "label": "E",
+          "text": "linea alba"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The avascular line of Brodel lies between the anterior and posterior arterial territories, on the posterolateral border.",
+      "topicId": "g-urinary",
+      "subtopic": "Renal vessels",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-022",
+      "type": "single-best",
+      "stem": "An inferior polar (accessory) renal artery is clinically important because it may",
+      "options": [
+        {
+          "label": "A",
+          "text": "bypass the glomeruli"
+        },
+        {
+          "label": "B",
+          "text": "cross and obstruct the ureter"
+        },
+        {
+          "label": "C",
+          "text": "supply the whole kidney alone"
+        },
+        {
+          "label": "D",
+          "text": "drain the kidney of blood"
+        },
+        {
+          "label": "E",
+          "text": "replace the renal vein"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "A lower polar artery can cross the pelviureteric junction and obstruct it, producing hydronephrosis.",
+      "topicId": "g-urinary",
+      "subtopic": "Renal vessels",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-023",
+      "type": "single-best",
+      "stem": "Lymph from the kidney drains directly to the",
+      "options": [
+        {
+          "label": "A",
+          "text": "coeliac nodes"
+        },
+        {
+          "label": "B",
+          "text": "superior mesenteric nodes"
+        },
+        {
+          "label": "C",
+          "text": "para-aortic nodes"
+        },
+        {
+          "label": "D",
+          "text": "superficial inguinal nodes"
+        },
+        {
+          "label": "E",
+          "text": "internal iliac nodes"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Renal lymph drains to the para-aortic (lateral aortic) nodes at L2.",
+      "topicId": "g-urinary",
+      "subtopic": "Renal vessels",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-024",
+      "type": "single-best",
+      "stem": "Sympathetic fibres to the kidney synapse mainly in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "superior mesenteric ganglion"
+        },
+        {
+          "label": "B",
+          "text": "inferior mesenteric ganglion"
+        },
+        {
+          "label": "C",
+          "text": "dorsal root ganglion"
+        },
+        {
+          "label": "D",
+          "text": "aorticorenal ganglion"
+        },
+        {
+          "label": "E",
+          "text": "coeliac ganglion only"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Renal sympathetics (T10-L1) relay chiefly in the aorticorenal ganglion and form the renal plexus.",
+      "topicId": "g-urinary",
+      "subtopic": "Kidney innervation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-025",
+      "type": "single-best",
+      "stem": "Stimulation of the renal sympathetic nerves produces",
+      "options": [
+        {
+          "label": "A",
+          "text": "vasodilatation with increased GFR"
+        },
+        {
+          "label": "B",
+          "text": "increased urine output"
+        },
+        {
+          "label": "C",
+          "text": "contraction of the detrusor"
+        },
+        {
+          "label": "D",
+          "text": "relaxation of the ureter"
+        },
+        {
+          "label": "E",
+          "text": "vasoconstriction and renin release"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Sympathetic activity causes renal vasoconstriction, lowers GFR and stimulates renin release.",
+      "topicId": "g-urinary",
+      "subtopic": "Kidney innervation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-026",
+      "type": "single-best",
+      "stem": "Renal pain from capsular stretch or pelviureteric obstruction is typically felt in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "the flank and loin"
+        },
+        {
+          "label": "B",
+          "text": "epigastrium"
+        },
+        {
+          "label": "C",
+          "text": "suprapubic region"
+        },
+        {
+          "label": "D",
+          "text": "right iliac fossa"
+        },
+        {
+          "label": "E",
+          "text": "umbilicus"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Renal pain is referred to the flank/loin in the T12-L1 distribution and may radiate to the groin.",
+      "topicId": "g-urinary",
+      "subtopic": "Kidney innervation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-027",
+      "type": "single-best",
+      "stem": "Tenderness elicited by percussion at the costovertebral angle (Murphy's kidney punch) suggests",
+      "options": [
+        {
+          "label": "A",
+          "text": "splenic rupture"
+        },
+        {
+          "label": "B",
+          "text": "acute pyelonephritis"
+        },
+        {
+          "label": "C",
+          "text": "appendicitis"
+        },
+        {
+          "label": "D",
+          "text": "cholecystitis"
+        },
+        {
+          "label": "E",
+          "text": "a peptic ulcer"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Costovertebral-angle tenderness points to renal inflammation such as acute pyelonephritis.",
+      "topicId": "g-urinary",
+      "subtopic": "Clinical",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-028",
+      "type": "single-best",
+      "stem": "The right suprarenal gland is pyramidal in shape, while the left is",
+      "options": [
+        {
+          "label": "A",
+          "text": "star-shaped"
+        },
+        {
+          "label": "B",
+          "text": "flat and square"
+        },
+        {
+          "label": "C",
+          "text": "crescent-shaped"
+        },
+        {
+          "label": "D",
+          "text": "spherical"
+        },
+        {
+          "label": "E",
+          "text": "cylindrical"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The right adrenal is pyramidal; the left is crescentic (semilunar).",
+      "topicId": "g-urinary",
+      "subtopic": "Suprarenal gland",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-029",
+      "type": "single-best",
+      "stem": "The suprarenal gland is separated from the upper pole of the kidney by",
+      "options": [
+        {
+          "label": "A",
+          "text": "peritoneum"
+        },
+        {
+          "label": "B",
+          "text": "the diaphragm"
+        },
+        {
+          "label": "C",
+          "text": "pararenal fat"
+        },
+        {
+          "label": "D",
+          "text": "perirenal fat"
+        },
+        {
+          "label": "E",
+          "text": "the renal capsule only"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Although both lie within the renal fascia, perirenal fat separates the suprarenal gland from the kidney.",
+      "topicId": "g-urinary",
+      "subtopic": "Suprarenal gland",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-030",
+      "type": "single-best",
+      "stem": "The three arteries supplying each suprarenal gland arise from the inferior phrenic artery, the aorta and the",
+      "options": [
+        {
+          "label": "A",
+          "text": "gonadal artery"
+        },
+        {
+          "label": "B",
+          "text": "coeliac trunk"
+        },
+        {
+          "label": "C",
+          "text": "superior mesenteric artery"
+        },
+        {
+          "label": "D",
+          "text": "lumbar arteries"
+        },
+        {
+          "label": "E",
+          "text": "renal artery"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Superior suprarenal (from inferior phrenic), middle (from aorta) and inferior (from renal artery) supply the gland.",
+      "topicId": "g-urinary",
+      "subtopic": "Suprarenal gland",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-031",
+      "type": "single-best",
+      "stem": "The right suprarenal vein drains into the IVC, whereas the left suprarenal vein drains into the",
+      "options": [
+        {
+          "label": "A",
+          "text": "left renal vein"
+        },
+        {
+          "label": "B",
+          "text": "portal vein"
+        },
+        {
+          "label": "C",
+          "text": "splenic vein"
+        },
+        {
+          "label": "D",
+          "text": "inferior phrenic vein"
+        },
+        {
+          "label": "E",
+          "text": "left gonadal vein"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The short right suprarenal vein enters the IVC; the left drains into the left renal vein.",
+      "topicId": "g-urinary",
+      "subtopic": "Suprarenal gland",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-032",
+      "type": "single-best",
+      "stem": "The suprarenal medulla is innervated by",
+      "options": [
+        {
+          "label": "A",
+          "text": "sensory fibres only"
+        },
+        {
+          "label": "B",
+          "text": "preganglionic sympathetic fibres"
+        },
+        {
+          "label": "C",
+          "text": "postganglionic sympathetic fibres"
+        },
+        {
+          "label": "D",
+          "text": "parasympathetic vagal fibres"
+        },
+        {
+          "label": "E",
+          "text": "somatic fibres of the pudendal nerve"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Preganglionic sympathetic fibres (greater splanchnic, via the coeliac plexus) synapse directly on medullary chromaffin cells; the medulla has no parasympathetic supply.",
+      "topicId": "g-urinary",
+      "subtopic": "Suprarenal gland",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-033",
+      "type": "single-best",
+      "stem": "The ureter is approximately how long?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5 to 8 cm"
+        },
+        {
+          "label": "B",
+          "text": "50 cm"
+        },
+        {
+          "label": "C",
+          "text": "25 to 30 cm"
+        },
+        {
+          "label": "D",
+          "text": "10 to 15 cm"
+        },
+        {
+          "label": "E",
+          "text": "40 to 45 cm"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The ureter is a 25-30 cm retroperitoneal fibromuscular tube.",
+      "topicId": "g-urinary",
+      "subtopic": "Ureter",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-034",
+      "type": "single-best",
+      "stem": "At operation a ureter is identified because, when gently pinched, it",
+      "options": [
+        {
+          "label": "A",
+          "text": "collapses permanently"
+        },
+        {
+          "label": "B",
+          "text": "bleeds briskly"
+        },
+        {
+          "label": "C",
+          "text": "turns blue"
+        },
+        {
+          "label": "D",
+          "text": "shows peristalsis"
+        },
+        {
+          "label": "E",
+          "text": "pulsates strongly"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "A ureter is whitish, non-pulsatile and shows peristalsis when pinched (Kelly's sign).",
+      "topicId": "g-urinary",
+      "subtopic": "Ureter",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-035",
+      "type": "single-best",
+      "stem": "The fibromuscular sheath that fixes the pelvic ureter to the bladder is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gerota's fascia"
+        },
+        {
+          "label": "B",
+          "text": "Denonvilliers' fascia"
+        },
+        {
+          "label": "C",
+          "text": "Buck's fascia"
+        },
+        {
+          "label": "D",
+          "text": "Colles' fascia"
+        },
+        {
+          "label": "E",
+          "text": "Waldeyer sheath"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The pelvic ureter is enveloped by Waldeyer's sheath, anchoring it to the bladder.",
+      "topicId": "g-urinary",
+      "subtopic": "Ureter",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-036",
+      "type": "single-best",
+      "stem": "The oblique passage of the intravesical ureter through the bladder wall functions to",
+      "options": [
+        {
+          "label": "A",
+          "text": "prevent urine reflux"
+        },
+        {
+          "label": "B",
+          "text": "speed up urine flow"
+        },
+        {
+          "label": "C",
+          "text": "store urine"
+        },
+        {
+          "label": "D",
+          "text": "produce peristalsis"
+        },
+        {
+          "label": "E",
+          "text": "anchor the trigone"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The oblique intramural course acts as a flap valve, preventing reflux when the bladder contracts.",
+      "topicId": "g-urinary",
+      "subtopic": "Ureter",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-037",
+      "type": "single-best",
+      "stem": "The three normal constrictions of the ureter are the pelviureteric junction, the pelvic brim, and the",
+      "options": [
+        {
+          "label": "A",
+          "text": "membranous urethra"
+        },
+        {
+          "label": "B",
+          "text": "ureterovesical junction"
+        },
+        {
+          "label": "C",
+          "text": "mid-abdominal segment"
+        },
+        {
+          "label": "D",
+          "text": "renal papilla"
+        },
+        {
+          "label": "E",
+          "text": "trigone"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The ureterovesical junction, where the ureter pierces the bladder, is the narrowest of the three constrictions.",
+      "topicId": "g-urinary",
+      "subtopic": "Ureter",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-038",
+      "type": "single-best",
+      "stem": "At the pelvic brim the ureter is constricted as it crosses the",
+      "options": [
+        {
+          "label": "A",
+          "text": "inferior mesenteric artery"
+        },
+        {
+          "label": "B",
+          "text": "renal artery"
+        },
+        {
+          "label": "C",
+          "text": "common iliac artery bifurcation"
+        },
+        {
+          "label": "D",
+          "text": "aortic bifurcation"
+        },
+        {
+          "label": "E",
+          "text": "sacro-iliac joint only"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The ureter is narrowed where it crosses the common iliac artery bifurcation at the pelvic brim.",
+      "topicId": "g-urinary",
+      "subtopic": "Ureter",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-039",
+      "type": "single-best",
+      "stem": "In the male pelvis, the ureter near its termination is crossed superficially by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "prostatic urethra"
+        },
+        {
+          "label": "B",
+          "text": "spermatic cord"
+        },
+        {
+          "label": "C",
+          "text": "rectum"
+        },
+        {
+          "label": "D",
+          "text": "vas deferens"
+        },
+        {
+          "label": "E",
+          "text": "seminal vesicle"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The vas deferens crosses superficial (anterior) to the ureter in the male pelvis.",
+      "topicId": "g-urinary",
+      "subtopic": "Ureter",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-040",
+      "type": "single-best",
+      "stem": "In the female, the structure that crosses anterior to the ureter near the lateral fornix ('water under the bridge') is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "ovarian artery"
+        },
+        {
+          "label": "B",
+          "text": "internal iliac artery"
+        },
+        {
+          "label": "C",
+          "text": "vaginal artery"
+        },
+        {
+          "label": "D",
+          "text": "round ligament"
+        },
+        {
+          "label": "E",
+          "text": "uterine artery"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The uterine artery crosses above (anterior to) the ureter near the lateral vaginal fornix - 'water under the bridge'.",
+      "topicId": "g-urinary",
+      "subtopic": "Ureter",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-041",
+      "type": "single-best",
+      "stem": "Ureteric peristalsis is generated primarily by",
+      "options": [
+        {
+          "label": "A",
+          "text": "pacemaker cells in the renal pelvis"
+        },
+        {
+          "label": "B",
+          "text": "the sympathetic chain"
+        },
+        {
+          "label": "C",
+          "text": "the pudendal nerve"
+        },
+        {
+          "label": "D",
+          "text": "stretch of the bladder trigone"
+        },
+        {
+          "label": "E",
+          "text": "contraction of psoas major"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Pacemaker cells in the renal pelvis/minor calyces drive peristalsis; autonomic input is only modulatory.",
+      "topicId": "g-urinary",
+      "subtopic": "Ureter",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-042",
+      "type": "single-best",
+      "stem": "Ureteric colic from a stone classically radiates",
+      "options": [
+        {
+          "label": "A",
+          "text": "to the umbilicus only"
+        },
+        {
+          "label": "B",
+          "text": "from loin to groin"
+        },
+        {
+          "label": "C",
+          "text": "from epigastrium to back"
+        },
+        {
+          "label": "D",
+          "text": "across the upper abdomen"
+        },
+        {
+          "label": "E",
+          "text": "to the shoulder tip"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Ureteric colic (T11-L2 afferents) refers pain from the loin to the groin, scrotum/labia or tip of penis.",
+      "topicId": "g-urinary",
+      "subtopic": "Clinical",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-043",
+      "type": "single-best",
+      "stem": "During dissection, the abdominal ureter's blood supply is approached from the lateral side because its vessels there arise",
+      "options": [
+        {
+          "label": "A",
+          "text": "posteriorly"
+        },
+        {
+          "label": "B",
+          "text": "from below"
+        },
+        {
+          "label": "C",
+          "text": "medially"
+        },
+        {
+          "label": "D",
+          "text": "laterally"
+        },
+        {
+          "label": "E",
+          "text": "anteriorly"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Abdominal ureteric vessels come from medial sources, so dissection is kept lateral; in the pelvis vessels are lateral, so dissection is medial.",
+      "topicId": "g-urinary",
+      "subtopic": "Ureter",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-044",
+      "type": "single-best",
+      "stem": "The smooth muscle that forms the wall of the bladder and contracts during micturition is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "levator ani"
+        },
+        {
+          "label": "B",
+          "text": "obturator internus"
+        },
+        {
+          "label": "C",
+          "text": "cremaster"
+        },
+        {
+          "label": "D",
+          "text": "detrusor muscle"
+        },
+        {
+          "label": "E",
+          "text": "psoas muscle"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The detrusor is the bladder-wall smooth muscle that contracts to expel urine.",
+      "topicId": "g-urinary",
+      "subtopic": "Bladder",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-g-urinary-045",
+      "type": "single-best",
+      "stem": "In young children, before it is purely pelvic, the bladder is",
+      "options": [
+        {
+          "label": "A",
+          "text": "entirely intrathoracic"
+        },
+        {
+          "label": "B",
+          "text": "retroperitoneal in the flank"
+        },
+        {
+          "label": "C",
+          "text": "within the perineum"
+        },
+        {
+          "label": "D",
+          "text": "absent until age two"
+        },
+        {
+          "label": "E",
+          "text": "an abdominal organ"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "In children the bladder lies in the abdomen; it becomes a pelvic organ in the adult (except when very full).",
+      "topicId": "g-urinary",
+      "subtopic": "Bladder",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-046",
+      "type": "single-best",
+      "stem": "The normal adult bladder capacity is about",
+      "options": [
+        {
+          "label": "A",
+          "text": "400 to 600 ml"
+        },
+        {
+          "label": "B",
+          "text": "50 to 100 ml"
+        },
+        {
+          "label": "C",
+          "text": "1 to 1.5 litres"
+        },
+        {
+          "label": "D",
+          "text": "150 to 200 ml"
+        },
+        {
+          "label": "E",
+          "text": "2 litres"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The adult bladder comfortably holds about 400-600 ml.",
+      "topicId": "g-urinary",
+      "subtopic": "Bladder",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-047",
+      "type": "single-best",
+      "stem": "The trigone of the bladder is bounded by the two ureteric orifices and the",
+      "options": [
+        {
+          "label": "A",
+          "text": "interureteric bar"
+        },
+        {
+          "label": "B",
+          "text": "internal urethral orifice"
+        },
+        {
+          "label": "C",
+          "text": "external urethral orifice"
+        },
+        {
+          "label": "D",
+          "text": "apex of the bladder"
+        },
+        {
+          "label": "E",
+          "text": "uvula vesicae"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The trigone is the smooth triangle between the two ureteric orifices and the internal urethral orifice.",
+      "topicId": "g-urinary",
+      "subtopic": "Bladder",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-048",
+      "type": "single-best",
+      "stem": "Unlike the rest of the bladder lining, the trigone is",
+      "options": [
+        {
+          "label": "A",
+          "text": "lined by skin"
+        },
+        {
+          "label": "B",
+          "text": "muscular only"
+        },
+        {
+          "label": "C",
+          "text": "smooth, with no rugae"
+        },
+        {
+          "label": "D",
+          "text": "heavily folded"
+        },
+        {
+          "label": "E",
+          "text": "covered by peritoneum"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The trigone mucosa is smooth and firmly bound down, lacking the rugae of the rest of the bladder.",
+      "topicId": "g-urinary",
+      "subtopic": "Bladder",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-049",
+      "type": "single-best",
+      "stem": "The ridge between the two ureteric orifices that guides the cystoscopist to them is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "urethral crest"
+        },
+        {
+          "label": "B",
+          "text": "median umbilical fold"
+        },
+        {
+          "label": "C",
+          "text": "seminal colliculus"
+        },
+        {
+          "label": "D",
+          "text": "interureteric bar"
+        },
+        {
+          "label": "E",
+          "text": "uvula vesicae"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The interureteric bar (bar of Mercier) connects the ureteric orifices and guides cystoscopy.",
+      "topicId": "g-urinary",
+      "subtopic": "Bladder",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-050",
+      "type": "single-best",
+      "stem": "The uvula vesicae, a mucosal elevation behind the internal urethral orifice, is produced by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "detrusor muscle"
+        },
+        {
+          "label": "B",
+          "text": "trigone muscle"
+        },
+        {
+          "label": "C",
+          "text": "seminal vesicle"
+        },
+        {
+          "label": "D",
+          "text": "bladder apex"
+        },
+        {
+          "label": "E",
+          "text": "prostate median lobe"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The uvula vesicae overlies the prostatic median lobe, which is prone to benign hyperplasia.",
+      "topicId": "g-urinary",
+      "subtopic": "Bladder",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-051",
+      "type": "single-best",
+      "stem": "The retropubic space between the bladder and pubic symphysis is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "space of Retzius"
+        },
+        {
+          "label": "B",
+          "text": "pouch of Douglas"
+        },
+        {
+          "label": "C",
+          "text": "space of Bogros"
+        },
+        {
+          "label": "D",
+          "text": "rectovesical pouch"
+        },
+        {
+          "label": "E",
+          "text": "ischiorectal fossa"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The retropubic space (of Retzius) separates the anterior bladder from the pubic symphysis.",
+      "topicId": "g-urinary",
+      "subtopic": "Bladder",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-052",
+      "type": "single-best",
+      "stem": "The apex of the bladder is attached to the umbilicus by the median umbilical ligament, a remnant of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "an umbilical artery"
+        },
+        {
+          "label": "B",
+          "text": "the urachus"
+        },
+        {
+          "label": "C",
+          "text": "the vitelline duct"
+        },
+        {
+          "label": "D",
+          "text": "the ductus venosus"
+        },
+        {
+          "label": "E",
+          "text": "the mesonephric duct"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The median umbilical ligament is the fibrous remnant of the urachus (allantois).",
+      "topicId": "g-urinary",
+      "subtopic": "Bladder",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-053",
+      "type": "single-best",
+      "stem": "In the male, the base (posterior surface) of the bladder is related to the",
+      "options": [
+        {
+          "label": "A",
+          "text": "body of the uterus"
+        },
+        {
+          "label": "B",
+          "text": "ovaries"
+        },
+        {
+          "label": "C",
+          "text": "the seminal vesicles"
+        },
+        {
+          "label": "D",
+          "text": "prostate only"
+        },
+        {
+          "label": "E",
+          "text": "sigmoid colon"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The male bladder base relates to the seminal vesicles and the ampullae of the vasa deferentia.",
+      "topicId": "g-urinary",
+      "subtopic": "Bladder",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-054",
+      "type": "single-best",
+      "stem": "The male bladder base is separated from the rectum by",
+      "options": [
+        {
+          "label": "A",
+          "text": "the vesicovaginal septum"
+        },
+        {
+          "label": "B",
+          "text": "Gerota's fascia"
+        },
+        {
+          "label": "C",
+          "text": "Buck's fascia"
+        },
+        {
+          "label": "D",
+          "text": "Denonvilliers' fascia"
+        },
+        {
+          "label": "E",
+          "text": "Waldeyer's sheath"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Denonvilliers' (rectovesical) fascia lies between the male bladder base/prostate and the rectum.",
+      "topicId": "g-urinary",
+      "subtopic": "Bladder",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-055",
+      "type": "single-best",
+      "stem": "The bladder is supplied mainly by the superior and inferior vesical arteries, which are branches of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "external iliac artery"
+        },
+        {
+          "label": "B",
+          "text": "inferior mesenteric artery"
+        },
+        {
+          "label": "C",
+          "text": "internal pudendal artery"
+        },
+        {
+          "label": "D",
+          "text": "median sacral artery"
+        },
+        {
+          "label": "E",
+          "text": "internal iliac artery"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The vesical arteries arise from the internal iliac artery; in females the inferior vesical is replaced by the vaginal artery.",
+      "topicId": "g-urinary",
+      "subtopic": "Bladder",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-056",
+      "type": "single-best",
+      "stem": "Parasympathetic fibres (S2-S4) to the bladder, on stimulation,",
+      "options": [
+        {
+          "label": "A",
+          "text": "contract the detrusor, relax the internal sphincter"
+        },
+        {
+          "label": "B",
+          "text": "relax the detrusor and contract the internal sphincter"
+        },
+        {
+          "label": "C",
+          "text": "contract both detrusor and internal sphincter"
+        },
+        {
+          "label": "D",
+          "text": "have no effect on the detrusor"
+        },
+        {
+          "label": "E",
+          "text": "act only on the external sphincter"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Pelvic splanchnic (S2-S4) parasympathetic activity empties the bladder: detrusor contraction with internal-sphincter relaxation.",
+      "topicId": "g-urinary",
+      "subtopic": "Bladder",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-057",
+      "type": "single-best",
+      "stem": "Sympathetic fibres via the hypogastric plexus promote bladder filling by",
+      "options": [
+        {
+          "label": "A",
+          "text": "stimulating micturition"
+        },
+        {
+          "label": "B",
+          "text": "relaxing the detrusor and contracting the internal sphincter"
+        },
+        {
+          "label": "C",
+          "text": "contracting the detrusor"
+        },
+        {
+          "label": "D",
+          "text": "relaxing the external sphincter"
+        },
+        {
+          "label": "E",
+          "text": "contracting the detrusor and relaxing the internal sphincter"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Sympathetic activity relaxes the detrusor and contracts the internal urethral sphincter, favouring storage.",
+      "topicId": "g-urinary",
+      "subtopic": "Bladder",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-058",
+      "type": "single-best",
+      "stem": "The internal urethral sphincter in the male serves the additional function of",
+      "options": [
+        {
+          "label": "A",
+          "text": "generating peristalsis"
+        },
+        {
+          "label": "B",
+          "text": "voluntary control of micturition"
+        },
+        {
+          "label": "C",
+          "text": "blocking retrograde ejaculation"
+        },
+        {
+          "label": "D",
+          "text": "producing urine"
+        },
+        {
+          "label": "E",
+          "text": "secreting mucus"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The male internal sphincter (smooth muscle, sympathetic T11-L2) also prevents retrograde ejaculation.",
+      "topicId": "g-urinary",
+      "subtopic": "Bladder",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-059",
+      "type": "single-best",
+      "stem": "The external urethral sphincter is skeletal muscle supplied by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "hypogastric plexus"
+        },
+        {
+          "label": "B",
+          "text": "obturator nerve"
+        },
+        {
+          "label": "C",
+          "text": "genitofemoral nerve"
+        },
+        {
+          "label": "D",
+          "text": "pudendal nerve (S2-S4)"
+        },
+        {
+          "label": "E",
+          "text": "pelvic splanchnic nerves"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The voluntary external sphincter in the urogenital diaphragm is innervated by the pudendal nerve (S2-S4).",
+      "topicId": "g-urinary",
+      "subtopic": "Bladder",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-060",
+      "type": "single-best",
+      "stem": "The female urethra is short (3-4 cm), which clinically means",
+      "options": [
+        {
+          "label": "A",
+          "text": "a lower risk of infection"
+        },
+        {
+          "label": "B",
+          "text": "that catheterization is difficult"
+        },
+        {
+          "label": "C",
+          "text": "it has no sphincter"
+        },
+        {
+          "label": "D",
+          "text": "it carries semen"
+        },
+        {
+          "label": "E",
+          "text": "higher UTI risk, easier catheterization"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The short female urethra predisposes to ascending UTI and is easy to catheterize.",
+      "topicId": "g-urinary",
+      "subtopic": "Urethra",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-061",
+      "type": "single-best",
+      "stem": "The female urethra opens into the vestibule",
+      "options": [
+        {
+          "label": "A",
+          "text": "anterior to the vagina"
+        },
+        {
+          "label": "B",
+          "text": "posterior to the vagina"
+        },
+        {
+          "label": "C",
+          "text": "within the vagina"
+        },
+        {
+          "label": "D",
+          "text": "anterior to the clitoris"
+        },
+        {
+          "label": "E",
+          "text": "at the perineal body"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The external urethral orifice lies in the vestibule, anterior to the vaginal opening and behind the clitoris.",
+      "topicId": "g-urinary",
+      "subtopic": "Urethra",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-062",
+      "type": "single-best",
+      "stem": "The paraurethral (Skene's) glands of the female urethra are the developmental homologue of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cowper's glands only"
+        },
+        {
+          "label": "B",
+          "text": "prostate"
+        },
+        {
+          "label": "C",
+          "text": "bulbourethral glands"
+        },
+        {
+          "label": "D",
+          "text": "seminal vesicles"
+        },
+        {
+          "label": "E",
+          "text": "testes"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Skene's (paraurethral) glands are the female homologue of the prostate.",
+      "topicId": "g-urinary",
+      "subtopic": "Urethra",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-063",
+      "type": "single-best",
+      "stem": "The longest and widest, most dilatable part of the male urethra is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "navicular fossa"
+        },
+        {
+          "label": "B",
+          "text": "external meatus"
+        },
+        {
+          "label": "C",
+          "text": "prostatic urethra"
+        },
+        {
+          "label": "D",
+          "text": "membranous urethra"
+        },
+        {
+          "label": "E",
+          "text": "spongy urethra"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The prostatic urethra (~3 cm) is the widest and most dilatable part, receiving the prostatic and ejaculatory ducts.",
+      "topicId": "g-urinary",
+      "subtopic": "Urethra",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-064",
+      "type": "single-best",
+      "stem": "The narrowest and least dilatable part of the male urethra, most liable to rupture during catheterization, is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "spongy urethra"
+        },
+        {
+          "label": "B",
+          "text": "penile urethra"
+        },
+        {
+          "label": "C",
+          "text": "navicular fossa"
+        },
+        {
+          "label": "D",
+          "text": "membranous urethra"
+        },
+        {
+          "label": "E",
+          "text": "prostatic urethra"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The membranous urethra (~2 cm), passing through the urogenital diaphragm, is the narrowest and least dilatable.",
+      "topicId": "g-urinary",
+      "subtopic": "Urethra",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-065",
+      "type": "single-best",
+      "stem": "The spongy (penile) urethra receives the ducts of which glands?",
+      "options": [
+        {
+          "label": "A",
+          "text": "the prostate gland"
+        },
+        {
+          "label": "B",
+          "text": "the seminal vesicles"
+        },
+        {
+          "label": "C",
+          "text": "Skene's glands"
+        },
+        {
+          "label": "D",
+          "text": "the ejaculatory ducts"
+        },
+        {
+          "label": "E",
+          "text": "Cowper's glands"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The bulbourethral (Cowper's) glands open into the spongy urethra; the ejaculatory and prostatic ducts open into the prostatic urethra.",
+      "topicId": "g-urinary",
+      "subtopic": "Urethra",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-066",
+      "type": "single-best",
+      "stem": "The prostatic utricle, opening on the seminal colliculus, is a remnant of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "paramesonephric ducts"
+        },
+        {
+          "label": "B",
+          "text": "mesonephric ducts"
+        },
+        {
+          "label": "C",
+          "text": "the urogenital sinus"
+        },
+        {
+          "label": "D",
+          "text": "the allantois"
+        },
+        {
+          "label": "E",
+          "text": "the genital tubercle"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The prostatic utricle is the male remnant of the fused paramesonephric ducts (homologue of uterus/vagina).",
+      "topicId": "g-urinary",
+      "subtopic": "Urethra",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-067",
+      "type": "single-best",
+      "stem": "The spongy urethra drains lymph mainly to the",
+      "options": [
+        {
+          "label": "A",
+          "text": "deep inguinal nodes only"
+        },
+        {
+          "label": "B",
+          "text": "superficial inguinal nodes"
+        },
+        {
+          "label": "C",
+          "text": "internal iliac nodes"
+        },
+        {
+          "label": "D",
+          "text": "para-aortic nodes"
+        },
+        {
+          "label": "E",
+          "text": "external iliac nodes only"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The spongy (penile) urethra drains to the inguinal nodes; the prostatic and membranous parts drain to internal iliac nodes.",
+      "topicId": "g-urinary",
+      "subtopic": "Urethra",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-urinary-068",
+      "type": "single-best",
+      "stem": "Physiological urinary incontinence in infants occurs because",
+      "options": [
+        {
+          "label": "A",
+          "text": "the ureters have no valves"
+        },
+        {
+          "label": "B",
+          "text": "the kidneys are immature"
+        },
+        {
+          "label": "C",
+          "text": "myelination is still incomplete"
+        },
+        {
+          "label": "D",
+          "text": "the bladder is too large"
+        },
+        {
+          "label": "E",
+          "text": "the detrusor is absent"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Voluntary sphincter control awaits myelination of the corticospinal tracts, developing by about 3-6 years.",
+      "topicId": "g-urinary",
+      "subtopic": "Clinical",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-069",
+      "type": "single-best",
+      "stem": "Most urinary tract stones (about 75%) are composed of",
+      "options": [
+        {
+          "label": "A",
+          "text": "cystine"
+        },
+        {
+          "label": "B",
+          "text": "magnesium ammonium phosphate"
+        },
+        {
+          "label": "C",
+          "text": "cholesterol"
+        },
+        {
+          "label": "D",
+          "text": "calcium oxalate or phosphate"
+        },
+        {
+          "label": "E",
+          "text": "uric acid"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "About 75% of stones are calcium oxalate/phosphate; struvite (~15%) and uric acid/cystine (~10%) are less common.",
+      "topicId": "g-urinary",
+      "subtopic": "Clinical",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-070",
+      "type": "single-best",
+      "stem": "Disintegration of a urinary stone using focused external shock waves is called",
+      "options": [
+        {
+          "label": "A",
+          "text": "nephrolithotomy"
+        },
+        {
+          "label": "B",
+          "text": "pyelolithotomy"
+        },
+        {
+          "label": "C",
+          "text": "cystolithotomy"
+        },
+        {
+          "label": "D",
+          "text": "ureteroscopy"
+        },
+        {
+          "label": "E",
+          "text": "lithotripsy"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Extracorporeal shock-wave lithotripsy fragments stones without open surgery.",
+      "topicId": "g-urinary",
+      "subtopic": "Clinical",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-071",
+      "type": "single-best",
+      "stem": "A transplanted kidney is usually placed in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "the iliac fossa"
+        },
+        {
+          "label": "B",
+          "text": "normal renal bed"
+        },
+        {
+          "label": "C",
+          "text": "subhepatic space"
+        },
+        {
+          "label": "D",
+          "text": "paravertebral gutter"
+        },
+        {
+          "label": "E",
+          "text": "perineum"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Renal transplants are placed in the iliac fossa, with anastomosis to the iliac vessels and bladder.",
+      "topicId": "g-urinary",
+      "subtopic": "Clinical",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-urinary-072",
+      "type": "single-best",
+      "stem": "A congenital fusion of the lower poles of both kidneys, trapped under the inferior mesenteric artery, is a",
+      "options": [
+        {
+          "label": "A",
+          "text": "nephroptosis"
+        },
+        {
+          "label": "B",
+          "text": "horseshoe kidney"
+        },
+        {
+          "label": "C",
+          "text": "pelvic kidney"
+        },
+        {
+          "label": "D",
+          "text": "duplex kidney"
+        },
+        {
+          "label": "E",
+          "text": "polycystic kidney"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "A horseshoe kidney is caught beneath the inferior mesenteric artery during ascent and remains low.",
+      "topicId": "g-urinary",
+      "subtopic": "Clinical",
+      "difficulty": "hard"
     }
   ]
 }
