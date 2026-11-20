@@ -1,0 +1,859 @@
+{
+ "sets": [
+  {
+   "id": "repro-past",
+   "title": "Reproductive physiology past questions",
+   "questions": [
+    {
+     "id": "phy-endocrine-007",
+     "type": "single-best",
+     "stem": "This hormone is only produced normally in the body when a woman is pregnant:",
+     "options": [
+      {
+       "label": "A",
+       "text": "estrogen"
+      },
+      {
+       "label": "B",
+       "text": "choriongonadotropic hormone"
+      },
+      {
+       "label": "C",
+       "text": "progesterone"
+      },
+      {
+       "label": "D",
+       "text": "FSH"
+      },
+      {
+       "label": "E",
+       "text": "LH"
+      }
+     ],
+     "correctAnswer": "B",
+     "why": "Human chorionic gonadotropin (hCG) is produced by the placenta shortly after implantation.",
+     "notes": {
+      "A": "Oestrogen is produced in every menstrual cycle.",
+      "C": "Progesterone is produced after every ovulation.",
+      "D": "FSH is secreted throughout reproductive life.",
+      "E": "LH is secreted throughout reproductive life."
+     },
+     "topicId": "repro-preg",
+     "subtopic": "",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phy-endocrine-008",
+     "type": "single-best",
+     "stem": "Contractions of the uterus are stimulated by the release of:",
+     "options": [
+      {
+       "label": "A",
+       "text": "oxytocin"
+      },
+      {
+       "label": "B",
+       "text": "FSH"
+      },
+      {
+       "label": "C",
+       "text": "LH"
+      },
+      {
+       "label": "D",
+       "text": "prolactin"
+      },
+      {
+       "label": "E",
+       "text": "estrogen"
+      }
+     ],
+     "correctAnswer": "A",
+     "why": "Oxytocin stimulates uterine smooth muscle contractions during labor.",
+     "notes": {
+      "B": "FSH drives follicle growth.",
+      "C": "LH triggers ovulation.",
+      "D": "Prolactin drives milk production.",
+      "E": "Oestrogen makes the uterus more responsive but is not the contraction trigger."
+     },
+     "topicId": "repro-preg",
+     "subtopic": "",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phy-endocrine-035",
+     "type": "single-best",
+     "stem": "Androgen binding protein is produced by:",
+     "options": [
+      {
+       "label": "A",
+       "text": "adrenals"
+      },
+      {
+       "label": "B",
+       "text": "hypothalamus"
+      },
+      {
+       "label": "C",
+       "text": "Sertoli cells"
+      },
+      {
+       "label": "D",
+       "text": "Leydig cells"
+      },
+      {
+       "label": "E",
+       "text": "ovaries"
+      }
+     ],
+     "correctAnswer": "C",
+     "why": "Sertoli cells in the seminiferous tubules produce androgen-binding protein (ABP) under FSH stimulation to maintain high testosterone levels for spermatogenesis.",
+     "notes": {
+      "A": "The adrenals do not make ABP.",
+      "B": "The hypothalamus makes GnRH.",
+      "D": "Leydig cells make testosterone.",
+      "E": "ABP is a testicular protein."
+     },
+     "topicId": "repro-male",
+     "subtopic": "",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phy-endocrine-038",
+     "type": "single-best",
+     "stem": "Early detection of pregnancy depends on detection of:",
+     "options": [
+      {
+       "label": "A",
+       "text": "FSH"
+      },
+      {
+       "label": "B",
+       "text": "progesterone"
+      },
+      {
+       "label": "C",
+       "text": "LH"
+      },
+      {
+       "label": "D",
+       "text": "hCG"
+      },
+      {
+       "label": "E",
+       "text": "estrogen"
+      }
+     ],
+     "correctAnswer": "D",
+     "why": "Human chorionic gonadotropin (hCG) is the basis for standard urine and blood pregnancy tests.",
+     "notes": {
+      "A": "FSH is not a pregnancy marker.",
+      "B": "Progesterone also rises in the luteal phase of every cycle.",
+      "C": "LH cross-reacts but is not the test target.",
+      "E": "Oestrogen rises in every cycle."
+     },
+     "topicId": "repro-preg",
+     "subtopic": "",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phy-endocrine-050",
+     "type": "single-best",
+     "stem": "In the normal menstrual cycle:",
+     "options": [
+      {
+       "label": "A",
+       "text": "the proliferative phase depends on oestrogen secretion"
+      },
+      {
+       "label": "B",
+       "text": "cervical mucus becomes more fluid around the time of ovulation"
+      },
+      {
+       "label": "C",
+       "text": "ovulation is observed after a surge in blood luteinizing hormone level"
+      },
+      {
+       "label": "D",
+       "text": "basal body temperature is higher after ovulation"
+      },
+      {
+       "label": "E",
+       "text": "all of the above"
+      }
+     ],
+     "correctAnswer": "E",
+     "why": "These are all classic physiological changes during the menstrual cycle.",
+     "notes": {
+      "A": "True, but so are the other statements.",
+      "B": "True, but so are the other statements.",
+      "C": "True, but so are the other statements.",
+      "D": "True, but so are the other statements."
+     },
+     "topicId": "repro-female",
+     "subtopic": "",
+     "difficulty": "medium",
+     "lockOrder": true
+    },
+    {
+     "id": "phy-endocrine-550",
+     "type": "single-best",
+     "stem": "Fertilization of the human ovum normally:",
+     "options": [
+      {
+       "label": "A",
+       "text": "occurs in the fallopian tubes"
+      },
+      {
+       "label": "B",
+       "text": "prevents further spermatozoa from entering the ovum"
+      },
+      {
+       "label": "C",
+       "text": "occurs 5-7 days before implantation"
+      },
+      {
+       "label": "D",
+       "text": "leads to the secretion of human chorionic gonadotrophin (hCG) within two weeks"
+      },
+      {
+       "label": "E",
+       "text": "all of the above"
+      }
+     ],
+     "correctAnswer": "E",
+     "why": "Fertilization occurs in the fallopian tube, triggers the cortical reaction (preventing polyspermy), and the resulting zygote secretes hCG after implantation.",
+     "notes": {
+      "A": "True, but so are the other statements.",
+      "B": "True, but so are the other statements.",
+      "C": "True, but so are the other statements.",
+      "D": "True, but so are the other statements."
+     },
+     "topicId": "repro-preg",
+     "subtopic": "",
+     "difficulty": "medium",
+     "lockOrder": true
+    },
+    {
+     "id": "phy-endocrine-551",
+     "type": "single-best",
+     "stem": "Secretion of testosterone:",
+     "options": [
+      {
+       "label": "A",
+       "text": "depresses pituitary secretion of LH"
+      },
+      {
+       "label": "B",
+       "text": "causes the epiphyses of long bones to unite"
+      },
+      {
+       "label": "C",
+       "text": "may lead to a positive nitrogen balance"
+      },
+      {
+       "label": "D",
+       "text": "stimulates growth of body hair"
+      },
+      {
+       "label": "E",
+       "text": "all of the above"
+      }
+     ],
+     "correctAnswer": "E",
+     "why": "Testosterone provides negative feedback to the pituitary (LH), causes epiphyseal closure, promotes protein synthesis (positive nitrogen balance), and drives male secondary sex characteristics.",
+     "notes": {
+      "A": "True, but so are the other statements.",
+      "B": "True, but so are the other statements.",
+      "C": "True, but so are the other statements.",
+      "D": "True, but so are the other statements."
+     },
+     "topicId": "repro-male",
+     "subtopic": "",
+     "difficulty": "medium",
+     "lockOrder": true
+    },
+    {
+     "id": "phy-endocrine-552",
+     "type": "single-best",
+     "stem": "Human chorionic gonadotrophic hormone (hCG):",
+     "options": [
+      {
+       "label": "A",
+       "text": "is a steroid"
+      },
+      {
+       "label": "B",
+       "text": "acts directly on the uterus to maintain the endometrium"
+      },
+      {
+       "label": "C",
+       "text": "is formed in the anterior pituitary"
+      },
+      {
+       "label": "D",
+       "text": "rises its blood level steadily throughout pregnancy"
+      },
+      {
+       "label": "E",
+       "text": "can be detected in the urine as an early sign of pregnancy"
+      }
+     ],
+     "correctAnswer": "E",
+     "why": "hCG is a glycoprotein hormone produced by the placenta. Its presence in urine is the basis for early pregnancy tests.",
+     "notes": {
+      "A": "hCG is a glycoprotein.",
+      "B": "It acts on the corpus luteum, not directly on the uterus.",
+      "C": "It is made by the placenta (syncytiotrophoblast).",
+      "D": "It peaks at 8–10 weeks, then falls."
+     },
+     "topicId": "repro-preg",
+     "subtopic": "",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phy-endocrine-553",
+     "type": "single-best",
+     "stem": "Compared with the adult, the newborn has less ability to:",
+     "options": [
+      {
+       "label": "A",
+       "text": "excrete bilirubin"
+      },
+      {
+       "label": "B",
+       "text": "maintain a constant body temperature"
+      },
+      {
+       "label": "C",
+       "text": "manufacture antibodies"
+      },
+      {
+       "label": "D",
+       "text": "dilute and concentrate urine"
+      },
+      {
+       "label": "E",
+       "text": "all of the above"
+      }
+     ],
+     "correctAnswer": "E",
+     "why": "Newborns have immature liver function (jaundice), immature thermoregulation, an immature immune system, and immature kidneys.",
+     "notes": {
+      "A": "True, but so are the other statements.",
+      "B": "True, but so are the other statements.",
+      "C": "True, but so are the other statements.",
+      "D": "True, but so are the other statements."
+     },
+     "topicId": "repro-fetal",
+     "subtopic": "",
+     "difficulty": "medium",
+     "lockOrder": true
+    },
+    {
+     "id": "phy-endocrine-554",
+     "type": "single-best",
+     "stem": "Androgens are secreted in the:",
+     "options": [
+      {
+       "label": "A",
+       "text": "fetus in greater quantities than in early childhood"
+      },
+      {
+       "label": "B",
+       "text": "female by the ovary"
+      },
+      {
+       "label": "C",
+       "text": "male by the adrenal cortex"
+      },
+      {
+       "label": "D",
+       "text": "male in decreasing quantities after the age of 30"
+      },
+      {
+       "label": "E",
+       "text": "all of the above"
+      }
+     ],
+     "correctAnswer": "E",
+     "why": "Androgens are produced by the fetal testes, the female ovaries (and adrenal glands), and male adrenal glands, and decline gradually with age.",
+     "notes": {
+      "A": "True, but so are the other statements.",
+      "B": "True, but so are the other statements.",
+      "C": "True, but so are the other statements.",
+      "D": "True, but so are the other statements."
+     },
+     "topicId": "repro-male",
+     "subtopic": "",
+     "difficulty": "medium",
+     "lockOrder": true
+    },
+    {
+     "id": "phy-endocrine-555",
+     "type": "single-best",
+     "stem": "Cryptorchidism means:",
+     "options": [
+      {
+       "label": "A",
+       "text": "descent of the testicles"
+      },
+      {
+       "label": "B",
+       "text": "hypogonadism"
+      },
+      {
+       "label": "C",
+       "text": "hyperfunction of the testicles"
+      },
+      {
+       "label": "D",
+       "text": "undescended testicles"
+      },
+      {
+       "label": "E",
+       "text": "priapism"
+      }
+     ],
+     "correctAnswer": "D",
+     "why": "Cryptorchidism is the failure of one or both testes to descend into the scrotum.",
+     "notes": {
+      "A": "Normal descent is not cryptorchidism.",
+      "B": "Hypogonadism is reduced gonadal function.",
+      "C": "Hyperfunction is not the meaning.",
+      "E": "Priapism is a persistent erection."
+     },
+     "topicId": "repro-male",
+     "subtopic": "",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phy-endocrine-556",
+     "type": "single-best",
+     "stem": "Fetal haemoglobin:",
+     "options": [
+      {
+       "label": "A",
+       "text": "is the only type identifiable in fetal blood"
+      },
+      {
+       "label": "B",
+       "text": "forms the bulk of total haemoglobin for the first year of life"
+      },
+      {
+       "label": "C",
+       "text": "has a higher oxygen-carrying capacity than adult haemoglobin"
+      },
+      {
+       "label": "D",
+       "text": "binds 2.3- DPG more avidly than does adult haemoglobin"
+      },
+      {
+       "label": "E",
+       "text": "has a higher affinity than the adult form for oxygen at low pO2"
+      }
+     ],
+     "correctAnswer": "E",
+     "why": "Fetal hemoglobin (HbF) has a higher affinity for oxygen, allowing it to extract oxygen from maternal blood across the placenta.",
+     "notes": {
+      "A": "Some HbA is present in fetal blood.",
+      "B": "HbF falls to low levels by about 6 months.",
+      "C": "Carrying capacity per gram is the same.",
+      "D": "HbF binds 2,3-DPG LESS avidly."
+     },
+     "topicId": "repro-fetal",
+     "subtopic": "",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phy-endocrine-557",
+     "type": "single-best",
+     "stem": "For normal development and fertility of spermatozoa there must be:",
+     "options": [
+      {
+       "label": "A",
+       "text": "secretion of testosterone"
+      },
+      {
+       "label": "B",
+       "text": "secretion of luteinizing hormone"
+      },
+      {
+       "label": "C",
+       "text": "secretion of follicle-stimulating hormone"
+      },
+      {
+       "label": "D",
+       "text": "a testicular temperature under 37°C"
+      },
+      {
+       "label": "E",
+       "text": "all of the above"
+      }
+     ],
+     "correctAnswer": "E",
+     "why": "Spermatogenesis requires the hormonal support of LH and FSH, high local testosterone levels, and a cooler scrotal temperature.",
+     "notes": {
+      "A": "True, but so are the other statements.",
+      "B": "True, but so are the other statements.",
+      "C": "True, but so are the other statements.",
+      "D": "True, but so are the other statements."
+     },
+     "topicId": "repro-male",
+     "subtopic": "",
+     "difficulty": "medium",
+     "lockOrder": true
+    },
+    {
+     "id": "phy-endocrine-558",
+     "type": "single-best",
+     "stem": "In the mammary glands:",
+     "options": [
+      {
+       "label": "A",
+       "text": "milk formation can be depressed by hypothalamic activity"
+      },
+      {
+       "label": "B",
+       "text": "maintenance of lactation depends on suckling"
+      },
+      {
+       "label": "C",
+       "text": "lactation ceases if the anterior pituitary gland is destroyed"
+      },
+      {
+       "label": "D",
+       "text": "milk ejection ceases if the posterior pituitary gland is destroyed"
+      },
+      {
+       "label": "E",
+       "text": "all of the above"
+      }
+     ],
+     "correctAnswer": "E",
+     "why": "Prolactin (anterior pituitary) drives milk production, while oxytocin (posterior pituitary) drives milk ejection. Both are maintained by suckling reflexes.",
+     "notes": {
+      "A": "True, but so are the other statements.",
+      "B": "True, but so are the other statements.",
+      "C": "True, but so are the other statements.",
+      "D": "True, but so are the other statements."
+     },
+     "topicId": "repro-preg",
+     "subtopic": "",
+     "difficulty": "medium",
+     "lockOrder": true
+    },
+    {
+     "id": "phy-endocrine-559",
+     "type": "single-best",
+     "stem": "The male postpubertal state differs from the prepubertal in that:",
+     "options": [
+      {
+       "label": "A",
+       "text": "there is a greater output of 17- ketosteroids in the urine"
+      },
+      {
+       "label": "B",
+       "text": "skeletal muscle is stronger per unit mass of tissue"
+      },
+      {
+       "label": "C",
+       "text": "the circulating level of follicle- stimulating hormone (FSH) is higher"
+      },
+      {
+       "label": "D",
+       "text": "hypothalamic output of gonadotrophin- releasing factors is greater"
+      },
+      {
+       "label": "E",
+       "text": "all of the above"
+      }
+     ],
+     "correctAnswer": "E",
+     "why": "Puberty is marked by increased GnRH, FSH/LH, and androgen production, leading to muscle development and increased urinary 17-ketosteroids.",
+     "notes": {
+      "A": "True, but so are the other statements.",
+      "B": "True, but so are the other statements.",
+      "C": "True, but so are the other statements.",
+      "D": "True, but so are the other statements."
+     },
+     "topicId": "repro-male",
+     "subtopic": "",
+     "difficulty": "medium",
+     "lockOrder": true
+    },
+    {
+     "id": "phy-endocrine-560",
+     "type": "single-best",
+     "stem": "The interstitial cells of the testis:",
+     "options": [
+      {
+       "label": "A",
+       "text": "contribute to the volume of seminal fluid"
+      },
+      {
+       "label": "B",
+       "text": "are the source of the hormone inhibin"
+      },
+      {
+       "label": "C",
+       "text": "are stimulated to secrete by luteinizing hormone (LH)"
+      },
+      {
+       "label": "D",
+       "text": "are stimulated to secrete by FSH"
+      },
+      {
+       "label": "E",
+       "text": "are non-functional unless the testis descends from the abdomen to the scrotum"
+      }
+     ],
+     "correctAnswer": "C",
+     "why": "Leydig (interstitial) cells are stimulated by LH to secrete testosterone.",
+     "notes": {
+      "A": "Seminal fluid comes from the glands and tubules.",
+      "B": "Inhibin comes from Sertoli cells.",
+      "D": "FSH acts on Sertoli cells.",
+      "E": "Leydig cells function in the fetus before descent."
+     },
+     "topicId": "repro-male",
+     "subtopic": "",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phy-endocrine-561",
+     "type": "single-best",
+     "stem": "Testosterone is secreted by:",
+     "options": [
+      {
+       "label": "A",
+       "text": "Sertoli cells of the testes"
+      },
+      {
+       "label": "B",
+       "text": "cells of the adrenal medulla"
+      },
+      {
+       "label": "C",
+       "text": "cells of the hypothalamus"
+      },
+      {
+       "label": "D",
+       "text": "Leydig cells of the testes"
+      },
+      {
+       "label": "E",
+       "text": "B cells of the pancreas"
+      }
+     ],
+     "correctAnswer": "D",
+     "why": "Leydig cells in the testes secrete testosterone.",
+     "notes": {
+      "A": "Sertoli cells make ABP and inhibin.",
+      "B": "The adrenal medulla makes catecholamines.",
+      "C": "The hypothalamus makes GnRH.",
+      "E": "Pancreatic B cells make insulin."
+     },
+     "topicId": "repro-male",
+     "subtopic": "",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phy-endocrine-563",
+     "type": "single-best",
+     "stem": "Ejaculation of semen:",
+     "options": [
+      {
+       "label": "A",
+       "text": "depends on a spinal cord reflex"
+      },
+      {
+       "label": "B",
+       "text": "depends on sympathetic nerve activity"
+      },
+      {
+       "label": "C",
+       "text": "involves rhythmic contractions of striated muscles"
+      },
+      {
+       "label": "D",
+       "text": "involves contraction of smooth muscle in the vas deferens and seminal vesicles"
+      },
+      {
+       "label": "E",
+       "text": "all of the above"
+      }
+     ],
+     "correctAnswer": "E",
+     "why": "Emission (sympathetic, L1–L2) moves semen into the urethra by smooth muscle contraction. Ejaculation proper is a spinal reflex with rhythmic contraction of the bulbospongiosus and ischiocavernosus (striated) muscles.",
+     "notes": {
+      "A": "True, but so are the other statements.",
+      "B": "True, but so are the other statements.",
+      "C": "True, but so are the other statements.",
+      "D": "True, but so are the other statements."
+     },
+     "topicId": "repro-male",
+     "subtopic": "",
+     "difficulty": "medium",
+     "lockOrder": true
+    },
+    {
+     "id": "phy-endocrine-564",
+     "type": "single-best",
+     "stem": "Cessation of menstruation (secondary amenorrhoea) may occur because of:",
+     "options": [
+      {
+       "label": "A",
+       "text": "psychological stress"
+      },
+      {
+       "label": "B",
+       "text": "severe weight loss"
+      },
+      {
+       "label": "C",
+       "text": "continuous administration of oestrogens"
+      },
+      {
+       "label": "D",
+       "text": "continuous administration of gonadotropin- releasing hormone (GnRH)"
+      },
+      {
+       "label": "E",
+       "text": "all of the above"
+      }
+     ],
+     "correctAnswer": "E",
+     "why": "Stress, weight loss, and continuous hormonal administration disrupt the normal pulsatile HPG axis, leading to amenorrhea.",
+     "notes": {
+      "A": "True, but so are the other statements.",
+      "B": "True, but so are the other statements.",
+      "C": "True, but so are the other statements.",
+      "D": "True, but so are the other statements."
+     },
+     "topicId": "repro-female",
+     "subtopic": "",
+     "difficulty": "medium",
+     "lockOrder": true
+    },
+    {
+     "id": "phy-endocrine-565",
+     "type": "single-best",
+     "stem": "Administration of estrogens and progestogens to women:",
+     "options": [
+      {
+       "label": "A",
+       "text": "prevents menstruation if given daily throughout the year"
+      },
+      {
+       "label": "B",
+       "text": "tends to cause salt and water retention"
+      },
+      {
+       "label": "C",
+       "text": "depresses secretion of pituitary gonadotrophins"
+      },
+      {
+       "label": "D",
+       "text": "decreases the likelihood of ovulation"
+      },
+      {
+       "label": "E",
+       "text": "all of the above"
+      }
+     ],
+     "correctAnswer": "E",
+     "why": "Combined oral contraceptives prevent ovulation by suppressing FSH/LH via negative feedback, can cause fluid retention, and prevent regular menstruation.",
+     "notes": {
+      "A": "True, but so are the other statements.",
+      "B": "True, but so are the other statements.",
+      "C": "True, but so are the other statements.",
+      "D": "True, but so are the other statements."
+     },
+     "topicId": "repro-preg",
+     "subtopic": "",
+     "difficulty": "medium",
+     "lockOrder": true
+    },
+    {
+     "id": "phy-endocrine-566",
+     "type": "single-best",
+     "stem": "Methods for reducing fertility include:",
+     "options": [
+      {
+       "label": "A",
+       "text": "bilateral ligation and division of the uterine tubes"
+      },
+      {
+       "label": "B",
+       "text": "bilateral ligation and division of the vas deferens"
+      },
+      {
+       "label": "C",
+       "text": "the use of agents which prevent the fertilized ovum from implantation"
+      },
+      {
+       "label": "D",
+       "text": "mechanical barriers (condoms and caps)"
+      },
+      {
+       "label": "E",
+       "text": "all of the above"
+      }
+     ],
+     "correctAnswer": "E",
+     "why": "Tubal ligation, vasectomy, IUDs, and barrier methods are all valid fertility control mechanisms.",
+     "notes": {
+      "A": "True, but so are the other statements.",
+      "B": "True, but so are the other statements.",
+      "C": "True, but so are the other statements.",
+      "D": "True, but so are the other statements."
+     },
+     "topicId": "repro-preg",
+     "subtopic": "",
+     "difficulty": "medium",
+     "lockOrder": true
+    },
+    {
+     "id": "phy-endocrine-567",
+     "type": "single-best",
+     "stem": "Secretion of androgens in the adult female:",
+     "options": [
+      {
+       "label": "A",
+       "text": "in large amounts can cause enlargement of the clitoris"
+      },
+      {
+       "label": "B",
+       "text": "affect the voice"
+      },
+      {
+       "label": "C",
+       "text": "may lead to growth of facial hair"
+      },
+      {
+       "label": "D",
+       "text": "may result in amenorrhoea"
+      },
+      {
+       "label": "E",
+       "text": "all of the above"
+      }
+     ],
+     "correctAnswer": "E",
+     "why": "Excess androgens in females (e.g., in PCOS or adrenal tumors) cause virilization, hirsutism, and amenorrhea.",
+     "notes": {
+      "A": "True, but so are the other statements.",
+      "B": "True, but so are the other statements.",
+      "C": "True, but so are the other statements.",
+      "D": "True, but so are the other statements."
+     },
+     "topicId": "repro-female",
+     "subtopic": "",
+     "difficulty": "medium",
+     "lockOrder": true
+    }
+   ]
+  }
+ ]
+}
