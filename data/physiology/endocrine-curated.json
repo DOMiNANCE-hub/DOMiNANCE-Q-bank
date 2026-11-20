@@ -3426,6 +3426,614 @@
       "topicId": "endo-pancreas",
       "subtopic": "Glucagon",
       "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-108",
+      "type": "single-best",
+      "stem": "Which hypothalamic hormone inhibits anterior pituitary GH secretion directly?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Growth hormone-releasing hormone"
+        },
+        {
+          "label": "B",
+          "text": "Thyrotropin-releasing hormone"
+        },
+        {
+          "label": "C",
+          "text": "Somatostatin"
+        },
+        {
+          "label": "D",
+          "text": "Corticotropin-releasing hormone"
+        },
+        {
+          "label": "E",
+          "text": "Gonadotropin-releasing hormone"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Somatostatin inhibits somatotroph secretion, whereas GHRH stimulates it.",
+      "topicId": "endo-general",
+      "subtopic": "Hypothalamic regulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-109",
+      "type": "single-best",
+      "stem": "Vasopressin increases collecting-duct water permeability chiefly by inserting which channel?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aquaporin-1"
+        },
+        {
+          "label": "B",
+          "text": "GLUT4 transporter"
+        },
+        {
+          "label": "C",
+          "text": "ENaC sodium channel"
+        },
+        {
+          "label": "D",
+          "text": "Aquaporin-2"
+        },
+        {
+          "label": "E",
+          "text": "CFTR chloride channel"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "V2-receptor signalling promotes apical aquaporin-2 insertion in collecting-duct principal cells.",
+      "topicId": "endo-general",
+      "subtopic": "ADH mechanism",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-110",
+      "type": "single-best",
+      "stem": "Deficiency of GH before epiphyseal fusion can primarily cause which growth disturbance?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased jaw prominence"
+        },
+        {
+          "label": "B",
+          "text": "Premature muscle hypertrophy"
+        },
+        {
+          "label": "C",
+          "text": "Accelerated long-bone growth"
+        },
+        {
+          "label": "D",
+          "text": "Increased cartilage proliferation"
+        },
+        {
+          "label": "E",
+          "text": "Impaired linear growth"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Low GH or IGF-1 during childhood reduces linear skeletal growth.",
+      "topicId": "endo-general",
+      "subtopic": "Growth hormone disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-111",
+      "type": "single-best",
+      "stem": "A hormone is released through a neural rather than hypophyseal portal pathway. Which example is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Posterior pituitary oxytocin"
+        },
+        {
+          "label": "B",
+          "text": "Anterior pituitary ACTH"
+        },
+        {
+          "label": "C",
+          "text": "Anterior pituitary TSH"
+        },
+        {
+          "label": "D",
+          "text": "Anterior pituitary FSH"
+        },
+        {
+          "label": "E",
+          "text": "Anterior pituitary LH"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Posterior pituitary hormones are released from hypothalamic axon terminals.",
+      "topicId": "endo-general",
+      "subtopic": "Pituitary control",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-112",
+      "type": "single-best",
+      "stem": "Longstanding severe dietary iodine deficiency can enlarge the thyroid mainly through which response?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Persistent suppression of pituitary TSH"
+        },
+        {
+          "label": "B",
+          "text": "Persistent pituitary TSH stimulation"
+        },
+        {
+          "label": "C",
+          "text": "Decreased follicular growth activity"
+        },
+        {
+          "label": "D",
+          "text": "Increased peripheral T3 generation"
+        },
+        {
+          "label": "E",
+          "text": "Increased calcitonin secretion"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Low thyroid hormone reduces negative feedback and raises TSH-driven follicular growth.",
+      "topicId": "endo-thyroid",
+      "subtopic": "Thyroid synthesis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-113",
+      "type": "single-best",
+      "stem": "Which protein scaffold is secreted by follicular cells into colloid for hormone synthesis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thyroxine-binding globulin"
+        },
+        {
+          "label": "B",
+          "text": "Transthyretin"
+        },
+        {
+          "label": "C",
+          "text": "Thyroglobulin"
+        },
+        {
+          "label": "D",
+          "text": "Iodothyronine deiodinase"
+        },
+        {
+          "label": "E",
+          "text": "Calcitonin precursor"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Thyroglobulin provides tyrosyl residues for iodination and coupling.",
+      "topicId": "endo-thyroid",
+      "subtopic": "Thyroid synthesis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-114",
+      "type": "single-best",
+      "stem": "The major intracellular second messenger used by the TSH receptor is which?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cyclic GMP"
+        },
+        {
+          "label": "B",
+          "text": "Inositol triphosphate alone"
+        },
+        {
+          "label": "C",
+          "text": "Calcium-calmodulin only"
+        },
+        {
+          "label": "D",
+          "text": "Cyclic AMP"
+        },
+        {
+          "label": "E",
+          "text": "Nitric oxide"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "TSH receptor signalling is mainly Gs-coupled and activates cyclic AMP pathways.",
+      "topicId": "endo-thyroid",
+      "subtopic": "Thyroid control",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-115",
+      "type": "single-best",
+      "stem": "Why does T4 persist longer in plasma than the more potent T3?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Higher nuclear receptor affinity"
+        },
+        {
+          "label": "B",
+          "text": "Greater receptor-dependent uptake"
+        },
+        {
+          "label": "C",
+          "text": "Faster peripheral breakdown"
+        },
+        {
+          "label": "D",
+          "text": "Lower plasma protein binding"
+        },
+        {
+          "label": "E",
+          "text": "Longer circulating half-life"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "T4 is more extensively bound and generally has a longer circulating half-life.",
+      "topicId": "endo-thyroid",
+      "subtopic": "Thyroid physiology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-116",
+      "type": "single-best",
+      "stem": "Thyroid hormone promotes carbohydrate availability partly through which gastrointestinal effect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased glucose absorption"
+        },
+        {
+          "label": "B",
+          "text": "Reduced glucose absorption"
+        },
+        {
+          "label": "C",
+          "text": "Complete inhibition of motility"
+        },
+        {
+          "label": "D",
+          "text": "Reduced enterocyte metabolism"
+        },
+        {
+          "label": "E",
+          "text": "Suppressed brush-border transport"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Thyroid hormone increases intestinal carbohydrate absorption and supports gluconeogenesis.",
+      "topicId": "endo-thyroid",
+      "subtopic": "Thyroid metabolism",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-117",
+      "type": "single-best",
+      "stem": "Which normal total plasma calcium range is given in the lecture slides?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1.10 to 1.40 mmol/L"
+        },
+        {
+          "label": "B",
+          "text": "2.16 to 2.65 mmol/L"
+        },
+        {
+          "label": "C",
+          "text": "3.40 to 4.10 mmol/L"
+        },
+        {
+          "label": "D",
+          "text": "0.55 to 0.90 mmol/L"
+        },
+        {
+          "label": "E",
+          "text": "4.50 to 5.20 mmol/L"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The calcium metabolism slides list total plasma calcium at approximately 2.16–2.65 mmol/L.",
+      "topicId": "endo-calcium",
+      "subtopic": "Calcium physiology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-118",
+      "type": "single-best",
+      "stem": "High alkaline phosphatase activity in bone is especially associated with which cells?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mature osteoclasts"
+        },
+        {
+          "label": "B",
+          "text": "Resident macrophages"
+        },
+        {
+          "label": "C",
+          "text": "Active osteoblasts"
+        },
+        {
+          "label": "D",
+          "text": "Mature erythrocytes"
+        },
+        {
+          "label": "E",
+          "text": "Synovial fibroblasts"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Osteoblasts express bone alkaline phosphatase during osteoid mineralization.",
+      "topicId": "endo-calcium",
+      "subtopic": "Bone physiology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-119",
+      "type": "single-best",
+      "stem": "What is the main role of ultraviolet light in endogenous vitamin D metabolism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hepatic conversion of calcidiol to calcitriol"
+        },
+        {
+          "label": "B",
+          "text": "Renal conversion of calcitriol to calcidiol"
+        },
+        {
+          "label": "C",
+          "text": "Gut conversion of vitamin D to calcitonin"
+        },
+        {
+          "label": "D",
+          "text": "Skin conversion of 7-dehydrocholesterol"
+        },
+        {
+          "label": "E",
+          "text": "Bone conversion of calcium to phosphate"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "UVB drives the skin reaction that forms previtamin D3 from 7-dehydrocholesterol.",
+      "topicId": "endo-calcium",
+      "subtopic": "Vitamin D metabolism",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-120",
+      "type": "single-best",
+      "stem": "Which vitamin D metabolite is formed mainly by hepatic 25-hydroxylation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Calcitriol or 1,25-dihydroxyvitamin D"
+        },
+        {
+          "label": "B",
+          "text": "Parathyroid hormone precursor"
+        },
+        {
+          "label": "C",
+          "text": "Calcitonin peptide hormone"
+        },
+        {
+          "label": "D",
+          "text": "Cholecalciferol from ultraviolet light"
+        },
+        {
+          "label": "E",
+          "text": "Calcidiol or 25-hydroxyvitamin D"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The liver generates 25-hydroxyvitamin D, the major circulating storage marker.",
+      "topicId": "endo-calcium",
+      "subtopic": "Vitamin D metabolism",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-121",
+      "type": "single-best",
+      "stem": "Why does excess cortisol increase susceptibility to infection even when leukocyte counts appear elevated?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Suppression of cellular immune function"
+        },
+        {
+          "label": "B",
+          "text": "Enhanced cellular immune responsiveness"
+        },
+        {
+          "label": "C",
+          "text": "Increased antibody affinity maturation"
+        },
+        {
+          "label": "D",
+          "text": "Increased macrophage cytokine release"
+        },
+        {
+          "label": "E",
+          "text": "Enhanced inflammatory cell migration"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Glucocorticoids suppress immune activation and inflammatory mediator production.",
+      "topicId": "endo-adrenal",
+      "subtopic": "Cortisol effects",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-122",
+      "type": "single-best",
+      "stem": "Why can primary adrenal failure cause metabolic acidosis with hyperkalaemia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased aldosterone-mediated ion secretion"
+        },
+        {
+          "label": "B",
+          "text": "Loss of aldosterone-mediated ion secretion"
+        },
+        {
+          "label": "C",
+          "text": "Enhanced distal nephron hydrogen loss"
+        },
+        {
+          "label": "D",
+          "text": "Increased sodium retention in kidney"
+        },
+        {
+          "label": "E",
+          "text": "Enhanced renal potassium clearance"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Aldosterone deficiency reduces distal potassium and hydrogen ion secretion.",
+      "topicId": "endo-adrenal",
+      "subtopic": "Adrenal disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-123",
+      "type": "single-best",
+      "stem": "Which acute condition stimulates adrenal catecholamine secretion as part of stress physiology?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mild postprandial fullness"
+        },
+        {
+          "label": "B",
+          "text": "Increased sleep duration"
+        },
+        {
+          "label": "C",
+          "text": "Severe hypoglycaemia"
+        },
+        {
+          "label": "D",
+          "text": "Reduced arousal during rest"
+        },
+        {
+          "label": "E",
+          "text": "Mild plasma sodium rise"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Hypoglycaemia activates the sympathetic-adrenal medullary response.",
+      "topicId": "endo-adrenal",
+      "subtopic": "Adrenal medulla",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-124",
+      "type": "single-best",
+      "stem": "Why may thiazide-associated hypokalaemia impair pancreatic insulin secretion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased plasma potassium opens KATP channels"
+        },
+        {
+          "label": "B",
+          "text": "Increased glucose triggers maximal secretion"
+        },
+        {
+          "label": "C",
+          "text": "Hypokalaemia raises incretin output directly"
+        },
+        {
+          "label": "D",
+          "text": "Reduced potassium supports beta-cell dysfunction"
+        },
+        {
+          "label": "E",
+          "text": "Thiazides activate insulin receptors"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Potassium depletion can impair beta-cell insulin release and contribute to thiazide-related hyperglycaemia.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Insulin secretion",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-125",
+      "type": "single-best",
+      "stem": "Type 1 diabetes usually begins with which predominant physiological deficit?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Primary resistance with high insulin"
+        },
+        {
+          "label": "B",
+          "text": "Excess pancreatic alpha-cell insulin"
+        },
+        {
+          "label": "C",
+          "text": "Persistent hypersecretion of insulin"
+        },
+        {
+          "label": "D",
+          "text": "Normal secretion with excess GLUT4"
+        },
+        {
+          "label": "E",
+          "text": "Absolute endogenous insulin deficiency"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Type 1 diabetes involves severe beta-cell loss and absolute insulin deficiency.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Diabetes mechanisms",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-126",
+      "type": "single-best",
+      "stem": "Pancreatic glucagon is secreted predominantly from which islet cell?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alpha cell"
+        },
+        {
+          "label": "B",
+          "text": "Beta cell"
+        },
+        {
+          "label": "C",
+          "text": "Delta cell"
+        },
+        {
+          "label": "D",
+          "text": "PP cell"
+        },
+        {
+          "label": "E",
+          "text": "Duct cell"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Alpha cells secrete glucagon, while beta cells release insulin.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Pancreatic islets",
+      "difficulty": "medium"
     }
   ]
 }
