@@ -24361,31 +24361,31 @@
     {
       "id": "dq-bio-nuc-001",
       "type": "single-best",
-      "stem": "Which feature distinguishes purine bases from pyrimidine bases?",
+      "stem": "Which structural characteristic distinguishes purine bases from pyrimidines?",
       "options": [
         {
           "label": "A",
-          "text": "Two fused heterocyclic rings"
+          "text": "Two fused nitrogen heterocycles"
         },
         {
           "label": "B",
-          "text": "A single six-membered ring"
+          "text": "One six-membered nitrogen ring"
         },
         {
           "label": "C",
-          "text": "A single five-membered ring"
+          "text": "Two separate six-membered rings"
         },
         {
           "label": "D",
-          "text": "An open-chain nitrogenous group"
+          "text": "One five-membered nitrogen ring"
         },
         {
           "label": "E",
-          "text": "A phosphate-containing ring"
+          "text": "One six-membered oxygen ring"
         }
       ],
       "correctAnswer": "A",
-      "why": "Purines contain a fused six-membered and five-membered nitrogen-containing ring; pyrimidines contain a single six-membered ring.",
+      "why": "Purines have fused six- and five-membered nitrogen-containing rings, unlike single-ring pyrimidines.",
       "topicId": "nucleotides",
       "subtopic": "Core concepts",
       "difficulty": "easy"
@@ -25065,31 +25065,31 @@
     {
       "id": "dq-bio-nuc-023",
       "type": "single-best",
-      "stem": "Hypoxanthine plus PRPP produces which nucleotide when HGPRT is active?",
+      "stem": "What is released when HGPRT uses PRPP to salvage a purine base?",
       "options": [
         {
           "label": "A",
-          "text": "GMP"
+          "text": "Orthophosphate"
         },
         {
           "label": "B",
-          "text": "AMP"
+          "text": "Pyrophosphate"
         },
         {
           "label": "C",
-          "text": "IMP"
+          "text": "Ribose-1-phosphate"
         },
         {
           "label": "D",
-          "text": "UMP"
+          "text": "Carbon dioxide"
         },
         {
           "label": "E",
-          "text": "CMP"
+          "text": "Ribulose-5-phosphate"
         }
       ],
-      "correctAnswer": "C",
-      "why": "HGPRT converts hypoxanthine to IMP using PRPP.",
+      "correctAnswer": "B",
+      "why": "Purine phosphoribosyltransferases transfer ribose phosphate from PRPP and release pyrophosphate.",
       "topicId": "nucleotides",
       "subtopic": "Purine salvage",
       "difficulty": "medium"
@@ -25097,31 +25097,31 @@
     {
       "id": "dq-bio-nuc-024",
       "type": "single-best",
-      "stem": "Guanine plus PRPP produces which nucleotide in the HGPRT reaction?",
+      "stem": "Which tissues are emphasized in the lecture as strongly relying on purine salvage?",
       "options": [
         {
           "label": "A",
-          "text": "IMP"
+          "text": "Kidney and pancreas"
         },
         {
           "label": "B",
-          "text": "AMP"
+          "text": "Liver and intestine"
         },
         {
           "label": "C",
-          "text": "XMP"
+          "text": "Brain and leucocytes"
         },
         {
           "label": "D",
-          "text": "GMP"
+          "text": "Skin and adrenal cortex"
         },
         {
           "label": "E",
-          "text": "UMP"
+          "text": "Cardiac and adipose tissue"
         }
       ],
-      "correctAnswer": "D",
-      "why": "HGPRT catalyses salvage of guanine to GMP.",
+      "correctAnswer": "C",
+      "why": "The lecture emphasizes brain and leucocytes as relying strongly on recycling purine bases rather than de novo synthesis.",
       "topicId": "nucleotides",
       "subtopic": "Purine salvage",
       "difficulty": "medium"
@@ -25321,31 +25321,31 @@
     {
       "id": "dq-bio-nuc-031",
       "type": "single-best",
-      "stem": "Inhibiting xanthine oxidase reduces urate production by blocking which reaction?",
+      "stem": "Nucleoside phosphorylase generates which sugar product during nucleoside breakdown?",
       "options": [
         {
           "label": "A",
-          "text": "Oxidation of xanthine to uric acid"
+          "text": "Ribulose-5-phosphate"
         },
         {
           "label": "B",
-          "text": "Condensation of IMP with aspartate"
+          "text": "Ribose-5-phosphate"
         },
         {
           "label": "C",
-          "text": "Activation of ribose-5-phosphate"
+          "text": "Free deoxyribose"
         },
         {
           "label": "D",
-          "text": "Addition of glycine to purine ring"
+          "text": "Ribose-1-phosphate"
         },
         {
           "label": "E",
-          "text": "Attachment of hypoxanthine to PRPP"
+          "text": "Fructose-6-phosphate"
         }
       ],
-      "correctAnswer": "A",
-      "why": "Xanthine oxidase acts in purine catabolism rather than de novo ring formation.",
+      "correctAnswer": "D",
+      "why": "Phosphorolysis of nucleosides generates ribose-1-phosphate and a free base.",
       "topicId": "nucleotides",
       "subtopic": "Purine catabolism",
       "difficulty": "hard"
@@ -25641,66 +25641,67 @@
     {
       "id": "dq-bio-nuc-041",
       "type": "single-best",
-      "stem": "Which location distinguishes the oxidation of dihydroorotate to orotate in animals?",
+      "stem": "Assertion: Mammalian dihydroorotate oxidation is the mitochondrial step of de novo pyrimidine synthesis.\nReason: Dihydroorotate dehydrogenase transfers electrons to ubiquinone in the inner mitochondrial membrane.",
       "options": [
         {
           "label": "A",
-          "text": "Inner mitochondrial membrane"
+          "text": "Both true, correct explanation"
         },
         {
           "label": "B",
-          "text": "Endoplasmic reticulum membrane"
+          "text": "Both true, not correct explanation"
         },
         {
           "label": "C",
-          "text": "Outer nuclear membrane"
+          "text": "Assertion true, Reason false"
         },
         {
           "label": "D",
-          "text": "Lysosomal limiting membrane"
+          "text": "Assertion false, Reason true"
         },
         {
           "label": "E",
-          "text": "Plasma membrane of the cell"
+          "text": "Both false"
         }
       ],
       "correctAnswer": "A",
-      "why": "Dihydroorotate dehydrogenase is associated with the inner mitochondrial membrane.",
+      "why": "The mitochondrion-associated dihydroorotate dehydrogenase transfers electrons to ubiquinone, explaining the location.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine synthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "lockOrder": true
     },
     {
       "id": "dq-bio-nuc-042",
       "type": "single-best",
-      "stem": "Mammalian dihydroorotate dehydrogenase transfers electrons to which respiratory carrier?",
+      "stem": "How many ATP molecules are consumed when mammalian CPS II forms carbamoyl phosphate?",
       "options": [
         {
           "label": "A",
-          "text": "Cytochrome c"
+          "text": "One"
         },
         {
           "label": "B",
-          "text": "Ubiquinone"
+          "text": "Two"
         },
         {
           "label": "C",
-          "text": "Ferredoxin"
+          "text": "Three"
         },
         {
           "label": "D",
-          "text": "Plastocyanin"
+          "text": "Four"
         },
         {
           "label": "E",
-          "text": "Haemoglobin"
+          "text": "Five"
         }
       ],
       "correctAnswer": "B",
-      "why": "The enzyme uses ubiquinone as its electron acceptor.",
+      "why": "CPS II consumes two ATP molecules to make carbamoyl phosphate.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine synthesis",
-      "difficulty": "hard"
+      "difficulty": "easy"
     },
     {
       "id": "dq-bio-nuc-043",
@@ -25833,31 +25834,31 @@
     {
       "id": "dq-bio-nuc-047",
       "type": "single-best",
-      "stem": "What is the main regulatory enzyme of de novo pyrimidine synthesis in mammalian cells?",
+      "stem": "Which nitrogen source is used by CPS II but not by urea-cycle CPS I?",
       "options": [
         {
           "label": "A",
-          "text": "Carbamoyl phosphate synthetase I"
+          "text": "Free ammonium"
         },
         {
           "label": "B",
-          "text": "Carbamoyl phosphate synthetase II"
+          "text": "Aspartate amino"
         },
         {
           "label": "C",
-          "text": "Orotate phosphoribosyltransferase"
+          "text": "Glutamine amide"
         },
         {
           "label": "D",
-          "text": "Orotidylate decarboxylase"
+          "text": "Glycine amino"
         },
         {
           "label": "E",
-          "text": "Dihydroorotate dehydrogenase"
+          "text": "Alanine amino"
         }
       ],
-      "correctAnswer": "B",
-      "why": "Cytosolic CPS II is the major regulated step in mammalian pyrimidine synthesis.",
+      "correctAnswer": "C",
+      "why": "Cytosolic CPS II uses glutamine amide nitrogen; mitochondrial CPS I uses free ammonia.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine regulation",
       "difficulty": "medium"
@@ -26121,33 +26122,33 @@
     {
       "id": "dq-bio-nuc-056",
       "type": "single-best",
-      "stem": "What enzyme first joins orotate to an activated ribose to form OMP?",
+      "stem": "Which bifunctional protein catalyses the final two steps from orotate to UMP?",
       "options": [
         {
           "label": "A",
-          "text": "Orotate phosphoribosyltransferase"
+          "text": "CAD complex"
         },
         {
           "label": "B",
-          "text": "Orotidylate decarboxylase"
+          "text": "GART complex"
         },
         {
           "label": "C",
-          "text": "Aspartate transcarbamoylase"
+          "text": "ATIC protein"
         },
         {
           "label": "D",
-          "text": "Dihydroorotase"
+          "text": "UMP synthase"
         },
         {
           "label": "E",
-          "text": "Carbamoyl phosphate synthetase II"
+          "text": "HGPRT enzyme"
         }
       ],
-      "correctAnswer": "A",
-      "why": "Orotate phosphoribosyltransferase uses PRPP to produce OMP.",
+      "correctAnswer": "D",
+      "why": "UMP synthase combines the orotate phosphoribosyltransferase and OMP decarboxylase activities.",
       "topicId": "nucleotides",
-      "subtopic": "Pyrimidine synthesis",
+      "subtopic": "Pyrimidine organization",
       "difficulty": "medium"
     },
     {
@@ -26409,63 +26410,64 @@
     {
       "id": "dq-bio-nuc-065",
       "type": "single-best",
-      "stem": "Which enzyme directly converts ribonucleoside diphosphates into their deoxy forms?",
+      "stem": "Assertion: Ribonucleotide reductase produces deoxyribonucleotides for DNA synthesis.\nReason: It removes the 2-prime hydroxyl from a ribonucleoside diphosphate.",
       "options": [
         {
           "label": "A",
-          "text": "Nucleoside diphosphate kinase"
+          "text": "Both true, correct explanation"
         },
         {
           "label": "B",
-          "text": "Orotate phosphoribosyltransferase"
+          "text": "Both true, not correct explanation"
         },
         {
           "label": "C",
-          "text": "Nucleoside monophosphate kinase"
+          "text": "Assertion true, Reason false"
         },
         {
           "label": "D",
-          "text": "Adenosylsuccinate synthetase"
+          "text": "Assertion false, Reason true"
         },
         {
           "label": "E",
-          "text": "Ribonucleotide reductase"
+          "text": "Both false"
         }
       ],
-      "correctAnswer": "E",
-      "why": "Ribonucleotide reductase reduces NDPs to dNDPs for DNA synthesis.",
+      "correctAnswer": "A",
+      "why": "Ribonucleotide reductase reduces the ribose 2-prime position of NDPs to generate deoxy-NDPs for DNA synthesis.",
       "topicId": "nucleotides",
       "subtopic": "Deoxyribonucleotide synthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "lockOrder": true
     },
     {
       "id": "dq-bio-nuc-066",
       "type": "single-best",
-      "stem": "Which pool provides direct substrates for ribonucleotide reductase?",
+      "stem": "Which characteristic mechanism is used by ribonucleotide reductase during nucleotide reduction?",
       "options": [
         {
           "label": "A",
-          "text": "Ribonucleoside diphosphates"
+          "text": "A biotin-carboxyl intermediate"
         },
         {
           "label": "B",
-          "text": "Ribonucleoside monophosphates"
+          "text": "An NAD-linked deamination"
         },
         {
           "label": "C",
-          "text": "Deoxyribonucleoside triphosphates"
+          "text": "A folate methyl transfer"
         },
         {
           "label": "D",
-          "text": "Free purine and pyrimidine bases"
+          "text": "A nonenzymic phosphate loss"
         },
         {
           "label": "E",
-          "text": "Ribonucleoside pentaphosphates"
+          "text": "A protein radical intermediate"
         }
       ],
-      "correctAnswer": "A",
-      "why": "The enzyme reduces ribonucleoside diphosphates rather than free bases or monophosphates.",
+      "correctAnswer": "E",
+      "why": "Ribonucleotide reductase uses a radical-based catalytic mechanism.",
       "topicId": "nucleotides",
       "subtopic": "Deoxyribonucleotide synthesis",
       "difficulty": "medium"
