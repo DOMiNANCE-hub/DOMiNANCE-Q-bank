@@ -1,0 +1,1959 @@
+{
+  "id": "dq-phys-endocrine",
+  "title": "Endocrine physiology — DOMiNANCE Originals",
+  "source": "KNUST Physiology lecture slides + syllabus",
+  "questions": [
+    {
+      "id": "dq-phys-endo-001",
+      "type": "single-best",
+      "stem": "A secreted factor acts on the same cell that released it. What is the mode?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Autocrine signalling"
+        },
+        {
+          "label": "B",
+          "text": "Paracrine signalling"
+        },
+        {
+          "label": "C",
+          "text": "Endocrine signalling"
+        },
+        {
+          "label": "D",
+          "text": "Neurocrine signalling"
+        },
+        {
+          "label": "E",
+          "text": "Exocrine signalling"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Autocrine signalling targets the secreting cell itself.",
+      "topicId": "endo-general",
+      "subtopic": "Hormone signalling",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-002",
+      "type": "single-best",
+      "stem": "A mediator diffuses to a neighbouring cell through interstitial fluid. What type of signalling is involved?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Autocrine signalling"
+        },
+        {
+          "label": "B",
+          "text": "Paracrine signalling"
+        },
+        {
+          "label": "C",
+          "text": "Endocrine signalling"
+        },
+        {
+          "label": "D",
+          "text": "Neurocrine signalling"
+        },
+        {
+          "label": "E",
+          "text": "Exocrine signalling"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Paracrine mediators act locally without travelling through the circulation.",
+      "topicId": "endo-general",
+      "subtopic": "Hormone signalling",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-003",
+      "type": "single-best",
+      "stem": "Which hormone is transported in plasma mainly without a protein carrier?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cortisol"
+        },
+        {
+          "label": "B",
+          "text": "Thyroxine"
+        },
+        {
+          "label": "C",
+          "text": "Adrenaline"
+        },
+        {
+          "label": "D",
+          "text": "Aldosterone"
+        },
+        {
+          "label": "E",
+          "text": "Testosterone"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Water-soluble catecholamines circulate largely unbound.",
+      "topicId": "endo-general",
+      "subtopic": "Hormone transport",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-004",
+      "type": "single-best",
+      "stem": "An acute increase in thyroid-binding globulin first increases which hormone pool?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Unbound plasma T4"
+        },
+        {
+          "label": "B",
+          "text": "Free intracellular T3"
+        },
+        {
+          "label": "C",
+          "text": "Unbound plasma T3"
+        },
+        {
+          "label": "D",
+          "text": "Protein-bound T4"
+        },
+        {
+          "label": "E",
+          "text": "Urinary excreted T4"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Additional binding sites initially bind more T4; feedback later restores free hormone.",
+      "topicId": "endo-general",
+      "subtopic": "Hormone transport",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-005",
+      "type": "single-best",
+      "stem": "Which hormone activates a cell-surface receptor with a second-messenger cascade?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cortisol"
+        },
+        {
+          "label": "B",
+          "text": "Thyroxine"
+        },
+        {
+          "label": "C",
+          "text": "Testosterone"
+        },
+        {
+          "label": "D",
+          "text": "Calcitriol"
+        },
+        {
+          "label": "E",
+          "text": "Glucagon"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Glucagon is a peptide and binds a membrane G-protein-coupled receptor.",
+      "topicId": "endo-general",
+      "subtopic": "Receptors",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-006",
+      "type": "single-best",
+      "stem": "Defective intracellular glucocorticoid receptors primarily impair which process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cortisol-regulated transcription"
+        },
+        {
+          "label": "B",
+          "text": "Rapid membrane depolarization"
+        },
+        {
+          "label": "C",
+          "text": "Secretory calcium influx"
+        },
+        {
+          "label": "D",
+          "text": "Peptide vesicle exocytosis"
+        },
+        {
+          "label": "E",
+          "text": "Plasma ligand clearance"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Cortisol-bound intracellular receptors regulate gene transcription.",
+      "topicId": "endo-general",
+      "subtopic": "Receptors",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-007",
+      "type": "single-best",
+      "stem": "A fall in plasma calcium directly raises PTH without pituitary stimulation. Which control is this?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neural regulation"
+        },
+        {
+          "label": "B",
+          "text": "Humoral regulation"
+        },
+        {
+          "label": "C",
+          "text": "Tropic regulation"
+        },
+        {
+          "label": "D",
+          "text": "Circadian regulation"
+        },
+        {
+          "label": "E",
+          "text": "Feedforward regulation"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Changes in plasma mineral concentration can directly control endocrine secretion.",
+      "topicId": "endo-general",
+      "subtopic": "Secretion control",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-008",
+      "type": "single-best",
+      "stem": "Why is a random GH sample often a poor measure of total secretion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Release is entirely constant"
+        },
+        {
+          "label": "B",
+          "text": "Binding is permanently fixed"
+        },
+        {
+          "label": "C",
+          "text": "Release occurs in pulses"
+        },
+        {
+          "label": "D",
+          "text": "Excretion occurs in bursts"
+        },
+        {
+          "label": "E",
+          "text": "Receptors are fully saturated"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Growth hormone secretion is pulsatile and varies with sleep and other stimuli.",
+      "topicId": "endo-general",
+      "subtopic": "Secretion control",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-009",
+      "type": "single-best",
+      "stem": "Damage to hypothalamic portal vessels most directly reduces regulation of which secretion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Posterior pituitary ADH"
+        },
+        {
+          "label": "B",
+          "text": "Posterior pituitary oxytocin"
+        },
+        {
+          "label": "C",
+          "text": "Adrenal medullary adrenaline"
+        },
+        {
+          "label": "D",
+          "text": "Anterior pituitary TSH"
+        },
+        {
+          "label": "E",
+          "text": "Parathyroid chief-cell PTH"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Anterior pituitary cells receive hypothalamic releasing factors through portal blood.",
+      "topicId": "endo-general",
+      "subtopic": "Pituitary",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-010",
+      "type": "single-best",
+      "stem": "Which structure synthesizes vasopressin before its storage in the posterior pituitary?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Posterior pituitary cells"
+        },
+        {
+          "label": "B",
+          "text": "Anterior pituitary cells"
+        },
+        {
+          "label": "C",
+          "text": "Adrenal chromaffin cells"
+        },
+        {
+          "label": "D",
+          "text": "Pineal secretory cells"
+        },
+        {
+          "label": "E",
+          "text": "Hypothalamic nuclei"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Supraoptic and paraventricular nuclei synthesize posterior pituitary hormones.",
+      "topicId": "endo-general",
+      "subtopic": "Pituitary",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-011",
+      "type": "single-best",
+      "stem": "Damage to the pituitary stalk prevents normal delivery of dopamine. Which hormone tends to rise?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prolactin"
+        },
+        {
+          "label": "B",
+          "text": "Thyrotropin"
+        },
+        {
+          "label": "C",
+          "text": "Somatotropin"
+        },
+        {
+          "label": "D",
+          "text": "Luteinizing hormone"
+        },
+        {
+          "label": "E",
+          "text": "Follicle-stimulating hormone"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Dopamine provides tonic hypothalamic inhibition of prolactin secretion.",
+      "topicId": "endo-general",
+      "subtopic": "Pituitary",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-012",
+      "type": "single-best",
+      "stem": "Which signal stimulates ADH release during simple water deprivation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decreased plasma osmolality"
+        },
+        {
+          "label": "B",
+          "text": "Increased plasma osmolality"
+        },
+        {
+          "label": "C",
+          "text": "Increased atrial filling"
+        },
+        {
+          "label": "D",
+          "text": "Decreased plasma sodium"
+        },
+        {
+          "label": "E",
+          "text": "Increased kidney filtration"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Hypothalamic osmoreceptors respond to elevated plasma tonicity.",
+      "topicId": "endo-general",
+      "subtopic": "ADH",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-013",
+      "type": "single-best",
+      "stem": "Severe blood loss increases ADH without an initial change in osmolarity. What signal is responsible?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased carotid stretch"
+        },
+        {
+          "label": "B",
+          "text": "Increased atrial distension"
+        },
+        {
+          "label": "C",
+          "text": "Reduced baroreceptor firing"
+        },
+        {
+          "label": "D",
+          "text": "Increased renal blood flow"
+        },
+        {
+          "label": "E",
+          "text": "Reduced plasma catecholamines"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Low effective circulating volume provides nonosmotic stimulation of ADH.",
+      "topicId": "endo-general",
+      "subtopic": "ADH",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-014",
+      "type": "single-best",
+      "stem": "A patient with persistent ADH excess retains water. Which result is expected?",
+      "options": [
+        {
+          "label": "A",
+          "text": "High sodium and high osmolality"
+        },
+        {
+          "label": "B",
+          "text": "High sodium and low osmolality"
+        },
+        {
+          "label": "C",
+          "text": "Low potassium and alkalosis"
+        },
+        {
+          "label": "D",
+          "text": "Low sodium and low osmolality"
+        },
+        {
+          "label": "E",
+          "text": "High calcium and phosphate"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Disproportionate water retention causes dilutional hyponatraemia and hypotonicity.",
+      "topicId": "endo-general",
+      "subtopic": "ADH",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-015",
+      "type": "single-best",
+      "stem": "Polyuria remains severe after desmopressin is given. Which defect best explains the observation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lack of hypothalamic ADH"
+        },
+        {
+          "label": "B",
+          "text": "Lack of posterior ADH release"
+        },
+        {
+          "label": "C",
+          "text": "Excess renal ADH secretion"
+        },
+        {
+          "label": "D",
+          "text": "Enhanced pituitary ADH stores"
+        },
+        {
+          "label": "E",
+          "text": "Renal resistance to ADH"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Nephrogenic diabetes insipidus is caused by renal insensitivity to vasopressin.",
+      "topicId": "endo-general",
+      "subtopic": "ADH",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-016",
+      "type": "single-best",
+      "stem": "During suckling, which cells contract to expel milk already formed in alveoli?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mammary myoepithelial cells"
+        },
+        {
+          "label": "B",
+          "text": "Mammary alveolar secretory cells"
+        },
+        {
+          "label": "C",
+          "text": "Mammary stromal fibroblasts"
+        },
+        {
+          "label": "D",
+          "text": "Anterior pituitary lactotroph cells"
+        },
+        {
+          "label": "E",
+          "text": "Ovarian granulosa secretory cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Oxytocin contracts myoepithelial cells and drives the milk ejection reflex.",
+      "topicId": "endo-general",
+      "subtopic": "Oxytocin",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-017",
+      "type": "single-best",
+      "stem": "Cervical stretch causes oxytocin release, stronger contractions and more stretch. What loop is this?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Negative feedback"
+        },
+        {
+          "label": "B",
+          "text": "Positive feedback"
+        },
+        {
+          "label": "C",
+          "text": "Tonic inhibition"
+        },
+        {
+          "label": "D",
+          "text": "Delayed inhibition"
+        },
+        {
+          "label": "E",
+          "text": "Receptor blockade"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Oxytocin promotes further cervical stretch and reinforces its own stimulus.",
+      "topicId": "endo-general",
+      "subtopic": "Oxytocin",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-018",
+      "type": "single-best",
+      "stem": "What mediator accounts for much GH-driven growth of epiphyseal cartilage?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thyroid-stimulating hormone"
+        },
+        {
+          "label": "B",
+          "text": "Adrenocorticotrophic hormone"
+        },
+        {
+          "label": "C",
+          "text": "Insulin-like growth factor 1"
+        },
+        {
+          "label": "D",
+          "text": "Parathyroid hormone"
+        },
+        {
+          "label": "E",
+          "text": "Corticotropin-releasing hormone"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "IGF-1 transmits major growth-promoting effects of GH.",
+      "topicId": "endo-general",
+      "subtopic": "Growth hormone",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-019",
+      "type": "single-best",
+      "stem": "A child has normal GH but markedly reduced hepatic IGF-1. Which response is most impaired?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adipocyte fat mobilization"
+        },
+        {
+          "label": "B",
+          "text": "Reduced cellular glucose uptake"
+        },
+        {
+          "label": "C",
+          "text": "Direct free fatty acid release"
+        },
+        {
+          "label": "D",
+          "text": "Longitudinal bone growth"
+        },
+        {
+          "label": "E",
+          "text": "GH-driven metabolic glucose sparing"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Linear skeletal growth depends substantially on GH-stimulated IGF-1.",
+      "topicId": "endo-general",
+      "subtopic": "Growth hormone",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-020",
+      "type": "single-best",
+      "stem": "Which factor suppresses rather than stimulates normal GH release?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acute hypoglycaemia"
+        },
+        {
+          "label": "B",
+          "text": "Deep non-REM sleep"
+        },
+        {
+          "label": "C",
+          "text": "Exercise recovery"
+        },
+        {
+          "label": "D",
+          "text": "Amino acids after a meal"
+        },
+        {
+          "label": "E",
+          "text": "Acute hyperglycaemia"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "High blood glucose tends to suppress GH secretion.",
+      "topicId": "endo-general",
+      "subtopic": "Growth hormone",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-021",
+      "type": "single-best",
+      "stem": "Why does chronic GH excess enlarge hands and jaw but not height in adults?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Epiphyseal plates have fused"
+        },
+        {
+          "label": "B",
+          "text": "All bone cartilage is absent"
+        },
+        {
+          "label": "C",
+          "text": "IGF-1 release has stopped"
+        },
+        {
+          "label": "D",
+          "text": "GH receptors have disappeared"
+        },
+        {
+          "label": "E",
+          "text": "Periosteal growth is blocked"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Plate fusion prevents further longitudinal growth, although appositional growth continues.",
+      "topicId": "endo-general",
+      "subtopic": "Growth hormone",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-022",
+      "type": "single-best",
+      "stem": "A prolactinoma can cause amenorrhoea through which mechanism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amplification of the LH surge"
+        },
+        {
+          "label": "B",
+          "text": "Suppression of pulsatile GnRH"
+        },
+        {
+          "label": "C",
+          "text": "Stimulation of ovarian aromatase"
+        },
+        {
+          "label": "D",
+          "text": "Enhanced follicular recruitment"
+        },
+        {
+          "label": "E",
+          "text": "Acceleration of luteal growth"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Elevated prolactin suppresses GnRH and thus gonadotropin secretion.",
+      "topicId": "endo-general",
+      "subtopic": "Prolactin",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-023",
+      "type": "single-best",
+      "stem": "Why does copious milk secretion begin after delivery despite high prolactin in pregnancy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Placental oestrogen increase"
+        },
+        {
+          "label": "B",
+          "text": "Additional maternal hCG release"
+        },
+        {
+          "label": "C",
+          "text": "Placental progesterone withdrawal"
+        },
+        {
+          "label": "D",
+          "text": "Pituitary dopamine increase"
+        },
+        {
+          "label": "E",
+          "text": "Mammary prolactin receptor loss"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The fall in progesterone removes inhibition of full lactogenesis.",
+      "topicId": "endo-general",
+      "subtopic": "Prolactin",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-024",
+      "type": "single-best",
+      "stem": "In primary adrenal failure, excess ACTH and skin pigmentation share which precursor?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Preproinsulin"
+        },
+        {
+          "label": "B",
+          "text": "Angiotensinogen"
+        },
+        {
+          "label": "C",
+          "text": "Thyroglobulin"
+        },
+        {
+          "label": "D",
+          "text": "Pro-opiomelanocortin"
+        },
+        {
+          "label": "E",
+          "text": "Preproglucagon"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "POMC is processed into ACTH and melanocortin-related peptides.",
+      "topicId": "endo-general",
+      "subtopic": "Melanocortins",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-025",
+      "type": "single-best",
+      "stem": "Which transporter brings iodide into thyroid follicular cells against its gradient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sodium-glucose symporter"
+        },
+        {
+          "label": "B",
+          "text": "Sodium-calcium exchanger"
+        },
+        {
+          "label": "C",
+          "text": "Potassium-chloride carrier"
+        },
+        {
+          "label": "D",
+          "text": "Passive chloride channel"
+        },
+        {
+          "label": "E",
+          "text": "Sodium-iodide symporter"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The sodium-iodide symporter concentrates iodide using the sodium gradient.",
+      "topicId": "endo-thyroid",
+      "subtopic": "Thyroid synthesis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-026",
+      "type": "single-best",
+      "stem": "Which reactions in the colloid depend on thyroid peroxidase?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iodination and coupling"
+        },
+        {
+          "label": "B",
+          "text": "Endocytosis and proteolysis"
+        },
+        {
+          "label": "C",
+          "text": "Deiodination and binding"
+        },
+        {
+          "label": "D",
+          "text": "Filtration and clearance"
+        },
+        {
+          "label": "E",
+          "text": "Exocytosis and recycling"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Thyroid peroxidase oxidizes and organifies iodine and catalyses iodotyrosine coupling.",
+      "topicId": "endo-thyroid",
+      "subtopic": "Thyroid synthesis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-027",
+      "type": "single-best",
+      "stem": "Coupling two diiodotyrosine residues produces which thyroid hormone?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Triiodothyronine"
+        },
+        {
+          "label": "B",
+          "text": "Thyroxine"
+        },
+        {
+          "label": "C",
+          "text": "Reverse T3"
+        },
+        {
+          "label": "D",
+          "text": "Monoiodotyrosine"
+        },
+        {
+          "label": "E",
+          "text": "Free iodide"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "DIT plus DIT yields thyroxine, or T4.",
+      "topicId": "endo-thyroid",
+      "subtopic": "Thyroid synthesis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-028",
+      "type": "single-best",
+      "stem": "A thionamide inhibits thyroid peroxidase. Which process is reduced most directly?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Peripheral T4 conversion"
+        },
+        {
+          "label": "B",
+          "text": "Hypothalamic TRH release"
+        },
+        {
+          "label": "C",
+          "text": "New T3 and T4 synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Hepatic hormone binding"
+        },
+        {
+          "label": "E",
+          "text": "Renal iodide filtration"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Organification and coupling required for new hormone synthesis are blocked.",
+      "topicId": "endo-thyroid",
+      "subtopic": "Thyroid synthesis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-029",
+      "type": "single-best",
+      "stem": "Which feature distinguishes thyroid hormone storage from most endocrine storage?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Free T3 in cytosolic vesicles"
+        },
+        {
+          "label": "B",
+          "text": "Free T4 in bloodstream stores"
+        },
+        {
+          "label": "C",
+          "text": "Intracellular iodide crystals"
+        },
+        {
+          "label": "D",
+          "text": "Extracellular thyroglobulin reserves"
+        },
+        {
+          "label": "E",
+          "text": "Protein-bound T4 in lymph"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Large stores of iodinated thyroglobulin accumulate in follicular colloid.",
+      "topicId": "endo-thyroid",
+      "subtopic": "Thyroid storage",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-030",
+      "type": "single-best",
+      "stem": "TSH promotes T3 and T4 release from stored colloid mainly by what mechanism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iodide oxidation in plasma"
+        },
+        {
+          "label": "B",
+          "text": "Direct secretion of thyroglobulin"
+        },
+        {
+          "label": "C",
+          "text": "Peripheral binding in the liver"
+        },
+        {
+          "label": "D",
+          "text": "Destruction of parafollicular cells"
+        },
+        {
+          "label": "E",
+          "text": "Endocytosis then proteolysis"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Colloid is endocytosed and thyroglobulin is proteolysed to liberate hormones.",
+      "topicId": "endo-thyroid",
+      "subtopic": "Thyroid secretion",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-031",
+      "type": "single-best",
+      "stem": "Why is T3 more biologically potent than T4 at many target cells?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Greater thyroid-receptor activity"
+        },
+        {
+          "label": "B",
+          "text": "Longer half-life in plasma"
+        },
+        {
+          "label": "C",
+          "text": "Greater thyroid secretion rate"
+        },
+        {
+          "label": "D",
+          "text": "Stronger plasma protein binding"
+        },
+        {
+          "label": "E",
+          "text": "Slower movement into cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "T3 binds and activates thyroid hormone receptors more effectively.",
+      "topicId": "endo-thyroid",
+      "subtopic": "Thyroid physiology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-032",
+      "type": "single-best",
+      "stem": "Which enzymes convert much circulating T4 into active T3 in peripheral tissues?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thyroid follicle peroxidases"
+        },
+        {
+          "label": "B",
+          "text": "Iodothyronine deiodinases"
+        },
+        {
+          "label": "C",
+          "text": "Tyrosine hydroxylases"
+        },
+        {
+          "label": "D",
+          "text": "Aromatic decarboxylases"
+        },
+        {
+          "label": "E",
+          "text": "Adrenal cortical hydroxylases"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Deiodinases remove one iodine atom from T4 to generate T3.",
+      "topicId": "endo-thyroid",
+      "subtopic": "Thyroid physiology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-033",
+      "type": "single-best",
+      "stem": "High resting oxygen consumption in thyrotoxicosis indicates increased what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hormone protein binding"
+        },
+        {
+          "label": "B",
+          "text": "Renal phosphate clearance"
+        },
+        {
+          "label": "C",
+          "text": "Basal energy expenditure"
+        },
+        {
+          "label": "D",
+          "text": "Anaerobic metabolism alone"
+        },
+        {
+          "label": "E",
+          "text": "Calcium absorption alone"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Thyroid hormone is calorigenic and increases basal metabolic rate.",
+      "topicId": "endo-thyroid",
+      "subtopic": "Thyroid metabolism",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-034",
+      "type": "single-best",
+      "stem": "Thyroid hormone can lower LDL cholesterol mainly by increasing what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hepatic LDL-receptor loss"
+        },
+        {
+          "label": "B",
+          "text": "Intestinal cholesterol synthesis"
+        },
+        {
+          "label": "C",
+          "text": "Plasma chylomicron production"
+        },
+        {
+          "label": "D",
+          "text": "Hepatic LDL-receptor activity"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of LDL endocytosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Upregulated hepatic LDL receptors enhance clearance of circulating LDL.",
+      "topicId": "endo-thyroid",
+      "subtopic": "Thyroid metabolism",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-035",
+      "type": "single-best",
+      "stem": "What contributes to tachycardia in a patient with thyroid hormone excess?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reduced SA node automaticity"
+        },
+        {
+          "label": "B",
+          "text": "Reduced cardiac catecholamine action"
+        },
+        {
+          "label": "C",
+          "text": "Fewer myocardial beta receptors"
+        },
+        {
+          "label": "D",
+          "text": "Suppressed calcium handling in heart"
+        },
+        {
+          "label": "E",
+          "text": "Greater beta-adrenergic sensitivity"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Thyroid hormone increases cardiac responsiveness to catecholamines.",
+      "topicId": "endo-thyroid",
+      "subtopic": "Thyroid cardiovascular effects",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-036",
+      "type": "single-best",
+      "stem": "Why can peripheral resistance fall while cardiac output increases in hyperthyroidism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Heat-related arteriolar dilation"
+        },
+        {
+          "label": "B",
+          "text": "Generalized arteriolar spasm"
+        },
+        {
+          "label": "C",
+          "text": "Suppressed skin circulation"
+        },
+        {
+          "label": "D",
+          "text": "Lower body heat production"
+        },
+        {
+          "label": "E",
+          "text": "Increased peripheral alpha tone"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Extra heat generation promotes peripheral vasodilatation.",
+      "topicId": "endo-thyroid",
+      "subtopic": "Thyroid cardiovascular effects",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-037",
+      "type": "single-best",
+      "stem": "Delayed ankle-jerk relaxation classically suggests which endocrine disturbance?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thyroid hormone excess"
+        },
+        {
+          "label": "B",
+          "text": "Thyroid hormone deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Aldosterone excess"
+        },
+        {
+          "label": "D",
+          "text": "Adrenaline excess"
+        },
+        {
+          "label": "E",
+          "text": "Parathyroid hormone excess"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Hypothyroidism produces slow relaxation of deep-tendon reflexes.",
+      "topicId": "endo-thyroid",
+      "subtopic": "Thyroid nervous system",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-038",
+      "type": "single-best",
+      "stem": "Severe congenital hypothyroidism impairs later learning primarily through what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Excess fetal cortical oxygen"
+        },
+        {
+          "label": "B",
+          "text": "Enhanced infant myelination"
+        },
+        {
+          "label": "C",
+          "text": "Defective early neural maturation"
+        },
+        {
+          "label": "D",
+          "text": "Increased fetal steroidogenesis"
+        },
+        {
+          "label": "E",
+          "text": "Accelerated neuronal migration"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Thyroid hormones are required for early brain development and myelination.",
+      "topicId": "endo-thyroid",
+      "subtopic": "Thyroid nervous system",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-039",
+      "type": "single-best",
+      "stem": "Free T4 is low and TSH is greatly elevated. Which organ most likely has primary dysfunction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anterior pituitary"
+        },
+        {
+          "label": "B",
+          "text": "Hypothalamus"
+        },
+        {
+          "label": "C",
+          "text": "Pineal gland"
+        },
+        {
+          "label": "D",
+          "text": "Thyroid gland"
+        },
+        {
+          "label": "E",
+          "text": "Adrenal cortex"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "High TSH reflects attempted compensation for inadequate thyroid production.",
+      "topicId": "endo-thyroid",
+      "subtopic": "Thyroid control",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-040",
+      "type": "single-best",
+      "stem": "Free T4 is low but TSH is inappropriately low. Which disorder best fits?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Primary hypothyroidism"
+        },
+        {
+          "label": "B",
+          "text": "Graves hyperthyroidism"
+        },
+        {
+          "label": "C",
+          "text": "Toxic nodular hyperthyroidism"
+        },
+        {
+          "label": "D",
+          "text": "Thyroid hormone resistance"
+        },
+        {
+          "label": "E",
+          "text": "Central hypothyroidism"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Hypothalamic or pituitary failure leads to an inadequate TSH response.",
+      "topicId": "endo-thyroid",
+      "subtopic": "Thyroid control",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-041",
+      "type": "single-best",
+      "stem": "Yellow skin without yellow sclerae in hypothyroidism may reflect what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reduced carotene conversion"
+        },
+        {
+          "label": "B",
+          "text": "Increased bilirubin formation"
+        },
+        {
+          "label": "C",
+          "text": "Enhanced skin melanin"
+        },
+        {
+          "label": "D",
+          "text": "Increased haemolysis"
+        },
+        {
+          "label": "E",
+          "text": "Reduced plasma cholesterol"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Thyroid deficiency can impair conversion of beta-carotene to vitamin A.",
+      "topicId": "endo-thyroid",
+      "subtopic": "Thyroid deficiency",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-042",
+      "type": "single-best",
+      "stem": "What explains short stature with longstanding childhood hypothyroidism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Premature growth-plate fusion"
+        },
+        {
+          "label": "B",
+          "text": "Delayed skeletal maturation"
+        },
+        {
+          "label": "C",
+          "text": "Excess long-bone elongation"
+        },
+        {
+          "label": "D",
+          "text": "Increased cortical resorption"
+        },
+        {
+          "label": "E",
+          "text": "Accelerated epiphyseal growth"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Normal bone growth and maturation require thyroid hormone.",
+      "topicId": "endo-thyroid",
+      "subtopic": "Thyroid deficiency",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-043",
+      "type": "single-best",
+      "stem": "A patient has heat intolerance, tremor and raised free T4. Which TSH level suggests primary hyperthyroidism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Elevated TSH"
+        },
+        {
+          "label": "B",
+          "text": "Markedly elevated ACTH"
+        },
+        {
+          "label": "C",
+          "text": "Suppressed TSH"
+        },
+        {
+          "label": "D",
+          "text": "Elevated prolactin"
+        },
+        {
+          "label": "E",
+          "text": "Elevated hypothalamic TRH"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Primary thyroid excess suppresses pituitary TSH by negative feedback.",
+      "topicId": "endo-thyroid",
+      "subtopic": "Thyroid excess",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-044",
+      "type": "single-best",
+      "stem": "Extracellular calcium entering a presynaptic terminal triggers which event?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Myelin membrane synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Haemoglobin oxygenation"
+        },
+        {
+          "label": "C",
+          "text": "DNA base pairing"
+        },
+        {
+          "label": "D",
+          "text": "Neurotransmitter exocytosis"
+        },
+        {
+          "label": "E",
+          "text": "Glycogen branching"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Calcium influx triggers synaptic vesicle fusion and transmitter release.",
+      "topicId": "endo-calcium",
+      "subtopic": "Calcium physiology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-045",
+      "type": "single-best",
+      "stem": "Why does severe hypocalcaemia cause tetany and muscle spasms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decreased neuronal excitability"
+        },
+        {
+          "label": "B",
+          "text": "Reduced sodium permeability"
+        },
+        {
+          "label": "C",
+          "text": "Enhanced neural inhibition"
+        },
+        {
+          "label": "D",
+          "text": "Reduced skeletal excitability"
+        },
+        {
+          "label": "E",
+          "text": "Increased neuronal excitability"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Low extracellular calcium lowers the threshold for spontaneous neuronal discharge.",
+      "topicId": "endo-calcium",
+      "subtopic": "Calcium physiology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-046",
+      "type": "single-best",
+      "stem": "Carpal spasm after inflation of a blood-pressure cuff demonstrates which sign?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trousseau sign"
+        },
+        {
+          "label": "B",
+          "text": "Chvostek sign"
+        },
+        {
+          "label": "C",
+          "text": "Babinski sign"
+        },
+        {
+          "label": "D",
+          "text": "Romberg sign"
+        },
+        {
+          "label": "E",
+          "text": "Hoffmann sign"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Trousseau sign is carpal spasm produced by cuff inflation.",
+      "topicId": "endo-calcium",
+      "subtopic": "Calcium signs",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-047",
+      "type": "single-best",
+      "stem": "Tapping the facial nerve produces twitching of facial muscles. Which sign is this?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trousseau sign"
+        },
+        {
+          "label": "B",
+          "text": "Chvostek sign"
+        },
+        {
+          "label": "C",
+          "text": "Kernig sign"
+        },
+        {
+          "label": "D",
+          "text": "Brudzinski sign"
+        },
+        {
+          "label": "E",
+          "text": "Lhermitte sign"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Chvostek sign demonstrates facial nerve hyperexcitability.",
+      "topicId": "endo-calcium",
+      "subtopic": "Calcium signs",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-048",
+      "type": "single-best",
+      "stem": "A hyperventilating patient develops tetany with normal total plasma calcium. What changed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acidosis reduced ionized calcium"
+        },
+        {
+          "label": "B",
+          "text": "Alkalosis increased total calcium"
+        },
+        {
+          "label": "C",
+          "text": "Alkalosis reduced ionized calcium"
+        },
+        {
+          "label": "D",
+          "text": "Acidosis increased ionized calcium"
+        },
+        {
+          "label": "E",
+          "text": "Alkalosis increased free magnesium"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Respiratory alkalosis increases calcium binding to albumin, lowering ionized calcium.",
+      "topicId": "endo-calcium",
+      "subtopic": "Calcium physiology",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-049",
+      "type": "single-best",
+      "stem": "Which neurological finding is expected with significant hypercalcaemia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased carpopedal spasm"
+        },
+        {
+          "label": "B",
+          "text": "Repetitive clonic seizures"
+        },
+        {
+          "label": "C",
+          "text": "Raised neuronal excitability"
+        },
+        {
+          "label": "D",
+          "text": "Depressed tendon reflexes"
+        },
+        {
+          "label": "E",
+          "text": "Generalized latent tetany"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "High extracellular calcium reduces neural and muscular excitability.",
+      "topicId": "endo-calcium",
+      "subtopic": "Calcium physiology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-050",
+      "type": "single-best",
+      "stem": "Which bone cell primarily secretes collagen-rich osteoid for mineralization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Osteoclast"
+        },
+        {
+          "label": "B",
+          "text": "Osteocyte"
+        },
+        {
+          "label": "C",
+          "text": "Chondroclast"
+        },
+        {
+          "label": "D",
+          "text": "Chondrocyte"
+        },
+        {
+          "label": "E",
+          "text": "Osteoblast"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Osteoblasts produce the organic bone matrix.",
+      "topicId": "endo-calcium",
+      "subtopic": "Bone physiology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-051",
+      "type": "single-best",
+      "stem": "Severely reduced osteoclast activity can produce which bone disorder?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Osteopetrosis"
+        },
+        {
+          "label": "B",
+          "text": "Osteoporosis"
+        },
+        {
+          "label": "C",
+          "text": "Osteomalacia"
+        },
+        {
+          "label": "D",
+          "text": "Rickets"
+        },
+        {
+          "label": "E",
+          "text": "Osteomyelitis"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Impaired resorption causes unusually dense bone, with narrowed marrow spaces.",
+      "topicId": "endo-calcium",
+      "subtopic": "Bone physiology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-052",
+      "type": "single-best",
+      "stem": "Which constituent provides most resistance to compression in healthy bone?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type I collagen fibres"
+        },
+        {
+          "label": "B",
+          "text": "Hydroxyapatite mineral"
+        },
+        {
+          "label": "C",
+          "text": "Nonmineralized osteoid"
+        },
+        {
+          "label": "D",
+          "text": "Cartilage proteoglycans"
+        },
+        {
+          "label": "E",
+          "text": "Elastic tissue fibres"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Hydroxyapatite adds compressive rigidity while collagen provides tensile strength.",
+      "topicId": "endo-calcium",
+      "subtopic": "Bone physiology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-053",
+      "type": "single-best",
+      "stem": "A vitamin D-deficient child has bowed legs and poor bone mineralization. Which condition is most likely?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Osteoporosis"
+        },
+        {
+          "label": "B",
+          "text": "Osteopetrosis"
+        },
+        {
+          "label": "C",
+          "text": "Rickets"
+        },
+        {
+          "label": "D",
+          "text": "Osteomyelitis"
+        },
+        {
+          "label": "E",
+          "text": "Osteogenesis imperfecta"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Rickets is defective mineralization in developing skeletal bone.",
+      "topicId": "endo-calcium",
+      "subtopic": "Bone disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-054",
+      "type": "single-best",
+      "stem": "Which contrast best separates osteoporosis from osteomalacia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Too much collagen versus low calcium"
+        },
+        {
+          "label": "B",
+          "text": "More osteoclasts versus lower phosphate"
+        },
+        {
+          "label": "C",
+          "text": "Excess calcitonin versus low PTH"
+        },
+        {
+          "label": "D",
+          "text": "Less bone mass versus poor mineralization"
+        },
+        {
+          "label": "E",
+          "text": "Reduced marrow versus excess osteoid"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Osteoporosis reduces bone mass whereas osteomalacia decreases osteoid mineralization.",
+      "topicId": "endo-calcium",
+      "subtopic": "Bone disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-055",
+      "type": "single-best",
+      "stem": "Where does the final hydroxylation yielding calcitriol mainly occur?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hepatic parenchymal cells"
+        },
+        {
+          "label": "B",
+          "text": "Thyroid follicular cells"
+        },
+        {
+          "label": "C",
+          "text": "Adrenal medullary cells"
+        },
+        {
+          "label": "D",
+          "text": "Small-intestinal mucosa"
+        },
+        {
+          "label": "E",
+          "text": "Renal proximal tubules"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Renal 1-alpha-hydroxylase converts 25-hydroxyvitamin D to calcitriol.",
+      "topicId": "endo-calcium",
+      "subtopic": "Vitamin D",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-056",
+      "type": "single-best",
+      "stem": "Which endocrine signal increases the kidney's production of active vitamin D?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Parathyroid hormone"
+        },
+        {
+          "label": "B",
+          "text": "Thyroid calcitonin"
+        },
+        {
+          "label": "C",
+          "text": "Pancreatic glucagon"
+        },
+        {
+          "label": "D",
+          "text": "Anterior pituitary TSH"
+        },
+        {
+          "label": "E",
+          "text": "Adrenal medullary adrenaline"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "PTH upregulates 1-alpha-hydroxylase during calcium deficiency.",
+      "topicId": "endo-calcium",
+      "subtopic": "Vitamin D",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-057",
+      "type": "single-best",
+      "stem": "Calcitriol improves calcium balance primarily through which gut effect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decreased intestinal calcium transport"
+        },
+        {
+          "label": "B",
+          "text": "Increased intestinal calcium transport"
+        },
+        {
+          "label": "C",
+          "text": "Increased renal calcium secretion"
+        },
+        {
+          "label": "D",
+          "text": "Decreased bone mineralization"
+        },
+        {
+          "label": "E",
+          "text": "Increased urinary phosphate loss"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Calcitriol upregulates intestinal transport proteins to enhance calcium absorption.",
+      "topicId": "endo-calcium",
+      "subtopic": "Vitamin D",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-058",
+      "type": "single-best",
+      "stem": "Why can serum phosphate fall in primary hyperparathyroidism despite bone resorption?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased tubular phosphate reabsorption"
+        },
+        {
+          "label": "B",
+          "text": "Reduced intestinal phosphate uptake"
+        },
+        {
+          "label": "C",
+          "text": "Reduced tubular phosphate reabsorption"
+        },
+        {
+          "label": "D",
+          "text": "Completely suppressed bone resorption"
+        },
+        {
+          "label": "E",
+          "text": "Increased calcitonin release"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "PTH promotes phosphate loss through the kidneys.",
+      "topicId": "endo-calcium",
+      "subtopic": "PTH",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-059",
+      "type": "single-best",
+      "stem": "How do chief cells respond immediately when plasma ionized calcium falls?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reduce parathyroid hormone"
+        },
+        {
+          "label": "B",
+          "text": "Increase thyroid calcitonin"
+        },
+        {
+          "label": "C",
+          "text": "Reduce calcitriol formation"
+        },
+        {
+          "label": "D",
+          "text": "Increase parathyroid hormone"
+        },
+        {
+          "label": "E",
+          "text": "Increase bone mineralization"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Low ionized calcium reduces CaSR activation and permits more PTH release.",
+      "topicId": "endo-calcium",
+      "subtopic": "PTH",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-060",
+      "type": "single-best",
+      "stem": "Which laboratory pattern follows complete loss of parathyroid hormone secretion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "High calcium with low phosphate"
+        },
+        {
+          "label": "B",
+          "text": "High calcium with high phosphate"
+        },
+        {
+          "label": "C",
+          "text": "Low calcium with low phosphate"
+        },
+        {
+          "label": "D",
+          "text": "Normal calcium with low phosphate"
+        },
+        {
+          "label": "E",
+          "text": "Low calcium with high phosphate"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Low PTH causes hypocalcaemia and reduced renal phosphate excretion.",
+      "topicId": "endo-calcium",
+      "subtopic": "PTH",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-061",
+      "type": "single-best",
+      "stem": "Calcitonin lowers circulating calcium by which direct action?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inhibition of osteoclasts"
+        },
+        {
+          "label": "B",
+          "text": "Stimulation of osteoclasts"
+        },
+        {
+          "label": "C",
+          "text": "Increased intestinal uptake"
+        },
+        {
+          "label": "D",
+          "text": "Increased renal retention"
+        },
+        {
+          "label": "E",
+          "text": "Increased renal calcitriol"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Calcitonin restrains osteoclast-mediated bone resorption.",
+      "topicId": "endo-calcium",
+      "subtopic": "Calcitonin",
+      "difficulty": "medium"
+    }
+  ]
+}
