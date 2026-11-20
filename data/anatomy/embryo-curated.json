@@ -1794,6 +1794,1062 @@
       "topicId": "e-disc",
       "subtopic": "Anomalies",
       "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-001",
+      "type": "single-best",
+      "stem": "New blood vessels forming de novo from angioblasts that differentiate from mesenchyme is called",
+      "options": [
+        {
+          "label": "A",
+          "text": "vasculogenesis"
+        },
+        {
+          "label": "B",
+          "text": "angiogenesis"
+        },
+        {
+          "label": "C",
+          "text": "haematopoiesis"
+        },
+        {
+          "label": "D",
+          "text": "angioplasty"
+        },
+        {
+          "label": "E",
+          "text": "arteriogenesis"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Vasculogenesis forms the first vessels from angioblasts; angiogenesis is sprouting of capillaries from existing vessels.",
+      "topicId": "e-cvs",
+      "subtopic": "Vessel development",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-002",
+      "type": "single-best",
+      "stem": "The primordium of the heart first forms in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "neural crest"
+        },
+        {
+          "label": "B",
+          "text": "cardiogenic plate"
+        },
+        {
+          "label": "C",
+          "text": "the sinus venosus"
+        },
+        {
+          "label": "D",
+          "text": "the bulbus cordis"
+        },
+        {
+          "label": "E",
+          "text": "septum transversum"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The heart primordium forms in the cardiogenic plate (primary heart field) at the cranial end of the embryo.",
+      "topicId": "e-cvs",
+      "subtopic": "Heart tube",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-003",
+      "type": "single-best",
+      "stem": "The single primitive heart tube forms by",
+      "options": [
+        {
+          "label": "A",
+          "text": "budding from the aorta"
+        },
+        {
+          "label": "B",
+          "text": "division of the truncus"
+        },
+        {
+          "label": "C",
+          "text": "fusion of two endocardial tubes"
+        },
+        {
+          "label": "D",
+          "text": "splitting of the bulbus cordis"
+        },
+        {
+          "label": "E",
+          "text": "folding of the sinus venosus"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Two endocardial (heart) tubes move ventrally with folding and fuse into one primitive heart tube.",
+      "topicId": "e-cvs",
+      "subtopic": "Heart tube",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-004",
+      "type": "single-best",
+      "stem": "The cephalic (arterial) end of the bulbus cordis elongates to become the",
+      "options": [
+        {
+          "label": "A",
+          "text": "primitive atrium"
+        },
+        {
+          "label": "B",
+          "text": "conus cordis only"
+        },
+        {
+          "label": "C",
+          "text": "aortic sac"
+        },
+        {
+          "label": "D",
+          "text": "truncus arteriosus"
+        },
+        {
+          "label": "E",
+          "text": "sinus venosus"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The cephalic bulbus cordis elongates into the truncus arteriosus; from cranial to caudal the tube is bulbus cordis, ventricle, atrium, sinus venosus.",
+      "topicId": "e-cvs",
+      "subtopic": "Heart tube",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-005",
+      "type": "single-best",
+      "stem": "To accommodate elongation, the heart tube bends from left to right forming the",
+      "options": [
+        {
+          "label": "A",
+          "text": "sinus venarum"
+        },
+        {
+          "label": "B",
+          "text": "septum spurium"
+        },
+        {
+          "label": "C",
+          "text": "crista terminalis"
+        },
+        {
+          "label": "D",
+          "text": "septum intermedium"
+        },
+        {
+          "label": "E",
+          "text": "bulboventricular loop"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The tube folds right to form the bulboventricular (heart) loop.",
+      "topicId": "e-cvs",
+      "subtopic": "Heart loop",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-cvs-006",
+      "type": "single-best",
+      "stem": "The superior and inferior endocardial cushions fuse to partition the atrioventricular canal, forming the",
+      "options": [
+        {
+          "label": "A",
+          "text": "septum intermedium"
+        },
+        {
+          "label": "B",
+          "text": "septum primum"
+        },
+        {
+          "label": "C",
+          "text": "septum secundum"
+        },
+        {
+          "label": "D",
+          "text": "septum spurium"
+        },
+        {
+          "label": "E",
+          "text": "aorticopulmonary septum"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "AV cushion fusion (septum intermedium) divides the AV canal into right and left channels.",
+      "topicId": "e-cvs",
+      "subtopic": "AV canal",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-007",
+      "type": "single-best",
+      "stem": "The gap between the growing edge of the septum primum and the endocardial cushions is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "coronary sinus"
+        },
+        {
+          "label": "B",
+          "text": "ostium primum"
+        },
+        {
+          "label": "C",
+          "text": "ostium secundum"
+        },
+        {
+          "label": "D",
+          "text": "foramen ovale"
+        },
+        {
+          "label": "E",
+          "text": "sinoatrial orifice"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The ostium primum is the gap below the advancing septum primum; it closes as the septum reaches the cushions.",
+      "topicId": "e-cvs",
+      "subtopic": "Atrial septation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-008",
+      "type": "single-best",
+      "stem": "Before the ostium primum closes, perforations in the septum primum form the",
+      "options": [
+        {
+          "label": "A",
+          "text": "sinus venarum"
+        },
+        {
+          "label": "B",
+          "text": "septum spurium"
+        },
+        {
+          "label": "C",
+          "text": "ostium secundum"
+        },
+        {
+          "label": "D",
+          "text": "foramen ovale"
+        },
+        {
+          "label": "E",
+          "text": "ostium primum"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Breakdown in the upper septum primum creates the ostium secundum, keeping a right-to-left path open.",
+      "topicId": "e-cvs",
+      "subtopic": "Atrial septation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-009",
+      "type": "single-best",
+      "stem": "The septum secundum differs from the septum primum in that it is",
+      "options": [
+        {
+          "label": "A",
+          "text": "formed from endocardial cushions"
+        },
+        {
+          "label": "B",
+          "text": "part of the sinus venosus"
+        },
+        {
+          "label": "C",
+          "text": "the floor of the coronary sinus"
+        },
+        {
+          "label": "D",
+          "text": "rigid, overlaps the ostium secundum"
+        },
+        {
+          "label": "E",
+          "text": "thin and flap-like"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The rigid septum secundum overlaps the free edge of the flap-like septum primum, converting ostium secundum into the oblique foramen ovale.",
+      "topicId": "e-cvs",
+      "subtopic": "Atrial septation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-010",
+      "type": "single-best",
+      "stem": "In the fetus the septum primum acts at the foramen ovale as a",
+      "options": [
+        {
+          "label": "A",
+          "text": "rigid fixed wall"
+        },
+        {
+          "label": "B",
+          "text": "one-way valve for left-to-right flow"
+        },
+        {
+          "label": "C",
+          "text": "muscular sphincter"
+        },
+        {
+          "label": "D",
+          "text": "source of the coronary sinus"
+        },
+        {
+          "label": "E",
+          "text": "flap valve allowing only right-to-left flow"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The septum primum is a flap valve permitting right-to-left atrial shunting in the fetus but not the reverse.",
+      "topicId": "e-cvs",
+      "subtopic": "Atrial septation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-011",
+      "type": "single-best",
+      "stem": "The crista terminalis of the adult right atrium is the persistent",
+      "options": [
+        {
+          "label": "A",
+          "text": "septum spurium"
+        },
+        {
+          "label": "B",
+          "text": "septum primum"
+        },
+        {
+          "label": "C",
+          "text": "left horn of sinus venosus"
+        },
+        {
+          "label": "D",
+          "text": "ostium secundum"
+        },
+        {
+          "label": "E",
+          "text": "sinus venarum"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Fused venous valves form the septum spurium, persisting as the crista terminalis between smooth and rough right atrium.",
+      "topicId": "e-cvs",
+      "subtopic": "Sinus venosus",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-012",
+      "type": "single-best",
+      "stem": "Absorption of the right horn of the sinus venosus forms the",
+      "options": [
+        {
+          "label": "A",
+          "text": "pulmonary veins"
+        },
+        {
+          "label": "B",
+          "text": "the sinus venarum"
+        },
+        {
+          "label": "C",
+          "text": "left atrium"
+        },
+        {
+          "label": "D",
+          "text": "coronary sinus"
+        },
+        {
+          "label": "E",
+          "text": "right auricle"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The right sinus horn is absorbed into the smooth sinus venarum; the diminished left horn becomes the coronary sinus.",
+      "topicId": "e-cvs",
+      "subtopic": "Sinus venosus",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-013",
+      "type": "single-best",
+      "stem": "The coronary sinus develops from the",
+      "options": [
+        {
+          "label": "A",
+          "text": "septum primum"
+        },
+        {
+          "label": "B",
+          "text": "left common cardinal vein only"
+        },
+        {
+          "label": "C",
+          "text": "left horn of the sinus venosus"
+        },
+        {
+          "label": "D",
+          "text": "right horn of the sinus venosus"
+        },
+        {
+          "label": "E",
+          "text": "pulmonary vein"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The small left sinus horn becomes the coronary sinus, opening below the sinoatrial orifice.",
+      "topicId": "e-cvs",
+      "subtopic": "Sinus venosus",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-014",
+      "type": "single-best",
+      "stem": "The smooth part of the left atrium is formed by absorption of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "coronary sinus"
+        },
+        {
+          "label": "B",
+          "text": "left venous valve"
+        },
+        {
+          "label": "C",
+          "text": "truncus arteriosus"
+        },
+        {
+          "label": "D",
+          "text": "pulmonary veins"
+        },
+        {
+          "label": "E",
+          "text": "right horn of the sinus venosus"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "A single pulmonary vein with four branches is absorbed into the left atrial wall, forming its smooth part; trabeculated tissue becomes the auricle.",
+      "topicId": "e-cvs",
+      "subtopic": "Left atrium",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-015",
+      "type": "single-best",
+      "stem": "The lower edge of the septum secundum seen in the right atrium becomes the",
+      "options": [
+        {
+          "label": "A",
+          "text": "crista terminalis"
+        },
+        {
+          "label": "B",
+          "text": "valve of the coronary sinus"
+        },
+        {
+          "label": "C",
+          "text": "septum spurium"
+        },
+        {
+          "label": "D",
+          "text": "sinus venarum"
+        },
+        {
+          "label": "E",
+          "text": "annulus ovalis"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The crista dividens (lower septum secundum edge) becomes the annulus ovalis, the rim of the fossa ovalis.",
+      "topicId": "e-cvs",
+      "subtopic": "Atrial septation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-016",
+      "type": "single-best",
+      "stem": "A secundum-type atrial septal defect may arise from excessive resorption of the septum primum or",
+      "options": [
+        {
+          "label": "A",
+          "text": "a too-short septum secundum"
+        },
+        {
+          "label": "B",
+          "text": "failure of the endocardial cushions to fuse"
+        },
+        {
+          "label": "C",
+          "text": "deficient conus swellings"
+        },
+        {
+          "label": "D",
+          "text": "a spiral truncoconal septum"
+        },
+        {
+          "label": "E",
+          "text": "absence of the sinus venosus"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Secundum ASD results from too much septum-primum resorption or a septum secundum that cannot cover the ostium secundum, leaving a patent foramen ovale.",
+      "topicId": "e-cvs",
+      "subtopic": "Anomalies",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-017",
+      "type": "single-best",
+      "stem": "The muscular part of the definitive interventricular septum develops from the",
+      "options": [
+        {
+          "label": "A",
+          "text": "aorticopulmonary septum"
+        },
+        {
+          "label": "B",
+          "text": "primary IV septum"
+        },
+        {
+          "label": "C",
+          "text": "the endocardial cushions"
+        },
+        {
+          "label": "D",
+          "text": "the bulbar ridges"
+        },
+        {
+          "label": "E",
+          "text": "the septum secundum"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The muscular IV septum comes from the primary interventricular septum; the membranous part comes from endocardial cushions and bulbar ridges.",
+      "topicId": "e-cvs",
+      "subtopic": "Ventricular septation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-018",
+      "type": "single-best",
+      "stem": "The membranous part of the interventricular septum is formed by the endocardial cushions and the",
+      "options": [
+        {
+          "label": "A",
+          "text": "crista terminalis"
+        },
+        {
+          "label": "B",
+          "text": "venous valves"
+        },
+        {
+          "label": "C",
+          "text": "bulbar (conus) ridges"
+        },
+        {
+          "label": "D",
+          "text": "primary interventricular septum"
+        },
+        {
+          "label": "E",
+          "text": "septum primum"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Membranous IV septum closure is by the fused endocardial cushions and the proximal truncoconal (bulbar/conus) ridges.",
+      "topicId": "e-cvs",
+      "subtopic": "Ventricular septation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-019",
+      "type": "single-best",
+      "stem": "Partitioning of the outflow tract (truncus arteriosus and conus cordis) into aorta and pulmonary trunk is achieved by a spiral septum derived from",
+      "options": [
+        {
+          "label": "A",
+          "text": "endoderm"
+        },
+        {
+          "label": "B",
+          "text": "the sinus venosus"
+        },
+        {
+          "label": "C",
+          "text": "the septum primum"
+        },
+        {
+          "label": "D",
+          "text": "neural crest cells"
+        },
+        {
+          "label": "E",
+          "text": "paraxial mesoderm"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Neural-crest-derived truncoconal (bulbar) ridges form the spiral aorticopulmonary septum.",
+      "topicId": "e-cvs",
+      "subtopic": "Outflow septation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-020",
+      "type": "single-best",
+      "stem": "Failure of the truncoconal swellings to grow at all, leaving a single outflow vessel over a VSD, is",
+      "options": [
+        {
+          "label": "A",
+          "text": "transposition of the great arteries"
+        },
+        {
+          "label": "B",
+          "text": "tetralogy of Fallot"
+        },
+        {
+          "label": "C",
+          "text": "coarctation of the aorta"
+        },
+        {
+          "label": "D",
+          "text": "dextrocardia"
+        },
+        {
+          "label": "E",
+          "text": "persistent truncus arteriosus"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Persistent truncus arteriosus is a single artery arising from both ventricles above a VSD, mixing pulmonary and systemic blood.",
+      "topicId": "e-cvs",
+      "subtopic": "Anomalies",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-021",
+      "type": "single-best",
+      "stem": "Transposition of the great arteries results from the truncoconal swellings failing to",
+      "options": [
+        {
+          "label": "A",
+          "text": "grow in a spiral direction"
+        },
+        {
+          "label": "B",
+          "text": "form endocardial cushions"
+        },
+        {
+          "label": "C",
+          "text": "absorb the sinus venosus"
+        },
+        {
+          "label": "D",
+          "text": "fuse with the septum primum"
+        },
+        {
+          "label": "E",
+          "text": "divide the AV canal"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Non-spiral (straight) outflow septation gives TGA, with aorta from the right ventricle and pulmonary trunk from the left.",
+      "topicId": "e-cvs",
+      "subtopic": "Anomalies",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-022",
+      "type": "single-best",
+      "stem": "Tetralogy of Fallot arises from a single error in which the conus septum develops",
+      "options": [
+        {
+          "label": "A",
+          "text": "from the sinus venosus"
+        },
+        {
+          "label": "B",
+          "text": "too far anteriorly"
+        },
+        {
+          "label": "C",
+          "text": "too far posteriorly"
+        },
+        {
+          "label": "D",
+          "text": "without any neural crest cells"
+        },
+        {
+          "label": "E",
+          "text": "as two separate spiral turns"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "An anteriorly displaced conus septum yields a large overriding aorta, stenotic pulmonary trunk, VSD and right ventricular hypertrophy.",
+      "topicId": "e-cvs",
+      "subtopic": "Anomalies",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-023",
+      "type": "single-best",
+      "stem": "A heart that loops to the right as a mirror image, with its apex pointing right, is",
+      "options": [
+        {
+          "label": "A",
+          "text": "common ventricle"
+        },
+        {
+          "label": "B",
+          "text": "levocardia"
+        },
+        {
+          "label": "C",
+          "text": "dextrocardia"
+        },
+        {
+          "label": "D",
+          "text": "ectopia cordis"
+        },
+        {
+          "label": "E",
+          "text": "persistent truncus"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Dextrocardia (reversed looping) points the apex to the right, often with situs inversus of all organs.",
+      "topicId": "e-cvs",
+      "subtopic": "Anomalies",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-024",
+      "type": "single-best",
+      "stem": "A heart lying partly or wholly outside the thorax, from failure of the sternum to develop, is",
+      "options": [
+        {
+          "label": "A",
+          "text": "common ventricle"
+        },
+        {
+          "label": "B",
+          "text": "persistent truncus"
+        },
+        {
+          "label": "C",
+          "text": "Fallot's tetralogy"
+        },
+        {
+          "label": "D",
+          "text": "ectopia cordis"
+        },
+        {
+          "label": "E",
+          "text": "dextrocardia"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Ectopia cordis is an externally located heart due to failed sternal fusion.",
+      "topicId": "e-cvs",
+      "subtopic": "Anomalies",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-025",
+      "type": "single-best",
+      "stem": "In the fetus, the vessel carrying the most oxygen-rich blood (about 80% saturation) is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "umbilical artery"
+        },
+        {
+          "label": "B",
+          "text": "descending aorta"
+        },
+        {
+          "label": "C",
+          "text": "inferior vena cava"
+        },
+        {
+          "label": "D",
+          "text": "pulmonary trunk"
+        },
+        {
+          "label": "E",
+          "text": "umbilical vein"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The umbilical vein carries the highest-oxygen blood (~80%) from the placenta; the umbilical arteries carry the most deoxygenated.",
+      "topicId": "e-cvs",
+      "subtopic": "Fetal circulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-026",
+      "type": "single-best",
+      "stem": "The ductus venosus shunts oxygen-rich umbilical-vein blood directly into the",
+      "options": [
+        {
+          "label": "A",
+          "text": "inferior vena cava"
+        },
+        {
+          "label": "B",
+          "text": "the portal vein"
+        },
+        {
+          "label": "C",
+          "text": "right atrium directly"
+        },
+        {
+          "label": "D",
+          "text": "pulmonary trunk"
+        },
+        {
+          "label": "E",
+          "text": "coronary sinus"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The ductus venosus is a high-velocity shunt from the umbilical vein to the IVC, bypassing the hepatic sinusoids.",
+      "topicId": "e-cvs",
+      "subtopic": "Fetal circulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-027",
+      "type": "single-best",
+      "stem": "Oxygen-rich IVC blood is preferentially streamed across the foramen ovale to the left atrium by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "venous valves of the SVC"
+        },
+        {
+          "label": "B",
+          "text": "crista dividens and IVC valve"
+        },
+        {
+          "label": "C",
+          "text": "crista terminalis"
+        },
+        {
+          "label": "D",
+          "text": "septum spurium"
+        },
+        {
+          "label": "E",
+          "text": "coronary sinus"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The crista dividens (lower septum secundum) and IVC valve direct the oxygenated IVC stream through the foramen ovale.",
+      "topicId": "e-cvs",
+      "subtopic": "Fetal circulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-028",
+      "type": "single-best",
+      "stem": "In utero the ductus arteriosus carries approximately what proportion of right-ventricular output to the descending aorta?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 to 5%"
+        },
+        {
+          "label": "B",
+          "text": "100%"
+        },
+        {
+          "label": "C",
+          "text": "80 to 90%"
+        },
+        {
+          "label": "D",
+          "text": "10 to 20%"
+        },
+        {
+          "label": "E",
+          "text": "40 to 50%"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "About 80-90% of RV output bypasses the high-resistance lungs via the ductus arteriosus into the descending aorta.",
+      "topicId": "e-cvs",
+      "subtopic": "Fetal circulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-029",
+      "type": "single-best",
+      "stem": "The nerve that loops posteriorly around the ductus arteriosus/ligamentum arteriosum is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "vagus nerve trunk"
+        },
+        {
+          "label": "B",
+          "text": "right recurrent laryngeal nerve"
+        },
+        {
+          "label": "C",
+          "text": "sympathetic chain"
+        },
+        {
+          "label": "D",
+          "text": "left recurrent laryngeal nerve"
+        },
+        {
+          "label": "E",
+          "text": "phrenic nerve"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The left recurrent laryngeal nerve hooks under the arch of the aorta around the ductus arteriosus/ligamentum arteriosum.",
+      "topicId": "e-cvs",
+      "subtopic": "Fetal circulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-030",
+      "type": "single-best",
+      "stem": "After birth the ductus arteriosus normally closes within",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 to 2 weeks"
+        },
+        {
+          "label": "B",
+          "text": "a few minutes"
+        },
+        {
+          "label": "C",
+          "text": "3 months"
+        },
+        {
+          "label": "D",
+          "text": "1 hour"
+        },
+        {
+          "label": "E",
+          "text": "24 to 48 hours"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The ductus arteriosus constricts and closes within 24-48 hours, becoming the ligamentum arteriosum.",
+      "topicId": "e-cvs",
+      "subtopic": "Changes at birth",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-cvs-031",
+      "type": "single-best",
+      "stem": "Closure of the ductus venosus after birth is promoted by",
+      "options": [
+        {
+          "label": "A",
+          "text": "a fall in prostaglandins after cord clamping"
+        },
+        {
+          "label": "B",
+          "text": "a rise in prostaglandins"
+        },
+        {
+          "label": "C",
+          "text": "the first breath inflating the lungs"
+        },
+        {
+          "label": "D",
+          "text": "increased pulmonary resistance"
+        },
+        {
+          "label": "E",
+          "text": "closure of the foramen ovale"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Cord clamping and a decrease in prostaglandins close the ductus venosus, which becomes the ligamentum venosum.",
+      "topicId": "e-cvs",
+      "subtopic": "Changes at birth",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-032",
+      "type": "single-best",
+      "stem": "At birth the foramen ovale closes because",
+      "options": [
+        {
+          "label": "A",
+          "text": "the umbilical vein dilates"
+        },
+        {
+          "label": "B",
+          "text": "left atrial pressure exceeds right"
+        },
+        {
+          "label": "C",
+          "text": "right atrial pressure rises sharply"
+        },
+        {
+          "label": "D",
+          "text": "the ductus arteriosus stays open"
+        },
+        {
+          "label": "E",
+          "text": "pulmonary resistance increases"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Lung inflation drops right atrial pressure and raises left atrial pressure, pushing the septum primum shut against the septum secundum (later the fossa ovalis).",
+      "topicId": "e-cvs",
+      "subtopic": "Changes at birth",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-cvs-033",
+      "type": "single-best",
+      "stem": "After birth, the ductus venosus becomes the",
+      "options": [
+        {
+          "label": "A",
+          "text": "medial umbilical ligament"
+        },
+        {
+          "label": "B",
+          "text": "fossa ovalis"
+        },
+        {
+          "label": "C",
+          "text": "ligamentum venosum"
+        },
+        {
+          "label": "D",
+          "text": "ligamentum teres hepatis"
+        },
+        {
+          "label": "E",
+          "text": "ligamentum arteriosum"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The obliterated ductus venosus persists as the ligamentum venosum; the umbilical vein becomes the ligamentum teres.",
+      "topicId": "e-cvs",
+      "subtopic": "Changes at birth",
+      "difficulty": "medium"
     }
   ]
 }
