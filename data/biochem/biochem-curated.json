@@ -25753,7 +25753,7 @@
         },
         {
           "label": "D",
-          "text": "Orotidine monophosphate decarboxylase"
+          "text": "Orotidylate decarboxylase"
         },
         {
           "label": "E",
@@ -25828,6 +25828,806 @@
       "why": "CTP synthetase uses the amide nitrogen of glutamine.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine branches",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-nuc-047",
+      "type": "single-best",
+      "stem": "What is the main regulatory enzyme of de novo pyrimidine synthesis in mammalian cells?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carbamoyl phosphate synthetase I"
+        },
+        {
+          "label": "B",
+          "text": "Carbamoyl phosphate synthetase II"
+        },
+        {
+          "label": "C",
+          "text": "Orotate phosphoribosyltransferase"
+        },
+        {
+          "label": "D",
+          "text": "Orotidylate decarboxylase"
+        },
+        {
+          "label": "E",
+          "text": "Dihydroorotate dehydrogenase"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Cytosolic CPS II is the major regulated step in mammalian pyrimidine synthesis.",
+      "topicId": "nucleotides",
+      "subtopic": "Pyrimidine regulation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-nuc-048",
+      "type": "single-best",
+      "stem": "Which metabolite allosterically inhibits mammalian CPS II at high concentration?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ATP"
+        },
+        {
+          "label": "B",
+          "text": "PRPP"
+        },
+        {
+          "label": "C",
+          "text": "UTP"
+        },
+        {
+          "label": "D",
+          "text": "GTP"
+        },
+        {
+          "label": "E",
+          "text": "IMP"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "UTP provides feedback inhibition of mammalian CPS II, limiting further pyrimidine synthesis.",
+      "topicId": "nucleotides",
+      "subtopic": "Pyrimidine regulation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-nuc-049",
+      "type": "single-best",
+      "stem": "Which metabolite is an allosteric activator of mammalian CPS II?",
+      "options": [
+        {
+          "label": "A",
+          "text": "UTP"
+        },
+        {
+          "label": "B",
+          "text": "UDP"
+        },
+        {
+          "label": "C",
+          "text": "CTP"
+        },
+        {
+          "label": "D",
+          "text": "PRPP"
+        },
+        {
+          "label": "E",
+          "text": "UMP"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "PRPP activates CPS II and promotes pyrimidine synthesis when activated ribose is available.",
+      "topicId": "nucleotides",
+      "subtopic": "Pyrimidine regulation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-nuc-050",
+      "type": "single-best",
+      "stem": "An E. coli cell accumulates CTP. Which biosynthetic enzyme is most directly feedback inhibited?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carbamoyl phosphate synthetase II"
+        },
+        {
+          "label": "B",
+          "text": "Orotate phosphoribosyltransferase"
+        },
+        {
+          "label": "C",
+          "text": "Nucleoside diphosphate kinase"
+        },
+        {
+          "label": "D",
+          "text": "Orotidine monophosphate decarboxylase"
+        },
+        {
+          "label": "E",
+          "text": "Aspartate transcarbamoylase"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Bacterial ATCase responds to CTP feedback, unlike mammalian regulation primarily at CPS II.",
+      "topicId": "nucleotides",
+      "subtopic": "Pyrimidine regulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-nuc-051",
+      "type": "single-best",
+      "stem": "Why does ATP activate bacterial aspartate transcarbamoylase?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To balance purine and pyrimidine production"
+        },
+        {
+          "label": "B",
+          "text": "To inhibit glutamine formation in the liver"
+        },
+        {
+          "label": "C",
+          "text": "To suppress formation of all nucleotides"
+        },
+        {
+          "label": "D",
+          "text": "To favor degradation of available pyrimidines"
+        },
+        {
+          "label": "E",
+          "text": "To prevent carbamoyl phosphate utilization"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "ATP activation of bacterial ATCase coordinates pyrimidine synthesis with the cellular purine and energy supply.",
+      "topicId": "nucleotides",
+      "subtopic": "Pyrimidine regulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-nuc-052",
+      "type": "single-best",
+      "stem": "What three enzymatic activities form the mammalian CAD multifunctional protein?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CPS I, arginase and OTC"
+        },
+        {
+          "label": "B",
+          "text": "CPS II, ATCase and dihydroorotase"
+        },
+        {
+          "label": "C",
+          "text": "HGPRT, APRT and ADA"
+        },
+        {
+          "label": "D",
+          "text": "RNR, kinase and ligase"
+        },
+        {
+          "label": "E",
+          "text": "OMP decarboxylase and OPRT"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "CAD combines the first three cytosolic reactions of de novo pyrimidine synthesis.",
+      "topicId": "nucleotides",
+      "subtopic": "Pyrimidine organization",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-nuc-053",
+      "type": "single-best",
+      "stem": "Why can linking the first three pyrimidine enzymes into CAD increase efficiency?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Intermediates are hydrolysed in extracellular fluid"
+        },
+        {
+          "label": "B",
+          "text": "ATP is no longer needed for any reaction"
+        },
+        {
+          "label": "C",
+          "text": "Intermediates are passed directly between sites"
+        },
+        {
+          "label": "D",
+          "text": "All mitochondrial enzymes become cytosolic"
+        },
+        {
+          "label": "E",
+          "text": "Enzymes no longer require their substrates"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Substrate channeling can protect intermediates and speed multistep catalysis.",
+      "topicId": "nucleotides",
+      "subtopic": "Pyrimidine organization",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-nuc-054",
+      "type": "single-best",
+      "stem": "Which atoms of the pyrimidine ring are contributed by aspartate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "N1, C2, C4 and C5"
+        },
+        {
+          "label": "B",
+          "text": "N3, C2, C5 and C6"
+        },
+        {
+          "label": "C",
+          "text": "N3, C4, C5 and C6"
+        },
+        {
+          "label": "D",
+          "text": "N1, C4, C5 and C6"
+        },
+        {
+          "label": "E",
+          "text": "N1, N3, C2 and C4"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Aspartate contributes N1 and C4–C6; bicarbonate provides C2 and glutamine contributes N3.",
+      "topicId": "nucleotides",
+      "subtopic": "Pyrimidine synthesis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-nuc-055",
+      "type": "single-best",
+      "stem": "Which atom of the pyrimidine ring derives from bicarbonate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carbon 4"
+        },
+        {
+          "label": "B",
+          "text": "Carbon 5"
+        },
+        {
+          "label": "C",
+          "text": "Carbon 6"
+        },
+        {
+          "label": "D",
+          "text": "Nitrogen 3"
+        },
+        {
+          "label": "E",
+          "text": "Carbon 2"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Bicarbonate contributes the C2 carbon of the pyrimidine ring.",
+      "topicId": "nucleotides",
+      "subtopic": "Pyrimidine synthesis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-nuc-056",
+      "type": "single-best",
+      "stem": "What enzyme first joins orotate to an activated ribose to form OMP?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Orotate phosphoribosyltransferase"
+        },
+        {
+          "label": "B",
+          "text": "Orotidylate decarboxylase"
+        },
+        {
+          "label": "C",
+          "text": "Aspartate transcarbamoylase"
+        },
+        {
+          "label": "D",
+          "text": "Dihydroorotase"
+        },
+        {
+          "label": "E",
+          "text": "Carbamoyl phosphate synthetase II"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Orotate phosphoribosyltransferase uses PRPP to produce OMP.",
+      "topicId": "nucleotides",
+      "subtopic": "Pyrimidine synthesis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-nuc-057",
+      "type": "single-best",
+      "stem": "Which cofactor requirement distinguishes the OMP decarboxylase reaction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Biotin is needed for carbon transfer"
+        },
+        {
+          "label": "B",
+          "text": "No additional cofactor is needed"
+        },
+        {
+          "label": "C",
+          "text": "PLP is needed for amino transfer"
+        },
+        {
+          "label": "D",
+          "text": "NADPH is needed for reduction"
+        },
+        {
+          "label": "E",
+          "text": "FAD is needed for electron transfer"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "OMP decarboxylase catalyses rapid decarboxylation without an added cofactor.",
+      "topicId": "nucleotides",
+      "subtopic": "Pyrimidine synthesis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-nuc-058",
+      "type": "single-best",
+      "stem": "How can administered uridine improve nucleotide supply in hereditary orotic aciduria?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It directly restores the mutant UMP synthase"
+        },
+        {
+          "label": "B",
+          "text": "It blocks intestinal uridine absorption"
+        },
+        {
+          "label": "C",
+          "text": "It bypasses the defective de novo steps"
+        },
+        {
+          "label": "D",
+          "text": "It activates mitochondrial carbamoyl phosphate"
+        },
+        {
+          "label": "E",
+          "text": "It converts excess orotate into purines"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Uridine enters salvage routes to produce UMP downstream of the defective OMP-forming steps.",
+      "topicId": "nucleotides",
+      "subtopic": "Pyrimidine disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-nuc-059",
+      "type": "single-best",
+      "stem": "A child has megaloblastic anaemia with urinary orotate but no hyperammonaemia. What best explains the pattern?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Excess mitochondrial ammonia production"
+        },
+        {
+          "label": "B",
+          "text": "Reduced urea-cycle OTC activity"
+        },
+        {
+          "label": "C",
+          "text": "Primary defect of hepatic CPS I"
+        },
+        {
+          "label": "D",
+          "text": "Impaired UMP synthesis from orotate"
+        },
+        {
+          "label": "E",
+          "text": "Excess purine breakdown to urate"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "UMP synthase deficiency causes hereditary orotic aciduria with impaired pyrimidine availability; OTC deficiency usually causes hyperammonaemia.",
+      "topicId": "nucleotides",
+      "subtopic": "Pyrimidine disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-nuc-060",
+      "type": "single-best",
+      "stem": "What major product arises from degradation of the pyrimidine base uracil?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Beta-aminoisobutyrate"
+        },
+        {
+          "label": "B",
+          "text": "Uric acid"
+        },
+        {
+          "label": "C",
+          "text": "Xanthine"
+        },
+        {
+          "label": "D",
+          "text": "Hypoxanthine"
+        },
+        {
+          "label": "E",
+          "text": "Beta-alanine"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Uracil breakdown yields beta-alanine along with carbon dioxide and ammonia.",
+      "topicId": "nucleotides",
+      "subtopic": "Pyrimidine catabolism",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-nuc-061",
+      "type": "single-best",
+      "stem": "Thymine degradation ultimately yields which amino acid derivative?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Beta-aminoisobutyrate"
+        },
+        {
+          "label": "B",
+          "text": "Beta-alanine"
+        },
+        {
+          "label": "C",
+          "text": "Glycine"
+        },
+        {
+          "label": "D",
+          "text": "Homocysteine"
+        },
+        {
+          "label": "E",
+          "text": "Glutamate"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Pyrimidine catabolism converts thymine to beta-aminoisobutyrate.",
+      "topicId": "nucleotides",
+      "subtopic": "Pyrimidine catabolism",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-nuc-062",
+      "type": "single-best",
+      "stem": "Which process chiefly distinguishes pyrimidine degradation from purine degradation in humans?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Formation of uric acid as the final product"
+        },
+        {
+          "label": "B",
+          "text": "Ring reduction rather than terminal urate formation"
+        },
+        {
+          "label": "C",
+          "text": "Transfer of glycine to an intact purine ring"
+        },
+        {
+          "label": "D",
+          "text": "Complete salvage of all bases before breakdown"
+        },
+        {
+          "label": "E",
+          "text": "Oxidation of bases exclusively by xanthine oxidase"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Pyrimidine bases undergo reduction and ring opening; purines commonly end as uric acid.",
+      "topicId": "nucleotides",
+      "subtopic": "Pyrimidine catabolism",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-nuc-063",
+      "type": "single-best",
+      "stem": "Which enzyme starts reductive degradation of uracil to dihydrouracil?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dihydroorotate dehydrogenase"
+        },
+        {
+          "label": "B",
+          "text": "Orotidine decarboxylase"
+        },
+        {
+          "label": "C",
+          "text": "Dihydropyrimidine dehydrogenase"
+        },
+        {
+          "label": "D",
+          "text": "Aspartate transcarbamoylase"
+        },
+        {
+          "label": "E",
+          "text": "Carbamoyl phosphate synthetase II"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Dihydropyrimidine dehydrogenase reduces uracil during pyrimidine catabolism.",
+      "topicId": "nucleotides",
+      "subtopic": "Pyrimidine catabolism",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-nuc-064",
+      "type": "single-best",
+      "stem": "Why does diminished dihydropyrimidine dehydrogenase activity increase fluorouracil toxicity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Its conversion into folic acid is accelerated"
+        },
+        {
+          "label": "B",
+          "text": "Its entry into plasma is permanently prevented"
+        },
+        {
+          "label": "C",
+          "text": "Its binding to serum albumin is abolished"
+        },
+        {
+          "label": "D",
+          "text": "Its normal catabolism is substantially reduced"
+        },
+        {
+          "label": "E",
+          "text": "Its conversion into purine bases is increased"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "DPD catabolizes most administered 5-fluorouracil; deficiency increases exposure and severe toxicity.",
+      "topicId": "nucleotides",
+      "subtopic": "Pyrimidine catabolism",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-nuc-065",
+      "type": "single-best",
+      "stem": "Which enzyme directly converts ribonucleoside diphosphates into their deoxy forms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nucleoside diphosphate kinase"
+        },
+        {
+          "label": "B",
+          "text": "Orotate phosphoribosyltransferase"
+        },
+        {
+          "label": "C",
+          "text": "Nucleoside monophosphate kinase"
+        },
+        {
+          "label": "D",
+          "text": "Adenosylsuccinate synthetase"
+        },
+        {
+          "label": "E",
+          "text": "Ribonucleotide reductase"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Ribonucleotide reductase reduces NDPs to dNDPs for DNA synthesis.",
+      "topicId": "nucleotides",
+      "subtopic": "Deoxyribonucleotide synthesis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-nuc-066",
+      "type": "single-best",
+      "stem": "Which pool provides direct substrates for ribonucleotide reductase?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ribonucleoside diphosphates"
+        },
+        {
+          "label": "B",
+          "text": "Ribonucleoside monophosphates"
+        },
+        {
+          "label": "C",
+          "text": "Deoxyribonucleoside triphosphates"
+        },
+        {
+          "label": "D",
+          "text": "Free purine and pyrimidine bases"
+        },
+        {
+          "label": "E",
+          "text": "Ribonucleoside pentaphosphates"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The enzyme reduces ribonucleoside diphosphates rather than free bases or monophosphates.",
+      "topicId": "nucleotides",
+      "subtopic": "Deoxyribonucleotide synthesis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-nuc-067",
+      "type": "single-best",
+      "stem": "Which reducing system supplies electrons needed by ribonucleotide reductase?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Biotin or lipoamide"
+        },
+        {
+          "label": "B",
+          "text": "Thioredoxin or glutaredoxin"
+        },
+        {
+          "label": "C",
+          "text": "Ubiquinone or cytochrome c"
+        },
+        {
+          "label": "D",
+          "text": "Cobalamin or folate alone"
+        },
+        {
+          "label": "E",
+          "text": "Thiamine or pyridoxal phosphate"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Thioredoxin and glutaredoxin transfer reducing equivalents to ribonucleotide reductase.",
+      "topicId": "nucleotides",
+      "subtopic": "Deoxyribonucleotide synthesis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-nuc-068",
+      "type": "single-best",
+      "stem": "What part of ribose is chemically changed by ribonucleotide reductase?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The phosphate group at carbon 5 prime"
+        },
+        {
+          "label": "B",
+          "text": "The nitrogenous base at carbon 1 prime"
+        },
+        {
+          "label": "C",
+          "text": "The hydroxyl group at carbon 2 prime"
+        },
+        {
+          "label": "D",
+          "text": "The carbonyl group at carbon 3 prime"
+        },
+        {
+          "label": "E",
+          "text": "The glycosidic linkage at carbon 1"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Ribonucleotide reductase removes the 2-prime hydroxyl to generate the deoxyribose moiety needed for DNA.",
+      "topicId": "nucleotides",
+      "subtopic": "Deoxyribonucleotide synthesis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-nuc-069",
+      "type": "single-best",
+      "stem": "Mycophenolic acid reduces guanine nucleotide synthesis mainly by inhibiting which enzyme?",
+      "options": [
+        {
+          "label": "A",
+          "text": "AMP deaminase"
+        },
+        {
+          "label": "B",
+          "text": "HGPRT transferase"
+        },
+        {
+          "label": "C",
+          "text": "GMP reductase"
+        },
+        {
+          "label": "D",
+          "text": "IMP dehydrogenase"
+        },
+        {
+          "label": "E",
+          "text": "Adenylate kinase"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "IMP dehydrogenase converts IMP to XMP and is inhibited by mycophenolic acid.",
+      "topicId": "nucleotides",
+      "subtopic": "Nucleotide analogues",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-nuc-070",
+      "type": "single-best",
+      "stem": "Which class of metabolic reaction is inhibited by 6-mercaptopurine after activation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Heme oxygenase reaction"
+        },
+        {
+          "label": "B",
+          "text": "Oxidative phosphorylation"
+        },
+        {
+          "label": "C",
+          "text": "Pyruvate carboxylation"
+        },
+        {
+          "label": "D",
+          "text": "Fatty acid elongation"
+        },
+        {
+          "label": "E",
+          "text": "Purine nucleotide biosynthesis"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The active metabolites of 6-mercaptopurine suppress de novo purine synthesis and nucleotide interconversion.",
+      "topicId": "nucleotides",
+      "subtopic": "Nucleotide analogues",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-nuc-071",
+      "type": "single-best",
+      "stem": "Which type of kinase converts a nucleoside monophosphate into a diphosphate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nucleoside monophosphate kinase"
+        },
+        {
+          "label": "B",
+          "text": "Nucleoside diphosphate kinase"
+        },
+        {
+          "label": "C",
+          "text": "Adenosine deaminase"
+        },
+        {
+          "label": "D",
+          "text": "IMP dehydrogenase"
+        },
+        {
+          "label": "E",
+          "text": "Adenosyltransferase"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "NMP kinases use an NTP phosphate donor to make an NDP.",
+      "topicId": "nucleotides",
+      "subtopic": "Nucleotide metabolism",
       "difficulty": "medium"
     }
   ]
