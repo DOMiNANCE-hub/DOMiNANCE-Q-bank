@@ -15335,6 +15335,2878 @@
       "topicId": "haem",
       "subtopic": "Porphyrias",
       "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb-ar-01",
+      "type": "single-best",
+      "stem": "Assertion: Myoglobin has a higher oxygen affinity than haemoglobin at low oxygen tensions.\nReason: Myoglobin binds oxygen non-cooperatively whereas haemoglobin binds cooperatively.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "Non-cooperative binding gives myoglobin its hyperbolic, high-affinity curve, explaining the difference.",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-ar-02",
+      "type": "single-best",
+      "stem": "Assertion: 2,3-BPG lowers the oxygen affinity of haemoglobin.\nReason: 2,3-BPG binds in the central cavity and stabilises the deoxy (T) state.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "Stabilising the T state is exactly how BPG reduces oxygen affinity.",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-ar-03",
+      "type": "single-best",
+      "stem": "Assertion: A fall in pH shifts the haemoglobin oxygen dissociation curve to the right.\nReason: A lowered pH reduces haemoglobin's affinity for oxygen (the Bohr effect).",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "The right shift is the reduced affinity the Bohr effect produces.",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-ar-04",
+      "type": "single-best",
+      "stem": "Assertion: Fetal haemoglobin has a higher oxygen affinity than adult HbA.\nReason: Fetal haemoglobin binds 2,3-BPG less strongly than adult haemoglobin.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "Weaker BPG binding leaves fetal Hb with higher oxygen affinity, aiding placental transfer.",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-ar-05",
+      "type": "single-best",
+      "stem": "Assertion: Haemoglobin A is composed of two alpha and two beta chains.\nReason: The beta chain contains 146 amino acids.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "Both are true, but the chain length does not explain the subunit composition.",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-ar-06",
+      "type": "single-best",
+      "stem": "Assertion: Thalassaemia is common in malaria-endemic regions.\nReason: Thalassaemia results from reduced synthesis of a globin chain.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "Both true, but the molecular defect does not explain the geographic (malarial) distribution.",
+      "topicId": "haemoglobin",
+      "subtopic": "Thalassaemias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-ar-07",
+      "type": "single-best",
+      "stem": "Assertion: Carbon monoxide binds haemoglobin more tightly than oxygen does.\nReason: The distal histidine forces bound carbon monoxide into a bent configuration.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "Both true, but the bent configuration reduces CO affinity - it does not explain why CO still out-binds O2.",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-ar-08",
+      "type": "single-best",
+      "stem": "Assertion: Only ferrous (Fe2+) haemoglobin can bind oxygen.\nReason: Methaemoglobin contains iron in the ferrous (Fe2+) state.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "Only Fe2+ binds O2, but methaemoglobin is the ferric (Fe3+) form, so the reason is false.",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-ar-09",
+      "type": "single-best",
+      "stem": "Assertion: In beta-thalassaemia major, HbF is markedly increased.\nReason: The beta-globin genes are normal in beta-thalassaemia major.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "HbF does rise, but the beta genes are defective - that is the disease - so the reason is false.",
+      "topicId": "haemoglobin",
+      "subtopic": "Thalassaemias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-ar-10",
+      "type": "single-best",
+      "stem": "Assertion: The proximal histidine binds directly to the haem iron.\nReason: It occupies the sixth coordination position of the iron atom.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "The proximal histidine binds iron at the FIFTH position; the sixth binds oxygen, so the reason is false.",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-ar-11",
+      "type": "single-best",
+      "stem": "Assertion: 2,3-BPG binds to the alpha chains of haemoglobin.\nReason: 2,3-BPG stabilises the deoxygenated form of haemoglobin.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "BPG binds the BETA chains (assertion false); it does stabilise deoxyhaemoglobin (reason true).",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-ar-12",
+      "type": "single-best",
+      "stem": "Assertion: HbH disease results from deletion of all four alpha-globin genes.\nReason: Haemoglobin H is a tetramer of beta chains (β4).",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "HbH disease is three-gene deletion (assertion false); HbH is indeed β4 (reason true).",
+      "topicId": "haemoglobin",
+      "subtopic": "Thalassaemias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-ar-13",
+      "type": "single-best",
+      "stem": "Assertion: Oxygen binding by myoglobin is strongly regulated by pH and pCO2.\nReason: Haemoglobin shows cooperative oxygen binding.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "Myoglobin binding is NOT affected by pH/CO2 (assertion false); haemoglobin is cooperative (reason true).",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-ar-14",
+      "type": "single-best",
+      "stem": "Assertion: Haemoglobin binds oxygen along a hyperbolic dissociation curve.\nReason: Haemoglobin does not show cooperativity.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "Haemoglobin's curve is sigmoid and it is cooperative; both statements are false.",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-ar-15",
+      "type": "single-best",
+      "stem": "Assertion: Bart's hydrops fetalis is a mild condition compatible with normal life.\nReason: Haemoglobin Bart's (γ4) is an efficient oxygen carrier.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "Bart's hydrops is lethal and γ4 is a useless oxygen carrier; both false.",
+      "topicId": "haemoglobin",
+      "subtopic": "Thalassaemias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-ar-16",
+      "type": "single-best",
+      "stem": "Assertion: Beta-thalassaemia is usually caused by large deletions of the beta gene.\nReason: Alpha-thalassaemia is usually caused by point mutations.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "It is the reverse: beta-thal is mostly point mutations and alpha-thal mostly deletions; both false.",
+      "topicId": "haemoglobin",
+      "subtopic": "Thalassaemias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-k-01",
+      "type": "single-best",
+      "stem": "The following are true of myoglobin:\nI. It is a monomeric protein\nII. It stores oxygen in muscle\nIII. It binds oxygen through a haem group",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "All three are correct.",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-k-02",
+      "type": "single-best",
+      "stem": "Concerning 2,3-BPG:\nI. It lowers haemoglobin oxygen affinity\nII. It binds in the central cavity between the beta chains\nIII. It binds fetal haemoglobin more strongly than adult HbA",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "I and II true; it binds fetal Hb LESS strongly, so III is false.",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-k-03",
+      "type": "single-best",
+      "stem": "The Bohr effect in haemoglobin:\nI. Affects oxygen binding by myoglobin to the same degree\nII. Causes a right shift of the curve when pH falls\nIII. Causes a right shift of the curve when pCO2 rises",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "II and III true; myoglobin is unaffected by pH/CO2, so I is false.",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-k-04",
+      "type": "single-best",
+      "stem": "Haemoglobin A:\nI. Contains two alpha and two beta chains\nII. Has alpha chains of 146 amino acids\nIII. Carries H+ and CO2 as well as oxygen",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "I and III true; the alpha chain has 141 (beta has 146) amino acids, so II is false.",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-k-05",
+      "type": "single-best",
+      "stem": "Methaemoglobin:\nI. Contains ferric (Fe3+) iron\nII. Binds oxygen normally\nIII. Is the predominant form in arterial blood",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "Only I is true; ferric Hb cannot bind oxygen and is normally a tiny fraction.",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-k-06",
+      "type": "single-best",
+      "stem": "In beta-thalassaemia major (Cooley's anaemia):\nI. HbA is absent or very low\nII. HbF is markedly increased\nIII. Lifelong transfusions are usually needed",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "All three are characteristic.",
+      "topicId": "haemoglobin",
+      "subtopic": "Thalassaemias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-k-07",
+      "type": "single-best",
+      "stem": "The alpha-thalassaemias:\nI. Involve genes on chromosome 16\nII. Are usually caused by gene deletions\nIII. Are never clinically severe",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "I and II true; deletion of all four genes (Bart's) is lethal, so III is false.",
+      "topicId": "haemoglobin",
+      "subtopic": "Thalassaemias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-k-08",
+      "type": "single-best",
+      "stem": "HbH disease:\nI. Is caused by deletion of all four alpha genes\nII. Features a β4 tetramer (haemoglobin H)\nIII. Produces a haemolytic anaemia",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "II and III true; it is a THREE-gene deletion, so I is false.",
+      "topicId": "haemoglobin",
+      "subtopic": "Thalassaemias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-k-09",
+      "type": "single-best",
+      "stem": "In the haem group of haemoglobin:\nI. Iron is held by the four pyrrole nitrogens\nII. The proximal histidine binds at the sixth coordination position\nIII. Oxygen binds at the sixth coordination position",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "I and III true; the proximal histidine binds at the FIFTH position, so II is false.",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-k-10",
+      "type": "single-best",
+      "stem": "Fetal haemoglobin:\nI. Has a higher oxygen affinity than HbA\nII. Has the composition alpha-2 beta-2\nIII. Binds 2,3-BPG more strongly than HbA",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "Only I is true; fetal Hb is α2γ2 and binds BPG weakly.",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-k-11",
+      "type": "single-best",
+      "stem": "Ineffective erythropoiesis in thalassaemia involves:\nI. Precipitation of unmatched globin chains\nII. Damage to red-cell membranes\nIII. Haemolysis of red cells within the marrow",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "All three describe the ineffective erythropoiesis of thalassaemia.",
+      "topicId": "haemoglobin",
+      "subtopic": "Thalassaemias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-k-12",
+      "type": "single-best",
+      "stem": "Beta-thalassaemia minor (trait):\nI. Shows an HbA2 below the normal range\nII. Causes a mild, well-tolerated anaemia\nIII. Is often mistaken for iron-deficiency anaemia",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "II and III true; HbA2 is RAISED (>3.5%), so I is false.",
+      "topicId": "haemoglobin",
+      "subtopic": "Thalassaemias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb-ex-01",
+      "type": "single-best",
+      "stem": "All of the following are true of myoglobin EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "it contains a haem group"
+        },
+        {
+          "label": "B",
+          "text": "it stores oxygen in muscle"
+        },
+        {
+          "label": "C",
+          "text": "it has a hyperbolic oxygen curve"
+        },
+        {
+          "label": "D",
+          "text": "it binds oxygen cooperatively"
+        },
+        {
+          "label": "E",
+          "text": "it is a monomeric protein"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Myoglobin is monomeric and cannot bind cooperatively; haemoglobin does that.",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb-ex-02",
+      "type": "single-best",
+      "stem": "All of the following cause a LEFT shift of the oxygen dissociation curve EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "a rise in blood pH"
+        },
+        {
+          "label": "B",
+          "text": "a fall in pCO2"
+        },
+        {
+          "label": "C",
+          "text": "fetal haemoglobin"
+        },
+        {
+          "label": "D",
+          "text": "a fall in temperature"
+        },
+        {
+          "label": "E",
+          "text": "a rise in 2,3-BPG"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "A rise in 2,3-BPG lowers affinity and shifts the curve to the RIGHT.",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb-ex-03",
+      "type": "single-best",
+      "stem": "All of the following are features of beta-thalassaemia major EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "a normal haemoglobin electrophoresis"
+        },
+        {
+          "label": "B",
+          "text": "severe anaemia in the first year"
+        },
+        {
+          "label": "C",
+          "text": "extramedullary haematopoiesis"
+        },
+        {
+          "label": "D",
+          "text": "secondary iron overload"
+        },
+        {
+          "label": "E",
+          "text": "markedly raised HbF"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Electrophoresis is grossly abnormal (HbA absent, HbF high).",
+      "topicId": "haemoglobin",
+      "subtopic": "Thalassaemias",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb-ex-04",
+      "type": "single-best",
+      "stem": "All of the following stabilise the deoxy (T) state of haemoglobin EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "inter-chain salt bridges"
+        },
+        {
+          "label": "B",
+          "text": "the binding of oxygen"
+        },
+        {
+          "label": "C",
+          "text": "2,3-BPG"
+        },
+        {
+          "label": "D",
+          "text": "hydrogen ions"
+        },
+        {
+          "label": "E",
+          "text": "carbon dioxide"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Oxygen binding breaks the T-state bonds and drives the switch to the R state.",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb-ex-05",
+      "type": "single-best",
+      "stem": "All of the following are true of the alpha-thalassaemias EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "loss of all four genes is lethal"
+        },
+        {
+          "label": "B",
+          "text": "loss of three genes causes HbH disease"
+        },
+        {
+          "label": "C",
+          "text": "they are usually caused by point mutations"
+        },
+        {
+          "label": "D",
+          "text": "there are four alpha genes"
+        },
+        {
+          "label": "E",
+          "text": "they are usually caused by deletions"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Alpha-thalassaemia is mostly due to gene DELETIONS, not point mutations.",
+      "topicId": "haemoglobin",
+      "subtopic": "Thalassaemias",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb-ex-06",
+      "type": "single-best",
+      "stem": "All of the following are used in the treatment of beta-thalassaemia major EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "desferrioxamine"
+        },
+        {
+          "label": "B",
+          "text": "ascorbic acid"
+        },
+        {
+          "label": "C",
+          "text": "bone marrow transplant"
+        },
+        {
+          "label": "D",
+          "text": "regular venesection"
+        },
+        {
+          "label": "E",
+          "text": "blood transfusion"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Venesection would worsen the anaemia; iron is removed by chelation, not bleeding.",
+      "topicId": "haemoglobin",
+      "subtopic": "Thalassaemias",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb-sba-01",
+      "type": "single-best",
+      "stem": "The quaternary structure of normal adult haemoglobin (HbA) is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "alpha-2 gamma-2"
+        },
+        {
+          "label": "B",
+          "text": "alpha-2 delta-2"
+        },
+        {
+          "label": "C",
+          "text": "a beta-4 tetramer"
+        },
+        {
+          "label": "D",
+          "text": "a gamma-4 tetramer"
+        },
+        {
+          "label": "E",
+          "text": "alpha-2 beta-2"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "HbA is two alpha and two beta chains (α2β2).",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb-sba-02",
+      "type": "single-best",
+      "stem": "The residue occupying the fifth coordination position of the haem iron is the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "proximal histidine"
+        },
+        {
+          "label": "B",
+          "text": "distal histidine"
+        },
+        {
+          "label": "C",
+          "text": "a lysine residue"
+        },
+        {
+          "label": "D",
+          "text": "a cysteine residue"
+        },
+        {
+          "label": "E",
+          "text": "a tyrosine residue"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The proximal histidine (F8) binds the iron directly at the fifth position.",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb-sba-03",
+      "type": "single-best",
+      "stem": "Oxygen binds to haemoglobin only when the iron is in the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fe4+ oxidation state"
+        },
+        {
+          "label": "B",
+          "text": "ferrous (Fe2+) state"
+        },
+        {
+          "label": "C",
+          "text": "ferric (Fe3+) state"
+        },
+        {
+          "label": "D",
+          "text": "free unbound state"
+        },
+        {
+          "label": "E",
+          "text": "fully oxidised state"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Only ferrous (Fe2+) iron binds oxygen; the ferric form is methaemoglobin.",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb-sba-04",
+      "type": "single-best",
+      "stem": "The shape of the haemoglobin oxygen dissociation curve is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "rectangular"
+        },
+        {
+          "label": "B",
+          "text": "exponential"
+        },
+        {
+          "label": "C",
+          "text": "sigmoid"
+        },
+        {
+          "label": "D",
+          "text": "hyperbolic"
+        },
+        {
+          "label": "E",
+          "text": "linear"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Cooperative binding gives haemoglobin a sigmoid curve (myoglobin's is hyperbolic).",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb-sba-05",
+      "type": "single-best",
+      "stem": "The intracellular compound that chiefly lowers the oxygen affinity of haemoglobin is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "the enzyme carbonic anhydrase"
+        },
+        {
+          "label": "B",
+          "text": "methaemoglobin reductase"
+        },
+        {
+          "label": "C",
+          "text": "the protein haptoglobin"
+        },
+        {
+          "label": "D",
+          "text": "2,3-bisphosphoglycerate"
+        },
+        {
+          "label": "E",
+          "text": "carbon monoxide gas"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "2,3-BPG binds deoxyhaemoglobin and lowers its oxygen affinity.",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb-sba-06",
+      "type": "single-best",
+      "stem": "Fetal haemoglobin (HbF) has the chain composition:",
+      "options": [
+        {
+          "label": "A",
+          "text": "alpha-2 beta-2"
+        },
+        {
+          "label": "B",
+          "text": "alpha-2 delta-2"
+        },
+        {
+          "label": "C",
+          "text": "a beta-4 tetramer"
+        },
+        {
+          "label": "D",
+          "text": "a gamma-4 tetramer"
+        },
+        {
+          "label": "E",
+          "text": "alpha-2 gamma-2"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "HbF is two alpha and two gamma chains (α2γ2).",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb-sba-07",
+      "type": "single-best",
+      "stem": "Haemoglobin Bart's, seen in the lethal alpha-thalassaemia syndrome, is a tetramer of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "gamma chains"
+        },
+        {
+          "label": "B",
+          "text": "beta chains"
+        },
+        {
+          "label": "C",
+          "text": "alpha chains"
+        },
+        {
+          "label": "D",
+          "text": "delta chains"
+        },
+        {
+          "label": "E",
+          "text": "epsilon chains"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "With no alpha chains made, gamma chains form the γ4 tetramer, Hb Bart's.",
+      "topicId": "haemoglobin",
+      "subtopic": "Thalassaemias",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb-sba-08",
+      "type": "single-best",
+      "stem": "A raised HbA2 (above 3.5%) is the characteristic laboratory finding in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "haemoglobin H disease"
+        },
+        {
+          "label": "B",
+          "text": "beta-thalassaemia trait"
+        },
+        {
+          "label": "C",
+          "text": "alpha-thalassaemia trait"
+        },
+        {
+          "label": "D",
+          "text": "iron-deficiency anaemia"
+        },
+        {
+          "label": "E",
+          "text": "sickle-cell trait"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "A raised HbA2 distinguishes beta-thalassaemia trait from iron deficiency.",
+      "topicId": "haemoglobin",
+      "subtopic": "Thalassaemias",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb-sba-09",
+      "type": "single-best",
+      "stem": "The iron-chelating drug used to prevent iron overload in thalassaemia major is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "penicillamine"
+        },
+        {
+          "label": "B",
+          "text": "allopurinol"
+        },
+        {
+          "label": "C",
+          "text": "desferrioxamine"
+        },
+        {
+          "label": "D",
+          "text": "ferrous sulfate"
+        },
+        {
+          "label": "E",
+          "text": "hydroxyurea"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Desferrioxamine chelates and removes the iron that accumulates with transfusion.",
+      "topicId": "haemoglobin",
+      "subtopic": "Thalassaemias",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb-sba-10",
+      "type": "single-best",
+      "stem": "The distal histidine (E7) of myoglobin and haemoglobin reduces the binding of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "carbon dioxide"
+        },
+        {
+          "label": "B",
+          "text": "2,3-BPG"
+        },
+        {
+          "label": "C",
+          "text": "nitric oxide"
+        },
+        {
+          "label": "D",
+          "text": "carbon monoxide"
+        },
+        {
+          "label": "E",
+          "text": "oxygen molecules"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The distal histidine bends and weakens CO binding, protecting against poisoning.",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem-ar-01",
+      "type": "single-best",
+      "stem": "Assertion: In galactosaemia a cataract develops.\nReason: Galactose is reduced to galactitol, which accumulates osmotically in the lens.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "Galactitol accumulation in the lens is exactly how the cataract forms.",
+      "topicId": "iem",
+      "subtopic": "Carbohydrate disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-ar-02",
+      "type": "single-best",
+      "stem": "Assertion: Ornithine transcarbamylase deficiency raises urinary orotic acid.\nReason: Carbamoyl phosphate that cannot enter the urea cycle is diverted into pyrimidine (orotic acid) synthesis.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "The diverted carbamoyl phosphate is why orotic acid rises - the reason explains the finding.",
+      "topicId": "iem",
+      "subtopic": "Urea cycle defects",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-ar-03",
+      "type": "single-best",
+      "stem": "Assertion: Urea cycle defects cause hyperammonaemia.\nReason: The urea cycle is the main route for converting waste nitrogen into urea.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "Blocking the cycle leaves ammonia undisposed, so the reason explains the hyperammonaemia.",
+      "topicId": "iem",
+      "subtopic": "Urea cycle defects",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-ar-04",
+      "type": "single-best",
+      "stem": "Assertion: Phenylketonuria causes hypopigmentation of skin and hair.\nReason: Reduced formation of tyrosine limits melanin synthesis.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "Low tyrosine (and high phenylalanine inhibiting tyrosinase) reduces melanin, explaining the pallor.",
+      "topicId": "iem",
+      "subtopic": "Amino acid disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-ar-05",
+      "type": "single-best",
+      "stem": "Assertion: Inborn errors of metabolism are individually rare.\nReason: Collectively they account for about 20% of diagnoses in sick full-term infants.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "Both true, but their collective frequency in sick infants does not explain that each one is rare.",
+      "topicId": "iem",
+      "subtopic": "Principles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-ar-06",
+      "type": "single-best",
+      "stem": "Assertion: Newborn screening is performed on a heel-prick blood sample.\nReason: Early treatment of many inborn errors improves the outcome.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "Both true, but the benefit of early treatment does not explain the sampling method.",
+      "topicId": "iem",
+      "subtopic": "Newborn screening",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-ar-07",
+      "type": "single-best",
+      "stem": "Assertion: Galactosaemia can present with neonatal jaundice.\nReason: Classic galactosaemia is due to galactose-1-phosphate uridyl transferase deficiency.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "Both true, but naming the enzyme does not by itself explain the jaundice.",
+      "topicId": "iem",
+      "subtopic": "Carbohydrate disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-ar-08",
+      "type": "single-best",
+      "stem": "Assertion: Alkaptonuria causes the urine to darken on standing.\nReason: It is caused by a deficiency of phenylalanine hydroxylase.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "Urine does darken, but alkaptonuria is due to homogentisate oxidase deficiency, not PAH.",
+      "topicId": "iem",
+      "subtopic": "Amino acid disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-ar-09",
+      "type": "single-best",
+      "stem": "Assertion: Pompe disease is a glycogen storage disease.\nReason: It characteristically causes fasting hypoglycaemia.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "Pompe is a (lysosomal) glycogen storage disease, but it does NOT cause hypoglycaemia.",
+      "topicId": "iem",
+      "subtopic": "Carbohydrate disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-ar-10",
+      "type": "single-best",
+      "stem": "Assertion: Homocystinuria causes downward dislocation of the lens.\nReason: It results from a deficiency of homogentisate oxidase.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "The lens dislocation is correct, but the enzyme defect is cystathionine β-synthase, not homogentisate oxidase.",
+      "topicId": "iem",
+      "subtopic": "Amino acid disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-ar-11",
+      "type": "single-best",
+      "stem": "Assertion: Hereditary fructose intolerance is caused by fructokinase deficiency.\nReason: Accumulated fructose-1-phosphate inhibits glycogenolysis and causes hypoglycaemia.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "HFI is due to aldolase B deficiency (assertion false); the fructose-1-phosphate mechanism is correct.",
+      "topicId": "iem",
+      "subtopic": "Carbohydrate disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-ar-12",
+      "type": "single-best",
+      "stem": "Assertion: Methylmalonic acidaemia responds to supplementation with biotin.\nReason: Methylmalonyl-CoA mutase uses adenosylcobalamin (vitamin B12) as its cofactor.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "The relevant vitamin is B12, not biotin (assertion false); the cofactor statement is true.",
+      "topicId": "iem",
+      "subtopic": "Organic acidaemias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-ar-13",
+      "type": "single-best",
+      "stem": "Assertion: Ornithine transcarbamylase deficiency is inherited as an autosomal recessive trait.\nReason: It is the commonest of the urea cycle defects.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "OTC deficiency is X-linked (assertion false); it is indeed the commonest urea cycle defect.",
+      "topicId": "iem",
+      "subtopic": "Urea cycle defects",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-ar-14",
+      "type": "single-best",
+      "stem": "Assertion: Classic galactosaemia is treated with a high-galactose diet.\nReason: Galactose is an essential nutrient that these patients cannot make for themselves.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "Treatment is a galactose-FREE diet and galactose is not essential; both statements are false.",
+      "topicId": "iem",
+      "subtopic": "Carbohydrate disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-ar-15",
+      "type": "single-best",
+      "stem": "Assertion: Phenylketonuria is diagnosed by a positive black-urine test.\nReason: Homogentisic acid accumulates in the urine in phenylketonuria.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "PKU gives a blue-green ferric chloride test (not black urine), and homogentisic acid is the alkaptonuria metabolite; both false.",
+      "topicId": "iem",
+      "subtopic": "Amino acid disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-ar-16",
+      "type": "single-best",
+      "stem": "Assertion: MCAD deficiency causes a ketotic hyperglycaemia during fasting.\nReason: Medium-chain fats are the body's main fasting fuel and are over-oxidised in this disorder.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "MCAD deficiency causes hypoketotic HYPOglycaemia and impaired (not increased) fat oxidation; both false.",
+      "topicId": "iem",
+      "subtopic": "Fatty acid oxidation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-k-01",
+      "type": "single-best",
+      "stem": "A block in an inborn error of metabolism may produce:\nI. Deficiency of an essential product\nII. Build-up of a toxic intermediate\nIII. Formation of a toxic side-product",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "All three are recognised consequences of an enzyme block.",
+      "topicId": "iem",
+      "subtopic": "Principles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-k-02",
+      "type": "single-best",
+      "stem": "Classic galactosaemia features:\nI. Deficiency of galactose-1-phosphate uridyl transferase\nII. Cataract formation\nIII. A completely normal clinical picture",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "I and II true; it is a serious illness, so III is false.",
+      "topicId": "iem",
+      "subtopic": "Carbohydrate disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-k-03",
+      "type": "single-best",
+      "stem": "Von Gierke disease (glycogen storage disease type I):\nI. Is a lysosomal storage disorder\nII. Is due to glucose-6-phosphatase deficiency\nIII. Causes fasting hypoglycaemia with hepatomegaly",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "II and III true; it is a cytoplasmic enzyme defect, not lysosomal, so I is false.",
+      "topicId": "iem",
+      "subtopic": "Carbohydrate disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-k-04",
+      "type": "single-best",
+      "stem": "Phenylketonuria:\nI. Results from phenylalanine hydroxylase deficiency\nII. Causes black discolouration of the urine\nIII. Is managed with a low-phenylalanine diet",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "I and III true; black urine is alkaptonuria, so II is false.",
+      "topicId": "iem",
+      "subtopic": "Amino acid disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-k-05",
+      "type": "single-best",
+      "stem": "Ornithine transcarbamylase deficiency:\nI. Raises urinary orotic acid\nII. Is autosomal recessive\nIII. Lowers the blood ammonia",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "Only I is true; it is X-linked and raises ammonia.",
+      "topicId": "iem",
+      "subtopic": "Urea cycle defects",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-k-06",
+      "type": "single-best",
+      "stem": "Urea cycle defects characteristically show:\nI. Hyperammonaemia\nII. A respiratory alkalosis\nIII. A low blood urea",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "All three are typical of urea cycle defects.",
+      "topicId": "iem",
+      "subtopic": "Urea cycle defects",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-k-07",
+      "type": "single-best",
+      "stem": "Homocystinuria:\nI. Is due to cystathionine β-synthase deficiency\nII. Causes lens dislocation and thromboembolism\nIII. Is treated with a high-methionine diet",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "I and II true; the diet is LOW in methionine, so III is false.",
+      "topicId": "iem",
+      "subtopic": "Amino acid disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-k-08",
+      "type": "single-best",
+      "stem": "Maple syrup urine disease:\nI. Is a disorder of the aromatic amino acids\nII. Is due to branched-chain α-ketoacid dehydrogenase deficiency\nIII. Produces branched-chain keto acids in the urine",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "II and III true; it involves the BRANCHED-chain (not aromatic) amino acids, so I is false.",
+      "topicId": "iem",
+      "subtopic": "Amino acid disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-k-09",
+      "type": "single-best",
+      "stem": "The organic acidaemias (propionic, isovaleric, methylmalonic):\nI. Cause a high anion-gap metabolic acidosis\nII. Characteristically raise the blood glucose\nIII. Are diagnosed by urine organic acid analysis",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "I and III true; they do not characteristically raise glucose, so II is false.",
+      "topicId": "iem",
+      "subtopic": "Organic acidaemias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-k-10",
+      "type": "single-best",
+      "stem": "Hereditary fructose intolerance:\nI. Is caused by aldolase B deficiency\nII. Is treated by increasing dietary fructose\nIII. Causes hyperglycaemia after fructose",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "Only I is true; treatment is fructose WITHDRAWAL and it causes HYPOglycaemia.",
+      "topicId": "iem",
+      "subtopic": "Carbohydrate disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-k-11",
+      "type": "single-best",
+      "stem": "Fatty acid oxidation disorders typically:\nI. Present with fasting hypoketotic hypoglycaemia\nII. Are detected by newborn acylcarnitine screening\nIII. Are worsened by prolonged fasting",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "All three are characteristic of the fatty acid oxidation disorders.",
+      "topicId": "iem",
+      "subtopic": "Fatty acid oxidation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-k-12",
+      "type": "single-best",
+      "stem": "Albinism:\nI. Is due to homogentisate oxidase deficiency\nII. Results from a defect in tyrosinase\nIII. Causes photophobia and nystagmus",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "II and III true; it is a TYROSINASE defect, not homogentisate oxidase, so I is false.",
+      "topicId": "iem",
+      "subtopic": "Amino acid disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem-ex-01",
+      "type": "single-best",
+      "stem": "All of the following are inborn errors of CARBOHYDRATE metabolism EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "hereditary fructose intolerance"
+        },
+        {
+          "label": "B",
+          "text": "Von Gierke disease"
+        },
+        {
+          "label": "C",
+          "text": "Pompe disease"
+        },
+        {
+          "label": "D",
+          "text": "phenylketonuria"
+        },
+        {
+          "label": "E",
+          "text": "galactosaemia"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Phenylketonuria is an amino-acid disorder, not a carbohydrate one.",
+      "topicId": "iem",
+      "subtopic": "Principles",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem-ex-02",
+      "type": "single-best",
+      "stem": "All of the following are features of classic galactosaemia EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "a congenital cataract"
+        },
+        {
+          "label": "B",
+          "text": "an enlarged liver (hepatomegaly)"
+        },
+        {
+          "label": "C",
+          "text": "jaundice in the newborn"
+        },
+        {
+          "label": "D",
+          "text": "severe mental retardation"
+        },
+        {
+          "label": "E",
+          "text": "a maple-syrup urine odour"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The maple-syrup odour belongs to MSUD, not galactosaemia.",
+      "topicId": "iem",
+      "subtopic": "Carbohydrate disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem-ex-03",
+      "type": "single-best",
+      "stem": "All of the following are urea cycle defects EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "isovaleric acidaemia"
+        },
+        {
+          "label": "B",
+          "text": "OTC deficiency"
+        },
+        {
+          "label": "C",
+          "text": "citrullinaemia"
+        },
+        {
+          "label": "D",
+          "text": "argininosuccinic aciduria"
+        },
+        {
+          "label": "E",
+          "text": "CPS deficiency"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Isovaleric acidaemia is an organic acidaemia, not a urea cycle defect.",
+      "topicId": "iem",
+      "subtopic": "Urea cycle defects",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem-ex-04",
+      "type": "single-best",
+      "stem": "All of the following should raise suspicion of an inborn error in a neonate EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "a family history of neonatal death"
+        },
+        {
+          "label": "B",
+          "text": "an infant who stays entirely well for weeks"
+        },
+        {
+          "label": "C",
+          "text": "deterioration after the first 24-48 hours"
+        },
+        {
+          "label": "D",
+          "text": "poor feeding with vomiting"
+        },
+        {
+          "label": "E",
+          "text": "lethargy and seizures"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "IEM typically presents with early deterioration, not prolonged wellbeing.",
+      "topicId": "iem",
+      "subtopic": "When to suspect",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem-ex-05",
+      "type": "single-best",
+      "stem": "All of the following are true of MCAD deficiency EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "it is detected on newborn screening"
+        },
+        {
+          "label": "B",
+          "text": "attacks are provoked by fasting"
+        },
+        {
+          "label": "C",
+          "text": "it causes a chronic cardiomyopathy"
+        },
+        {
+          "label": "D",
+          "text": "it is the commonest fatty acid oxidation disorder"
+        },
+        {
+          "label": "E",
+          "text": "it causes fasting hypoglycaemia"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Cardiomyopathy is a feature of VLCAD and carnitine transporter defects, not MCAD.",
+      "topicId": "iem",
+      "subtopic": "Fatty acid oxidation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem-ex-06",
+      "type": "single-best",
+      "stem": "All of the following are criteria for neonatal screening of a disease EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "it should be treatable"
+        },
+        {
+          "label": "B",
+          "text": "the test should be simple and reliable"
+        },
+        {
+          "label": "C",
+          "text": "results should precede irreversible damage"
+        },
+        {
+          "label": "D",
+          "text": "it should be clinically obvious at birth"
+        },
+        {
+          "label": "E",
+          "text": "it should be relatively common"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "A screenable disease should NOT be clinically apparent at the time of screening.",
+      "topicId": "iem",
+      "subtopic": "Newborn screening",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem-sba-01",
+      "type": "single-best",
+      "stem": "Classic galactosaemia is caused by deficiency of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "uridine diphosphate-galactose epimerase"
+        },
+        {
+          "label": "B",
+          "text": "galactokinase (GALK) enzyme"
+        },
+        {
+          "label": "C",
+          "text": "glucose-6-phosphatase enzyme"
+        },
+        {
+          "label": "D",
+          "text": "the liver aldolase B enzyme"
+        },
+        {
+          "label": "E",
+          "text": "galactose-1-phosphate uridyl transferase"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Classic galactosaemia is GAL-1-P uridyl transferase deficiency.",
+      "topicId": "iem",
+      "subtopic": "Carbohydrate disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem-sba-02",
+      "type": "single-best",
+      "stem": "The cataract of galactosaemia is caused by lens accumulation of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "galactitol"
+        },
+        {
+          "label": "B",
+          "text": "galactose-1-phosphate"
+        },
+        {
+          "label": "C",
+          "text": "sorbitol"
+        },
+        {
+          "label": "D",
+          "text": "fructose-1-phosphate"
+        },
+        {
+          "label": "E",
+          "text": "homogentisic acid"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Aldose reductase converts galactose to galactitol, which osmotically damages the lens.",
+      "topicId": "iem",
+      "subtopic": "Carbohydrate disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem-sba-03",
+      "type": "single-best",
+      "stem": "Hereditary fructose intolerance results from a deficiency of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "glucose-6-phosphatase"
+        },
+        {
+          "label": "B",
+          "text": "aldolase B"
+        },
+        {
+          "label": "C",
+          "text": "fructokinase"
+        },
+        {
+          "label": "D",
+          "text": "aldolase A"
+        },
+        {
+          "label": "E",
+          "text": "galactokinase"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "HFI is aldolase B deficiency, so fructose-1-phosphate accumulates.",
+      "topicId": "iem",
+      "subtopic": "Carbohydrate disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem-sba-04",
+      "type": "single-best",
+      "stem": "The enzyme deficient in Von Gierke disease (GSD type I) is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "the debranching enzyme"
+        },
+        {
+          "label": "B",
+          "text": "aldolase B"
+        },
+        {
+          "label": "C",
+          "text": "glucose-6-phosphatase"
+        },
+        {
+          "label": "D",
+          "text": "acid alpha-glucosidase"
+        },
+        {
+          "label": "E",
+          "text": "muscle phosphorylase"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Von Gierke disease is glucose-6-phosphatase deficiency.",
+      "topicId": "iem",
+      "subtopic": "Carbohydrate disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem-sba-05",
+      "type": "single-best",
+      "stem": "Pompe disease (GSD type II) is a lysosomal deficiency of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "muscle phosphorylase"
+        },
+        {
+          "label": "B",
+          "text": "the branching enzyme"
+        },
+        {
+          "label": "C",
+          "text": "galactokinase enzyme"
+        },
+        {
+          "label": "D",
+          "text": "acid alpha-1,4-glucosidase"
+        },
+        {
+          "label": "E",
+          "text": "glucose-6-phosphatase"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Pompe disease is deficiency of lysosomal acid alpha-glucosidase.",
+      "topicId": "iem",
+      "subtopic": "Carbohydrate disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem-sba-06",
+      "type": "single-best",
+      "stem": "The enzyme deficient in alkaptonuria is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "phenylalanine hydroxylase"
+        },
+        {
+          "label": "B",
+          "text": "tyrosinase enzyme"
+        },
+        {
+          "label": "C",
+          "text": "cystathionine synthase"
+        },
+        {
+          "label": "D",
+          "text": "branched-chain dehydrogenase"
+        },
+        {
+          "label": "E",
+          "text": "homogentisate oxidase"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Alkaptonuria is homogentisate oxidase deficiency; homogentisic acid darkens the urine.",
+      "topicId": "iem",
+      "subtopic": "Amino acid disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem-sba-07",
+      "type": "single-best",
+      "stem": "Homocystinuria is most often caused by a deficiency of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "cystathionine beta-synthase"
+        },
+        {
+          "label": "B",
+          "text": "homogentisate oxidase"
+        },
+        {
+          "label": "C",
+          "text": "methionine synthase"
+        },
+        {
+          "label": "D",
+          "text": "cystathionine gamma-lyase"
+        },
+        {
+          "label": "E",
+          "text": "phenylalanine hydroxylase"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Classic homocystinuria is cystathionine beta-synthase deficiency.",
+      "topicId": "iem",
+      "subtopic": "Amino acid disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem-sba-08",
+      "type": "single-best",
+      "stem": "The vitamin cofactor required by methylmalonyl-CoA mutase is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "folate"
+        },
+        {
+          "label": "B",
+          "text": "vitamin B12"
+        },
+        {
+          "label": "C",
+          "text": "biotin"
+        },
+        {
+          "label": "D",
+          "text": "thiamine"
+        },
+        {
+          "label": "E",
+          "text": "pyridoxine"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Methylmalonyl-CoA mutase uses adenosylcobalamin (vitamin B12).",
+      "topicId": "iem",
+      "subtopic": "Organic acidaemias",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem-sba-09",
+      "type": "single-best",
+      "stem": "The X-linked urea cycle defect that raises urinary orotic acid is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "argininosuccinic aciduria (ASL)"
+        },
+        {
+          "label": "B",
+          "text": "arginase deficiency (argininaemia)"
+        },
+        {
+          "label": "C",
+          "text": "ornithine transcarbamylase deficiency"
+        },
+        {
+          "label": "D",
+          "text": "carbamoyl phosphate synthetase deficiency"
+        },
+        {
+          "label": "E",
+          "text": "citrullinaemia (ASS deficiency)"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "OTC deficiency is X-linked and diverts carbamoyl phosphate to orotic acid.",
+      "topicId": "iem",
+      "subtopic": "Urea cycle defects",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem-sba-10",
+      "type": "single-best",
+      "stem": "The commonest fatty acid oxidation disorder is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "carnitine transporter (uptake) deficiency"
+        },
+        {
+          "label": "B",
+          "text": "long-chain 3-hydroxyacyl-CoA deficiency"
+        },
+        {
+          "label": "C",
+          "text": "short-chain acyl-CoA dehydrogenase defect"
+        },
+        {
+          "label": "D",
+          "text": "medium-chain acyl-CoA dehydrogenase deficiency"
+        },
+        {
+          "label": "E",
+          "text": "very-long-chain acyl-CoA dehydrogenase deficiency"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "MCAD deficiency is the most common fatty acid oxidation disorder.",
+      "topicId": "iem",
+      "subtopic": "Fatty acid oxidation",
+      "difficulty": "medium"
     }
   ]
 }
