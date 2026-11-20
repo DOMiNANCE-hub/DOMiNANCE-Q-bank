@@ -1,225 +1,227 @@
 {
- "_note": "Site structure: years → (semesters for HB1) → courses → systems. A course with status 'soon' shows as Coming soon. Each live system lists its topic file and question files for both collections.",
- "years": [
-  {
-   "id": "hb1",
-   "title": "HB1",
-   "subtitle": "First years",
-   "status": "live",
-   "semesters": [
+  "_note": "Site structure: years → (semesters for HB1) → courses → systems. A course with status 'soon' shows as Coming soon. Each live system lists its topic file and question files for both collections.",
+  "years": [
     {
-     "id": "sem1",
-     "title": "First semester",
-     "courses": []
-    },
-    {
-     "id": "sem2",
-     "title": "Second semester",
-     "courses": [
-      {
-       "id": "anatomy",
-       "title": "Anatomy",
-       "icon": "bone",
-       "status": "live",
-       "systems": [
+      "id": "hb1",
+      "title": "HB1",
+      "subtitle": "First years",
+      "status": "live",
+      "semesters": [
         {
-         "id": "gross",
-         "title": "Gross anatomy",
-         "topics": "data/anatomy/gross-topics.json",
-         "past": [
-          "data/anatomy/gross-past.json"
-         ],
-         "curated": []
+          "id": "sem1",
+          "title": "First semester",
+          "courses": []
         },
         {
-         "id": "micro",
-         "title": "Microscopic anatomy",
-         "topics": "data/anatomy/micro-topics.json",
-         "past": [
-          "data/anatomy/micro-past.json"
-         ],
-         "curated": []
-        },
-        {
-         "id": "embryo",
-         "title": "Developmental anatomy",
-         "topics": "data/anatomy/embryo-topics.json",
-         "past": [
-          "data/anatomy/embryo-past.json"
-         ],
-         "curated": []
+          "id": "sem2",
+          "title": "Second semester",
+          "courses": [
+            {
+              "id": "anatomy",
+              "title": "Anatomy",
+              "icon": "bone",
+              "status": "live",
+              "systems": [
+                {
+                  "id": "gross",
+                  "title": "Gross anatomy",
+                  "topics": "data/anatomy/gross-topics.json",
+                  "past": [
+                    "data/anatomy/gross-past.json"
+                  ],
+                  "curated": []
+                },
+                {
+                  "id": "micro",
+                  "title": "Microscopic anatomy",
+                  "topics": "data/anatomy/micro-topics.json",
+                  "past": [
+                    "data/anatomy/micro-past.json"
+                  ],
+                  "curated": []
+                },
+                {
+                  "id": "embryo",
+                  "title": "Developmental anatomy",
+                  "topics": "data/anatomy/embryo-topics.json",
+                  "past": [
+                    "data/anatomy/embryo-past.json"
+                  ],
+                  "curated": []
+                }
+              ],
+              "onlyTag": "HB1"
+            }
+          ]
         }
-       ],
-       "onlyTag": "HB1"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "hb2",
-   "title": "HB2",
-   "subtitle": "Second years",
-   "status": "live",
-   "courses": [
-    {
-     "id": "physiology",
-     "title": "Physiology",
-     "icon": "heart",
-     "status": "live",
-     "systems": [
-      {
-       "id": "cvs",
-       "title": "Cardiovascular",
-       "topics": "data/topics.json",
-       "past": [
-        "data/past-questions.json"
-       ],
-       "curated": [
-        "data/physiology/cvs-curated.json"
-       ]
-      },
-      {
-       "id": "gi",
-       "title": "Digestive and metabolism",
-       "topics": "data/physiology/gi-topics.json",
-       "past": [
-        "data/physiology/gi-past.json"
-       ],
-       "curated": [
-        "data/physiology/gi-curated.json"
-       ]
-      },
-      {
-       "id": "renal",
-       "title": "Renal",
-       "topics": "data/physiology/renal-topics.json",
-       "past": [
-        "data/physiology/renal-past.json"
-       ],
-       "curated": [
-        "data/physiology/renal-curated.json"
-       ]
-      },
-      {
-       "id": "resp",
-       "title": "Respiratory",
-       "topics": "data/physiology/resp-topics.json",
-       "past": [
-        "data/physiology/resp-past.json"
-       ],
-       "curated": [
-        "data/physiology/resp-curated.json"
-       ]
-      },
-      {
-       "id": "endocrine",
-       "title": "Endocrine",
-       "topics": "data/physiology/endocrine-topics.json",
-       "past": [
-        "data/physiology/endocrine-past.json"
-       ],
-       "curated": [
-        "data/physiology/endocrine-curated.json"
-       ]
-      },
-      {
-       "id": "repro",
-       "title": "Reproduction",
-       "topics": "data/physiology/repro-topics.json",
-       "past": [
-        "data/physiology/repro-past.json"
-       ],
-       "curated": []
-      },
-      {
-       "id": "senses",
-       "title": "Special senses",
-       "topics": "data/physiology/senses-topics.json",
-       "past": [
-        "data/physiology/senses-past.json"
-       ],
-       "curated": [
-        "data/physiology/senses-curated.json"
-       ]
-      },
-      {
-       "id": "cns",
-       "title": "CNS and thermoregulation",
-       "topics": "data/physiology/cns-topics.json",
-       "past": [
-        "data/physiology/cns-past.json"
-       ],
-       "curated": []
-      }
-     ]
+      ]
     },
     {
-     "id": "biochemistry",
-     "title": "Biochemistry",
-     "icon": "flask",
-     "status": "live",
-     "systems": [
-      {
-       "id": "biochem",
-       "title": "Metabolism, genetics and immunology",
-       "topics": "data/biochem/topics.json",
-       "past": [
-        "data/biochem/past-questions.json"
-       ],
-       "curated": [
-        "data/biochem/biochem-curated.json"
-       ]
-      }
-     ]
+      "id": "hb2",
+      "title": "HB2",
+      "subtitle": "Second years",
+      "status": "live",
+      "courses": [
+        {
+          "id": "physiology",
+          "title": "Physiology",
+          "icon": "heart",
+          "status": "live",
+          "systems": [
+            {
+              "id": "cvs",
+              "title": "Cardiovascular",
+              "topics": "data/topics.json",
+              "past": [
+                "data/past-questions.json"
+              ],
+              "curated": [
+                "data/physiology/cvs-curated.json"
+              ]
+            },
+            {
+              "id": "gi",
+              "title": "Digestive and metabolism",
+              "topics": "data/physiology/gi-topics.json",
+              "past": [
+                "data/physiology/gi-past.json"
+              ],
+              "curated": [
+                "data/physiology/gi-curated.json"
+              ]
+            },
+            {
+              "id": "renal",
+              "title": "Renal",
+              "topics": "data/physiology/renal-topics.json",
+              "past": [
+                "data/physiology/renal-past.json"
+              ],
+              "curated": [
+                "data/physiology/renal-curated.json"
+              ]
+            },
+            {
+              "id": "resp",
+              "title": "Respiratory",
+              "topics": "data/physiology/resp-topics.json",
+              "past": [
+                "data/physiology/resp-past.json"
+              ],
+              "curated": [
+                "data/physiology/resp-curated.json"
+              ]
+            },
+            {
+              "id": "endocrine",
+              "title": "Endocrine",
+              "topics": "data/physiology/endocrine-topics.json",
+              "past": [
+                "data/physiology/endocrine-past.json"
+              ],
+              "curated": [
+                "data/physiology/endocrine-curated.json"
+              ]
+            },
+            {
+              "id": "repro",
+              "title": "Reproduction",
+              "topics": "data/physiology/repro-topics.json",
+              "past": [
+                "data/physiology/repro-past.json"
+              ],
+              "curated": [
+                "data/physiology/repro-curated.json"
+              ]
+            },
+            {
+              "id": "senses",
+              "title": "Special senses",
+              "topics": "data/physiology/senses-topics.json",
+              "past": [
+                "data/physiology/senses-past.json"
+              ],
+              "curated": [
+                "data/physiology/senses-curated.json"
+              ]
+            },
+            {
+              "id": "cns",
+              "title": "CNS and thermoregulation",
+              "topics": "data/physiology/cns-topics.json",
+              "past": [
+                "data/physiology/cns-past.json"
+              ],
+              "curated": []
+            }
+          ]
+        },
+        {
+          "id": "biochemistry",
+          "title": "Biochemistry",
+          "icon": "flask",
+          "status": "live",
+          "systems": [
+            {
+              "id": "biochem",
+              "title": "Metabolism, genetics and immunology",
+              "topics": "data/biochem/topics.json",
+              "past": [
+                "data/biochem/past-questions.json"
+              ],
+              "curated": [
+                "data/biochem/biochem-curated.json"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "anatomy",
+          "title": "Anatomy",
+          "icon": "bone",
+          "status": "live",
+          "systems": [
+            {
+              "id": "gross",
+              "title": "Gross anatomy",
+              "topics": "data/anatomy/gross-topics.json",
+              "past": [
+                "data/anatomy/gross-past.json"
+              ],
+              "curated": [
+                "data/anatomy/gross-curated.json"
+              ]
+            },
+            {
+              "id": "micro",
+              "title": "Microscopic anatomy",
+              "topics": "data/anatomy/micro-topics.json",
+              "past": [
+                "data/anatomy/micro-past.json"
+              ],
+              "curated": [
+                "data/anatomy/micro-curated.json"
+              ]
+            },
+            {
+              "id": "embryo",
+              "title": "Developmental anatomy",
+              "topics": "data/anatomy/embryo-topics.json",
+              "past": [
+                "data/anatomy/embryo-past.json"
+              ],
+              "curated": []
+            }
+          ]
+        }
+      ]
     },
     {
-     "id": "anatomy",
-     "title": "Anatomy",
-     "icon": "bone",
-     "status": "live",
-     "systems": [
-      {
-       "id": "gross",
-       "title": "Gross anatomy",
-       "topics": "data/anatomy/gross-topics.json",
-       "past": [
-        "data/anatomy/gross-past.json"
-       ],
-       "curated": [
-        "data/anatomy/gross-curated.json"
-       ]
-      },
-      {
-       "id": "micro",
-       "title": "Microscopic anatomy",
-       "topics": "data/anatomy/micro-topics.json",
-       "past": [
-        "data/anatomy/micro-past.json"
-       ],
-       "curated": [
-        "data/anatomy/micro-curated.json"
-       ]
-      },
-      {
-       "id": "embryo",
-       "title": "Developmental anatomy",
-       "topics": "data/anatomy/embryo-topics.json",
-       "past": [
-        "data/anatomy/embryo-past.json"
-       ],
-       "curated": []
-      }
-     ]
+      "id": "hb3",
+      "title": "HB3",
+      "subtitle": "Third years",
+      "status": "soon",
+      "courses": []
     }
-   ]
-  },
-  {
-   "id": "hb3",
-   "title": "HB3",
-   "subtitle": "Third years",
-   "status": "soon",
-   "courses": []
-  }
- ]
+  ]
 }
