@@ -13899,6 +13899,1442 @@
       "topicId": "nitrogen",
       "subtopic": "Sulfur amino acid metabolism",
       "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem-ar-01",
+      "type": "single-best",
+      "stem": "Assertion: ALA synthase catalyses the rate-limiting step of haem synthesis.\nReason: It condenses glycine and succinyl-CoA to form δ-aminolevulinic acid.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "ALA synthase is the committed, rate-limiting enzyme and catalyses exactly that condensation.",
+      "topicId": "haem",
+      "subtopic": "Haem synthesis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-ar-02",
+      "type": "single-best",
+      "stem": "Assertion: Haem represses transcription of the ALA synthase gene.\nReason: Haem is the end product of the pathway and acts as a feedback inhibitor.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "End-product (haem) feedback repression of ALA synthase is the main regulatory mechanism.",
+      "topicId": "haem",
+      "subtopic": "Haem regulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-ar-03",
+      "type": "single-best",
+      "stem": "Assertion: Carbon monoxide is produced during the catabolism of haem.\nReason: Haem oxygenase cleaves the α-methene bridge of haem, releasing CO.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "Haem oxygenase is the only endogenous source of CO, produced as it opens the ring.",
+      "topicId": "haem",
+      "subtopic": "Haem catabolism",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-ar-04",
+      "type": "single-best",
+      "stem": "Assertion: Newborn infants are prone to jaundice.\nReason: The bilirubin-conjugating enzyme UDP-glucuronyl transferase is immature at birth.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "Immature conjugation raises unconjugated bilirubin, causing physiological neonatal jaundice.",
+      "topicId": "haem",
+      "subtopic": "Jaundice",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-ar-05",
+      "type": "single-best",
+      "stem": "Assertion: Porphyria cutanea tarda is the most common of the porphyrias.\nReason: It is caused by a deficiency of uroporphyrinogen decarboxylase.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "Both statements are true, but the specific enzyme deficiency does not explain why it is the commonest.",
+      "topicId": "haem",
+      "subtopic": "Porphyrias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-ar-06",
+      "type": "single-best",
+      "stem": "Assertion: ALA dehydratase (PBG synthase) requires zinc for activity.\nReason: Lead can displace zinc at the active site and inhibit the enzyme.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "Both are true, but lead displacing zinc explains lead toxicity, not why the enzyme needs zinc.",
+      "topicId": "haem",
+      "subtopic": "Lead poisoning",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-ar-07",
+      "type": "single-best",
+      "stem": "Assertion: Haem is an iron-containing molecule.\nReason: Haem-containing proteins include haemoglobin and the cytochromes.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "Both true, but listing haem proteins does not explain that haem contains iron.",
+      "topicId": "haem",
+      "subtopic": "Haem synthesis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-ar-08",
+      "type": "single-best",
+      "stem": "Assertion: Unconjugated bilirubin is transported in blood bound to albumin.\nReason: Unconjugated bilirubin is freely water-soluble.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "Unconjugated bilirubin is lipophilic and water-insoluble, so it must be carried on albumin; the reason is false.",
+      "topicId": "haem",
+      "subtopic": "Haem catabolism",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-ar-09",
+      "type": "single-best",
+      "stem": "Assertion: Ferrochelatase inserts iron into protoporphyrin IX.\nReason: Ferrochelatase is located in the cytosol.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "Ferrochelatase does insert iron, but it acts in the mitochondrion, not the cytosol.",
+      "topicId": "haem",
+      "subtopic": "Haem synthesis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-ar-10",
+      "type": "single-best",
+      "stem": "Assertion: In acute intermittent porphyria there is abdominal pain and neuropsychiatric disturbance.\nReason: Acute intermittent porphyria causes marked cutaneous photosensitivity.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "AIP is neurovisceral; unlike PCT it is NOT photosensitive, so the reason is false.",
+      "topicId": "haem",
+      "subtopic": "Porphyrias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-ar-11",
+      "type": "single-best",
+      "stem": "Assertion: Patients with acute intermittent porphyria are photosensitive.\nReason: Acute intermittent porphyria is due to a deficiency of porphobilinogen deaminase.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "AIP is not photosensitive (assertion false), but the enzyme deficiency named is correct.",
+      "topicId": "haem",
+      "subtopic": "Porphyrias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-ar-12",
+      "type": "single-best",
+      "stem": "Assertion: Most of the body's haem is synthesised in the liver.\nReason: About 85% of haem synthesis occurs in immature red blood cells.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "The erythroid marrow, not the liver, makes most haem; the reason is the true fact.",
+      "topicId": "haem",
+      "subtopic": "Haem regulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-ar-13",
+      "type": "single-best",
+      "stem": "Assertion: Conjugated bilirubin is the form that accumulates in haemolytic (prehepatic) jaundice.\nReason: Haemolysis increases the bilirubin load presented to the liver.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "Haemolysis raises UNconjugated bilirubin (assertion false); it does increase the bilirubin load (reason true).",
+      "topicId": "haem",
+      "subtopic": "Jaundice",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-ar-14",
+      "type": "single-best",
+      "stem": "Assertion: Kernicterus is caused by conjugated bilirubin.\nReason: Conjugated bilirubin readily crosses the blood-brain barrier.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "Kernicterus is caused by unconjugated bilirubin, and conjugated bilirubin does not cross the barrier; both false.",
+      "topicId": "haem",
+      "subtopic": "Jaundice",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-ar-15",
+      "type": "single-best",
+      "stem": "Assertion: Haem oxygenase can degrade free protoporphyrin IX.\nReason: Haem oxygenase releases oxygen gas during the reaction.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "Haem oxygenase acts only on haem (not free protoporphyrin) and releases carbon monoxide, not oxygen; both false.",
+      "topicId": "haem",
+      "subtopic": "Haem catabolism",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-ar-16",
+      "type": "single-best",
+      "stem": "Assertion: The porphyrias are usually inherited in an autosomal recessive manner.\nReason: Affected individuals have no (0%) residual enzyme activity.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "Most porphyrias are autosomal dominant with about 50% activity; both statements are false.",
+      "topicId": "haem",
+      "subtopic": "Porphyrias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-k-01",
+      "type": "single-best",
+      "stem": "Which of the following are haem-containing proteins?\nI. Haemoglobin\nII. Myoglobin\nIII. Catalase",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "All three are classic haem proteins.",
+      "topicId": "haem",
+      "subtopic": "Haem synthesis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-k-02",
+      "type": "single-best",
+      "stem": "Concerning ALA synthase:\nI. It is the rate-limiting enzyme of haem synthesis\nII. It requires pyridoxal phosphate as cofactor\nIII. It is located in the cytosol",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "I and II are true; ALA synthase acts in the mitochondrion, so III is false.",
+      "topicId": "haem",
+      "subtopic": "Haem synthesis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-k-03",
+      "type": "single-best",
+      "stem": "In acute intermittent porphyria:\nI. Patients are typically photosensitive\nII. Porphobilinogen accumulates in the urine\nIII. Abdominal pain is a common feature",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "II and III are true; AIP is not photosensitive, so I is false.",
+      "topicId": "haem",
+      "subtopic": "Porphyrias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-k-04",
+      "type": "single-best",
+      "stem": "In lead poisoning:\nI. ALA dehydratase is inhibited\nII. The overall rate of haem synthesis rises\nIII. Urinary δ-aminolevulinic acid is elevated",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "I and III are true; lead reduces haem synthesis, so II is false.",
+      "topicId": "haem",
+      "subtopic": "Lead poisoning",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-k-05",
+      "type": "single-best",
+      "stem": "Unconjugated bilirubin:\nI. Is carried in plasma bound to albumin\nII. Is freely water-soluble\nIII. Is excreted directly in the urine",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "Only I is true; it is lipophilic and not excreted in urine.",
+      "topicId": "haem",
+      "subtopic": "Haem catabolism",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-k-06",
+      "type": "single-best",
+      "stem": "Regarding the haem synthesis pathway:\nI. It begins with glycine and succinyl-CoA\nII. ALA synthase catalyses the committed step\nIII. Ferrochelatase inserts iron into protoporphyrin IX",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "All three statements are correct.",
+      "topicId": "haem",
+      "subtopic": "Haem synthesis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-k-07",
+      "type": "single-best",
+      "stem": "Haem oxygenase:\nI. Releases carbon monoxide\nII. Produces biliverdin\nIII. Acts in the cytosol on free protoporphyrin IX",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "I and II are true; it is microsomal and acts only on haem, so III is false.",
+      "topicId": "haem",
+      "subtopic": "Haem catabolism",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-k-08",
+      "type": "single-best",
+      "stem": "Neonatal jaundice:\nI. Is due to mature, fully active conjugating enzymes\nII. May cause kernicterus\nIII. Can be treated with phototherapy",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "II and III are true; it is due to IMMATURE conjugation, so I is false.",
+      "topicId": "haem",
+      "subtopic": "Jaundice",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-k-09",
+      "type": "single-best",
+      "stem": "Conjugated bilirubin:\nI. Is water-soluble\nII. Is formed in the gut by bacterial action\nIII. Is produced by UDP-glucuronyl transferase",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "I and III are true; gut bacteria form urobilinogen, not conjugated bilirubin, so II is false.",
+      "topicId": "haem",
+      "subtopic": "Haem catabolism",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-k-10",
+      "type": "single-best",
+      "stem": "Porphyria cutanea tarda:\nI. Causes cutaneous photosensitivity\nII. Is the rarest of the porphyrias\nIII. Is caused by porphobilinogen deaminase deficiency",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "Only I is true; it is the commonest porphyria and is due to uroporphyrinogen decarboxylase deficiency.",
+      "topicId": "haem",
+      "subtopic": "Porphyrias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-k-11",
+      "type": "single-best",
+      "stem": "Sources of haem for catabolism include:\nI. Haemoglobin from senescent red cells\nII. Cytochrome P450 and other haem proteins\nIII. Haem from ineffective erythropoiesis",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "All three contribute to the haem that is catabolised.",
+      "topicId": "haem",
+      "subtopic": "Haem catabolism",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-k-12",
+      "type": "single-best",
+      "stem": "ALA dehydratase (porphobilinogen synthase):\nI. Converts porphobilinogen to hydroxymethylbilane\nII. Requires zinc for activity\nIII. Is inhibited by lead",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "II and III are true; it condenses two ALA to form PBG (not PBG to HMB), so I is false.",
+      "topicId": "haem",
+      "subtopic": "Haem synthesis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem-ex-01",
+      "type": "single-best",
+      "stem": "All of the following are haem-containing proteins EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "myoglobin"
+        },
+        {
+          "label": "B",
+          "text": "catalase"
+        },
+        {
+          "label": "C",
+          "text": "cytochrome oxidase"
+        },
+        {
+          "label": "D",
+          "text": "creatine kinase"
+        },
+        {
+          "label": "E",
+          "text": "haemoglobin"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Creatine kinase is not a haem protein; the others all contain haem.",
+      "topicId": "haem",
+      "subtopic": "Haem synthesis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem-ex-02",
+      "type": "single-best",
+      "stem": "All of the following enzymes act in the haem SYNTHESIS pathway EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "ALA synthase"
+        },
+        {
+          "label": "B",
+          "text": "ALA dehydratase"
+        },
+        {
+          "label": "C",
+          "text": "PBG deaminase"
+        },
+        {
+          "label": "D",
+          "text": "ferrochelatase"
+        },
+        {
+          "label": "E",
+          "text": "biliverdin reductase"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Biliverdin reductase belongs to haem catabolism, not synthesis.",
+      "topicId": "haem",
+      "subtopic": "Haem synthesis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem-ex-03",
+      "type": "single-best",
+      "stem": "All of the following are true of haem oxygenase EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "it requires zinc as a cofactor"
+        },
+        {
+          "label": "B",
+          "text": "it releases carbon monoxide"
+        },
+        {
+          "label": "C",
+          "text": "it produces biliverdin"
+        },
+        {
+          "label": "D",
+          "text": "it uses haem as its substrate"
+        },
+        {
+          "label": "E",
+          "text": "it is substrate-inducible"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Zinc is the cofactor of ALA dehydratase, not haem oxygenase.",
+      "topicId": "haem",
+      "subtopic": "Haem catabolism",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem-ex-04",
+      "type": "single-best",
+      "stem": "All of the following occur in lead poisoning EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "a hypochromic anaemia"
+        },
+        {
+          "label": "B",
+          "text": "increased overall haem synthesis"
+        },
+        {
+          "label": "C",
+          "text": "raised urinary ALA"
+        },
+        {
+          "label": "D",
+          "text": "inhibition of ferrochelatase"
+        },
+        {
+          "label": "E",
+          "text": "raised coproporphyrin"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Lead reduces haem synthesis; the de-repression raises ALA but output falls.",
+      "topicId": "haem",
+      "subtopic": "Lead poisoning",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem-ex-05",
+      "type": "single-best",
+      "stem": "All of the following cause predominantly UNCONJUGATED hyperbilirubinaemia EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Crigler-Najjar syndrome"
+        },
+        {
+          "label": "B",
+          "text": "physiological neonatal jaundice"
+        },
+        {
+          "label": "C",
+          "text": "gallstone obstruction of the bile duct"
+        },
+        {
+          "label": "D",
+          "text": "haemolysis"
+        },
+        {
+          "label": "E",
+          "text": "Gilbert's syndrome"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Bile-duct obstruction is post-hepatic and raises CONJUGATED bilirubin.",
+      "topicId": "haem",
+      "subtopic": "Jaundice",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem-ex-06",
+      "type": "single-best",
+      "stem": "All of the following are features of the porphyrias EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "mostly autosomal dominant inheritance"
+        },
+        {
+          "label": "B",
+          "text": "attacks triggered by certain drugs"
+        },
+        {
+          "label": "C",
+          "text": "an enzyme defect in the haem pathway"
+        },
+        {
+          "label": "D",
+          "text": "a complete absence of haem synthesis"
+        },
+        {
+          "label": "E",
+          "text": "accumulation of toxic haem precursors"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Some haem is still made (≈50% enzyme activity); synthesis is not absent.",
+      "topicId": "haem",
+      "subtopic": "Porphyrias",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem-sba-01",
+      "type": "single-best",
+      "stem": "The rate-limiting enzyme of haem biosynthesis is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "ALA dehydratase"
+        },
+        {
+          "label": "B",
+          "text": "PBG deaminase"
+        },
+        {
+          "label": "C",
+          "text": "ferrochelatase"
+        },
+        {
+          "label": "D",
+          "text": "uroporphyrinogen III synthase"
+        },
+        {
+          "label": "E",
+          "text": "ALA synthase"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "ALA synthase catalyses the committed, rate-limiting step.",
+      "topicId": "haem",
+      "subtopic": "Haem synthesis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem-sba-02",
+      "type": "single-best",
+      "stem": "Haem synthesis begins with the condensation of glycine with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "succinyl-CoA"
+        },
+        {
+          "label": "B",
+          "text": "acetyl-CoA"
+        },
+        {
+          "label": "C",
+          "text": "malonyl-CoA"
+        },
+        {
+          "label": "D",
+          "text": "propionyl-CoA"
+        },
+        {
+          "label": "E",
+          "text": "acetoacetyl-CoA"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Glycine condenses with succinyl-CoA to form ALA.",
+      "topicId": "haem",
+      "subtopic": "Haem synthesis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem-sba-03",
+      "type": "single-best",
+      "stem": "The porphyrin found combined with iron in haem is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "biliverdin IX"
+        },
+        {
+          "label": "B",
+          "text": "protoporphyrin IX"
+        },
+        {
+          "label": "C",
+          "text": "coproporphyrinogen III"
+        },
+        {
+          "label": "D",
+          "text": "uroporphyrinogen I"
+        },
+        {
+          "label": "E",
+          "text": "hydroxymethylbilane"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Haem is ferroprotoporphyrin IX - protoporphyrin IX plus ferrous iron.",
+      "topicId": "haem",
+      "subtopic": "Haem synthesis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem-sba-04",
+      "type": "single-best",
+      "stem": "The enzyme that inserts iron into protoporphyrin IX is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "haem oxygenase"
+        },
+        {
+          "label": "B",
+          "text": "biliverdin reductase"
+        },
+        {
+          "label": "C",
+          "text": "ferrochelatase"
+        },
+        {
+          "label": "D",
+          "text": "ALA synthase"
+        },
+        {
+          "label": "E",
+          "text": "PBG deaminase"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Ferrochelatase (haem synthase) inserts Fe2+ into protoporphyrin IX.",
+      "topicId": "haem",
+      "subtopic": "Haem synthesis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem-sba-05",
+      "type": "single-best",
+      "stem": "The only endogenous source of carbon monoxide is the reaction catalysed by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "ferrochelatase"
+        },
+        {
+          "label": "B",
+          "text": "glucuronyl transferase"
+        },
+        {
+          "label": "C",
+          "text": "ALA synthase"
+        },
+        {
+          "label": "D",
+          "text": "haem oxygenase"
+        },
+        {
+          "label": "E",
+          "text": "biliverdin reductase"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Haem oxygenase releases CO as it opens the haem ring.",
+      "topicId": "haem",
+      "subtopic": "Haem catabolism",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem-sba-06",
+      "type": "single-best",
+      "stem": "Unconjugated bilirubin is made water-soluble in the liver by conjugation with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "sulfate ions"
+        },
+        {
+          "label": "B",
+          "text": "glycine residues"
+        },
+        {
+          "label": "C",
+          "text": "taurine residues"
+        },
+        {
+          "label": "D",
+          "text": "glutathione"
+        },
+        {
+          "label": "E",
+          "text": "glucuronic acid"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "UDP-glucuronyl transferase conjugates bilirubin with glucuronic acid.",
+      "topicId": "haem",
+      "subtopic": "Haem catabolism",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem-sba-07",
+      "type": "single-best",
+      "stem": "The enzyme deficient in acute intermittent porphyria is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "porphobilinogen deaminase"
+        },
+        {
+          "label": "B",
+          "text": "uroporphyrinogen decarboxylase"
+        },
+        {
+          "label": "C",
+          "text": "ferrochelatase"
+        },
+        {
+          "label": "D",
+          "text": "ALA dehydratase"
+        },
+        {
+          "label": "E",
+          "text": "ALA synthase"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "AIP results from porphobilinogen deaminase deficiency.",
+      "topicId": "haem",
+      "subtopic": "Porphyrias",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem-sba-08",
+      "type": "single-best",
+      "stem": "Kernicterus in the newborn results from brain deposition of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "stercobilin"
+        },
+        {
+          "label": "B",
+          "text": "unconjugated bilirubin"
+        },
+        {
+          "label": "C",
+          "text": "conjugated bilirubin"
+        },
+        {
+          "label": "D",
+          "text": "biliverdin"
+        },
+        {
+          "label": "E",
+          "text": "urobilinogen"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Lipophilic unconjugated bilirubin crosses the immature blood-brain barrier.",
+      "topicId": "haem",
+      "subtopic": "Jaundice",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem-sba-09",
+      "type": "single-best",
+      "stem": "In the intestine, bacteria convert bilirubin into the colourless compound:",
+      "options": [
+        {
+          "label": "A",
+          "text": "protoporphyrin"
+        },
+        {
+          "label": "B",
+          "text": "haemin"
+        },
+        {
+          "label": "C",
+          "text": "urobilinogen"
+        },
+        {
+          "label": "D",
+          "text": "biliverdin"
+        },
+        {
+          "label": "E",
+          "text": "bilirubin diglucuronide"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Gut bacteria reduce bilirubin to colourless urobilinogen (stercobilinogen).",
+      "topicId": "haem",
+      "subtopic": "Haem catabolism",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem-sba-10",
+      "type": "single-best",
+      "stem": "The enzyme deficient in porphyria cutanea tarda is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "ferrochelatase"
+        },
+        {
+          "label": "B",
+          "text": "ALA dehydratase"
+        },
+        {
+          "label": "C",
+          "text": "coproporphyrinogen oxidase"
+        },
+        {
+          "label": "D",
+          "text": "uroporphyrinogen decarboxylase"
+        },
+        {
+          "label": "E",
+          "text": "porphobilinogen deaminase"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "PCT is due to uroporphyrinogen decarboxylase deficiency.",
+      "topicId": "haem",
+      "subtopic": "Porphyrias",
+      "difficulty": "medium"
     }
   ]
 }
