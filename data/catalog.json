@@ -177,7 +177,8 @@
                     "data/biochem/sem1-past.json"
                   ],
                   "curated": [
-                    "data/biochem/sem1-curated.json"
+                    "data/biochem/sem1-curated.json",
+                    "data/biochem/coag-curated.json"
                   ]
                 }
               ]
@@ -195,7 +196,15 @@
                     "data/biochem/sem2-past.json"
                   ],
                   "curated": [
-                    "data/biochem/sem2-curated.json"
+                    "data/biochem/sem2-curated.json",
+                    "data/biochem/visual-curated.json",
+                    "data/biochem/collagen-curated.json",
+                    "data/biochem/endocrine-curated.json",
+                    "data/biochem/immunology-core-curated.json",
+                    "data/biochem/immunology-advanced-curated.json",
+                    "data/biochem/nucleic-structure-curated.json",
+                    "data/biochem/nucleic-expression-curated.json",
+                    "data/biochem/recombinant-curated.json"
                   ]
                 }
               ]
