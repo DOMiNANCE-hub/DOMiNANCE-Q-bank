@@ -25993,31 +25993,31 @@
     {
       "id": "dq-bio-nuc-052",
       "type": "single-best",
-      "stem": "What three enzymatic activities form the mammalian CAD multifunctional protein?",
+      "stem": "Which multifunctional complex catalyses the first three steps of mammalian pyrimidine synthesis?",
       "options": [
         {
           "label": "A",
-          "text": "CPS I, arginase and OTC"
+          "text": "GART"
         },
         {
           "label": "B",
-          "text": "CPS II, ATCase and dihydroorotase"
+          "text": "CAD"
         },
         {
           "label": "C",
-          "text": "HGPRT, APRT and ADA"
+          "text": "ATIC"
         },
         {
           "label": "D",
-          "text": "RNR, kinase and ligase"
+          "text": "PAICS"
         },
         {
           "label": "E",
-          "text": "OMP decarboxylase and OPRT"
+          "text": "HGPRT"
         }
       ],
       "correctAnswer": "B",
-      "why": "CAD combines the first three cytosolic reactions of de novo pyrimidine synthesis.",
+      "why": "CAD contains carbamoyl phosphate synthetase II, aspartate transcarbamoylase and dihydroorotase activities.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine organization",
       "difficulty": "medium"
@@ -26281,31 +26281,31 @@
     {
       "id": "dq-bio-nuc-061",
       "type": "single-best",
-      "stem": "Thymine degradation ultimately yields which amino acid derivative?",
+      "stem": "Which pyrimidine base produces beta-aminoisobutyrate during its breakdown?",
       "options": [
         {
           "label": "A",
-          "text": "Beta-aminoisobutyrate"
+          "text": "Thymine"
         },
         {
           "label": "B",
-          "text": "Beta-alanine"
+          "text": "Uracil"
         },
         {
           "label": "C",
-          "text": "Glycine"
+          "text": "Cytosine"
         },
         {
           "label": "D",
-          "text": "Homocysteine"
+          "text": "Adenine"
         },
         {
           "label": "E",
-          "text": "Glutamate"
+          "text": "Guanine"
         }
       ],
       "correctAnswer": "A",
-      "why": "Pyrimidine catabolism converts thymine to beta-aminoisobutyrate.",
+      "why": "Thymine is degraded to beta-aminoisobutyrate; uracil instead yields beta-alanine.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine catabolism",
       "difficulty": "medium"
@@ -26377,31 +26377,31 @@
     {
       "id": "dq-bio-nuc-064",
       "type": "single-best",
-      "stem": "Why does diminished dihydropyrimidine dehydrogenase activity increase fluorouracil toxicity?",
+      "stem": "Beta-alanine generated during uracil degradation can contribute to synthesis of which compound?",
       "options": [
         {
           "label": "A",
-          "text": "Its conversion into folic acid is accelerated"
+          "text": "A purine nucleotide"
         },
         {
           "label": "B",
-          "text": "Its entry into plasma is permanently prevented"
+          "text": "A pyrimidine base"
         },
         {
           "label": "C",
-          "text": "Its binding to serum albumin is abolished"
+          "text": "A heme prosthetic group"
         },
         {
           "label": "D",
-          "text": "Its normal catabolism is substantially reduced"
+          "text": "Coenzyme A"
         },
         {
           "label": "E",
-          "text": "Its conversion into purine bases is increased"
+          "text": "A steroid hormone"
         }
       ],
       "correctAnswer": "D",
-      "why": "DPD catabolizes most administered 5-fluorouracil; deficiency increases exposure and severe toxicity.",
+      "why": "The nucleotide metabolism slide identifies beta-alanine as a contributor to coenzyme A formation.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine catabolism",
       "difficulty": "hard"
@@ -26573,11 +26573,11 @@
       "options": [
         {
           "label": "A",
-          "text": "Heme oxygenase reaction"
+          "text": "Haem catabolism"
         },
         {
           "label": "B",
-          "text": "Oxidative phosphorylation"
+          "text": "Glucose oxidation"
         },
         {
           "label": "C",
@@ -26589,11 +26589,11 @@
         },
         {
           "label": "E",
-          "text": "Purine nucleotide biosynthesis"
+          "text": "Purine biosynthesis"
         }
       ],
       "correctAnswer": "E",
-      "why": "The active metabolites of 6-mercaptopurine suppress de novo purine synthesis and nucleotide interconversion.",
+      "why": "Six-mercaptopurine metabolites inhibit pathways of de novo purine nucleotide production.",
       "topicId": "nucleotides",
       "subtopic": "Nucleotide analogues",
       "difficulty": "medium"
@@ -26628,6 +26628,262 @@
       "why": "NMP kinases use an NTP phosphate donor to make an NDP.",
       "topicId": "nucleotides",
       "subtopic": "Nucleotide metabolism",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-nuc-072",
+      "type": "single-best",
+      "stem": "Which carbon of the purine ring originates from bicarbonate during de novo synthesis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "C2"
+        },
+        {
+          "label": "B",
+          "text": "C6"
+        },
+        {
+          "label": "C",
+          "text": "C4"
+        },
+        {
+          "label": "D",
+          "text": "C5"
+        },
+        {
+          "label": "E",
+          "text": "C8"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Carbon dioxide contributes carbon 6 of the purine ring.",
+      "topicId": "nucleotides",
+      "subtopic": "Purine ring assembly",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-nuc-073",
+      "type": "single-best",
+      "stem": "Why is hydrolysis of pyrophosphate relevant to the committed purine biosynthetic step?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It supplies the ring carbon from glycine"
+        },
+        {
+          "label": "B",
+          "text": "It directly converts IMP into AMP"
+        },
+        {
+          "label": "C",
+          "text": "It helps drive the step forward"
+        },
+        {
+          "label": "D",
+          "text": "It releases ATP from the nucleotide"
+        },
+        {
+          "label": "E",
+          "text": "It allows uracil to bind PRPP"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Removal and hydrolysis of pyrophosphate favour formation of phosphoribosylamine and make the committed reaction effectively irreversible.",
+      "topicId": "nucleotides",
+      "subtopic": "Purine synthesis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-nuc-074",
+      "type": "single-best",
+      "stem": "A drug reduces tetrahydrofolate availability. Why can it impede de novo purine synthesis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The ring is composed entirely of folate"
+        },
+        {
+          "label": "B",
+          "text": "Only PRPP synthetase depends on folate"
+        },
+        {
+          "label": "C",
+          "text": "Folate directly degrades purine bases"
+        },
+        {
+          "label": "D",
+          "text": "Two formylation reactions need folate"
+        },
+        {
+          "label": "E",
+          "text": "Folate is the phosphate donor for AMP"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "N10-formyl-THF contributes C2 and C8; antifolate drugs can interfere with de novo purine synthesis.",
+      "topicId": "nucleotides",
+      "subtopic": "Purine inhibition",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-nuc-075",
+      "type": "single-best",
+      "stem": "Pancreatic nucleases acting on ingested nucleic acids first generate which type of fragments?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Free purine bases"
+        },
+        {
+          "label": "B",
+          "text": "Free phosphate alone"
+        },
+        {
+          "label": "C",
+          "text": "Uric acid crystals"
+        },
+        {
+          "label": "D",
+          "text": "Ribose monomers"
+        },
+        {
+          "label": "E",
+          "text": "Oligonucleotides"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Dietary DNA and RNA are cut by nucleases into smaller oligonucleotides before further degradation.",
+      "topicId": "nucleotides",
+      "subtopic": "Purine degradation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-nuc-076",
+      "type": "single-best",
+      "stem": "A chemical inhibits orotidylate decarboxylase. Which compound would accumulate immediately upstream?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Orotidine monophosphate"
+        },
+        {
+          "label": "B",
+          "text": "Uridine monophosphate"
+        },
+        {
+          "label": "C",
+          "text": "Guanosine monophosphate"
+        },
+        {
+          "label": "D",
+          "text": "Adenosine monophosphate"
+        },
+        {
+          "label": "E",
+          "text": "Cytidine triphosphate"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Orotidine monophosphate is the direct substrate of the inhibited decarboxylase.",
+      "topicId": "nucleotides",
+      "subtopic": "Pyrimidine regulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-nuc-077",
+      "type": "single-best",
+      "stem": "How many separate proteins contain the six key enzyme activities of mammalian de novo pyrimidine synthesis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Six independent proteins"
+        },
+        {
+          "label": "B",
+          "text": "Three multifunctional proteins"
+        },
+        {
+          "label": "C",
+          "text": "Two multifunctional proteins"
+        },
+        {
+          "label": "D",
+          "text": "Five independent proteins"
+        },
+        {
+          "label": "E",
+          "text": "One multifunctional protein"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The six activities are distributed across CAD, mitochondrial DHODH and bifunctional UMP synthase.",
+      "topicId": "nucleotides",
+      "subtopic": "Pyrimidine organization",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-nuc-078",
+      "type": "single-best",
+      "stem": "Which intermediate is formed just before the ribose-bearing nucleotide OMP appears?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uridine"
+        },
+        {
+          "label": "B",
+          "text": "Cytidine"
+        },
+        {
+          "label": "C",
+          "text": "Orotate"
+        },
+        {
+          "label": "D",
+          "text": "Xanthine"
+        },
+        {
+          "label": "E",
+          "text": "Dihydroorotate"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Dihydroorotate is oxidized to orotate, which next receives ribose phosphate from PRPP to yield OMP.",
+      "topicId": "nucleotides",
+      "subtopic": "Pyrimidine synthesis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-nuc-079",
+      "type": "single-best",
+      "stem": "Which product from inosine phosphorolysis may be reused to regenerate ribose-5-phosphate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glucose-1-phosphate"
+        },
+        {
+          "label": "B",
+          "text": "Fructose-6-phosphate"
+        },
+        {
+          "label": "C",
+          "text": "Ribulose-1,5-bisphosphate"
+        },
+        {
+          "label": "D",
+          "text": "Ribose-1-phosphate"
+        },
+        {
+          "label": "E",
+          "text": "Deoxyribose-1-phosphate"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Purine nucleoside phosphorylase releases ribose-1-phosphate, which can be converted for re-use in PRPP synthesis.",
+      "topicId": "nucleotides",
+      "subtopic": "Purine metabolism",
       "difficulty": "medium"
     }
   ]
