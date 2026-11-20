@@ -1954,6 +1954,1478 @@
       "topicId": "endo-calcium",
       "subtopic": "Calcitonin",
       "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-062",
+      "type": "single-best",
+      "stem": "A lesion confined to the zona glomerulosa primarily changes secretion of which hormone?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cortisol"
+        },
+        {
+          "label": "B",
+          "text": "Aldosterone"
+        },
+        {
+          "label": "C",
+          "text": "Dehydroepiandrosterone"
+        },
+        {
+          "label": "D",
+          "text": "Adrenaline"
+        },
+        {
+          "label": "E",
+          "text": "Noradrenaline"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The outer adrenal cortical zone produces mineralocorticoids, principally aldosterone.",
+      "topicId": "endo-adrenal",
+      "subtopic": "Adrenal zones",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-063",
+      "type": "single-best",
+      "stem": "Which adrenal layer produces most circulating cortisol in a healthy adult?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zona glomerulosa"
+        },
+        {
+          "label": "B",
+          "text": "Zona reticularis"
+        },
+        {
+          "label": "C",
+          "text": "Zona fasciculata"
+        },
+        {
+          "label": "D",
+          "text": "Adrenal medulla"
+        },
+        {
+          "label": "E",
+          "text": "Adrenal capsule"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The zona fasciculata produces most cortisol.",
+      "topicId": "endo-adrenal",
+      "subtopic": "Adrenal zones",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-064",
+      "type": "single-best",
+      "stem": "Selective loss of zona reticularis activity most directly decreases what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adrenaline production"
+        },
+        {
+          "label": "B",
+          "text": "Aldosterone production"
+        },
+        {
+          "label": "C",
+          "text": "Thyroxine production"
+        },
+        {
+          "label": "D",
+          "text": "Adrenal androgen production"
+        },
+        {
+          "label": "E",
+          "text": "Pancreatic insulin release"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The zona reticularis contributes androgen precursors such as DHEA.",
+      "topicId": "endo-adrenal",
+      "subtopic": "Adrenal zones",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-065",
+      "type": "single-best",
+      "stem": "Which sequence describes the hypothalamic-pituitary-adrenal regulatory axis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "TRH then TSH then cortisol"
+        },
+        {
+          "label": "B",
+          "text": "GnRH then LH then cortisol"
+        },
+        {
+          "label": "C",
+          "text": "GHRH then GH then cortisol"
+        },
+        {
+          "label": "D",
+          "text": "CRH then TSH then cortisol"
+        },
+        {
+          "label": "E",
+          "text": "CRH then ACTH then cortisol"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "CRH stimulates ACTH release, which drives adrenal cortisol synthesis.",
+      "topicId": "endo-adrenal",
+      "subtopic": "Cortisol regulation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-066",
+      "type": "single-best",
+      "stem": "Why can abrupt withdrawal of prolonged high-dose glucocorticoids cause adrenal insufficiency?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chronic ACTH suppression"
+        },
+        {
+          "label": "B",
+          "text": "Acute adrenal medullary loss"
+        },
+        {
+          "label": "C",
+          "text": "Aldosterone receptor destruction"
+        },
+        {
+          "label": "D",
+          "text": "Complete loss of renal renin"
+        },
+        {
+          "label": "E",
+          "text": "Thyroid hormone receptor loss"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Exogenous glucocorticoids inhibit CRH and ACTH, causing adrenal cortical suppression.",
+      "topicId": "endo-adrenal",
+      "subtopic": "Cortisol regulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-067",
+      "type": "single-best",
+      "stem": "Which hepatic metabolic process is enhanced by cortisol during prolonged fasting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glucose uptake"
+        },
+        {
+          "label": "B",
+          "text": "Gluconeogenesis"
+        },
+        {
+          "label": "C",
+          "text": "Glycogenolysis inhibition"
+        },
+        {
+          "label": "D",
+          "text": "Triglyceride synthesis only"
+        },
+        {
+          "label": "E",
+          "text": "Glucose oxidation only"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Cortisol stimulates hepatic gluconeogenesis and mobilizes amino acid substrates.",
+      "topicId": "endo-adrenal",
+      "subtopic": "Cortisol metabolism",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-068",
+      "type": "single-best",
+      "stem": "Long-term glucocorticoid treatment causes easy bruising and delayed wound healing. Why?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased dermal collagen"
+        },
+        {
+          "label": "B",
+          "text": "More dermal fibroblasts"
+        },
+        {
+          "label": "C",
+          "text": "Reduced collagen synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Enhanced capillary strength"
+        },
+        {
+          "label": "E",
+          "text": "Increased elastin formation"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Cortisol suppresses collagen formation, weakening skin and vascular walls.",
+      "topicId": "endo-adrenal",
+      "subtopic": "Cortisol metabolism",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-069",
+      "type": "single-best",
+      "stem": "What mechanism helps explain steroid-induced osteoporosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Enhanced osteoblast proliferation"
+        },
+        {
+          "label": "B",
+          "text": "More gut calcium absorption"
+        },
+        {
+          "label": "C",
+          "text": "Increased bone collagen synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Suppressed osteoblast activity"
+        },
+        {
+          "label": "E",
+          "text": "Complete blockade of osteoclasts"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Cortisol reduces bone formation and can impair intestinal calcium absorption.",
+      "topicId": "endo-adrenal",
+      "subtopic": "Cortisol metabolism",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-070",
+      "type": "single-best",
+      "stem": "Why can severe glucocorticoid deficiency produce hypotension during acute stress?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Enhanced vascular alpha sensitivity"
+        },
+        {
+          "label": "B",
+          "text": "Excess renal sodium retention"
+        },
+        {
+          "label": "C",
+          "text": "Enhanced cardiac beta activity"
+        },
+        {
+          "label": "D",
+          "text": "Increased circulating angiotensin II"
+        },
+        {
+          "label": "E",
+          "text": "Impaired catecholamine responsiveness"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Cortisol supports normal vascular response to catecholamines.",
+      "topicId": "endo-adrenal",
+      "subtopic": "Cortisol physiology",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-071",
+      "type": "single-best",
+      "stem": "A patient has low BP, hyperkalaemia, hyponatraemia and hyperpigmentation. What is most likely?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Primary adrenal insufficiency"
+        },
+        {
+          "label": "B",
+          "text": "Secondary adrenal insufficiency"
+        },
+        {
+          "label": "C",
+          "text": "Primary hyperaldosteronism"
+        },
+        {
+          "label": "D",
+          "text": "ACTH-secreting pituitary tumour"
+        },
+        {
+          "label": "E",
+          "text": "Adrenal medullary hyperfunction"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Primary adrenal failure lowers cortisol and aldosterone while ACTH rises.",
+      "topicId": "endo-adrenal",
+      "subtopic": "Adrenal insufficiency",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-072",
+      "type": "single-best",
+      "stem": "A patient has low cortisol but preserved aldosterone and no hyperpigmentation. What defect is most likely?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bilateral adrenal destruction"
+        },
+        {
+          "label": "B",
+          "text": "Pituitary ACTH deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Primary glomerulosa failure"
+        },
+        {
+          "label": "D",
+          "text": "Bilateral adrenal haemorrhage"
+        },
+        {
+          "label": "E",
+          "text": "Congenital aldosterone absence"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Secondary adrenal insufficiency often preserves RAAS-controlled aldosterone production.",
+      "topicId": "endo-adrenal",
+      "subtopic": "Adrenal insufficiency",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-073",
+      "type": "single-best",
+      "stem": "Aldosterone has which direct effect on the late distal nephron?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increases sodium excretion"
+        },
+        {
+          "label": "B",
+          "text": "Reduces potassium secretion"
+        },
+        {
+          "label": "C",
+          "text": "Increases sodium reabsorption"
+        },
+        {
+          "label": "D",
+          "text": "Reduces hydrogen secretion"
+        },
+        {
+          "label": "E",
+          "text": "Blocks sodium channels"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Aldosterone promotes sodium uptake and potassium and hydrogen ion secretion.",
+      "topicId": "endo-adrenal",
+      "subtopic": "Aldosterone",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-074",
+      "type": "single-best",
+      "stem": "Hypertension, hypokalaemia and metabolic alkalosis suggest excess secretion of what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vasopressin"
+        },
+        {
+          "label": "B",
+          "text": "Calcitonin"
+        },
+        {
+          "label": "C",
+          "text": "Somatostatin"
+        },
+        {
+          "label": "D",
+          "text": "Aldosterone"
+        },
+        {
+          "label": "E",
+          "text": "Thyroxine"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Mineralocorticoid excess retains sodium while increasing potassium and hydrogen loss.",
+      "topicId": "endo-adrenal",
+      "subtopic": "Aldosterone",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-075",
+      "type": "single-best",
+      "stem": "Renin release in response to poor renal perfusion originates mainly from which cells?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Proximal tubular epithelial cells"
+        },
+        {
+          "label": "B",
+          "text": "Adrenal chromaffin cells"
+        },
+        {
+          "label": "C",
+          "text": "Glomerular podocytes"
+        },
+        {
+          "label": "D",
+          "text": "Collecting-duct principal cells"
+        },
+        {
+          "label": "E",
+          "text": "Juxtaglomerular granular cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Juxtaglomerular granular cells produce and secrete renin.",
+      "topicId": "endo-adrenal",
+      "subtopic": "RAAS",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-076",
+      "type": "single-best",
+      "stem": "Which enzyme converts angiotensin I to angiotensin II in the circulation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Angiotensin-converting enzyme"
+        },
+        {
+          "label": "B",
+          "text": "Renin from juxtaglomerular cells"
+        },
+        {
+          "label": "C",
+          "text": "Cortical aldosterone synthase"
+        },
+        {
+          "label": "D",
+          "text": "Adrenal 11-beta-hydroxylase"
+        },
+        {
+          "label": "E",
+          "text": "Gonadal aromatase enzyme"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "ACE converts angiotensin I to II, notably at pulmonary endothelium.",
+      "topicId": "endo-adrenal",
+      "subtopic": "RAAS",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-077",
+      "type": "single-best",
+      "stem": "Which disturbance directly promotes aldosterone secretion independent of ACTH?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reduced plasma potassium"
+        },
+        {
+          "label": "B",
+          "text": "Raised plasma potassium"
+        },
+        {
+          "label": "C",
+          "text": "Raised plasma sodium"
+        },
+        {
+          "label": "D",
+          "text": "Reduced plasma angiotensin II"
+        },
+        {
+          "label": "E",
+          "text": "Reduced renal renin output"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Hyperkalaemia directly stimulates adrenal glomerulosa cells.",
+      "topicId": "endo-adrenal",
+      "subtopic": "RAAS",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-078",
+      "type": "single-best",
+      "stem": "What directly stimulates chromaffin cells during an acute sympathetic response?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Postganglionic parasympathetic ACh"
+        },
+        {
+          "label": "B",
+          "text": "Anterior pituitary oxytocin"
+        },
+        {
+          "label": "C",
+          "text": "Preganglionic acetylcholine"
+        },
+        {
+          "label": "D",
+          "text": "Adrenal cortical cortisol"
+        },
+        {
+          "label": "E",
+          "text": "Circulating angiotensin I"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Chromaffin cells are stimulated by cholinergic sympathetic preganglionic fibres.",
+      "topicId": "endo-adrenal",
+      "subtopic": "Adrenal medulla",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-079",
+      "type": "single-best",
+      "stem": "A patient has episodic sweating, severe headaches and hypertension. Which investigation supports a medullary tumour?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reduced urinary catecholamines"
+        },
+        {
+          "label": "B",
+          "text": "Persistently low blood glucose"
+        },
+        {
+          "label": "C",
+          "text": "Absent circulating adrenaline"
+        },
+        {
+          "label": "D",
+          "text": "Elevated plasma metanephrines"
+        },
+        {
+          "label": "E",
+          "text": "Low urinary catecholamine metabolites"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Phaeochromocytoma produces excess catecholamines; fractionated metanephrines are useful biochemical markers.",
+      "topicId": "endo-adrenal",
+      "subtopic": "Adrenal medulla",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-080",
+      "type": "single-best",
+      "stem": "At modest concentrations, adrenaline dilates arterioles in skeletal muscle through which receptor?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alpha-1 adrenergic receptor"
+        },
+        {
+          "label": "B",
+          "text": "Muscarinic M3 receptor"
+        },
+        {
+          "label": "C",
+          "text": "Angiotensin AT1 receptor"
+        },
+        {
+          "label": "D",
+          "text": "Vasopressin V1 receptor"
+        },
+        {
+          "label": "E",
+          "text": "Beta-2 adrenergic receptor"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Beta-2 activation relaxes arteriolar smooth muscle in skeletal muscle.",
+      "topicId": "endo-adrenal",
+      "subtopic": "Catecholamines",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-081",
+      "type": "single-best",
+      "stem": "What is a characteristic cardiac effect of beta-1 receptor stimulation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased myocardial contractility"
+        },
+        {
+          "label": "B",
+          "text": "Reduced nodal conduction speed"
+        },
+        {
+          "label": "C",
+          "text": "Reduced sinoatrial firing rate"
+        },
+        {
+          "label": "D",
+          "text": "Reduced myocardial calcium entry"
+        },
+        {
+          "label": "E",
+          "text": "Reduced myocardial cyclic AMP"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Beta-1 signalling increases contractility, heart rate and atrioventricular conduction.",
+      "topicId": "endo-adrenal",
+      "subtopic": "Catecholamines",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-082",
+      "type": "single-best",
+      "stem": "A patient develops truncal fat gain, wide purple striae and proximal weakness. Which process explains the weakness?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reduced hepatic glucose output"
+        },
+        {
+          "label": "B",
+          "text": "Increased skeletal muscle catabolism"
+        },
+        {
+          "label": "C",
+          "text": "Decreased protein degradation"
+        },
+        {
+          "label": "D",
+          "text": "Increased muscle protein synthesis"
+        },
+        {
+          "label": "E",
+          "text": "Increased peripheral glucose uptake"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Excess cortisol breaks down proteins and produces proximal myopathy.",
+      "topicId": "endo-adrenal",
+      "subtopic": "Cushing syndrome",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-083",
+      "type": "single-best",
+      "stem": "An ACTH-secreting pituitary adenoma leads to cortisol excess. What is this specifically called?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Addison disease"
+        },
+        {
+          "label": "B",
+          "text": "Conn syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Cushing disease"
+        },
+        {
+          "label": "D",
+          "text": "Nelson syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Phaeochromocytoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Cushing disease denotes ACTH-dependent Cushing syndrome from a pituitary tumour.",
+      "topicId": "endo-adrenal",
+      "subtopic": "Cushing syndrome",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-084",
+      "type": "single-best",
+      "stem": "Which islet cells release somatostatin that locally inhibits other islet hormones?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alpha cells"
+        },
+        {
+          "label": "B",
+          "text": "Beta cells"
+        },
+        {
+          "label": "C",
+          "text": "PP cells"
+        },
+        {
+          "label": "D",
+          "text": "Delta cells"
+        },
+        {
+          "label": "E",
+          "text": "Acinar cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Delta cells secrete somatostatin, inhibiting neighbouring alpha and beta cells.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Pancreatic islets",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-085",
+      "type": "single-best",
+      "stem": "Which endocrine cell type releases pancreatic polypeptide?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alpha islet cells"
+        },
+        {
+          "label": "B",
+          "text": "Beta islet cells"
+        },
+        {
+          "label": "C",
+          "text": "Delta islet cells"
+        },
+        {
+          "label": "D",
+          "text": "Acinar duct cells"
+        },
+        {
+          "label": "E",
+          "text": "PP or F cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "PP or F cells produce pancreatic polypeptide.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Pancreatic islets",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-086",
+      "type": "single-best",
+      "stem": "Mature insulin is produced by cleaving which connecting component from proinsulin?",
+      "options": [
+        {
+          "label": "A",
+          "text": "C-peptide"
+        },
+        {
+          "label": "B",
+          "text": "A-chain peptide"
+        },
+        {
+          "label": "C",
+          "text": "B-chain peptide"
+        },
+        {
+          "label": "D",
+          "text": "Glucagon peptide"
+        },
+        {
+          "label": "E",
+          "text": "Somatostatin peptide"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Processing proinsulin releases insulin and connecting peptide in equimolar amounts.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Insulin synthesis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-087",
+      "type": "single-best",
+      "stem": "High insulin with very low C-peptide during hypoglycaemia most strongly suggests what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Endogenous beta-cell overactivity"
+        },
+        {
+          "label": "B",
+          "text": "Administration of exogenous insulin"
+        },
+        {
+          "label": "C",
+          "text": "Insulinoma secreting proinsulin"
+        },
+        {
+          "label": "D",
+          "text": "A large oral glucose load"
+        },
+        {
+          "label": "E",
+          "text": "Excess pancreatic glucagon release"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Injected insulin lacks C-peptide whereas endogenous insulin is released with C-peptide.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Insulin synthesis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-088",
+      "type": "single-best",
+      "stem": "After beta-cell glucose metabolism raises ATP, which membrane event begins insulin secretion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Opening of ATP-sensitive K channels"
+        },
+        {
+          "label": "B",
+          "text": "Closure of voltage-gated Ca channels"
+        },
+        {
+          "label": "C",
+          "text": "Closure of ATP-sensitive K channels"
+        },
+        {
+          "label": "D",
+          "text": "Blockade of all sodium channels"
+        },
+        {
+          "label": "E",
+          "text": "Opening of ATP-driven Cl channels"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Closure of KATP channels depolarizes the cell and opens calcium channels.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Insulin secretion",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-089",
+      "type": "single-best",
+      "stem": "Sulfonylureas stimulate beta-cell insulin output principally by what mechanism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Opening ATP-sensitive potassium channels"
+        },
+        {
+          "label": "B",
+          "text": "Blocking glucose entry into beta cells"
+        },
+        {
+          "label": "C",
+          "text": "Destruction of pancreatic alpha cells"
+        },
+        {
+          "label": "D",
+          "text": "Closing ATP-sensitive potassium channels"
+        },
+        {
+          "label": "E",
+          "text": "Blocking voltage-gated calcium entry"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Sulfonylureas close KATP channels via SUR1 to trigger depolarization.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Insulin secretion",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-090",
+      "type": "single-best",
+      "stem": "Why does oral glucose produce more insulin than equivalent intravenous glucose?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reduced portal glucose delivery"
+        },
+        {
+          "label": "B",
+          "text": "Increased adrenal catecholamines"
+        },
+        {
+          "label": "C",
+          "text": "Reduced pancreatic glucose entry"
+        },
+        {
+          "label": "D",
+          "text": "Enhanced renal glucose retention"
+        },
+        {
+          "label": "E",
+          "text": "Intestinal incretin effect"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Gut incretins amplify glucose-stimulated insulin release.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Insulin secretion",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-091",
+      "type": "single-best",
+      "stem": "Which autonomic receptor stimulation acutely suppresses insulin secretion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alpha-2 adrenergic receptor"
+        },
+        {
+          "label": "B",
+          "text": "Beta-2 adrenergic receptor"
+        },
+        {
+          "label": "C",
+          "text": "Muscarinic M3 receptor"
+        },
+        {
+          "label": "D",
+          "text": "GLP-1 peptide receptor"
+        },
+        {
+          "label": "E",
+          "text": "GIP peptide receptor"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Alpha-2 sympathetic signalling suppresses beta-cell insulin secretion.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Insulin secretion",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-092",
+      "type": "single-best",
+      "stem": "Insulin disappears rapidly from plasma chiefly through clearance by which organs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Heart and lungs"
+        },
+        {
+          "label": "B",
+          "text": "Liver and kidneys"
+        },
+        {
+          "label": "C",
+          "text": "Brain and muscle"
+        },
+        {
+          "label": "D",
+          "text": "Thyroid and bone"
+        },
+        {
+          "label": "E",
+          "text": "Intestine and spleen"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Hepatic and renal uptake account for much insulin degradation.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Insulin metabolism",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-093",
+      "type": "single-best",
+      "stem": "Which tissue increases glucose entry mainly through insulin-induced GLUT4 recruitment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cerebral cortex"
+        },
+        {
+          "label": "B",
+          "text": "Erythrocytes"
+        },
+        {
+          "label": "C",
+          "text": "Skeletal muscle"
+        },
+        {
+          "label": "D",
+          "text": "Hepatocytes"
+        },
+        {
+          "label": "E",
+          "text": "Intestinal mucosa"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Insulin translocates GLUT4 in skeletal muscle and adipose tissue.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Insulin action",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-094",
+      "type": "single-best",
+      "stem": "Which change follows insulin signalling in the liver after a carbohydrate-rich meal?",
+      "options": [
+        {
+          "label": "A",
+          "text": "More hepatic glycogenolysis"
+        },
+        {
+          "label": "B",
+          "text": "More hepatic glucose release"
+        },
+        {
+          "label": "C",
+          "text": "More hepatic ketone formation"
+        },
+        {
+          "label": "D",
+          "text": "Less hepatic gluconeogenesis"
+        },
+        {
+          "label": "E",
+          "text": "Less hepatic glycogen storage"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Insulin suppresses glucose production and promotes glycogen synthesis.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Insulin action",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-095",
+      "type": "single-best",
+      "stem": "Which effect of insulin on protein metabolism is most characteristic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increases net protein breakdown"
+        },
+        {
+          "label": "B",
+          "text": "Increases amino acid efflux"
+        },
+        {
+          "label": "C",
+          "text": "Inhibits all amino acid uptake"
+        },
+        {
+          "label": "D",
+          "text": "Increases muscle proteolysis"
+        },
+        {
+          "label": "E",
+          "text": "Increases net protein synthesis"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Insulin promotes amino acid uptake and protein anabolism.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Insulin action",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-096",
+      "type": "single-best",
+      "stem": "Which process explains falling free fatty acids after a meal as insulin rises?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reduced adipose triglyceride lipolysis"
+        },
+        {
+          "label": "B",
+          "text": "Enhanced adipose triglyceride lipolysis"
+        },
+        {
+          "label": "C",
+          "text": "Reduced triacylglycerol storage"
+        },
+        {
+          "label": "D",
+          "text": "Inhibited adipose lipoprotein lipase"
+        },
+        {
+          "label": "E",
+          "text": "Increased hormone-sensitive lipase"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Insulin suppresses hormone-sensitive lipase and enhances lipid storage.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Insulin action",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-097",
+      "type": "single-best",
+      "stem": "Insulin given with glucose for severe hyperkalaemia achieves which immediate shift?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Potassium moves into urine"
+        },
+        {
+          "label": "B",
+          "text": "Potassium moves into cells"
+        },
+        {
+          "label": "C",
+          "text": "Potassium binds in intestine"
+        },
+        {
+          "label": "D",
+          "text": "Potassium exits muscle cells"
+        },
+        {
+          "label": "E",
+          "text": "Potassium enters red cells only"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Insulin stimulates Na-K ATPase and shifts K into cells; glucose reduces hypoglycaemia risk.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Insulin action",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-098",
+      "type": "single-best",
+      "stem": "During exercise, contracting skeletal muscles take up glucose even with low insulin. How?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Suppression of muscle glucose transporters"
+        },
+        {
+          "label": "B",
+          "text": "Reduced muscle capillary perfusion"
+        },
+        {
+          "label": "C",
+          "text": "Contraction-mediated GLUT4 translocation"
+        },
+        {
+          "label": "D",
+          "text": "Complete loss of insulin receptors"
+        },
+        {
+          "label": "E",
+          "text": "Enhanced kidney glucose release"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Exercise recruits GLUT4 through contraction-dependent pathways.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Insulin action",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-099",
+      "type": "single-best",
+      "stem": "Insulin deficiency increases hepatic ketone production mainly by supplying which fuel?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glucose from skeletal muscle"
+        },
+        {
+          "label": "B",
+          "text": "Lactate from red blood cells"
+        },
+        {
+          "label": "C",
+          "text": "Glycogen from the brain"
+        },
+        {
+          "label": "D",
+          "text": "Free fatty acids from adipose"
+        },
+        {
+          "label": "E",
+          "text": "Protein from the pancreas"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Enhanced adipose lipolysis supplies fatty acids for hepatic beta-oxidation and ketogenesis.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Diabetes mellitus",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-100",
+      "type": "single-best",
+      "stem": "Why does marked hyperglycaemia cause excessive urine volume?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased collecting-duct ADH action"
+        },
+        {
+          "label": "B",
+          "text": "Excessive renal sodium uptake"
+        },
+        {
+          "label": "C",
+          "text": "Decreased filtration of glucose"
+        },
+        {
+          "label": "D",
+          "text": "Increased renal water permeability"
+        },
+        {
+          "label": "E",
+          "text": "Glucose-dependent osmotic diuresis"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "When the reabsorptive threshold is exceeded, tubular glucose retains water.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Diabetes mellitus",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-101",
+      "type": "single-best",
+      "stem": "Deep rapid Kussmaul breathing in diabetic ketoacidosis compensates for what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Metabolic acidemia"
+        },
+        {
+          "label": "B",
+          "text": "Primary respiratory alkalosis"
+        },
+        {
+          "label": "C",
+          "text": "Isolated hypernatraemia"
+        },
+        {
+          "label": "D",
+          "text": "Oxygen diffusion failure"
+        },
+        {
+          "label": "E",
+          "text": "High pulmonary surfactant"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The respiratory centre drives hyperventilation to reduce CO2 during metabolic acidosis.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Diabetes mellitus",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-102",
+      "type": "single-best",
+      "stem": "Which chronic diabetic complication primarily involves small-vessel pathology?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Coronary atherosclerosis"
+        },
+        {
+          "label": "B",
+          "text": "Diabetic retinopathy"
+        },
+        {
+          "label": "C",
+          "text": "Acute severe ketosis"
+        },
+        {
+          "label": "D",
+          "text": "Postural dehydration"
+        },
+        {
+          "label": "E",
+          "text": "Catecholamine palpitations"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Retinopathy is a classic microvascular complication, as are nephropathy and neuropathy.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Diabetes mellitus",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-103",
+      "type": "single-best",
+      "stem": "An obese adult has high circulating insulin but raised glucose. Which initial defect is most likely?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Complete beta-cell destruction"
+        },
+        {
+          "label": "B",
+          "text": "Absent pancreatic glucagon"
+        },
+        {
+          "label": "C",
+          "text": "Reduced tissue insulin sensitivity"
+        },
+        {
+          "label": "D",
+          "text": "Abnormal insulin disulfide bridges"
+        },
+        {
+          "label": "E",
+          "text": "Absent hepatic glucose stores"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Early type 2 diabetes often includes insulin resistance with compensatory hyperinsulinaemia.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Diabetes mellitus",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-104",
+      "type": "single-best",
+      "stem": "Sweating and confusion after excessive insulin occur because the brain is deprived of what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Circulating calcium"
+        },
+        {
+          "label": "B",
+          "text": "Mitochondrial oxygen"
+        },
+        {
+          "label": "C",
+          "text": "Stored glycogen only"
+        },
+        {
+          "label": "D",
+          "text": "Circulating glucose"
+        },
+        {
+          "label": "E",
+          "text": "Circulating cholesterol"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Severe hypoglycaemia causes adrenergic symptoms and neuroglycopenia.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Diabetes mellitus",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-endo-105",
+      "type": "single-best",
+      "stem": "Hyperglycaemia, dehydration and hypotension in uncontrolled diabetes are linked mainly by what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vasopressin causing water gain"
+        },
+        {
+          "label": "B",
+          "text": "Aldosterone causing sodium gain"
+        },
+        {
+          "label": "C",
+          "text": "Reduced urinary glucose filtration"
+        },
+        {
+          "label": "D",
+          "text": "Calcium-induced diuresis alone"
+        },
+        {
+          "label": "E",
+          "text": "Glycosuria causing fluid loss"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Glucosuria causes osmotic water and electrolyte loss, reducing circulating volume.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Diabetes mellitus",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-106",
+      "type": "single-best",
+      "stem": "During fasting, glucagon raises plasma glucose mainly through which liver pathways?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glycogenolysis and gluconeogenesis"
+        },
+        {
+          "label": "B",
+          "text": "Glycogenesis and fatty acid storage"
+        },
+        {
+          "label": "C",
+          "text": "Glycolysis and protein synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Triglyceride storage and uptake"
+        },
+        {
+          "label": "E",
+          "text": "Suppression of hepatic glucose output"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Glucagon increases hepatic glycogen breakdown and new glucose production.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Glucagon",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-endo-107",
+      "type": "single-best",
+      "stem": "Which metabolic signal usually reduces alpha-cell glucagon secretion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Falling plasma glucose"
+        },
+        {
+          "label": "B",
+          "text": "Rising plasma glucose"
+        },
+        {
+          "label": "C",
+          "text": "Increasing sympathetic drive"
+        },
+        {
+          "label": "D",
+          "text": "Prolonged overnight fasting"
+        },
+        {
+          "label": "E",
+          "text": "Exercise-related hypoglycaemia"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Glucose elevation and local beta-cell signals normally suppress glucagon.",
+      "topicId": "endo-pancreas",
+      "subtopic": "Glucagon",
+      "difficulty": "medium"
     }
   ]
 }
