@@ -1,0 +1,3111 @@
+{
+  "id": "phys-cns-curated",
+  "title": "CNS physiology — DOMiNANCE Originals",
+  "source": "KNUST Physiology CNS lectures (sensory, motor, spinal cord, cerebellum, basal ganglia, brain) + syllabus",
+  "questions": [
+    {
+      "id": "dq-phys-cns-001",
+      "type": "single-best",
+      "stem": "Receptors that detect tissue-damaging stimuli are classified as",
+      "options": [
+        {
+          "label": "A",
+          "text": "nociceptors"
+        },
+        {
+          "label": "B",
+          "text": "mechanoreceptors"
+        },
+        {
+          "label": "C",
+          "text": "thermoreceptors"
+        },
+        {
+          "label": "D",
+          "text": "chemoreceptors"
+        },
+        {
+          "label": "E",
+          "text": "electromagnetic receptors"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Nociceptors respond to physical or chemical tissue damage and signal pain.",
+      "topicId": "cns-sensory",
+      "subtopic": "Receptor types",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-cns-002",
+      "type": "single-best",
+      "stem": "Receptors that signal the position of joints and the length of muscles are the",
+      "options": [
+        {
+          "label": "A",
+          "text": "nociceptors"
+        },
+        {
+          "label": "B",
+          "text": "proprioceptors"
+        },
+        {
+          "label": "C",
+          "text": "exteroceptors"
+        },
+        {
+          "label": "D",
+          "text": "interoceptors"
+        },
+        {
+          "label": "E",
+          "text": "teleceptors"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Proprioceptors (spindles, Golgi organs, joint receptors) report body position and movement.",
+      "topicId": "cns-sensory",
+      "subtopic": "Receptor types",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-003",
+      "type": "single-best",
+      "stem": "When a constant-strength stimulus is maintained, the fall in the firing rate of the sensory ending over time is called",
+      "options": [
+        {
+          "label": "A",
+          "text": "facilitation"
+        },
+        {
+          "label": "B",
+          "text": "habituation"
+        },
+        {
+          "label": "C",
+          "text": "adaptation"
+        },
+        {
+          "label": "D",
+          "text": "summation"
+        },
+        {
+          "label": "E",
+          "text": "accommodation"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Sensory adaptation is the decline in afferent firing during a sustained constant stimulus.",
+      "topicId": "cns-sensory",
+      "subtopic": "Sensory coding",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-004",
+      "type": "single-best",
+      "stem": "Touch and smell receptors are examples of ___ receptors, whereas lung-inflation and blood-pressure receptors are ___.",
+      "options": [
+        {
+          "label": "A",
+          "text": "nociceptive; proprioceptive"
+        },
+        {
+          "label": "B",
+          "text": "chemoreceptive; mechanoreceptive"
+        },
+        {
+          "label": "C",
+          "text": "electromagnetic; thermal"
+        },
+        {
+          "label": "D",
+          "text": "rapidly adapting (phasic); slowly adapting (tonic)"
+        },
+        {
+          "label": "E",
+          "text": "slowly adapting (tonic); rapidly adapting (phasic)"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Touch and smell adapt rapidly (phasic); lung-inflation, BP and temperature receptors adapt slowly (tonic).",
+      "topicId": "cns-sensory",
+      "subtopic": "Sensory coding",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-005",
+      "type": "single-best",
+      "stem": "The principle that the sensation felt depends on which part of the brain an afferent ultimately activates, not on how it is stimulated, is",
+      "options": [
+        {
+          "label": "A",
+          "text": "the Bell-Magendie law"
+        },
+        {
+          "label": "B",
+          "text": "the all-or-none law"
+        },
+        {
+          "label": "C",
+          "text": "the law of reciprocal innervation"
+        },
+        {
+          "label": "D",
+          "text": "the Weber-Fechner law"
+        },
+        {
+          "label": "E",
+          "text": "Muller's law of specific nerve energies"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Muller's doctrine: stimulating a sensory pathway anywhere evokes the sensation of its receptor because of where it projects.",
+      "topicId": "cns-sensory",
+      "subtopic": "Sensory coding",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-006",
+      "type": "single-best",
+      "stem": "Stimulus intensity is encoded by the frequency of action potentials and by",
+      "options": [
+        {
+          "label": "A",
+          "text": "recruitment of more receptors"
+        },
+        {
+          "label": "B",
+          "text": "the amplitude of each action potential"
+        },
+        {
+          "label": "C",
+          "text": "the conduction velocity of the axon"
+        },
+        {
+          "label": "D",
+          "text": "the resting membrane potential"
+        },
+        {
+          "label": "E",
+          "text": "the refractory period length"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Stronger stimuli raise firing frequency and recruit additional receptors; action-potential amplitude is fixed.",
+      "topicId": "cns-sensory",
+      "subtopic": "Sensory coding",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-007",
+      "type": "single-best",
+      "stem": "Sharp, pricking 'first' pain is carried by ___ fibres, while dull, burning 'second' pain travels in ___ fibres.",
+      "options": [
+        {
+          "label": "A",
+          "text": "B; A-delta"
+        },
+        {
+          "label": "B",
+          "text": "A-delta; C"
+        },
+        {
+          "label": "C",
+          "text": "C; A-delta"
+        },
+        {
+          "label": "D",
+          "text": "A-beta; A-delta"
+        },
+        {
+          "label": "E",
+          "text": "A-alpha; C"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Fast myelinated A-delta fibres carry sharp first pain; slow unmyelinated C fibres carry dull second pain.",
+      "topicId": "cns-sensory",
+      "subtopic": "Pain",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-008",
+      "type": "single-best",
+      "stem": "The dorsal column-medial lemniscus pathway carries",
+      "options": [
+        {
+          "label": "A",
+          "text": "autonomic efferent signals"
+        },
+        {
+          "label": "B",
+          "text": "only itch and tickle"
+        },
+        {
+          "label": "C",
+          "text": "fine touch, proprioception and vibration"
+        },
+        {
+          "label": "D",
+          "text": "pain, temperature and crude touch"
+        },
+        {
+          "label": "E",
+          "text": "motor commands to the limbs"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The dorsal columns carry fine (discriminative) touch, proprioception and vibration.",
+      "topicId": "cns-sensory",
+      "subtopic": "Ascending pathways",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-009",
+      "type": "single-best",
+      "stem": "Fibres of the dorsal column pathway cross the midline (decussate) at the level of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "midbrain"
+        },
+        {
+          "label": "B",
+          "text": "thalamus"
+        },
+        {
+          "label": "C",
+          "text": "pons"
+        },
+        {
+          "label": "D",
+          "text": "medulla"
+        },
+        {
+          "label": "E",
+          "text": "spinal cord of entry"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Dorsal column fibres ascend ipsilaterally and decussate in the medulla; the spinothalamic tract crosses in the cord.",
+      "topicId": "cns-sensory",
+      "subtopic": "Ascending pathways",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-010",
+      "type": "single-best",
+      "stem": "The spinothalamic tract differs from the dorsal columns in that it",
+      "options": [
+        {
+          "label": "A",
+          "text": "decussates in the medulla"
+        },
+        {
+          "label": "B",
+          "text": "carries fine touch and vibration"
+        },
+        {
+          "label": "C",
+          "text": "does not relay in the thalamus"
+        },
+        {
+          "label": "D",
+          "text": "is a descending motor tract"
+        },
+        {
+          "label": "E",
+          "text": "decussates within the spinal cord"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Spinothalamic fibres cross within a segment or two of entering the cord; dorsal columns cross in the medulla.",
+      "topicId": "cns-sensory",
+      "subtopic": "Ascending pathways",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-011",
+      "type": "single-best",
+      "stem": "The lateral spinothalamic tract specifically conveys",
+      "options": [
+        {
+          "label": "A",
+          "text": "pain and temperature"
+        },
+        {
+          "label": "B",
+          "text": "fine touch and vibration"
+        },
+        {
+          "label": "C",
+          "text": "proprioception"
+        },
+        {
+          "label": "D",
+          "text": "crude touch only"
+        },
+        {
+          "label": "E",
+          "text": "motor commands"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The lateral spinothalamic tract carries pain and temperature; the anterior (ventral) tract carries crude touch.",
+      "topicId": "cns-sensory",
+      "subtopic": "Ascending pathways",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-012",
+      "type": "single-best",
+      "stem": "The receptors for pain are",
+      "options": [
+        {
+          "label": "A",
+          "text": "muscle spindles"
+        },
+        {
+          "label": "B",
+          "text": "free nerve endings"
+        },
+        {
+          "label": "C",
+          "text": "Pacinian corpuscles"
+        },
+        {
+          "label": "D",
+          "text": "Meissner's corpuscles"
+        },
+        {
+          "label": "E",
+          "text": "Merkel discs"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Pain is detected by free nerve endings, found superficially and in deep tissues such as periosteum and joint capsules.",
+      "topicId": "cns-sensory",
+      "subtopic": "Pain",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-013",
+      "type": "single-best",
+      "stem": "Which chemical released by damaged tissue is a potent stimulant of pain receptors?",
+      "options": [
+        {
+          "label": "A",
+          "text": "noradrenaline"
+        },
+        {
+          "label": "B",
+          "text": "GABA"
+        },
+        {
+          "label": "C",
+          "text": "bradykinin"
+        },
+        {
+          "label": "D",
+          "text": "acetylcholine"
+        },
+        {
+          "label": "E",
+          "text": "dopamine"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Bradykinin (with histamine, K+, prostaglandins and acids) strongly excites nociceptors.",
+      "topicId": "cns-sensory",
+      "subtopic": "Pain",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-014",
+      "type": "single-best",
+      "stem": "Compared with other sensory receptors, pain receptors characteristically",
+      "options": [
+        {
+          "label": "A",
+          "text": "stop firing after a single stimulus"
+        },
+        {
+          "label": "B",
+          "text": "respond only to light touch"
+        },
+        {
+          "label": "C",
+          "text": "fatigue within seconds"
+        },
+        {
+          "label": "D",
+          "text": "adapt very little, so pain can persist"
+        },
+        {
+          "label": "E",
+          "text": "adapt very rapidly, so pain fades fast"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Nociceptors adapt little; prolonged stimulation may even increase their excitation, keeping pain protective.",
+      "topicId": "cns-sensory",
+      "subtopic": "Pain",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-015",
+      "type": "single-best",
+      "stem": "The slow (paleospinothalamic) pain pathway uses which neurotransmitter, giving its slow onset and lasting quality?",
+      "options": [
+        {
+          "label": "A",
+          "text": "glutamate"
+        },
+        {
+          "label": "B",
+          "text": "glycine"
+        },
+        {
+          "label": "C",
+          "text": "dopamine"
+        },
+        {
+          "label": "D",
+          "text": "acetylcholine"
+        },
+        {
+          "label": "E",
+          "text": "substance P"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Substance P, slow to build up and be destroyed, mediates slow, aching, long-lasting pain.",
+      "topicId": "cns-sensory",
+      "subtopic": "Pain",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-016",
+      "type": "single-best",
+      "stem": "Pain felt in a body-surface region remote from the diseased internal organ is",
+      "options": [
+        {
+          "label": "A",
+          "text": "referred pain"
+        },
+        {
+          "label": "B",
+          "text": "phantom pain"
+        },
+        {
+          "label": "C",
+          "text": "fast pain"
+        },
+        {
+          "label": "D",
+          "text": "neuropathic pain"
+        },
+        {
+          "label": "E",
+          "text": "central pain"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Referred pain is projected to a somatic area sharing spinal segments with the affected viscus.",
+      "topicId": "cns-sensory",
+      "subtopic": "Pain",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-017",
+      "type": "single-best",
+      "stem": "The brain's endogenous analgesic opiates include",
+      "options": [
+        {
+          "label": "A",
+          "text": "adrenaline and noradrenaline"
+        },
+        {
+          "label": "B",
+          "text": "endorphins, enkephalins and dynorphins"
+        },
+        {
+          "label": "C",
+          "text": "bradykinin, histamine and prostaglandins"
+        },
+        {
+          "label": "D",
+          "text": "dopamine, serotonin and GABA"
+        },
+        {
+          "label": "E",
+          "text": "substance P and glutamate"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Endorphins, enkephalins and dynorphins act at opiate receptors in the periaqueductal grey and dorsal horn to suppress pain.",
+      "topicId": "cns-sensory",
+      "subtopic": "Pain control",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-018",
+      "type": "single-best",
+      "stem": "A key component of the brain's descending analgesia system is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "nucleus of the solitary tract"
+        },
+        {
+          "label": "B",
+          "text": "red nucleus"
+        },
+        {
+          "label": "C",
+          "text": "periaqueductal grey matter"
+        },
+        {
+          "label": "D",
+          "text": "dentate nucleus"
+        },
+        {
+          "label": "E",
+          "text": "substantia nigra"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The periaqueductal grey (with the raphe magnus and dorsal-horn inhibitory complex) drives descending pain suppression.",
+      "topicId": "cns-sensory",
+      "subtopic": "Pain control",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-019",
+      "type": "single-best",
+      "stem": "Rubbing a knock to relieve its pain illustrates pain suppression by",
+      "options": [
+        {
+          "label": "A",
+          "text": "activating C fibres from the same area"
+        },
+        {
+          "label": "B",
+          "text": "blocking the dorsal column pathway"
+        },
+        {
+          "label": "C",
+          "text": "raising the pain threshold of nociceptors"
+        },
+        {
+          "label": "D",
+          "text": "stimulating large tactile fibres"
+        },
+        {
+          "label": "E",
+          "text": "releasing substance P onto dorsal-horn cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Input from large tactile afferents inhibits transmission of pain from the same region (gate/local suppression).",
+      "topicId": "cns-sensory",
+      "subtopic": "Pain control",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-020",
+      "type": "single-best",
+      "stem": "The primary somatosensory cortex is located in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "precentral gyrus of the frontal lobe"
+        },
+        {
+          "label": "B",
+          "text": "occipital lobe"
+        },
+        {
+          "label": "C",
+          "text": "superior temporal gyrus"
+        },
+        {
+          "label": "D",
+          "text": "cingulate gyrus"
+        },
+        {
+          "label": "E",
+          "text": "postcentral gyrus of the parietal lobe"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The postcentral gyrus houses the primary somatosensory cortex (S-I).",
+      "topicId": "cns-sensory",
+      "subtopic": "Sensory cortex",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-021",
+      "type": "single-best",
+      "stem": "In the sensory homunculus, the area of cortex devoted to a body part is proportional to",
+      "options": [
+        {
+          "label": "A",
+          "text": "the density of receptors in that part"
+        },
+        {
+          "label": "B",
+          "text": "the size of that body part"
+        },
+        {
+          "label": "C",
+          "text": "the length of its peripheral nerve"
+        },
+        {
+          "label": "D",
+          "text": "the distance from the spinal cord"
+        },
+        {
+          "label": "E",
+          "text": "the number of muscles it contains"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Cortical representation reflects receptor density, so lips and fingertips occupy large areas.",
+      "topicId": "cns-sensory",
+      "subtopic": "Sensory cortex",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-022",
+      "type": "single-best",
+      "stem": "Inability to recognise an object by touch alone (with intact primary sensation) after damage to the somatic association cortex is",
+      "options": [
+        {
+          "label": "A",
+          "text": "apraxia"
+        },
+        {
+          "label": "B",
+          "text": "astereognosis"
+        },
+        {
+          "label": "C",
+          "text": "agraphia"
+        },
+        {
+          "label": "D",
+          "text": "anomia"
+        },
+        {
+          "label": "E",
+          "text": "alexia"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Astereognosis is failure to identify objects by touch when the somatosensory association area is damaged.",
+      "topicId": "cns-sensory",
+      "subtopic": "Sensory cortex",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-023",
+      "type": "single-best",
+      "stem": "Lamina II of the dorsal horn, important in modulating pain input, is also known as the",
+      "options": [
+        {
+          "label": "A",
+          "text": "substantia nigra"
+        },
+        {
+          "label": "B",
+          "text": "nucleus ambiguus"
+        },
+        {
+          "label": "C",
+          "text": "substantia gelatinosa"
+        },
+        {
+          "label": "D",
+          "text": "nucleus cuneatus"
+        },
+        {
+          "label": "E",
+          "text": "nucleus gracilis"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Lamina II is the substantia gelatinosa, rich in inhibitory interneurons that gate pain.",
+      "topicId": "cns-sensory",
+      "subtopic": "Dorsal horn",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-024",
+      "type": "single-best",
+      "stem": "A dorsal-horn neuron that responds to both innocuous and noxious stimuli is termed",
+      "options": [
+        {
+          "label": "A",
+          "text": "low-threshold only"
+        },
+        {
+          "label": "B",
+          "text": "a motor neuron"
+        },
+        {
+          "label": "C",
+          "text": "a Renshaw cell"
+        },
+        {
+          "label": "D",
+          "text": "wide dynamic range (WDR)"
+        },
+        {
+          "label": "E",
+          "text": "nociceptive-specific (NS)"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "WDR cells respond across the range from touch to noxious input; NS cells respond only to noxious stimuli.",
+      "topicId": "cns-sensory",
+      "subtopic": "Dorsal horn",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-025",
+      "type": "single-best",
+      "stem": "A collection of nerve-cell bodies lying outside the central nervous system is called a",
+      "options": [
+        {
+          "label": "A",
+          "text": "nucleus"
+        },
+        {
+          "label": "B",
+          "text": "tract"
+        },
+        {
+          "label": "C",
+          "text": "plexus"
+        },
+        {
+          "label": "D",
+          "text": "lamina"
+        },
+        {
+          "label": "E",
+          "text": "ganglion"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "A ganglion is a cluster of cell bodies outside the CNS; a nucleus is the equivalent inside the CNS.",
+      "topicId": "cns-spinal",
+      "subtopic": "Definitions",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-026",
+      "type": "single-best",
+      "stem": "The cell bodies of sensory neurons entering the spinal cord lie in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "dorsal root ganglion"
+        },
+        {
+          "label": "B",
+          "text": "ventral grey horn"
+        },
+        {
+          "label": "C",
+          "text": "lateral grey horn"
+        },
+        {
+          "label": "D",
+          "text": "white matter tracts"
+        },
+        {
+          "label": "E",
+          "text": "dorsal column nuclei"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Sensory neuron cell bodies sit in the dorsal (spinal) root ganglion; their axons enter via the dorsal root.",
+      "topicId": "cns-spinal",
+      "subtopic": "Spinal organisation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-027",
+      "type": "single-best",
+      "stem": "The Bell-Magendie law states that the ___ roots are sensory and the ___ roots are motor.",
+      "options": [
+        {
+          "label": "A",
+          "text": "cranial; spinal"
+        },
+        {
+          "label": "B",
+          "text": "dorsal; ventral"
+        },
+        {
+          "label": "C",
+          "text": "ventral; dorsal"
+        },
+        {
+          "label": "D",
+          "text": "lateral; medial"
+        },
+        {
+          "label": "E",
+          "text": "anterior; posterior"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Dorsal roots carry sensory (afferent) fibres; ventral roots carry motor (efferent) fibres.",
+      "topicId": "cns-spinal",
+      "subtopic": "Spinal organisation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-028",
+      "type": "single-best",
+      "stem": "The human spinal cord in the adult ends at about the level of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "fifth lumbar vertebra"
+        },
+        {
+          "label": "B",
+          "text": "first coccygeal vertebra"
+        },
+        {
+          "label": "C",
+          "text": "second lumbar vertebra"
+        },
+        {
+          "label": "D",
+          "text": "first sacral vertebra"
+        },
+        {
+          "label": "E",
+          "text": "twelfth thoracic vertebra"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The cord runs from the brainstem to roughly L2 in the adult.",
+      "topicId": "cns-spinal",
+      "subtopic": "Spinal organisation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-029",
+      "type": "single-best",
+      "stem": "How many pairs of spinal nerves are there in total?",
+      "options": [
+        {
+          "label": "A",
+          "text": "8"
+        },
+        {
+          "label": "B",
+          "text": "43"
+        },
+        {
+          "label": "C",
+          "text": "24"
+        },
+        {
+          "label": "D",
+          "text": "31"
+        },
+        {
+          "label": "E",
+          "text": "12"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "There are 31 pairs: 8 cervical, 12 thoracic, 5 lumbar, 5 sacral and 1 coccygeal.",
+      "topicId": "cns-spinal",
+      "subtopic": "Spinal nerves",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-030",
+      "type": "single-best",
+      "stem": "Ascending spinal tracts are ___ and, by convention, their names begin with 'spino-'.",
+      "options": [
+        {
+          "label": "A",
+          "text": "motor"
+        },
+        {
+          "label": "B",
+          "text": "autonomic"
+        },
+        {
+          "label": "C",
+          "text": "inhibitory"
+        },
+        {
+          "label": "D",
+          "text": "reflex"
+        },
+        {
+          "label": "E",
+          "text": "sensory"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Ascending tracts carry sensory information to the brain; descending (motor) tracts start with a brain part (e.g. cortico-).",
+      "topicId": "cns-spinal",
+      "subtopic": "Spinal tracts",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-031",
+      "type": "single-best",
+      "stem": "The phrenic nerve, which supplies the diaphragm, arises from the",
+      "options": [
+        {
+          "label": "A",
+          "text": "cervical plexus (C3-C5)"
+        },
+        {
+          "label": "B",
+          "text": "the brachial plexus"
+        },
+        {
+          "label": "C",
+          "text": "the lumbar plexus"
+        },
+        {
+          "label": "D",
+          "text": "the sacral plexus"
+        },
+        {
+          "label": "E",
+          "text": "the thoracic nerves"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The phrenic nerve (C3-C5) from the cervical plexus innervates the diaphragm.",
+      "topicId": "cns-spinal",
+      "subtopic": "Plexuses",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-032",
+      "type": "single-best",
+      "stem": "The body's largest nerve, supplying most of the leg, is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "phrenic nerve"
+        },
+        {
+          "label": "B",
+          "text": "sciatic nerve"
+        },
+        {
+          "label": "C",
+          "text": "femoral nerve"
+        },
+        {
+          "label": "D",
+          "text": "obturator nerve"
+        },
+        {
+          "label": "E",
+          "text": "radial nerve"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The sciatic nerve (tibial + common peroneal) from the sacral plexus is the largest nerve.",
+      "topicId": "cns-spinal",
+      "subtopic": "Plexuses",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-033",
+      "type": "single-best",
+      "stem": "The radial nerve of the brachial plexus chiefly innervates the",
+      "options": [
+        {
+          "label": "A",
+          "text": "deltoid and shoulder"
+        },
+        {
+          "label": "B",
+          "text": "adductors of the thigh"
+        },
+        {
+          "label": "C",
+          "text": "extensors of the wrist and fingers"
+        },
+        {
+          "label": "D",
+          "text": "flexors of the wrist and fingers"
+        },
+        {
+          "label": "E",
+          "text": "small muscles of the medial hand"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The radial nerve supplies the extensor compartment (elbow, wrist and finger extension, thumb abduction).",
+      "topicId": "cns-spinal",
+      "subtopic": "Plexuses",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-034",
+      "type": "single-best",
+      "stem": "Hemisection of one side of the spinal cord (Brown-Sequard syndrome) causes loss of pain and temperature",
+      "options": [
+        {
+          "label": "A",
+          "text": "on both sides equally"
+        },
+        {
+          "label": "B",
+          "text": "only above the lesion"
+        },
+        {
+          "label": "C",
+          "text": "only at the level of the lesion"
+        },
+        {
+          "label": "D",
+          "text": "on the opposite (contralateral) side below the lesion"
+        },
+        {
+          "label": "E",
+          "text": "on the same (ipsilateral) side below the lesion"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Pain/temperature cross in the cord, so hemisection loses them contralaterally; dorsal-column and motor loss are ipsilateral.",
+      "topicId": "cns-spinal",
+      "subtopic": "Cord lesions",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-035",
+      "type": "single-best",
+      "stem": "In Brown-Sequard syndrome, loss of vibration, fine touch and proprioception occurs",
+      "options": [
+        {
+          "label": "A",
+          "text": "contralaterally below the lesion"
+        },
+        {
+          "label": "B",
+          "text": "bilaterally below the lesion"
+        },
+        {
+          "label": "C",
+          "text": "only at the lesion level"
+        },
+        {
+          "label": "D",
+          "text": "above the lesion only"
+        },
+        {
+          "label": "E",
+          "text": "ipsilaterally below the lesion"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Dorsal-column modalities travel ipsilaterally up to the medulla, so hemisection loses them on the same side.",
+      "topicId": "cns-spinal",
+      "subtopic": "Cord lesions",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-036",
+      "type": "single-best",
+      "stem": "Immediately after complete spinal cord transection, spinal reflexes below the lesion are",
+      "options": [
+        {
+          "label": "A",
+          "text": "depressed for about two weeks"
+        },
+        {
+          "label": "B",
+          "text": "exaggerated immediately"
+        },
+        {
+          "label": "C",
+          "text": "completely unchanged"
+        },
+        {
+          "label": "D",
+          "text": "lost permanently"
+        },
+        {
+          "label": "E",
+          "text": "normal but slowed"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Spinal shock depresses all reflexes below the cut for ~2 weeks; spasticity and hyperreflexia follow.",
+      "topicId": "cns-spinal",
+      "subtopic": "Cord lesions",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-037",
+      "type": "single-best",
+      "stem": "A monosynaptic stretch (myotatic) reflex such as the knee jerk is initiated by",
+      "options": [
+        {
+          "label": "A",
+          "text": "contraction of the antagonist"
+        },
+        {
+          "label": "B",
+          "text": "stretch of the muscle spindle"
+        },
+        {
+          "label": "C",
+          "text": "tension on the Golgi tendon organ"
+        },
+        {
+          "label": "D",
+          "text": "stimulation of free nerve endings"
+        },
+        {
+          "label": "E",
+          "text": "activation of gamma efferents only"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Muscle-spindle stretch excites Ia afferents that synapse directly on alpha motor neurons, giving a monosynaptic reflex.",
+      "topicId": "cns-spinal",
+      "subtopic": "Reflexes",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-038",
+      "type": "single-best",
+      "stem": "Gamma motor neurons act on the muscle spindle to",
+      "options": [
+        {
+          "label": "A",
+          "text": "relax the Golgi tendon organ"
+        },
+        {
+          "label": "B",
+          "text": "generate the tendon jerk by themselves"
+        },
+        {
+          "label": "C",
+          "text": "adjust its sensitivity to stretch"
+        },
+        {
+          "label": "D",
+          "text": "directly power the main (extrafusal) contraction"
+        },
+        {
+          "label": "E",
+          "text": "inhibit the alpha motor neurons"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Gamma efferents contract the intrafusal fibre ends, keeping the spindle sensitive as the muscle shortens.",
+      "topicId": "cns-spinal",
+      "subtopic": "Reflexes",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-039",
+      "type": "single-best",
+      "stem": "The Golgi tendon reflex (inverse stretch reflex) protects muscle by causing",
+      "options": [
+        {
+          "label": "A",
+          "text": "sustained spasm during heavy loads"
+        },
+        {
+          "label": "B",
+          "text": "facilitation of the agonist"
+        },
+        {
+          "label": "C",
+          "text": "an increase in spindle sensitivity"
+        },
+        {
+          "label": "D",
+          "text": "relaxation when tendon tension gets high"
+        },
+        {
+          "label": "E",
+          "text": "contraction when the muscle is stretched"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The in-series Golgi tendon organ triggers IPSPs in the motor neuron, relaxing the muscle before damaging tension develops.",
+      "topicId": "cns-spinal",
+      "subtopic": "Reflexes",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-040",
+      "type": "single-best",
+      "stem": "Reciprocal innervation during a stretch reflex means that while the agonist contracts, the antagonist is",
+      "options": [
+        {
+          "label": "A",
+          "text": "also contracted"
+        },
+        {
+          "label": "B",
+          "text": "unaffected"
+        },
+        {
+          "label": "C",
+          "text": "stimulated to contract harder"
+        },
+        {
+          "label": "D",
+          "text": "disconnected from the cord"
+        },
+        {
+          "label": "E",
+          "text": "inhibited and relaxes"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Ia afferents excite the agonist's motor neurons and, via interneurons, inhibit the antagonist's.",
+      "topicId": "cns-spinal",
+      "subtopic": "Reflexes",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-041",
+      "type": "single-best",
+      "stem": "The final common pathway for all motor output to skeletal muscle is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "alpha motor neuron"
+        },
+        {
+          "label": "B",
+          "text": "gamma motor neuron"
+        },
+        {
+          "label": "C",
+          "text": "upper motor neuron"
+        },
+        {
+          "label": "D",
+          "text": "Renshaw cell"
+        },
+        {
+          "label": "E",
+          "text": "corticospinal tract"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "All motor commands converge on the alpha motor neuron, the final common pathway to muscle.",
+      "topicId": "cns-motor",
+      "subtopic": "Motor organisation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-042",
+      "type": "single-best",
+      "stem": "The primary motor cortex lies in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "cerebellar vermis"
+        },
+        {
+          "label": "B",
+          "text": "precentral gyrus of the frontal lobe"
+        },
+        {
+          "label": "C",
+          "text": "postcentral gyrus of the parietal lobe"
+        },
+        {
+          "label": "D",
+          "text": "occipital lobe"
+        },
+        {
+          "label": "E",
+          "text": "superior temporal gyrus"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The primary motor cortex occupies the precentral gyrus, just anterior to the central sulcus.",
+      "topicId": "cns-motor",
+      "subtopic": "Motor cortex",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-043",
+      "type": "single-best",
+      "stem": "In the motor homunculus of one hemisphere, the body is represented such that the",
+      "options": [
+        {
+          "label": "A",
+          "text": "trunk occupies the largest area"
+        },
+        {
+          "label": "B",
+          "text": "feet are represented on the lateral surface"
+        },
+        {
+          "label": "C",
+          "text": "feet at the top; the body is contralateral"
+        },
+        {
+          "label": "D",
+          "text": "face is at the top and the body is ipsilateral"
+        },
+        {
+          "label": "E",
+          "text": "hands are represented bilaterally"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The lower limb is represented at the top (medial) surface; representation is of the contralateral body (the face is bilateral).",
+      "topicId": "cns-motor",
+      "subtopic": "Motor cortex",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-044",
+      "type": "single-best",
+      "stem": "Damage to Broca's area characteristically causes",
+      "options": [
+        {
+          "label": "A",
+          "text": "loss of vision"
+        },
+        {
+          "label": "B",
+          "text": "loss of pain sensation"
+        },
+        {
+          "label": "C",
+          "text": "intention tremor"
+        },
+        {
+          "label": "D",
+          "text": "difficulty producing speech"
+        },
+        {
+          "label": "E",
+          "text": "difficulty understanding speech"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Broca's area (inferior frontal, usually left) governs speech production; its damage gives expressive (Broca's) aphasia.",
+      "topicId": "cns-motor",
+      "subtopic": "Cortical areas",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-045",
+      "type": "single-best",
+      "stem": "The corticospinal tracts cross the midline at the",
+      "options": [
+        {
+          "label": "A",
+          "text": "optic chiasm"
+        },
+        {
+          "label": "B",
+          "text": "spinal cord of entry"
+        },
+        {
+          "label": "C",
+          "text": "midbrain cerebral peduncles"
+        },
+        {
+          "label": "D",
+          "text": "pons"
+        },
+        {
+          "label": "E",
+          "text": "pyramids of the caudal medulla"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Most corticospinal fibres decussate at the pyramids of the caudal medulla to form the lateral corticospinal tract.",
+      "topicId": "cns-motor",
+      "subtopic": "Descending pathways",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-046",
+      "type": "single-best",
+      "stem": "The lateral corticospinal tract mainly controls",
+      "options": [
+        {
+          "label": "A",
+          "text": "contralateral limb (distal) muscles"
+        },
+        {
+          "label": "B",
+          "text": "ipsilateral axial and trunk muscles"
+        },
+        {
+          "label": "C",
+          "text": "autonomic functions"
+        },
+        {
+          "label": "D",
+          "text": "the muscles of the face only"
+        },
+        {
+          "label": "E",
+          "text": "both sides of the trunk equally"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The crossed lateral corticospinal tract controls contralateral limb muscles; the uncrossed anterior tract handles axial/trunk muscles.",
+      "topicId": "cns-motor",
+      "subtopic": "Descending pathways",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-047",
+      "type": "single-best",
+      "stem": "An upper motor neuron lesion typically produces",
+      "options": [
+        {
+          "label": "A",
+          "text": "loss of pain and temperature only"
+        },
+        {
+          "label": "B",
+          "text": "spastic paralysis with hyperreflexia and no muscle wasting"
+        },
+        {
+          "label": "C",
+          "text": "flaccid paralysis with muscle atrophy and fibrillations"
+        },
+        {
+          "label": "D",
+          "text": "intention tremor and past-pointing"
+        },
+        {
+          "label": "E",
+          "text": "resting tremor and cogwheel rigidity"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "UMN lesions give spastic paralysis, brisk reflexes and little wasting; LMN lesions give flaccid paralysis with atrophy and fibrillation.",
+      "topicId": "cns-motor",
+      "subtopic": "Motor lesions",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-048",
+      "type": "single-best",
+      "stem": "A lower motor neuron lesion is characterised by",
+      "options": [
+        {
+          "label": "A",
+          "text": "intention tremor"
+        },
+        {
+          "label": "B",
+          "text": "chorea"
+        },
+        {
+          "label": "C",
+          "text": "flaccid paralysis, atrophy and fibrillations"
+        },
+        {
+          "label": "D",
+          "text": "spastic paralysis with increased reflexes"
+        },
+        {
+          "label": "E",
+          "text": "normal tone with brisk reflexes"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Denervating the muscle (LMN lesion) causes flaccid paralysis, wasting, fasciculations/fibrillations and lost reflexes.",
+      "topicId": "cns-motor",
+      "subtopic": "Motor lesions",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-049",
+      "type": "single-best",
+      "stem": "In the brainstem, the pontine reticular formation and the medullary reticular formation respectively",
+      "options": [
+        {
+          "label": "A",
+          "text": "both excite antigravity muscles"
+        },
+        {
+          "label": "B",
+          "text": "both inhibit antigravity muscles"
+        },
+        {
+          "label": "C",
+          "text": "control only eye movements"
+        },
+        {
+          "label": "D",
+          "text": "excite and inhibit antigravity muscles"
+        },
+        {
+          "label": "E",
+          "text": "inhibit and excite antigravity muscles"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The pontine reticular area excites antigravity (extensor) muscles; the medullary area inhibits them.",
+      "topicId": "cns-motor",
+      "subtopic": "Brainstem control",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-050",
+      "type": "single-best",
+      "stem": "The vestibular nuclei influence posture through the vestibulospinal tracts, which",
+      "options": [
+        {
+          "label": "A",
+          "text": "inhibit all spinal reflexes"
+        },
+        {
+          "label": "B",
+          "text": "carry pain and temperature"
+        },
+        {
+          "label": "C",
+          "text": "cross in the medulla"
+        },
+        {
+          "label": "D",
+          "text": "control fine finger movements"
+        },
+        {
+          "label": "E",
+          "text": "excite antigravity muscles"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Vestibulospinal output excites extensor (antigravity) muscles, helping maintain balance.",
+      "topicId": "cns-motor",
+      "subtopic": "Brainstem control",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-051",
+      "type": "single-best",
+      "stem": "Decussation of the pyramids in the medulla explains why",
+      "options": [
+        {
+          "label": "A",
+          "text": "each hemisphere controls the opposite side"
+        },
+        {
+          "label": "B",
+          "text": "the cerebellum coordinates movement"
+        },
+        {
+          "label": "C",
+          "text": "pain crosses in the spinal cord"
+        },
+        {
+          "label": "D",
+          "text": "the thalamus relays sensation"
+        },
+        {
+          "label": "E",
+          "text": "the basal ganglia inhibit movement"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Because corticospinal fibres cross at the medullary pyramids, one hemisphere controls the contralateral body.",
+      "topicId": "cns-motor",
+      "subtopic": "Descending pathways",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-052",
+      "type": "single-best",
+      "stem": "Loss of the ability to perform skilled, purposeful hand movements despite intact strength is",
+      "options": [
+        {
+          "label": "A",
+          "text": "athetosis"
+        },
+        {
+          "label": "B",
+          "text": "apraxia"
+        },
+        {
+          "label": "C",
+          "text": "aphasia"
+        },
+        {
+          "label": "D",
+          "text": "ataxia"
+        },
+        {
+          "label": "E",
+          "text": "agnosia"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Apraxia is the loss of learned skilled movement, seen with damage to the hand-skills motor area.",
+      "topicId": "cns-motor",
+      "subtopic": "Cortical areas",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-053",
+      "type": "single-best",
+      "stem": "The large output neurons of the cerebellar cortex are the",
+      "options": [
+        {
+          "label": "A",
+          "text": "Renshaw cells"
+        },
+        {
+          "label": "B",
+          "text": "mitral cells"
+        },
+        {
+          "label": "C",
+          "text": "Purkinje cells"
+        },
+        {
+          "label": "D",
+          "text": "pyramidal cells"
+        },
+        {
+          "label": "E",
+          "text": "granule cells only"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Purkinje cells are the cerebellar cortical output neurons, refining movement.",
+      "topicId": "cns-cerebellum",
+      "subtopic": "Cerebellar structure",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-054",
+      "type": "single-best",
+      "stem": "The two cerebellar hemispheres are separated in the midline by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "corpus callosum"
+        },
+        {
+          "label": "B",
+          "text": "tentorium"
+        },
+        {
+          "label": "C",
+          "text": "modiolus"
+        },
+        {
+          "label": "D",
+          "text": "vermis"
+        },
+        {
+          "label": "E",
+          "text": "falx cerebri"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The vermis lies between the hemispheres and governs axial musculature.",
+      "topicId": "cns-cerebellum",
+      "subtopic": "Cerebellar structure",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-055",
+      "type": "single-best",
+      "stem": "The flocculonodular lobe of the cerebellum is concerned mainly with",
+      "options": [
+        {
+          "label": "A",
+          "text": "planning skilled hand movements"
+        },
+        {
+          "label": "B",
+          "text": "control of axial muscles only"
+        },
+        {
+          "label": "C",
+          "text": "storage of declarative memory"
+        },
+        {
+          "label": "D",
+          "text": "regulation of body temperature"
+        },
+        {
+          "label": "E",
+          "text": "equilibrium and balance"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The flocculonodular lobe receives vestibular input and governs balance and eye movements.",
+      "topicId": "cns-cerebellum",
+      "subtopic": "Cerebellar structure",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-056",
+      "type": "single-best",
+      "stem": "The lateral zone of the cerebellum is chiefly involved in",
+      "options": [
+        {
+          "label": "A",
+          "text": "planning and timing of movement"
+        },
+        {
+          "label": "B",
+          "text": "control of axial (trunk) muscles"
+        },
+        {
+          "label": "C",
+          "text": "equilibrium"
+        },
+        {
+          "label": "D",
+          "text": "temperature regulation"
+        },
+        {
+          "label": "E",
+          "text": "pain modulation"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The lateral hemispheres, via the dentate nucleus, help plan and time sequential movements with the motor and premotor cortex.",
+      "topicId": "cns-cerebellum",
+      "subtopic": "Cerebellar zones",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-057",
+      "type": "single-best",
+      "stem": "The cerebellar deep nucleus most associated with coordinating skilled movement is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "solitary nucleus"
+        },
+        {
+          "label": "B",
+          "text": "dentate nucleus"
+        },
+        {
+          "label": "C",
+          "text": "red nucleus"
+        },
+        {
+          "label": "D",
+          "text": "subthalamic nucleus"
+        },
+        {
+          "label": "E",
+          "text": "caudate nucleus"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The dentate nucleus coordinates skilled voluntary movement; its damage makes movements jerky.",
+      "topicId": "cns-cerebellum",
+      "subtopic": "Cerebellar structure",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-058",
+      "type": "single-best",
+      "stem": "The fastest input pathway to the cerebellum, giving feedback about motor signals reaching the anterior horn, is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "vestibulocerebellar tract"
+        },
+        {
+          "label": "B",
+          "text": "rubrospinal tract"
+        },
+        {
+          "label": "C",
+          "text": "spinocerebellar tract"
+        },
+        {
+          "label": "D",
+          "text": "corticopontocerebellar pathway"
+        },
+        {
+          "label": "E",
+          "text": "olivocerebellar tract"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Spinocerebellar neurons conduct very rapidly, telling the cerebellum what motor signals have arrived at the cord.",
+      "topicId": "cns-cerebellum",
+      "subtopic": "Cerebellar pathways",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-059",
+      "type": "single-best",
+      "stem": "Broadly, the cerebellum functions to",
+      "options": [
+        {
+          "label": "A",
+          "text": "store declarative memories"
+        },
+        {
+          "label": "B",
+          "text": "set the body-temperature set-point"
+        },
+        {
+          "label": "C",
+          "text": "produce the primary pain sensation"
+        },
+        {
+          "label": "D",
+          "text": "compare intended with actual movement"
+        },
+        {
+          "label": "E",
+          "text": "generate the command to start voluntary movement"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The cerebellum compares the cortex's intended movement with peripheral feedback and coordinates agonists and antagonists.",
+      "topicId": "cns-cerebellum",
+      "subtopic": "Cerebellar function",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-060",
+      "type": "single-best",
+      "stem": "Failure to judge distance so that the hand overshoots a target is",
+      "options": [
+        {
+          "label": "A",
+          "text": "dysdiadochokinesia"
+        },
+        {
+          "label": "B",
+          "text": "dysarthria"
+        },
+        {
+          "label": "C",
+          "text": "dystonia"
+        },
+        {
+          "label": "D",
+          "text": "dyskinesia"
+        },
+        {
+          "label": "E",
+          "text": "dysmetria"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Dysmetria (past-pointing) is inaccurate judgement of movement distance, a classic cerebellar sign.",
+      "topicId": "cns-cerebellum",
+      "subtopic": "Cerebellar signs",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-061",
+      "type": "single-best",
+      "stem": "Inability to perform rapid alternating movements, seen in cerebellar disease, is",
+      "options": [
+        {
+          "label": "A",
+          "text": "dysdiadochokinesia"
+        },
+        {
+          "label": "B",
+          "text": "limb dysmetria"
+        },
+        {
+          "label": "C",
+          "text": "ocular nystagmus"
+        },
+        {
+          "label": "D",
+          "text": "choreic movement"
+        },
+        {
+          "label": "E",
+          "text": "slow athetosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Dysdiadochokinesia is impaired rapid alternating movement from cerebellar dysfunction.",
+      "topicId": "cns-cerebellum",
+      "subtopic": "Cerebellar signs",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-062",
+      "type": "single-best",
+      "stem": "A tremor that worsens as the hand approaches a target, typical of cerebellar damage, is a(n)",
+      "options": [
+        {
+          "label": "A",
+          "text": "flapping tremor"
+        },
+        {
+          "label": "B",
+          "text": "intention tremor"
+        },
+        {
+          "label": "C",
+          "text": "resting tremor"
+        },
+        {
+          "label": "D",
+          "text": "essential tremor"
+        },
+        {
+          "label": "E",
+          "text": "physiological tremor"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Cerebellar lesions cause an intention (action) tremor that increases near the target; a resting tremor suggests basal-ganglia disease.",
+      "topicId": "cns-cerebellum",
+      "subtopic": "Cerebellar signs",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-063",
+      "type": "single-best",
+      "stem": "The slurred, poorly coordinated speech of cerebellar disease is called",
+      "options": [
+        {
+          "label": "A",
+          "text": "dysphonia"
+        },
+        {
+          "label": "B",
+          "text": "mutism"
+        },
+        {
+          "label": "C",
+          "text": "scanning speech"
+        },
+        {
+          "label": "D",
+          "text": "expressive aphasia"
+        },
+        {
+          "label": "E",
+          "text": "receptive aphasia"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Cerebellar incoordination of the speech muscles produces scanning dysarthria.",
+      "topicId": "cns-cerebellum",
+      "subtopic": "Cerebellar signs",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-064",
+      "type": "single-best",
+      "stem": "Muscle tone in cerebellar disease is typically",
+      "options": [
+        {
+          "label": "A",
+          "text": "normal in all cases"
+        },
+        {
+          "label": "B",
+          "text": "spastic"
+        },
+        {
+          "label": "C",
+          "text": "cogwheel in type"
+        },
+        {
+          "label": "D",
+          "text": "reduced (hypotonia)"
+        },
+        {
+          "label": "E",
+          "text": "greatly increased (rigidity)"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Cerebellar lesions commonly cause hypotonia along with pendular reflexes.",
+      "topicId": "cns-cerebellum",
+      "subtopic": "Cerebellar signs",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-065",
+      "type": "single-best",
+      "stem": "The cerebellum's 'predictive' function allows a person to",
+      "options": [
+        {
+          "label": "A",
+          "text": "feel pain from deep tissues"
+        },
+        {
+          "label": "B",
+          "text": "regulate blood pressure"
+        },
+        {
+          "label": "C",
+          "text": "form long-term memories"
+        },
+        {
+          "label": "D",
+          "text": "set the body-temperature set-point"
+        },
+        {
+          "label": "E",
+          "text": "judge how fast an object approaches"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "By predicting the rate of approach, the cerebellum lets us time actions like crossing a road.",
+      "topicId": "cns-cerebellum",
+      "subtopic": "Cerebellar function",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-066",
+      "type": "single-best",
+      "stem": "Rapid, pre-planned movements that are too fast to be corrected by feedback are called",
+      "options": [
+        {
+          "label": "A",
+          "text": "ballistic movements"
+        },
+        {
+          "label": "B",
+          "text": "pendular movements"
+        },
+        {
+          "label": "C",
+          "text": "segmentation movements"
+        },
+        {
+          "label": "D",
+          "text": "tonic contractions"
+        },
+        {
+          "label": "E",
+          "text": "reflex movements"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Ballistic movements (e.g. typing) run their pre-set course; the cerebellum programmes their extent.",
+      "topicId": "cns-cerebellum",
+      "subtopic": "Cerebellar function",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-067",
+      "type": "single-best",
+      "stem": "The corpus striatum of the basal ganglia is made up of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "caudate nucleus and thalamus"
+        },
+        {
+          "label": "B",
+          "text": "caudate and putamen"
+        },
+        {
+          "label": "C",
+          "text": "putamen and globus pallidus"
+        },
+        {
+          "label": "D",
+          "text": "globus pallidus and subthalamic nucleus"
+        },
+        {
+          "label": "E",
+          "text": "substantia nigra and red nucleus"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The striatum is the caudate plus putamen; the lentiform nucleus is putamen plus globus pallidus.",
+      "topicId": "cns-basal",
+      "subtopic": "Basal ganglia anatomy",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-068",
+      "type": "single-best",
+      "stem": "The lentiform (lenticular) nucleus comprises the",
+      "options": [
+        {
+          "label": "A",
+          "text": "caudate and thalamus"
+        },
+        {
+          "label": "B",
+          "text": "subthalamic nucleus and putamen"
+        },
+        {
+          "label": "C",
+          "text": "putamen and globus pallidus"
+        },
+        {
+          "label": "D",
+          "text": "caudate nucleus and putamen"
+        },
+        {
+          "label": "E",
+          "text": "globus pallidus and substantia nigra"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The lentiform nucleus is the putamen combined with the globus pallidus.",
+      "topicId": "cns-basal",
+      "subtopic": "Basal ganglia anatomy",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-069",
+      "type": "single-best",
+      "stem": "The basal ganglia form a feedback loop that projects back to the cortex by way of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "spinal cord"
+        },
+        {
+          "label": "B",
+          "text": "medulla"
+        },
+        {
+          "label": "C",
+          "text": "hippocampus"
+        },
+        {
+          "label": "D",
+          "text": "thalamus"
+        },
+        {
+          "label": "E",
+          "text": "cerebellum"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Cortex projects to the basal ganglia, which project to the thalamus, which projects back to the cortex (the extrapyramidal loop).",
+      "topicId": "cns-basal",
+      "subtopic": "Basal ganglia circuitry",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-070",
+      "type": "single-best",
+      "stem": "Dopaminergic projections from the substantia nigra to the striatum are",
+      "options": [
+        {
+          "label": "A",
+          "text": "excitatory"
+        },
+        {
+          "label": "B",
+          "text": "cholinergic"
+        },
+        {
+          "label": "C",
+          "text": "adrenergic"
+        },
+        {
+          "label": "D",
+          "text": "glutamatergic"
+        },
+        {
+          "label": "E",
+          "text": "inhibitory"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The nigrostriatal dopamine projection is inhibitory; its loss causes Parkinson's disease.",
+      "topicId": "cns-basal",
+      "subtopic": "Basal ganglia transmitters",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-071",
+      "type": "single-best",
+      "stem": "The excitatory neurotransmitter projecting from the cortex to the caudate and putamen is",
+      "options": [
+        {
+          "label": "A",
+          "text": "acetylcholine"
+        },
+        {
+          "label": "B",
+          "text": "dopamine"
+        },
+        {
+          "label": "C",
+          "text": "GABA"
+        },
+        {
+          "label": "D",
+          "text": "glycine"
+        },
+        {
+          "label": "E",
+          "text": "noradrenaline"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Cortical input to the striatum is excitatory and cholinergic (ACh); dopamine and GABA pathways are inhibitory.",
+      "topicId": "cns-basal",
+      "subtopic": "Basal ganglia transmitters",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-072",
+      "type": "single-best",
+      "stem": "Overall, the basal ganglia exert mainly an ___ influence on movement.",
+      "options": [
+        {
+          "label": "A",
+          "text": "reflex only"
+        },
+        {
+          "label": "B",
+          "text": "inhibitory"
+        },
+        {
+          "label": "C",
+          "text": "mainly excitatory"
+        },
+        {
+          "label": "D",
+          "text": "purely sensory"
+        },
+        {
+          "label": "E",
+          "text": "autonomic"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The basal ganglia act like brakes, suppressing unwanted movement so posture and voluntary action are balanced.",
+      "topicId": "cns-basal",
+      "subtopic": "Basal ganglia function",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-073",
+      "type": "single-best",
+      "stem": "Parkinson's disease results from degeneration of dopaminergic neurons in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "subthalamic nucleus"
+        },
+        {
+          "label": "B",
+          "text": "globus pallidus"
+        },
+        {
+          "label": "C",
+          "text": "substantia nigra"
+        },
+        {
+          "label": "D",
+          "text": "caudate nucleus"
+        },
+        {
+          "label": "E",
+          "text": "putamen"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Loss of nigrostriatal dopamine neurons in the substantia nigra underlies Parkinson's disease.",
+      "topicId": "cns-basal",
+      "subtopic": "Basal ganglia disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-074",
+      "type": "single-best",
+      "stem": "The classic triad of Parkinson's disease is tremor, bradykinesia and",
+      "options": [
+        {
+          "label": "A",
+          "text": "intention tremor"
+        },
+        {
+          "label": "B",
+          "text": "chorea"
+        },
+        {
+          "label": "C",
+          "text": "hemiballismus"
+        },
+        {
+          "label": "D",
+          "text": "cogwheel rigidity"
+        },
+        {
+          "label": "E",
+          "text": "flaccid paralysis"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Parkinsonism features resting tremor, bradykinesia and cogwheel rigidity.",
+      "topicId": "cns-basal",
+      "subtopic": "Basal ganglia disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-075",
+      "type": "single-best",
+      "stem": "Huntington's disease, a hereditary chorea with dementia, results from degeneration of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "the substantia nigra"
+        },
+        {
+          "label": "B",
+          "text": "the subthalamic nucleus"
+        },
+        {
+          "label": "C",
+          "text": "the globus pallidus"
+        },
+        {
+          "label": "D",
+          "text": "the dentate nucleus"
+        },
+        {
+          "label": "E",
+          "text": "the caudate and putamen"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Huntington's degenerates the caudate and putamen, losing striatal cholinergic and GABA neurons and causing chorea.",
+      "topicId": "cns-basal",
+      "subtopic": "Basal ganglia disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-076",
+      "type": "single-best",
+      "stem": "Wild, flailing movements of the limbs on one side (hemiballismus) are caused by damage to the",
+      "options": [
+        {
+          "label": "A",
+          "text": "subthalamic nucleus"
+        },
+        {
+          "label": "B",
+          "text": "caudate nucleus"
+        },
+        {
+          "label": "C",
+          "text": "substantia nigra"
+        },
+        {
+          "label": "D",
+          "text": "dentate nucleus"
+        },
+        {
+          "label": "E",
+          "text": "red nucleus"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "A lesion (often a stroke) of the contralateral subthalamic nucleus produces hemiballismus.",
+      "topicId": "cns-basal",
+      "subtopic": "Basal ganglia disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-077",
+      "type": "single-best",
+      "stem": "Rapid, involuntary, dance-like movements from degeneration of the caudate nucleus describe",
+      "options": [
+        {
+          "label": "A",
+          "text": "ballismus"
+        },
+        {
+          "label": "B",
+          "text": "chorea"
+        },
+        {
+          "label": "C",
+          "text": "athetosis"
+        },
+        {
+          "label": "D",
+          "text": "resting tremor"
+        },
+        {
+          "label": "E",
+          "text": "rigidity"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Chorea is rapid involuntary movement linked to caudate degeneration (as in Huntington's).",
+      "topicId": "cns-basal",
+      "subtopic": "Basal ganglia disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-078",
+      "type": "single-best",
+      "stem": "Slow, continuous writhing movements, typically from a lesion of the lentiform nucleus, are",
+      "options": [
+        {
+          "label": "A",
+          "text": "intention tremor"
+        },
+        {
+          "label": "B",
+          "text": "clonus"
+        },
+        {
+          "label": "C",
+          "text": "athetosis"
+        },
+        {
+          "label": "D",
+          "text": "chorea"
+        },
+        {
+          "label": "E",
+          "text": "hemiballismus"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Athetosis is slow writhing movement associated with lenticular (lentiform) nucleus lesions.",
+      "topicId": "cns-basal",
+      "subtopic": "Basal ganglia disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-079",
+      "type": "single-best",
+      "stem": "Which category best describes the movement disorder of Parkinson's disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "purely sensory loss"
+        },
+        {
+          "label": "B",
+          "text": "cerebellar incoordination"
+        },
+        {
+          "label": "C",
+          "text": "spastic paralysis"
+        },
+        {
+          "label": "D",
+          "text": "hypokinetic, with difficulty initiating movement"
+        },
+        {
+          "label": "E",
+          "text": "hyperkinetic, with excess involuntary movement"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Parkinson's is hypokinetic (akinesia/bradykinesia); chorea, athetosis and ballismus are hyperkinetic.",
+      "topicId": "cns-basal",
+      "subtopic": "Basal ganglia disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-080",
+      "type": "single-best",
+      "stem": "The thick bundle of fibres connecting the two cerebral hemispheres is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "internal capsule"
+        },
+        {
+          "label": "B",
+          "text": "fornix"
+        },
+        {
+          "label": "C",
+          "text": "corona radiata"
+        },
+        {
+          "label": "D",
+          "text": "anterior commissure"
+        },
+        {
+          "label": "E",
+          "text": "corpus callosum"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The corpus callosum is the main commissure linking the hemispheres.",
+      "topicId": "cns-brain",
+      "subtopic": "Cerebral hemispheres",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-081",
+      "type": "single-best",
+      "stem": "In most people, the language areas (Broca's and Wernicke's) lie in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "left hemisphere"
+        },
+        {
+          "label": "B",
+          "text": "right hemisphere"
+        },
+        {
+          "label": "C",
+          "text": "both hemispheres equally"
+        },
+        {
+          "label": "D",
+          "text": "cerebellum"
+        },
+        {
+          "label": "E",
+          "text": "brainstem"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "About 87% are right-handed and left-hemisphere dominant for speech and motor control.",
+      "topicId": "cns-brain",
+      "subtopic": "Cerebral dominance",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-082",
+      "type": "single-best",
+      "stem": "The occipital lobe is primarily concerned with",
+      "options": [
+        {
+          "label": "A",
+          "text": "emotion"
+        },
+        {
+          "label": "B",
+          "text": "vision"
+        },
+        {
+          "label": "C",
+          "text": "hearing"
+        },
+        {
+          "label": "D",
+          "text": "language comprehension"
+        },
+        {
+          "label": "E",
+          "text": "voluntary movement"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The occipital lobe is the visual centre; damage causes visual field defects or agnosia.",
+      "topicId": "cns-brain",
+      "subtopic": "Cerebral lobes",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-cns-083",
+      "type": "single-best",
+      "stem": "Damage to the visual association area of the occipital lobe (sparing the primary visual cortex) causes the person to",
+      "options": [
+        {
+          "label": "A",
+          "text": "lose pain sensation"
+        },
+        {
+          "label": "B",
+          "text": "develop expressive aphasia"
+        },
+        {
+          "label": "C",
+          "text": "see but not recognise objects"
+        },
+        {
+          "label": "D",
+          "text": "become completely blind"
+        },
+        {
+          "label": "E",
+          "text": "lose hearing"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "With only the association area lost, vision remains but recognition of what is seen is impaired (visual agnosia).",
+      "topicId": "cns-brain",
+      "subtopic": "Cerebral lobes",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-084",
+      "type": "single-best",
+      "stem": "Difficulty understanding spoken words, from damage to Wernicke's area in the temporal lobe, is",
+      "options": [
+        {
+          "label": "A",
+          "text": "dysarthria"
+        },
+        {
+          "label": "B",
+          "text": "apraxia"
+        },
+        {
+          "label": "C",
+          "text": "agnosia"
+        },
+        {
+          "label": "D",
+          "text": "receptive (Wernicke's) aphasia"
+        },
+        {
+          "label": "E",
+          "text": "expressive (Broca's) aphasia"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Wernicke's area handles comprehension; its damage gives fluent but meaningless speech with poor understanding.",
+      "topicId": "cns-brain",
+      "subtopic": "Cortical areas",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-085",
+      "type": "single-best",
+      "stem": "The relay station through which all sensory input except smell passes on its way to the cortex is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "hypothalamus"
+        },
+        {
+          "label": "B",
+          "text": "basal ganglia"
+        },
+        {
+          "label": "C",
+          "text": "cerebellum"
+        },
+        {
+          "label": "D",
+          "text": "medulla"
+        },
+        {
+          "label": "E",
+          "text": "thalamus"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The thalamus relays vision, hearing, touch and more to the cortex; olfaction largely bypasses it.",
+      "topicId": "cns-brain",
+      "subtopic": "Diencephalon",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-086",
+      "type": "single-best",
+      "stem": "Homeostatic control of temperature, hunger, thirst and circadian rhythm is centred in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "hypothalamus"
+        },
+        {
+          "label": "B",
+          "text": "thalamus"
+        },
+        {
+          "label": "C",
+          "text": "cerebellum"
+        },
+        {
+          "label": "D",
+          "text": "pons"
+        },
+        {
+          "label": "E",
+          "text": "occipital lobe"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The hypothalamus maintains body set-points for temperature, hunger, thirst, water balance and sleep-wake cycles.",
+      "topicId": "cns-brain",
+      "subtopic": "Diencephalon",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-087",
+      "type": "single-best",
+      "stem": "The limbic structure essential for forming new long-term (declarative) memories is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "cingulate gyrus"
+        },
+        {
+          "label": "B",
+          "text": "hippocampus"
+        },
+        {
+          "label": "C",
+          "text": "amygdala"
+        },
+        {
+          "label": "D",
+          "text": "thalamus"
+        },
+        {
+          "label": "E",
+          "text": "globus pallidus"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The hippocampus consolidates new declarative memories; its loss prevents new memory formation.",
+      "topicId": "cns-brain",
+      "subtopic": "Limbic system",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-088",
+      "type": "single-best",
+      "stem": "Bilateral destruction of the limbic/amygdaloid region can produce",
+      "options": [
+        {
+          "label": "A",
+          "text": "loss of pain and temperature sensation"
+        },
+        {
+          "label": "B",
+          "text": "resting tremor and rigidity"
+        },
+        {
+          "label": "C",
+          "text": "loss of fear and anger with raised appetite"
+        },
+        {
+          "label": "D",
+          "text": "spastic paralysis of the limbs"
+        },
+        {
+          "label": "E",
+          "text": "intention tremor and ataxia"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Limbic (amygdala) lesions blunt fear/anger and can raise appetite and sexual behaviour (a Kluver-Bucy-like picture).",
+      "topicId": "cns-brain",
+      "subtopic": "Limbic system",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-089",
+      "type": "single-best",
+      "stem": "The medulla oblongata contains vital centres for",
+      "options": [
+        {
+          "label": "A",
+          "text": "voluntary movement of the hand"
+        },
+        {
+          "label": "B",
+          "text": "long-term memory storage"
+        },
+        {
+          "label": "C",
+          "text": "colour perception"
+        },
+        {
+          "label": "D",
+          "text": "heart rate, breathing and swallowing"
+        },
+        {
+          "label": "E",
+          "text": "vision and hearing"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The medulla houses cardiovascular, respiratory and swallowing centres.",
+      "topicId": "cns-brain",
+      "subtopic": "Brainstem",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-090",
+      "type": "single-best",
+      "stem": "The sleep-wake cycle and level of consciousness depend on the reticular activating system, concentrated in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "the occipital cortex"
+        },
+        {
+          "label": "B",
+          "text": "the cerebellar vermis"
+        },
+        {
+          "label": "C",
+          "text": "the dorsal columns"
+        },
+        {
+          "label": "D",
+          "text": "the basal ganglia"
+        },
+        {
+          "label": "E",
+          "text": "the reticular formation"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The reticular activating system, with key fibres in the pons, governs arousal, alertness and the sleep-wake cycle.",
+      "topicId": "cns-brain",
+      "subtopic": "Brainstem",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-091",
+      "type": "single-best",
+      "stem": "The resting EEG rhythm seen in a relaxed adult with eyes closed is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "alpha rhythm"
+        },
+        {
+          "label": "B",
+          "text": "beta rhythm"
+        },
+        {
+          "label": "C",
+          "text": "delta rhythm"
+        },
+        {
+          "label": "D",
+          "text": "theta rhythm"
+        },
+        {
+          "label": "E",
+          "text": "gamma rhythm"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Alpha waves (about 8-13 Hz) dominate when a person is awake, relaxed with eyes shut.",
+      "topicId": "cns-brain",
+      "subtopic": "EEG and sleep",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-092",
+      "type": "single-best",
+      "stem": "Rapid-eye-movement (REM) sleep is characterised by",
+      "options": [
+        {
+          "label": "A",
+          "text": "sleepwalking and night terrors"
+        },
+        {
+          "label": "B",
+          "text": "vivid dreaming with a fast, awake-like EEG"
+        },
+        {
+          "label": "C",
+          "text": "the deepest slow-wave sleep"
+        },
+        {
+          "label": "D",
+          "text": "high-voltage delta waves throughout"
+        },
+        {
+          "label": "E",
+          "text": "complete absence of brain activity"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "REM sleep shows a desynchronised, awake-like EEG, muscle atonia and vivid dreaming.",
+      "topicId": "cns-brain",
+      "subtopic": "EEG and sleep",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-093",
+      "type": "single-best",
+      "stem": "The midbrain contains reflex centres mainly for",
+      "options": [
+        {
+          "label": "A",
+          "text": "speech production"
+        },
+        {
+          "label": "B",
+          "text": "temperature set-point"
+        },
+        {
+          "label": "C",
+          "text": "visual and auditory reflexes"
+        },
+        {
+          "label": "D",
+          "text": "heart rate and blood pressure"
+        },
+        {
+          "label": "E",
+          "text": "declarative memory"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The midbrain mediates visual and auditory reflexes and some motor coordination.",
+      "topicId": "cns-brain",
+      "subtopic": "Brainstem",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-094",
+      "type": "single-best",
+      "stem": "The tentorium, which separates the hindbrain and brainstem from the rest of the brain, is part of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "basal ganglia"
+        },
+        {
+          "label": "B",
+          "text": "corpus callosum"
+        },
+        {
+          "label": "C",
+          "text": "reticular formation"
+        },
+        {
+          "label": "D",
+          "text": "meninges"
+        },
+        {
+          "label": "E",
+          "text": "ventricular system"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The tentorium cerebelli is a fold of the meninges; 'infratentorial' means in the hindbrain or brainstem.",
+      "topicId": "cns-brain",
+      "subtopic": "Meninges",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-095",
+      "type": "single-best",
+      "stem": "Cerebrospinal fluid is contained within and circulates through the",
+      "options": [
+        {
+          "label": "A",
+          "text": "the basal ganglia nuclei"
+        },
+        {
+          "label": "B",
+          "text": "the white-matter tracts"
+        },
+        {
+          "label": "C",
+          "text": "the corpus callosum"
+        },
+        {
+          "label": "D",
+          "text": "the dorsal root ganglia"
+        },
+        {
+          "label": "E",
+          "text": "the cerebral ventricles"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "CSF fills the ventricles and central canal and bathes the brain and cord beneath the meninges.",
+      "topicId": "cns-brain",
+      "subtopic": "CSF",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cns-096",
+      "type": "single-best",
+      "stem": "A fever is produced when pyrogens act on the hypothalamus to",
+      "options": [
+        {
+          "label": "A",
+          "text": "raise the temperature set-point"
+        },
+        {
+          "label": "B",
+          "text": "lower the temperature set-point"
+        },
+        {
+          "label": "C",
+          "text": "abolish the set-point entirely"
+        },
+        {
+          "label": "D",
+          "text": "block cutaneous vasoconstriction"
+        },
+        {
+          "label": "E",
+          "text": "stop sweating permanently"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Pyrogens reset the hypothalamic set-point upward, so the body defends a higher temperature (fever).",
+      "topicId": "cns-thermo",
+      "subtopic": "Fever",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cns-097",
+      "type": "single-best",
+      "stem": "In a newborn, non-shivering thermogenesis generates heat mainly in",
+      "options": [
+        {
+          "label": "A",
+          "text": "the lungs"
+        },
+        {
+          "label": "B",
+          "text": "brown adipose tissue"
+        },
+        {
+          "label": "C",
+          "text": "skeletal muscle"
+        },
+        {
+          "label": "D",
+          "text": "the liver only"
+        },
+        {
+          "label": "E",
+          "text": "the skin"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Brown fat, rich in mitochondria and uncoupling protein, produces heat without shivering in neonates.",
+      "topicId": "cns-thermo",
+      "subtopic": "Heat production",
+      "difficulty": "hard"
+    }
+  ]
+}
