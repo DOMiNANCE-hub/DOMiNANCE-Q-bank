@@ -23,7 +23,8 @@ const DATA = [
   './data/physiology/renal-curated.json',
   './data/physiology/resp-past.json', './data/physiology/resp-topics.json',
   './data/physiology/resp-curated.json',
-  './data/physiology/senses-past.json', './data/physiology/senses-topics.json'];
+  './data/physiology/senses-past.json', './data/physiology/senses-topics.json',
+  './data/physiology/senses-curated.json'];
 
 self.addEventListener('install', e => {
   self.skipWaiting();

@@ -1,0 +1,2599 @@
+{
+  "id": "phys-senses-curated",
+  "title": "Special senses physiology — DOMiNANCE Originals",
+  "source": "KNUST Physiology special senses lectures + syllabus",
+  "questions": [
+    {
+      "id": "dq-phys-senses-001",
+      "type": "single-best",
+      "stem": "The large, onion-shaped receptors deep in the dermis that respond to rapid vibration and deep pressure are",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pacinian corpuscles"
+        },
+        {
+          "label": "B",
+          "text": "Meissner's corpuscles"
+        },
+        {
+          "label": "C",
+          "text": "Merkel discs"
+        },
+        {
+          "label": "D",
+          "text": "Ruffini endings"
+        },
+        {
+          "label": "E",
+          "text": "free nerve endings"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Pacinian corpuscles are rapidly adapting receptors for vibration and deep pressure.",
+      "topicId": "sen-somatic",
+      "subtopic": "Skin receptors",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-002",
+      "type": "single-best",
+      "stem": "Fine, discriminative touch and low-frequency flutter in hairless skin are detected mainly by",
+      "options": [
+        {
+          "label": "A",
+          "text": "free nerve endings"
+        },
+        {
+          "label": "B",
+          "text": "Meissner's corpuscles"
+        },
+        {
+          "label": "C",
+          "text": "Pacinian corpuscles"
+        },
+        {
+          "label": "D",
+          "text": "Ruffini endings"
+        },
+        {
+          "label": "E",
+          "text": "Golgi tendon organs"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Meissner's corpuscles in the dermal papillae of glabrous skin sense light touch and flutter.",
+      "topicId": "sen-somatic",
+      "subtopic": "Skin receptors",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-003",
+      "type": "single-best",
+      "stem": "Sharp, well-localised 'first' pain is carried by which afferent fibres?",
+      "options": [
+        {
+          "label": "A",
+          "text": "B fibres"
+        },
+        {
+          "label": "B",
+          "text": "postganglionic sympathetic fibres"
+        },
+        {
+          "label": "C",
+          "text": "myelinated A-delta fibres"
+        },
+        {
+          "label": "D",
+          "text": "unmyelinated C fibres"
+        },
+        {
+          "label": "E",
+          "text": "large A-alpha fibres"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Fast A-delta fibres carry sharp, localised first pain; slow C fibres carry dull, aching second pain.",
+      "topicId": "sen-somatic",
+      "subtopic": "Pain",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-004",
+      "type": "single-best",
+      "stem": "Dull, aching, poorly localised 'second' pain is conducted by",
+      "options": [
+        {
+          "label": "A",
+          "text": "A-beta fibres"
+        },
+        {
+          "label": "B",
+          "text": "A-alpha fibres"
+        },
+        {
+          "label": "C",
+          "text": "Ia afferents"
+        },
+        {
+          "label": "D",
+          "text": "unmyelinated C fibres"
+        },
+        {
+          "label": "E",
+          "text": "myelinated A-delta fibres"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Slow, unmyelinated C fibres carry the diffuse, aching second pain.",
+      "topicId": "sen-somatic",
+      "subtopic": "Pain",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-005",
+      "type": "single-best",
+      "stem": "Pain felt at a body-surface site distant from the diseased viscera is called",
+      "options": [
+        {
+          "label": "A",
+          "text": "phantom pain"
+        },
+        {
+          "label": "B",
+          "text": "fast pain"
+        },
+        {
+          "label": "C",
+          "text": "neuropathic pain"
+        },
+        {
+          "label": "D",
+          "text": "hyperalgesia"
+        },
+        {
+          "label": "E",
+          "text": "referred pain"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Referred pain is perceived in a somatic area sharing spinal segments with the affected viscus.",
+      "topicId": "sen-somatic",
+      "subtopic": "Pain",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-006",
+      "type": "single-best",
+      "stem": "According to the gate-control theory, pain transmission can be reduced by activity in",
+      "options": [
+        {
+          "label": "A",
+          "text": "large-diameter touch (A-beta) afferents"
+        },
+        {
+          "label": "B",
+          "text": "unmyelinated C fibres"
+        },
+        {
+          "label": "C",
+          "text": "gamma motor neurons"
+        },
+        {
+          "label": "D",
+          "text": "postganglionic sympathetic fibres"
+        },
+        {
+          "label": "E",
+          "text": "the corticospinal tract"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Input from large A-beta touch fibres 'closes the gate' in the dorsal horn, damping pain transmission.",
+      "topicId": "sen-somatic",
+      "subtopic": "Pain",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-007",
+      "type": "single-best",
+      "stem": "Visceral pain receptors in the gut are stimulated most effectively by",
+      "options": [
+        {
+          "label": "A",
+          "text": "a small clean incision"
+        },
+        {
+          "label": "B",
+          "text": "stretch and distension of the wall"
+        },
+        {
+          "label": "C",
+          "text": "light cutting of the mucosa"
+        },
+        {
+          "label": "D",
+          "text": "a localised cold stimulus"
+        },
+        {
+          "label": "E",
+          "text": "gentle brushing of the surface"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Hollow viscera are insensitive to cutting but respond to stretch, distension, ischaemia and spasm.",
+      "topicId": "sen-somatic",
+      "subtopic": "Pain",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-008",
+      "type": "single-best",
+      "stem": "Two body regions with the poorest two-point discrimination (least dense touch receptors) are the",
+      "options": [
+        {
+          "label": "A",
+          "text": "tongue and the fingertips"
+        },
+        {
+          "label": "B",
+          "text": "face and the hand"
+        },
+        {
+          "label": "C",
+          "text": "back and the calf"
+        },
+        {
+          "label": "D",
+          "text": "fingertips and the lips"
+        },
+        {
+          "label": "E",
+          "text": "palm and the sole"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The back and calf have sparse receptors and poor two-point discrimination; fingertips and lips are the most sensitive.",
+      "topicId": "sen-somatic",
+      "subtopic": "Skin receptors",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-009",
+      "type": "single-best",
+      "stem": "About 80% of the refraction of light entering the eye occurs at the",
+      "options": [
+        {
+          "label": "A",
+          "text": "vitreous humour"
+        },
+        {
+          "label": "B",
+          "text": "aqueous humour"
+        },
+        {
+          "label": "C",
+          "text": "retina"
+        },
+        {
+          "label": "D",
+          "text": "cornea"
+        },
+        {
+          "label": "E",
+          "text": "crystalline lens"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The cornea provides roughly 80% of refractive power; the adjustable lens provides about 20%.",
+      "topicId": "sen-eye",
+      "subtopic": "Refraction",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-010",
+      "type": "single-best",
+      "stem": "Aqueous humour drains from the anterior chamber through the trabecular meshwork into the",
+      "options": [
+        {
+          "label": "A",
+          "text": "nasolacrimal duct"
+        },
+        {
+          "label": "B",
+          "text": "vitreous cavity"
+        },
+        {
+          "label": "C",
+          "text": "central retinal vein"
+        },
+        {
+          "label": "D",
+          "text": "optic canal"
+        },
+        {
+          "label": "E",
+          "text": "canal of Schlemm"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Aqueous drains via the trabecular meshwork into the canal of Schlemm at the filtration angle; imbalance raises intraocular pressure (glaucoma).",
+      "topicId": "sen-eye",
+      "subtopic": "Aqueous humour",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-011",
+      "type": "single-best",
+      "stem": "During accommodation for a near object, the ciliary muscle",
+      "options": [
+        {
+          "label": "A",
+          "text": "contracts, the zonules relax and the lens becomes more rounded"
+        },
+        {
+          "label": "B",
+          "text": "relaxes, the zonules tighten and the lens flattens"
+        },
+        {
+          "label": "C",
+          "text": "contracts, the zonules tighten and the lens flattens"
+        },
+        {
+          "label": "D",
+          "text": "relaxes, the zonules relax and the lens rounds up"
+        },
+        {
+          "label": "E",
+          "text": "contracts while the pupil dilates widely"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Ciliary contraction slackens the zonules, letting the elastic lens round up to increase refractive power for near vision.",
+      "topicId": "sen-eye",
+      "subtopic": "Accommodation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-012",
+      "type": "single-best",
+      "stem": "The age-related loss of accommodation from a stiffening lens and ciliary muscle is called",
+      "options": [
+        {
+          "label": "A",
+          "text": "glaucoma"
+        },
+        {
+          "label": "B",
+          "text": "presbyopia"
+        },
+        {
+          "label": "C",
+          "text": "myopia"
+        },
+        {
+          "label": "D",
+          "text": "hypermetropia"
+        },
+        {
+          "label": "E",
+          "text": "astigmatism"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Presbyopia is the declining near focus of age, corrected with reading or bifocal lenses.",
+      "topicId": "sen-eye",
+      "subtopic": "Accommodation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-013",
+      "type": "single-best",
+      "stem": "The 'near response' when viewing a close object consists of accommodation, pupillary constriction and",
+      "options": [
+        {
+          "label": "A",
+          "text": "dilation of both pupils"
+        },
+        {
+          "label": "B",
+          "text": "relaxation of the ciliary muscle"
+        },
+        {
+          "label": "C",
+          "text": "convergence of the visual axes"
+        },
+        {
+          "label": "D",
+          "text": "divergence of the visual axes"
+        },
+        {
+          "label": "E",
+          "text": "elevation of both eyes"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The near triad is accommodation, convergence and pupillary constriction.",
+      "topicId": "sen-eye",
+      "subtopic": "Accommodation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-014",
+      "type": "single-best",
+      "stem": "Myopia (short-sightedness), in which light focuses in front of the retina, is corrected with",
+      "options": [
+        {
+          "label": "A",
+          "text": "cylindrical lenses"
+        },
+        {
+          "label": "B",
+          "text": "prismatic lenses"
+        },
+        {
+          "label": "C",
+          "text": "plano lenses"
+        },
+        {
+          "label": "D",
+          "text": "biconcave (diverging) lenses"
+        },
+        {
+          "label": "E",
+          "text": "biconvex (converging) lenses"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "A concave diverging lens moves the focal point back onto the retina in myopia.",
+      "topicId": "sen-eye",
+      "subtopic": "Refractive errors",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-015",
+      "type": "single-best",
+      "stem": "Hypermetropia (long-sightedness) occurs when the image focuses behind the retina and is corrected with",
+      "options": [
+        {
+          "label": "A",
+          "text": "concave (diverging) lenses"
+        },
+        {
+          "label": "B",
+          "text": "cylindrical lenses"
+        },
+        {
+          "label": "C",
+          "text": "tinted lenses"
+        },
+        {
+          "label": "D",
+          "text": "prism lenses"
+        },
+        {
+          "label": "E",
+          "text": "convex (converging) lenses"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "A convex converging lens brings the focal point forward onto the retina in hypermetropia.",
+      "topicId": "sen-eye",
+      "subtopic": "Refractive errors",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-016",
+      "type": "single-best",
+      "stem": "Astigmatism arises from an uneven curvature of the cornea or lens and is corrected with",
+      "options": [
+        {
+          "label": "A",
+          "text": "spherocylindrical lenses"
+        },
+        {
+          "label": "B",
+          "text": "simple concave lenses"
+        },
+        {
+          "label": "C",
+          "text": "simple convex lenses"
+        },
+        {
+          "label": "D",
+          "text": "pinhole lenses"
+        },
+        {
+          "label": "E",
+          "text": "bifocal lenses"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Uneven corneal/lens curvature focuses light at more than one point; spherocylindrical lenses correct it.",
+      "topicId": "sen-eye",
+      "subtopic": "Refractive errors",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-017",
+      "type": "single-best",
+      "stem": "The region of the retina with the sharpest visual acuity, containing almost only cones and no blood vessels, is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "blind spot"
+        },
+        {
+          "label": "B",
+          "text": "fovea centralis"
+        },
+        {
+          "label": "C",
+          "text": "optic disc"
+        },
+        {
+          "label": "D",
+          "text": "ora serrata"
+        },
+        {
+          "label": "E",
+          "text": "macula periphery"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The fovea is packed with cones, lacks overlying vessels and gives the highest acuity.",
+      "topicId": "sen-eye",
+      "subtopic": "Retina",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-018",
+      "type": "single-best",
+      "stem": "Rods differ from cones in that rods",
+      "options": [
+        {
+          "label": "A",
+          "text": "provide the sharpest visual acuity"
+        },
+        {
+          "label": "B",
+          "text": "number only a few million in the retina"
+        },
+        {
+          "label": "C",
+          "text": "are far more sensitive and mediate night (scotopic) vision"
+        },
+        {
+          "label": "D",
+          "text": "have a higher threshold and mediate colour vision"
+        },
+        {
+          "label": "E",
+          "text": "are concentrated at the fovea"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Rods are dim-light, non-colour (scotopic) receptors; cones are higher-threshold colour (photopic) receptors.",
+      "topicId": "sen-eye",
+      "subtopic": "Photoreceptors",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-019",
+      "type": "single-best",
+      "stem": "The visual pigment of rods, rhodopsin, is formed from the protein scotopsin and the vitamin A derivative",
+      "options": [
+        {
+          "label": "A",
+          "text": "retinoic acid"
+        },
+        {
+          "label": "B",
+          "text": "beta-carotene"
+        },
+        {
+          "label": "C",
+          "text": "retinyl palmitate"
+        },
+        {
+          "label": "D",
+          "text": "11-cis retinal"
+        },
+        {
+          "label": "E",
+          "text": "all-trans retinal"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Rhodopsin is scotopsin plus the chromophore 11-cis retinal, which light isomerises to all-trans retinal.",
+      "topicId": "sen-eye",
+      "subtopic": "Phototransduction",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-020",
+      "type": "single-best",
+      "stem": "In the dark, photoreceptor CNG channels are held open and the cell is depolarised because of a high level of",
+      "options": [
+        {
+          "label": "A",
+          "text": "cyclic AMP"
+        },
+        {
+          "label": "B",
+          "text": "inositol trisphosphate"
+        },
+        {
+          "label": "C",
+          "text": "calmodulin"
+        },
+        {
+          "label": "D",
+          "text": "all-trans retinal"
+        },
+        {
+          "label": "E",
+          "text": "cyclic GMP"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "High cGMP keeps cyclic-nucleotide-gated channels open (the dark current), depolarising the cell and releasing glutamate.",
+      "topicId": "sen-eye",
+      "subtopic": "Phototransduction",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-021",
+      "type": "single-best",
+      "stem": "When light strikes a rod, activated rhodopsin stimulates transducin, which activates phosphodiesterase to",
+      "options": [
+        {
+          "label": "A",
+          "text": "hydrolyse cGMP, closing CNG channels and hyperpolarising the cell"
+        },
+        {
+          "label": "B",
+          "text": "synthesise cGMP, opening channels and depolarising the cell"
+        },
+        {
+          "label": "C",
+          "text": "release glutamate from the synaptic terminal"
+        },
+        {
+          "label": "D",
+          "text": "regenerate 11-cis retinal in the disc membranes"
+        },
+        {
+          "label": "E",
+          "text": "open voltage-gated sodium channels"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "PDE breaks down cGMP, the CNG channels close, Na+ influx stops and the photoreceptor hyperpolarises, reducing glutamate release.",
+      "topicId": "sen-eye",
+      "subtopic": "Phototransduction",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-022",
+      "type": "single-best",
+      "stem": "Unusually, the response of a photoreceptor to light is to",
+      "options": [
+        {
+          "label": "A",
+          "text": "depolarise then fire a single spike"
+        },
+        {
+          "label": "B",
+          "text": "hyperpolarise and release less glutamate"
+        },
+        {
+          "label": "C",
+          "text": "depolarise and release more glutamate"
+        },
+        {
+          "label": "D",
+          "text": "fire a train of action potentials"
+        },
+        {
+          "label": "E",
+          "text": "release acetylcholine onto bipolar cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Light hyperpolarises the photoreceptor (from about -30 to -90 mV), decreasing its tonic glutamate release.",
+      "topicId": "sen-eye",
+      "subtopic": "Phototransduction",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-023",
+      "type": "single-best",
+      "stem": "Convergence of many rods onto a single bipolar cell increases sensitivity but",
+      "options": [
+        {
+          "label": "A",
+          "text": "prevents dark adaptation"
+        },
+        {
+          "label": "B",
+          "text": "raises the light threshold"
+        },
+        {
+          "label": "C",
+          "text": "decreases visual acuity"
+        },
+        {
+          "label": "D",
+          "text": "increases visual acuity"
+        },
+        {
+          "label": "E",
+          "text": "abolishes colour vision"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Pooling many rods boosts sensitivity in dim light at the cost of spatial resolution (acuity).",
+      "topicId": "sen-eye",
+      "subtopic": "Retinal processing",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-024",
+      "type": "single-best",
+      "stem": "Human trichromatic colour vision depends on three cone types most sensitive to",
+      "options": [
+        {
+          "label": "A",
+          "text": "ultraviolet, green and red"
+        },
+        {
+          "label": "B",
+          "text": "blue, green and infrared"
+        },
+        {
+          "label": "C",
+          "text": "yellow, cyan and magenta"
+        },
+        {
+          "label": "D",
+          "text": "red, green and blue wavelengths"
+        },
+        {
+          "label": "E",
+          "text": "red, yellow and blue wavelengths"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Three cone photopsins tuned to long (red), medium (green) and short (blue) wavelengths underlie trichromatic vision.",
+      "topicId": "sen-eye",
+      "subtopic": "Colour vision",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-025",
+      "type": "single-best",
+      "stem": "Red-green colour blindness is far more common in males because the relevant cone-pigment genes are",
+      "options": [
+        {
+          "label": "A",
+          "text": "carried on the Y chromosome"
+        },
+        {
+          "label": "B",
+          "text": "autosomal dominant"
+        },
+        {
+          "label": "C",
+          "text": "mitochondrial"
+        },
+        {
+          "label": "D",
+          "text": "found on chromosome 21"
+        },
+        {
+          "label": "E",
+          "text": "carried on the X chromosome"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The red and green opsin genes are X-linked, so males (one X) are affected far more often than females.",
+      "topicId": "sen-eye",
+      "subtopic": "Colour vision",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-026",
+      "type": "single-best",
+      "stem": "A person completely lacking the green cone pigment has",
+      "options": [
+        {
+          "label": "A",
+          "text": "deuteranopia"
+        },
+        {
+          "label": "B",
+          "text": "protanopia"
+        },
+        {
+          "label": "C",
+          "text": "tritanopia"
+        },
+        {
+          "label": "D",
+          "text": "monochromacy"
+        },
+        {
+          "label": "E",
+          "text": "normal trichromacy"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Absence of the green cone is deuteranopia; absent red is protanopia; absent blue is tritanopia.",
+      "topicId": "sen-eye",
+      "subtopic": "Colour vision",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-027",
+      "type": "single-best",
+      "stem": "Dark adaptation, the recovery of sensitivity on entering darkness, is nearly complete after about",
+      "options": [
+        {
+          "label": "A",
+          "text": "a few seconds, by bleaching of pigment"
+        },
+        {
+          "label": "B",
+          "text": "about 20 minutes, rods continue for hours"
+        },
+        {
+          "label": "C",
+          "text": "1 minute, mostly by the cones"
+        },
+        {
+          "label": "D",
+          "text": "5 minutes, driven by pupil dilation"
+        },
+        {
+          "label": "E",
+          "text": "an hour, driven entirely by cones"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Cones adapt first; full dark adaptation is largely reached by ~20 minutes but rods keep improving for hours.",
+      "topicId": "sen-eye",
+      "subtopic": "Adaptation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-028",
+      "type": "single-best",
+      "stem": "Night blindness (nyctalopia), an impairment of dark adaptation, results from a deficiency of",
+      "options": [
+        {
+          "label": "A",
+          "text": "vitamin B12"
+        },
+        {
+          "label": "B",
+          "text": "vitamin C"
+        },
+        {
+          "label": "C",
+          "text": "vitamin A"
+        },
+        {
+          "label": "D",
+          "text": "vitamin D"
+        },
+        {
+          "label": "E",
+          "text": "vitamin K"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Vitamin A is needed to regenerate rhodopsin; its lack impairs dark adaptation, causing night blindness.",
+      "topicId": "sen-eye",
+      "subtopic": "Adaptation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-029",
+      "type": "single-best",
+      "stem": "Pupillary constriction to bright light is produced by the ___ muscle of the iris under parasympathetic control.",
+      "options": [
+        {
+          "label": "A",
+          "text": "ciliary"
+        },
+        {
+          "label": "B",
+          "text": "superior tarsal"
+        },
+        {
+          "label": "C",
+          "text": "levator palpebrae"
+        },
+        {
+          "label": "D",
+          "text": "circular (sphincter)"
+        },
+        {
+          "label": "E",
+          "text": "radial (dilator)"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Parasympathetic activity contracts the circular sphincter pupillae to constrict the pupil; sympathetic radial fibres dilate it.",
+      "topicId": "sen-eye",
+      "subtopic": "Pupil",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-030",
+      "type": "single-best",
+      "stem": "The parasympathetic constrictor fibres of the pupillary light reflex originate in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "pretectal nucleus"
+        },
+        {
+          "label": "B",
+          "text": "lateral geniculate nucleus"
+        },
+        {
+          "label": "C",
+          "text": "superior colliculus"
+        },
+        {
+          "label": "D",
+          "text": "superior cervical ganglion"
+        },
+        {
+          "label": "E",
+          "text": "Edinger-Westphal nucleus"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Light reflex: optic tract to pretectum, then the Edinger-Westphal nucleus, whose preganglionic fibres run in CN III to the ciliary ganglion.",
+      "topicId": "sen-eye",
+      "subtopic": "Pupil",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-031",
+      "type": "single-best",
+      "stem": "Shining light into one eye normally constricts the other pupil as well; this is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "consensual light reflex"
+        },
+        {
+          "label": "B",
+          "text": "accommodation reflex"
+        },
+        {
+          "label": "C",
+          "text": "corneal reflex"
+        },
+        {
+          "label": "D",
+          "text": "vestibulo-ocular reflex"
+        },
+        {
+          "label": "E",
+          "text": "near response"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The consensual reflex constricts the opposite pupil because of bilateral projections to both Edinger-Westphal nuclei.",
+      "topicId": "sen-eye",
+      "subtopic": "Pupil",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-032",
+      "type": "single-best",
+      "stem": "At the optic chiasm, the fibres that cross to the opposite side are those from the",
+      "options": [
+        {
+          "label": "A",
+          "text": "entire right retina"
+        },
+        {
+          "label": "B",
+          "text": "nasal halves of each retina"
+        },
+        {
+          "label": "C",
+          "text": "temporal halves of each retina"
+        },
+        {
+          "label": "D",
+          "text": "upper halves of each retina"
+        },
+        {
+          "label": "E",
+          "text": "foveal cones only"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Nasal retinal fibres decussate at the chiasm; temporal fibres stay uncrossed.",
+      "topicId": "sen-eye",
+      "subtopic": "Visual pathway",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-033",
+      "type": "single-best",
+      "stem": "A lesion at the optic chiasm classically produces",
+      "options": [
+        {
+          "label": "A",
+          "text": "a superior quadrantanopia"
+        },
+        {
+          "label": "B",
+          "text": "central scotoma only"
+        },
+        {
+          "label": "C",
+          "text": "bitemporal hemianopia"
+        },
+        {
+          "label": "D",
+          "text": "homonymous hemianopia"
+        },
+        {
+          "label": "E",
+          "text": "total blindness of one eye"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Chiasmal damage interrupts the crossing nasal fibres, causing loss of both temporal visual fields (bitemporal hemianopia).",
+      "topicId": "sen-eye",
+      "subtopic": "Visual pathway",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-034",
+      "type": "single-best",
+      "stem": "Most optic-tract fibres relay in which thalamic structure before reaching the visual cortex?",
+      "options": [
+        {
+          "label": "A",
+          "text": "pretectal nucleus"
+        },
+        {
+          "label": "B",
+          "text": "inferior colliculus"
+        },
+        {
+          "label": "C",
+          "text": "ventral posterior nucleus"
+        },
+        {
+          "label": "D",
+          "text": "lateral geniculate nucleus"
+        },
+        {
+          "label": "E",
+          "text": "medial geniculate nucleus"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The LGN of the thalamus relays visual information via the optic radiations to the primary visual cortex.",
+      "topicId": "sen-eye",
+      "subtopic": "Visual pathway",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-035",
+      "type": "single-best",
+      "stem": "The image formed on the retina before the brain interprets it is",
+      "options": [
+        {
+          "label": "A",
+          "text": "virtual, upright and magnified"
+        },
+        {
+          "label": "B",
+          "text": "real, upright and reduced"
+        },
+        {
+          "label": "C",
+          "text": "virtual, inverted and reduced"
+        },
+        {
+          "label": "D",
+          "text": "real, upright and magnified"
+        },
+        {
+          "label": "E",
+          "text": "real, inverted and left-right reversed"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The eye's optics form a real, inverted, left-right-reversed, smaller image; the brain re-interprets it as upright.",
+      "topicId": "sen-eye",
+      "subtopic": "Image formation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-036",
+      "type": "single-best",
+      "stem": "The lateral rectus muscle moves the eye",
+      "options": [
+        {
+          "label": "A",
+          "text": "outward, away from the nose (abduction)"
+        },
+        {
+          "label": "B",
+          "text": "inward, toward the nose (adduction)"
+        },
+        {
+          "label": "C",
+          "text": "upward (elevation)"
+        },
+        {
+          "label": "D",
+          "text": "downward (depression)"
+        },
+        {
+          "label": "E",
+          "text": "in rotation (intorsion)"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The lateral rectus abducts the eye; the medial rectus adducts it.",
+      "topicId": "sen-eye",
+      "subtopic": "Eye movements",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-037",
+      "type": "single-best",
+      "stem": "Rapid 'ballistic' jumps that shift fixation abruptly from one point to another are",
+      "options": [
+        {
+          "label": "A",
+          "text": "nystagmus drifts"
+        },
+        {
+          "label": "B",
+          "text": "saccadic movements"
+        },
+        {
+          "label": "C",
+          "text": "smooth pursuit movements"
+        },
+        {
+          "label": "D",
+          "text": "vergence movements"
+        },
+        {
+          "label": "E",
+          "text": "vestibulo-ocular movements"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Saccades are the fast jumps between fixation points; smooth pursuit tracks a moving target.",
+      "topicId": "sen-eye",
+      "subtopic": "Eye movements",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-038",
+      "type": "single-best",
+      "stem": "Clouding of the lens from aggregation of crystallin proteins is called",
+      "options": [
+        {
+          "label": "A",
+          "text": "retinal detachment"
+        },
+        {
+          "label": "B",
+          "text": "keratitis"
+        },
+        {
+          "label": "C",
+          "text": "cataract"
+        },
+        {
+          "label": "D",
+          "text": "glaucoma"
+        },
+        {
+          "label": "E",
+          "text": "macular degeneration"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "A cataract is lens opacity from clumped crystallins; it is treated by replacing the lens.",
+      "topicId": "sen-eye",
+      "subtopic": "Lens",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-senses-039",
+      "type": "single-best",
+      "stem": "Glaucoma damages the retina and optic nerve because",
+      "options": [
+        {
+          "label": "A",
+          "text": "the lens loses its elasticity with age"
+        },
+        {
+          "label": "B",
+          "text": "rhodopsin fails to regenerate in the dark"
+        },
+        {
+          "label": "C",
+          "text": "the cornea becomes unevenly curved"
+        },
+        {
+          "label": "D",
+          "text": "aqueous production exceeds its drainage"
+        },
+        {
+          "label": "E",
+          "text": "vitreous humour leaks out of the posterior cavity"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "When aqueous outflow cannot keep up with production, intraocular pressure rises and damages the optic nerve.",
+      "topicId": "sen-eye",
+      "subtopic": "Aqueous humour",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-040",
+      "type": "single-best",
+      "stem": "The Eustachian (pharyngotympanic) tube connects the middle ear to the nasopharynx in order to",
+      "options": [
+        {
+          "label": "A",
+          "text": "drain endolymph from the cochlea"
+        },
+        {
+          "label": "B",
+          "text": "carry sound to the oval window"
+        },
+        {
+          "label": "C",
+          "text": "supply blood to the ossicles"
+        },
+        {
+          "label": "D",
+          "text": "secrete cerumen into the canal"
+        },
+        {
+          "label": "E",
+          "text": "equalise pressure across the eardrum"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The Eustachian tube equalises middle-ear pressure with atmospheric pressure across the tympanic membrane.",
+      "topicId": "sen-ear",
+      "subtopic": "Middle ear",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-041",
+      "type": "single-best",
+      "stem": "The three auditory ossicles, in order from the eardrum, are the",
+      "options": [
+        {
+          "label": "A",
+          "text": "malleus, incus and stapes"
+        },
+        {
+          "label": "B",
+          "text": "stapes, incus and malleus"
+        },
+        {
+          "label": "C",
+          "text": "incus, malleus and stapes"
+        },
+        {
+          "label": "D",
+          "text": "malleus, stapes and incus"
+        },
+        {
+          "label": "E",
+          "text": "incus, stapes and malleus"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Vibration passes eardrum to malleus (hammer), incus (anvil), then stapes (stirrup) at the oval window.",
+      "topicId": "sen-ear",
+      "subtopic": "Middle ear",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-senses-042",
+      "type": "single-best",
+      "stem": "The ossicular chain works chiefly as an impedance-matching device to",
+      "options": [
+        {
+          "label": "A",
+          "text": "convert sound into nerve impulses directly"
+        },
+        {
+          "label": "B",
+          "text": "overcome the air-to-fluid impedance mismatch"
+        },
+        {
+          "label": "C",
+          "text": "amplify only the lowest sound frequencies"
+        },
+        {
+          "label": "D",
+          "text": "protect the cochlea from all loud sounds"
+        },
+        {
+          "label": "E",
+          "text": "equalise pressure across the eardrum"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The ossicles match low-impedance air to high-impedance cochlear fluid via area ratio, lever action and eardrum buckling.",
+      "topicId": "sen-ear",
+      "subtopic": "Middle ear",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-043",
+      "type": "single-best",
+      "stem": "The protective tympanic (attenuation) reflex to loud sound is produced by contraction of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "buccinator and masseter"
+        },
+        {
+          "label": "B",
+          "text": "levator palpebrae and superior tarsal"
+        },
+        {
+          "label": "C",
+          "text": "stapedius and tensor tympani"
+        },
+        {
+          "label": "D",
+          "text": "orbicularis oculi and frontalis"
+        },
+        {
+          "label": "E",
+          "text": "cricothyroid and thyroarytenoid"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The stapedius and tensor tympani stiffen the ossicular chain to reduce transmission of loud sounds.",
+      "topicId": "sen-ear",
+      "subtopic": "Middle ear",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-044",
+      "type": "single-best",
+      "stem": "The fluid filling the membranous labyrinth (including the scala media) is",
+      "options": [
+        {
+          "label": "A",
+          "text": "aqueous humour"
+        },
+        {
+          "label": "B",
+          "text": "cerebrospinal fluid"
+        },
+        {
+          "label": "C",
+          "text": "plasma filtrate"
+        },
+        {
+          "label": "D",
+          "text": "endolymph"
+        },
+        {
+          "label": "E",
+          "text": "perilymph"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Endolymph fills the membranous labyrinth; perilymph fills the surrounding bony labyrinth (scala vestibuli and tympani).",
+      "topicId": "sen-ear",
+      "subtopic": "Inner ear",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-045",
+      "type": "single-best",
+      "stem": "The organ of Corti, the receptor organ for hearing, rests on the",
+      "options": [
+        {
+          "label": "A",
+          "text": "tectorial membrane"
+        },
+        {
+          "label": "B",
+          "text": "Reissner's membrane"
+        },
+        {
+          "label": "C",
+          "text": "oval window"
+        },
+        {
+          "label": "D",
+          "text": "modiolus"
+        },
+        {
+          "label": "E",
+          "text": "basilar membrane"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The organ of Corti sits on the basilar membrane; its hair-cell stereocilia contact the tectorial membrane.",
+      "topicId": "sen-ear",
+      "subtopic": "Cochlea",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-046",
+      "type": "single-best",
+      "stem": "Reissner's membrane separates the scala media from the",
+      "options": [
+        {
+          "label": "A",
+          "text": "scala vestibuli"
+        },
+        {
+          "label": "B",
+          "text": "scala tympani"
+        },
+        {
+          "label": "C",
+          "text": "middle-ear cavity"
+        },
+        {
+          "label": "D",
+          "text": "vestibule"
+        },
+        {
+          "label": "E",
+          "text": "semicircular canals"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Reissner's membrane forms the roof of the cochlear duct, separating it from the scala vestibuli.",
+      "topicId": "sen-ear",
+      "subtopic": "Cochlea",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-047",
+      "type": "single-best",
+      "stem": "The basilar membrane is narrowest and stiffest at the",
+      "options": [
+        {
+          "label": "A",
+          "text": "modiolus"
+        },
+        {
+          "label": "B",
+          "text": "base of the cochlea, nearest the oval window"
+        },
+        {
+          "label": "C",
+          "text": "apex of the cochlea, at the helicotrema"
+        },
+        {
+          "label": "D",
+          "text": "middle turn of the cochlea"
+        },
+        {
+          "label": "E",
+          "text": "round window"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The base is narrow and stiff (high frequencies); the apex is wide and floppy (low frequencies) — the basis of place coding.",
+      "topicId": "sen-ear",
+      "subtopic": "Cochlea",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-048",
+      "type": "single-best",
+      "stem": "According to the place theory of pitch (von Helmholtz), high-frequency sounds maximally vibrate the basilar membrane",
+      "options": [
+        {
+          "label": "A",
+          "text": "only at the helicotrema"
+        },
+        {
+          "label": "B",
+          "text": "at Reissner's membrane"
+        },
+        {
+          "label": "C",
+          "text": "at its base"
+        },
+        {
+          "label": "D",
+          "text": "at its apex"
+        },
+        {
+          "label": "E",
+          "text": "uniformly along its length"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "High frequencies peak near the stiff base; low frequencies peak near the flexible apex.",
+      "topicId": "sen-ear",
+      "subtopic": "Pitch",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-049",
+      "type": "single-best",
+      "stem": "The true auditory receptor cells, as opposed to the amplifying cells, are the",
+      "options": [
+        {
+          "label": "A",
+          "text": "supporting (Deiters) cells"
+        },
+        {
+          "label": "B",
+          "text": "spiral ganglion cells"
+        },
+        {
+          "label": "C",
+          "text": "cells of the stria vascularis"
+        },
+        {
+          "label": "D",
+          "text": "inner hair cells"
+        },
+        {
+          "label": "E",
+          "text": "outer hair cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The single row of inner hair cells are the auditory receptors; the three rows of outer hair cells amplify the signal.",
+      "topicId": "sen-ear",
+      "subtopic": "Organ of Corti",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-050",
+      "type": "single-best",
+      "stem": "Outer hair cells sharpen and amplify the response by",
+      "options": [
+        {
+          "label": "A",
+          "text": "secreting endolymph into the scala media"
+        },
+        {
+          "label": "B",
+          "text": "generating their own action potentials"
+        },
+        {
+          "label": "C",
+          "text": "releasing perilymph into the cochlea"
+        },
+        {
+          "label": "D",
+          "text": "equalising pressure at the round window"
+        },
+        {
+          "label": "E",
+          "text": "changing length against the tectorial membrane"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Electromotile outer hair cells lengthen and shorten, boosting basilar-membrane vibration so quiet sounds are heard.",
+      "topicId": "sen-ear",
+      "subtopic": "Organ of Corti",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-051",
+      "type": "single-best",
+      "stem": "Hair-cell transduction begins when stereocilia bend toward the tallest one, putting tension on the",
+      "options": [
+        {
+          "label": "A",
+          "text": "tip links, opening transduction (MET) channels"
+        },
+        {
+          "label": "B",
+          "text": "tectorial membrane, closing ion channels"
+        },
+        {
+          "label": "C",
+          "text": "basilar membrane, releasing perilymph"
+        },
+        {
+          "label": "D",
+          "text": "cupula, bending the kinocilium"
+        },
+        {
+          "label": "E",
+          "text": "otolithic membrane, shifting otoconia"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Deflection toward the tallest stereocilium tensions the tip links, opening MET channels.",
+      "topicId": "sen-ear",
+      "subtopic": "Transduction",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-052",
+      "type": "single-best",
+      "stem": "Opening of the hair cell's MET channels depolarises it mainly by the entry of",
+      "options": [
+        {
+          "label": "A",
+          "text": "bicarbonate from the endolymph"
+        },
+        {
+          "label": "B",
+          "text": "potassium from the endolymph"
+        },
+        {
+          "label": "C",
+          "text": "sodium from the perilymph"
+        },
+        {
+          "label": "D",
+          "text": "calcium from the perilymph"
+        },
+        {
+          "label": "E",
+          "text": "chloride from the endolymph"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The K+-rich endolymph drives K+ (and some Ca2+) into the hair cell through MET channels, depolarising it.",
+      "topicId": "sen-ear",
+      "subtopic": "Transduction",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-053",
+      "type": "single-best",
+      "stem": "The round window functions to",
+      "options": [
+        {
+          "label": "A",
+          "text": "secrete endolymph"
+        },
+        {
+          "label": "B",
+          "text": "house the organ of Corti"
+        },
+        {
+          "label": "C",
+          "text": "dissipate the pressure of fluid vibration in the cochlea"
+        },
+        {
+          "label": "D",
+          "text": "transmit vibration from the stapes to the perilymph"
+        },
+        {
+          "label": "E",
+          "text": "equalise middle-ear air pressure"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "As the oval window pushes in, the round window bulges out, relieving the otherwise incompressible cochlear fluid.",
+      "topicId": "sen-ear",
+      "subtopic": "Sound transmission",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-054",
+      "type": "single-best",
+      "stem": "Primary auditory fibres of the cochlear nerve first synapse in the brainstem at the",
+      "options": [
+        {
+          "label": "A",
+          "text": "medial geniculate body"
+        },
+        {
+          "label": "B",
+          "text": "superior olivary nucleus"
+        },
+        {
+          "label": "C",
+          "text": "lateral lemniscus"
+        },
+        {
+          "label": "D",
+          "text": "cochlear nucleus"
+        },
+        {
+          "label": "E",
+          "text": "inferior colliculus"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "CN VIII fibres synapse first in the cochlear nucleus; later relays include the superior olive, inferior colliculus and medial geniculate.",
+      "topicId": "sen-ear",
+      "subtopic": "Central pathway",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-055",
+      "type": "single-best",
+      "stem": "The thalamic relay for hearing, projecting to the auditory cortex of the temporal lobe, is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "lateral geniculate body"
+        },
+        {
+          "label": "B",
+          "text": "ventral posterior nucleus"
+        },
+        {
+          "label": "C",
+          "text": "pulvinar"
+        },
+        {
+          "label": "D",
+          "text": "pretectal nucleus"
+        },
+        {
+          "label": "E",
+          "text": "medial geniculate body"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The medial geniculate body relays to the primary auditory cortex; the LGN is visual.",
+      "topicId": "sen-ear",
+      "subtopic": "Central pathway",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-056",
+      "type": "single-best",
+      "stem": "A lesion of one cochlear nerve or cochlear nucleus causes",
+      "options": [
+        {
+          "label": "A",
+          "text": "deafness in the ipsilateral ear"
+        },
+        {
+          "label": "B",
+          "text": "deafness in the contralateral ear"
+        },
+        {
+          "label": "C",
+          "text": "bilateral total deafness"
+        },
+        {
+          "label": "D",
+          "text": "loss of only high frequencies in both ears"
+        },
+        {
+          "label": "E",
+          "text": "no hearing loss at all"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Because the pathway is still unilateral at this level, a cochlear nerve/nucleus lesion deafens the same-side ear; central lesions above do not cause unilateral deafness.",
+      "topicId": "sen-ear",
+      "subtopic": "Central pathway",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-057",
+      "type": "single-best",
+      "stem": "The brainstem nuclei most important for localising the direction of a sound are the",
+      "options": [
+        {
+          "label": "A",
+          "text": "vestibular nuclei"
+        },
+        {
+          "label": "B",
+          "text": "superior olivary nuclei"
+        },
+        {
+          "label": "C",
+          "text": "cochlear nuclei"
+        },
+        {
+          "label": "D",
+          "text": "inferior colliculi"
+        },
+        {
+          "label": "E",
+          "text": "medial geniculate bodies"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The superior olivary complex compares timing and intensity between the two ears for sound localisation.",
+      "topicId": "sen-ear",
+      "subtopic": "Central processing",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-058",
+      "type": "single-best",
+      "stem": "Conductive hearing loss, unlike sensorineural loss, is due to",
+      "options": [
+        {
+          "label": "A",
+          "text": "a lesion of the auditory cortex"
+        },
+        {
+          "label": "B",
+          "text": "loss of the medial geniculate body"
+        },
+        {
+          "label": "C",
+          "text": "a treatable block in the outer or middle ear"
+        },
+        {
+          "label": "D",
+          "text": "permanent damage to cochlear hair cells"
+        },
+        {
+          "label": "E",
+          "text": "degeneration of the auditory nerve"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Conductive loss results from an outer/middle-ear block and is often reversible; sensorineural loss from hair-cell or nerve damage is usually permanent.",
+      "topicId": "sen-ear",
+      "subtopic": "Hearing loss",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-059",
+      "type": "single-best",
+      "stem": "Age-related sensorineural hearing loss is termed",
+      "options": [
+        {
+          "label": "A",
+          "text": "tinnitus"
+        },
+        {
+          "label": "B",
+          "text": "otosclerosis"
+        },
+        {
+          "label": "C",
+          "text": "nystagmus"
+        },
+        {
+          "label": "D",
+          "text": "presbycusis"
+        },
+        {
+          "label": "E",
+          "text": "presbyopia"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Presbycusis is the sensorineural hearing loss of ageing (presbyopia is the visual analogue).",
+      "topicId": "sen-ear",
+      "subtopic": "Hearing loss",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-060",
+      "type": "single-best",
+      "stem": "The semicircular canals detect",
+      "options": [
+        {
+          "label": "A",
+          "text": "linear acceleration and gravity"
+        },
+        {
+          "label": "B",
+          "text": "static head tilt only"
+        },
+        {
+          "label": "C",
+          "text": "sound frequency"
+        },
+        {
+          "label": "D",
+          "text": "sustained constant-velocity rotation"
+        },
+        {
+          "label": "E",
+          "text": "angular (rotational) acceleration of the head"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The three orthogonal semicircular canals sense angular acceleration; the otolith organs sense linear acceleration and gravity.",
+      "topicId": "sen-ear",
+      "subtopic": "Vestibular",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-061",
+      "type": "single-best",
+      "stem": "The sensory epithelium within the ampulla of each semicircular canal is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "crista ampullaris"
+        },
+        {
+          "label": "B",
+          "text": "macula utriculi"
+        },
+        {
+          "label": "C",
+          "text": "organ of Corti"
+        },
+        {
+          "label": "D",
+          "text": "macula sacculi"
+        },
+        {
+          "label": "E",
+          "text": "stria vascularis"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The crista ampullaris, whose hair cells are embedded in the gelatinous cupula, detects endolymph movement during rotation.",
+      "topicId": "sen-ear",
+      "subtopic": "Vestibular",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-062",
+      "type": "single-best",
+      "stem": "During angular acceleration, the stimulus that bends the cupula and its hair cells is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "contraction of the stapedius"
+        },
+        {
+          "label": "B",
+          "text": "inertial lag of the endolymph"
+        },
+        {
+          "label": "C",
+          "text": "shift of calcium carbonate otoconia"
+        },
+        {
+          "label": "D",
+          "text": "vibration of the basilar membrane"
+        },
+        {
+          "label": "E",
+          "text": "change in perilymph pressure"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Endolymph lags behind the rotating canal by inertia, deflecting the cupula and bending the crista hair cells.",
+      "topicId": "sen-ear",
+      "subtopic": "Vestibular",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-063",
+      "type": "single-best",
+      "stem": "The utricle and saccule sense linear acceleration and head tilt by means of the inertia of",
+      "options": [
+        {
+          "label": "A",
+          "text": "perilymph in the scala tympani"
+        },
+        {
+          "label": "B",
+          "text": "the tectorial membrane"
+        },
+        {
+          "label": "C",
+          "text": "dense otoconia in a gelatinous membrane"
+        },
+        {
+          "label": "D",
+          "text": "endolymph within the semicircular canals"
+        },
+        {
+          "label": "E",
+          "text": "the cupula over the crista ampullaris"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Dense otoconia on the otolithic membrane lag during linear acceleration, bending the macular hair cells.",
+      "topicId": "sen-ear",
+      "subtopic": "Vestibular",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-064",
+      "type": "single-best",
+      "stem": "Vestibular hair cells are unusual in that, even without stimulation, they",
+      "options": [
+        {
+          "label": "A",
+          "text": "fire only when the head is upright"
+        },
+        {
+          "label": "B",
+          "text": "release transmitter only on hyperpolarisation"
+        },
+        {
+          "label": "C",
+          "text": "generate their own action potentials"
+        },
+        {
+          "label": "D",
+          "text": "release transmitter and fire at a baseline (tonic) rate"
+        },
+        {
+          "label": "E",
+          "text": "are completely silent until the head moves"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Tonic transmitter release gives a resting discharge that rises or falls as the hair bundle bends toward or away from the kinocilium.",
+      "topicId": "sen-ear",
+      "subtopic": "Vestibular",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-065",
+      "type": "single-best",
+      "stem": "Vestibular input reaches the extraocular motor nuclei to generate compensatory eye movements by way of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "the vestibulospinal tract"
+        },
+        {
+          "label": "B",
+          "text": "the lateral lemniscus"
+        },
+        {
+          "label": "C",
+          "text": "the optic radiation"
+        },
+        {
+          "label": "D",
+          "text": "the corticospinal tract"
+        },
+        {
+          "label": "E",
+          "text": "medial longitudinal fasciculus"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The medial longitudinal fasciculus links the vestibular nuclei to the eye-movement nuclei (the vestibulo-ocular reflex).",
+      "topicId": "sen-ear",
+      "subtopic": "Vestibular",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-066",
+      "type": "single-best",
+      "stem": "The five primary taste submodalities are sweet, sour, salty, bitter and",
+      "options": [
+        {
+          "label": "A",
+          "text": "umami"
+        },
+        {
+          "label": "B",
+          "text": "astringent"
+        },
+        {
+          "label": "C",
+          "text": "metallic"
+        },
+        {
+          "label": "D",
+          "text": "pungent"
+        },
+        {
+          "label": "E",
+          "text": "alkaline"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Umami (savoury), elicited by glutamate, is the fifth basic taste alongside sweet, sour, salty and bitter.",
+      "topicId": "sen-chem",
+      "subtopic": "Taste",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-senses-067",
+      "type": "single-best",
+      "stem": "Umami taste is elicited mainly by",
+      "options": [
+        {
+          "label": "A",
+          "text": "citric acid"
+        },
+        {
+          "label": "B",
+          "text": "glutamate"
+        },
+        {
+          "label": "C",
+          "text": "sucrose"
+        },
+        {
+          "label": "D",
+          "text": "sodium chloride"
+        },
+        {
+          "label": "E",
+          "text": "quinine"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Glutamate (and certain ribonucleotides in meat) produces the savoury umami taste.",
+      "topicId": "sen-chem",
+      "subtopic": "Taste",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-068",
+      "type": "single-best",
+      "stem": "The salty taste is produced primarily by the presence of",
+      "options": [
+        {
+          "label": "A",
+          "text": "quinine"
+        },
+        {
+          "label": "B",
+          "text": "glucose"
+        },
+        {
+          "label": "C",
+          "text": "sodium ions"
+        },
+        {
+          "label": "D",
+          "text": "hydrogen ions"
+        },
+        {
+          "label": "E",
+          "text": "glutamate"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Saltiness comes chiefly from Na+ entering taste cells directly through ion channels.",
+      "topicId": "sen-chem",
+      "subtopic": "Taste",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-069",
+      "type": "single-best",
+      "stem": "Sweet, bitter and umami tastes are all detected through",
+      "options": [
+        {
+          "label": "A",
+          "text": "stretch-activated channels"
+        },
+        {
+          "label": "B",
+          "text": "voltage-gated sodium channels"
+        },
+        {
+          "label": "C",
+          "text": "mechanically gated tip links"
+        },
+        {
+          "label": "D",
+          "text": "G-protein-coupled receptors"
+        },
+        {
+          "label": "E",
+          "text": "direct passage of ions through channels"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Sweet, bitter and umami use GPCRs coupled to gustducin; salt and sour act more directly through ion channels.",
+      "topicId": "sen-chem",
+      "subtopic": "Taste transduction",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-070",
+      "type": "single-best",
+      "stem": "The G protein coupled to sweet and bitter taste receptors is",
+      "options": [
+        {
+          "label": "A",
+          "text": "transducin"
+        },
+        {
+          "label": "B",
+          "text": "rhodopsin kinase"
+        },
+        {
+          "label": "C",
+          "text": "calmodulin"
+        },
+        {
+          "label": "D",
+          "text": "gastrin"
+        },
+        {
+          "label": "E",
+          "text": "gustducin"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Gustducin is the taste-cell G protein activating PLC-beta2 to generate IP3 and open TRPM5 channels.",
+      "topicId": "sen-chem",
+      "subtopic": "Taste transduction",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-071",
+      "type": "single-best",
+      "stem": "Sour taste is detected by hydrogen ions acting on taste cells described as",
+      "options": [
+        {
+          "label": "A",
+          "text": "type III (presynaptic) cells"
+        },
+        {
+          "label": "B",
+          "text": "type I glial-like cells"
+        },
+        {
+          "label": "C",
+          "text": "type II receptor cells"
+        },
+        {
+          "label": "D",
+          "text": "type IV basal cells"
+        },
+        {
+          "label": "E",
+          "text": "olfactory sensory neurons"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Type III presynaptic cells sense sour (H+); type II cells detect sweet/bitter/umami; type I are glial-like and handle salt and clear transmitter.",
+      "topicId": "sen-chem",
+      "subtopic": "Taste cells",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-072",
+      "type": "single-best",
+      "stem": "Which tongue papillae contain no taste buds and are purely mechanical?",
+      "options": [
+        {
+          "label": "A",
+          "text": "vallate papillae"
+        },
+        {
+          "label": "B",
+          "text": "filiform papillae"
+        },
+        {
+          "label": "C",
+          "text": "fungiform papillae"
+        },
+        {
+          "label": "D",
+          "text": "foliate papillae"
+        },
+        {
+          "label": "E",
+          "text": "circumvallate papillae"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Filiform papillae, the most numerous, are mechanical and lack taste buds; fungiform, foliate and circumvallate carry taste buds.",
+      "topicId": "sen-chem",
+      "subtopic": "Taste anatomy",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-073",
+      "type": "single-best",
+      "stem": "The idea of a fixed 'tongue map' for the basic tastes is",
+      "options": [
+        {
+          "label": "A",
+          "text": "true only in children"
+        },
+        {
+          "label": "B",
+          "text": "true only for sour and salty"
+        },
+        {
+          "label": "C",
+          "text": "false; the whole tongue senses all tastes"
+        },
+        {
+          "label": "D",
+          "text": "correct, with sweet only at the tip"
+        },
+        {
+          "label": "E",
+          "text": "correct, with bitter only at the back"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Responsiveness to all five modalities is present across the tongue; the classic tongue map is a myth.",
+      "topicId": "sen-chem",
+      "subtopic": "Taste anatomy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-074",
+      "type": "single-best",
+      "stem": "Taste afferents travel to the brainstem in cranial nerves",
+      "options": [
+        {
+          "label": "A",
+          "text": "V, VII and VIII"
+        },
+        {
+          "label": "B",
+          "text": "I, II and V"
+        },
+        {
+          "label": "C",
+          "text": "IX, X and XII"
+        },
+        {
+          "label": "D",
+          "text": "VII, IX and X"
+        },
+        {
+          "label": "E",
+          "text": "III, IV and VI"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Facial (VII), glossopharyngeal (IX) and vagus (X) carry taste to the nucleus of the solitary tract.",
+      "topicId": "sen-chem",
+      "subtopic": "Taste pathway",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-075",
+      "type": "single-best",
+      "stem": "All taste fibres first synapse centrally in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "lateral geniculate nucleus"
+        },
+        {
+          "label": "B",
+          "text": "olfactory bulb"
+        },
+        {
+          "label": "C",
+          "text": "inferior colliculus"
+        },
+        {
+          "label": "D",
+          "text": "Edinger-Westphal nucleus"
+        },
+        {
+          "label": "E",
+          "text": "nucleus of the solitary tract"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Taste fibres synapse in the nucleus tractus solitarius, then project to the thalamus and the gustatory cortex.",
+      "topicId": "sen-chem",
+      "subtopic": "Taste pathway",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-076",
+      "type": "single-best",
+      "stem": "Odorant molecules are detected by receptors on the cilia of olfactory sensory neurons located in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "olfactory epithelium of the nose"
+        },
+        {
+          "label": "B",
+          "text": "the hard palate"
+        },
+        {
+          "label": "C",
+          "text": "the circumvallate papillae"
+        },
+        {
+          "label": "D",
+          "text": "the Eustachian tube"
+        },
+        {
+          "label": "E",
+          "text": "the nasopharyngeal floor"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Olfactory receptor neurons sit in the olfactory epithelium at the roof of the nasal cavity.",
+      "topicId": "sen-chem",
+      "subtopic": "Smell",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-senses-077",
+      "type": "single-best",
+      "stem": "Olfactory transduction uses a G protein that activates adenylate cyclase to raise",
+      "options": [
+        {
+          "label": "A",
+          "text": "calmodulin, which closes channels"
+        },
+        {
+          "label": "B",
+          "text": "cyclic AMP, which opens cation channels"
+        },
+        {
+          "label": "C",
+          "text": "cyclic GMP, which closes channels"
+        },
+        {
+          "label": "D",
+          "text": "IP3, which releases stored calcium"
+        },
+        {
+          "label": "E",
+          "text": "diacylglycerol, which opens TRPM5"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The olfactory G protein raises cAMP, opening a cation channel; Ca2+ influx then opens Cl- channels for further depolarisation.",
+      "topicId": "sen-chem",
+      "subtopic": "Smell transduction",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-078",
+      "type": "single-best",
+      "stem": "The axons of olfactory receptor neurons form cranial nerve I and pass to the olfactory bulb through the",
+      "options": [
+        {
+          "label": "A",
+          "text": "internal acoustic meatus"
+        },
+        {
+          "label": "B",
+          "text": "jugular foramen"
+        },
+        {
+          "label": "C",
+          "text": "cribriform plate"
+        },
+        {
+          "label": "D",
+          "text": "foramen magnum"
+        },
+        {
+          "label": "E",
+          "text": "optic canal"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Olfactory axons pierce the cribriform plate to synapse in the olfactory bulb.",
+      "topicId": "sen-chem",
+      "subtopic": "Smell pathway",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-079",
+      "type": "single-best",
+      "stem": "Within the olfactory bulb, receptor axons synapse on the dendrites of second-order ___ at structures called glomeruli.",
+      "options": [
+        {
+          "label": "A",
+          "text": "pyramidal cells"
+        },
+        {
+          "label": "B",
+          "text": "basket cells"
+        },
+        {
+          "label": "C",
+          "text": "amacrine cells"
+        },
+        {
+          "label": "D",
+          "text": "mitral cells"
+        },
+        {
+          "label": "E",
+          "text": "Purkinje cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Olfactory receptor axons synapse on mitral-cell dendrites in the glomeruli of the olfactory bulb.",
+      "topicId": "sen-chem",
+      "subtopic": "Smell pathway",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-080",
+      "type": "single-best",
+      "stem": "Unlike the other sensory systems, olfactory information reaches the cortex",
+      "options": [
+        {
+          "label": "A",
+          "text": "only after relay in the lateral geniculate nucleus"
+        },
+        {
+          "label": "B",
+          "text": "only after crossing at the optic chiasm"
+        },
+        {
+          "label": "C",
+          "text": "via the medial geniculate body"
+        },
+        {
+          "label": "D",
+          "text": "after synapsing in the inferior colliculus"
+        },
+        {
+          "label": "E",
+          "text": "largely without first relaying in the thalamus"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Olfactory signals project directly to the olfactory cortex and limbic structures, largely bypassing the thalamic relay typical of other senses.",
+      "topicId": "sen-chem",
+      "subtopic": "Smell pathway",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-senses-081",
+      "type": "single-best",
+      "stem": "Taste receptor cells are notable for being",
+      "options": [
+        {
+          "label": "A",
+          "text": "among the shortest-lived cells (~10 days)"
+        },
+        {
+          "label": "B",
+          "text": "permanent, never replaced after birth"
+        },
+        {
+          "label": "C",
+          "text": "replaced only once in adulthood"
+        },
+        {
+          "label": "D",
+          "text": "incapable of regeneration once damaged"
+        },
+        {
+          "label": "E",
+          "text": "the longest-lived cells in the body"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Taste cells live only about 250 hours (~10 days) and are continually replaced from basal (type IV) cells.",
+      "topicId": "sen-chem",
+      "subtopic": "Taste cells",
+      "difficulty": "medium"
+    }
+  ]
+}
