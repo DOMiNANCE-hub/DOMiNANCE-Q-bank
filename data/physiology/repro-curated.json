@@ -2502,19 +2502,19 @@
     {
       "id": "dq-phys-repro-079",
       "type": "single-best",
-      "stem": "A pregnant woman has reduced plasma albumin concentration despite increased total circulating albumin mass. Why?",
+      "stem": "Why may maternal haematocrit fall during normal pregnancy despite a rise in red-cell mass?",
       "options": [
         {
           "label": "A",
-          "text": "Albumin is not made during gestation"
+          "text": "Reduced maternal erythropoietin secretion"
         },
         {
           "label": "B",
-          "text": "Placenta removes all serum protein"
+          "text": "Increased destruction of maternal red cells"
         },
         {
           "label": "C",
-          "text": "Fetal liver produces maternal albumin"
+          "text": "Reduced erythrocyte survival in the fetus"
         },
         {
           "label": "D",
@@ -2522,11 +2522,11 @@
         },
         {
           "label": "E",
-          "text": "Maternal kidneys stop protein handling"
+          "text": "Increased maternal red-cell sequestration"
         }
       ],
       "correctAnswer": "D",
-      "why": "Haemodilution from plasma volume expansion lowers measured albumin concentration.",
+      "why": "Maternal plasma volume expands more than red-cell mass, producing physiological haemodilution.",
       "topicId": "repro-preg",
       "subtopic": "Maternal changes",
       "difficulty": "hard"
@@ -4002,6 +4002,550 @@
       "topicId": "repro-fetal",
       "subtopic": "Neonatal circulation",
       "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-126",
+      "type": "single-best",
+      "stem": "Which clinical change most often marks the beginning of normal male puberty?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase in testicular volume"
+        },
+        {
+          "label": "B",
+          "text": "First appearance of facial hair"
+        },
+        {
+          "label": "C",
+          "text": "Maximum adult muscle mass"
+        },
+        {
+          "label": "D",
+          "text": "Permanent deepening of voice"
+        },
+        {
+          "label": "E",
+          "text": "Completion of spermatogenesis"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Testicular enlargement is typically the earliest clear sign of male puberty.",
+      "topicId": "repro-male",
+      "subtopic": "Pubertal onset",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-127",
+      "type": "single-best",
+      "stem": "Kisspeptin signalling at puberty chiefly increases secretion of which hypothalamic hormone?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thyrotropin-releasing hormone"
+        },
+        {
+          "label": "B",
+          "text": "Gonadotropin-releasing hormone"
+        },
+        {
+          "label": "C",
+          "text": "Corticotropin-releasing hormone"
+        },
+        {
+          "label": "D",
+          "text": "Growth hormone-releasing hormone"
+        },
+        {
+          "label": "E",
+          "text": "Somatostatin release"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Kisspeptin activates GnRH neurons and helps initiate pulsatile gonadotropin secretion.",
+      "topicId": "repro-male",
+      "subtopic": "Pubertal regulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-128",
+      "type": "single-best",
+      "stem": "A 14-year-old boy has no increase in testicular size. This most strongly suggests what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Normal completed puberty"
+        },
+        {
+          "label": "B",
+          "text": "Established androgen excess"
+        },
+        {
+          "label": "C",
+          "text": "Delayed pubertal development"
+        },
+        {
+          "label": "D",
+          "text": "Early spermatogenic maturity"
+        },
+        {
+          "label": "E",
+          "text": "Physiological male menopause"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Lack of testicular enlargement by 14 warrants evaluation for delayed puberty.",
+      "topicId": "repro-male",
+      "subtopic": "Pubertal disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-129",
+      "type": "single-best",
+      "stem": "A genetic male with deficient five-alpha reductase may develop ambiguous external genitalia because which hormone is deficient locally?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Testosterone alone"
+        },
+        {
+          "label": "B",
+          "text": "Cortisol"
+        },
+        {
+          "label": "C",
+          "text": "Aldosterone"
+        },
+        {
+          "label": "D",
+          "text": "Dihydrotestosterone"
+        },
+        {
+          "label": "E",
+          "text": "Estradiol"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "DHT supports development of male external genitalia during fetal life.",
+      "topicId": "repro-male",
+      "subtopic": "Male differentiation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-130",
+      "type": "single-best",
+      "stem": "Which androgen is particularly important for development of the male internal Wolffian ducts?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dihydrotestosterone"
+        },
+        {
+          "label": "B",
+          "text": "Dehydroepiandrosterone"
+        },
+        {
+          "label": "C",
+          "text": "Androstenedione"
+        },
+        {
+          "label": "D",
+          "text": "Estradiol"
+        },
+        {
+          "label": "E",
+          "text": "Testosterone"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Testosterone supports Wolffian duct derivatives, while DHT chiefly masculinizes external genitalia.",
+      "topicId": "repro-male",
+      "subtopic": "Male differentiation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-131",
+      "type": "single-best",
+      "stem": "What mechanical process helps maintain an erection after cavernosal smooth muscle relaxes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Compression of subtunical venules"
+        },
+        {
+          "label": "B",
+          "text": "Opening of deep venous channels"
+        },
+        {
+          "label": "C",
+          "text": "Contraction of cavernosal arteries"
+        },
+        {
+          "label": "D",
+          "text": "Reduced blood entry into sinusoids"
+        },
+        {
+          "label": "E",
+          "text": "Increased penile venous drainage"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Expanding sinusoids compress emissary veins against the tunica albuginea.",
+      "topicId": "repro-male",
+      "subtopic": "Male sexual response",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-132",
+      "type": "single-best",
+      "stem": "Increased sympathetic alpha-adrenergic activity terminates erection primarily by what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dilation of cavernosal resistance vessels"
+        },
+        {
+          "label": "B",
+          "text": "Contraction of cavernosal smooth muscle"
+        },
+        {
+          "label": "C",
+          "text": "Increased nitric oxide release"
+        },
+        {
+          "label": "D",
+          "text": "Increased intracellular cyclic GMP"
+        },
+        {
+          "label": "E",
+          "text": "Further occlusion of draining veins"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Alpha-adrenergic contraction reduces arterial inflow and restores venous drainage.",
+      "topicId": "repro-male",
+      "subtopic": "Male sexual response",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-133",
+      "type": "single-best",
+      "stem": "A boy with severe testosterone deficiency before puberty may develop which finding?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Excess facial and axillary hair"
+        },
+        {
+          "label": "B",
+          "text": "Marked increase in muscle bulk"
+        },
+        {
+          "label": "C",
+          "text": "Reduced virilization and deepening of voice"
+        },
+        {
+          "label": "D",
+          "text": "Accelerated prostatic maturation"
+        },
+        {
+          "label": "E",
+          "text": "Premature sperm production"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Without adequate testosterone the expected pubertal masculine changes are blunted.",
+      "topicId": "repro-male",
+      "subtopic": "Androgen deficiency",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-134",
+      "type": "single-best",
+      "stem": "Which event is commonly the first visible sign of female puberty?",
+      "options": [
+        {
+          "label": "A",
+          "text": "First menstruation or menarche"
+        },
+        {
+          "label": "B",
+          "text": "Completion of pelvic widening"
+        },
+        {
+          "label": "C",
+          "text": "Permanent cycle regularity"
+        },
+        {
+          "label": "D",
+          "text": "Breast budding or thelarche"
+        },
+        {
+          "label": "E",
+          "text": "First ovulatory menstrual cycle"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Thelarche generally precedes pubic hair maturation and menarche.",
+      "topicId": "repro-female",
+      "subtopic": "Pubertal onset",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-135",
+      "type": "single-best",
+      "stem": "Pulsatile rather than continuous GnRH signalling is physiologically necessary mainly to maintain what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Continuous pituitary receptor blockade"
+        },
+        {
+          "label": "B",
+          "text": "Complete ovarian steroid suppression"
+        },
+        {
+          "label": "C",
+          "text": "Permanent luteal hormone release"
+        },
+        {
+          "label": "D",
+          "text": "Continuous endogenous hCG secretion"
+        },
+        {
+          "label": "E",
+          "text": "Pituitary LH and FSH responsiveness"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Pulsatile GnRH sustains gonadotropin secretion; continuous exposure desensitizes the system.",
+      "topicId": "repro-female",
+      "subtopic": "Pubertal regulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-136",
+      "type": "single-best",
+      "stem": "What is the conventional clinical definition of natural menopause?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Twelve months without a period"
+        },
+        {
+          "label": "B",
+          "text": "Three months without a period"
+        },
+        {
+          "label": "C",
+          "text": "Six months without a period"
+        },
+        {
+          "label": "D",
+          "text": "One month without a period"
+        },
+        {
+          "label": "E",
+          "text": "Twenty-four months after menarche"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Natural menopause is diagnosed retrospectively after 12 consecutive months of amenorrhoea without another cause.",
+      "topicId": "repro-female",
+      "subtopic": "Menopause",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-137",
+      "type": "single-best",
+      "stem": "A menopausal woman's vasomotor hot flushes are principally associated with what endocrine transition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rapid rise in corpus luteum progesterone"
+        },
+        {
+          "label": "B",
+          "text": "Declining ovarian oestrogen output"
+        },
+        {
+          "label": "C",
+          "text": "Increased ovarian inhibin secretion"
+        },
+        {
+          "label": "D",
+          "text": "Persistent cyclic ovulatory LH surges"
+        },
+        {
+          "label": "E",
+          "text": "Growing numbers of ovarian follicles"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Follicle depletion lowers estrogen and affects central temperature regulation.",
+      "topicId": "repro-female",
+      "subtopic": "Menopause",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-138",
+      "type": "single-best",
+      "stem": "Why does ovulation cease in natural menopause despite elevated FSH?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Permanent pituitary LH deficiency"
+        },
+        {
+          "label": "B",
+          "text": "Continuous placental hCG release"
+        },
+        {
+          "label": "C",
+          "text": "Depletion of responsive ovarian follicles"
+        },
+        {
+          "label": "D",
+          "text": "Excess ovarian progesterone output"
+        },
+        {
+          "label": "E",
+          "text": "Complete absence of hypothalamic GnRH"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Loss of the follicular pool prevents effective ovarian response to high gonadotropins.",
+      "topicId": "repro-female",
+      "subtopic": "Menopause",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-139",
+      "type": "single-best",
+      "stem": "Which sequence represents the conventional four-phase human sexual response model?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Plateau, excitement, orgasm, resolution"
+        },
+        {
+          "label": "B",
+          "text": "Excitement, orgasm, plateau, resolution"
+        },
+        {
+          "label": "C",
+          "text": "Orgasm, excitement, resolution, plateau"
+        },
+        {
+          "label": "D",
+          "text": "Excitement, plateau, orgasm, resolution"
+        },
+        {
+          "label": "E",
+          "text": "Resolution, plateau, excitement, orgasm"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The EPOR model comprises excitement, plateau, orgasm and resolution.",
+      "topicId": "repro-female",
+      "subtopic": "Sexual response",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-140",
+      "type": "single-best",
+      "stem": "Which autonomic mechanism contributes importantly to genital vasocongestion during arousal?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alpha-adrenergic arteriolar constriction"
+        },
+        {
+          "label": "B",
+          "text": "Reduced local nitric oxide release"
+        },
+        {
+          "label": "C",
+          "text": "Withdrawal of sacral autonomic activity"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of genital arterial flow"
+        },
+        {
+          "label": "E",
+          "text": "Parasympathetic-mediated vasodilatation"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Parasympathetic vasodilatation increases genital blood flow during arousal.",
+      "topicId": "repro-female",
+      "subtopic": "Sexual response",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-141",
+      "type": "single-best",
+      "stem": "Vaginal lubrication during arousal arises substantially from which process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vaginal wall transudation"
+        },
+        {
+          "label": "B",
+          "text": "Secretion from ovarian follicles"
+        },
+        {
+          "label": "C",
+          "text": "Sweat from uterine endometrium"
+        },
+        {
+          "label": "D",
+          "text": "Mucus from fallopian tubes"
+        },
+        {
+          "label": "E",
+          "text": "Lymph from ovarian medulla"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Increased genital blood flow causes plasma transudation across vaginal mucosa.",
+      "topicId": "repro-female",
+      "subtopic": "Sexual response",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-142",
+      "type": "single-best",
+      "stem": "The resolution phase of the sexual response cycle is best characterized by what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Further progressive sexual vasocongestion"
+        },
+        {
+          "label": "B",
+          "text": "Return of vascular engorgement toward baseline"
+        },
+        {
+          "label": "C",
+          "text": "Initial appearance of genital lubrication"
+        },
+        {
+          "label": "D",
+          "text": "Peak rhythmic pelvic muscle contraction"
+        },
+        {
+          "label": "E",
+          "text": "Sudden onset of sexual excitement"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Resolution follows orgasm or cessation of stimulation with return toward resting physiology.",
+      "topicId": "repro-female",
+      "subtopic": "Sexual response",
+      "difficulty": "medium"
     }
   ]
 }
