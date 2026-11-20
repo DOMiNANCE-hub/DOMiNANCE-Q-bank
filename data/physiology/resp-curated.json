@@ -1,0 +1,2727 @@
+{
+  "id": "phys-resp-curated",
+  "title": "Respiratory physiology — DOMiNANCE Originals",
+  "source": "KNUST Physiology Respiration lecture + syllabus",
+  "questions": [
+    {
+      "id": "dq-phys-resp-001",
+      "type": "single-best",
+      "stem": "The inspiratory reserve volume is best defined as the volume of air that can be",
+      "options": [
+        {
+          "label": "A",
+          "text": "inspired by maximal effort over and above a normal tidal inspiration"
+        },
+        {
+          "label": "B",
+          "text": "expired by maximal effort after a normal tidal expiration"
+        },
+        {
+          "label": "C",
+          "text": "left in the lung after a maximal expiratory effort"
+        },
+        {
+          "label": "D",
+          "text": "moved in and out of the lung during quiet breathing"
+        },
+        {
+          "label": "E",
+          "text": "inspired and expired during one full forced breath"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "IRV is the extra air that can be drawn in after a normal tidal inspiration.",
+      "topicId": "resp-mech",
+      "subtopic": "Lung volumes",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-resp-002",
+      "type": "single-best",
+      "stem": "Functional residual capacity is the sum of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "vital capacity and the residual volume"
+        },
+        {
+          "label": "B",
+          "text": "expiratory reserve volume and the residual volume"
+        },
+        {
+          "label": "C",
+          "text": "tidal volume and the inspiratory reserve volume"
+        },
+        {
+          "label": "D",
+          "text": "inspiratory reserve volume and the residual volume"
+        },
+        {
+          "label": "E",
+          "text": "tidal volume and the expiratory reserve volume"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "FRC (ERV + RV) is the air remaining in the lung at the end of a quiet expiration.",
+      "topicId": "resp-mech",
+      "subtopic": "Lung capacities",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-003",
+      "type": "single-best",
+      "stem": "Inspiratory capacity is made up of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "residual volume plus the expiratory reserve volume"
+        },
+        {
+          "label": "B",
+          "text": "inspiratory reserve volume plus the residual volume"
+        },
+        {
+          "label": "C",
+          "text": "tidal volume plus the inspiratory reserve volume"
+        },
+        {
+          "label": "D",
+          "text": "tidal volume plus the expiratory reserve volume"
+        },
+        {
+          "label": "E",
+          "text": "vital capacity minus the tidal volume"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Inspiratory capacity is the most air that can be inspired from the resting expiratory level: TV + IRV.",
+      "topicId": "resp-mech",
+      "subtopic": "Lung capacities",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-004",
+      "type": "single-best",
+      "stem": "The chief reason the residual volume cannot be measured by simple spirometry is that it",
+      "options": [
+        {
+          "label": "A",
+          "text": "changes with every breath the subject takes"
+        },
+        {
+          "label": "B",
+          "text": "is exchanged completely with each tidal breath"
+        },
+        {
+          "label": "C",
+          "text": "exists only during forced inspiration"
+        },
+        {
+          "label": "D",
+          "text": "cannot be expelled from the lung by any expiratory effort"
+        },
+        {
+          "label": "E",
+          "text": "is too small to register on a spirometer trace"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The residual volume stays in the lung after maximal expiration, so no breath can deliver it to the spirometer; it is found indirectly.",
+      "topicId": "resp-mech",
+      "subtopic": "Lung volumes",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-005",
+      "type": "single-best",
+      "stem": "A physiological role attributed to the residual volume is to",
+      "options": [
+        {
+          "label": "A",
+          "text": "provide the main driving force for passive expiration"
+        },
+        {
+          "label": "B",
+          "text": "generate the negative intrapleural pressure at rest"
+        },
+        {
+          "label": "C",
+          "text": "supply the surfactant that lines the alveoli"
+        },
+        {
+          "label": "D",
+          "text": "match ventilation to perfusion at the lung apex"
+        },
+        {
+          "label": "E",
+          "text": "keep alveolar O2 and CO2 from swinging widely between breaths"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Because gas remains in the alveoli between breaths, alveolar PO2 and PCO2 are kept within narrow limits rather than fluctuating with each inspiration.",
+      "topicId": "resp-mech",
+      "subtopic": "Lung volumes",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-006",
+      "type": "single-best",
+      "stem": "Vital capacity is typically larger in a tall athletic man than in a small sedentary woman mainly because it is increased by",
+      "options": [
+        {
+          "label": "A",
+          "text": "greater body size and build"
+        },
+        {
+          "label": "B",
+          "text": "a higher resting respiratory rate"
+        },
+        {
+          "label": "C",
+          "text": "a larger anatomical dead space"
+        },
+        {
+          "label": "D",
+          "text": "a lower pulmonary compliance"
+        },
+        {
+          "label": "E",
+          "text": "a reduced functional residual capacity"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Vital capacity rises with body size and build and is generally greater in males than females.",
+      "topicId": "resp-mech",
+      "subtopic": "Vital capacity",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-resp-007",
+      "type": "single-best",
+      "stem": "Measured vital capacity tends to fall when a subject moves from standing to lying down because",
+      "options": [
+        {
+          "label": "A",
+          "text": "surfactant secretion by type II cells increases"
+        },
+        {
+          "label": "B",
+          "text": "abdominal contents push the diaphragm upward"
+        },
+        {
+          "label": "C",
+          "text": "intrapleural pressure becomes more negative"
+        },
+        {
+          "label": "D",
+          "text": "pulmonary blood volume falls by about 400 ml"
+        },
+        {
+          "label": "E",
+          "text": "airway resistance drops in the dependent regions"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Supine, the abdominal viscera press the diaphragm up, reducing the volume available for expansion.",
+      "topicId": "resp-mech",
+      "subtopic": "Vital capacity",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-008",
+      "type": "single-best",
+      "stem": "In a classic restrictive disorder such as pulmonary fibrosis, the FEV1/VC ratio is characteristically",
+      "options": [
+        {
+          "label": "A",
+          "text": "unchanged with an increased total lung capacity"
+        },
+        {
+          "label": "B",
+          "text": "zero because no air can be forcibly expired"
+        },
+        {
+          "label": "C",
+          "text": "preserved or high while both FEV1 and VC are reduced"
+        },
+        {
+          "label": "D",
+          "text": "markedly reduced with a normal VC"
+        },
+        {
+          "label": "E",
+          "text": "reduced with a greatly increased residual volume"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Restriction lowers volumes roughly in proportion, so the ratio is maintained; obstruction is what lowers the ratio.",
+      "topicId": "resp-mech",
+      "subtopic": "Lung function tests",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-009",
+      "type": "single-best",
+      "stem": "Lung compliance is correctly described as the",
+      "options": [
+        {
+          "label": "A",
+          "text": "volume of gas crossing the membrane per mmHg per minute"
+        },
+        {
+          "label": "B",
+          "text": "tendency of the lung to recoil toward collapse"
+        },
+        {
+          "label": "C",
+          "text": "ratio of ventilation to perfusion in a lung unit"
+        },
+        {
+          "label": "D",
+          "text": "change in lung volume per unit change in distending pressure"
+        },
+        {
+          "label": "E",
+          "text": "pressure needed to drive one unit of air through the airway"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Compliance is ΔV/ΔP, a measure of the stretchability of the lung and chest wall.",
+      "topicId": "resp-mech",
+      "subtopic": "Compliance",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-010",
+      "type": "single-best",
+      "stem": "Of the following, the condition that raises lung compliance rather than lowering it is",
+      "options": [
+        {
+          "label": "A",
+          "text": "pulmonary fibrosis"
+        },
+        {
+          "label": "B",
+          "text": "pulmonary oedema"
+        },
+        {
+          "label": "C",
+          "text": "kyphoscoliosis"
+        },
+        {
+          "label": "D",
+          "text": "bronchial obstruction"
+        },
+        {
+          "label": "E",
+          "text": "emphysema"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Emphysema destroys elastic tissue, so the lung is more easily distended and compliance rises; the others stiffen or restrict the lung.",
+      "topicId": "resp-mech",
+      "subtopic": "Compliance",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-011",
+      "type": "single-best",
+      "stem": "Dipalmitoyl phosphatidylcholine lowers alveolar surface tension chiefly to",
+      "options": [
+        {
+          "label": "A",
+          "text": "prevent the smaller alveoli from collapsing"
+        },
+        {
+          "label": "B",
+          "text": "increase the elastic recoil of the lung"
+        },
+        {
+          "label": "C",
+          "text": "widen the anatomical dead space"
+        },
+        {
+          "label": "D",
+          "text": "raise airway resistance during expiration"
+        },
+        {
+          "label": "E",
+          "text": "promote diffusion of CO2 across the membrane"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "By reducing surface tension, surfactant stabilises alveoli and opposes the collapse that high surface tension would cause.",
+      "topicId": "resp-mech",
+      "subtopic": "Surfactant",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-012",
+      "type": "single-best",
+      "stem": "Besides stabilising alveoli, surfactant helps to limit pulmonary oedema because reducing surface tension",
+      "options": [
+        {
+          "label": "A",
+          "text": "opens dormant capillaries at the lung base"
+        },
+        {
+          "label": "B",
+          "text": "lessens the inward pull drawing fluid into the alveolar space"
+        },
+        {
+          "label": "C",
+          "text": "increases the oncotic pressure of pulmonary capillary blood"
+        },
+        {
+          "label": "D",
+          "text": "raises hydrostatic pressure in the pulmonary veins"
+        },
+        {
+          "label": "E",
+          "text": "thickens the alveolar-capillary membrane"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "High surface tension tends to suck fluid from the capillaries into the alveoli; surfactant reduces this pull.",
+      "topicId": "resp-mech",
+      "subtopic": "Surfactant",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-013",
+      "type": "single-best",
+      "stem": "A premature newborn with respiratory distress syndrome from surfactant deficiency may be treated with",
+      "options": [
+        {
+          "label": "A",
+          "text": "100% oxygen given continuously for several days"
+        },
+        {
+          "label": "B",
+          "text": "hyperbaric oxygen in a pressure chamber"
+        },
+        {
+          "label": "C",
+          "text": "exogenous bovine surfactant and corticosteroids"
+        },
+        {
+          "label": "D",
+          "text": "a bronchodilator such as salbutamol alone"
+        },
+        {
+          "label": "E",
+          "text": "atropine to reduce airway secretions"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Replacement surfactant plus corticosteroids are used; the slide also notes antenatal corticosteroids promote maturation.",
+      "topicId": "resp-mech",
+      "subtopic": "Surfactant",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-014",
+      "type": "single-best",
+      "stem": "Of a 500 ml tidal breath, the portion that does not take part in gas exchange is about",
+      "options": [
+        {
+          "label": "A",
+          "text": "500 ml, since none reaches the alveoli at rest"
+        },
+        {
+          "label": "B",
+          "text": "50 ml trapped behind closed bronchioles"
+        },
+        {
+          "label": "C",
+          "text": "250 ml shunted past unventilated alveoli"
+        },
+        {
+          "label": "D",
+          "text": "150 ml filling the conducting airways"
+        },
+        {
+          "label": "E",
+          "text": "350 ml reaching the alveoli"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Roughly 150 ml fills the anatomical dead space and 350 ml reaches the alveoli.",
+      "topicId": "resp-mech",
+      "subtopic": "Dead space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-resp-015",
+      "type": "single-best",
+      "stem": "Physiological dead space differs from anatomical dead space in that it also includes",
+      "options": [
+        {
+          "label": "A",
+          "text": "the volume of the trachea and large bronchi"
+        },
+        {
+          "label": "B",
+          "text": "gas left in the lung after maximal expiration"
+        },
+        {
+          "label": "C",
+          "text": "air shunted directly from artery to vein"
+        },
+        {
+          "label": "D",
+          "text": "the conducting airways down to the terminal bronchioles"
+        },
+        {
+          "label": "E",
+          "text": "alveoli that are ventilated but not adequately perfused"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Physiological dead space adds wasted ventilation of poorly perfused alveoli to the anatomical dead space.",
+      "topicId": "resp-mech",
+      "subtopic": "Dead space",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-016",
+      "type": "single-best",
+      "stem": "Compared with the systemic circulation, pressures in the pulmonary circulation are best described as",
+      "options": [
+        {
+          "label": "A",
+          "text": "low in a highly distensible system (about 24/9 mmHg)"
+        },
+        {
+          "label": "B",
+          "text": "high in a stiff, low-compliance system"
+        },
+        {
+          "label": "C",
+          "text": "equal to systemic pressures but with lower flow"
+        },
+        {
+          "label": "D",
+          "text": "high at the apex and low at the base when upright"
+        },
+        {
+          "label": "E",
+          "text": "pulsatile only during forced expiration"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The pulmonary circuit is a distensible, low-pressure system carrying the whole cardiac output at around 24/9 mmHg.",
+      "topicId": "resp-mech",
+      "subtopic": "Pulmonary circulation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-017",
+      "type": "single-best",
+      "stem": "Pulmonary capillaries are relatively protected from oedema because they have",
+      "options": [
+        {
+          "label": "A",
+          "text": "active sodium pumps lining the endothelium"
+        },
+        {
+          "label": "B",
+          "text": "high plasma oncotic pressure with low hydrostatic pressure"
+        },
+        {
+          "label": "C",
+          "text": "low oncotic pressure with high hydrostatic pressure"
+        },
+        {
+          "label": "D",
+          "text": "a thick basement membrane resisting filtration"
+        },
+        {
+          "label": "E",
+          "text": "continuous lymphatic valves within the alveolar wall"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The favourable balance of high oncotic and low hydrostatic pressure gives little tendency to filter fluid into the alveoli.",
+      "topicId": "resp-mech",
+      "subtopic": "Pulmonary circulation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-018",
+      "type": "single-best",
+      "stem": "Lying down shifts roughly 400 ml of blood into the pulmonary circulation, which illustrates that the pulmonary veins act as a",
+      "options": [
+        {
+          "label": "A",
+          "text": "high-resistance throttle"
+        },
+        {
+          "label": "B",
+          "text": "source of surfactant"
+        },
+        {
+          "label": "C",
+          "text": "distensible blood reservoir"
+        },
+        {
+          "label": "D",
+          "text": "one-way lymphatic channel"
+        },
+        {
+          "label": "E",
+          "text": "site of gas exchange"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The distensible pulmonary veins can hoard blood; posture changes move about 400 ml in or out of this reservoir.",
+      "topicId": "resp-mech",
+      "subtopic": "Pulmonary circulation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-019",
+      "type": "single-best",
+      "stem": "When upright, both ventilation and perfusion per unit lung volume are greater at the base than the apex, and the base is more expandable because its intrapleural pressure is",
+      "options": [
+        {
+          "label": "A",
+          "text": "positive throughout the breathing cycle"
+        },
+        {
+          "label": "B",
+          "text": "equal to atmospheric pressure at end-expiration"
+        },
+        {
+          "label": "C",
+          "text": "unaffected by gravity in the standing subject"
+        },
+        {
+          "label": "D",
+          "text": "less negative, so the dependent lung is more distensible"
+        },
+        {
+          "label": "E",
+          "text": "more negative, holding those alveoli near full inflation"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Gravity makes the basal intrapleural pressure less negative; those alveoli start smaller and are more expandable, so basal ventilation is greater.",
+      "topicId": "resp-mech",
+      "subtopic": "Ventilation distribution",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-020",
+      "type": "single-best",
+      "stem": "A patient with one healthy and one diseased lung is generally advised to lie",
+      "options": [
+        {
+          "label": "A",
+          "text": "on the side of the diseased lung"
+        },
+        {
+          "label": "B",
+          "text": "flat on the back at all times"
+        },
+        {
+          "label": "C",
+          "text": "in a head-down position"
+        },
+        {
+          "label": "D",
+          "text": "sitting fully upright only"
+        },
+        {
+          "label": "E",
+          "text": "on the side of the good lung"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Lying on the good lung puts it in the dependent position where ventilation and perfusion are best.",
+      "topicId": "resp-mech",
+      "subtopic": "Ventilation distribution",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-021",
+      "type": "single-best",
+      "stem": "Minute respiratory volume is calculated as",
+      "options": [
+        {
+          "label": "A",
+          "text": "respiratory rate multiplied by tidal volume"
+        },
+        {
+          "label": "B",
+          "text": "tidal volume multiplied by vital capacity"
+        },
+        {
+          "label": "C",
+          "text": "alveolar ventilation plus dead space volume"
+        },
+        {
+          "label": "D",
+          "text": "vital capacity divided by inspiratory capacity"
+        },
+        {
+          "label": "E",
+          "text": "residual volume multiplied by respiratory rate"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Minute ventilation = respiratory rate × tidal volume.",
+      "topicId": "resp-mech",
+      "subtopic": "Ventilation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-resp-022",
+      "type": "single-best",
+      "stem": "Surfactant is produced by the alveolar cell described as",
+      "options": [
+        {
+          "label": "A",
+          "text": "the bronchial goblet cell"
+        },
+        {
+          "label": "B",
+          "text": "the type II pneumocyte"
+        },
+        {
+          "label": "C",
+          "text": "the type I lining cell"
+        },
+        {
+          "label": "D",
+          "text": "the alveolar macrophage"
+        },
+        {
+          "label": "E",
+          "text": "the ciliated columnar cell"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Type II pneumocytes secrete surfactant; type I cells form the thin lining for gas exchange.",
+      "topicId": "resp-airway",
+      "subtopic": "Alveolar cells",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-resp-023",
+      "type": "single-best",
+      "stem": "The flat cell that forms most of the gas-exchange surface of the alveolus is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "alveolar macrophage"
+        },
+        {
+          "label": "B",
+          "text": "mast cell"
+        },
+        {
+          "label": "C",
+          "text": "type I pneumocyte"
+        },
+        {
+          "label": "D",
+          "text": "type II pneumocyte"
+        },
+        {
+          "label": "E",
+          "text": "Clara (club) cell"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Type I pneumocytes provide the broad, thin surface across which gases diffuse.",
+      "topicId": "resp-airway",
+      "subtopic": "Alveolar cells",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-resp-024",
+      "type": "single-best",
+      "stem": "Terminal bronchioles are kept open mainly by",
+      "options": [
+        {
+          "label": "A",
+          "text": "continuous tonic contraction of their smooth muscle"
+        },
+        {
+          "label": "B",
+          "text": "positive pressure within their lumen at all times"
+        },
+        {
+          "label": "C",
+          "text": "surfactant secreted along their lining"
+        },
+        {
+          "label": "D",
+          "text": "the distending pressures that hold the surrounding lung open"
+        },
+        {
+          "label": "E",
+          "text": "rings of cartilage in their walls"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Bronchioles have no cartilage; they are held patent by the transpulmonary pressure that keeps the lung expanded.",
+      "topicId": "resp-airway",
+      "subtopic": "Airway structure",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-025",
+      "type": "single-best",
+      "stem": "A structural feature that distinguishes the trachea and large bronchi from the bronchioles is that the former have",
+      "options": [
+        {
+          "label": "A",
+          "text": "abundant smooth muscle but no cartilage"
+        },
+        {
+          "label": "B",
+          "text": "no epithelial lining"
+        },
+        {
+          "label": "C",
+          "text": "no ability to warm inspired air"
+        },
+        {
+          "label": "D",
+          "text": "surfactant-secreting walls"
+        },
+        {
+          "label": "E",
+          "text": "cartilage with only a little smooth muscle"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Trachea and bronchi are supported by cartilage; bronchioles have smooth muscle and no cartilage.",
+      "topicId": "resp-airway",
+      "subtopic": "Airway structure",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-resp-026",
+      "type": "single-best",
+      "stem": "Bronchoconstriction mediated by acetylcholine acts through which receptor, and is blocked by atropine?",
+      "options": [
+        {
+          "label": "A",
+          "text": "muscarinic receptors"
+        },
+        {
+          "label": "B",
+          "text": "beta-2 adrenergic receptors"
+        },
+        {
+          "label": "C",
+          "text": "alpha-1 adrenergic receptors"
+        },
+        {
+          "label": "D",
+          "text": "nicotinic receptors"
+        },
+        {
+          "label": "E",
+          "text": "H2 histamine receptors"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Muscarinic (ACh) receptors drive bronchoconstriction and are antagonised by atropine; β2 receptors mediate dilatation.",
+      "topicId": "resp-airway",
+      "subtopic": "Airway control",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-027",
+      "type": "single-best",
+      "stem": "Salbutamol relieves bronchospasm because it is an agonist at",
+      "options": [
+        {
+          "label": "A",
+          "text": "nicotinic receptors"
+        },
+        {
+          "label": "B",
+          "text": "beta-2 adrenergic receptors"
+        },
+        {
+          "label": "C",
+          "text": "muscarinic cholinergic receptors"
+        },
+        {
+          "label": "D",
+          "text": "alpha-1 adrenergic receptors"
+        },
+        {
+          "label": "E",
+          "text": "H1 histamine receptors"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "β2 agonists such as salbutamol and isoproterenol relax bronchial smooth muscle.",
+      "topicId": "resp-airway",
+      "subtopic": "Airway control",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-resp-028",
+      "type": "single-best",
+      "stem": "Breathing cold air can trigger wheeze in a susceptible person because cooling of the airway tends to cause",
+      "options": [
+        {
+          "label": "A",
+          "text": "an increase in compliance"
+        },
+        {
+          "label": "B",
+          "text": "closure of the glottis"
+        },
+        {
+          "label": "C",
+          "text": "bronchospasm"
+        },
+        {
+          "label": "D",
+          "text": "surfactant release"
+        },
+        {
+          "label": "E",
+          "text": "pulmonary vasodilatation"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Cooling of the airway provokes bronchospasm, a recognised trigger of exercise- and cold-induced wheeze.",
+      "topicId": "resp-airway",
+      "subtopic": "Airway control",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-029",
+      "type": "single-best",
+      "stem": "The sigmoid shape of the oxyhaemoglobin dissociation curve arises because",
+      "options": [
+        {
+          "label": "A",
+          "text": "oxygen oxidises the iron from Fe2+ to Fe3+ on binding"
+        },
+        {
+          "label": "B",
+          "text": "2,3-DPG competes with oxygen for the haem pocket"
+        },
+        {
+          "label": "C",
+          "text": "the first O2 molecule binds most readily of the four"
+        },
+        {
+          "label": "D",
+          "text": "binding of one O2 molecule eases the binding of the next"
+        },
+        {
+          "label": "E",
+          "text": "each haem binds oxygen completely independently of the others"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Cooperative binding (positive cooperativity) means each bound O2 raises the affinity for the next, giving the S-shaped curve.",
+      "topicId": "resp-gas",
+      "subtopic": "Oxygen dissociation curve",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-030",
+      "type": "single-best",
+      "stem": "The P50 of adult haemoglobin, about 26.6 mmHg, is defined as the PO2 at which haemoglobin is",
+      "options": [
+        {
+          "label": "A",
+          "text": "fully saturated with oxygen"
+        },
+        {
+          "label": "B",
+          "text": "half dissociated into subunits"
+        },
+        {
+          "label": "C",
+          "text": "bound equally to O2 and CO2"
+        },
+        {
+          "label": "D",
+          "text": "releasing 50% of its 2,3-DPG"
+        },
+        {
+          "label": "E",
+          "text": "50% saturated with oxygen"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "P50 is the PO2 giving 50% saturation and is the conventional index of Hb affinity.",
+      "topicId": "resp-gas",
+      "subtopic": "Oxygen dissociation curve",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-031",
+      "type": "single-best",
+      "stem": "A rise in P50 (rightward shift of the dissociation curve) signifies that haemoglobin has",
+      "options": [
+        {
+          "label": "A",
+          "text": "a decreased affinity, releasing O2 more readily to tissues"
+        },
+        {
+          "label": "B",
+          "text": "an increased affinity, holding O2 more tightly"
+        },
+        {
+          "label": "C",
+          "text": "lost its cooperative binding behaviour"
+        },
+        {
+          "label": "D",
+          "text": "been converted to methaemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "a reduced capacity to carry CO2"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "A higher P50 means lower affinity: a larger PO2 is needed for 50% saturation, so O2 is unloaded more easily.",
+      "topicId": "resp-gas",
+      "subtopic": "Oxygen dissociation curve",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-032",
+      "type": "single-best",
+      "stem": "During exercise the oxyhaemoglobin curve shifts to the right, which is useful because it",
+      "options": [
+        {
+          "label": "A",
+          "text": "abolishes the Bohr effect in working muscle"
+        },
+        {
+          "label": "B",
+          "text": "raises the PO2 at which O2 is delivered to active tissue"
+        },
+        {
+          "label": "C",
+          "text": "increases the total oxygen-carrying capacity of blood"
+        },
+        {
+          "label": "D",
+          "text": "allows haemoglobin to pick up more O2 in the lungs"
+        },
+        {
+          "label": "E",
+          "text": "prevents any unloading of O2 until the capillary end"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The rightward shift from heat, acid, CO2 and 2,3-DPG releases O2 more readily where metabolising tissue needs it.",
+      "topicId": "resp-gas",
+      "subtopic": "Oxygen dissociation curve",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-033",
+      "type": "single-best",
+      "stem": "2,3-diphosphoglycerate lowers haemoglobin's oxygen affinity by binding to the",
+      "options": [
+        {
+          "label": "A",
+          "text": "globin chains only after oxygenation"
+        },
+        {
+          "label": "B",
+          "text": "haem porphyrin ring directly"
+        },
+        {
+          "label": "C",
+          "text": "beta chains of the haemoglobin molecule"
+        },
+        {
+          "label": "D",
+          "text": "alpha chains of the haemoglobin molecule"
+        },
+        {
+          "label": "E",
+          "text": "iron atom at the centre of each haem"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "2,3-DPG, formed in glycolysis, binds the β chains and shifts the curve rightward.",
+      "topicId": "resp-gas",
+      "subtopic": "Oxygen transport",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-034",
+      "type": "single-best",
+      "stem": "Which set of changes all shift the oxyhaemoglobin curve to the RIGHT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "fall in temperature, fall in pH, rise in CO2, fall in 2,3-DPG"
+        },
+        {
+          "label": "B",
+          "text": "rise in temperature, rise in pH, fall in CO2, rise in 2,3-DPG"
+        },
+        {
+          "label": "C",
+          "text": "rise in temperature, rise in pH, rise in CO2, fall in 2,3-DPG"
+        },
+        {
+          "label": "D",
+          "text": "rise in temperature, fall in pH, rise in CO2, rise in 2,3-DPG"
+        },
+        {
+          "label": "E",
+          "text": "fall in temperature, rise in pH, fall in CO2, fall in 2,3-DPG"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Higher temperature, lower pH, higher CO2 and higher 2,3-DPG all reduce affinity and shift the curve right.",
+      "topicId": "resp-gas",
+      "subtopic": "Oxygen dissociation curve",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-035",
+      "type": "single-best",
+      "stem": "Fetal haemoglobin has a higher oxygen affinity than maternal haemoglobin largely because it",
+      "options": [
+        {
+          "label": "A",
+          "text": "binds 2,3-DPG more avidly"
+        },
+        {
+          "label": "B",
+          "text": "contains four beta chains"
+        },
+        {
+          "label": "C",
+          "text": "carries iron in the ferric state"
+        },
+        {
+          "label": "D",
+          "text": "has no cooperative binding"
+        },
+        {
+          "label": "E",
+          "text": "binds 2,3-DPG less avidly"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "HbF interacts weakly with 2,3-DPG, so its curve lies to the left and it draws O2 from maternal blood.",
+      "topicId": "resp-gas",
+      "subtopic": "Oxygen transport",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-036",
+      "type": "single-best",
+      "stem": "The rightward shift of the oxygen dissociation curve produced when a fall in pH accompanies a rise in CO2 is known as the",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bohr effect"
+        },
+        {
+          "label": "B",
+          "text": "Haldane effect"
+        },
+        {
+          "label": "C",
+          "text": "chloride shift"
+        },
+        {
+          "label": "D",
+          "text": "Hering-Breuer reflex"
+        },
+        {
+          "label": "E",
+          "text": "Fick principle"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The Bohr effect is the reduction in Hb oxygen affinity caused by increased CO2/H+.",
+      "topicId": "resp-gas",
+      "subtopic": "Bohr and Haldane",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-037",
+      "type": "single-best",
+      "stem": "The Haldane effect, by which oxygenation of blood in the lungs promotes release of CO2, occurs because binding of O2 makes haemoglobin",
+      "options": [
+        {
+          "label": "A",
+          "text": "incapable of the chloride shift"
+        },
+        {
+          "label": "B",
+          "text": "a stronger acid, so it releases H+ and frees CO2"
+        },
+        {
+          "label": "C",
+          "text": "a weaker acid that takes up more H+ and retains CO2"
+        },
+        {
+          "label": "D",
+          "text": "unable to form any carbamino compounds"
+        },
+        {
+          "label": "E",
+          "text": "more avid for 2,3-DPG in the pulmonary capillary"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Oxygenated Hb is a stronger acid; the H+ it releases drives HCO3- back to CO2, which is exhaled — the Haldane effect, seen in the lungs.",
+      "topicId": "resp-gas",
+      "subtopic": "Bohr and Haldane",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-038",
+      "type": "single-best",
+      "stem": "During the chloride shift in systemic capillaries, chloride ions move",
+      "options": [
+        {
+          "label": "A",
+          "text": "out of the red cell as oxygen moves in"
+        },
+        {
+          "label": "B",
+          "text": "into the plasma as carbamino compounds form"
+        },
+        {
+          "label": "C",
+          "text": "into the red cell as bicarbonate moves out"
+        },
+        {
+          "label": "D",
+          "text": "out of the red cell as bicarbonate moves out"
+        },
+        {
+          "label": "E",
+          "text": "into the red cell as hydrogen ions move out"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "To preserve electrical neutrality, Cl- enters the red cell as HCO3- leaves; hence venous blood has more intracellular Cl-.",
+      "topicId": "resp-gas",
+      "subtopic": "CO2 transport",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-039",
+      "type": "single-best",
+      "stem": "Approximately what fraction of CO2 carried in blood travels as carbamino compounds bound to haemoglobin and plasma proteins?",
+      "options": [
+        {
+          "label": "A",
+          "text": "about 1%"
+        },
+        {
+          "label": "B",
+          "text": "about 90%"
+        },
+        {
+          "label": "C",
+          "text": "about 50%"
+        },
+        {
+          "label": "D",
+          "text": "about 30%"
+        },
+        {
+          "label": "E",
+          "text": "about 70%"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Most CO2 travels as bicarbonate; roughly 30% is carried as carbamino compounds and a small amount dissolved.",
+      "topicId": "resp-gas",
+      "subtopic": "CO2 transport",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-040",
+      "type": "single-best",
+      "stem": "Myoglobin differs from haemoglobin in that each molecule",
+      "options": [
+        {
+          "label": "A",
+          "text": "binds four O2 molecules cooperatively"
+        },
+        {
+          "label": "B",
+          "text": "releases its O2 only at high tissue PO2"
+        },
+        {
+          "label": "C",
+          "text": "carries oxygen in the ferric (Fe3+) state"
+        },
+        {
+          "label": "D",
+          "text": "lowers its affinity as O2 binds"
+        },
+        {
+          "label": "E",
+          "text": "binds a single O2 and has a higher affinity for it"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Myoglobin binds one O2 with high affinity and gives it up only at the very low PO2 of hard-working muscle.",
+      "topicId": "resp-gas",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-041",
+      "type": "single-best",
+      "stem": "Carbon monoxide is dangerous out of proportion to small inhaled amounts because its affinity for haemoglobin is roughly",
+      "options": [
+        {
+          "label": "A",
+          "text": "200 times that of oxygen, shifting the curve left"
+        },
+        {
+          "label": "B",
+          "text": "one-tenth that of oxygen, shifting the curve right"
+        },
+        {
+          "label": "C",
+          "text": "equal to that of oxygen but it blocks 2,3-DPG"
+        },
+        {
+          "label": "D",
+          "text": "high only for fetal haemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "limited to the dissolved fraction of blood gas"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "CO binds Hb about 200–250× more avidly than O2, displaces O2 and shifts the curve left so the remaining O2 is released poorly.",
+      "topicId": "resp-gas",
+      "subtopic": "Carbon monoxide",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-042",
+      "type": "single-best",
+      "stem": "A patient with severe carbon monoxide poisoning characteristically shows",
+      "options": [
+        {
+          "label": "A",
+          "text": "pallor from true anaemia"
+        },
+        {
+          "label": "B",
+          "text": "a cherry-red skin colour rather than cyanosis"
+        },
+        {
+          "label": "C",
+          "text": "deep central cyanosis of the tongue"
+        },
+        {
+          "label": "D",
+          "text": "a bluish discoloration of the nail beds"
+        },
+        {
+          "label": "E",
+          "text": "jaundice from haem breakdown"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Carboxyhaemoglobin is bright red, so the skin looks cherry-red and cyanosis is absent despite tissue hypoxia.",
+      "topicId": "resp-gas",
+      "subtopic": "Carbon monoxide",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-043",
+      "type": "single-best",
+      "stem": "The preferred treatment of significant carbon monoxide poisoning is",
+      "options": [
+        {
+          "label": "A",
+          "text": "rebreathing into a closed paper bag"
+        },
+        {
+          "label": "B",
+          "text": "deliberate controlled hypoventilation"
+        },
+        {
+          "label": "C",
+          "text": "high-concentration or hyperbaric oxygen"
+        },
+        {
+          "label": "D",
+          "text": "an inhaled beta-2 adrenergic agonist"
+        },
+        {
+          "label": "E",
+          "text": "intravenous sodium bicarbonate infusion"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "High inspired O2, hyperbaric where available, speeds displacement of CO from haemoglobin.",
+      "topicId": "resp-gas",
+      "subtopic": "Carbon monoxide",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-044",
+      "type": "single-best",
+      "stem": "Oxygen and carbon dioxide cross the respiratory membrane readily because they",
+      "options": [
+        {
+          "label": "A",
+          "text": "dissolve first in a layer of water before diffusing"
+        },
+        {
+          "label": "B",
+          "text": "pass only through protein channels in the membrane"
+        },
+        {
+          "label": "C",
+          "text": "are carried across bound to surfactant"
+        },
+        {
+          "label": "D",
+          "text": "are lipid soluble and diffuse through the membrane directly"
+        },
+        {
+          "label": "E",
+          "text": "are actively pumped by alveolar type I cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Both gases are fat soluble and diffuse directly through the membrane rather than through water.",
+      "topicId": "resp-gas",
+      "subtopic": "Diffusion",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-045",
+      "type": "single-best",
+      "stem": "The diffusing capacity of the lung is greater for CO2 than for O2 — by about 20% — mainly because CO2 is",
+      "options": [
+        {
+          "label": "A",
+          "text": "a smaller molecule than oxygen"
+        },
+        {
+          "label": "B",
+          "text": "carried entirely as bicarbonate"
+        },
+        {
+          "label": "C",
+          "text": "driven by a far larger partial-pressure gradient"
+        },
+        {
+          "label": "D",
+          "text": "unaffected by membrane thickness"
+        },
+        {
+          "label": "E",
+          "text": "much more soluble in the membrane fluids"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "CO2's high solubility gives it a greater diffusing capacity despite its small partial-pressure gradient.",
+      "topicId": "resp-gas",
+      "subtopic": "Diffusion",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-046",
+      "type": "single-best",
+      "stem": "A lung unit with a ventilation/perfusion ratio of zero behaves as",
+      "options": [
+        {
+          "label": "A",
+          "text": "a shunt, where alveolar gas resembles venous blood (PO2 ~40, PCO2 ~46)"
+        },
+        {
+          "label": "B",
+          "text": "pure dead space, where alveolar gas resembles inspired air"
+        },
+        {
+          "label": "C",
+          "text": "an ideal unit with perfect gas exchange"
+        },
+        {
+          "label": "D",
+          "text": "a unit with high O2 and no CO2"
+        },
+        {
+          "label": "E",
+          "text": "a region of maximal diffusing capacity"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "V/Q = 0 means perfusion without ventilation (a shunt); the alveolar gas equilibrates toward venous values.",
+      "topicId": "resp-gas",
+      "subtopic": "V/Q matching",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-047",
+      "type": "single-best",
+      "stem": "A lung unit with a ventilation/perfusion ratio approaching infinity has alveolar gas that",
+      "options": [
+        {
+          "label": "A",
+          "text": "contains only residual-volume gas"
+        },
+        {
+          "label": "B",
+          "text": "resembles inspired air — high O2, very low CO2"
+        },
+        {
+          "label": "C",
+          "text": "resembles mixed venous blood — low O2, high CO2"
+        },
+        {
+          "label": "D",
+          "text": "has equal O2 and CO2 partial pressures"
+        },
+        {
+          "label": "E",
+          "text": "cannot exchange any gas with blood"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "V/Q → ∞ means ventilation without perfusion (dead space); gas stays like inspired air (≈149 mmHg O2, ≈0 CO2).",
+      "topicId": "resp-gas",
+      "subtopic": "V/Q matching",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-048",
+      "type": "single-best",
+      "stem": "Why is the lung apex, where V/Q is high, the site most prone to tuberculosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "blood flow is greatest at the apex when upright"
+        },
+        {
+          "label": "B",
+          "text": "the airways there have the most cartilage"
+        },
+        {
+          "label": "C",
+          "text": "high local O2 with relatively poor perfusion"
+        },
+        {
+          "label": "D",
+          "text": "surfactant production is greatest there"
+        },
+        {
+          "label": "E",
+          "text": "intrapleural pressure is least negative there"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "At the apex ventilation exceeds perfusion, so PO2 is high and flow low — conditions the tubercle bacillus favours.",
+      "topicId": "resp-gas",
+      "subtopic": "V/Q matching",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-049",
+      "type": "single-best",
+      "stem": "Of the oxygen present in arterial blood, the proportion carried in simple solution in plasma is about",
+      "options": [
+        {
+          "label": "A",
+          "text": "50%, equally shared with haemoglobin"
+        },
+        {
+          "label": "B",
+          "text": "20%, matching the inspired fraction"
+        },
+        {
+          "label": "C",
+          "text": "10%, the remainder as bicarbonate"
+        },
+        {
+          "label": "D",
+          "text": "1%, with roughly 99% bound to haemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "30%, with the rest as carbamino compounds"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "About 1% of blood O2 is dissolved; ~99% is combined with haemoglobin.",
+      "topicId": "resp-gas",
+      "subtopic": "Oxygen transport",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-resp-050",
+      "type": "single-best",
+      "stem": "Rising from the first to the fourth oxygen molecule, haemoglobin's affinity for oxygen",
+      "options": [
+        {
+          "label": "A",
+          "text": "decreases progressively with each molecule bound"
+        },
+        {
+          "label": "B",
+          "text": "stays constant for all four sites"
+        },
+        {
+          "label": "C",
+          "text": "is highest for the first molecule"
+        },
+        {
+          "label": "D",
+          "text": "falls to zero once two sites are filled"
+        },
+        {
+          "label": "E",
+          "text": "increases progressively with each molecule bound"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Positive cooperativity means affinity rises as successive O2 molecules bind, until saturation flattens the curve.",
+      "topicId": "resp-gas",
+      "subtopic": "Oxygen dissociation curve",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-051",
+      "type": "single-best",
+      "stem": "Above an arterial PO2 of about 60 mmHg the dissociation curve is nearly flat, which means that",
+      "options": [
+        {
+          "label": "A",
+          "text": "large rises in PO2 add little to the oxygen content of blood"
+        },
+        {
+          "label": "B",
+          "text": "oxygen content falls steeply with any rise in PO2"
+        },
+        {
+          "label": "C",
+          "text": "haemoglobin begins to release its oxygen rapidly"
+        },
+        {
+          "label": "D",
+          "text": "the blood is only half saturated"
+        },
+        {
+          "label": "E",
+          "text": "cooperative binding has not yet begun"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "On the flat upper part, Hb is near fully saturated, so further PO2 rise adds little content — a safety margin for gas exchange.",
+      "topicId": "resp-gas",
+      "subtopic": "Oxygen dissociation curve",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-052",
+      "type": "single-best",
+      "stem": "The basic rhythm of quiet breathing is generated by neuron groups located in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "carotid body"
+        },
+        {
+          "label": "B",
+          "text": "medulla oblongata"
+        },
+        {
+          "label": "C",
+          "text": "cerebral cortex"
+        },
+        {
+          "label": "D",
+          "text": "hypothalamus"
+        },
+        {
+          "label": "E",
+          "text": "cervical spinal cord"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Medullary inspiratory and expiratory neuron groups set the automatic rhythm; the pons smooths it.",
+      "topicId": "resp-control",
+      "subtopic": "Respiratory centres",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-resp-053",
+      "type": "single-best",
+      "stem": "During quiet breathing the medullary expiratory neurons are largely silent because",
+      "options": [
+        {
+          "label": "A",
+          "text": "the cortex overrides them at rest"
+        },
+        {
+          "label": "B",
+          "text": "CO2 levels are too low to excite them"
+        },
+        {
+          "label": "C",
+          "text": "expiration at rest is a passive elastic recoil"
+        },
+        {
+          "label": "D",
+          "text": "they are inhibited by the pneumotaxic centre"
+        },
+        {
+          "label": "E",
+          "text": "the vagus continuously suppresses them"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Quiet expiration is passive, so expiratory neurons discharge mainly during forced or increased breathing.",
+      "topicId": "resp-control",
+      "subtopic": "Respiratory centres",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-054",
+      "type": "single-best",
+      "stem": "The pneumotaxic centre in the upper pons acts chiefly to",
+      "options": [
+        {
+          "label": "A",
+          "text": "sense CO2 in the cerebrospinal fluid"
+        },
+        {
+          "label": "B",
+          "text": "drive forced expiration during exercise"
+        },
+        {
+          "label": "C",
+          "text": "trigger the cough reflex"
+        },
+        {
+          "label": "D",
+          "text": "limit inspiration and prevent sustained apneusis"
+        },
+        {
+          "label": "E",
+          "text": "generate the primary inspiratory drive"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The pneumotaxic centre switches off inspiration, preventing the sustained inspiratory cramp (apneusis).",
+      "topicId": "resp-control",
+      "subtopic": "Respiratory centres",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-055",
+      "type": "single-best",
+      "stem": "Apneusis — sustained inspiratory spasm — appears when the brainstem is transected so as to remove the influence of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "medulla on the spinal motor neurons"
+        },
+        {
+          "label": "B",
+          "text": "cortex on the corticospinal tract"
+        },
+        {
+          "label": "C",
+          "text": "carotid bodies on the medulla"
+        },
+        {
+          "label": "D",
+          "text": "phrenic nerve on the diaphragm"
+        },
+        {
+          "label": "E",
+          "text": "pons and vagus on the inspiratory neurons"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Removing pontine (pneumotaxic) and vagal input leaves inspiration unchecked, producing apneusis.",
+      "topicId": "resp-control",
+      "subtopic": "Respiratory centres",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-056",
+      "type": "single-best",
+      "stem": "Transection of the brainstem below the medulla has what effect on breathing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "breathing stops altogether"
+        },
+        {
+          "label": "B",
+          "text": "regular breathing continues unchanged"
+        },
+        {
+          "label": "C",
+          "text": "a gasping but rhythmic pattern persists"
+        },
+        {
+          "label": "D",
+          "text": "sustained inspiratory apneusis appears"
+        },
+        {
+          "label": "E",
+          "text": "only the cough reflex remains"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The respiratory drive originates in the medulla, so cutting below it abolishes breathing.",
+      "topicId": "resp-control",
+      "subtopic": "Respiratory centres",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-057",
+      "type": "single-best",
+      "stem": "The Hering-Breuer inflation reflex limits over-inflation of the lung by means of",
+      "options": [
+        {
+          "label": "A",
+          "text": "muscle spindles in the diaphragm"
+        },
+        {
+          "label": "B",
+          "text": "vagal stretch receptors that inhibit inspiration"
+        },
+        {
+          "label": "C",
+          "text": "chemoreceptors in the carotid body raising the rate"
+        },
+        {
+          "label": "D",
+          "text": "cortical impulses travelling down the corticospinal tract"
+        },
+        {
+          "label": "E",
+          "text": "J-receptors releasing surfactant"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Pulmonary stretch receptors send vagal afferents that inhibit the inspiratory neurons, ending inspiration when the lung is inflated.",
+      "topicId": "resp-control",
+      "subtopic": "Reflexes",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-058",
+      "type": "single-best",
+      "stem": "Central chemoreceptors in the medulla respond most directly to",
+      "options": [
+        {
+          "label": "A",
+          "text": "the plasma bicarbonate concentration"
+        },
+        {
+          "label": "B",
+          "text": "the temperature of the arterial blood"
+        },
+        {
+          "label": "C",
+          "text": "the H+ concentration of the cerebrospinal fluid"
+        },
+        {
+          "label": "D",
+          "text": "the arterial PO2 sensed at the carotid body"
+        },
+        {
+          "label": "E",
+          "text": "stretch of the pulmonary alveolar walls"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Central chemoreceptors sense CSF H+, which tracks arterial CO2 after CO2 crosses the blood-brain barrier.",
+      "topicId": "resp-control",
+      "subtopic": "Chemoreceptors",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-059",
+      "type": "single-best",
+      "stem": "Arterial CO2 raises ventilation via the central chemoreceptors because CO2, unlike H+ and HCO3-,",
+      "options": [
+        {
+          "label": "A",
+          "text": "binds directly to medullary neuron membranes"
+        },
+        {
+          "label": "B",
+          "text": "is detected only by the carotid bodies"
+        },
+        {
+          "label": "C",
+          "text": "lowers the pH of arterial plasma without entering the CSF"
+        },
+        {
+          "label": "D",
+          "text": "crosses the blood-brain barrier readily and generates H+ in the CSF"
+        },
+        {
+          "label": "E",
+          "text": "is actively pumped into the cerebrospinal fluid"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "CO2 diffuses freely into the CSF and forms H+ there; H+ and HCO3- cross slowly, so CO2 is the effective central stimulus.",
+      "topicId": "resp-control",
+      "subtopic": "Chemoreceptors",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-060",
+      "type": "single-best",
+      "stem": "Afferent fibres from the carotid bodies reach the medulla through the",
+      "options": [
+        {
+          "label": "A",
+          "text": "vagus nerve (cranial X)"
+        },
+        {
+          "label": "B",
+          "text": "trigeminal nerve (cranial V)"
+        },
+        {
+          "label": "C",
+          "text": "phrenic nerve (roots C3-C5)"
+        },
+        {
+          "label": "D",
+          "text": "facial nerve (cranial VII)"
+        },
+        {
+          "label": "E",
+          "text": "glossopharyngeal nerve (cranial IX)"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Carotid body afferents travel in the glossopharyngeal nerve; aortic body afferents travel in the vagus.",
+      "topicId": "resp-control",
+      "subtopic": "Chemoreceptors",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-061",
+      "type": "single-best",
+      "stem": "The peripheral chemoreceptors are stimulated by dissolved oxygen lack, which is why they may fail to respond in",
+      "options": [
+        {
+          "label": "A",
+          "text": "carbon monoxide poisoning"
+        },
+        {
+          "label": "B",
+          "text": "metabolic acidosis of any cause"
+        },
+        {
+          "label": "C",
+          "text": "ascent to high altitude"
+        },
+        {
+          "label": "D",
+          "text": "severe exercise with lactic acidosis"
+        },
+        {
+          "label": "E",
+          "text": "breath-holding to the breaking point"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "They sense dissolved PO2; in CO poisoning dissolved O2 is near normal although Hb is saturated with CO, so they are poorly stimulated.",
+      "topicId": "resp-control",
+      "subtopic": "Chemoreceptors",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-062",
+      "type": "single-best",
+      "stem": "When inspired CO2 exceeds about 7%, alveolar PCO2 keeps rising despite hyperventilation and the subject develops",
+      "options": [
+        {
+          "label": "A",
+          "text": "cheyne-stokes breathing from hypocapnia"
+        },
+        {
+          "label": "B",
+          "text": "CO2 narcosis with headache, confusion and coma"
+        },
+        {
+          "label": "C",
+          "text": "respiratory alkalosis with tetany"
+        },
+        {
+          "label": "D",
+          "text": "a leftward shift that improves O2 delivery"
+        },
+        {
+          "label": "E",
+          "text": "complete loss of chemoreceptor drive to O2"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Very high inspired CO2 produces hypercapnia that depresses the CNS — CO2 narcosis.",
+      "topicId": "resp-control",
+      "subtopic": "CO2 responses",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-063",
+      "type": "single-best",
+      "stem": "The breaking point of voluntary breath-holding is reached mainly because",
+      "options": [
+        {
+          "label": "A",
+          "text": "alveolar O2 rises to a toxic level"
+        },
+        {
+          "label": "B",
+          "text": "the cortex loses control of the diaphragm"
+        },
+        {
+          "label": "C",
+          "text": "rising CO2 and falling O2 force a breath"
+        },
+        {
+          "label": "D",
+          "text": "the lungs collapse once the residual volume is reached"
+        },
+        {
+          "label": "E",
+          "text": "the pneumotaxic centre is fatigued"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "With no ventilation CO2 rises and O2 falls, and the resulting chemoreceptor drive forces a breath.",
+      "topicId": "resp-control",
+      "subtopic": "Breath holding",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-064",
+      "type": "single-best",
+      "stem": "Giving a very low concentration of oxygen raises ventilation only weakly because the hyperventilation it causes",
+      "options": [
+        {
+          "label": "A",
+          "text": "fatigues the carotid bodies within seconds"
+        },
+        {
+          "label": "B",
+          "text": "shifts the dissociation curve to the left"
+        },
+        {
+          "label": "C",
+          "text": "directly excites the pneumotaxic centre"
+        },
+        {
+          "label": "D",
+          "text": "washing out CO2, which inhibits breathing"
+        },
+        {
+          "label": "E",
+          "text": "at once raises arterial O2 back to normal"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Hypoxic hyperventilation blows off CO2; the hypocapnia opposes the drive, so only a very low PO2 overrides it.",
+      "topicId": "resp-control",
+      "subtopic": "O2 responses",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-065",
+      "type": "single-best",
+      "stem": "In a patient with chronic CO2 retention whose drive to breathe has become dependent on hypoxia, the danger of giving 100% oxygen is that it may",
+      "options": [
+        {
+          "label": "A",
+          "text": "cause an immediate respiratory alkalosis"
+        },
+        {
+          "label": "B",
+          "text": "trigger bronchospasm through cold air"
+        },
+        {
+          "label": "C",
+          "text": "precipitate carbon monoxide poisoning"
+        },
+        {
+          "label": "D",
+          "text": "shift the oxygen curve far to the right"
+        },
+        {
+          "label": "E",
+          "text": "remove the hypoxic drive and depress ventilation"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "When the CO2 response is blunted, hypoxia is the main stimulus; abolishing it with high O2 can depress breathing.",
+      "topicId": "resp-control",
+      "subtopic": "O2 therapy",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-066",
+      "type": "single-best",
+      "stem": "The cough reflex is initiated by touch-sensitive receptors in the bronchi and trachea whose afferents travel in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "vagus nerve"
+        },
+        {
+          "label": "B",
+          "text": "glossopharyngeal nerve"
+        },
+        {
+          "label": "C",
+          "text": "trigeminal nerve"
+        },
+        {
+          "label": "D",
+          "text": "phrenic nerve"
+        },
+        {
+          "label": "E",
+          "text": "facial nerve"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Tracheobronchial touch receptors send vagal afferents to the medulla to trigger coughing.",
+      "topicId": "resp-control",
+      "subtopic": "Reflexes",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-067",
+      "type": "single-best",
+      "stem": "The sneeze reflex resembles the cough reflex but is triggered through the ___ nerve and directs air through the nose by depressing the uvula.",
+      "options": [
+        {
+          "label": "A",
+          "text": "accessory"
+        },
+        {
+          "label": "B",
+          "text": "trigeminal"
+        },
+        {
+          "label": "C",
+          "text": "vagus"
+        },
+        {
+          "label": "D",
+          "text": "glossopharyngeal"
+        },
+        {
+          "label": "E",
+          "text": "hypoglossal"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Sneezing uses trigeminal (5th nerve) afferents from the nasal mucosa; the uvula is depressed to route air through the nose.",
+      "topicId": "resp-control",
+      "subtopic": "Reflexes",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-068",
+      "type": "single-best",
+      "stem": "In the standard classification of hypoxia, 'anaemic hypoxia' means that",
+      "options": [
+        {
+          "label": "A",
+          "text": "a toxin blocks the tissue's use of O2"
+        },
+        {
+          "label": "B",
+          "text": "oxygen cannot diffuse across the alveolar membrane"
+        },
+        {
+          "label": "C",
+          "text": "there is too little functional haemoglobin to carry O2"
+        },
+        {
+          "label": "D",
+          "text": "the arterial PO2 itself is reduced"
+        },
+        {
+          "label": "E",
+          "text": "blood flow to the tissue is too slow"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Anaemic hypoxia is inadequate O2 carriage from too little functional Hb; arterial PO2 is normal.",
+      "topicId": "resp-env",
+      "subtopic": "Hypoxia classification",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-069",
+      "type": "single-best",
+      "stem": "Cyanide poisoning produces which type of hypoxia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "anaemic hypoxia"
+        },
+        {
+          "label": "B",
+          "text": "stagnant hypoxia"
+        },
+        {
+          "label": "C",
+          "text": "anaemic hypoxia from CO"
+        },
+        {
+          "label": "D",
+          "text": "histotoxic hypoxia"
+        },
+        {
+          "label": "E",
+          "text": "hypoxic hypoxia"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Cyanide blocks the tissues' use of oxygen (cytochrome oxidase) — histotoxic hypoxia.",
+      "topicId": "resp-env",
+      "subtopic": "Hypoxia classification",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-070",
+      "type": "single-best",
+      "stem": "Slow blood flow, as in shock or heart failure, causes which type of hypoxia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "histotoxic hypoxia"
+        },
+        {
+          "label": "B",
+          "text": "hypoxic hypoxia"
+        },
+        {
+          "label": "C",
+          "text": "anaemic hypoxia"
+        },
+        {
+          "label": "D",
+          "text": "diffusion hypoxia"
+        },
+        {
+          "label": "E",
+          "text": "stagnant hypoxia"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "When delivery is limited by sluggish flow despite normal blood and PO2, it is stagnant (ischaemic) hypoxia.",
+      "topicId": "resp-env",
+      "subtopic": "Hypoxia classification",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-071",
+      "type": "single-best",
+      "stem": "Clinically detectable cyanosis generally appears once the concentration of reduced (deoxygenated) haemoglobin reaches about",
+      "options": [
+        {
+          "label": "A",
+          "text": "5 g/dl"
+        },
+        {
+          "label": "B",
+          "text": "1 g/dl"
+        },
+        {
+          "label": "C",
+          "text": "10 g/dl"
+        },
+        {
+          "label": "D",
+          "text": "15 g/dl"
+        },
+        {
+          "label": "E",
+          "text": "2 g/dl"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "About 5 g/dl of deoxyhaemoglobin is needed before the bluish colour is visible.",
+      "topicId": "resp-env",
+      "subtopic": "Cyanosis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-072",
+      "type": "single-best",
+      "stem": "Severe anaemia rarely shows cyanosis even when the patient is hypoxic because",
+      "options": [
+        {
+          "label": "A",
+          "text": "methaemoglobin masks the colour"
+        },
+        {
+          "label": "B",
+          "text": "too little Hb to give 5 g/dl of reduced Hb"
+        },
+        {
+          "label": "C",
+          "text": "the remaining haemoglobin is cherry red"
+        },
+        {
+          "label": "D",
+          "text": "arterial O2 is actually increased"
+        },
+        {
+          "label": "E",
+          "text": "the skin vessels are maximally dilated"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Cyanosis needs ~5 g/dl of deoxyHb; a severely anaemic patient simply lacks enough Hb to reach that level.",
+      "topicId": "resp-env",
+      "subtopic": "Cyanosis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-073",
+      "type": "single-best",
+      "stem": "On rapid ascent to high altitude, the earliest compensatory response to the low inspired PO2 is",
+      "options": [
+        {
+          "label": "A",
+          "text": "a fall in plasma pH from lactic acid"
+        },
+        {
+          "label": "B",
+          "text": "immediate polycythaemia"
+        },
+        {
+          "label": "C",
+          "text": "hyperventilation from chemoreceptor drive"
+        },
+        {
+          "label": "D",
+          "text": "a rise in red cell mass from erythropoietin"
+        },
+        {
+          "label": "E",
+          "text": "an increase in 2,3-DPG within hours"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Hypoxia stimulates the carotid/aortic bodies, producing prompt hyperventilation as the first step of acclimatization.",
+      "topicId": "resp-env",
+      "subtopic": "Altitude",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-074",
+      "type": "single-best",
+      "stem": "Over several days of acclimatization to altitude, a rise in 2,3-DPG is useful because it",
+      "options": [
+        {
+          "label": "A",
+          "text": "raises the plasma bicarbonate directly"
+        },
+        {
+          "label": "B",
+          "text": "suppresses erythropoietin secretion"
+        },
+        {
+          "label": "C",
+          "text": "reduces the ventilatory response to hypoxia"
+        },
+        {
+          "label": "D",
+          "text": "shifts the curve rightward, making O2 more available to tissues"
+        },
+        {
+          "label": "E",
+          "text": "shifts the curve leftward, loading more O2 in the lungs"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Although alkalosis shifts the curve left, the accompanying rise in 2,3-DPG shifts it right, aiding tissue O2 delivery.",
+      "topicId": "resp-env",
+      "subtopic": "Altitude",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-075",
+      "type": "single-best",
+      "stem": "Erythropoietin released during acclimatization to altitude acts to",
+      "options": [
+        {
+          "label": "A",
+          "text": "increase 2,3-DPG within minutes"
+        },
+        {
+          "label": "B",
+          "text": "stimulate the respiratory centre directly"
+        },
+        {
+          "label": "C",
+          "text": "cause immediate bronchodilatation"
+        },
+        {
+          "label": "D",
+          "text": "reduce plasma volume acutely"
+        },
+        {
+          "label": "E",
+          "text": "raise haemoglobin and red cell mass over a few days"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "EPO rises with hypoxia and increases haemoglobin over 2–3 days, a key part of acclimatization.",
+      "topicId": "resp-env",
+      "subtopic": "Altitude",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-076",
+      "type": "single-best",
+      "stem": "Acute mountain sickness some hours after arrival at altitude is attributed partly to arteriolar dilatation that raises capillary hydrostatic pressure and causes",
+      "options": [
+        {
+          "label": "A",
+          "text": "cerebral and pulmonary oedema"
+        },
+        {
+          "label": "B",
+          "text": "bronchospasm and wheeze"
+        },
+        {
+          "label": "C",
+          "text": "methaemoglobinaemia"
+        },
+        {
+          "label": "D",
+          "text": "decompression bubbles in the joints"
+        },
+        {
+          "label": "E",
+          "text": "haemolysis of red cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Hypoxic arteriolar dilatation raises capillary pressure, leaking fluid into brain and lung — cerebral and pulmonary oedema.",
+      "topicId": "resp-env",
+      "subtopic": "Altitude",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-077",
+      "type": "single-best",
+      "stem": "In a diver breathing compressed air, the narcotic effect producing euphoria and impaired judgement at depth is due to raised",
+      "options": [
+        {
+          "label": "A",
+          "text": "water vapour pressure"
+        },
+        {
+          "label": "B",
+          "text": "nitrogen partial pressure"
+        },
+        {
+          "label": "C",
+          "text": "oxygen partial pressure"
+        },
+        {
+          "label": "D",
+          "text": "carbon dioxide partial pressure"
+        },
+        {
+          "label": "E",
+          "text": "helium partial pressure"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "High PN2 at depth produces nitrogen narcosis with euphoria and clumsiness.",
+      "topicId": "resp-env",
+      "subtopic": "Diving",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-078",
+      "type": "single-best",
+      "stem": "Decompression sickness ('the bends') on rapid ascent from a deep dive is caused by",
+      "options": [
+        {
+          "label": "A",
+          "text": "rupture of alveoli from over-expansion"
+        },
+        {
+          "label": "B",
+          "text": "cold-induced bronchospasm"
+        },
+        {
+          "label": "C",
+          "text": "nitrogen bubbles coming out of solution"
+        },
+        {
+          "label": "D",
+          "text": "oxygen toxicity damaging the lungs"
+        },
+        {
+          "label": "E",
+          "text": "carbon dioxide retention in muscle"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Dissolved N2 forms bubbles if ascent is too fast, occluding vessels and causing joint pain, paraesthesiae and worse.",
+      "topicId": "resp-env",
+      "subtopic": "Diving",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-079",
+      "type": "single-best",
+      "stem": "Breathing 100% oxygen for many hours is harmful partly because it",
+      "options": [
+        {
+          "label": "A",
+          "text": "causes immediate nitrogen narcosis"
+        },
+        {
+          "label": "B",
+          "text": "raises plasma bicarbonate sharply"
+        },
+        {
+          "label": "C",
+          "text": "triggers the Hering-Breuer reflex"
+        },
+        {
+          "label": "D",
+          "text": "inhibits surfactant production and injures the airway"
+        },
+        {
+          "label": "E",
+          "text": "shifts the dissociation curve far to the right"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Prolonged high O2 irritates the airway, inhibits surfactant, kills lung macrophages and damages the lung within 1–2 days.",
+      "topicId": "resp-env",
+      "subtopic": "Oxygen toxicity",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-080",
+      "type": "single-best",
+      "stem": "In a premature infant, prolonged high-concentration oxygen therapy can cause the eye complication",
+      "options": [
+        {
+          "label": "A",
+          "text": "cataract from lens opacification"
+        },
+        {
+          "label": "B",
+          "text": "optic neuritis"
+        },
+        {
+          "label": "C",
+          "text": "central retinal artery occlusion"
+        },
+        {
+          "label": "D",
+          "text": "glaucoma"
+        },
+        {
+          "label": "E",
+          "text": "retrolental fibroplasia"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "High O2 disrupts retinal vascular development, producing retrolental fibroplasia; broncho-pulmonary dysplasia affects the lungs.",
+      "topicId": "resp-env",
+      "subtopic": "Oxygen toxicity",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-081",
+      "type": "single-best",
+      "stem": "During exercise the venous PO2 falls (for example from 40 toward 25 mmHg), which aids oxygenation in the lungs by",
+      "options": [
+        {
+          "label": "A",
+          "text": "a wider alveolar-to-capillary O2 gradient"
+        },
+        {
+          "label": "B",
+          "text": "reducing the diffusing capacity of the membrane"
+        },
+        {
+          "label": "C",
+          "text": "raising alveolar PCO2 above arterial PCO2"
+        },
+        {
+          "label": "D",
+          "text": "closing dormant pulmonary capillaries"
+        },
+        {
+          "label": "E",
+          "text": "shifting the dissociation curve to the left"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Greater tissue extraction lowers mixed venous PO2, widening the gradient at the lung and increasing uptake.",
+      "topicId": "resp-env",
+      "subtopic": "Exercise",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-082",
+      "type": "single-best",
+      "stem": "In severe exercise an added chemical stimulus to the respiratory centre is",
+      "options": [
+        {
+          "label": "A",
+          "text": "an increase in plasma bicarbonate"
+        },
+        {
+          "label": "B",
+          "text": "lactic acid that liberates CO2"
+        },
+        {
+          "label": "C",
+          "text": "a rise in arterial oxygen tension"
+        },
+        {
+          "label": "D",
+          "text": "a fall in core body temperature"
+        },
+        {
+          "label": "E",
+          "text": "a rise in red-cell 2,3-DPG alone"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Lactic acidosis in heavy exercise releases CO2 and lowers pH, stimulating ventilation.",
+      "topicId": "resp-env",
+      "subtopic": "Exercise",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-resp-083",
+      "type": "single-best",
+      "stem": "A victim of fresh-water (hypotonic) near-drowning is at particular risk of",
+      "options": [
+        {
+          "label": "A",
+          "text": "nitrogen narcosis"
+        },
+        {
+          "label": "B",
+          "text": "carbon monoxide poisoning"
+        },
+        {
+          "label": "C",
+          "text": "intravascular haemolysis of red cells"
+        },
+        {
+          "label": "D",
+          "text": "loss of plasma into the lungs causing shock"
+        },
+        {
+          "label": "E",
+          "text": "immediate decompression sickness"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Hypotonic fresh water is absorbed into the circulation and lyses red cells; sea water instead draws plasma into the lungs.",
+      "topicId": "resp-env",
+      "subtopic": "Drowning",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-084",
+      "type": "single-best",
+      "stem": "Hypocapnia from voluntary hyperventilation can cause tetany because the accompanying respiratory alkalosis",
+      "options": [
+        {
+          "label": "A",
+          "text": "increases arterial PCO2"
+        },
+        {
+          "label": "B",
+          "text": "depresses the respiratory centre immediately"
+        },
+        {
+          "label": "C",
+          "text": "shifts the oxygen curve to the right"
+        },
+        {
+          "label": "D",
+          "text": "lowers ionised plasma calcium"
+        },
+        {
+          "label": "E",
+          "text": "raises ionised plasma calcium"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Alkalosis increases protein binding of calcium, lowering ionised Ca2+ and provoking tetany and paraesthesiae.",
+      "topicId": "resp-env",
+      "subtopic": "CO2 disturbance",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-resp-085",
+      "type": "single-best",
+      "stem": "Asphyxia from airway occlusion combines low O2 with high CO2 and characteristically causes an early",
+      "options": [
+        {
+          "label": "A",
+          "text": "fall in blood pressure with bradycardia"
+        },
+        {
+          "label": "B",
+          "text": "respiratory alkalosis"
+        },
+        {
+          "label": "C",
+          "text": "immediate loss of chemoreceptor activity"
+        },
+        {
+          "label": "D",
+          "text": "fall in circulating catecholamines"
+        },
+        {
+          "label": "E",
+          "text": "raised blood pressure and heart rate"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Asphyxia strongly drives respiration and sympathetic output, raising BP, heart rate and catecholamines before eventual collapse.",
+      "topicId": "resp-env",
+      "subtopic": "Asphyxia",
+      "difficulty": "medium"
+    }
+  ]
+}
