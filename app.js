@@ -156,7 +156,8 @@
       if (r.view !== 'courseSemesters') {
         if (!S.cache[courseKeyOf(r)] && !S_loading[courseKeyOf(r)] && S.prefetchTok) { S.prefetchTok.abort(); S.prefetchTok = null; } // your tap beats background preloading
         if (!S.cache[courseKeyOf(r)]) $app.innerHTML = wrap(topbar() + '<div class="loading" role="status"><span class="spin" aria-hidden="true"></span>Loading ' + esc(course.title) + ' questions…</div>');
-        try { await loadCourseOnce(courseKeyOf(r), course); } catch (e) { $app.innerHTML = '<div class="wrap"><p class="banner">Questions could not load. Check your connection and refresh.</p></div>'; return; }
+        const selectedCourse = r.courseSem ? courseObj(r) : course;
+        try { await loadCourseOnce(courseKeyOf(r), selectedCourse); } catch (e) { $app.innerHTML = '<div class="wrap"><p class="banner">Questions could not load. Check your connection and refresh.</p></div>'; return; }
       }
     }
     if (r.view === 'quiz' && !S.attempt) { go('#/home'); return; }
