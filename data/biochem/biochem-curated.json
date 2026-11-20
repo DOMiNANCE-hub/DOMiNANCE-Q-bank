@@ -18207,6 +18207,1474 @@
       "topicId": "iem",
       "subtopic": "Fatty acid oxidation",
       "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-ros2-ar-01",
+      "type": "single-best",
+      "stem": "Assertion: Carbon tetrachloride causes liver cell damage.\nReason: It is metabolised to the trichloromethyl radical, which initiates lipid peroxidation.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "The trichloromethyl radical triggering lipid peroxidation is exactly how CCl4 injures hepatocytes.",
+      "topicId": "ros",
+      "subtopic": "Mechanisms and sources",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-ar-02",
+      "type": "single-best",
+      "stem": "Assertion: Glutathione peroxidase activity depends on an adequate dietary intake of selenium.\nReason: Glutathione peroxidase is a selenium-containing enzyme (a selenoprotein).",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "Because it is a selenoprotein, selenium supply directly limits its activity.",
+      "topicId": "ros",
+      "subtopic": "Antioxidant systems",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-ar-03",
+      "type": "single-best",
+      "stem": "Assertion: Reactive oxygen species can increase HIV replication.\nReason: Oxidative stress activates the transcription factor NF-κB.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "NF-κB activation driving viral gene expression is the mechanism linking ROS to HIV replication.",
+      "topicId": "ros",
+      "subtopic": "ROS in disease",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-ar-04",
+      "type": "single-best",
+      "stem": "Assertion: Allopurinol can reduce ischaemia-reperfusion injury.\nReason: It inhibits xanthine oxidase, a source of superoxide generated on reperfusion.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "Blocking xanthine oxidase removes the superoxide burst, which is how allopurinol protects.",
+      "topicId": "ros",
+      "subtopic": "ROS in disease",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-ar-05",
+      "type": "single-best",
+      "stem": "Assertion: The mitochondrial isoenzyme of superoxide dismutase contains manganese.\nReason: The cytosolic isoenzyme of superoxide dismutase contains copper and zinc.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "Both are true, but the cytosolic cofactors do not explain the manganese in the mitochondrial form.",
+      "topicId": "ros",
+      "subtopic": "Antioxidant systems",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-ar-06",
+      "type": "single-best",
+      "stem": "Assertion: Ceruloplasmin has antioxidant activity in plasma.\nReason: Haptoglobin binds free haemoglobin released into the plasma.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "Both are true plasma antioxidant facts, but haptoglobin's role does not explain ceruloplasmin's.",
+      "topicId": "ros",
+      "subtopic": "Antioxidant systems",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-ar-07",
+      "type": "single-best",
+      "stem": "Assertion: Flavonoids in green tea and berries have antioxidant properties.\nReason: Carotenoids are found in carrots, tomatoes and spinach.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "Both are true dietary-antioxidant facts, but one does not explain the other.",
+      "topicId": "ros",
+      "subtopic": "Antioxidant systems",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-ar-08",
+      "type": "single-best",
+      "stem": "Assertion: Transferrin and lactoferrin act as antioxidants.\nReason: They work by generating hydrogen peroxide that destroys radicals.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "They are antioxidants, but they act by SEQUESTERING iron, not by making hydrogen peroxide.",
+      "topicId": "ros",
+      "subtopic": "Antioxidant systems",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-ar-09",
+      "type": "single-best",
+      "stem": "Assertion: The trichloromethyl radical is derived from carbon tetrachloride.\nReason: Carbon tetrachloride is an endogenous metabolite formed from glycine.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "The radical does come from CCl4, but CCl4 is an exogenous solvent, not a glycine metabolite.",
+      "topicId": "ros",
+      "subtopic": "Mechanisms and sources",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-ar-10",
+      "type": "single-best",
+      "stem": "Assertion: Allopurinol is regarded as an antioxidant drug.\nReason: It works by directly scavenging the hydroxyl radical within membranes.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "It is antioxidant, but it acts by inhibiting xanthine oxidase, not by scavenging hydroxyl radicals.",
+      "topicId": "ros",
+      "subtopic": "ROS in disease",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-ar-11",
+      "type": "single-best",
+      "stem": "Assertion: Glutathione peroxidase requires copper as its cofactor.\nReason: Dietary selenium deficiency impairs antioxidant defence.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "Glutathione peroxidase uses selenium, not copper (assertion false); selenium lack does impair defence (reason true).",
+      "topicId": "ros",
+      "subtopic": "Antioxidant systems",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-ar-12",
+      "type": "single-best",
+      "stem": "Assertion: The termination step of lipid peroxidation generates fresh peroxyl radicals.\nReason: During propagation, a carbon radical reacts with oxygen to form a peroxyl radical.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "Termination combines radicals into NON-radical products (assertion false); the propagation statement is true.",
+      "topicId": "ros",
+      "subtopic": "Mechanisms and sources",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-ar-13",
+      "type": "single-best",
+      "stem": "Assertion: Desferrioxamine acts by directly scavenging singlet oxygen.\nReason: Desferrioxamine chelates iron and blocks metal-catalysed radical formation.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "Desferrioxamine works by iron chelation, not singlet-oxygen scavenging (assertion false); the reason is true.",
+      "topicId": "ros",
+      "subtopic": "Antioxidant systems",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-ar-14",
+      "type": "single-best",
+      "stem": "Assertion: Lipid peroxidation consists only of initiation and propagation, with no termination step.\nReason: Peroxyl radicals are unable to react with one another.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "There is a termination step and peroxyl radicals do combine; both statements are false.",
+      "topicId": "ros",
+      "subtopic": "Mechanisms and sources",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-ar-15",
+      "type": "single-best",
+      "stem": "Assertion: Oxygen toxicity refers to the beneficial effect of oxygen on cells.\nReason: Reactive oxygen species are never harmful to tissues.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "Oxygen toxicity is the harmful effect of oxidative species, which clearly do damage tissue; both false.",
+      "topicId": "ros",
+      "subtopic": "Oxygen toxicity",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-ar-16",
+      "type": "single-best",
+      "stem": "Assertion: Uric acid is purely a pro-oxidant with no protective role.\nReason: Humans synthesise large amounts of vitamin C as their main antioxidant.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "Urate is actually an antioxidant, and humans cannot synthesise vitamin C; both statements are false.",
+      "topicId": "ros",
+      "subtopic": "Antioxidant systems",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-k-01",
+      "type": "single-best",
+      "stem": "Recognised free-radical species include:\nI. the trichloromethyl radical (CCl3•)\nII. the thiyl radical (RS•)\nIII. the alkoxyl radical (RO•)",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "All three are carbon-, sulphur- and oxygen-centred free radicals.",
+      "topicId": "ros",
+      "subtopic": "Oxygen toxicity",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-k-02",
+      "type": "single-best",
+      "stem": "Mechanisms of free-radical cell injury include:\nI. covalent binding of xenobiotics\nII. disturbance of calcium homeostasis\nIII. direct synthesis of ATP",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "I and II are true; ATP synthesis is not a mechanism of radical injury, so III is false.",
+      "topicId": "ros",
+      "subtopic": "Mechanisms and sources",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-k-03",
+      "type": "single-best",
+      "stem": "Concerning the superoxide dismutase isoenzymes:\nI. the mitochondrial form uses selenium\nII. the mitochondrial form uses manganese\nIII. the cytosolic form uses copper and zinc",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "II and III are true; the mitochondrial enzyme uses manganese, not selenium, so I is false.",
+      "topicId": "ros",
+      "subtopic": "Antioxidant systems",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-k-04",
+      "type": "single-best",
+      "stem": "Metal-binding (preventive) antioxidant proteins include:\nI. transferrin\nII. glutathione peroxidase\nIII. ceruloplasmin",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "I and III are metal-binding proteins; glutathione peroxidase is a catalytic (scavenging) enzyme, so II is false.",
+      "topicId": "ros",
+      "subtopic": "Antioxidant systems",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-k-05",
+      "type": "single-best",
+      "stem": "The trichloromethyl radical:\nI. is formed from carbon tetrachloride\nII. is a normal product of respiration\nIII. is itself an antioxidant enzyme",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "Only I is true; it is a xenobiotic-derived radical, not a respiratory product or an enzyme.",
+      "topicId": "ros",
+      "subtopic": "Mechanisms and sources",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-k-06",
+      "type": "single-best",
+      "stem": "Reactive oxygen species can act as signalling molecules by:\nI. activating the NF-κB pathway\nII. influencing inflammation and apoptosis genes\nIII. having roles at low physiological concentrations",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "All three reflect the recognised signalling role of ROS.",
+      "topicId": "ros",
+      "subtopic": "ROS in disease",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-k-07",
+      "type": "single-best",
+      "stem": "Endogenous enzymatic sources of free radicals include:\nI. xanthine oxidase\nII. prostaglandin synthase (cyclo-oxygenase)\nIII. superoxide dismutase",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "I and II generate radicals; superoxide dismutase REMOVES superoxide, so III is false.",
+      "topicId": "ros",
+      "subtopic": "Mechanisms and sources",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-k-08",
+      "type": "single-best",
+      "stem": "In HIV infection:\nI. patients have raised glutathione levels\nII. hydrogen peroxide can promote viral gene expression\nIII. oxidative stress activates NF-κB and raises viral replication",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "II and III are true; glutathione is LOWER in HIV patients, so I is false.",
+      "topicId": "ros",
+      "subtopic": "ROS in disease",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-k-09",
+      "type": "single-best",
+      "stem": "Factors that increase free-radical production include:\nI. cigarette smoke\nII. a diet rich in antioxidants\nIII. ionising radiation",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "I and III raise radical load; a diet rich in antioxidants lowers it, so II is false.",
+      "topicId": "ros",
+      "subtopic": "Mechanisms and sources",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-k-10",
+      "type": "single-best",
+      "stem": "Glutathione peroxidase:\nI. is a selenium-containing enzyme\nII. requires copper for its activity\nIII. is an extracellular metal-binding protein",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "Only I is true; it is a selenoprotein, an intracellular catalytic enzyme, not copper-dependent.",
+      "topicId": "ros",
+      "subtopic": "Antioxidant systems",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-k-11",
+      "type": "single-best",
+      "stem": "Non-enzymatic antioxidants include:\nI. urate (uric acid)\nII. coenzyme Q10\nIII. alpha-lipoic acid",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "All three are recognised non-enzymatic antioxidants.",
+      "topicId": "ros",
+      "subtopic": "Antioxidant systems",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-k-12",
+      "type": "single-best",
+      "stem": "Regarding lipid peroxidation:\nI. it needs no termination step\nII. it is initiated by hydrogen abstraction from a polyunsaturated fatty acid\nIII. it yields malondialdehyde, which forms DNA adducts",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "II and III are true; peroxidation does have a termination step, so I is false.",
+      "topicId": "ros",
+      "subtopic": "Mechanisms and sources",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-ros2-ex-01",
+      "type": "single-best",
+      "stem": "All of the following are free radicals EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "the thiyl radical"
+        },
+        {
+          "label": "B",
+          "text": "the alkoxyl radical"
+        },
+        {
+          "label": "C",
+          "text": "the hydroxyl radical"
+        },
+        {
+          "label": "D",
+          "text": "hydrogen peroxide"
+        },
+        {
+          "label": "E",
+          "text": "the trichloromethyl radical"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Hydrogen peroxide has no unpaired electron; it is a non-radical reactive oxygen species.",
+      "topicId": "ros",
+      "subtopic": "Oxygen toxicity",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-ros2-ex-02",
+      "type": "single-best",
+      "stem": "All of the following are mechanisms of free-radical toxicity EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "peroxidation of membrane lipids"
+        },
+        {
+          "label": "B",
+          "text": "breakage of DNA strands"
+        },
+        {
+          "label": "C",
+          "text": "oxidation of cellular proteins"
+        },
+        {
+          "label": "D",
+          "text": "covalent binding of xenobiotics"
+        },
+        {
+          "label": "E",
+          "text": "normal synthesis of cellular ATP"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "ATP synthesis is normal energy metabolism, not a mechanism of radical injury.",
+      "topicId": "ros",
+      "subtopic": "Mechanisms and sources",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-ros2-ex-03",
+      "type": "single-best",
+      "stem": "All of the following drugs or chemicals generate free radicals EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "desferrioxamine"
+        },
+        {
+          "label": "B",
+          "text": "carbon tetrachloride"
+        },
+        {
+          "label": "C",
+          "text": "paraquat"
+        },
+        {
+          "label": "D",
+          "text": "doxorubicin (adriamycin)"
+        },
+        {
+          "label": "E",
+          "text": "nitrofurantoin"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Desferrioxamine is an iron-chelating ANTIoxidant; the others are radical generators.",
+      "topicId": "ros",
+      "subtopic": "Mechanisms and sources",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-ros2-ex-04",
+      "type": "single-best",
+      "stem": "All of the following are metal-binding antioxidant proteins EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "haptoglobin"
+        },
+        {
+          "label": "B",
+          "text": "catalase"
+        },
+        {
+          "label": "C",
+          "text": "transferrin"
+        },
+        {
+          "label": "D",
+          "text": "lactoferrin"
+        },
+        {
+          "label": "E",
+          "text": "ceruloplasmin"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Catalase is a haem enzyme that destroys hydrogen peroxide, not a metal-sequestering protein.",
+      "topicId": "ros",
+      "subtopic": "Antioxidant systems",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-ros2-ex-05",
+      "type": "single-best",
+      "stem": "All of the following increase free-radical production EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "ischaemia and reperfusion"
+        },
+        {
+          "label": "B",
+          "text": "prolonged strenuous exercise"
+        },
+        {
+          "label": "C",
+          "text": "a diet high in flavonoids"
+        },
+        {
+          "label": "D",
+          "text": "heavy cigarette smoking"
+        },
+        {
+          "label": "E",
+          "text": "exposure to ionising radiation"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Dietary flavonoids are antioxidants and reduce, rather than raise, radical load.",
+      "topicId": "ros",
+      "subtopic": "Mechanisms and sources",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-ros2-ex-06",
+      "type": "single-best",
+      "stem": "All of the following are recognised modes of antioxidant action EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "reducing the concentration of reactive species"
+        },
+        {
+          "label": "B",
+          "text": "scavenging initiating radicals"
+        },
+        {
+          "label": "C",
+          "text": "chelating transition-metal catalysts"
+        },
+        {
+          "label": "D",
+          "text": "generating superoxide to drive the Fenton reaction"
+        },
+        {
+          "label": "E",
+          "text": "chain-breaking in the lipid phase"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Generating superoxide is pro-oxidant; antioxidants do the opposite.",
+      "topicId": "ros",
+      "subtopic": "Antioxidant systems",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-ros2-sba-01",
+      "type": "single-best",
+      "stem": "Oxygen toxicity is best defined as the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "beneficial role of oxygen in metabolism"
+        },
+        {
+          "label": "B",
+          "text": "inability of a cell to take up oxygen"
+        },
+        {
+          "label": "C",
+          "text": "deficiency of oxygen supply to a tissue"
+        },
+        {
+          "label": "D",
+          "text": "storage of oxygen by muscle myoglobin"
+        },
+        {
+          "label": "E",
+          "text": "toxic effect of oxidative radicals on cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Oxygen toxicity is the harmful effect of oxidative radical species at the cellular level.",
+      "topicId": "ros",
+      "subtopic": "Oxygen toxicity",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-ros2-sba-02",
+      "type": "single-best",
+      "stem": "The stepwise four-electron reduction of oxygen to water produces, as intermediates:",
+      "options": [
+        {
+          "label": "A",
+          "text": "superoxide, peroxide and the hydroxyl radical"
+        },
+        {
+          "label": "B",
+          "text": "only water and carbon-dioxide gas"
+        },
+        {
+          "label": "C",
+          "text": "singlet oxygen and ozone molecules"
+        },
+        {
+          "label": "D",
+          "text": "nitric oxide and peroxynitrite only"
+        },
+        {
+          "label": "E",
+          "text": "hydrogen peroxide as the sole product"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Adding electrons to O2 one at a time yields superoxide, then hydrogen peroxide, then the hydroxyl radical.",
+      "topicId": "ros",
+      "subtopic": "Oxygen toxicity",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-ros2-sba-03",
+      "type": "single-best",
+      "stem": "Carbon tetrachloride is converted in the liver into the damaging:",
+      "options": [
+        {
+          "label": "A",
+          "text": "hydrogen peroxide molecule"
+        },
+        {
+          "label": "B",
+          "text": "trichloromethyl radical"
+        },
+        {
+          "label": "C",
+          "text": "hydroxyl radical directly"
+        },
+        {
+          "label": "D",
+          "text": "superoxide anion radical"
+        },
+        {
+          "label": "E",
+          "text": "singlet oxygen molecule"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Hepatic metabolism of CCl4 forms the trichloromethyl radical, initiating lipid peroxidation.",
+      "topicId": "ros",
+      "subtopic": "Mechanisms and sources",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-ros2-sba-04",
+      "type": "single-best",
+      "stem": "The mitochondrial isoenzyme of superoxide dismutase contains:",
+      "options": [
+        {
+          "label": "A",
+          "text": "haem iron"
+        },
+        {
+          "label": "B",
+          "text": "magnesium ions"
+        },
+        {
+          "label": "C",
+          "text": "manganese"
+        },
+        {
+          "label": "D",
+          "text": "copper and zinc"
+        },
+        {
+          "label": "E",
+          "text": "selenium alone"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Mitochondrial SOD is the manganese enzyme (MnSOD); the cytosolic form uses copper and zinc.",
+      "topicId": "ros",
+      "subtopic": "Antioxidant systems",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-ros2-sba-05",
+      "type": "single-best",
+      "stem": "Because glutathione peroxidase is a selenoprotein, its activity depends on dietary:",
+      "options": [
+        {
+          "label": "A",
+          "text": "zinc"
+        },
+        {
+          "label": "B",
+          "text": "manganese"
+        },
+        {
+          "label": "C",
+          "text": "iron"
+        },
+        {
+          "label": "D",
+          "text": "selenium"
+        },
+        {
+          "label": "E",
+          "text": "copper"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Glutathione peroxidase needs selenium at its active site.",
+      "topicId": "ros",
+      "subtopic": "Antioxidant systems",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-ros2-sba-06",
+      "type": "single-best",
+      "stem": "The plasma copper-binding protein with antioxidant (ferroxidase) activity is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "transferrin"
+        },
+        {
+          "label": "B",
+          "text": "haptoglobin"
+        },
+        {
+          "label": "C",
+          "text": "haemopexin"
+        },
+        {
+          "label": "D",
+          "text": "immunoglobulin G"
+        },
+        {
+          "label": "E",
+          "text": "ceruloplasmin"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Ceruloplasmin binds copper and, as a ferroxidase, limits iron-driven radical formation.",
+      "topicId": "ros",
+      "subtopic": "Antioxidant systems",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-ros2-sba-07",
+      "type": "single-best",
+      "stem": "The plasma protein that binds free haemoglobin released during haemolysis is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "haptoglobin"
+        },
+        {
+          "label": "B",
+          "text": "haemopexin"
+        },
+        {
+          "label": "C",
+          "text": "transferrin"
+        },
+        {
+          "label": "D",
+          "text": "ceruloplasmin"
+        },
+        {
+          "label": "E",
+          "text": "ferritin protein"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Haptoglobin mops up free haemoglobin, limiting its pro-oxidant iron.",
+      "topicId": "ros",
+      "subtopic": "Antioxidant systems",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-ros2-sba-08",
+      "type": "single-best",
+      "stem": "The termination step of lipid peroxidation occurs when:",
+      "options": [
+        {
+          "label": "A",
+          "text": "a lipid hydroperoxide decomposes further"
+        },
+        {
+          "label": "B",
+          "text": "two radicals combine to give a non-radical product"
+        },
+        {
+          "label": "C",
+          "text": "a radical abstracts hydrogen from a fatty acid"
+        },
+        {
+          "label": "D",
+          "text": "a carbon radical reacts with molecular oxygen"
+        },
+        {
+          "label": "E",
+          "text": "a peroxyl radical attacks a new fatty acid"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Termination is two radicals joining to form a stable non-radical product, ending the chain.",
+      "topicId": "ros",
+      "subtopic": "Mechanisms and sources",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-ros2-sba-09",
+      "type": "single-best",
+      "stem": "The iron-chelating antioxidant drug that blocks metal-catalysed radical formation is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "alpha-tocopherol"
+        },
+        {
+          "label": "B",
+          "text": "reduced glutathione"
+        },
+        {
+          "label": "C",
+          "text": "desferrioxamine"
+        },
+        {
+          "label": "D",
+          "text": "allopurinol compound"
+        },
+        {
+          "label": "E",
+          "text": "ascorbic acid"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Desferrioxamine chelates iron, preventing the Fenton reaction.",
+      "topicId": "ros",
+      "subtopic": "Antioxidant systems",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-ros2-sba-10",
+      "type": "single-best",
+      "stem": "Reactive oxygen species influence gene expression largely through the transcription factor:",
+      "options": [
+        {
+          "label": "A",
+          "text": "cytochrome c"
+        },
+        {
+          "label": "B",
+          "text": "caspase-9 enzyme"
+        },
+        {
+          "label": "C",
+          "text": "the Apaf-1 protein"
+        },
+        {
+          "label": "D",
+          "text": "NF-kappa-B"
+        },
+        {
+          "label": "E",
+          "text": "NADPH oxidase"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "ROS activate NF-κB, which regulates immunity, inflammation and apoptosis genes.",
+      "topicId": "ros",
+      "subtopic": "ROS in disease",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-ros2-sba-11",
+      "type": "single-best",
+      "stem": "The end-product of lipid peroxidation that forms mutagenic DNA adducts is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "reduced glutathione"
+        },
+        {
+          "label": "B",
+          "text": "uric acid (urate)"
+        },
+        {
+          "label": "C",
+          "text": "biliverdin pigment"
+        },
+        {
+          "label": "D",
+          "text": "conjugated bilirubin"
+        },
+        {
+          "label": "E",
+          "text": "malondialdehyde"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Malondialdehyde (MDA) reacts with DNA bases to form mutagenic adducts.",
+      "topicId": "ros",
+      "subtopic": "Mechanisms and sources",
+      "difficulty": "medium"
     }
   ]
 }
