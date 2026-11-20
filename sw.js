@@ -2,13 +2,14 @@
    Shell + questions: network first when online (so a fresh launch shows the latest),
    cached copy when offline. The whole bank is precached on install, so it works fully
    offline after the first visit. Images: cache first (file names never change). */
-const CACHE = 'dq-v44';
+const CACHE = 'dq-v45';
 const CORE = ['./', './index.html', './styles.css', './app.js', './manifest.webmanifest',
   './fonts/inter.woff2', './fonts/anton.woff2',
   './icons/icon-192.png', './icons/icon-512.png', './icons/icon-180.png'];
 const DATA = [
   './data/catalog.json', './data/comments.json', './data/topic-groups.json', './data/topics.json',
   './data/past-questions.json',
+  './data/physiology/cvs-curated.json',
   './data/anatomy/embryo-past.json', './data/anatomy/embryo-topics.json',
   './data/anatomy/gross-curated.json', './data/anatomy/gross-past.json', './data/anatomy/gross-topics.json',
   './data/anatomy/micro-curated.json', './data/anatomy/micro-past.json', './data/anatomy/micro-topics.json',

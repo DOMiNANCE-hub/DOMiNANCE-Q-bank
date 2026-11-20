@@ -1,0 +1,4263 @@
+{
+  "id": "phys-cvs-curated",
+  "title": "Physiology - Cardiovascular (DOMiNANCE Originals)",
+  "source": "Built from CVS lecture slides (Circulation 1-3, Lectures 5-7)",
+  "questions": [
+    {
+      "id": "dq-phys-cvs-001",
+      "type": "single-best",
+      "stem": "The structures of the heart responsible for initiating and spreading the heartbeat make up the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "specialised conducting system"
+        },
+        {
+          "label": "B",
+          "text": "fibrous skeleton of the heart"
+        },
+        {
+          "label": "C",
+          "text": "coronary vascular network"
+        },
+        {
+          "label": "D",
+          "text": "pericardial sac"
+        },
+        {
+          "label": "E",
+          "text": "papillary muscle apparatus"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The heart's conducting system initiates and distributes each impulse that drives the beat.",
+      "topicId": "cv-introduction",
+      "subtopic": "Overview",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-cvs-002",
+      "type": "single-best",
+      "stem": "In the terminology of the cardiac cycle, systole refers to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "valve opening"
+        },
+        {
+          "label": "B",
+          "text": "contraction"
+        },
+        {
+          "label": "C",
+          "text": "relaxation"
+        },
+        {
+          "label": "D",
+          "text": "filling"
+        },
+        {
+          "label": "E",
+          "text": "repolarisation"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Systole is contraction; diastole is relaxation.",
+      "topicId": "cv-introduction",
+      "subtopic": "Overview",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-cvs-003",
+      "type": "single-best",
+      "stem": "The resting cardiac output of the right ventricle compared with the left ventricle is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "very much greater"
+        },
+        {
+          "label": "B",
+          "text": "very much smaller"
+        },
+        {
+          "label": "C",
+          "text": "approximately equal"
+        },
+        {
+          "label": "D",
+          "text": "about half as large"
+        },
+        {
+          "label": "E",
+          "text": "roughly twice as large"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Right and left outputs are essentially equal (about 5.5 L/min each) so the circulations stay balanced.",
+      "topicId": "cv-introduction",
+      "subtopic": "Overview",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-004",
+      "type": "single-best",
+      "stem": "The normal pacemaker of the heart is the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "bundle of His"
+        },
+        {
+          "label": "B",
+          "text": "Purkinje network"
+        },
+        {
+          "label": "C",
+          "text": "internodal tract"
+        },
+        {
+          "label": "D",
+          "text": "sinoatrial node"
+        },
+        {
+          "label": "E",
+          "text": "atrioventricular node"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Although all conducting tissue can discharge spontaneously, the SA node sets the rate as pacemaker.",
+      "topicId": "cardiac-conduction",
+      "subtopic": "Conduction system",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-cvs-005",
+      "type": "single-best",
+      "stem": "The sinoatrial node is located at the junction of the right atrium and the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "inferior vena cava"
+        },
+        {
+          "label": "B",
+          "text": "coronary sinus"
+        },
+        {
+          "label": "C",
+          "text": "pulmonary trunk"
+        },
+        {
+          "label": "D",
+          "text": "tricuspid valve"
+        },
+        {
+          "label": "E",
+          "text": "superior vena cava"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The SA node lies at the junction of the superior vena cava and the right atrium.",
+      "topicId": "cardiac-conduction",
+      "subtopic": "Conduction system",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-006",
+      "type": "single-best",
+      "stem": "The atrioventricular node is situated in the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "posterior interatrial septum"
+        },
+        {
+          "label": "B",
+          "text": "anterior wall of left atrium"
+        },
+        {
+          "label": "C",
+          "text": "apex of the left ventricle"
+        },
+        {
+          "label": "D",
+          "text": "wall of the superior vena cava"
+        },
+        {
+          "label": "E",
+          "text": "interventricular septum apex"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The AV node lies in the posterior interatrial septum, just behind the tricuspid valve.",
+      "topicId": "cardiac-conduction",
+      "subtopic": "Conduction system",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-007",
+      "type": "single-best",
+      "stem": "Which is the correct sequence of impulse conduction through the heart?",
+      "options": [
+        {
+          "label": "A",
+          "text": "AV node, His, SA node, Purkinje fibres"
+        },
+        {
+          "label": "B",
+          "text": "SA node, AV node, bundle of His, Purkinje fibres"
+        },
+        {
+          "label": "C",
+          "text": "AV node, SA node, Purkinje fibres, His"
+        },
+        {
+          "label": "D",
+          "text": "SA node, His, AV node, Purkinje fibres"
+        },
+        {
+          "label": "E",
+          "text": "Purkinje fibres, His, AV node, SA node"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The impulse passes SA node to AV node to bundle of His to Purkinje fibres.",
+      "topicId": "cardiac-conduction",
+      "subtopic": "Conduction system",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-cvs-008",
+      "type": "single-best",
+      "stem": "The anterior internodal tract connecting the atria to the AV node is also known as the tract of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Purkinje"
+        },
+        {
+          "label": "B",
+          "text": "His"
+        },
+        {
+          "label": "C",
+          "text": "Bachmann"
+        },
+        {
+          "label": "D",
+          "text": "Wenckebach"
+        },
+        {
+          "label": "E",
+          "text": "Thorel"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The three internodal tracts are anterior (Bachmann), middle (Wenckebach) and posterior (Thorel).",
+      "topicId": "cardiac-conduction",
+      "subtopic": "Conduction system",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-009",
+      "type": "single-best",
+      "stem": "During normal diastole, the state of the heart valves is that the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "all four valves are open"
+        },
+        {
+          "label": "B",
+          "text": "all four valves are closed"
+        },
+        {
+          "label": "C",
+          "text": "mitral and aortic valves are open"
+        },
+        {
+          "label": "D",
+          "text": "mitral and tricuspid valves are open"
+        },
+        {
+          "label": "E",
+          "text": "aortic and pulmonary valves are open"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "In diastole the AV (mitral and tricuspid) valves are open and the semilunar valves closed, allowing filling.",
+      "topicId": "cardiac-cycle",
+      "subtopic": "Cardiac cycle",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-010",
+      "type": "single-best",
+      "stem": "What proportion of ventricular filling normally occurs passively, before atrial contraction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "about 30%"
+        },
+        {
+          "label": "B",
+          "text": "about 50%"
+        },
+        {
+          "label": "C",
+          "text": "about 10%"
+        },
+        {
+          "label": "D",
+          "text": "about 90%"
+        },
+        {
+          "label": "E",
+          "text": "about 70%"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Roughly 70% of filling is passive; atrial systole adds the remaining ~30%.",
+      "topicId": "cardiac-cycle",
+      "subtopic": "Cardiac cycle",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-011",
+      "type": "single-best",
+      "stem": "The phase in which the ventricle contracts with all valves closed and no change in volume is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "isovolumetric contraction"
+        },
+        {
+          "label": "B",
+          "text": "rapid ejection"
+        },
+        {
+          "label": "C",
+          "text": "isovolumetric relaxation"
+        },
+        {
+          "label": "D",
+          "text": "rapid filling"
+        },
+        {
+          "label": "E",
+          "text": "atrial systole"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "With all valves shut the ventricle builds pressure without ejecting blood - isovolumetric contraction.",
+      "topicId": "cardiac-cycle",
+      "subtopic": "Cardiac cycle",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-012",
+      "type": "single-best",
+      "stem": "The left ventricular pressure must exceed roughly what value before the aortic valve opens?",
+      "options": [
+        {
+          "label": "A",
+          "text": "25 mmHg"
+        },
+        {
+          "label": "B",
+          "text": "80 mmHg"
+        },
+        {
+          "label": "C",
+          "text": "10 mmHg"
+        },
+        {
+          "label": "D",
+          "text": "120 mmHg"
+        },
+        {
+          "label": "E",
+          "text": "40 mmHg"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The aortic valve opens once LV pressure exceeds aortic diastolic pressure (~80 mmHg).",
+      "topicId": "cardiac-cycle",
+      "subtopic": "Cardiac cycle",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-013",
+      "type": "single-best",
+      "stem": "The end-diastolic ventricular volume is approximately:",
+      "options": [
+        {
+          "label": "A",
+          "text": "200 ml"
+        },
+        {
+          "label": "B",
+          "text": "90 ml"
+        },
+        {
+          "label": "C",
+          "text": "130 ml"
+        },
+        {
+          "label": "D",
+          "text": "70 ml"
+        },
+        {
+          "label": "E",
+          "text": "50 ml"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "A full ventricle holds about 130 ml at end-diastole.",
+      "topicId": "cardiac-cycle",
+      "subtopic": "Cardiac cycle",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-014",
+      "type": "single-best",
+      "stem": "The stroke volume, the amount ejected per beat, is normally about:",
+      "options": [
+        {
+          "label": "A",
+          "text": "130-150 ml"
+        },
+        {
+          "label": "B",
+          "text": "40-50 ml"
+        },
+        {
+          "label": "C",
+          "text": "100-120 ml"
+        },
+        {
+          "label": "D",
+          "text": "70-90 ml"
+        },
+        {
+          "label": "E",
+          "text": "10-20 ml"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Stroke volume is roughly 70-90 ml at rest.",
+      "topicId": "cardiac-cycle",
+      "subtopic": "Cardiac cycle",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-cvs-015",
+      "type": "single-best",
+      "stem": "The ejection fraction of a normal ventricle is approximately:",
+      "options": [
+        {
+          "label": "A",
+          "text": "100%"
+        },
+        {
+          "label": "B",
+          "text": "40%"
+        },
+        {
+          "label": "C",
+          "text": "85%"
+        },
+        {
+          "label": "D",
+          "text": "25%"
+        },
+        {
+          "label": "E",
+          "text": "65%"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Ejection fraction (SV/EDV) is normally about 65%.",
+      "topicId": "cardiac-cycle",
+      "subtopic": "Cardiac cycle",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-016",
+      "type": "single-best",
+      "stem": "The brief interval after full contraction, during which ventricular pressure begins to fall and ends with closure of the semilunar valves, is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "protodiastole"
+        },
+        {
+          "label": "B",
+          "text": "isovolumetric relaxation"
+        },
+        {
+          "label": "C",
+          "text": "rapid ejection"
+        },
+        {
+          "label": "D",
+          "text": "the reduced filling phase"
+        },
+        {
+          "label": "E",
+          "text": "atrial systole"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Protodiastole is the short fall in ventricular pressure ending as the aortic and pulmonary valves close.",
+      "topicId": "cardiac-cycle",
+      "subtopic": "Cardiac cycle",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-017",
+      "type": "single-best",
+      "stem": "According to Starling's law of the heart, the force of contraction is proportional to the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "thickness of the ventricular wall"
+        },
+        {
+          "label": "B",
+          "text": "initial length of the muscle fibre"
+        },
+        {
+          "label": "C",
+          "text": "afterload opposing the ventricle"
+        },
+        {
+          "label": "D",
+          "text": "prevailing heart rate at the time"
+        },
+        {
+          "label": "E",
+          "text": "circulating adrenaline concentration"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Starling's law: energy of contraction is proportional to the initial (end-diastolic) fibre length.",
+      "topicId": "cardiac-muscle",
+      "subtopic": "Frank-Starling",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-018",
+      "type": "single-best",
+      "stem": "Preload is best defined as the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "rate of ventricular relaxation"
+        },
+        {
+          "label": "B",
+          "text": "volume ejected per beat"
+        },
+        {
+          "label": "C",
+          "text": "degree of myocardial stretch before contraction"
+        },
+        {
+          "label": "D",
+          "text": "resistance against which blood is expelled"
+        },
+        {
+          "label": "E",
+          "text": "force of ventricular contraction"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Preload is the stretch of the myocardium before it contracts (related to end-diastolic volume).",
+      "topicId": "cardiac-muscle",
+      "subtopic": "Frank-Starling",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-019",
+      "type": "single-best",
+      "stem": "Afterload on the left ventricle corresponds most closely to the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "the venous return reaching the heart"
+        },
+        {
+          "label": "B",
+          "text": "the intrinsic rate of the pacemaker"
+        },
+        {
+          "label": "C",
+          "text": "the end-diastolic muscle fibre length"
+        },
+        {
+          "label": "D",
+          "text": "resistance the ventricle expels against"
+        },
+        {
+          "label": "E",
+          "text": "the degree of diastolic stretch applied"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Afterload is the resistance (largely aortic pressure/peripheral resistance) the ventricle works against.",
+      "topicId": "cardiac-muscle",
+      "subtopic": "Frank-Starling",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-020",
+      "type": "single-best",
+      "stem": "Regulation of cardiac output by changes in muscle fibre length is termed:",
+      "options": [
+        {
+          "label": "A",
+          "text": "homometric regulation"
+        },
+        {
+          "label": "B",
+          "text": "chronotropic regulation"
+        },
+        {
+          "label": "C",
+          "text": "autoregulation"
+        },
+        {
+          "label": "D",
+          "text": "neural regulation"
+        },
+        {
+          "label": "E",
+          "text": "heterometric regulation"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Length-dependent (Starling) regulation is heterometric; contractility changes at constant length are homometric.",
+      "topicId": "cardiac-muscle",
+      "subtopic": "Frank-Starling",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-021",
+      "type": "single-best",
+      "stem": "A change in the strength of cardiac contraction, independent of fibre length, is called a(n):",
+      "options": [
+        {
+          "label": "A",
+          "text": "inotropic effect"
+        },
+        {
+          "label": "B",
+          "text": "chronotropic effect"
+        },
+        {
+          "label": "C",
+          "text": "dromotropic effect"
+        },
+        {
+          "label": "D",
+          "text": "bathmotropic effect"
+        },
+        {
+          "label": "E",
+          "text": "lusitropic effect"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "An inotropic effect changes contractile strength; a chronotropic effect changes rate.",
+      "topicId": "cardiac-muscle",
+      "subtopic": "Contractility",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-022",
+      "type": "single-best",
+      "stem": "Catecholamines increase myocardial contractility mainly by acting on which receptors?",
+      "options": [
+        {
+          "label": "A",
+          "text": "nicotinic receptors"
+        },
+        {
+          "label": "B",
+          "text": "beta-1 adrenergic receptors"
+        },
+        {
+          "label": "C",
+          "text": "alpha-1 adrenergic receptors"
+        },
+        {
+          "label": "D",
+          "text": "muscarinic receptors"
+        },
+        {
+          "label": "E",
+          "text": "beta-2 adrenergic receptors"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Adrenaline/noradrenaline act via beta-1 receptors and adenylyl cyclase to raise cAMP and contractility.",
+      "topicId": "cardiac-muscle",
+      "subtopic": "Contractility",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-023",
+      "type": "single-best",
+      "stem": "Caffeine and theophylline increase cardiac contractility because they:",
+      "options": [
+        {
+          "label": "A",
+          "text": "reduce calcium entry"
+        },
+        {
+          "label": "B",
+          "text": "deplete catecholamines"
+        },
+        {
+          "label": "C",
+          "text": "inhibit the breakdown of cAMP"
+        },
+        {
+          "label": "D",
+          "text": "block beta-1 receptors"
+        },
+        {
+          "label": "E",
+          "text": "stimulate the vagus nerve"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Xanthines inhibit phosphodiesterase, so cAMP accumulates and the positive inotropic effect is sustained.",
+      "topicId": "cardiac-muscle",
+      "subtopic": "Contractility",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-024",
+      "type": "single-best",
+      "stem": "It is impossible to tetanise cardiac muscle because of its:",
+      "options": [
+        {
+          "label": "A",
+          "text": "lack of innervation"
+        },
+        {
+          "label": "B",
+          "text": "high mitochondrial content"
+        },
+        {
+          "label": "C",
+          "text": "continuous calcium leak"
+        },
+        {
+          "label": "D",
+          "text": "long refractory period"
+        },
+        {
+          "label": "E",
+          "text": "small cell size"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The long refractory period of the cardiac action potential prevents summation and tetany.",
+      "topicId": "cardiac-muscle",
+      "subtopic": "Cardiac muscle",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-025",
+      "type": "single-best",
+      "stem": "On the electrocardiogram, the P wave represents:",
+      "options": [
+        {
+          "label": "A",
+          "text": "ventricular depolarisation"
+        },
+        {
+          "label": "B",
+          "text": "ventricular repolarisation"
+        },
+        {
+          "label": "C",
+          "text": "atrial repolarisation"
+        },
+        {
+          "label": "D",
+          "text": "the plateau phase"
+        },
+        {
+          "label": "E",
+          "text": "atrial depolarisation"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The P wave is the spread of depolarisation through the atria from the SA node.",
+      "topicId": "ecg",
+      "subtopic": "ECG waves",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-cvs-026",
+      "type": "single-best",
+      "stem": "The QRS complex of the ECG represents:",
+      "options": [
+        {
+          "label": "A",
+          "text": "ventricular depolarisation"
+        },
+        {
+          "label": "B",
+          "text": "atrial depolarisation"
+        },
+        {
+          "label": "C",
+          "text": "ventricular repolarisation"
+        },
+        {
+          "label": "D",
+          "text": "atrial repolarisation"
+        },
+        {
+          "label": "E",
+          "text": "AV nodal delay"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The QRS complex reflects ventricular depolarisation.",
+      "topicId": "ecg",
+      "subtopic": "ECG waves",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-cvs-027",
+      "type": "single-best",
+      "stem": "The normal PR interval ranges from:",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.40 to 0.60 seconds"
+        },
+        {
+          "label": "B",
+          "text": "0.12 to 0.20 seconds"
+        },
+        {
+          "label": "C",
+          "text": "0.06 to 0.10 seconds"
+        },
+        {
+          "label": "D",
+          "text": "0.20 to 0.40 seconds"
+        },
+        {
+          "label": "E",
+          "text": "0.02 to 0.08 seconds"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The PR interval (atrial depolarisation to onset of ventricular depolarisation) is 0.12-0.20 s.",
+      "topicId": "ecg",
+      "subtopic": "ECG waves",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-028",
+      "type": "single-best",
+      "stem": "The T wave of the electrocardiogram corresponds to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "atrial depolarisation"
+        },
+        {
+          "label": "B",
+          "text": "AV conduction"
+        },
+        {
+          "label": "C",
+          "text": "ventricular repolarisation"
+        },
+        {
+          "label": "D",
+          "text": "ventricular depolarisation"
+        },
+        {
+          "label": "E",
+          "text": "atrial repolarisation"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The T wave is ventricular repolarisation and is longer than depolarisation.",
+      "topicId": "ecg",
+      "subtopic": "ECG waves",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-cvs-029",
+      "type": "single-best",
+      "stem": "ST-segment depression or elevation is important in the diagnosis of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "a first-degree heart block"
+        },
+        {
+          "label": "B",
+          "text": "delay in a bundle branch"
+        },
+        {
+          "label": "C",
+          "text": "a sinus arrhythmia pattern"
+        },
+        {
+          "label": "D",
+          "text": "ventricular ischaemia or hypoxia"
+        },
+        {
+          "label": "E",
+          "text": "enlargement of the atria"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The ST segment shifts with ventricular ischaemia or hypoxia.",
+      "topicId": "ecg",
+      "subtopic": "ECG waves",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-030",
+      "type": "single-best",
+      "stem": "On standard ECG paper, one small (1 mm) square represents how much time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.1 second"
+        },
+        {
+          "label": "B",
+          "text": "0.2 second"
+        },
+        {
+          "label": "C",
+          "text": "0.02 second"
+        },
+        {
+          "label": "D",
+          "text": "0.01 second"
+        },
+        {
+          "label": "E",
+          "text": "0.04 second"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "At 25 mm/s each 1 mm square is 0.04 s; a large (5 mm) square is 0.2 s.",
+      "topicId": "ecg",
+      "subtopic": "ECG calibration",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-031",
+      "type": "single-best",
+      "stem": "Heart rate can be estimated by dividing which number by the number of large squares between two R waves?",
+      "options": [
+        {
+          "label": "A",
+          "text": "300"
+        },
+        {
+          "label": "B",
+          "text": "1500"
+        },
+        {
+          "label": "C",
+          "text": "60"
+        },
+        {
+          "label": "D",
+          "text": "100"
+        },
+        {
+          "label": "E",
+          "text": "25"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Rate = 300/large squares (or 1500/small squares) between successive R waves.",
+      "topicId": "ecg",
+      "subtopic": "ECG calibration",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-032",
+      "type": "single-best",
+      "stem": "The first heart sound is produced by closure of the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "mitral valve alone"
+        },
+        {
+          "label": "B",
+          "text": "mitral and tricuspid valves"
+        },
+        {
+          "label": "C",
+          "text": "aortic and pulmonary valves"
+        },
+        {
+          "label": "D",
+          "text": "aortic and mitral valves"
+        },
+        {
+          "label": "E",
+          "text": "pulmonary and tricuspid valves"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "S1 is the near-simultaneous closure of the mitral and tricuspid (AV) valves at the start of systole.",
+      "topicId": "heart-sounds",
+      "subtopic": "Heart sounds",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-cvs-033",
+      "type": "single-best",
+      "stem": "The second heart sound marks the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "start of rapid filling"
+        },
+        {
+          "label": "B",
+          "text": "onset of isovolumetric contraction"
+        },
+        {
+          "label": "C",
+          "text": "end of ventricular systole"
+        },
+        {
+          "label": "D",
+          "text": "beginning of ventricular systole"
+        },
+        {
+          "label": "E",
+          "text": "peak of atrial contraction"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "S2 (closure of the semilunar valves) occurs at the end of systole/beginning of diastole.",
+      "topicId": "heart-sounds",
+      "subtopic": "Heart sounds",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-034",
+      "type": "single-best",
+      "stem": "Physiological splitting of the second heart sound during inspiration occurs because the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "mitral valve closes late"
+        },
+        {
+          "label": "B",
+          "text": "tricuspid valve closes early"
+        },
+        {
+          "label": "C",
+          "text": "aortic and pulmonary valves close together"
+        },
+        {
+          "label": "D",
+          "text": "aortic valve closes before the pulmonary valve"
+        },
+        {
+          "label": "E",
+          "text": "pulmonary valve closes before the aortic valve"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Inspiration increases venous return and prolongs right ventricular ejection, so the pulmonary valve closes after the aortic.",
+      "topicId": "heart-sounds",
+      "subtopic": "Heart sounds",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-035",
+      "type": "single-best",
+      "stem": "A third heart sound in diastole, when present, is due to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "closure of the aortic valve"
+        },
+        {
+          "label": "B",
+          "text": "atrial contraction against a closed valve"
+        },
+        {
+          "label": "C",
+          "text": "turbulent flow across a stenosed valve"
+        },
+        {
+          "label": "D",
+          "text": "isovolumetric relaxation"
+        },
+        {
+          "label": "E",
+          "text": "rapid ventricular filling"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "S3 results from rapid passive ventricular filling in early diastole.",
+      "topicId": "heart-sounds",
+      "subtopic": "Heart sounds",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-036",
+      "type": "single-best",
+      "stem": "A heart murmur is generally caused by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "turbulent blood flow"
+        },
+        {
+          "label": "B",
+          "text": "laminar blood flow"
+        },
+        {
+          "label": "C",
+          "text": "normal valve closure"
+        },
+        {
+          "label": "D",
+          "text": "slowed heart rate"
+        },
+        {
+          "label": "E",
+          "text": "reduced blood volume"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Murmurs arise from turbulent (non-laminar) flow, as across abnormal valves or in hyperdynamic circulation.",
+      "topicId": "heart-sounds",
+      "subtopic": "Murmurs",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-cvs-037",
+      "type": "single-best",
+      "stem": "The arterial pulse that can be palpated is produced by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "contraction of the arterial wall"
+        },
+        {
+          "label": "B",
+          "text": "a pressure wave expanding the arterial wall"
+        },
+        {
+          "label": "C",
+          "text": "the actual velocity of the blood column"
+        },
+        {
+          "label": "D",
+          "text": "closure of the aortic valve"
+        },
+        {
+          "label": "E",
+          "text": "turbulent flow in the artery"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The pulse is a pressure wave travelling along the arteries, felt as expansion of the wall - independent of blood velocity.",
+      "topicId": "pulses",
+      "subtopic": "Arterial pulse",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-038",
+      "type": "single-best",
+      "stem": "As a person ages, the arterial pulse wave travels:",
+      "options": [
+        {
+          "label": "A",
+          "text": "faster, because the heart rate rises"
+        },
+        {
+          "label": "B",
+          "text": "slower, because blood becomes more viscous"
+        },
+        {
+          "label": "C",
+          "text": "faster, because arteries become more rigid"
+        },
+        {
+          "label": "D",
+          "text": "slower, because arteries become more elastic"
+        },
+        {
+          "label": "E",
+          "text": "at an unchanged speed"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Stiffer (less elastic) arteries with age transmit the pressure wave faster.",
+      "topicId": "pulses",
+      "subtopic": "Arterial pulse",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-039",
+      "type": "single-best",
+      "stem": "The 'a' wave of the jugular venous pulse is produced by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "opening of the tricuspid valve"
+        },
+        {
+          "label": "B",
+          "text": "passive atrial filling"
+        },
+        {
+          "label": "C",
+          "text": "ventricular ejection"
+        },
+        {
+          "label": "D",
+          "text": "atrial contraction"
+        },
+        {
+          "label": "E",
+          "text": "atrial relaxation"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The 'a' wave reflects atrial contraction causing a brief rise in venous pressure.",
+      "topicId": "pulses",
+      "subtopic": "JVP",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-040",
+      "type": "single-best",
+      "stem": "A giant 'a' wave in the jugular venous pulse is characteristically seen in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "tricuspid incompetence"
+        },
+        {
+          "label": "B",
+          "text": "aortic stenosis"
+        },
+        {
+          "label": "C",
+          "text": "mitral stenosis"
+        },
+        {
+          "label": "D",
+          "text": "atrial fibrillation"
+        },
+        {
+          "label": "E",
+          "text": "heart block"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "In heart block the atrium contracts against a closed tricuspid valve, producing a giant 'a' wave.",
+      "topicId": "pulses",
+      "subtopic": "JVP",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-041",
+      "type": "single-best",
+      "stem": "Cardiac output is correctly expressed as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "heart rate x stroke volume"
+        },
+        {
+          "label": "B",
+          "text": "stroke volume / heart rate"
+        },
+        {
+          "label": "C",
+          "text": "heart rate x ejection fraction"
+        },
+        {
+          "label": "D",
+          "text": "stroke volume x ejection fraction"
+        },
+        {
+          "label": "E",
+          "text": "heart rate x pulse pressure"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Cardiac output = heart rate x stroke volume.",
+      "topicId": "cardiac-output",
+      "subtopic": "Cardiac output",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-cvs-042",
+      "type": "single-best",
+      "stem": "The cardiac index is the cardiac output expressed per unit of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "ventricular volume"
+        },
+        {
+          "label": "B",
+          "text": "body surface area"
+        },
+        {
+          "label": "C",
+          "text": "body weight"
+        },
+        {
+          "label": "D",
+          "text": "heart mass"
+        },
+        {
+          "label": "E",
+          "text": "blood volume"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Cardiac index is cardiac output divided by body surface area.",
+      "topicId": "cardiac-output",
+      "subtopic": "Cardiac output",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-043",
+      "type": "single-best",
+      "stem": "Vagal (parasympathetic) stimulation of the heart produces a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "rise in contractility"
+        },
+        {
+          "label": "B",
+          "text": "rise in conduction velocity"
+        },
+        {
+          "label": "C",
+          "text": "negative chronotropic effect"
+        },
+        {
+          "label": "D",
+          "text": "positive inotropic effect"
+        },
+        {
+          "label": "E",
+          "text": "positive chronotropic effect"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Vagal stimulation slows the heart (negative chronotropy) and is also negatively inotropic.",
+      "topicId": "cardiac-output",
+      "subtopic": "Autonomic control",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-044",
+      "type": "single-best",
+      "stem": "Which of the following would INCREASE end-diastolic volume (and thus stroke volume by Starling's law)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "pericardial effusion"
+        },
+        {
+          "label": "B",
+          "text": "increased ventricular stiffness"
+        },
+        {
+          "label": "C",
+          "text": "raised intrapericardial pressure"
+        },
+        {
+          "label": "D",
+          "text": "increased venous tone"
+        },
+        {
+          "label": "E",
+          "text": "standing upright"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Increased venous tone raises venous return and end-diastolic volume; the other options reduce filling.",
+      "topicId": "cardiac-output",
+      "subtopic": "Determinants",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-045",
+      "type": "single-best",
+      "stem": "Which factor would DECREASE end-diastolic volume?",
+      "options": [
+        {
+          "label": "A",
+          "text": "stronger atrial contraction"
+        },
+        {
+          "label": "B",
+          "text": "increased total blood volume"
+        },
+        {
+          "label": "C",
+          "text": "skeletal muscle pumping"
+        },
+        {
+          "label": "D",
+          "text": "raised pressure gradient for flow"
+        },
+        {
+          "label": "E",
+          "text": "pooling of blood on standing"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Gravitational pooling on standing reduces venous return and end-diastolic volume.",
+      "topicId": "cardiac-output",
+      "subtopic": "Determinants",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-046",
+      "type": "single-best",
+      "stem": "During exercise, cardiac output rises partly because afterload falls as a result of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "muscle vasodilatation"
+        },
+        {
+          "label": "B",
+          "text": "increased blood viscosity"
+        },
+        {
+          "label": "C",
+          "text": "rising aortic pressure"
+        },
+        {
+          "label": "D",
+          "text": "venoconstriction"
+        },
+        {
+          "label": "E",
+          "text": "reflex bradycardia"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Exercise causes vasodilatation in active muscle, lowering peripheral resistance and afterload.",
+      "topicId": "cardiac-output",
+      "subtopic": "Control",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-047",
+      "type": "single-best",
+      "stem": "Which of the following depresses myocardial contractility?",
+      "options": [
+        {
+          "label": "A",
+          "text": "theophylline"
+        },
+        {
+          "label": "B",
+          "text": "acidosis"
+        },
+        {
+          "label": "C",
+          "text": "circulating adrenaline"
+        },
+        {
+          "label": "D",
+          "text": "sympathetic stimulation"
+        },
+        {
+          "label": "E",
+          "text": "caffeine"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Hypercapnia, hypoxia and acidosis depress contractility; catecholamines and xanthines increase it.",
+      "topicId": "cardiac-output",
+      "subtopic": "Contractility",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-048",
+      "type": "single-best",
+      "stem": "The Fick principle measures cardiac output using oxygen as the indicator; output equals oxygen consumption divided by the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "total blood volume"
+        },
+        {
+          "label": "B",
+          "text": "pulmonary artery pressure"
+        },
+        {
+          "label": "C",
+          "text": "arteriovenous oxygen difference"
+        },
+        {
+          "label": "D",
+          "text": "arterial oxygen content"
+        },
+        {
+          "label": "E",
+          "text": "venous oxygen content"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "By Fick, blood flow = O2 consumption / (arterial - venous O2 difference).",
+      "topicId": "co-measurement",
+      "subtopic": "Fick principle",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-049",
+      "type": "single-best",
+      "stem": "For the Fick principle applied to the whole body, the true mixed venous oxygen sample is taken from the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "femoral vein"
+        },
+        {
+          "label": "B",
+          "text": "right atrium"
+        },
+        {
+          "label": "C",
+          "text": "coronary sinus"
+        },
+        {
+          "label": "D",
+          "text": "pulmonary artery"
+        },
+        {
+          "label": "E",
+          "text": "aorta"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Mixed venous blood for the Fick calculation is sampled from the pulmonary artery.",
+      "topicId": "co-measurement",
+      "subtopic": "Fick principle",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-050",
+      "type": "single-best",
+      "stem": "The central venous pressure, measured at the entrance to the right atrium, is normally about:",
+      "options": [
+        {
+          "label": "A",
+          "text": "12-18 mmHg"
+        },
+        {
+          "label": "B",
+          "text": "25 mmHg"
+        },
+        {
+          "label": "C",
+          "text": "0 mmHg"
+        },
+        {
+          "label": "D",
+          "text": "40 mmHg"
+        },
+        {
+          "label": "E",
+          "text": "4-6 mmHg"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Peripheral venous pressure is ~12-18 mmHg, falling to about 4-6 mmHg (CVP) at the right atrium.",
+      "topicId": "venous-return",
+      "subtopic": "Venous return",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-051",
+      "type": "single-best",
+      "stem": "Which mechanism helps return venous blood to the heart?",
+      "options": [
+        {
+          "label": "A",
+          "text": "skeletal muscle pump"
+        },
+        {
+          "label": "B",
+          "text": "gravity in the standing position"
+        },
+        {
+          "label": "C",
+          "text": "arterial elastic recoil alone"
+        },
+        {
+          "label": "D",
+          "text": "closure of venous valves permanently"
+        },
+        {
+          "label": "E",
+          "text": "increased blood viscosity"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The skeletal muscle pump (with venous valves and the thoracic pump) aids venous return.",
+      "topicId": "venous-return",
+      "subtopic": "Venous return",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-cvs-052",
+      "type": "single-best",
+      "stem": "Veins are described as capacitance vessels because they:",
+      "options": [
+        {
+          "label": "A",
+          "text": "maintain a high wall tension"
+        },
+        {
+          "label": "B",
+          "text": "hold a large reserve volume at low pressure"
+        },
+        {
+          "label": "C",
+          "text": "provide the main resistance to flow"
+        },
+        {
+          "label": "D",
+          "text": "have thick muscular walls"
+        },
+        {
+          "label": "E",
+          "text": "generate the arterial pulse"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Veins accommodate large volumes with little pressure change, acting as the blood reservoir.",
+      "topicId": "venous-return",
+      "subtopic": "Venous return",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-053",
+      "type": "single-best",
+      "stem": "Heart failure is best defined as a state in which the heart cannot meet the metabolic needs of the tissues despite:",
+      "options": [
+        {
+          "label": "A",
+          "text": "an absent venous return"
+        },
+        {
+          "label": "B",
+          "text": "severe anaemia"
+        },
+        {
+          "label": "C",
+          "text": "a normal or increased venous return"
+        },
+        {
+          "label": "D",
+          "text": "a reduced venous return"
+        },
+        {
+          "label": "E",
+          "text": "a low circulating blood volume"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "In heart failure the pump fails even though venous return is normal or raised.",
+      "topicId": "heart-failure",
+      "subtopic": "Heart failure",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-054",
+      "type": "single-best",
+      "stem": "Backward failure of the LEFT heart characteristically produces:",
+      "options": [
+        {
+          "label": "A",
+          "text": "hepatomegaly"
+        },
+        {
+          "label": "B",
+          "text": "raised jugular venous pressure"
+        },
+        {
+          "label": "C",
+          "text": "nocturnal diuresis"
+        },
+        {
+          "label": "D",
+          "text": "pulmonary oedema and dyspnoea"
+        },
+        {
+          "label": "E",
+          "text": "peripheral oedema and ascites"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Left-sided backward failure raises pulmonary capillary pressure, causing pulmonary oedema and dyspnoea.",
+      "topicId": "heart-failure",
+      "subtopic": "Heart failure",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-055",
+      "type": "single-best",
+      "stem": "Backward failure of the RIGHT heart characteristically produces:",
+      "options": [
+        {
+          "label": "A",
+          "text": "pulmonary oedema"
+        },
+        {
+          "label": "B",
+          "text": "cardiac asthma"
+        },
+        {
+          "label": "C",
+          "text": "paroxysmal nocturnal dyspnoea"
+        },
+        {
+          "label": "D",
+          "text": "arterial hypoxaemia"
+        },
+        {
+          "label": "E",
+          "text": "peripheral oedema and hepatomegaly"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Right-sided backward failure raises systemic venous pressure, causing peripheral oedema, hepatomegaly and ascites.",
+      "topicId": "heart-failure",
+      "subtopic": "Heart failure",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-056",
+      "type": "single-best",
+      "stem": "Forward failure of the left heart mainly causes symptoms of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "tissue hypoperfusion"
+        },
+        {
+          "label": "B",
+          "text": "pulmonary congestion"
+        },
+        {
+          "label": "C",
+          "text": "systemic venous congestion"
+        },
+        {
+          "label": "D",
+          "text": "hepatic congestion"
+        },
+        {
+          "label": "E",
+          "text": "peripheral oedema"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Forward failure reflects inadequate output, giving fatigue, weakness and oliguria from hypoperfusion.",
+      "topicId": "heart-failure",
+      "subtopic": "Heart failure",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-057",
+      "type": "single-best",
+      "stem": "According to the Poiseuille-Hagen relationship, the resistance to blood flow is inversely proportional to the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "viscosity of the blood"
+        },
+        {
+          "label": "B",
+          "text": "fourth power of the radius"
+        },
+        {
+          "label": "C",
+          "text": "radius"
+        },
+        {
+          "label": "D",
+          "text": "square of the radius"
+        },
+        {
+          "label": "E",
+          "text": "length of the vessel"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Resistance = 8Ln/(pi r^4), so it varies as 1/r^4 - radius is the dominant factor.",
+      "topicId": "hemodynamics",
+      "subtopic": "Flow and resistance",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-058",
+      "type": "single-best",
+      "stem": "Halving the radius of a vessel, with all else constant, changes its resistance by a factor of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "8"
+        },
+        {
+          "label": "B",
+          "text": "32"
+        },
+        {
+          "label": "C",
+          "text": "16"
+        },
+        {
+          "label": "D",
+          "text": "2"
+        },
+        {
+          "label": "E",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Because resistance varies as 1/r^4, halving the radius multiplies resistance by 2^4 = 16.",
+      "topicId": "hemodynamics",
+      "subtopic": "Flow and resistance",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-059",
+      "type": "single-best",
+      "stem": "Blood flow through a vessel is directly proportional to the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "length of the vessel"
+        },
+        {
+          "label": "B",
+          "text": "viscosity of the blood"
+        },
+        {
+          "label": "C",
+          "text": "wall thickness"
+        },
+        {
+          "label": "D",
+          "text": "pressure difference across it"
+        },
+        {
+          "label": "E",
+          "text": "resistance of the vessel"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Flow = pressure difference / resistance, so flow rises with the perfusion pressure gradient.",
+      "topicId": "hemodynamics",
+      "subtopic": "Flow and resistance",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-060",
+      "type": "single-best",
+      "stem": "The chief determinant of resistance to blood flow in the circulation is the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "viscosity of the blood"
+        },
+        {
+          "label": "B",
+          "text": "length of the vessels"
+        },
+        {
+          "label": "C",
+          "text": "density of the blood"
+        },
+        {
+          "label": "D",
+          "text": "velocity of flow"
+        },
+        {
+          "label": "E",
+          "text": "radius of the vessels"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Vessel radius (regulated by smooth muscle) is the main controllable determinant of resistance.",
+      "topicId": "hemodynamics",
+      "subtopic": "Flow and resistance",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-061",
+      "type": "single-best",
+      "stem": "Turbulent blood flow, unlike laminar flow, is characterised by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "the production of audible sound"
+        },
+        {
+          "label": "B",
+          "text": "a silent smooth stream"
+        },
+        {
+          "label": "C",
+          "text": "greatest velocity at the wall"
+        },
+        {
+          "label": "D",
+          "text": "a parabolic velocity profile"
+        },
+        {
+          "label": "E",
+          "text": "flow only in large arteries"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Turbulence creates noise (bruits, Korotkoff sounds); laminar flow is silent.",
+      "topicId": "hemodynamics",
+      "subtopic": "Turbulence",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-062",
+      "type": "single-best",
+      "stem": "A high Reynolds number, favouring turbulent flow, is promoted by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "laminar streamlining"
+        },
+        {
+          "label": "B",
+          "text": "increased velocity of blood"
+        },
+        {
+          "label": "C",
+          "text": "increased blood viscosity"
+        },
+        {
+          "label": "D",
+          "text": "a narrow vessel diameter"
+        },
+        {
+          "label": "E",
+          "text": "reduced blood density"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Reynolds number rises with velocity, diameter and density and falls with viscosity; high values mean turbulence.",
+      "topicId": "hemodynamics",
+      "subtopic": "Turbulence",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-063",
+      "type": "single-best",
+      "stem": "Blood velocity is highest in the aorta and lowest in the capillaries because the capillaries have the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "thickest walls"
+        },
+        {
+          "label": "B",
+          "text": "greatest resistance"
+        },
+        {
+          "label": "C",
+          "text": "largest total cross-sectional area"
+        },
+        {
+          "label": "D",
+          "text": "smallest total cross-sectional area"
+        },
+        {
+          "label": "E",
+          "text": "highest pressure"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Velocity = flow/area; the huge combined cross-section of capillaries makes velocity lowest there.",
+      "topicId": "hemodynamics",
+      "subtopic": "Velocity",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-064",
+      "type": "single-best",
+      "stem": "Blood viscosity depends chiefly on the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "heart rate"
+        },
+        {
+          "label": "B",
+          "text": "vessel length"
+        },
+        {
+          "label": "C",
+          "text": "arterial pressure"
+        },
+        {
+          "label": "D",
+          "text": "haematocrit"
+        },
+        {
+          "label": "E",
+          "text": "plasma sodium"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Viscosity rises mainly with haematocrit (as in polycythaemia) and falls in anaemia.",
+      "topicId": "hemodynamics",
+      "subtopic": "Viscosity",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-065",
+      "type": "single-best",
+      "stem": "Autoregulation of blood flow is the capacity of a tissue to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "raise the systemic blood pressure"
+        },
+        {
+          "label": "B",
+          "text": "alter the overall heart rate"
+        },
+        {
+          "label": "C",
+          "text": "change the blood viscosity"
+        },
+        {
+          "label": "D",
+          "text": "increase the cardiac output"
+        },
+        {
+          "label": "E",
+          "text": "keep its own blood flow nearly constant"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Autoregulation keeps local flow relatively constant by adjusting vascular resistance when perfusion pressure changes.",
+      "topicId": "local-regulation",
+      "subtopic": "Autoregulation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-066",
+      "type": "single-best",
+      "stem": "By the metabolic theory of autoregulation, a fall in local blood flow leads to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "accumulation of metabolites causing vasodilatation"
+        },
+        {
+          "label": "B",
+          "text": "washout of metabolites causing vasoconstriction"
+        },
+        {
+          "label": "C",
+          "text": "myogenic contraction of the vessel"
+        },
+        {
+          "label": "D",
+          "text": "release of serotonin"
+        },
+        {
+          "label": "E",
+          "text": "reflex bradycardia"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Reduced flow lets vasodilator metabolites accumulate, dilating vessels and restoring flow.",
+      "topicId": "local-regulation",
+      "subtopic": "Autoregulation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-067",
+      "type": "single-best",
+      "stem": "Which of the following is a local metabolic VASODILATOR?",
+      "options": [
+        {
+          "label": "A",
+          "text": "vasopressin"
+        },
+        {
+          "label": "B",
+          "text": "adenosine"
+        },
+        {
+          "label": "C",
+          "text": "serotonin"
+        },
+        {
+          "label": "D",
+          "text": "angiotensin"
+        },
+        {
+          "label": "E",
+          "text": "cold temperature"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Adenosine, CO2, H+, K+, lactate and low O2 dilate; serotonin, angiotensin and cold constrict.",
+      "topicId": "local-regulation",
+      "subtopic": "Vasoactive factors",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-068",
+      "type": "single-best",
+      "stem": "Endothelium-derived relaxing factor, which mediates vasodilatation by substances such as bradykinin, is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "endothelin"
+        },
+        {
+          "label": "B",
+          "text": "serotonin"
+        },
+        {
+          "label": "C",
+          "text": "nitric oxide"
+        },
+        {
+          "label": "D",
+          "text": "histamine"
+        },
+        {
+          "label": "E",
+          "text": "angiotensin II"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "EDRF is nitric oxide, produced by endothelium to relax vascular smooth muscle.",
+      "topicId": "local-regulation",
+      "subtopic": "Vasoactive factors",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-069",
+      "type": "single-best",
+      "stem": "The myogenic theory of autoregulation holds that vascular smooth muscle contracts in response to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "a fall in the oxygen tension"
+        },
+        {
+          "label": "B",
+          "text": "a rise in local temperature"
+        },
+        {
+          "label": "C",
+          "text": "parasympathetic nerve discharge"
+        },
+        {
+          "label": "D",
+          "text": "increased transmural (stretch) pressure"
+        },
+        {
+          "label": "E",
+          "text": "accumulation of local metabolites"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "By the myogenic theory, raised distending pressure stretches and reflexly contracts the smooth muscle.",
+      "topicId": "local-regulation",
+      "subtopic": "Autoregulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-070",
+      "type": "single-best",
+      "stem": "By the law of Laplace, for a given wall tension the distending pressure a vessel can withstand is greater when its radius is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "larger"
+        },
+        {
+          "label": "B",
+          "text": "unchanged"
+        },
+        {
+          "label": "C",
+          "text": "equal to wall thickness"
+        },
+        {
+          "label": "D",
+          "text": "at maximum stretch"
+        },
+        {
+          "label": "E",
+          "text": "smaller"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Laplace (P = T/r for a cylinder): a smaller radius means a higher pressure is tolerated for the same tension.",
+      "topicId": "local-regulation",
+      "subtopic": "Law of Laplace",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-071",
+      "type": "single-best",
+      "stem": "Pulse pressure is defined as the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "difference between systolic and diastolic pressure"
+        },
+        {
+          "label": "B",
+          "text": "average pressure through the cycle"
+        },
+        {
+          "label": "C",
+          "text": "diastolic pressure plus one-third of systolic"
+        },
+        {
+          "label": "D",
+          "text": "systolic pressure minus mean pressure"
+        },
+        {
+          "label": "E",
+          "text": "sum of systolic and diastolic pressure"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Pulse pressure = systolic minus diastolic pressure.",
+      "topicId": "blood-pressure",
+      "subtopic": "Arterial pressure",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-072",
+      "type": "single-best",
+      "stem": "Mean arterial pressure is estimated as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "twice diastolic minus systolic"
+        },
+        {
+          "label": "B",
+          "text": "diastolic pressure plus one-third of the pulse pressure"
+        },
+        {
+          "label": "C",
+          "text": "the average of systolic and diastolic pressure"
+        },
+        {
+          "label": "D",
+          "text": "systolic pressure minus diastolic pressure"
+        },
+        {
+          "label": "E",
+          "text": "diastolic pressure plus the pulse pressure"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "MAP is approximated as diastolic + 1/3 (pulse pressure) because diastole lasts longer.",
+      "topicId": "blood-pressure",
+      "subtopic": "Arterial pressure",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-073",
+      "type": "single-best",
+      "stem": "Maintenance of arterial pressure during diastole, by elastic recoil of the large arteries, is known as the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Valsalva effect"
+        },
+        {
+          "label": "B",
+          "text": "Anrep effect"
+        },
+        {
+          "label": "C",
+          "text": "Windkessel effect"
+        },
+        {
+          "label": "D",
+          "text": "Bernoulli effect"
+        },
+        {
+          "label": "E",
+          "text": "Bainbridge effect"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The elastic recoil of the aorta sustaining diastolic flow is the Windkessel effect.",
+      "topicId": "blood-pressure",
+      "subtopic": "Arterial pressure",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-074",
+      "type": "single-best",
+      "stem": "The first Korotkoff sound heard while deflating a blood-pressure cuff corresponds to the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "mean pressure"
+        },
+        {
+          "label": "B",
+          "text": "pulse pressure"
+        },
+        {
+          "label": "C",
+          "text": "venous pressure"
+        },
+        {
+          "label": "D",
+          "text": "systolic pressure"
+        },
+        {
+          "label": "E",
+          "text": "diastolic pressure"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The first Korotkoff (tapping) sound marks systolic pressure; disappearance marks diastolic.",
+      "topicId": "blood-pressure",
+      "subtopic": "Measurement",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-075",
+      "type": "single-best",
+      "stem": "Using a cuff that is too SMALL for the arm gives a reading that is falsely:",
+      "options": [
+        {
+          "label": "A",
+          "text": "low"
+        },
+        {
+          "label": "B",
+          "text": "unchanged"
+        },
+        {
+          "label": "C",
+          "text": "absent"
+        },
+        {
+          "label": "D",
+          "text": "variable"
+        },
+        {
+          "label": "E",
+          "text": "high"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "A too-small cuff reads falsely high; a too-large cuff reads falsely low.",
+      "topicId": "blood-pressure",
+      "subtopic": "Measurement",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-076",
+      "type": "single-best",
+      "stem": "When measuring blood pressure, the cuff must be positioned at the level of the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "heart"
+        },
+        {
+          "label": "B",
+          "text": "shoulder"
+        },
+        {
+          "label": "C",
+          "text": "wrist"
+        },
+        {
+          "label": "D",
+          "text": "neck"
+        },
+        {
+          "label": "E",
+          "text": "mid-thigh"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The cuff should be at heart level, or gravity distorts the reading.",
+      "topicId": "blood-pressure",
+      "subtopic": "Measurement",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-cvs-077",
+      "type": "single-best",
+      "stem": "The main integrating centre controlling arteriolar tone and blood pressure is located in the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "cerebellum"
+        },
+        {
+          "label": "B",
+          "text": "medulla oblongata"
+        },
+        {
+          "label": "C",
+          "text": "cerebral cortex"
+        },
+        {
+          "label": "D",
+          "text": "hypothalamus"
+        },
+        {
+          "label": "E",
+          "text": "spinal cord"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The vasomotor centre of the medulla oblongata is the principal controller of vascular tone and BP.",
+      "topicId": "neural-humoral",
+      "subtopic": "Vasomotor centre",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-078",
+      "type": "single-best",
+      "stem": "Blood vessels receive a continuous (tonic) discharge from which fibres?",
+      "options": [
+        {
+          "label": "A",
+          "text": "somatic motor fibres"
+        },
+        {
+          "label": "B",
+          "text": "sensory afferent fibres"
+        },
+        {
+          "label": "C",
+          "text": "sympathetic vasoconstrictor fibres"
+        },
+        {
+          "label": "D",
+          "text": "parasympathetic dilator fibres"
+        },
+        {
+          "label": "E",
+          "text": "sympathetic dilator fibres"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "There is tonic sympathetic vasoconstrictor discharge; reducing it causes vasodilatation.",
+      "topicId": "neural-humoral",
+      "subtopic": "Neural control",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-079",
+      "type": "single-best",
+      "stem": "Sympathetic vasodilator fibres to vessels in skeletal muscle are unusual in that they are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "peptidergic"
+        },
+        {
+          "label": "B",
+          "text": "purinergic"
+        },
+        {
+          "label": "C",
+          "text": "histaminergic"
+        },
+        {
+          "label": "D",
+          "text": "cholinergic"
+        },
+        {
+          "label": "E",
+          "text": "adrenergic"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Sympathetic vasodilator fibres (to muscle and liver) release acetylcholine - they are cholinergic.",
+      "topicId": "neural-humoral",
+      "subtopic": "Neural control",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-080",
+      "type": "single-best",
+      "stem": "Sympathetic stimulation of the heart produces a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "fall in rate and force"
+        },
+        {
+          "label": "B",
+          "text": "rise in rate but fall in force"
+        },
+        {
+          "label": "C",
+          "text": "fall in rate but rise in force"
+        },
+        {
+          "label": "D",
+          "text": "no change in rate or force"
+        },
+        {
+          "label": "E",
+          "text": "rise in both rate and force"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Sympathetic activity increases both heart rate (chronotropy) and strength of contraction (inotropy).",
+      "topicId": "neural-humoral",
+      "subtopic": "Neural control",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-cvs-081",
+      "type": "single-best",
+      "stem": "Resting heart rate is held down mainly by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "tonic vagal discharge"
+        },
+        {
+          "label": "B",
+          "text": "tonic sympathetic discharge"
+        },
+        {
+          "label": "C",
+          "text": "circulating adrenaline"
+        },
+        {
+          "label": "D",
+          "text": "the intrinsic SA node rate alone"
+        },
+        {
+          "label": "E",
+          "text": "atrial stretch receptors"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Tonic vagal tone keeps resting rate below the intrinsic SA rate; vagotomy or atropine raises the rate.",
+      "topicId": "neural-humoral",
+      "subtopic": "Neural control",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-082",
+      "type": "single-best",
+      "stem": "Atrial natriuretic peptide acts on the vasculature to cause:",
+      "options": [
+        {
+          "label": "A",
+          "text": "venoconstriction"
+        },
+        {
+          "label": "B",
+          "text": "vasodilatation"
+        },
+        {
+          "label": "C",
+          "text": "vasoconstriction"
+        },
+        {
+          "label": "D",
+          "text": "increased contractility"
+        },
+        {
+          "label": "E",
+          "text": "tachycardia"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "ANP is a vasodilator (and promotes sodium/water loss).",
+      "topicId": "neural-humoral",
+      "subtopic": "Humoral control",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-083",
+      "type": "single-best",
+      "stem": "The arterial baroreceptors are located in the carotid sinus and the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "right atrium"
+        },
+        {
+          "label": "B",
+          "text": "superior vena cava"
+        },
+        {
+          "label": "C",
+          "text": "aortic arch"
+        },
+        {
+          "label": "D",
+          "text": "pulmonary trunk"
+        },
+        {
+          "label": "E",
+          "text": "coronary sinus"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "High-pressure baroreceptors lie in the carotid sinus and the aortic arch.",
+      "topicId": "reflexes",
+      "subtopic": "Baroreceptor reflex",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-084",
+      "type": "single-best",
+      "stem": "Afferent impulses from the carotid sinus baroreceptors travel to the medulla in the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "phrenic nerve"
+        },
+        {
+          "label": "B",
+          "text": "trigeminal nerve"
+        },
+        {
+          "label": "C",
+          "text": "hypoglossal nerve"
+        },
+        {
+          "label": "D",
+          "text": "glossopharyngeal nerve"
+        },
+        {
+          "label": "E",
+          "text": "vagus nerve"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Carotid sinus afferents run in the carotid sinus nerve, a branch of the glossopharyngeal; aortic afferents run in the vagus.",
+      "topicId": "reflexes",
+      "subtopic": "Baroreceptor reflex",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-085",
+      "type": "single-best",
+      "stem": "A sudden RISE in arterial pressure triggers a baroreceptor reflex that causes:",
+      "options": [
+        {
+          "label": "A",
+          "text": "speeding of the heart and vasoconstriction"
+        },
+        {
+          "label": "B",
+          "text": "increased sympathetic discharge"
+        },
+        {
+          "label": "C",
+          "text": "a rise in cardiac output"
+        },
+        {
+          "label": "D",
+          "text": "venoconstriction"
+        },
+        {
+          "label": "E",
+          "text": "slowing of the heart and vasodilatation"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Raised pressure increases baroreceptor firing, stimulating the vagus and inhibiting the vasomotor centre, so the heart slows and vessels dilate.",
+      "topicId": "reflexes",
+      "subtopic": "Baroreceptor reflex",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-086",
+      "type": "single-best",
+      "stem": "A FALL in arterial pressure produces a reflex that leads to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "tachycardia and vasoconstriction"
+        },
+        {
+          "label": "B",
+          "text": "bradycardia and vasodilatation"
+        },
+        {
+          "label": "C",
+          "text": "reduced sympathetic output"
+        },
+        {
+          "label": "D",
+          "text": "slowing of the heart"
+        },
+        {
+          "label": "E",
+          "text": "a drop in peripheral resistance"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Reduced baroreceptor firing raises sympathetic output and reduces vagal tone, giving tachycardia and vasoconstriction.",
+      "topicId": "reflexes",
+      "subtopic": "Baroreceptor reflex",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-087",
+      "type": "single-best",
+      "stem": "The Cushing reflex, triggered by raised intracranial pressure, classically produces:",
+      "options": [
+        {
+          "label": "A",
+          "text": "no change in pressure or rate"
+        },
+        {
+          "label": "B",
+          "text": "hypertension with reflex bradycardia"
+        },
+        {
+          "label": "C",
+          "text": "hypotension with tachycardia"
+        },
+        {
+          "label": "D",
+          "text": "hypertension with tachycardia"
+        },
+        {
+          "label": "E",
+          "text": "hypotension with bradycardia"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Raised intracranial pressure causes systemic hypertension, and the baroreceptors then produce reflex bradycardia.",
+      "topicId": "reflexes",
+      "subtopic": "Cushing reflex",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-088",
+      "type": "single-best",
+      "stem": "The vasomotor centre is directly stimulated by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "cortical inhibition"
+        },
+        {
+          "label": "B",
+          "text": "lung inflation"
+        },
+        {
+          "label": "C",
+          "text": "hypoxia and hypercapnia"
+        },
+        {
+          "label": "D",
+          "text": "a rise in arterial oxygen"
+        },
+        {
+          "label": "E",
+          "text": "alkalosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Hypoxia and hypercapnia directly excite the vasomotor centre, raising sympathetic output.",
+      "topicId": "reflexes",
+      "subtopic": "Chemical control",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-089",
+      "type": "single-best",
+      "stem": "On standing, blood tends to pool in the dependent veins; the resulting fall in arterial pressure is sensed by the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "the pulmonary stretch receptors"
+        },
+        {
+          "label": "B",
+          "text": "the peripheral chemoreceptors"
+        },
+        {
+          "label": "C",
+          "text": "the joint proprioceptor endings"
+        },
+        {
+          "label": "D",
+          "text": "aortic arch and carotid sinus receptors"
+        },
+        {
+          "label": "E",
+          "text": "the atrial low-pressure receptors"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The pressure drop above heart level is detected by the carotid sinus and aortic arch baroreceptors, triggering compensation.",
+      "topicId": "gravity",
+      "subtopic": "Effects of gravity",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-090",
+      "type": "single-best",
+      "stem": "Orthostatic (postural) hypotension is characteristically due to failure of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "the parasympathetic nervous system"
+        },
+        {
+          "label": "B",
+          "text": "the respiratory pump"
+        },
+        {
+          "label": "C",
+          "text": "cardiac pacemaker activity"
+        },
+        {
+          "label": "D",
+          "text": "renal sodium handling"
+        },
+        {
+          "label": "E",
+          "text": "sympathetic vasoconstrictor responses"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "When sympathetic vasoconstriction fails (e.g. autonomic neuropathy, sympatholytic drugs), standing causes a fall in BP.",
+      "topicId": "gravity",
+      "subtopic": "Orthostatic hypotension",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-091",
+      "type": "single-best",
+      "stem": "During exposure to high positive (+Gz) acceleration, loss of vision ('black-out') occurs because of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "reduced cerebral perfusion"
+        },
+        {
+          "label": "B",
+          "text": "raised cerebral arterial pressure"
+        },
+        {
+          "label": "C",
+          "text": "congestion of head veins"
+        },
+        {
+          "label": "D",
+          "text": "a rise in intracranial pressure"
+        },
+        {
+          "label": "E",
+          "text": "pulmonary oedema"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Positive g drives blood footward, reducing cerebral perfusion so that vision fails and consciousness is lost.",
+      "topicId": "gravity",
+      "subtopic": "Acceleration",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-092",
+      "type": "single-best",
+      "stem": "A pressure ('g') suit improves tolerance to acceleration by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "lowering the intracranial pressure"
+        },
+        {
+          "label": "B",
+          "text": "compressing the legs to limit pooling"
+        },
+        {
+          "label": "C",
+          "text": "directly raising the heart rate"
+        },
+        {
+          "label": "D",
+          "text": "dilating the cerebral vessels"
+        },
+        {
+          "label": "E",
+          "text": "increasing the blood viscosity"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The suit compresses the lower body, reducing venous pooling and improving venous return.",
+      "topicId": "gravity",
+      "subtopic": "Acceleration",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-093",
+      "type": "single-best",
+      "stem": "Circulatory shock is best defined as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "failure of the respiratory system"
+        },
+        {
+          "label": "B",
+          "text": "loss of consciousness from any cause"
+        },
+        {
+          "label": "C",
+          "text": "perfusion inadequate for metabolic needs"
+        },
+        {
+          "label": "D",
+          "text": "a sustained rise in arterial pressure"
+        },
+        {
+          "label": "E",
+          "text": "an abnormally slow heart rate"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Shock is inadequate tissue perfusion for metabolic/nutritional needs, with a relative or absolute low output.",
+      "topicId": "shock",
+      "subtopic": "Shock",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-094",
+      "type": "single-best",
+      "stem": "Shock due to haemorrhage, burns or severe vomiting is classified as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "distributive shock"
+        },
+        {
+          "label": "B",
+          "text": "obstructive shock"
+        },
+        {
+          "label": "C",
+          "text": "neurogenic shock"
+        },
+        {
+          "label": "D",
+          "text": "hypovolaemic shock"
+        },
+        {
+          "label": "E",
+          "text": "cardiogenic shock"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Loss of circulating volume (haemorrhage, burns, fluid loss) gives hypovolaemic shock.",
+      "topicId": "shock",
+      "subtopic": "Shock",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-095",
+      "type": "single-best",
+      "stem": "Shock caused by cardiac tamponade or massive pulmonary embolism is classified as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "hypovolaemic shock"
+        },
+        {
+          "label": "B",
+          "text": "distributive shock"
+        },
+        {
+          "label": "C",
+          "text": "cardiogenic shock"
+        },
+        {
+          "label": "D",
+          "text": "anaphylactic shock"
+        },
+        {
+          "label": "E",
+          "text": "obstructive shock"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "A physical obstruction to flow (tamponade, tension pneumothorax, pulmonary embolism) causes obstructive shock.",
+      "topicId": "shock",
+      "subtopic": "Shock",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-096",
+      "type": "single-best",
+      "stem": "In early hypovolaemic shock the skin is typically pale and cool because of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "generalised sympathetic vasoconstriction"
+        },
+        {
+          "label": "B",
+          "text": "widespread cutaneous vasodilatation"
+        },
+        {
+          "label": "C",
+          "text": "a rise in the cardiac output"
+        },
+        {
+          "label": "D",
+          "text": "loss of all vasomotor tone"
+        },
+        {
+          "label": "E",
+          "text": "release of histamine locally"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Baroreceptor-driven sympathetic discharge constricts skin vessels, making the skin pale and cool.",
+      "topicId": "shock",
+      "subtopic": "Shock",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-097",
+      "type": "single-best",
+      "stem": "During shock, blood flow is preferentially preserved to the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "skeletal muscle"
+        },
+        {
+          "label": "B",
+          "text": "heart and brain"
+        },
+        {
+          "label": "C",
+          "text": "skin and kidneys"
+        },
+        {
+          "label": "D",
+          "text": "gut and muscle"
+        },
+        {
+          "label": "E",
+          "text": "liver and spleen"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Generalised vasoconstriction spares the coronary and cerebral circulations while diverting blood from skin, kidney and viscera.",
+      "topicId": "shock",
+      "subtopic": "Shock",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-098",
+      "type": "single-best",
+      "stem": "Distributive (low-resistance) shock, such as septic or anaphylactic shock, is characterised by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "a failing myocardial pump"
+        },
+        {
+          "label": "B",
+          "text": "acute blood loss"
+        },
+        {
+          "label": "C",
+          "text": "widespread vasodilatation with pooling"
+        },
+        {
+          "label": "D",
+          "text": "a low circulating blood volume"
+        },
+        {
+          "label": "E",
+          "text": "a mechanical obstruction to flow"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Distributive shock has a normal volume but massive vasodilatation and pooling, so perfusion is inadequate.",
+      "topicId": "shock",
+      "subtopic": "Shock",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-099",
+      "type": "single-best",
+      "stem": "Vasovagal syncope (simple fainting) is caused by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "cerebral haemorrhage"
+        },
+        {
+          "label": "B",
+          "text": "airway obstruction"
+        },
+        {
+          "label": "C",
+          "text": "hypoglycaemia"
+        },
+        {
+          "label": "D",
+          "text": "inadequate cerebral blood flow"
+        },
+        {
+          "label": "E",
+          "text": "a primary cardiac arrhythmia"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Fainting follows abrupt vasodilatation and bradycardia after strong emotion, reducing cerebral blood flow.",
+      "topicId": "shock",
+      "subtopic": "Syncope",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-100",
+      "type": "single-best",
+      "stem": "The wall of a typical capillary consists of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "endothelium and smooth muscle"
+        },
+        {
+          "label": "B",
+          "text": "three tunicae"
+        },
+        {
+          "label": "C",
+          "text": "endothelium and elastic laminae"
+        },
+        {
+          "label": "D",
+          "text": "a thick collagenous coat"
+        },
+        {
+          "label": "E",
+          "text": "a single layer of endothelial cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Capillaries have a wall one endothelial cell thick, allowing exchange.",
+      "topicId": "microcirculation",
+      "subtopic": "Capillaries",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-cvs-101",
+      "type": "single-best",
+      "stem": "Blood flow into a capillary bed is controlled by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "precapillary sphincters"
+        },
+        {
+          "label": "B",
+          "text": "the venous valves"
+        },
+        {
+          "label": "C",
+          "text": "the capillary endothelium's own nerves"
+        },
+        {
+          "label": "D",
+          "text": "the arterial baroreceptors"
+        },
+        {
+          "label": "E",
+          "text": "the lymphatic pump"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Precapillary sphincters (smooth muscle, responding to local substances rather than nerves) regulate capillary flow.",
+      "topicId": "microcirculation",
+      "subtopic": "Capillaries",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-102",
+      "type": "single-best",
+      "stem": "Fenestrations in capillary endothelium, allowing passage of larger molecules, are especially prominent in the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "skin"
+        },
+        {
+          "label": "B",
+          "text": "kidney"
+        },
+        {
+          "label": "C",
+          "text": "brain"
+        },
+        {
+          "label": "D",
+          "text": "cardiac muscle"
+        },
+        {
+          "label": "E",
+          "text": "skeletal muscle"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Fenestrated capillaries occur where exchange is high - kidney, intestinal villi and endocrine glands; brain capillaries are non-fenestrated.",
+      "topicId": "microcirculation",
+      "subtopic": "Capillaries",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-103",
+      "type": "single-best",
+      "stem": "According to Starling's forces, the main pressure driving fluid OUT of the capillary is the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "tissue hydrostatic pressure"
+        },
+        {
+          "label": "B",
+          "text": "venous oncotic pressure"
+        },
+        {
+          "label": "C",
+          "text": "capillary hydrostatic pressure"
+        },
+        {
+          "label": "D",
+          "text": "plasma colloid osmotic pressure"
+        },
+        {
+          "label": "E",
+          "text": "interstitial colloid osmotic pressure"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Capillary hydrostatic pressure drives filtration out; plasma oncotic pressure draws fluid back in.",
+      "topicId": "microcirculation",
+      "subtopic": "Starling forces",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-104",
+      "type": "single-best",
+      "stem": "Of the fluid filtered out of the capillaries each day, the proportion returned to the circulation by the lymphatics is about:",
+      "options": [
+        {
+          "label": "A",
+          "text": "85%"
+        },
+        {
+          "label": "B",
+          "text": "1%"
+        },
+        {
+          "label": "C",
+          "text": "100%"
+        },
+        {
+          "label": "D",
+          "text": "15%"
+        },
+        {
+          "label": "E",
+          "text": "50%"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "About 85% of filtered fluid is reabsorbed by capillaries and roughly 15% is returned via lymph.",
+      "topicId": "microcirculation",
+      "subtopic": "Starling forces",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-105",
+      "type": "single-best",
+      "stem": "Oedema is an abnormal accumulation of fluid in the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "vascular compartment"
+        },
+        {
+          "label": "B",
+          "text": "intracellular compartment"
+        },
+        {
+          "label": "C",
+          "text": "lymphatic vessels"
+        },
+        {
+          "label": "D",
+          "text": "pleural cavity only"
+        },
+        {
+          "label": "E",
+          "text": "interstitial space"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Oedema is excess fluid in the interstitium, from increased filtration or inadequate reabsorption/drainage.",
+      "topicId": "edema",
+      "subtopic": "Oedema",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-cvs-106",
+      "type": "single-best",
+      "stem": "A fall in plasma protein concentration (as in liver disease, nephrotic syndrome or malnutrition) causes oedema by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "lowering the plasma colloid osmotic pressure"
+        },
+        {
+          "label": "B",
+          "text": "raising capillary hydrostatic pressure"
+        },
+        {
+          "label": "C",
+          "text": "obstructing the lymphatics"
+        },
+        {
+          "label": "D",
+          "text": "increasing venous tone"
+        },
+        {
+          "label": "E",
+          "text": "raising tissue hydrostatic pressure"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Low plasma proteins reduce the oncotic pull back into capillaries, so fluid stays in the interstitium.",
+      "topicId": "edema",
+      "subtopic": "Oedema",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-107",
+      "type": "single-best",
+      "stem": "Non-pitting oedema (lymphoedema), as in elephantiasis after filarial infection, is caused by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "increased venous pressure"
+        },
+        {
+          "label": "B",
+          "text": "lymphatic obstruction"
+        },
+        {
+          "label": "C",
+          "text": "a low plasma protein level"
+        },
+        {
+          "label": "D",
+          "text": "raised capillary pressure"
+        },
+        {
+          "label": "E",
+          "text": "heart failure"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Lymphatic obstruction (e.g. filarial worms, radical mastectomy) causes protein-rich, non-pitting lymphoedema.",
+      "topicId": "edema",
+      "subtopic": "Oedema",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-108",
+      "type": "single-best",
+      "stem": "The lymphatic vessels ultimately return lymph to the bloodstream at the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "the hepatic portal venous system"
+        },
+        {
+          "label": "B",
+          "text": "the pulmonary veins"
+        },
+        {
+          "label": "C",
+          "text": "junction of the subclavian veins"
+        },
+        {
+          "label": "D",
+          "text": "the inferior vena cava directly"
+        },
+        {
+          "label": "E",
+          "text": "the right atrium of the heart"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Lymph drains into the venous system at the subclavian veins (right and left).",
+      "topicId": "lymphatics",
+      "subtopic": "Lymphatics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-109",
+      "type": "single-best",
+      "stem": "Lymph flow along the vessels is aided by all of the following EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "the negative intrathoracic pressure"
+        },
+        {
+          "label": "B",
+          "text": "rhythmic contractions of the vessel wall"
+        },
+        {
+          "label": "C",
+          "text": "valves that prevent any backflow"
+        },
+        {
+          "label": "D",
+          "text": "direct pumping of lymph by the heart"
+        },
+        {
+          "label": "E",
+          "text": "the skeletal muscle pump action"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Lymph is moved by the muscle pump, thoracic pump, wall contractions and valves - not by direct cardiac pumping.",
+      "topicId": "lymphatics",
+      "subtopic": "Lymphatics",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-110",
+      "type": "single-best",
+      "stem": "An important function of the lymphatic system is the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "generation of the arterial pressure"
+        },
+        {
+          "label": "B",
+          "text": "oxygenation of the body tissues"
+        },
+        {
+          "label": "C",
+          "text": "production of the red blood cells"
+        },
+        {
+          "label": "D",
+          "text": "secretion of the hormone renin"
+        },
+        {
+          "label": "E",
+          "text": "returning filtered protein to the blood"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Lymphatics return filtered interstitial protein (and absorbed fat) to the blood.",
+      "topicId": "lymphatics",
+      "subtopic": "Lymphatics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-111",
+      "type": "single-best",
+      "stem": "The coronary arteries arise from the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "sinuses behind the aortic cusps"
+        },
+        {
+          "label": "B",
+          "text": "the pulmonary trunk root"
+        },
+        {
+          "label": "C",
+          "text": "the aortic arch wall"
+        },
+        {
+          "label": "D",
+          "text": "the left atrial wall"
+        },
+        {
+          "label": "E",
+          "text": "the coronary sinus ostium"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The right and left coronary arteries arise from the aortic sinuses behind the aortic valve cusps.",
+      "topicId": "coronary",
+      "subtopic": "Coronary circulation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-112",
+      "type": "single-best",
+      "stem": "Coronary blood flow to the left ventricular myocardium occurs mainly during:",
+      "options": [
+        {
+          "label": "A",
+          "text": "atrial systole"
+        },
+        {
+          "label": "B",
+          "text": "diastole"
+        },
+        {
+          "label": "C",
+          "text": "systole"
+        },
+        {
+          "label": "D",
+          "text": "isovolumetric contraction"
+        },
+        {
+          "label": "E",
+          "text": "the ejection phase"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "During systole the intramural vessels are compressed, so left ventricular coronary flow occurs chiefly in diastole.",
+      "topicId": "coronary",
+      "subtopic": "Coronary circulation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-113",
+      "type": "single-best",
+      "stem": "Angina pectoris on exertion typically occurs when a coronary artery is narrowed by about:",
+      "options": [
+        {
+          "label": "A",
+          "text": "50%"
+        },
+        {
+          "label": "B",
+          "text": "90%"
+        },
+        {
+          "label": "C",
+          "text": "75%"
+        },
+        {
+          "label": "D",
+          "text": "25%"
+        },
+        {
+          "label": "E",
+          "text": "10%"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Flow is adequate at rest but inadequate on exertion once a vessel is ~75% occluded, causing angina.",
+      "topicId": "coronary",
+      "subtopic": "Coronary artery disease",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-114",
+      "type": "single-best",
+      "stem": "Which of the following is a potent metabolic coronary VASODILATOR?",
+      "options": [
+        {
+          "label": "A",
+          "text": "serotonin"
+        },
+        {
+          "label": "B",
+          "text": "angiotensin II"
+        },
+        {
+          "label": "C",
+          "text": "endothelin"
+        },
+        {
+          "label": "D",
+          "text": "adenosine"
+        },
+        {
+          "label": "E",
+          "text": "noradrenaline via alpha receptors"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Adenosine (with O2 lack, K+, H+, CO2, lactate) dilates coronary vessels during increased cardiac work.",
+      "topicId": "coronary",
+      "subtopic": "Coronary circulation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-115",
+      "type": "single-best",
+      "stem": "The arterial anastomosis at the base of the brain is the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "circle of Vieussens"
+        },
+        {
+          "label": "B",
+          "text": "basilar plexus"
+        },
+        {
+          "label": "C",
+          "text": "great cerebral vein"
+        },
+        {
+          "label": "D",
+          "text": "cavernous sinus"
+        },
+        {
+          "label": "E",
+          "text": "circle of Willis"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The circle of Willis links the internal carotid and vertebrobasilar supplies at the brain's base.",
+      "topicId": "cerebral",
+      "subtopic": "Cerebral circulation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-cvs-116",
+      "type": "single-best",
+      "stem": "Cerebrospinal fluid is produced mainly by the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "choroid plexus"
+        },
+        {
+          "label": "B",
+          "text": "arachnoid villi"
+        },
+        {
+          "label": "C",
+          "text": "pia mater"
+        },
+        {
+          "label": "D",
+          "text": "ependyma of the aqueduct"
+        },
+        {
+          "label": "E",
+          "text": "dural venous sinuses"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "CSF is secreted mainly by the choroid plexuses of the lateral, third and fourth ventricles.",
+      "topicId": "cerebral",
+      "subtopic": "CSF",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-117",
+      "type": "single-best",
+      "stem": "Cerebrospinal fluid is absorbed back into the venous blood through the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "pia mater"
+        },
+        {
+          "label": "B",
+          "text": "arachnoid villi"
+        },
+        {
+          "label": "C",
+          "text": "choroid plexus"
+        },
+        {
+          "label": "D",
+          "text": "foramen of Monro"
+        },
+        {
+          "label": "E",
+          "text": "aqueduct of Sylvius"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "CSF passes into the subarachnoid space and is absorbed through the arachnoid villi into the dural sinuses.",
+      "topicId": "cerebral",
+      "subtopic": "CSF",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-118",
+      "type": "single-best",
+      "stem": "The Monro-Kellie doctrine states that the sum of the volumes of brain, CSF and which other component is constant within the rigid skull?",
+      "options": [
+        {
+          "label": "A",
+          "text": "cartilage"
+        },
+        {
+          "label": "B",
+          "text": "air"
+        },
+        {
+          "label": "C",
+          "text": "blood"
+        },
+        {
+          "label": "D",
+          "text": "lymph"
+        },
+        {
+          "label": "E",
+          "text": "interstitial fat"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The cranial contents - brain, CSF and blood - have a near-constant total volume (Monro-Kellie doctrine).",
+      "topicId": "cerebral",
+      "subtopic": "Cerebral flow",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-119",
+      "type": "single-best",
+      "stem": "The blood-brain barrier allows easy passage of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "protein-bound drug molecules"
+        },
+        {
+          "label": "B",
+          "text": "large water-soluble polar molecules"
+        },
+        {
+          "label": "C",
+          "text": "most circulating antibody proteins"
+        },
+        {
+          "label": "D",
+          "text": "small lipid-soluble molecules like O2"
+        },
+        {
+          "label": "E",
+          "text": "the large plasma proteins"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Small, lipid-soluble, non-polar molecules cross easily; proteins and protein-bound substances do not.",
+      "topicId": "cerebral",
+      "subtopic": "Blood-brain barrier",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-120",
+      "type": "single-best",
+      "stem": "An ischaemic stroke is most often caused by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "rupture of a cerebral aneurysm"
+        },
+        {
+          "label": "B",
+          "text": "a fall in the CSF pressure"
+        },
+        {
+          "label": "C",
+          "text": "obstruction of the brain lymphatics"
+        },
+        {
+          "label": "D",
+          "text": "a rise in the venous pressure"
+        },
+        {
+          "label": "E",
+          "text": "a thrombus or embolus in an artery"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Ischaemic stroke results from arterial occlusion (atherosclerotic thrombus or embolus); haemorrhagic stroke from vessel rupture.",
+      "topicId": "cerebral",
+      "subtopic": "Stroke",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-121",
+      "type": "single-best",
+      "stem": "Compared with the systemic circulation, the pulmonary circulation is a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "low-pressure, low-resistance system"
+        },
+        {
+          "label": "B",
+          "text": "high-pressure, high-resistance system"
+        },
+        {
+          "label": "C",
+          "text": "high-pressure, low-resistance system"
+        },
+        {
+          "label": "D",
+          "text": "low-pressure, high-resistance system"
+        },
+        {
+          "label": "E",
+          "text": "pressure-independent system"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The pulmonary circulation operates at low pressure (~10 mmHg capillary) and low resistance.",
+      "topicId": "pulmonary",
+      "subtopic": "Pulmonary circulation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-122",
+      "type": "single-best",
+      "stem": "In the lung, alveolar hypoxia causes the local pulmonary vessels to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "become more permeable"
+        },
+        {
+          "label": "B",
+          "text": "constrict"
+        },
+        {
+          "label": "C",
+          "text": "dilate"
+        },
+        {
+          "label": "D",
+          "text": "remain unchanged"
+        },
+        {
+          "label": "E",
+          "text": "rupture"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Hypoxic pulmonary vasoconstriction diverts blood from poorly ventilated areas to better-oxygenated ones.",
+      "topicId": "pulmonary",
+      "subtopic": "Pulmonary circulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-123",
+      "type": "single-best",
+      "stem": "The low hydrostatic pressure in pulmonary capillaries is important because it:",
+      "options": [
+        {
+          "label": "A",
+          "text": "increases airway resistance"
+        },
+        {
+          "label": "B",
+          "text": "reduces gas diffusion"
+        },
+        {
+          "label": "C",
+          "text": "keeps fluid from accumulating in the alveoli"
+        },
+        {
+          "label": "D",
+          "text": "raises the work of the right heart"
+        },
+        {
+          "label": "E",
+          "text": "drives rapid filtration into alveoli"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Low pulmonary capillary pressure (below plasma oncotic pressure) keeps the alveoli dry.",
+      "topicId": "pulmonary",
+      "subtopic": "Pulmonary circulation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-124",
+      "type": "single-best",
+      "stem": "On lying down, the volume of blood held in the lungs:",
+      "options": [
+        {
+          "label": "A",
+          "text": "is unchanged"
+        },
+        {
+          "label": "B",
+          "text": "falls to near zero"
+        },
+        {
+          "label": "C",
+          "text": "doubles"
+        },
+        {
+          "label": "D",
+          "text": "increases by about 400 ml"
+        },
+        {
+          "label": "E",
+          "text": "decreases by about 400 ml"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The lungs act as a blood reservoir; lying down adds about 400 ml to the pulmonary circulation.",
+      "topicId": "pulmonary",
+      "subtopic": "Pulmonary circulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-125",
+      "type": "single-best",
+      "stem": "The three unpaired arteries supplying the splanchnic (gut) circulation are the celiac trunk, the superior mesenteric artery and the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "renal artery"
+        },
+        {
+          "label": "B",
+          "text": "splenic artery"
+        },
+        {
+          "label": "C",
+          "text": "hepatic artery"
+        },
+        {
+          "label": "D",
+          "text": "gastroduodenal artery"
+        },
+        {
+          "label": "E",
+          "text": "inferior mesenteric artery"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The gut is supplied by the celiac trunk and the superior and inferior mesenteric arteries.",
+      "topicId": "splanchnic",
+      "subtopic": "Splanchnic circulation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-126",
+      "type": "single-best",
+      "stem": "During shock or heavy sympathetic discharge, the splanchnic circulation characteristically:",
+      "options": [
+        {
+          "label": "A",
+          "text": "constricts and releases its stored blood"
+        },
+        {
+          "label": "B",
+          "text": "dilates further to store more blood"
+        },
+        {
+          "label": "C",
+          "text": "is essentially unaffected overall"
+        },
+        {
+          "label": "D",
+          "text": "receives a much increased flow"
+        },
+        {
+          "label": "E",
+          "text": "loses its local autoregulation"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The splanchnic bed is a large venous reservoir; in shock it constricts and shifts blood to the vital circulations.",
+      "topicId": "splanchnic",
+      "subtopic": "Splanchnic circulation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-127",
+      "type": "single-best",
+      "stem": "Within the liver lobule, blood flows from the portal triad towards the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "space of Disse"
+        },
+        {
+          "label": "B",
+          "text": "central vein"
+        },
+        {
+          "label": "C",
+          "text": "bile ductule"
+        },
+        {
+          "label": "D",
+          "text": "hepatic artery"
+        },
+        {
+          "label": "E",
+          "text": "portal vein"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Blood flows from the triad through the sinusoids to the central vein; the perivenous zone is least oxygenated.",
+      "topicId": "splanchnic",
+      "subtopic": "Liver blood flow",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-128",
+      "type": "single-best",
+      "stem": "In the formation of ascites, the protein-rich fluid leaking from the liver is explained by the fact that hepatic sinusoids:",
+      "options": [
+        {
+          "label": "A",
+          "text": "have a thick basement membrane"
+        },
+        {
+          "label": "B",
+          "text": "contain no blood"
+        },
+        {
+          "label": "C",
+          "text": "have pores permeable to plasma protein"
+        },
+        {
+          "label": "D",
+          "text": "actively secrete albumin"
+        },
+        {
+          "label": "E",
+          "text": "lack any endothelium"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Sinusoidal pores let protein into the space of Disse; raised hepatic venous pressure then drives protein-rich fluid out as ascites.",
+      "topicId": "splanchnic",
+      "subtopic": "Ascites",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-129",
+      "type": "single-best",
+      "stem": "The main physiological role of the cutaneous circulation is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "oxygen storage"
+        },
+        {
+          "label": "B",
+          "text": "immune surveillance"
+        },
+        {
+          "label": "C",
+          "text": "blood pressure control"
+        },
+        {
+          "label": "D",
+          "text": "temperature (heat) regulation"
+        },
+        {
+          "label": "E",
+          "text": "nutrient supply to the skin"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Skin blood flow, with its many anastomoses, is primarily for heat exchange and thermoregulation.",
+      "topicId": "skin",
+      "subtopic": "Skin circulation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-phys-cvs-130",
+      "type": "single-best",
+      "stem": "In the triple response of the skin, the spreading redness ('flare') around an injury is due to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "capillary dilatation"
+        },
+        {
+          "label": "B",
+          "text": "increased capillary permeability"
+        },
+        {
+          "label": "C",
+          "text": "contraction of precapillary sphincters"
+        },
+        {
+          "label": "D",
+          "text": "venous congestion"
+        },
+        {
+          "label": "E",
+          "text": "arteriolar dilatation via an axon reflex"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The flare is arteriolar dilatation spreading by an antidromic axon reflex; the wheal is local oedema from increased permeability.",
+      "topicId": "skin",
+      "subtopic": "Triple response",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-131",
+      "type": "single-best",
+      "stem": "The initial 'white reaction' after lightly stroking the skin is caused by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "contraction of precapillary sphincters"
+        },
+        {
+          "label": "B",
+          "text": "dilatation of arterioles"
+        },
+        {
+          "label": "C",
+          "text": "increased capillary permeability"
+        },
+        {
+          "label": "D",
+          "text": "release of histamine"
+        },
+        {
+          "label": "E",
+          "text": "venous obstruction"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Light stroking contracts precapillary sphincters, draining the capillaries and producing pallor for ~15 s.",
+      "topicId": "skin",
+      "subtopic": "Triple response",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-cvs-132",
+      "type": "single-best",
+      "stem": "Fetal haemoglobin binds oxygen more avidly than adult haemoglobin because it has a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "greater Bohr effect"
+        },
+        {
+          "label": "B",
+          "text": "lower affinity for 2,3-DPG"
+        },
+        {
+          "label": "C",
+          "text": "higher affinity for 2,3-DPG"
+        },
+        {
+          "label": "D",
+          "text": "higher P50"
+        },
+        {
+          "label": "E",
+          "text": "lower oxygen affinity"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "HbF binds 2,3-DPG poorly, so its oxygen affinity is higher than maternal HbA, favouring placental O2 uptake.",
+      "topicId": "fetal",
+      "subtopic": "Fetal circulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-cvs-133",
+      "type": "single-best",
+      "stem": "Fetal haemoglobin is normally largely replaced by adult haemoglobin by about:",
+      "options": [
+        {
+          "label": "A",
+          "text": "birth itself"
+        },
+        {
+          "label": "B",
+          "text": "2 years after birth"
+        },
+        {
+          "label": "C",
+          "text": "4 months after birth"
+        },
+        {
+          "label": "D",
+          "text": "4 weeks after birth"
+        },
+        {
+          "label": "E",
+          "text": "1 year after birth"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "HbF usually disappears by around 4 months after birth as HbA predominates.",
+      "topicId": "fetal",
+      "subtopic": "Fetal circulation",
+      "difficulty": "medium"
+    }
+  ]
+}
