@@ -1,0 +1,2535 @@
+{
+  "id": "phys-gi-curated",
+  "title": "Gastrointestinal physiology — DOMiNANCE Originals",
+  "source": "KNUST Physiology Digestive System lecture + syllabus",
+  "questions": [
+    {
+      "id": "dq-phys-gi-001",
+      "type": "single-best",
+      "stem": "The two smooth-muscle layers of the muscularis externa are separated by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "myenteric (Auerbach's) plexus"
+        },
+        {
+          "label": "B",
+          "text": "submucosal (Meissner's) plexus"
+        },
+        {
+          "label": "C",
+          "text": "lamina propria"
+        },
+        {
+          "label": "D",
+          "text": "muscularis mucosa"
+        },
+        {
+          "label": "E",
+          "text": "serosal layer"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Auerbach's (myenteric) plexus lies between the inner circular and outer longitudinal muscle layers and controls motility.",
+      "topicId": "gi-general",
+      "subtopic": "Gut wall",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-002",
+      "type": "single-best",
+      "stem": "The submucosal (Meissner's) plexus is mainly responsible for controlling",
+      "options": [
+        {
+          "label": "A",
+          "text": "the migrating motor complex"
+        },
+        {
+          "label": "B",
+          "text": "local secretion and absorption"
+        },
+        {
+          "label": "C",
+          "text": "the force of peristaltic contraction"
+        },
+        {
+          "label": "D",
+          "text": "swallowing in the pharynx"
+        },
+        {
+          "label": "E",
+          "text": "gastric emptying rate"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Meissner's plexus in the submucosa regulates local secretion, absorption and submucosal muscle.",
+      "topicId": "gi-general",
+      "subtopic": "Gut wall",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-003",
+      "type": "single-best",
+      "stem": "The submucosal plexus is notably absent from the",
+      "options": [
+        {
+          "label": "A",
+          "text": "colon and rectum"
+        },
+        {
+          "label": "B",
+          "text": "ileum and caecum"
+        },
+        {
+          "label": "C",
+          "text": "stomach and oesophagus"
+        },
+        {
+          "label": "D",
+          "text": "small and large intestine"
+        },
+        {
+          "label": "E",
+          "text": "duodenum and jejunum"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Submucosal ganglia form plexuses in the small and large intestine but not in the stomach or oesophagus.",
+      "topicId": "gi-general",
+      "subtopic": "Gut wall",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-004",
+      "type": "single-best",
+      "stem": "The lymphoid tissue that defends the gut against luminal bacteria lies chiefly in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "serosa"
+        },
+        {
+          "label": "B",
+          "text": "submucosal plexus"
+        },
+        {
+          "label": "C",
+          "text": "muscularis mucosa"
+        },
+        {
+          "label": "D",
+          "text": "lamina propria"
+        },
+        {
+          "label": "E",
+          "text": "muscularis externa"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Gut-associated lymphoid tissue (GALT) sits in the lamina propria of the mucosa.",
+      "topicId": "gi-general",
+      "subtopic": "Gut wall",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-005",
+      "type": "single-best",
+      "stem": "GI smooth muscle behaves as a functional syncytium because its fibres are joined by",
+      "options": [
+        {
+          "label": "A",
+          "text": "desmosomes only"
+        },
+        {
+          "label": "B",
+          "text": "tight junctions"
+        },
+        {
+          "label": "C",
+          "text": "chemical synapses"
+        },
+        {
+          "label": "D",
+          "text": "basement membrane"
+        },
+        {
+          "label": "E",
+          "text": "gap junctions"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Numerous gap junctions electrically couple the unitary smooth-muscle fibres, letting them act as a syncytium.",
+      "topicId": "gi-general",
+      "subtopic": "Smooth muscle",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-006",
+      "type": "single-best",
+      "stem": "The pacemaker cells that generate the slow waves (basic electrical rhythm) of the gut are the",
+      "options": [
+        {
+          "label": "A",
+          "text": "interstitial cells of Cajal"
+        },
+        {
+          "label": "B",
+          "text": "parietal cells"
+        },
+        {
+          "label": "C",
+          "text": "enterochromaffin-like cells"
+        },
+        {
+          "label": "D",
+          "text": "Kupffer cells"
+        },
+        {
+          "label": "E",
+          "text": "Paneth cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Interstitial cells of Cajal set the slow-wave rhythm that paces GI smooth-muscle contraction.",
+      "topicId": "gi-general",
+      "subtopic": "Electrical activity",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-007",
+      "type": "single-best",
+      "stem": "Slow waves themselves do not cause contraction unless they reach threshold and trigger",
+      "options": [
+        {
+          "label": "A",
+          "text": "closure of gap junctions"
+        },
+        {
+          "label": "B",
+          "text": "spike (action) potentials"
+        },
+        {
+          "label": "C",
+          "text": "a rise in extracellular calcium"
+        },
+        {
+          "label": "D",
+          "text": "release of secretin"
+        },
+        {
+          "label": "E",
+          "text": "hyperpolarisation of the fibre"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Slow waves bring the membrane toward threshold; the superimposed spike potentials actually drive contraction.",
+      "topicId": "gi-general",
+      "subtopic": "Electrical activity",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-008",
+      "type": "single-best",
+      "stem": "Noradrenaline and adrenaline affect gut smooth muscle by causing",
+      "options": [
+        {
+          "label": "A",
+          "text": "a faster slow-wave frequency"
+        },
+        {
+          "label": "B",
+          "text": "sustained tonic contraction"
+        },
+        {
+          "label": "C",
+          "text": "hyperpolarisation that reduces contraction"
+        },
+        {
+          "label": "D",
+          "text": "depolarisation that increases contraction"
+        },
+        {
+          "label": "E",
+          "text": "release of acetylcholine"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Sympathetic catecholamines hyperpolarise the fibres, inhibiting motility.",
+      "topicId": "gi-general",
+      "subtopic": "Electrical activity",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-009",
+      "type": "single-best",
+      "stem": "A tonic (sustained) contraction, rather than a phasic one, is characteristic of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "body of the small intestine"
+        },
+        {
+          "label": "B",
+          "text": "oesophageal body"
+        },
+        {
+          "label": "C",
+          "text": "transverse colon"
+        },
+        {
+          "label": "D",
+          "text": "lower oesophageal sphincter"
+        },
+        {
+          "label": "E",
+          "text": "gastric antrum"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Tonic contractions maintain closure of the LES, orad stomach, ileocaecal and internal anal sphincters.",
+      "topicId": "gi-general",
+      "subtopic": "Motility",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-010",
+      "type": "single-best",
+      "stem": "The migrating motor complex that sweeps undigested residue along the gut between meals recurs about every",
+      "options": [
+        {
+          "label": "A",
+          "text": "10 to 15 minutes"
+        },
+        {
+          "label": "B",
+          "text": "6 to 8 hours"
+        },
+        {
+          "label": "C",
+          "text": "30 seconds"
+        },
+        {
+          "label": "D",
+          "text": "12 hours"
+        },
+        {
+          "label": "E",
+          "text": "1.5 to 2 hours"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The MMC, the inter-digestive 'housekeeper', cycles roughly every 1.5-2 hours and is driven by motilin.",
+      "topicId": "gi-general",
+      "subtopic": "Motility",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-011",
+      "type": "single-best",
+      "stem": "The hormone that initiates the migrating motor complex is",
+      "options": [
+        {
+          "label": "A",
+          "text": "motilin"
+        },
+        {
+          "label": "B",
+          "text": "secretin"
+        },
+        {
+          "label": "C",
+          "text": "cholecystokinin"
+        },
+        {
+          "label": "D",
+          "text": "gastrin"
+        },
+        {
+          "label": "E",
+          "text": "somatostatin"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Motilin from mucosal endocrine cells elicits the MMC between meals.",
+      "topicId": "gi-general",
+      "subtopic": "Motility",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-012",
+      "type": "single-best",
+      "stem": "Segmentation contractions differ from peristalsis in that they mainly",
+      "options": [
+        {
+          "label": "A",
+          "text": "empty the stomach of solids"
+        },
+        {
+          "label": "B",
+          "text": "mix chyme with secretions rather than propel it"
+        },
+        {
+          "label": "C",
+          "text": "propel chyme rapidly toward the anus"
+        },
+        {
+          "label": "D",
+          "text": "occur only in the oesophagus"
+        },
+        {
+          "label": "E",
+          "text": "are driven by the pharyngeal constrictors"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Segmentation is a mixing movement that shuffles chyme to and fro; peristalsis is the propulsive movement.",
+      "topicId": "gi-general",
+      "subtopic": "Motility",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-013",
+      "type": "single-best",
+      "stem": "Parasympathetic supply to the distal colon and anorectal region is carried by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "hypogastric nerve"
+        },
+        {
+          "label": "B",
+          "text": "phrenic nerve"
+        },
+        {
+          "label": "C",
+          "text": "pelvic nerves"
+        },
+        {
+          "label": "D",
+          "text": "vagus nerve"
+        },
+        {
+          "label": "E",
+          "text": "splanchnic nerves"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The vagus supplies gut down to the proximal colon; the pelvic nerves supply the distal colon and anorectum.",
+      "topicId": "gi-general",
+      "subtopic": "Autonomic supply",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-014",
+      "type": "single-best",
+      "stem": "Sympathetic preganglionic fibres to the gut arise from spinal segments",
+      "options": [
+        {
+          "label": "A",
+          "text": "C1 to C4"
+        },
+        {
+          "label": "B",
+          "text": "T1 to T4"
+        },
+        {
+          "label": "C",
+          "text": "L3 to L5"
+        },
+        {
+          "label": "D",
+          "text": "T5 to L2"
+        },
+        {
+          "label": "E",
+          "text": "S2 to S4"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Gut sympathetic preganglionic fibres leave the cord between T5 and L2 and relay in the prevertebral ganglia.",
+      "topicId": "gi-general",
+      "subtopic": "Autonomic supply",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-015",
+      "type": "single-best",
+      "stem": "In general, sympathetic stimulation of the gastrointestinal tract causes",
+      "options": [
+        {
+          "label": "A",
+          "text": "increased motility and secretion with sphincter relaxation"
+        },
+        {
+          "label": "B",
+          "text": "copious watery secretion from all glands"
+        },
+        {
+          "label": "C",
+          "text": "contraction of the detrusor muscle"
+        },
+        {
+          "label": "D",
+          "text": "release of gastrin from G cells"
+        },
+        {
+          "label": "E",
+          "text": "inhibition of motility and secretion with sphincter contraction"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Sympathetic activity inhibits gut motility and secretion and contracts sphincters; parasympathetic does the opposite.",
+      "topicId": "gi-general",
+      "subtopic": "Autonomic supply",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-016",
+      "type": "single-best",
+      "stem": "Of the roughly 9 litres of fluid passing through the GI tract each day, the amount actually ingested is only about",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 litres"
+        },
+        {
+          "label": "B",
+          "text": "7 litres"
+        },
+        {
+          "label": "C",
+          "text": "9 litres"
+        },
+        {
+          "label": "D",
+          "text": "0.5 litres"
+        },
+        {
+          "label": "E",
+          "text": "5 litres"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "About 2 L is ingested and ~7 L comes from secretions; nearly all is reabsorbed.",
+      "topicId": "gi-general",
+      "subtopic": "Fluid balance",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-017",
+      "type": "single-best",
+      "stem": "Salivary amylase is produced by which type of acinar cell?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Paneth cells"
+        },
+        {
+          "label": "B",
+          "text": "serous cells"
+        },
+        {
+          "label": "C",
+          "text": "mucous cells"
+        },
+        {
+          "label": "D",
+          "text": "ductal cells"
+        },
+        {
+          "label": "E",
+          "text": "goblet cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Serous acinar cells carry zymogen granules containing salivary amylase; mucous cells secrete mucins.",
+      "topicId": "gi-mouth",
+      "subtopic": "Saliva",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-018",
+      "type": "single-best",
+      "stem": "The final saliva reaching the mouth is hypotonic because the duct cells",
+      "options": [
+        {
+          "label": "A",
+          "text": "are freely permeable to water throughout"
+        },
+        {
+          "label": "B",
+          "text": "reabsorb bicarbonate from the lumen"
+        },
+        {
+          "label": "C",
+          "text": "reabsorb more Na+ than the K+ they secrete"
+        },
+        {
+          "label": "D",
+          "text": "secrete Na+ and reabsorb K+ freely with water"
+        },
+        {
+          "label": "E",
+          "text": "add large amounts of NaCl to the primary secretion"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Ducts reabsorb Na+ (more than the K+ secreted) and stay water-impermeable, leaving a hypotonic final saliva.",
+      "topicId": "gi-mouth",
+      "subtopic": "Saliva",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-019",
+      "type": "single-best",
+      "stem": "Unusually among digestive secretions, salivation is controlled",
+      "options": [
+        {
+          "label": "A",
+          "text": "by sympathetic nerves alone"
+        },
+        {
+          "label": "B",
+          "text": "by secretin from the duodenum"
+        },
+        {
+          "label": "C",
+          "text": "only by the parasympathetic system, sympathetic having no effect"
+        },
+        {
+          "label": "D",
+          "text": "purely by neural reflexes, with both ANS branches increasing it"
+        },
+        {
+          "label": "E",
+          "text": "mainly by the hormone gastrin"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Salivary secretion is purely neural, and both parasympathetic and sympathetic stimulation increase it.",
+      "topicId": "gi-mouth",
+      "subtopic": "Saliva",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-020",
+      "type": "single-best",
+      "stem": "Parasympathetic stimulation of the salivary glands evokes saliva that is",
+      "options": [
+        {
+          "label": "A",
+          "text": "scanty and rich in protein"
+        },
+        {
+          "label": "B",
+          "text": "rich in digestive enzymes but low in water"
+        },
+        {
+          "label": "C",
+          "text": "acidic and enzyme-free"
+        },
+        {
+          "label": "D",
+          "text": "identical to sympathetic saliva"
+        },
+        {
+          "label": "E",
+          "text": "copious and watery, relatively poor in protein"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Parasympathetic drive gives abundant watery saliva; sympathetic drive gives sparse, protein-rich saliva.",
+      "topicId": "gi-mouth",
+      "subtopic": "Saliva",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-021",
+      "type": "single-best",
+      "stem": "The parotid gland receives its parasympathetic secretomotor supply from the",
+      "options": [
+        {
+          "label": "A",
+          "text": "glossopharyngeal nerve via the otic ganglion"
+        },
+        {
+          "label": "B",
+          "text": "facial nerve via the submandibular ganglion"
+        },
+        {
+          "label": "C",
+          "text": "vagus nerve via the nodose ganglion"
+        },
+        {
+          "label": "D",
+          "text": "trigeminal nerve via the ciliary ganglion"
+        },
+        {
+          "label": "E",
+          "text": "hypoglossal nerve directly"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The parotid is served by IX through the otic ganglion; the submandibular and sublingual glands by VII through the submandibular ganglion.",
+      "topicId": "gi-mouth",
+      "subtopic": "Saliva",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-022",
+      "type": "single-best",
+      "stem": "The pharyngeal phase of swallowing is",
+      "options": [
+        {
+          "label": "A",
+          "text": "entirely controlled by the enteric nervous system"
+        },
+        {
+          "label": "B",
+          "text": "involuntary and lasts about one second"
+        },
+        {
+          "label": "C",
+          "text": "voluntary and lasts several seconds"
+        },
+        {
+          "label": "D",
+          "text": "voluntary and under cortical control throughout"
+        },
+        {
+          "label": "E",
+          "text": "involuntary and lasts about ten seconds"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Once the bolus reaches the pharynx the involuntary pharyngeal phase takes over for about a second.",
+      "topicId": "gi-mouth",
+      "subtopic": "Swallowing",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-023",
+      "type": "single-best",
+      "stem": "During the pharyngeal phase of swallowing, entry of food into the nasopharynx is prevented by",
+      "options": [
+        {
+          "label": "A",
+          "text": "relaxation of the upper oesophageal sphincter"
+        },
+        {
+          "label": "B",
+          "text": "elevation of the tongue against the hard palate"
+        },
+        {
+          "label": "C",
+          "text": "elevation of the soft palate"
+        },
+        {
+          "label": "D",
+          "text": "closure of the lower oesophageal sphincter"
+        },
+        {
+          "label": "E",
+          "text": "contraction of the diaphragm"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The soft palate rises and seals off the nasopharynx, preventing regurgitation into the nose.",
+      "topicId": "gi-mouth",
+      "subtopic": "Swallowing",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-024",
+      "type": "single-best",
+      "stem": "Secondary peristaltic waves in the oesophagus are triggered by",
+      "options": [
+        {
+          "label": "A",
+          "text": "relaxation of the lower oesophageal sphincter"
+        },
+        {
+          "label": "B",
+          "text": "stimulation of pharyngeal epithelial receptors"
+        },
+        {
+          "label": "C",
+          "text": "contraction of the diaphragm"
+        },
+        {
+          "label": "D",
+          "text": "local oesophageal distension via the enteric nervous system"
+        },
+        {
+          "label": "E",
+          "text": "the swallowing centre at the start of each swallow"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Primary peristalsis is initiated by the swallowing centre; secondary waves arise from ENS reflexes in response to residual bolus distension.",
+      "topicId": "gi-mouth",
+      "subtopic": "Swallowing",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-025",
+      "type": "single-best",
+      "stem": "The swallowing (deglutition) centre is located in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "cerebral cortex"
+        },
+        {
+          "label": "B",
+          "text": "hypothalamus"
+        },
+        {
+          "label": "C",
+          "text": "cerebellum"
+        },
+        {
+          "label": "D",
+          "text": "spinal cord"
+        },
+        {
+          "label": "E",
+          "text": "medulla and pons"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The deglutition centre in the medulla and pons coordinates the swallow via cranial nerves V, IX, X and XII.",
+      "topicId": "gi-mouth",
+      "subtopic": "Swallowing",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-026",
+      "type": "single-best",
+      "stem": "Hydrochloric acid and intrinsic factor are both secreted by the gastric",
+      "options": [
+        {
+          "label": "A",
+          "text": "parietal (oxyntic) cells"
+        },
+        {
+          "label": "B",
+          "text": "chief cells"
+        },
+        {
+          "label": "C",
+          "text": "G cells"
+        },
+        {
+          "label": "D",
+          "text": "mucous neck cells"
+        },
+        {
+          "label": "E",
+          "text": "enterochromaffin-like cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Parietal (oxyntic) cells secrete both HCl and intrinsic factor.",
+      "topicId": "gi-stomach",
+      "subtopic": "Gastric cells",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-027",
+      "type": "single-best",
+      "stem": "Pepsinogen and gastric lipase are products of the gastric",
+      "options": [
+        {
+          "label": "A",
+          "text": "surface mucous cells"
+        },
+        {
+          "label": "B",
+          "text": "chief cells"
+        },
+        {
+          "label": "C",
+          "text": "parietal cells"
+        },
+        {
+          "label": "D",
+          "text": "G cells"
+        },
+        {
+          "label": "E",
+          "text": "D cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Chief cells secrete pepsinogen (activated to pepsin by acid) and gastric lipase.",
+      "topicId": "gi-stomach",
+      "subtopic": "Gastric cells",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-028",
+      "type": "single-best",
+      "stem": "In the parietal cell, H+ is secreted into the lumen in exchange for K+ by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cl-/HCO3- exchanger"
+        },
+        {
+          "label": "B",
+          "text": "Na+-K+-2Cl- cotransporter"
+        },
+        {
+          "label": "C",
+          "text": "H+/K+-ATPase (proton pump)"
+        },
+        {
+          "label": "D",
+          "text": "Na+/K+-ATPase"
+        },
+        {
+          "label": "E",
+          "text": "Na+/H+ exchanger"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The apical H+/K+-ATPase (proton pump) drives H+ into the canaliculus in exchange for K+.",
+      "topicId": "gi-stomach",
+      "subtopic": "HCl secretion",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-029",
+      "type": "single-best",
+      "stem": "The slight rise in venous blood pH after a meal, caused by bicarbonate leaving the parietal cell, is called the",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bohr shift"
+        },
+        {
+          "label": "B",
+          "text": "acid tide"
+        },
+        {
+          "label": "C",
+          "text": "alkaline reflux"
+        },
+        {
+          "label": "D",
+          "text": "alkaline tide"
+        },
+        {
+          "label": "E",
+          "text": "chloride shift"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "As HCO3- is exchanged for Cl- across the basolateral membrane during acid secretion, blood pH rises transiently — the alkaline tide.",
+      "topicId": "gi-stomach",
+      "subtopic": "HCl secretion",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-030",
+      "type": "single-best",
+      "stem": "Intrinsic factor is essential because it is required for the absorption of",
+      "options": [
+        {
+          "label": "A",
+          "text": "iron in the proximal duodenum"
+        },
+        {
+          "label": "B",
+          "text": "folate in the mid jejunum"
+        },
+        {
+          "label": "C",
+          "text": "calcium in the upper duodenum"
+        },
+        {
+          "label": "D",
+          "text": "vitamin K in the large bowel"
+        },
+        {
+          "label": "E",
+          "text": "vitamin B12 in the terminal ileum"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Intrinsic factor binds B12 so it can be taken up by receptor-mediated endocytosis in the lower ileum; its lack causes pernicious anaemia.",
+      "topicId": "gi-stomach",
+      "subtopic": "Intrinsic factor",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-031",
+      "type": "single-best",
+      "stem": "Gastrin, which stimulates acid secretion and gastric motility, is released by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "G cells of the gastric pits"
+        },
+        {
+          "label": "B",
+          "text": "chief cells of the fundus"
+        },
+        {
+          "label": "C",
+          "text": "parietal cells of the body"
+        },
+        {
+          "label": "D",
+          "text": "D cells of the antrum"
+        },
+        {
+          "label": "E",
+          "text": "S cells of the duodenum"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Gastrin comes from antral G cells and is triggered by vagal activity, luminal peptides and gastric distension.",
+      "topicId": "gi-stomach",
+      "subtopic": "Gastric hormones",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-032",
+      "type": "single-best",
+      "stem": "During the gastric phase, distension of the stomach wall triggers acid secretion mainly through",
+      "options": [
+        {
+          "label": "A",
+          "text": "cholecystokinin from I cells"
+        },
+        {
+          "label": "B",
+          "text": "vagovagal and local enteric reflexes"
+        },
+        {
+          "label": "C",
+          "text": "release of secretin from the duodenum"
+        },
+        {
+          "label": "D",
+          "text": "circulating adrenaline"
+        },
+        {
+          "label": "E",
+          "text": "the enterogastric inhibitory reflex"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Food-induced distension activates stretch receptors driving long vagovagal and short local reflexes that boost secretion.",
+      "topicId": "gi-stomach",
+      "subtopic": "Secretion phases",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-033",
+      "type": "single-best",
+      "stem": "The intestinal phase ultimately inhibits gastric acid secretion through the",
+      "options": [
+        {
+          "label": "A",
+          "text": "histamine from ECL cells"
+        },
+        {
+          "label": "B",
+          "text": "direct stretch of the gastric fundus"
+        },
+        {
+          "label": "C",
+          "text": "the enterogastric reflex and secretin/GIP/CCK"
+        },
+        {
+          "label": "D",
+          "text": "cephalic vagal reflex"
+        },
+        {
+          "label": "E",
+          "text": "release of gastrin from antral G cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Once duodenal chyme is acidic and fatty, the enterogastric reflex plus secretin, GIP and CCK inhibit gastric secretion and motility.",
+      "topicId": "gi-stomach",
+      "subtopic": "Secretion phases",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-034",
+      "type": "single-best",
+      "stem": "Receptive relaxation of the proximal stomach as food arrives is mediated by",
+      "options": [
+        {
+          "label": "A",
+          "text": "gastrin release from G cells"
+        },
+        {
+          "label": "B",
+          "text": "the proton pump of parietal cells"
+        },
+        {
+          "label": "C",
+          "text": "contraction of the pyloric sphincter"
+        },
+        {
+          "label": "D",
+          "text": "a vagovagal reflex with NANC transmitters"
+        },
+        {
+          "label": "E",
+          "text": "sympathetic contraction of the antrum"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Vagovagal reflexes release NANC transmitters (NO, VIP, ATP) to relax the orad stomach for storage.",
+      "topicId": "gi-stomach",
+      "subtopic": "Gastric motility",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-035",
+      "type": "single-best",
+      "stem": "The gastric 'pump' that grinds food and controls emptying is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "proximal stomach (fundus and body)"
+        },
+        {
+          "label": "B",
+          "text": "cardia"
+        },
+        {
+          "label": "C",
+          "text": "lower oesophageal sphincter"
+        },
+        {
+          "label": "D",
+          "text": "first part of the duodenum"
+        },
+        {
+          "label": "E",
+          "text": "distal stomach (antrum and pylorus)"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The thick-walled distal stomach produces strong phasic contractions that mix chyme and regulate emptying.",
+      "topicId": "gi-stomach",
+      "subtopic": "Gastric motility",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-036",
+      "type": "single-best",
+      "stem": "Gastric emptying is characteristically delayed by the presence in the duodenum of",
+      "options": [
+        {
+          "label": "A",
+          "text": "excess acid or undigested fat"
+        },
+        {
+          "label": "B",
+          "text": "dilute glucose solution"
+        },
+        {
+          "label": "C",
+          "text": "water alone"
+        },
+        {
+          "label": "D",
+          "text": "bicarbonate-rich chyme"
+        },
+        {
+          "label": "E",
+          "text": "a large protein load only"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Duodenal acid and fat slow gastric emptying so the small intestine is not overwhelmed.",
+      "topicId": "gi-stomach",
+      "subtopic": "Gastric motility",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-037",
+      "type": "single-best",
+      "stem": "Trypsinogen is converted to active trypsin in the duodenum by",
+      "options": [
+        {
+          "label": "A",
+          "text": "bile salts"
+        },
+        {
+          "label": "B",
+          "text": "enterokinase"
+        },
+        {
+          "label": "C",
+          "text": "pepsin"
+        },
+        {
+          "label": "D",
+          "text": "gastric acid"
+        },
+        {
+          "label": "E",
+          "text": "secretin"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Enterokinase from the duodenal mucosa activates trypsinogen to trypsin, which then activates the other proenzymes.",
+      "topicId": "gi-pancreas",
+      "subtopic": "Pancreatic enzymes",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-038",
+      "type": "single-best",
+      "stem": "Pancreatic proteases are secreted as inactive proenzymes chiefly to",
+      "options": [
+        {
+          "label": "A",
+          "text": "let them be stored in the gallbladder"
+        },
+        {
+          "label": "B",
+          "text": "bind them to bicarbonate"
+        },
+        {
+          "label": "C",
+          "text": "prevent them digesting the pancreas"
+        },
+        {
+          "label": "D",
+          "text": "make them soluble in pancreatic juice"
+        },
+        {
+          "label": "E",
+          "text": "allow them to work at acidic pH"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Secreting trypsinogen, chymotrypsinogen and procarboxypeptidase inactive protects pancreatic tissue from autodigestion.",
+      "topicId": "gi-pancreas",
+      "subtopic": "Pancreatic enzymes",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-039",
+      "type": "single-best",
+      "stem": "Secretin, released from duodenal S cells by acidic chyme, mainly stimulates",
+      "options": [
+        {
+          "label": "A",
+          "text": "gallbladder contraction"
+        },
+        {
+          "label": "B",
+          "text": "gastrin release from G cells"
+        },
+        {
+          "label": "C",
+          "text": "acid secretion from parietal cells"
+        },
+        {
+          "label": "D",
+          "text": "bicarbonate-rich fluid from duct cells"
+        },
+        {
+          "label": "E",
+          "text": "enzyme secretion from pancreatic acinar cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Secretin acts on duct cells to secrete a bicarbonate-rich fluid that neutralises duodenal acid.",
+      "topicId": "gi-pancreas",
+      "subtopic": "Pancreatic control",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-040",
+      "type": "single-best",
+      "stem": "Cholecystokinin, released by duodenal I cells in response to peptides and fatty acids, stimulates",
+      "options": [
+        {
+          "label": "A",
+          "text": "bicarbonate secretion from duct cells only"
+        },
+        {
+          "label": "B",
+          "text": "gastric acid secretion"
+        },
+        {
+          "label": "C",
+          "text": "salivary amylase release"
+        },
+        {
+          "label": "D",
+          "text": "intrinsic factor secretion"
+        },
+        {
+          "label": "E",
+          "text": "acinar enzyme output and gallbladder contraction"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "CCK drives acinar enzyme output and contracts the gallbladder (relaxing the sphincter of Oddi); it also potentiates secretin.",
+      "topicId": "gi-pancreas",
+      "subtopic": "Pancreatic control",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-041",
+      "type": "single-best",
+      "stem": "Most of the pancreatic secretory response to a meal (50-80%) occurs during the",
+      "options": [
+        {
+          "label": "A",
+          "text": "intestinal phase"
+        },
+        {
+          "label": "B",
+          "text": "cephalic phase"
+        },
+        {
+          "label": "C",
+          "text": "gastric phase"
+        },
+        {
+          "label": "D",
+          "text": "interdigestive phase"
+        },
+        {
+          "label": "E",
+          "text": "oral phase"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The intestinal phase, driven by secretin and CCK, accounts for the bulk (50-80%) of pancreatic secretion.",
+      "topicId": "gi-pancreas",
+      "subtopic": "Pancreatic control",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-042",
+      "type": "single-best",
+      "stem": "The liver cells that act as resident macrophages, recycling old red blood cells, are the",
+      "options": [
+        {
+          "label": "A",
+          "text": "Paneth cells"
+        },
+        {
+          "label": "B",
+          "text": "Kupffer cells"
+        },
+        {
+          "label": "C",
+          "text": "hepatocytes"
+        },
+        {
+          "label": "D",
+          "text": "stellate cells"
+        },
+        {
+          "label": "E",
+          "text": "centroacinar cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Kupffer cells in the hepatic sinusoids are macrophages that phagocytose aged red cells.",
+      "topicId": "gi-pancreas",
+      "subtopic": "Liver",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-043",
+      "type": "single-best",
+      "stem": "Hepatocytes receive a dual blood supply of oxygen-rich blood and nutrient-rich blood respectively from the",
+      "options": [
+        {
+          "label": "A",
+          "text": "central vein and the cystic duct"
+        },
+        {
+          "label": "B",
+          "text": "splenic artery and the superior mesenteric vein"
+        },
+        {
+          "label": "C",
+          "text": "hepatic artery and the portal vein"
+        },
+        {
+          "label": "D",
+          "text": "portal vein and the hepatic artery"
+        },
+        {
+          "label": "E",
+          "text": "hepatic vein and the bile duct"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Sinusoids mix oxygenated blood from the hepatic artery with nutrient-laden blood from the portal vein.",
+      "topicId": "gi-pancreas",
+      "subtopic": "Liver",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-044",
+      "type": "single-best",
+      "stem": "The two primary bile acids made by the liver are",
+      "options": [
+        {
+          "label": "A",
+          "text": "deoxycholic acid and lithocholic acid"
+        },
+        {
+          "label": "B",
+          "text": "palmitic acid and stearic acid"
+        },
+        {
+          "label": "C",
+          "text": "cholesterol and lecithin"
+        },
+        {
+          "label": "D",
+          "text": "cholic acid and chenodeoxycholic acid"
+        },
+        {
+          "label": "E",
+          "text": "glycocholic acid and taurocholic acid"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Cholic and chenodeoxycholic acids are the primary bile acids; conjugation with glycine or taurine forms bile salts.",
+      "topicId": "gi-pancreas",
+      "subtopic": "Bile",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-045",
+      "type": "single-best",
+      "stem": "Bile acids are conjugated with which amino acids to form the more soluble bile salts?",
+      "options": [
+        {
+          "label": "A",
+          "text": "glutamine and alanine"
+        },
+        {
+          "label": "B",
+          "text": "glycine and lysine"
+        },
+        {
+          "label": "C",
+          "text": "taurine and arginine"
+        },
+        {
+          "label": "D",
+          "text": "serine and cysteine"
+        },
+        {
+          "label": "E",
+          "text": "glycine and taurine"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Conjugation with glycine and taurine yields bile salts, which act as detergents to emulsify lipids.",
+      "topicId": "gi-pancreas",
+      "subtopic": "Bile",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-046",
+      "type": "single-best",
+      "stem": "While stored in the gallbladder between meals, bile is concentrated roughly",
+      "options": [
+        {
+          "label": "A",
+          "text": "five-fold by absorbing water and ions"
+        },
+        {
+          "label": "B",
+          "text": "ten-fold by secretion of bile acids"
+        },
+        {
+          "label": "C",
+          "text": "two-fold by addition of bicarbonate"
+        },
+        {
+          "label": "D",
+          "text": "twenty-fold by active bile-salt uptake"
+        },
+        {
+          "label": "E",
+          "text": "not at all, only stored unchanged"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The gallbladder absorbs water and small ions, concentrating bile about five-fold while retaining organic molecules.",
+      "topicId": "gi-pancreas",
+      "subtopic": "Bile",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-047",
+      "type": "single-best",
+      "stem": "Cholecystokinin promotes bile delivery to the duodenum by",
+      "options": [
+        {
+          "label": "A",
+          "text": "closing the common bile duct"
+        },
+        {
+          "label": "B",
+          "text": "contracting the gallbladder and relaxing the sphincter of Oddi"
+        },
+        {
+          "label": "C",
+          "text": "relaxing the gallbladder and contracting the sphincter of Oddi"
+        },
+        {
+          "label": "D",
+          "text": "stimulating bicarbonate secretion from hepatocytes"
+        },
+        {
+          "label": "E",
+          "text": "increasing bile-acid synthesis directly"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "CCK contracts gallbladder smooth muscle and relaxes the sphincter of Oddi, releasing bile.",
+      "topicId": "gi-pancreas",
+      "subtopic": "Bile",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-048",
+      "type": "single-best",
+      "stem": "Pre-hepatic (haemolytic) jaundice is characterised by a rise in",
+      "options": [
+        {
+          "label": "A",
+          "text": "urobilinogen only, with normal bilirubin"
+        },
+        {
+          "label": "B",
+          "text": "bile acids with normal bilirubin"
+        },
+        {
+          "label": "C",
+          "text": "unconjugated bilirubin from excessive red-cell breakdown"
+        },
+        {
+          "label": "D",
+          "text": "conjugated bilirubin from biliary obstruction"
+        },
+        {
+          "label": "E",
+          "text": "conjugated bilirubin from hepatocyte damage"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Haemolysis overwhelms conjugation, raising unconjugated bilirubin; obstruction raises conjugated bilirubin.",
+      "topicId": "gi-pancreas",
+      "subtopic": "Jaundice",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-049",
+      "type": "single-best",
+      "stem": "Clinically visible jaundice typically appears once serum bilirubin exceeds about",
+      "options": [
+        {
+          "label": "A",
+          "text": "10-12 mg/dL"
+        },
+        {
+          "label": "B",
+          "text": "1 mg/dL"
+        },
+        {
+          "label": "C",
+          "text": "20 mg/dL"
+        },
+        {
+          "label": "D",
+          "text": "2.5-3 mg/dL"
+        },
+        {
+          "label": "E",
+          "text": "0.5 mg/dL"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Jaundice becomes apparent at a bilirubin of roughly 2.5-3 mg/dL.",
+      "topicId": "gi-pancreas",
+      "subtopic": "Jaundice",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-050",
+      "type": "single-best",
+      "stem": "Pigment gallstones form in the gallbladder largely because bilirubin, which is not absorbed there, becomes concentrated and precipitates as",
+      "options": [
+        {
+          "label": "A",
+          "text": "cholesterol monohydrate"
+        },
+        {
+          "label": "B",
+          "text": "calcium oxalate"
+        },
+        {
+          "label": "C",
+          "text": "uric acid crystals"
+        },
+        {
+          "label": "D",
+          "text": "calcium phosphate"
+        },
+        {
+          "label": "E",
+          "text": "calcium bilirubinate"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Unabsorbed bilirubin concentrates up to 10-fold and precipitates with calcium as calcium bilirubinate — pigment stones.",
+      "topicId": "gi-pancreas",
+      "subtopic": "Bile",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-051",
+      "type": "single-best",
+      "stem": "Glucose and galactose are absorbed across the enterocyte brush border by",
+      "options": [
+        {
+          "label": "A",
+          "text": "the Na+-dependent cotransporter SGLT1"
+        },
+        {
+          "label": "B",
+          "text": "the facilitated transporter GLUT5"
+        },
+        {
+          "label": "C",
+          "text": "the basolateral transporter GLUT2"
+        },
+        {
+          "label": "D",
+          "text": "simple diffusion through the membrane"
+        },
+        {
+          "label": "E",
+          "text": "receptor-mediated endocytosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "SGLT1 drives Na+-coupled secondary active uptake of glucose and galactose; fructose uses GLUT5, and exit is via GLUT2.",
+      "topicId": "gi-intestine",
+      "subtopic": "Carbohydrate absorption",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-052",
+      "type": "single-best",
+      "stem": "Fructose crosses the brush border membrane by",
+      "options": [
+        {
+          "label": "A",
+          "text": "simple diffusion only"
+        },
+        {
+          "label": "B",
+          "text": "facilitated diffusion via GLUT5"
+        },
+        {
+          "label": "C",
+          "text": "Na+-coupled cotransport via SGLT1"
+        },
+        {
+          "label": "D",
+          "text": "active transport via GLUT2"
+        },
+        {
+          "label": "E",
+          "text": "an H+-coupled carrier"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Fructose uses the facilitated transporter GLUT5, independent of sodium.",
+      "topicId": "gi-intestine",
+      "subtopic": "Carbohydrate absorption",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-053",
+      "type": "single-best",
+      "stem": "Salivary amylase contributes little to overall starch digestion because it is",
+      "options": [
+        {
+          "label": "A",
+          "text": "secreted only in trace amounts"
+        },
+        {
+          "label": "B",
+          "text": "active only below pH 2"
+        },
+        {
+          "label": "C",
+          "text": "inactivated by gastric acid"
+        },
+        {
+          "label": "D",
+          "text": "destroyed by pancreatic trypsin"
+        },
+        {
+          "label": "E",
+          "text": "unable to act on cooked starch"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Salivary amylase begins starch breakdown but is inactivated by gastric acid; pancreatic amylase completes it in the duodenum.",
+      "topicId": "gi-intestine",
+      "subtopic": "Carbohydrate digestion",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-054",
+      "type": "single-best",
+      "stem": "Lactose is split into glucose and galactose by the brush-border enzyme",
+      "options": [
+        {
+          "label": "A",
+          "text": "maltase"
+        },
+        {
+          "label": "B",
+          "text": "alpha-dextrinase"
+        },
+        {
+          "label": "C",
+          "text": "pancreatic amylase"
+        },
+        {
+          "label": "D",
+          "text": "lactase"
+        },
+        {
+          "label": "E",
+          "text": "sucrase"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Lactase, a brush-border oligosaccharidase, hydrolyses lactose to glucose and galactose.",
+      "topicId": "gi-intestine",
+      "subtopic": "Carbohydrate digestion",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-055",
+      "type": "single-best",
+      "stem": "Protein digestion begins in the stomach with pepsin, which works optimally at a pH of about",
+      "options": [
+        {
+          "label": "A",
+          "text": "6.5 to 7.0"
+        },
+        {
+          "label": "B",
+          "text": "5.0 to 6.0"
+        },
+        {
+          "label": "C",
+          "text": "8.0 to 9.0"
+        },
+        {
+          "label": "D",
+          "text": "4.0 to 4.5"
+        },
+        {
+          "label": "E",
+          "text": "1.5 to 2.5"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Pepsin, formed from pepsinogen by acid, is most active at pH 1.5-2.5 and is inactivated by the alkaline duodenum.",
+      "topicId": "gi-intestine",
+      "subtopic": "Protein digestion",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-056",
+      "type": "single-best",
+      "stem": "Di- and tripeptides are absorbed across the brush border faster than free amino acids by a transporter coupled to",
+      "options": [
+        {
+          "label": "A",
+          "text": "a hydrogen-ion gradient"
+        },
+        {
+          "label": "B",
+          "text": "a sodium gradient directly"
+        },
+        {
+          "label": "C",
+          "text": "ATP hydrolysis at the apical membrane"
+        },
+        {
+          "label": "D",
+          "text": "a chloride gradient"
+        },
+        {
+          "label": "E",
+          "text": "facilitated diffusion"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Small peptides are taken up by an H+-coupled secondary active transporter, then hydrolysed inside the cell.",
+      "topicId": "gi-intestine",
+      "subtopic": "Protein absorption",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-057",
+      "type": "single-best",
+      "stem": "Dietary lipids are made accessible to water-soluble lipases in the duodenum by",
+      "options": [
+        {
+          "label": "A",
+          "text": "binding to intrinsic factor"
+        },
+        {
+          "label": "B",
+          "text": "emulsification with bile acids"
+        },
+        {
+          "label": "C",
+          "text": "conversion to water-soluble sugars"
+        },
+        {
+          "label": "D",
+          "text": "hydrolysis by salivary amylase"
+        },
+        {
+          "label": "E",
+          "text": "precipitation as calcium soaps"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Bile acids emulsify fat into tiny droplets, greatly increasing the surface area for lipase action.",
+      "topicId": "gi-intestine",
+      "subtopic": "Lipid digestion",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-058",
+      "type": "single-best",
+      "stem": "Pancreatic lipase requires which cofactor protein to act on emulsified fat droplets?",
+      "options": [
+        {
+          "label": "A",
+          "text": "calmodulin"
+        },
+        {
+          "label": "B",
+          "text": "transferrin"
+        },
+        {
+          "label": "C",
+          "text": "colipase"
+        },
+        {
+          "label": "D",
+          "text": "enterokinase"
+        },
+        {
+          "label": "E",
+          "text": "intrinsic factor"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Colipase anchors pancreatic lipase to the oil-droplet surface so it can hydrolyse triglycerides.",
+      "topicId": "gi-intestine",
+      "subtopic": "Lipid digestion",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-059",
+      "type": "single-best",
+      "stem": "After re-esterification in the enterocyte, dietary lipids are packaged as chylomicrons that leave the cell and enter the",
+      "options": [
+        {
+          "label": "A",
+          "text": "portal vein directly"
+        },
+        {
+          "label": "B",
+          "text": "bile canaliculi"
+        },
+        {
+          "label": "C",
+          "text": "intestinal lumen"
+        },
+        {
+          "label": "D",
+          "text": "lacteals (lymphatic vessels)"
+        },
+        {
+          "label": "E",
+          "text": "mucosal blood capillaries"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Chylomicrons are too large for the capillary basement membrane, so they enter the lacteals and travel in lymph.",
+      "topicId": "gi-intestine",
+      "subtopic": "Lipid absorption",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-060",
+      "type": "single-best",
+      "stem": "Lipid digestion products are ferried through the watery layer to the brush border within",
+      "options": [
+        {
+          "label": "A",
+          "text": "chylomicrons coated with protein"
+        },
+        {
+          "label": "B",
+          "text": "very-low-density lipoproteins"
+        },
+        {
+          "label": "C",
+          "text": "casein-coated droplets"
+        },
+        {
+          "label": "D",
+          "text": "albumin-bound complexes"
+        },
+        {
+          "label": "E",
+          "text": "micelles of bile salts and lipid"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Mixed micelles of bile salts, fatty acids, monoglycerides, cholesterol and phospholipids shuttle lipids to the absorptive surface.",
+      "topicId": "gi-intestine",
+      "subtopic": "Lipid absorption",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-061",
+      "type": "single-best",
+      "stem": "Most water absorption in the gut is driven by",
+      "options": [
+        {
+          "label": "A",
+          "text": "osmosis following active Na+ transport"
+        },
+        {
+          "label": "B",
+          "text": "active pumping of water by aquaporins"
+        },
+        {
+          "label": "C",
+          "text": "hydrostatic pressure in the lumen"
+        },
+        {
+          "label": "D",
+          "text": "secretion of bile into the duodenum"
+        },
+        {
+          "label": "E",
+          "text": "a chloride gradient set up by CFTR"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Water follows osmotically once Na+ and nutrients are actively absorbed; there is no active water pump.",
+      "topicId": "gi-intestine",
+      "subtopic": "Water and electrolytes",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-062",
+      "type": "single-best",
+      "stem": "Oral rehydration therapy works because water absorption is enhanced by the coupled uptake of",
+      "options": [
+        {
+          "label": "A",
+          "text": "fructose via GLUT5"
+        },
+        {
+          "label": "B",
+          "text": "sodium and glucose via SGLT1"
+        },
+        {
+          "label": "C",
+          "text": "potassium and chloride"
+        },
+        {
+          "label": "D",
+          "text": "calcium and phosphate"
+        },
+        {
+          "label": "E",
+          "text": "bicarbonate and hydrogen"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Na+-glucose cotransport (SGLT1) drives sodium and therefore water absorption, the basis of oral rehydration salts.",
+      "topicId": "gi-intestine",
+      "subtopic": "Water and electrolytes",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-063",
+      "type": "single-best",
+      "stem": "Calcium is actively absorbed, mainly in the duodenum, by a transcellular route whose entry step and calbindin are dependent on",
+      "options": [
+        {
+          "label": "A",
+          "text": "parathyroid hormone acting directly on the gut"
+        },
+        {
+          "label": "B",
+          "text": "vitamin C"
+        },
+        {
+          "label": "C",
+          "text": "vitamin D (1,25-dihydroxyvitamin D)"
+        },
+        {
+          "label": "D",
+          "text": "vitamin K"
+        },
+        {
+          "label": "E",
+          "text": "intrinsic factor"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The brush-border calcium channel (TRPV6/CaT1) and calbindin are vitamin D-dependent, so transcellular Ca2+ uptake needs active vitamin D.",
+      "topicId": "gi-intestine",
+      "subtopic": "Mineral absorption",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-064",
+      "type": "single-best",
+      "stem": "Non-haem dietary iron must be reduced from Fe3+ to Fe2+ before uptake, and then crosses the brush border via",
+      "options": [
+        {
+          "label": "A",
+          "text": "plasma transferrin"
+        },
+        {
+          "label": "B",
+          "text": "the ferroxidase hephaestin"
+        },
+        {
+          "label": "C",
+          "text": "the SGLT1 cotransporter"
+        },
+        {
+          "label": "D",
+          "text": "the DMT-1 transporter"
+        },
+        {
+          "label": "E",
+          "text": "the exporter ferroportin 1"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "A brush-border ferrireductase reduces Fe3+ to Fe2+, which DMT-1 carries into the duodenal enterocyte.",
+      "topicId": "gi-intestine",
+      "subtopic": "Mineral absorption",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-065",
+      "type": "single-best",
+      "stem": "Export of iron from the enterocyte into the blood across the basolateral membrane is mediated by",
+      "options": [
+        {
+          "label": "A",
+          "text": "DMT-1"
+        },
+        {
+          "label": "B",
+          "text": "calbindin"
+        },
+        {
+          "label": "C",
+          "text": "intrinsic factor"
+        },
+        {
+          "label": "D",
+          "text": "GLUT2"
+        },
+        {
+          "label": "E",
+          "text": "ferroportin 1"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Ferroportin 1 exports ferrous iron, which hephaestin then oxidises for binding to plasma transferrin.",
+      "topicId": "gi-intestine",
+      "subtopic": "Mineral absorption",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-066",
+      "type": "single-best",
+      "stem": "The liver-derived hormone that blocks intestinal iron absorption and release from stores is",
+      "options": [
+        {
+          "label": "A",
+          "text": "hepcidin"
+        },
+        {
+          "label": "B",
+          "text": "transferrin"
+        },
+        {
+          "label": "C",
+          "text": "ferritin"
+        },
+        {
+          "label": "D",
+          "text": "erythropoietin"
+        },
+        {
+          "label": "E",
+          "text": "hephaestin"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Hepcidin lowers iron availability by inhibiting intestinal absorption and release from stores.",
+      "topicId": "gi-intestine",
+      "subtopic": "Mineral absorption",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-067",
+      "type": "single-best",
+      "stem": "Vitamin B12 absorption in the terminal ileum requires it first to bind",
+      "options": [
+        {
+          "label": "A",
+          "text": "calbindin"
+        },
+        {
+          "label": "B",
+          "text": "intrinsic factor"
+        },
+        {
+          "label": "C",
+          "text": "transferrin"
+        },
+        {
+          "label": "D",
+          "text": "bile salts"
+        },
+        {
+          "label": "E",
+          "text": "R-protein only"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "B12 binds intrinsic factor (from parietal cells) and is absorbed by receptor-mediated endocytosis in the lower ileum.",
+      "topicId": "gi-intestine",
+      "subtopic": "Vitamin absorption",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-068",
+      "type": "single-best",
+      "stem": "The fat-soluble vitamins (A, D, E and K) are absorbed",
+      "options": [
+        {
+          "label": "A",
+          "text": "by simple diffusion in the stomach"
+        },
+        {
+          "label": "B",
+          "text": "bound to transferrin"
+        },
+        {
+          "label": "C",
+          "text": "along the pathway for fat, within micelles"
+        },
+        {
+          "label": "D",
+          "text": "by sodium-coupled active transport"
+        },
+        {
+          "label": "E",
+          "text": "only in the terminal ileum with intrinsic factor"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Fat-soluble vitamins follow the lipid-absorption route, carried in micelles.",
+      "topicId": "gi-intestine",
+      "subtopic": "Vitamin absorption",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-069",
+      "type": "single-best",
+      "stem": "The driving force for fluid secretion by intestinal crypt enterocytes is active movement of",
+      "options": [
+        {
+          "label": "A",
+          "text": "water directly through aquaporins"
+        },
+        {
+          "label": "B",
+          "text": "bicarbonate from Brunner's glands"
+        },
+        {
+          "label": "C",
+          "text": "potassium into the lumen"
+        },
+        {
+          "label": "D",
+          "text": "chloride into the lumen via the CFTR channel"
+        },
+        {
+          "label": "E",
+          "text": "sodium out of the lumen via the Na+ pump"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Cl- enters the cell via the basolateral Na+-K+-2Cl- carrier and exits apically through CFTR, drawing Na+ and water into the lumen.",
+      "topicId": "gi-intestine",
+      "subtopic": "Intestinal secretion",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-070",
+      "type": "single-best",
+      "stem": "Brunner's glands of the duodenum chiefly secrete",
+      "options": [
+        {
+          "label": "A",
+          "text": "digestive enzymes into the lumen"
+        },
+        {
+          "label": "B",
+          "text": "bile salts for emulsification"
+        },
+        {
+          "label": "C",
+          "text": "intrinsic factor"
+        },
+        {
+          "label": "D",
+          "text": "hydrochloric acid"
+        },
+        {
+          "label": "E",
+          "text": "alkaline mucus against gastric acid"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Brunner's glands produce mucus that shields the duodenal mucosa from acidic chyme.",
+      "topicId": "gi-intestine",
+      "subtopic": "Intestinal secretion",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-071",
+      "type": "single-best",
+      "stem": "The longitudinal muscle of the colon is reduced to three bands called the",
+      "options": [
+        {
+          "label": "A",
+          "text": "teniae coli"
+        },
+        {
+          "label": "B",
+          "text": "haustra"
+        },
+        {
+          "label": "C",
+          "text": "epiploic appendages"
+        },
+        {
+          "label": "D",
+          "text": "plicae circulares"
+        },
+        {
+          "label": "E",
+          "text": "rugae"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The teniae coli are three longitudinal muscle bands; their shortening sacculates the colon into haustra.",
+      "topicId": "gi-intestine",
+      "subtopic": "Large intestine",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-072",
+      "type": "single-best",
+      "stem": "Strong contractions that sweep colonic contents toward the rectum a few times a day are called",
+      "options": [
+        {
+          "label": "A",
+          "text": "receptive relaxation"
+        },
+        {
+          "label": "B",
+          "text": "mass movements"
+        },
+        {
+          "label": "C",
+          "text": "haustral contractions"
+        },
+        {
+          "label": "D",
+          "text": "segmentation contractions"
+        },
+        {
+          "label": "E",
+          "text": "the migrating motor complex"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Mass movements, unique to the colon, occur three or four times daily, often after meals.",
+      "topicId": "gi-intestine",
+      "subtopic": "Large intestine",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-073",
+      "type": "single-best",
+      "stem": "Entry of food into the stomach increases colonic motility and mass movements through the",
+      "options": [
+        {
+          "label": "A",
+          "text": "cough reflex"
+        },
+        {
+          "label": "B",
+          "text": "myenteric reflex only"
+        },
+        {
+          "label": "C",
+          "text": "gastrocolic reflex"
+        },
+        {
+          "label": "D",
+          "text": "enterogastric reflex"
+        },
+        {
+          "label": "E",
+          "text": "Hering-Breuer reflex"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The gastrocolic reflex links gastric filling to increased colonic activity (duodenal distension drives the duodenocolic reflex).",
+      "topicId": "gi-intestine",
+      "subtopic": "Large intestine",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-074",
+      "type": "single-best",
+      "stem": "The internal anal sphincter differs from the external one in that it is",
+      "options": [
+        {
+          "label": "A",
+          "text": "skeletal muscle supplied by the pudendal nerve"
+        },
+        {
+          "label": "B",
+          "text": "cardiac muscle"
+        },
+        {
+          "label": "C",
+          "text": "controlled entirely by the sympathetic chain"
+        },
+        {
+          "label": "D",
+          "text": "smooth muscle under myenteric control"
+        },
+        {
+          "label": "E",
+          "text": "skeletal muscle under voluntary control"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The internal sphincter is smooth muscle (myenteric control); the external sphincter is skeletal muscle under voluntary pudendal control.",
+      "topicId": "gi-intestine",
+      "subtopic": "Defecation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-075",
+      "type": "single-best",
+      "stem": "The defecation reflex is integrated in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "medullary vomiting centre"
+        },
+        {
+          "label": "B",
+          "text": "thoracic sympathetic chain"
+        },
+        {
+          "label": "C",
+          "text": "pontine micturition centre"
+        },
+        {
+          "label": "D",
+          "text": "cerebral cortex alone"
+        },
+        {
+          "label": "E",
+          "text": "the sacral spinal cord"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Rectal distension triggers a sacral spinal reflex carried by pelvic parasympathetic nerves, reinforced by voluntary control of the external sphincter.",
+      "topicId": "gi-intestine",
+      "subtopic": "Defecation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-076",
+      "type": "single-best",
+      "stem": "The chemoreceptor trigger zone that can initiate vomiting lies in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "area postrema of the fourth ventricle"
+        },
+        {
+          "label": "B",
+          "text": "reticular formation of the pons"
+        },
+        {
+          "label": "C",
+          "text": "nucleus of the tractus solitarius"
+        },
+        {
+          "label": "D",
+          "text": "hypothalamic satiety centre"
+        },
+        {
+          "label": "E",
+          "text": "dorsal motor nucleus of the vagus"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The CTZ sits in the area postrema at the floor of the fourth ventricle and signals the medullary vomiting centre.",
+      "topicId": "gi-intestine",
+      "subtopic": "Vomiting",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-gi-077",
+      "type": "single-best",
+      "stem": "Urea, the main nitrogenous waste, is synthesised by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "spleen"
+        },
+        {
+          "label": "B",
+          "text": "liver, via the urea cycle"
+        },
+        {
+          "label": "C",
+          "text": "kidney cortex"
+        },
+        {
+          "label": "D",
+          "text": "small-intestinal mucosa"
+        },
+        {
+          "label": "E",
+          "text": "pancreatic acinar cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The liver converts ammonium to urea through the urea cycle; the kidney then excretes it.",
+      "topicId": "gi-metab",
+      "subtopic": "Liver metabolism",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-078",
+      "type": "single-best",
+      "stem": "Plasma proteins such as albumin, prothrombin and fibrinogen are synthesised chiefly by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "spleen"
+        },
+        {
+          "label": "B",
+          "text": "pancreas"
+        },
+        {
+          "label": "C",
+          "text": "liver"
+        },
+        {
+          "label": "D",
+          "text": "kidney"
+        },
+        {
+          "label": "E",
+          "text": "bone marrow"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The liver synthesises and secretes albumin and the clotting proteins prothrombin and fibrinogen.",
+      "topicId": "gi-metab",
+      "subtopic": "Liver metabolism",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-gi-079",
+      "type": "single-best",
+      "stem": "The recycling of bile salts from the ileum back to the liver for re-secretion is known as the",
+      "options": [
+        {
+          "label": "A",
+          "text": "splanchnic circulation"
+        },
+        {
+          "label": "B",
+          "text": "lymphatic circulation"
+        },
+        {
+          "label": "C",
+          "text": "countercurrent exchange"
+        },
+        {
+          "label": "D",
+          "text": "enterohepatic circulation"
+        },
+        {
+          "label": "E",
+          "text": "portal circulation"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Bile salts reabsorbed in the terminal ileum return to the liver via the portal vein — the enterohepatic circulation — and are re-secreted.",
+      "topicId": "gi-metab",
+      "subtopic": "Liver metabolism",
+      "difficulty": "hard"
+    }
+  ]
+}
