@@ -19675,6 +19675,4688 @@
       "topicId": "ros",
       "subtopic": "Mechanisms and sources",
       "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem2-ar-01",
+      "type": "single-best",
+      "stem": "Assertion: Congenital erythropoietic porphyria causes severe cutaneous photosensitivity.\nReason: Uroporphyrinogen III synthase deficiency lets phototoxic uroporphyrin I accumulate in the skin.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "The build-up of phototoxic porphyrin is exactly why the skin is so light-sensitive.",
+      "topicId": "haem",
+      "subtopic": "Porphyrias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem2-ar-02",
+      "type": "single-best",
+      "stem": "Assertion: Variegate porphyria is especially common in white South Africans.\nReason: It is autosomal dominant and traceable to a common founder in that population.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "A founder effect in an autosomal dominant disorder explains the high local frequency.",
+      "topicId": "haem",
+      "subtopic": "Porphyrias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem2-ar-03",
+      "type": "single-best",
+      "stem": "Assertion: Crigler-Najjar syndrome type II responds to phenobarbital.\nReason: Phenobarbital induces the residual UDP-glucuronyl transferase activity.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "Enzyme induction raising the partial UGT activity is why phenobarbital helps type II.",
+      "topicId": "haem",
+      "subtopic": "Bilirubin disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem2-ar-04",
+      "type": "single-best",
+      "stem": "Assertion: In obstructive jaundice the urine becomes dark.\nReason: Water-soluble conjugated bilirubin is filtered and excreted in the urine.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "Conjugated bilirubin spilling into urine is exactly what darkens it in obstruction.",
+      "topicId": "haem",
+      "subtopic": "Jaundice patterns",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem2-ar-05",
+      "type": "single-best",
+      "stem": "Assertion: Erythropoietic protoporphyria causes photosensitivity.\nReason: Acute intermittent porphyria is not photosensitive.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "Both statements are true but concern different porphyrias, so one does not explain the other.",
+      "topicId": "haem",
+      "subtopic": "Porphyrias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem2-ar-06",
+      "type": "single-best",
+      "stem": "Assertion: Ferrochelatase is a mitochondrial enzyme.\nReason: ALA dehydratase is a cytosolic enzyme.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "Both compartment facts are true, but one does not explain the other.",
+      "topicId": "haem",
+      "subtopic": "Haem synthesis steps",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem2-ar-07",
+      "type": "single-best",
+      "stem": "Assertion: Conjugated bilirubin gives a direct van den Bergh reaction.\nReason: It must first be exposed to methanol before it will react with the diazo reagent.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "Conjugated bilirubin reacts directly WITHOUT alcohol; it is the unconjugated fraction that needs methanol.",
+      "topicId": "haem",
+      "subtopic": "Bilirubin disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem2-ar-08",
+      "type": "single-best",
+      "stem": "Assertion: Dubin-Johnson syndrome produces a conjugated hyperbilirubinaemia.\nReason: It is caused by a deficiency of UDP-glucuronyl transferase.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "The conjugated picture is right, but the defect is in canalicular excretion (MRP2), not conjugation.",
+      "topicId": "haem",
+      "subtopic": "Bilirubin disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem2-ar-09",
+      "type": "single-best",
+      "stem": "Assertion: Hereditary coproporphyria can cause acute neurovisceral attacks.\nReason: It results from a deficiency of ferrochelatase.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "Acute attacks do occur, but the deficient enzyme is coproporphyrinogen oxidase, not ferrochelatase.",
+      "topicId": "haem",
+      "subtopic": "Porphyrias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem2-ar-10",
+      "type": "single-best",
+      "stem": "Assertion: In haemolytic (prehepatic) jaundice bilirubin appears in the urine.\nReason: Unconjugated bilirubin is tightly bound to albumin and is not filtered by the kidney.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "There is NO bilirubinuria in haemolysis (assertion false); the albumin-binding reason is true.",
+      "topicId": "haem",
+      "subtopic": "Jaundice patterns",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem2-ar-11",
+      "type": "single-best",
+      "stem": "Assertion: Biliverdin reductase uses FAD as its source of reducing power.\nReason: NADPH supplies the electrons for the conversion of biliverdin to bilirubin.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "The reductant is NADPH, not FAD (assertion false); the NADPH statement is true.",
+      "topicId": "haem",
+      "subtopic": "Haem catabolism steps",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem2-ar-12",
+      "type": "single-best",
+      "stem": "Assertion: Gilbert syndrome causes a conjugated hyperbilirubinaemia with dark urine.\nReason: It is due to a complete absence of UDP-glucuronyl transferase.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "Gilbert's is a mild UNconjugated hyperbilirubinaemia with only partial UGT reduction; both statements are false.",
+      "topicId": "haem",
+      "subtopic": "Bilirubin disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem2-k-01",
+      "type": "single-best",
+      "stem": "Enzymes located in the mitochondrion during haem synthesis include:\nI. ALA synthase\nII. Coproporphyrinogen oxidase\nIII. Ferrochelatase",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "All three act in the mitochondrion; the middle steps are cytosolic.",
+      "topicId": "haem",
+      "subtopic": "Haem synthesis steps",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem2-k-02",
+      "type": "single-best",
+      "stem": "Features of an acute porphyric attack include:\nI. Abdominal pain\nII. Neuropsychiatric disturbance\nIII. Relief by continued fasting",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "I and II are typical; fasting precipitates (not relieves) attacks, so III is false.",
+      "topicId": "haem",
+      "subtopic": "Porphyrias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem2-k-03",
+      "type": "single-best",
+      "stem": "Congenital erythropoietic porphyria:\nI. Is an acute hepatic porphyria with no skin signs\nII. Causes severe cutaneous photosensitivity\nIII. Can stain the teeth red-brown (erythrodontia)",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "II and III are true; it is an erythropoietic, photosensitive disorder, so I is false.",
+      "topicId": "haem",
+      "subtopic": "Porphyrias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem2-k-04",
+      "type": "single-best",
+      "stem": "In complete biliary obstruction:\nI. Plasma conjugated bilirubin is raised\nII. Urinary urobilinogen is increased\nIII. The stools become pale",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "I and III are true; urobilinogen is absent because bile cannot reach the gut, so II is false.",
+      "topicId": "haem",
+      "subtopic": "Jaundice patterns",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem2-k-05",
+      "type": "single-best",
+      "stem": "Gilbert syndrome:\nI. Causes a mild unconjugated hyperbilirubinaemia\nII. Commonly leads to kernicterus in adults\nIII. Requires lifelong phototherapy",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "Only I is true; it is benign, needing no phototherapy and not causing kernicterus.",
+      "topicId": "haem",
+      "subtopic": "Bilirubin disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem2-k-06",
+      "type": "single-best",
+      "stem": "Recognised precipitants of an acute porphyria attack include:\nI. Drugs that induce cytochrome P450\nII. Prolonged fasting\nIII. Alcohol",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "All three raise ALA-synthase demand and can trigger an attack.",
+      "topicId": "haem",
+      "subtopic": "Porphyrias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem2-k-07",
+      "type": "single-best",
+      "stem": "Lead poisoning characteristically causes:\nI. Inhibition of ferrochelatase\nII. Basophilic stippling of red cells\nIII. A markedly raised blood haem level",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "I and II are true; haem synthesis falls (not rises) in lead poisoning, so III is false.",
+      "topicId": "haem",
+      "subtopic": "Lead poisoning",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem2-k-08",
+      "type": "single-best",
+      "stem": "Crigler-Najjar syndrome type I:\nI. Responds well to phenobarbital\nII. Results from total absence of UDP-glucuronyl transferase\nIII. Causes severe unconjugated hyperbilirubinaemia and kernicterus",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "II and III are true; type I has no enzyme to induce, so it does not respond to phenobarbital.",
+      "topicId": "haem",
+      "subtopic": "Bilirubin disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem2-k-09",
+      "type": "single-best",
+      "stem": "Haem-containing proteins with enzymatic roles include:\nI. Catalase\nII. Carbonic anhydrase\nIII. Cytochrome P450",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "I and III are haem enzymes; carbonic anhydrase is a zinc enzyme, so II is false.",
+      "topicId": "haem",
+      "subtopic": "Haem proteins",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem2-k-10",
+      "type": "single-best",
+      "stem": "Erythropoietic protoporphyria:\nI. Is caused by ferrochelatase deficiency\nII. Causes dark urine with neurovisceral attacks\nIII. Is the commonest acute porphyria",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "Only I is true; it is a photosensitive (not acute neurovisceral) porphyria.",
+      "topicId": "haem",
+      "subtopic": "Porphyrias",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem2-k-11",
+      "type": "single-best",
+      "stem": "The van den Bergh reaction:\nI. Measures bilirubin using a diazo reagent\nII. Its direct fraction corresponds to conjugated bilirubin\nIII. Its indirect fraction corresponds to unconjugated bilirubin",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "All three correctly describe the van den Bergh test.",
+      "topicId": "haem",
+      "subtopic": "Bilirubin disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem2-k-12",
+      "type": "single-best",
+      "stem": "Steps of haem synthesis that occur in the cytosol include:\nI. Insertion of iron by ferrochelatase\nII. Formation of porphobilinogen by ALA dehydratase\nIII. Formation of hydroxymethylbilane by PBG deaminase",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "II and III are cytosolic; ferrochelatase is mitochondrial, so I is false.",
+      "topicId": "haem",
+      "subtopic": "Haem synthesis steps",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-haem2-ex-01",
+      "type": "single-best",
+      "stem": "All of the following porphyrias are photosensitive EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "porphyria cutanea tarda"
+        },
+        {
+          "label": "B",
+          "text": "congenital erythropoietic porphyria"
+        },
+        {
+          "label": "C",
+          "text": "variegate porphyria"
+        },
+        {
+          "label": "D",
+          "text": "erythropoietic protoporphyria"
+        },
+        {
+          "label": "E",
+          "text": "acute intermittent porphyria"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Acute intermittent porphyria is purely neurovisceral, with no photosensitivity.",
+      "topicId": "haem",
+      "subtopic": "Porphyrias",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem2-ex-02",
+      "type": "single-best",
+      "stem": "All of the following are enzymes of haem synthesis EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "biliverdin reductase"
+        },
+        {
+          "label": "B",
+          "text": "PBG deaminase"
+        },
+        {
+          "label": "C",
+          "text": "uroporphyrinogen III synthase"
+        },
+        {
+          "label": "D",
+          "text": "coproporphyrinogen oxidase"
+        },
+        {
+          "label": "E",
+          "text": "protoporphyrinogen oxidase"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Biliverdin reductase is part of haem CATABOLISM, not synthesis.",
+      "topicId": "haem",
+      "subtopic": "Haem synthesis steps",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem2-ex-03",
+      "type": "single-best",
+      "stem": "All of the following occur in obstructive (post-hepatic) jaundice EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "bilirubin in the urine"
+        },
+        {
+          "label": "B",
+          "text": "raised urinary urobilinogen"
+        },
+        {
+          "label": "C",
+          "text": "raised conjugated bilirubin"
+        },
+        {
+          "label": "D",
+          "text": "pale (clay-coloured) stools"
+        },
+        {
+          "label": "E",
+          "text": "dark urine"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "With bile flow blocked, no bilirubin reaches the gut, so urobilinogen falls.",
+      "topicId": "haem",
+      "subtopic": "Jaundice patterns",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem2-ex-04",
+      "type": "single-best",
+      "stem": "All of the following cause a predominantly CONJUGATED hyperbilirubinaemia EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "bile-duct obstruction"
+        },
+        {
+          "label": "B",
+          "text": "cholestatic viral hepatitis"
+        },
+        {
+          "label": "C",
+          "text": "Crigler-Najjar syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Dubin-Johnson syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Rotor syndrome"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Crigler-Najjar is a defect of conjugation, so its hyperbilirubinaemia is unconjugated.",
+      "topicId": "haem",
+      "subtopic": "Bilirubin disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem2-ex-05",
+      "type": "single-best",
+      "stem": "All of the following precipitate an acute porphyria attack EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "prolonged fasting"
+        },
+        {
+          "label": "B",
+          "text": "heavy alcohol use"
+        },
+        {
+          "label": "C",
+          "text": "certain steroid hormones"
+        },
+        {
+          "label": "D",
+          "text": "a high glucose intake"
+        },
+        {
+          "label": "E",
+          "text": "barbiturate drugs"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Glucose loading suppresses ALA synthase and relieves attacks.",
+      "topicId": "haem",
+      "subtopic": "Porphyrias",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem2-ex-06",
+      "type": "single-best",
+      "stem": "All of the following are true of lead poisoning EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "inhibition of ALA dehydratase"
+        },
+        {
+          "label": "B",
+          "text": "basophilic stippling of red cells"
+        },
+        {
+          "label": "C",
+          "text": "raised urinary ALA"
+        },
+        {
+          "label": "D",
+          "text": "a hypochromic anaemia"
+        },
+        {
+          "label": "E",
+          "text": "a raised blood haemoglobin level"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Lead impairs haem synthesis and causes anaemia, so haemoglobin falls.",
+      "topicId": "haem",
+      "subtopic": "Lead poisoning",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem2-sba-01",
+      "type": "single-best",
+      "stem": "The enzyme that condenses two molecules of ALA into porphobilinogen is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "ALA dehydratase"
+        },
+        {
+          "label": "B",
+          "text": "ALA synthase"
+        },
+        {
+          "label": "C",
+          "text": "PBG deaminase"
+        },
+        {
+          "label": "D",
+          "text": "uroporphyrinogen III synthase"
+        },
+        {
+          "label": "E",
+          "text": "ferrochelatase enzyme"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "ALA dehydratase (PBG synthase) joins two ALA to form porphobilinogen.",
+      "topicId": "haem",
+      "subtopic": "Haem synthesis steps",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem2-sba-02",
+      "type": "single-best",
+      "stem": "Ring closure to form uroporphyrinogen III is catalysed by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "ALA dehydratase enzyme"
+        },
+        {
+          "label": "B",
+          "text": "uroporphyrinogen III synthase"
+        },
+        {
+          "label": "C",
+          "text": "PBG deaminase enzyme"
+        },
+        {
+          "label": "D",
+          "text": "uroporphyrinogen decarboxylase"
+        },
+        {
+          "label": "E",
+          "text": "coproporphyrinogen oxidase"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Uroporphyrinogen III synthase closes and flips the ring to give the III isomer.",
+      "topicId": "haem",
+      "subtopic": "Haem synthesis steps",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem2-sba-03",
+      "type": "single-best",
+      "stem": "The haem-synthesis enzyme deficient in variegate porphyria is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "PBG deaminase enzyme"
+        },
+        {
+          "label": "B",
+          "text": "uroporphyrinogen decarboxylase"
+        },
+        {
+          "label": "C",
+          "text": "protoporphyrinogen oxidase"
+        },
+        {
+          "label": "D",
+          "text": "coproporphyrinogen oxidase"
+        },
+        {
+          "label": "E",
+          "text": "ferrochelatase enzyme"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Variegate porphyria is protoporphyrinogen oxidase deficiency.",
+      "topicId": "haem",
+      "subtopic": "Porphyrias",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem2-sba-04",
+      "type": "single-best",
+      "stem": "The enzyme deficient in hereditary coproporphyria is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "ferrochelatase enzyme"
+        },
+        {
+          "label": "B",
+          "text": "uroporphyrinogen III synthase"
+        },
+        {
+          "label": "C",
+          "text": "ALA dehydratase enzyme"
+        },
+        {
+          "label": "D",
+          "text": "coproporphyrinogen oxidase"
+        },
+        {
+          "label": "E",
+          "text": "protoporphyrinogen oxidase"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Hereditary coproporphyria is coproporphyrinogen oxidase deficiency.",
+      "topicId": "haem",
+      "subtopic": "Porphyrias",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem2-sba-05",
+      "type": "single-best",
+      "stem": "The enzyme deficient in congenital erythropoietic porphyria is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "uroporphyrinogen decarboxylase"
+        },
+        {
+          "label": "B",
+          "text": "PBG deaminase enzyme"
+        },
+        {
+          "label": "C",
+          "text": "ferrochelatase enzyme"
+        },
+        {
+          "label": "D",
+          "text": "coproporphyrinogen oxidase"
+        },
+        {
+          "label": "E",
+          "text": "uroporphyrinogen III synthase"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "CEP is uroporphyrinogen III synthase deficiency.",
+      "topicId": "haem",
+      "subtopic": "Porphyrias",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem2-sba-06",
+      "type": "single-best",
+      "stem": "The enzyme deficient in erythropoietic protoporphyria is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "ferrochelatase"
+        },
+        {
+          "label": "B",
+          "text": "protoporphyrinogen oxidase"
+        },
+        {
+          "label": "C",
+          "text": "coproporphyrinogen oxidase"
+        },
+        {
+          "label": "D",
+          "text": "PBG deaminase enzyme"
+        },
+        {
+          "label": "E",
+          "text": "ALA synthase enzyme"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Erythropoietic protoporphyria is ferrochelatase deficiency.",
+      "topicId": "haem",
+      "subtopic": "Porphyrias",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem2-sba-07",
+      "type": "single-best",
+      "stem": "The erythroid form of ALA synthase (ALAS2) is regulated mainly by cellular:",
+      "options": [
+        {
+          "label": "A",
+          "text": "calcium"
+        },
+        {
+          "label": "B",
+          "text": "iron"
+        },
+        {
+          "label": "C",
+          "text": "glucose"
+        },
+        {
+          "label": "D",
+          "text": "oxygen"
+        },
+        {
+          "label": "E",
+          "text": "copper"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "ALAS2 is controlled by iron through an iron-responsive element.",
+      "topicId": "haem",
+      "subtopic": "Haem regulation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem2-sba-08",
+      "type": "single-best",
+      "stem": "A loss-of-function mutation in erythroid ALA synthase (ALAS2) causes:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gilbert syndrome type"
+        },
+        {
+          "label": "B",
+          "text": "hereditary spherocytosis"
+        },
+        {
+          "label": "C",
+          "text": "X-linked sideroblastic anaemia"
+        },
+        {
+          "label": "D",
+          "text": "acute intermittent porphyria"
+        },
+        {
+          "label": "E",
+          "text": "porphyria cutanea tarda"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "ALAS2 deficiency impairs erythroid haem synthesis, giving X-linked sideroblastic anaemia.",
+      "topicId": "haem",
+      "subtopic": "Haem regulation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem2-sba-09",
+      "type": "single-best",
+      "stem": "Biliverdin is reduced to bilirubin by biliverdin reductase using:",
+      "options": [
+        {
+          "label": "A",
+          "text": "FAD"
+        },
+        {
+          "label": "B",
+          "text": "FMN"
+        },
+        {
+          "label": "C",
+          "text": "ATP"
+        },
+        {
+          "label": "D",
+          "text": "NADPH"
+        },
+        {
+          "label": "E",
+          "text": "NADH"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Biliverdin reductase uses NADPH as the reductant.",
+      "topicId": "haem",
+      "subtopic": "Haem catabolism steps",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem2-sba-10",
+      "type": "single-best",
+      "stem": "In the van den Bergh reaction, the direct-reacting fraction corresponds to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "unconjugated bilirubin"
+        },
+        {
+          "label": "B",
+          "text": "biliverdin pigment"
+        },
+        {
+          "label": "C",
+          "text": "urobilinogen"
+        },
+        {
+          "label": "D",
+          "text": "albumin-bound bilirubin"
+        },
+        {
+          "label": "E",
+          "text": "conjugated bilirubin"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The direct fraction is conjugated (water-soluble) bilirubin.",
+      "topicId": "haem",
+      "subtopic": "Bilirubin disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem2-sba-11",
+      "type": "single-best",
+      "stem": "The transporter that is defective in Dubin-Johnson syndrome is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "the canalicular MRP2 transporter"
+        },
+        {
+          "label": "B",
+          "text": "UDP-glucuronyl transferase"
+        },
+        {
+          "label": "C",
+          "text": "the hepatic uptake transporter"
+        },
+        {
+          "label": "D",
+          "text": "the bile salt export pump"
+        },
+        {
+          "label": "E",
+          "text": "the sodium-bile cotransporter"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Dubin-Johnson is a defect of the canalicular MRP2 export pump for conjugated bilirubin.",
+      "topicId": "haem",
+      "subtopic": "Bilirubin disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem2-sba-12",
+      "type": "single-best",
+      "stem": "Crigler-Najjar syndrome type I is characterised by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "an excessive rate of red-cell haemolysis"
+        },
+        {
+          "label": "B",
+          "text": "complete absence of UDP-glucuronyl transferase"
+        },
+        {
+          "label": "C",
+          "text": "a mildly reduced level of the transferase"
+        },
+        {
+          "label": "D",
+          "text": "a canalicular bilirubin excretion defect"
+        },
+        {
+          "label": "E",
+          "text": "a defect of hepatic bilirubin uptake"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Type I has no UGT activity, giving severe unconjugated hyperbilirubinaemia and kernicterus.",
+      "topicId": "haem",
+      "subtopic": "Bilirubin disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem2-sba-13",
+      "type": "single-best",
+      "stem": "In haemolytic (prehepatic) jaundice, the urine typically shows:",
+      "options": [
+        {
+          "label": "A",
+          "text": "neither bilirubin nor urobilinogen"
+        },
+        {
+          "label": "B",
+          "text": "only conjugated bilirubin present"
+        },
+        {
+          "label": "C",
+          "text": "raised urobilinogen but no bilirubin"
+        },
+        {
+          "label": "D",
+          "text": "raised bilirubin but no urobilinogen"
+        },
+        {
+          "label": "E",
+          "text": "both bilirubin and urobilinogen raised"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Excess unconjugated bilirubin is not filtered, but extra urobilinogen reaches the urine.",
+      "topicId": "haem",
+      "subtopic": "Jaundice patterns",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem2-sba-14",
+      "type": "single-best",
+      "stem": "Pale clay-coloured stools with dark urine are most typical of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gilbert syndrome type"
+        },
+        {
+          "label": "B",
+          "text": "physiological neonatal jaundice"
+        },
+        {
+          "label": "C",
+          "text": "hereditary spherocytosis"
+        },
+        {
+          "label": "D",
+          "text": "obstructive (post-hepatic) jaundice"
+        },
+        {
+          "label": "E",
+          "text": "haemolytic (prehepatic) jaundice"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Blocked bile flow gives pale stools and dark (conjugated bilirubin) urine.",
+      "topicId": "haem",
+      "subtopic": "Jaundice patterns",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem2-sba-15",
+      "type": "single-best",
+      "stem": "The pigment that gives the faeces their normal brown colour is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "urobilinogen"
+        },
+        {
+          "label": "B",
+          "text": "biliverdin"
+        },
+        {
+          "label": "C",
+          "text": "bilirubin"
+        },
+        {
+          "label": "D",
+          "text": "haemin"
+        },
+        {
+          "label": "E",
+          "text": "stercobilin"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Stercobilin, formed from urobilinogen in the gut, colours the faeces.",
+      "topicId": "haem",
+      "subtopic": "Haem catabolism steps",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem2-sba-16",
+      "type": "single-best",
+      "stem": "Blue-light phototherapy for neonatal jaundice works by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "converting bilirubin to water-soluble isomers"
+        },
+        {
+          "label": "B",
+          "text": "inducing UDP-glucuronyl transferase"
+        },
+        {
+          "label": "C",
+          "text": "speeding up red-cell breakdown"
+        },
+        {
+          "label": "D",
+          "text": "increasing albumin binding of bilirubin"
+        },
+        {
+          "label": "E",
+          "text": "blocking the enzyme haem oxygenase"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Light isomerises bilirubin to water-soluble forms excreted without conjugation.",
+      "topicId": "haem",
+      "subtopic": "Jaundice patterns",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem2-sba-17",
+      "type": "single-best",
+      "stem": "Coarse basophilic stippling of red cells is characteristically seen in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "sickle cell disease"
+        },
+        {
+          "label": "B",
+          "text": "lead poisoning"
+        },
+        {
+          "label": "C",
+          "text": "iron deficiency anaemia"
+        },
+        {
+          "label": "D",
+          "text": "folate deficiency anaemia"
+        },
+        {
+          "label": "E",
+          "text": "G6PD deficiency"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Lead inhibits pyrimidine 5'-nucleotidase, leaving stippled ribosomal remnants.",
+      "topicId": "haem",
+      "subtopic": "Lead poisoning",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-haem2-sba-18",
+      "type": "single-best",
+      "stem": "A severe acute intermittent porphyria attack is best treated with intravenous:",
+      "options": [
+        {
+          "label": "A",
+          "text": "high-dose folic acid"
+        },
+        {
+          "label": "B",
+          "text": "intravenous ascorbic acid"
+        },
+        {
+          "label": "C",
+          "text": "haem arginate (haemin)"
+        },
+        {
+          "label": "D",
+          "text": "iron dextran infusion"
+        },
+        {
+          "label": "E",
+          "text": "a vitamin B12 injection"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Haem arginate replenishes the haem pool and feedback-inhibits ALA synthase.",
+      "topicId": "haem",
+      "subtopic": "Porphyrias",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb2-ar-01",
+      "type": "single-best",
+      "stem": "Assertion: Red cells sickle in sickle-cell disease when the oxygen tension falls.\nReason: Deoxygenated haemoglobin S polymerises into rigid fibres that distort the cell.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "HbS polymerisation on deoxygenation is exactly what deforms the cell into a sickle.",
+      "topicId": "haemoglobin",
+      "subtopic": "Haemoglobinopathies",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-ar-02",
+      "type": "single-best",
+      "stem": "Assertion: Sickle-cell trait gives some protection against falciparum malaria.\nReason: Parasitised trait cells tend to sickle and are removed, limiting parasite growth.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "Preferential sickling and clearance of infected cells is the basis of malaria protection.",
+      "topicId": "haemoglobin",
+      "subtopic": "Haemoglobinopathies",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-ar-03",
+      "type": "single-best",
+      "stem": "Assertion: Methaemoglobinaemia produces cyanosis that does not improve with oxygen.\nReason: Ferric (Fe3+) methaemoglobin is unable to bind oxygen.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "Because the ferric haem cannot carry O2, giving oxygen does not relieve the cyanosis.",
+      "topicId": "haemoglobin",
+      "subtopic": "Methaemoglobin",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-ar-04",
+      "type": "single-best",
+      "stem": "Assertion: Hydroxyurea reduces the frequency of sickle-cell crises.\nReason: It raises fetal haemoglobin (HbF), which interferes with HbS polymerisation.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "Raising HbF to block HbS polymerisation is how hydroxyurea works.",
+      "topicId": "haemoglobin",
+      "subtopic": "Haemoglobinopathies",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-ar-05",
+      "type": "single-best",
+      "stem": "Assertion: Carbon monoxide poisoning shifts the oxygen dissociation curve to the left.\nReason: Haemoglobin A is a tetramer of two alpha and two beta chains.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "Both are true, but the subunit composition does not explain the curve shift.",
+      "topicId": "haemoglobin",
+      "subtopic": "Carboxyhaemoglobin",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-ar-06",
+      "type": "single-best",
+      "stem": "Assertion: HbA1c reflects average blood glucose over the preceding weeks.\nReason: Methaemoglobin contains iron in the ferric state.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "Both statements are true but unrelated, so one cannot explain the other.",
+      "topicId": "haemoglobin",
+      "subtopic": "Clinical haemoglobin",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-ar-07",
+      "type": "single-best",
+      "stem": "Assertion: Sickle-cell disease arises from a single amino-acid substitution in the beta chain.\nReason: Valine at position 6 is replaced by glutamate.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "A single substitution is right, but it is glutamate that is replaced BY valine, so the reason is reversed.",
+      "topicId": "haemoglobin",
+      "subtopic": "Haemoglobinopathies",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-ar-08",
+      "type": "single-best",
+      "stem": "Assertion: In carbon monoxide poisoning the blood and skin look cherry-red.\nReason: Carboxyhaemoglobin binds carbon monoxide far more weakly than it binds oxygen.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "The cherry-red colour is real, but CO binds about 200 times more tightly than O2, so the reason is false.",
+      "topicId": "haemoglobin",
+      "subtopic": "Carboxyhaemoglobin",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-ar-09",
+      "type": "single-best",
+      "stem": "Assertion: The Haldane effect is the enhanced carriage of CO2 by deoxygenated haemoglobin.\nReason: Oxygenation of haemoglobin increases its ability to bind CO2 and protons.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "The Haldane effect is correctly defined, but oxygenation DECREASES CO2/H+ binding, so the reason is false.",
+      "topicId": "haemoglobin",
+      "subtopic": "CO2 transport",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-ar-10",
+      "type": "single-best",
+      "stem": "Assertion: Most carbon dioxide is carried in blood bound directly to the haem iron.\nReason: The bulk of CO2 is transported as bicarbonate generated by carbonic anhydrase.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "CO2 is not carried on the haem iron (assertion false); the bicarbonate statement is true.",
+      "topicId": "haemoglobin",
+      "subtopic": "CO2 transport",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-ar-11",
+      "type": "single-best",
+      "stem": "Assertion: Acquired methaemoglobinaemia is treated with intravenous iron.\nReason: Methylene blue reduces methaemoglobin back to functional haemoglobin.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "The treatment is methylene blue, not iron (assertion false); the methylene-blue reason is true.",
+      "topicId": "haemoglobin",
+      "subtopic": "Methaemoglobin",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-ar-12",
+      "type": "single-best",
+      "stem": "Assertion: Fetal haemoglobin remains the major haemoglobin throughout the first years of life.\nReason: Fetal haemoglobin has the chain composition alpha-2 gamma-2.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "HbF is largely replaced by HbA within months of birth (assertion false); the composition is correct.",
+      "topicId": "haemoglobin",
+      "subtopic": "Developmental haemoglobin",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-ar-13",
+      "type": "single-best",
+      "stem": "Assertion: HbA1c is produced by enzymatic phosphorylation of haemoglobin.\nReason: It measures the blood glucose at the exact moment of sampling.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "HbA1c forms by NON-enzymatic glycation and reflects weeks of glycaemia, not the instant; both false.",
+      "topicId": "haemoglobin",
+      "subtopic": "Clinical haemoglobin",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-ar-14",
+      "type": "single-best",
+      "stem": "Assertion: The chloride (Hamburger) shift is chloride leaving the red cell as bicarbonate enters.\nReason: Carbonic anhydrase is absent from red blood cells.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "The shift is chloride entering as bicarbonate leaves, and red cells are rich in carbonic anhydrase; both false.",
+      "topicId": "haemoglobin",
+      "subtopic": "CO2 transport",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-k-01",
+      "type": "single-best",
+      "stem": "Features of sickle-cell disease include:\nI. a glutamate-to-valine change at position 6 of the beta chain\nII. polymerisation of HbS when deoxygenated\nIII. vaso-occlusive painful crises",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "All three are core features of sickle-cell disease.",
+      "topicId": "haemoglobin",
+      "subtopic": "Haemoglobinopathies",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-k-02",
+      "type": "single-best",
+      "stem": "Methaemoglobinaemia:\nI. contains iron in the ferric (Fe3+) state\nII. causes cyanosis unresponsive to oxygen\nIII. has a higher oxygen-carrying capacity than normal blood",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "I and II are true; methaemoglobin cannot carry oxygen, so III is false.",
+      "topicId": "haemoglobin",
+      "subtopic": "Methaemoglobin",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-k-03",
+      "type": "single-best",
+      "stem": "The Bohr and Haldane effects:\nI. are abolished in the normal adult\nII. mean deoxyhaemoglobin binds more CO2 and H+\nIII. help unload oxygen in tissues and load it in the lungs",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "II and III are true; the effects are normal physiology, so I is false.",
+      "topicId": "haemoglobin",
+      "subtopic": "CO2 transport",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-k-04",
+      "type": "single-best",
+      "stem": "Carbon dioxide is transported in the blood:\nI. mostly as bicarbonate\nII. mostly bound to the haem iron\nIII. partly as carbamino-haemoglobin",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "I and III are true; CO2 binds the globin amino groups, not the haem iron, so II is false.",
+      "topicId": "haemoglobin",
+      "subtopic": "CO2 transport",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-k-05",
+      "type": "single-best",
+      "stem": "Carbon monoxide poisoning:\nI. forms carboxyhaemoglobin\nII. shifts the oxygen dissociation curve to the right\nIII. lowers haemoglobin's affinity for oxygen",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "Only I is true; CO shifts the curve LEFT and raises O2 affinity of remaining sites.",
+      "topicId": "haemoglobin",
+      "subtopic": "Carboxyhaemoglobin",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-k-06",
+      "type": "single-best",
+      "stem": "Hydroxyurea in sickle-cell disease:\nI. raises the level of fetal haemoglobin\nII. reduces the frequency of painful crises\nIII. interferes with HbS polymerisation",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "All three describe how hydroxyurea helps.",
+      "topicId": "haemoglobin",
+      "subtopic": "Haemoglobinopathies",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-k-07",
+      "type": "single-best",
+      "stem": "Causes of ACQUIRED methaemoglobinaemia include:\nI. nitrites\nII. dapsone\nIII. an inherited deficiency of cytochrome b5 reductase",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "I and II are acquired causes; the enzyme deficiency is congenital, so III is false.",
+      "topicId": "haemoglobin",
+      "subtopic": "Methaemoglobin",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-k-08",
+      "type": "single-best",
+      "stem": "Haemoglobin A1c:\nI. is formed by an enzyme-catalysed reaction\nII. forms by non-enzymatic glycation of the beta chain\nIII. reflects average glucose over the preceding weeks",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "II and III are true; glycation is non-enzymatic, so I is false.",
+      "topicId": "haemoglobin",
+      "subtopic": "Clinical haemoglobin",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-k-09",
+      "type": "single-best",
+      "stem": "The chloride (Hamburger) shift:\nI. moves chloride into the red cell as bicarbonate leaves\nII. occurs without any carbonic anhydrase\nIII. helps the blood to carry carbon dioxide",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "I and III are true; it depends on carbonic anhydrase, so II is false.",
+      "topicId": "haemoglobin",
+      "subtopic": "CO2 transport",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-k-10",
+      "type": "single-best",
+      "stem": "Fetal haemoglobin (HbF):\nI. has the composition alpha-2 gamma-2\nII. remains the main haemoglobin throughout childhood\nIII. binds 2,3-BPG more avidly than HbA",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "Only I is true; HbF is replaced within months and binds BPG weakly.",
+      "topicId": "haemoglobin",
+      "subtopic": "Developmental haemoglobin",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-k-11",
+      "type": "single-best",
+      "stem": "The oxygen dissociation curve shifts to the RIGHT with:\nI. a rise in temperature\nII. a rise in 2,3-BPG\nIII. a fall in pH",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "All three lower oxygen affinity and shift the curve right.",
+      "topicId": "haemoglobin",
+      "subtopic": "CO2 transport",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-k-12",
+      "type": "single-best",
+      "stem": "In sickle-cell TRAIT:\nI. more than half of the haemoglobin is HbS\nII. the person is usually asymptomatic\nIII. there is relative protection against malaria",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "II and III are true; in trait HbA predominates (HbS <50%), so I is false.",
+      "topicId": "haemoglobin",
+      "subtopic": "Haemoglobinopathies",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-hb2-ex-01",
+      "type": "single-best",
+      "stem": "All of the following are true of sickle-cell disease EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "the trait protects against malaria"
+        },
+        {
+          "label": "B",
+          "text": "it is caused by a defect in the alpha-globin gene"
+        },
+        {
+          "label": "C",
+          "text": "HbS polymerises when deoxygenated"
+        },
+        {
+          "label": "D",
+          "text": "there is a glutamate-to-valine change at beta-6"
+        },
+        {
+          "label": "E",
+          "text": "it causes vaso-occlusive crises"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Sickle-cell disease is a beta-globin defect, not an alpha-globin one.",
+      "topicId": "haemoglobin",
+      "subtopic": "Haemoglobinopathies",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb2-ex-02",
+      "type": "single-best",
+      "stem": "All of the following cause ACQUIRED methaemoglobinaemia EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "sulfonamide antibiotics"
+        },
+        {
+          "label": "B",
+          "text": "exposure to aniline dyes"
+        },
+        {
+          "label": "C",
+          "text": "a congenital enzyme deficiency"
+        },
+        {
+          "label": "D",
+          "text": "ingestion of nitrites"
+        },
+        {
+          "label": "E",
+          "text": "treatment with dapsone"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Cytochrome b5 reductase deficiency is a congenital, not acquired, cause.",
+      "topicId": "haemoglobin",
+      "subtopic": "Methaemoglobin",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb2-ex-03",
+      "type": "single-best",
+      "stem": "All of the following are ways CO2 is carried in blood EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "as carbamino-haemoglobin"
+        },
+        {
+          "label": "B",
+          "text": "dissolved in the plasma"
+        },
+        {
+          "label": "C",
+          "text": "as carbonic acid molecules"
+        },
+        {
+          "label": "D",
+          "text": "bound to the haem iron"
+        },
+        {
+          "label": "E",
+          "text": "as plasma bicarbonate ions"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "CO2 binds globin amino groups (carbamino), not the haem iron, which carries O2.",
+      "topicId": "haemoglobin",
+      "subtopic": "CO2 transport",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb2-ex-04",
+      "type": "single-best",
+      "stem": "All of the following shift the oxygen dissociation curve to the RIGHT EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "a rise in temperature"
+        },
+        {
+          "label": "B",
+          "text": "a rise in 2,3-BPG"
+        },
+        {
+          "label": "C",
+          "text": "a fall in blood pH"
+        },
+        {
+          "label": "D",
+          "text": "a rise in pCO2"
+        },
+        {
+          "label": "E",
+          "text": "carbon monoxide"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Carbon monoxide shifts the curve to the LEFT, worsening oxygen delivery.",
+      "topicId": "haemoglobin",
+      "subtopic": "CO2 transport",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb2-ex-05",
+      "type": "single-best",
+      "stem": "All of the following are true of HbA1c EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "it is formed by an enzymatic reaction"
+        },
+        {
+          "label": "B",
+          "text": "it reflects glycaemia over weeks"
+        },
+        {
+          "label": "C",
+          "text": "it forms by glycation of the beta chain"
+        },
+        {
+          "label": "D",
+          "text": "it rises in poorly controlled diabetes"
+        },
+        {
+          "label": "E",
+          "text": "it is a non-enzymatic process"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "HbA1c forms by NON-enzymatic glycation, not an enzyme reaction.",
+      "topicId": "haemoglobin",
+      "subtopic": "Clinical haemoglobin",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb2-ex-06",
+      "type": "single-best",
+      "stem": "All of the following are normal (physiological) haemoglobins EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "embryonic haemoglobin"
+        },
+        {
+          "label": "B",
+          "text": "haemoglobin S"
+        },
+        {
+          "label": "C",
+          "text": "haemoglobin A (alpha-2 beta-2)"
+        },
+        {
+          "label": "D",
+          "text": "haemoglobin A2 (alpha-2 delta-2)"
+        },
+        {
+          "label": "E",
+          "text": "fetal haemoglobin (alpha-2 gamma-2)"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Haemoglobin S is an abnormal variant, not a normal physiological haemoglobin.",
+      "topicId": "haemoglobin",
+      "subtopic": "Developmental haemoglobin",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb2-sba-01",
+      "type": "single-best",
+      "stem": "In sickle-cell disease, the glutamate at position 6 of the beta chain is replaced by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "leucine"
+        },
+        {
+          "label": "B",
+          "text": "alanine"
+        },
+        {
+          "label": "C",
+          "text": "valine"
+        },
+        {
+          "label": "D",
+          "text": "lysine"
+        },
+        {
+          "label": "E",
+          "text": "glycine"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "HbS has valine substituted for glutamate at beta-6.",
+      "topicId": "haemoglobin",
+      "subtopic": "Haemoglobinopathies",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb2-sba-02",
+      "type": "single-best",
+      "stem": "Haemoglobin C arises from substitution at beta-6 of glutamate by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "glycine"
+        },
+        {
+          "label": "B",
+          "text": "serine"
+        },
+        {
+          "label": "C",
+          "text": "arginine"
+        },
+        {
+          "label": "D",
+          "text": "lysine"
+        },
+        {
+          "label": "E",
+          "text": "valine"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "HbC has lysine in place of glutamate at beta-6.",
+      "topicId": "haemoglobin",
+      "subtopic": "Haemoglobinopathies",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb2-sba-03",
+      "type": "single-best",
+      "stem": "Haemoglobin S polymerises and sickles the red cell when it is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "fully oxygenated"
+        },
+        {
+          "label": "B",
+          "text": "glycated by glucose"
+        },
+        {
+          "label": "C",
+          "text": "oxidised to the ferric form"
+        },
+        {
+          "label": "D",
+          "text": "bound to carbon monoxide"
+        },
+        {
+          "label": "E",
+          "text": "deoxygenated"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Deoxy-HbS polymerises into fibres that sickle the cell.",
+      "topicId": "haemoglobin",
+      "subtopic": "Haemoglobinopathies",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb2-sba-04",
+      "type": "single-best",
+      "stem": "The definitive test to identify and quantify abnormal haemoglobins is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "haemoglobin electrophoresis"
+        },
+        {
+          "label": "B",
+          "text": "a full blood count"
+        },
+        {
+          "label": "C",
+          "text": "the sickle solubility test"
+        },
+        {
+          "label": "D",
+          "text": "the serum ferritin level"
+        },
+        {
+          "label": "E",
+          "text": "a reticulocyte count"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Electrophoresis separates and quantifies the haemoglobin variants.",
+      "topicId": "haemoglobin",
+      "subtopic": "Haemoglobinopathies",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb2-sba-05",
+      "type": "single-best",
+      "stem": "Hydroxyurea helps sickle-cell patients chiefly by raising:",
+      "options": [
+        {
+          "label": "A",
+          "text": "the methaemoglobin level"
+        },
+        {
+          "label": "B",
+          "text": "fetal haemoglobin (HbF)"
+        },
+        {
+          "label": "C",
+          "text": "haemoglobin A level"
+        },
+        {
+          "label": "D",
+          "text": "haemoglobin A2 level"
+        },
+        {
+          "label": "E",
+          "text": "the 2,3-BPG level"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Raised HbF dilutes HbS and blocks its polymerisation.",
+      "topicId": "haemoglobin",
+      "subtopic": "Haemoglobinopathies",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb2-sba-06",
+      "type": "single-best",
+      "stem": "In methaemoglobinaemia the haem iron is in the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fe4+ oxidation state"
+        },
+        {
+          "label": "B",
+          "text": "fully reduced state"
+        },
+        {
+          "label": "C",
+          "text": "ferric (Fe3+) state"
+        },
+        {
+          "label": "D",
+          "text": "ferrous (Fe2+) state"
+        },
+        {
+          "label": "E",
+          "text": "free elemental state"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Methaemoglobin has oxidised ferric (Fe3+) iron that cannot bind O2.",
+      "topicId": "haemoglobin",
+      "subtopic": "Methaemoglobin",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb2-sba-07",
+      "type": "single-best",
+      "stem": "The enzyme deficient in congenital methaemoglobinaemia is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "the enzyme carbonic anhydrase"
+        },
+        {
+          "label": "B",
+          "text": "biliverdin reductase enzyme"
+        },
+        {
+          "label": "C",
+          "text": "the enzyme catalase"
+        },
+        {
+          "label": "D",
+          "text": "cytochrome b5 reductase"
+        },
+        {
+          "label": "E",
+          "text": "glucose-6-phosphate dehydrogenase"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Congenital methaemoglobinaemia is cytochrome b5 (methaemoglobin) reductase deficiency.",
+      "topicId": "haemoglobin",
+      "subtopic": "Methaemoglobin",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb2-sba-08",
+      "type": "single-best",
+      "stem": "Acquired methaemoglobinaemia is treated with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "oxygen alone"
+        },
+        {
+          "label": "B",
+          "text": "iron supplements"
+        },
+        {
+          "label": "C",
+          "text": "vitamin B12 doses"
+        },
+        {
+          "label": "D",
+          "text": "an exchange transfusion"
+        },
+        {
+          "label": "E",
+          "text": "methylene blue"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Methylene blue reduces methaemoglobin back to functional haemoglobin.",
+      "topicId": "haemoglobin",
+      "subtopic": "Methaemoglobin",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb2-sba-09",
+      "type": "single-best",
+      "stem": "In carbon monoxide poisoning the blood is classically:",
+      "options": [
+        {
+          "label": "A",
+          "text": "cherry-red"
+        },
+        {
+          "label": "B",
+          "text": "chocolate-brown"
+        },
+        {
+          "label": "C",
+          "text": "dark navy blue"
+        },
+        {
+          "label": "D",
+          "text": "pale pink"
+        },
+        {
+          "label": "E",
+          "text": "bright green"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Carboxyhaemoglobin gives the blood and skin a cherry-red colour.",
+      "topicId": "haemoglobin",
+      "subtopic": "Carboxyhaemoglobin",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb2-sba-10",
+      "type": "single-best",
+      "stem": "Besides blocking oxygen binding, carbon monoxide is harmful because it:",
+      "options": [
+        {
+          "label": "A",
+          "text": "raises the 2,3-BPG level"
+        },
+        {
+          "label": "B",
+          "text": "shifts the oxygen curve to the left"
+        },
+        {
+          "label": "C",
+          "text": "shifts the oxygen curve to the right"
+        },
+        {
+          "label": "D",
+          "text": "has no effect on the curve"
+        },
+        {
+          "label": "E",
+          "text": "lowers the blood pH directly"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "CO shifts the curve left, so the remaining oxygen is released less readily to tissues.",
+      "topicId": "haemoglobin",
+      "subtopic": "Carboxyhaemoglobin",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb2-sba-11",
+      "type": "single-best",
+      "stem": "Most carbon dioxide is transported in the blood as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "carbonic acid molecules"
+        },
+        {
+          "label": "B",
+          "text": "carbon monoxide gas"
+        },
+        {
+          "label": "C",
+          "text": "bicarbonate ions"
+        },
+        {
+          "label": "D",
+          "text": "carbamino-haemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "dissolved carbon dioxide"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "About 70% of CO2 travels as bicarbonate.",
+      "topicId": "haemoglobin",
+      "subtopic": "CO2 transport",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb2-sba-12",
+      "type": "single-best",
+      "stem": "The red-cell enzyme that hydrates CO2 to carbonic acid is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "carbamoyl synthetase"
+        },
+        {
+          "label": "B",
+          "text": "bicarbonate dehydrogenase"
+        },
+        {
+          "label": "C",
+          "text": "the enzyme catalase"
+        },
+        {
+          "label": "D",
+          "text": "carbonic anhydrase"
+        },
+        {
+          "label": "E",
+          "text": "carbonic reductase"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Carbonic anhydrase rapidly converts CO2 and water to carbonic acid.",
+      "topicId": "haemoglobin",
+      "subtopic": "CO2 transport",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb2-sba-13",
+      "type": "single-best",
+      "stem": "The Haldane effect states that:",
+      "options": [
+        {
+          "label": "A",
+          "text": "oxygenated blood carries more CO2"
+        },
+        {
+          "label": "B",
+          "text": "CO2 has no effect on oxygen binding"
+        },
+        {
+          "label": "C",
+          "text": "a low pH raises oxygen affinity"
+        },
+        {
+          "label": "D",
+          "text": "2,3-BPG binds oxyhaemoglobin tightly"
+        },
+        {
+          "label": "E",
+          "text": "deoxygenated blood carries more CO2"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Deoxyhaemoglobin binds CO2 and H+ more readily - the Haldane effect.",
+      "topicId": "haemoglobin",
+      "subtopic": "CO2 transport",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb2-sba-14",
+      "type": "single-best",
+      "stem": "The chloride (Hamburger) shift involves movement of chloride:",
+      "options": [
+        {
+          "label": "A",
+          "text": "into the red cell as bicarbonate leaves"
+        },
+        {
+          "label": "B",
+          "text": "out of the red cell as bicarbonate enters"
+        },
+        {
+          "label": "C",
+          "text": "into the plasma together with sodium"
+        },
+        {
+          "label": "D",
+          "text": "across the glomerular filter"
+        },
+        {
+          "label": "E",
+          "text": "into the mitochondrial matrix"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Chloride enters the red cell to balance bicarbonate leaving it.",
+      "topicId": "haemoglobin",
+      "subtopic": "CO2 transport",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb2-sba-15",
+      "type": "single-best",
+      "stem": "Adult haemoglobin A2 has the chain composition:",
+      "options": [
+        {
+          "label": "A",
+          "text": "a gamma-4 tetramer"
+        },
+        {
+          "label": "B",
+          "text": "alpha-2 delta-2"
+        },
+        {
+          "label": "C",
+          "text": "alpha-2 beta-2"
+        },
+        {
+          "label": "D",
+          "text": "alpha-2 gamma-2"
+        },
+        {
+          "label": "E",
+          "text": "a beta-4 tetramer"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "HbA2 is two alpha and two delta chains.",
+      "topicId": "haemoglobin",
+      "subtopic": "Developmental haemoglobin",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb2-sba-16",
+      "type": "single-best",
+      "stem": "HbA1c is formed by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "binding of 2,3-BPG to haemoglobin"
+        },
+        {
+          "label": "B",
+          "text": "conjugation of haemoglobin with glucuronate"
+        },
+        {
+          "label": "C",
+          "text": "non-enzymatic glycation of haemoglobin"
+        },
+        {
+          "label": "D",
+          "text": "enzymatic phosphorylation of haemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "oxidation of the haem iron"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Glucose adds non-enzymatically to haemoglobin to form HbA1c.",
+      "topicId": "haemoglobin",
+      "subtopic": "Clinical haemoglobin",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-hb2-sba-17",
+      "type": "single-best",
+      "stem": "Massive release of myoglobin into the urine (myoglobinuria) after muscle breakdown can cause:",
+      "options": [
+        {
+          "label": "A",
+          "text": "methaemoglobinaemia"
+        },
+        {
+          "label": "B",
+          "text": "obstructive jaundice"
+        },
+        {
+          "label": "C",
+          "text": "intravascular haemolysis"
+        },
+        {
+          "label": "D",
+          "text": "acute kidney injury"
+        },
+        {
+          "label": "E",
+          "text": "central cyanosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Myoglobin is nephrotoxic and can precipitate acute kidney injury in rhabdomyolysis.",
+      "topicId": "haemoglobin",
+      "subtopic": "Oxygen carriers",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem2-ar-01",
+      "type": "single-best",
+      "stem": "Assertion: Tay-Sachs disease causes a cherry-red spot at the macula.\nReason: Hexosaminidase A deficiency lets GM2 ganglioside accumulate in retinal ganglion cells.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "Ganglioside build-up in the retinal ganglion cells is exactly what produces the cherry-red spot.",
+      "topicId": "iem",
+      "subtopic": "Lysosomal storage",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem2-ar-02",
+      "type": "single-best",
+      "stem": "Assertion: Lesch-Nyhan syndrome causes hyperuricaemia.\nReason: HGPRT deficiency blocks purine salvage, so purines are degraded to uric acid.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "Loss of salvage diverting purines to uric acid is why urate rises.",
+      "topicId": "iem",
+      "subtopic": "Purine disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem2-ar-03",
+      "type": "single-best",
+      "stem": "Assertion: Wilson's disease can be treated with penicillamine.\nReason: Penicillamine chelates the copper that accumulates in the tissues.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "Copper chelation is exactly how penicillamine treats Wilson's disease.",
+      "topicId": "iem",
+      "subtopic": "Metal transport",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem2-ar-04",
+      "type": "single-best",
+      "stem": "Assertion: Hurler syndrome is a mucopolysaccharidosis.\nReason: Tay-Sachs disease is a sphingolipidosis.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "Both classifications are correct but concern different diseases, so one does not explain the other.",
+      "topicId": "iem",
+      "subtopic": "Lysosomal storage",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem2-ar-05",
+      "type": "single-best",
+      "stem": "Assertion: McArdle disease causes exercise intolerance.\nReason: Von Gierke disease causes fasting hypoglycaemia.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "Both are true glycogen-storage facts but about different diseases, so one cannot explain the other.",
+      "topicId": "iem",
+      "subtopic": "Glycogen storage",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem2-ar-06",
+      "type": "single-best",
+      "stem": "Assertion: Hunter syndrome is inherited in an X-linked manner.\nReason: It is caused by a deficiency of alpha-L-iduronidase.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "Hunter is X-linked, but its enzyme is iduronate-2-sulfatase; alpha-L-iduronidase is Hurler, so the reason is false.",
+      "topicId": "iem",
+      "subtopic": "Lysosomal storage",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem2-ar-07",
+      "type": "single-best",
+      "stem": "Assertion: Lesch-Nyhan syndrome is X-linked.\nReason: It is due to a deficiency of adenosine deaminase.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "It is X-linked, but the deficient enzyme is HGPRT; adenosine deaminase deficiency causes SCID, so the reason is false.",
+      "topicId": "iem",
+      "subtopic": "Purine disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem2-ar-08",
+      "type": "single-best",
+      "stem": "Assertion: Wilson's disease is associated with Kayser-Fleischer rings.\nReason: It is caused by excessive intestinal absorption of iron.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "The rings are correct, but Wilson's is copper (not iron) overload, so the reason is false.",
+      "topicId": "iem",
+      "subtopic": "Metal transport",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem2-ar-09",
+      "type": "single-best",
+      "stem": "Assertion: McArdle disease is due to a deficiency of liver glycogen phosphorylase.\nReason: Deficiency of muscle glycogen phosphorylase impairs glycogen breakdown during exercise.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "McArdle affects MUSCLE phosphorylase (assertion names liver - false); the muscle statement is true.",
+      "topicId": "iem",
+      "subtopic": "Glycogen storage",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem2-ar-10",
+      "type": "single-best",
+      "stem": "Assertion: Fabry disease is inherited in an autosomal recessive manner.\nReason: It results from a deficiency of alpha-galactosidase A.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "Fabry is X-linked (assertion false); the enzyme named is correct.",
+      "topicId": "iem",
+      "subtopic": "Lysosomal storage",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem2-ar-11",
+      "type": "single-best",
+      "stem": "Assertion: Von Gierke disease is a lysosomal storage disorder treated by enzyme replacement.\nReason: Its enzyme, glucose-6-phosphatase, lies within the lysosome.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "Von Gierke is a cytoplasmic/ER glucose-6-phosphatase defect, not a lysosomal disease; both statements are false.",
+      "topicId": "iem",
+      "subtopic": "Glycogen storage",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem2-ar-12",
+      "type": "single-best",
+      "stem": "Assertion: Essential fructosuria is a serious disease needing urgent treatment.\nReason: It is caused by a deficiency of aldolase B.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "Essential fructosuria is benign and due to FRUCTOKINASE deficiency (aldolase B is HFI); both false.",
+      "topicId": "iem",
+      "subtopic": "Carbohydrate disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem2-k-01",
+      "type": "single-best",
+      "stem": "Lysosomal storage diseases include:\nI. Tay-Sachs disease\nII. Gaucher disease\nIII. Hurler syndrome",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "All three are lysosomal storage disorders.",
+      "topicId": "iem",
+      "subtopic": "Lysosomal storage",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem2-k-02",
+      "type": "single-best",
+      "stem": "Tay-Sachs disease:\nI. is due to hexosaminidase A deficiency\nII. causes a cherry-red macular spot\nIII. causes gross hepatosplenomegaly",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "I and II are true; Tay-Sachs has NO organomegaly, so III is false.",
+      "topicId": "iem",
+      "subtopic": "Lysosomal storage",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem2-k-03",
+      "type": "single-best",
+      "stem": "Lesch-Nyhan syndrome:\nI. is autosomal recessive\nII. is due to HGPRT deficiency\nIII. causes hyperuricaemia and self-mutilation",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "II and III are true; it is X-linked, so I is false.",
+      "topicId": "iem",
+      "subtopic": "Purine disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem2-k-04",
+      "type": "single-best",
+      "stem": "McArdle disease (glycogen storage disease type V):\nI. affects muscle glycogen phosphorylase\nII. causes fasting hypoglycaemia\nIII. presents with exercise intolerance and cramps",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "I and III are true; being a muscle disorder it does not cause hypoglycaemia, so II is false.",
+      "topicId": "iem",
+      "subtopic": "Glycogen storage",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem2-k-05",
+      "type": "single-best",
+      "stem": "Fabry disease:\nI. is due to alpha-galactosidase A deficiency\nII. is autosomal recessive\nIII. causes corneal clouding as its only feature",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "Only I is true; it is X-linked and a multisystem disorder.",
+      "topicId": "iem",
+      "subtopic": "Lysosomal storage",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem2-k-06",
+      "type": "single-best",
+      "stem": "Gaucher disease:\nI. is due to glucocerebrosidase deficiency\nII. causes hepatosplenomegaly\nIII. shows lipid-laden Gaucher cells",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "All three are characteristic of Gaucher disease.",
+      "topicId": "iem",
+      "subtopic": "Lysosomal storage",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem2-k-07",
+      "type": "single-best",
+      "stem": "Features distinguishing Hunter from Hurler syndrome include:\nI. Hunter is X-linked\nII. Hunter lacks corneal clouding\nIII. Hunter is due to alpha-L-iduronidase deficiency",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "B",
+      "lockOrder": true,
+      "why": "I and II are true; Hunter is iduronate-2-sulfatase deficiency, so III is false.",
+      "topicId": "iem",
+      "subtopic": "Lysosomal storage",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem2-k-08",
+      "type": "single-best",
+      "stem": "Wilson's disease:\nI. is a disorder of iron overload\nII. shows Kayser-Fleischer rings\nIII. has a low serum ceruloplasmin",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "II and III are true; it is COPPER overload, so I is false.",
+      "topicId": "iem",
+      "subtopic": "Metal transport",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem2-k-09",
+      "type": "single-best",
+      "stem": "Peroxisomal disorders:\nI. include Zellweger syndrome\nII. are due to lysosomal enzyme defects\nIII. include X-linked adrenoleukodystrophy with raised very-long-chain fatty acids",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "D",
+      "lockOrder": true,
+      "why": "I and III are true; the defect is peroxisomal, not lysosomal, so II is false.",
+      "topicId": "iem",
+      "subtopic": "Peroxisomal disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem2-k-10",
+      "type": "single-best",
+      "stem": "Von Gierke disease (glycogen storage disease type I):\nI. is due to glucose-6-phosphatase deficiency\nII. is a lysosomal storage disease\nIII. is treated by enzyme replacement therapy",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "E",
+      "lockOrder": true,
+      "why": "Only I is true; it is not lysosomal and is managed with diet, not enzyme replacement.",
+      "topicId": "iem",
+      "subtopic": "Glycogen storage",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem2-k-11",
+      "type": "single-best",
+      "stem": "Niemann-Pick disease:\nI. is due to sphingomyelinase deficiency\nII. causes hepatosplenomegaly\nIII. can show a cherry-red macular spot",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "A",
+      "lockOrder": true,
+      "why": "All three are features of Niemann-Pick disease.",
+      "topicId": "iem",
+      "subtopic": "Lysosomal storage",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem2-k-12",
+      "type": "single-best",
+      "stem": "In Lesch-Nyhan syndrome hyperuricaemia arises because:\nI. uric acid production is reduced\nII. purine salvage via HGPRT is lost\nIII. purines are instead degraded to uric acid",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "C",
+      "lockOrder": true,
+      "why": "II and III are true; urate production is increased, so I is false.",
+      "topicId": "iem",
+      "subtopic": "Purine disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-iem2-ex-01",
+      "type": "single-best",
+      "stem": "All of the following are lysosomal storage diseases EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tay-Sachs disease"
+        },
+        {
+          "label": "B",
+          "text": "Gaucher disease"
+        },
+        {
+          "label": "C",
+          "text": "Hurler syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Fabry disease"
+        },
+        {
+          "label": "E",
+          "text": "Von Gierke disease"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Von Gierke disease is a glycogen storage disease (glucose-6-phosphatase), not lysosomal.",
+      "topicId": "iem",
+      "subtopic": "Lysosomal storage",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem2-ex-02",
+      "type": "single-best",
+      "stem": "All of the following are sphingolipidoses EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hurler syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Tay-Sachs disease"
+        },
+        {
+          "label": "C",
+          "text": "Gaucher disease"
+        },
+        {
+          "label": "D",
+          "text": "Niemann-Pick disease"
+        },
+        {
+          "label": "E",
+          "text": "Fabry disease"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Hurler is a mucopolysaccharidosis, not a sphingolipidosis.",
+      "topicId": "iem",
+      "subtopic": "Lysosomal storage",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem2-ex-03",
+      "type": "single-best",
+      "stem": "All of the following feature a cherry-red macular spot EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "GM1 gangliosidosis"
+        },
+        {
+          "label": "B",
+          "text": "Hurler syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Tay-Sachs disease"
+        },
+        {
+          "label": "D",
+          "text": "Niemann-Pick disease"
+        },
+        {
+          "label": "E",
+          "text": "Sandhoff disease"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Hurler shows corneal clouding, not a cherry-red spot.",
+      "topicId": "iem",
+      "subtopic": "Lysosomal storage",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem2-ex-04",
+      "type": "single-best",
+      "stem": "All of the following are X-linked EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lesch-Nyhan syndrome"
+        },
+        {
+          "label": "B",
+          "text": "ornithine transcarbamylase deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Gaucher disease"
+        },
+        {
+          "label": "D",
+          "text": "Fabry disease"
+        },
+        {
+          "label": "E",
+          "text": "Hunter syndrome"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Gaucher disease is autosomal recessive; the others are X-linked.",
+      "topicId": "iem",
+      "subtopic": "Lysosomal storage",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem2-ex-05",
+      "type": "single-best",
+      "stem": "All of the following are true of Wilson's disease EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kayser-Fleischer rings"
+        },
+        {
+          "label": "B",
+          "text": "treatment with penicillamine"
+        },
+        {
+          "label": "C",
+          "text": "a defect in the ATP7B gene"
+        },
+        {
+          "label": "D",
+          "text": "a raised serum ceruloplasmin"
+        },
+        {
+          "label": "E",
+          "text": "copper accumulation in tissues"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Serum ceruloplasmin is characteristically LOW in Wilson's disease.",
+      "topicId": "iem",
+      "subtopic": "Metal transport",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem2-ex-06",
+      "type": "single-best",
+      "stem": "All of the following are glycogen storage diseases EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Von Gierke disease"
+        },
+        {
+          "label": "B",
+          "text": "Pompe disease"
+        },
+        {
+          "label": "C",
+          "text": "McArdle disease"
+        },
+        {
+          "label": "D",
+          "text": "Cori disease"
+        },
+        {
+          "label": "E",
+          "text": "Tay-Sachs disease"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Tay-Sachs is a lysosomal sphingolipidosis, not a glycogen storage disease.",
+      "topicId": "iem",
+      "subtopic": "Glycogen storage",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem2-sba-01",
+      "type": "single-best",
+      "stem": "Tay-Sachs disease is caused by a deficiency of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "hexosaminidase A"
+        },
+        {
+          "label": "B",
+          "text": "glucocerebrosidase enzyme"
+        },
+        {
+          "label": "C",
+          "text": "sphingomyelinase enzyme"
+        },
+        {
+          "label": "D",
+          "text": "alpha-galactosidase A"
+        },
+        {
+          "label": "E",
+          "text": "arylsulfatase A enzyme"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Tay-Sachs is hexosaminidase A deficiency with GM2 accumulation.",
+      "topicId": "iem",
+      "subtopic": "Lysosomal storage",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem2-sba-02",
+      "type": "single-best",
+      "stem": "The lipid that accumulates in Tay-Sachs disease is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "sulfatide molecule"
+        },
+        {
+          "label": "B",
+          "text": "GM2 ganglioside"
+        },
+        {
+          "label": "C",
+          "text": "glucocerebroside lipid"
+        },
+        {
+          "label": "D",
+          "text": "sphingomyelin lipid"
+        },
+        {
+          "label": "E",
+          "text": "galactocerebroside lipid"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Loss of hexosaminidase A causes GM2 ganglioside accumulation.",
+      "topicId": "iem",
+      "subtopic": "Lysosomal storage",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem2-sba-03",
+      "type": "single-best",
+      "stem": "Gaucher disease, the commonest lysosomal storage disorder, is a deficiency of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "alpha-galactosidase A"
+        },
+        {
+          "label": "B",
+          "text": "iduronate sulfatase"
+        },
+        {
+          "label": "C",
+          "text": "glucocerebrosidase"
+        },
+        {
+          "label": "D",
+          "text": "hexosaminidase A"
+        },
+        {
+          "label": "E",
+          "text": "sphingomyelinase enzyme"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Gaucher disease is glucocerebrosidase deficiency.",
+      "topicId": "iem",
+      "subtopic": "Lysosomal storage",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem2-sba-04",
+      "type": "single-best",
+      "stem": "Niemann-Pick disease is caused by a deficiency of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "hexosaminidase A"
+        },
+        {
+          "label": "B",
+          "text": "alpha-galactosidase A"
+        },
+        {
+          "label": "C",
+          "text": "galactocerebrosidase"
+        },
+        {
+          "label": "D",
+          "text": "sphingomyelinase"
+        },
+        {
+          "label": "E",
+          "text": "glucocerebrosidase"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Niemann-Pick disease is sphingomyelinase deficiency.",
+      "topicId": "iem",
+      "subtopic": "Lysosomal storage",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem2-sba-05",
+      "type": "single-best",
+      "stem": "Fabry disease, an X-linked sphingolipidosis, is a deficiency of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "beta-galactosidase B"
+        },
+        {
+          "label": "B",
+          "text": "glucocerebrosidase enzyme"
+        },
+        {
+          "label": "C",
+          "text": "hexosaminidase A"
+        },
+        {
+          "label": "D",
+          "text": "iduronate sulfatase"
+        },
+        {
+          "label": "E",
+          "text": "alpha-galactosidase A"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Fabry disease is alpha-galactosidase A deficiency.",
+      "topicId": "iem",
+      "subtopic": "Lysosomal storage",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem2-sba-06",
+      "type": "single-best",
+      "stem": "Hurler syndrome is caused by a deficiency of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "alpha-L-iduronidase"
+        },
+        {
+          "label": "B",
+          "text": "iduronate-2-sulfatase"
+        },
+        {
+          "label": "C",
+          "text": "arylsulfatase A"
+        },
+        {
+          "label": "D",
+          "text": "hexosaminidase A"
+        },
+        {
+          "label": "E",
+          "text": "heparan-N-sulfatase"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Hurler syndrome is alpha-L-iduronidase deficiency.",
+      "topicId": "iem",
+      "subtopic": "Lysosomal storage",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem2-sba-07",
+      "type": "single-best",
+      "stem": "Hunter syndrome differs from Hurler in being X-linked and in lacking:",
+      "options": [
+        {
+          "label": "A",
+          "text": "glycosaminoglycan storage"
+        },
+        {
+          "label": "B",
+          "text": "corneal clouding"
+        },
+        {
+          "label": "C",
+          "text": "skeletal changes"
+        },
+        {
+          "label": "D",
+          "text": "organomegaly"
+        },
+        {
+          "label": "E",
+          "text": "intellectual disability"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Hunter syndrome characteristically spares the cornea (no clouding).",
+      "topicId": "iem",
+      "subtopic": "Lysosomal storage",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem2-sba-08",
+      "type": "single-best",
+      "stem": "Lesch-Nyhan syndrome results from a deficiency of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "PRPP synthetase enzyme"
+        },
+        {
+          "label": "B",
+          "text": "purine nucleoside phosphorylase"
+        },
+        {
+          "label": "C",
+          "text": "the enzyme HGPRT"
+        },
+        {
+          "label": "D",
+          "text": "adenosine deaminase"
+        },
+        {
+          "label": "E",
+          "text": "xanthine oxidase enzyme"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Lesch-Nyhan is HGPRT (purine salvage) deficiency.",
+      "topicId": "iem",
+      "subtopic": "Purine disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem2-sba-09",
+      "type": "single-best",
+      "stem": "A deficiency of adenosine deaminase classically causes:",
+      "options": [
+        {
+          "label": "A",
+          "text": "childhood gout and stones"
+        },
+        {
+          "label": "B",
+          "text": "hereditary orotic aciduria"
+        },
+        {
+          "label": "C",
+          "text": "Tay-Sachs disease in infancy"
+        },
+        {
+          "label": "D",
+          "text": "severe combined immunodeficiency"
+        },
+        {
+          "label": "E",
+          "text": "Lesch-Nyhan syndrome features"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Adenosine deaminase deficiency causes severe combined immunodeficiency.",
+      "topicId": "iem",
+      "subtopic": "Purine disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem2-sba-10",
+      "type": "single-best",
+      "stem": "Hereditary orotic aciduria is a disorder of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "purine salvage"
+        },
+        {
+          "label": "B",
+          "text": "purine degradation"
+        },
+        {
+          "label": "C",
+          "text": "the urea cycle"
+        },
+        {
+          "label": "D",
+          "text": "glycogen metabolism"
+        },
+        {
+          "label": "E",
+          "text": "pyrimidine synthesis"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Orotic aciduria is a defect of pyrimidine biosynthesis.",
+      "topicId": "iem",
+      "subtopic": "Purine disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem2-sba-11",
+      "type": "single-best",
+      "stem": "Wilson's disease is due to a mutation in the copper-transporting ATPase:",
+      "options": [
+        {
+          "label": "A",
+          "text": "ATP7B"
+        },
+        {
+          "label": "B",
+          "text": "ATP7A"
+        },
+        {
+          "label": "C",
+          "text": "the ceruloplasmin gene"
+        },
+        {
+          "label": "D",
+          "text": "the transferrin receptor"
+        },
+        {
+          "label": "E",
+          "text": "the DMT1 transporter"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Wilson's disease is caused by ATP7B mutations.",
+      "topicId": "iem",
+      "subtopic": "Metal transport",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem2-sba-12",
+      "type": "single-best",
+      "stem": "The copper-transport protein defective in Menkes disease is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "serum albumin"
+        },
+        {
+          "label": "B",
+          "text": "ATP7A"
+        },
+        {
+          "label": "C",
+          "text": "ATP7B"
+        },
+        {
+          "label": "D",
+          "text": "ceruloplasmin"
+        },
+        {
+          "label": "E",
+          "text": "metallothionein"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Menkes disease is an X-linked defect of the ATP7A copper transporter.",
+      "topicId": "iem",
+      "subtopic": "Metal transport",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem2-sba-13",
+      "type": "single-best",
+      "stem": "McArdle disease (glycogen storage disease type V) is a deficiency of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "the debranching enzyme"
+        },
+        {
+          "label": "B",
+          "text": "acid alpha-glucosidase"
+        },
+        {
+          "label": "C",
+          "text": "muscle glycogen phosphorylase"
+        },
+        {
+          "label": "D",
+          "text": "liver glycogen phosphorylase"
+        },
+        {
+          "label": "E",
+          "text": "glucose-6-phosphatase enzyme"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "McArdle disease is muscle glycogen phosphorylase (myophosphorylase) deficiency.",
+      "topicId": "iem",
+      "subtopic": "Glycogen storage",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem2-sba-14",
+      "type": "single-best",
+      "stem": "Zellweger syndrome is a disorder of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "mitochondrial DNA"
+        },
+        {
+          "label": "B",
+          "text": "the urea cycle"
+        },
+        {
+          "label": "C",
+          "text": "glycogen storage"
+        },
+        {
+          "label": "D",
+          "text": "peroxisome biogenesis"
+        },
+        {
+          "label": "E",
+          "text": "lysosomal enzymes"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Zellweger syndrome is a defect of peroxisome biogenesis.",
+      "topicId": "iem",
+      "subtopic": "Peroxisomal disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem2-sba-15",
+      "type": "single-best",
+      "stem": "X-linked adrenoleukodystrophy is characterised by accumulation of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "branched-chain amino acids"
+        },
+        {
+          "label": "B",
+          "text": "sphingomyelin lipid"
+        },
+        {
+          "label": "C",
+          "text": "glycosaminoglycans"
+        },
+        {
+          "label": "D",
+          "text": "uric acid crystals"
+        },
+        {
+          "label": "E",
+          "text": "very-long-chain fatty acids"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "X-ALD is a peroxisomal defect with very-long-chain fatty acid accumulation.",
+      "topicId": "iem",
+      "subtopic": "Peroxisomal disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem2-sba-16",
+      "type": "single-best",
+      "stem": "Most inborn errors are now detected on newborn screening by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "tandem mass spectrometry"
+        },
+        {
+          "label": "B",
+          "text": "a full blood count"
+        },
+        {
+          "label": "C",
+          "text": "plain radiography"
+        },
+        {
+          "label": "D",
+          "text": "the ferric chloride test"
+        },
+        {
+          "label": "E",
+          "text": "bacterial inhibition alone"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Tandem mass spectrometry screens for many disorders from one dried blood spot.",
+      "topicId": "iem",
+      "subtopic": "Principles",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-bio-iem2-sba-17",
+      "type": "single-best",
+      "stem": "Essential fructosuria, a benign condition, is caused by a deficiency of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "glucose-6-phosphatase"
+        },
+        {
+          "label": "B",
+          "text": "fructokinase"
+        },
+        {
+          "label": "C",
+          "text": "aldolase B enzyme"
+        },
+        {
+          "label": "D",
+          "text": "fructose bisphosphatase"
+        },
+        {
+          "label": "E",
+          "text": "galactokinase enzyme"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Essential fructosuria is harmless fructokinase deficiency (contrast aldolase B in HFI).",
+      "topicId": "iem",
+      "subtopic": "Carbohydrate disorders",
+      "difficulty": "medium"
     }
   ]
 }
