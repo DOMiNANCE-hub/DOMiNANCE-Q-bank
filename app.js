@@ -1,5 +1,5 @@
 /* DOMiNANCE Q Bank — single-page app (no build step).
-   Flow: Home → Year (→ Semester for HB1) → Course → Collection (topics) → Setup → Quiz → Results/Review. */
+   Flow: Home → Year (→ Semester for HB1) → Course (→ Semester for HB2 Biochemistry) → Collection (topics) → Setup → Quiz → Results/Review. */
 (function () {
   'use strict';
 
@@ -71,11 +71,13 @@
   /* ---------- catalog lookups ---------- */
   function yearById(id) { return S.catalog.years.find(y => y.id === id); }
   function coursesFor(year, sem) { return sem ? (sem.courses || []) : (year.courses || []); }
-  function courseKeyOf(r) { return r.year + (r.sem ? '.' + r.sem : '') + '/' + r.course; }
+  function courseKeyOf(r) { return r.year + (r.sem ? '.' + r.sem : '') + '/' + r.course + (r.courseSem ? '.' + r.courseSem : ''); }
   function baseHash(r, upto) {
     const parts = [r.year]; if (r.sem) parts.push(r.sem);
     if (upto === 'year') return '#/' + parts.join('/');
-    parts.push(r.course); if (upto === 'course') return '#/' + parts.join('/');
+    parts.push(r.course); if (upto === 'courseLanding') return '#/' + parts.join('/');
+    if (r.courseSem) parts.push(r.courseSem);
+    if (upto === 'course') return '#/' + parts.join('/');
     parts.push(r.coll); if (upto === 'topics') return '#/' + parts.join('/');
     if (upto === 'sys') return '#/' + parts.join('/') + '/' + r.sys;
     return '#/' + parts.join('/') + '/setup';
@@ -96,10 +98,19 @@
     const r = { year: year.id, view: 'year' };
     let i = 1;
     if (year.semesters) { if (!seg[1]) return r; r.sem = seg[1]; i = 2; r.view = 'sem'; }
-    if (seg[i]) { r.course = seg[i]; r.view = 'course'; }
-    if (seg[i + 1]) { r.coll = seg[i + 1] === 'curated' ? 'curated' : 'past'; r.view = 'topics'; }
-    if (seg[i + 2] === 'setup') r.view = 'setup';
-    else if (seg[i + 2]) r.sys = seg[i + 2];
+    if (seg[i]) {
+      r.course = seg[i++]; r.view = 'course';
+      const sem = r.sem ? (year.semesters || []).find(s => s.id === r.sem) : null;
+      const course = coursesFor(year, sem).find(c => c.id === r.course);
+      if (course && course.semesters) {
+        const courseSem = (course.semesters || []).find(s => s.id === seg[i]);
+        if (!courseSem) { r.view = 'courseSemesters'; return r; }
+        r.courseSem = courseSem.id; i++;
+      }
+    }
+    if (seg[i]) { r.coll = seg[i] === 'curated' ? 'curated' : 'past'; r.view = 'topics'; }
+    if (seg[i + 1] === 'setup') r.view = 'setup';
+    else if (seg[i + 1]) r.sys = seg[i + 1];
     return r;
   }
   function go(hash) { if (location.hash === hash) route(); else location.hash = hash; }
@@ -142,9 +153,11 @@
       const year = yearById(r.year), sem = r.sem ? (year.semesters || []).find(s => s.id === r.sem) : null;
       const course = coursesFor(year, sem).find(c => c.id === r.course);
       if (!course || course.status !== 'live') { go(baseHash(r, 'year')); return; }
-      if (!S.cache[courseKeyOf(r)] && !S_loading[courseKeyOf(r)] && S.prefetchTok) { S.prefetchTok.abort(); S.prefetchTok = null; } // your tap beats background preloading
-      if (!S.cache[courseKeyOf(r)]) $app.innerHTML = wrap(topbar() + '<div class="loading" role="status"><span class="spin" aria-hidden="true"></span>Loading ' + esc(course.title) + ' questions…</div>');
-      try { await loadCourseOnce(courseKeyOf(r), course); } catch (e) { $app.innerHTML = '<div class="wrap"><p class="banner">Questions could not load. Check your connection and refresh.</p></div>'; return; }
+      if (r.view !== 'courseSemesters') {
+        if (!S.cache[courseKeyOf(r)] && !S_loading[courseKeyOf(r)] && S.prefetchTok) { S.prefetchTok.abort(); S.prefetchTok = null; } // your tap beats background preloading
+        if (!S.cache[courseKeyOf(r)]) $app.innerHTML = wrap(topbar() + '<div class="loading" role="status"><span class="spin" aria-hidden="true"></span>Loading ' + esc(course.title) + ' questions…</div>');
+        try { await loadCourseOnce(courseKeyOf(r), course); } catch (e) { $app.innerHTML = '<div class="wrap"><p class="banner">Questions could not load. Check your connection and refresh.</p></div>'; return; }
+      }
     }
     if (r.view === 'quiz' && !S.attempt) { go('#/home'); return; }
     if ((r.view === 'results' || r.view === 'review') && !S.last) { go('#/home'); return; }
@@ -167,7 +180,7 @@
     const sems = r.sem ? [(year.semesters || []).find(s => s.id === r.sem)] : (year.semesters ? [] : [null]);
     // warm the cache quietly, one course at a time and at low priority, so a tap opens instantly
     const todo = [];
-    sems.forEach(sem => coursesFor(year, sem).filter(c => c.status === 'live').forEach(c => todo.push([courseKeyOf(Object.assign({}, r, { course: c.id })), c])));
+    sems.forEach(sem => coursesFor(year, sem).filter(c => c.status === 'live' && !c.semesters).forEach(c => todo.push([courseKeyOf(Object.assign({}, r, { course: c.id })), c])));
     const tok = S.prefetchTok = new AbortController();
     const next = () => { if (S.prefetchTok !== tok || tok.signal.aborted || !todo.length) return; const [k, c] = todo.shift(); loadCourseOnce(k, c, tok.signal).catch(() => {}).then(next); };
     setTimeout(next, 600);
@@ -267,7 +280,13 @@
     const year = yearById(r.year), out = [{ label: 'Home', href: '#/home' }, { label: year.title, href: '#/' + year.id }];
     if (r.sem) { const sem = year.semesters.find(s => s.id === r.sem); out.push({ label: sem ? sem.title : r.sem, href: '#/' + year.id + '/' + r.sem }); }
     if (upto === 'year' || upto === 'sem') return out;
-    const course = courseObj(r); out.push({ label: course.title, href: baseHash(r, 'course') });
+    const root = courseRootObj(r);
+    out.push({ label: root.title, href: baseHash(r, 'courseLanding') });
+    if (upto === 'courseLanding') return out;
+    if (r.courseSem) {
+      const sem = (root.semesters || []).find(s => s.id === r.courseSem);
+      out.push({ label: sem ? sem.title : r.courseSem, href: baseHash(r, 'course') });
+    }
     if (upto === 'course') return out;
     out.push({ label: COLL[r.coll], href: baseHash(r, 'topics') });
     if (upto === 'topics') return out;
@@ -275,7 +294,15 @@
     out.push({ label: 'Setup', href: baseHash(r, 'setup') });
     return out;
   }
-  function courseObj(r) { const y = yearById(r.year), sem = r.sem ? y.semesters.find(s => s.id === r.sem) : null; return coursesFor(y, sem).find(c => c.id === r.course); }
+  function courseRootObj(r) { const y = yearById(r.year), sem = r.sem ? y.semesters.find(s => s.id === r.sem) : null; return coursesFor(y, sem).find(c => c.id === r.course); }
+  function courseObj(r) {
+    const c = courseRootObj(r);
+    if (c && c.semesters && r.courseSem) {
+      const s = c.semesters.find(x => x.id === r.courseSem);
+      return s ? Object.assign({}, c, s, { title: c.title + ' · ' + s.title }) : c;
+    }
+    return c;
+  }
   function wrap(inner, foot) { return '<div class="wrap" id="main">' + inner + (foot ? '<p class="foot">DOMiNANCE · Understand • Practise • Master</p>' : '') + '</div>'; }
 
   /* ---------- saved quizzes (one per course) ---------- */
@@ -334,7 +361,7 @@
       const ico = emo(COURSEEMO[c.id] || pickEmo(c.title));
       if (c.status !== 'live') return '<div class="row soon" aria-disabled="true"><span class="ico">' + ico + '</span><span class="txt"><span class="t">' + esc(c.title) + '</span><span class="s">Coming soon</span></span></div>';
       const href = '#/' + r.year + (r.sem ? '/' + r.sem : '') + '/' + c.id;
-      const sys = (c.systems || []).map(s => s.title).join(', ');
+      const sys = c.semesters ? 'Choose a semester' : (c.systems || []).map(s => s.title).join(', ');
       return '<a class="row" href="' + href + '"><span class="ico">' + ico + '</span><span class="txt"><span class="t">' + esc(c.title) + '</span><span class="s">' + esc(sys) + '</span></span><span class="chev">' + I.chev + '</span></a>';
     }).join('') + '</div>';
   }
@@ -349,6 +376,14 @@
   function viewSem(r) {
     const y = yearById(r.year), sem = y.semesters.find(s => s.id === r.sem);
     return wrap(topbar() + crumbs(trail(r, 'sem')) + '<h1>' + esc(sem ? sem.title : '') + '</h1><p class="lead">Pick a course.</p>' + courseRows(r, sem ? sem.courses || [] : []));
+  }
+  function viewCourseSemesters(r) {
+    const c = courseRootObj(r);
+    const rows = (c.semesters || []).map(s => {
+      const href = baseHash(Object.assign({}, r, { courseSem: s.id }), 'course');
+      return '<a class="row" href="' + href + '"><span class="ico">' + I.cal + '</span><span class="txt"><span class="t">' + esc(s.title) + '</span><span class="s">' + esc(s.subtitle || 'Browse questions by topic') + '</span></span><span class="chev">' + I.chev + '</span></a>';
+    }).join('');
+    return wrap(topbar() + crumbs(trail(r, 'courseLanding')) + '<h1>' + esc(c.title) + '</h1><p class="lead">Choose a semester.</p><div class="list">' + rows + '</div>');
   }
   function viewCourse(r) {
     const d = currentData(), c = courseObj(r), ck = courseKeyOf(r);
@@ -436,7 +471,7 @@
     qids.forEach(id => { const q = d.byId[id]; const keys = q.opts.map(o => o.k); order[id] = q.lock ? keys : shuffle(keys); });
     const limit = st.timer === 'auto' ? qids.length * 60 : st.timer === 'custom' ? Math.max(1, parseInt(st.timerMin, 10) || 30) * 60 : null;
     return {
-      courseKey: courseKeyOf(r), courseTitle: c.title, route: { year: r.year, sem: r.sem || null, course: r.course, coll: r.coll },
+      courseKey: courseKeyOf(r), courseTitle: c.title, route: { year: r.year, sem: r.sem || null, course: r.course, courseSem: r.courseSem || null, coll: r.coll },
       coll: r.coll, label, settings: { marking: st.marking, markOn: st.markOn, xpo: !!st.xpo, timer: st.timer },
       qids, order, ans: {}, marked: {}, flags: {}, idx: 0, elapsed: 0, limit, warned: false, timeUp: false,
       streak: 0, best: 0, wrongRun: 0, markCount: 0, lastComment: -9, used: [], seen: {}, finished: false, started: Date.now()
@@ -865,6 +900,7 @@
       case 'home': html = viewHome(); break;
       case 'year': html = viewYear(r); break;
       case 'sem': html = viewSem(r); break;
+      case 'courseSemesters': html = viewCourseSemesters(r); break;
       case 'course': html = viewCourse(r); break;
       case 'topics': html = viewTopics(r); break;
       case 'setup': html = viewSetup(r); break;
@@ -916,8 +952,14 @@
       case 'resume': {
         const a = store.get(saveKey(el.dataset.k), null); if (!a) { render(); return; }
         const year = yearById(a.route.year), sem = a.route.sem ? year.semesters.find(s => s.id === a.route.sem) : null;
-        const course = coursesFor(year, sem).find(c => c.id === a.route.course);
-        loadCourse(a.courseKey, course).then(() => { a.qids = a.qids.filter(id => S.cache[a.courseKey].byId[id]); S.route = Object.assign({ view: 'setup' }, a.route); S.attempt = a; S.sheet = null; go('#/quiz'); });
+        const oldBioQuiz = a.route.course === 'biochemistry' && !a.route.courseSem;
+        // Older mixed Biochemistry quizzes remain resumable using the unchanged archive files.
+        const course = oldBioQuiz ? { title: 'Biochemistry', systems: [{
+          id: 'biochem', title: 'Metabolism, genetics and immunology',
+          topics: 'data/biochem/topics.json', past: ['data/biochem/past-questions.json'],
+          curated: ['data/biochem/biochem-curated.json']
+        }] } : courseObj(a.route);
+        loadCourse(a.courseKey, course).then(() => { a.qids = a.qids.filter(id => S.cache[a.courseKey].byId[id]); S.route = Object.assign({ view: 'setup' }, a.route); S.attempt = a; S.sheet = null; go('#/quiz'); }).catch(() => toast('Saved quiz could not load'));
         break;
       }
       case 'discard': store.del(saveKey(el.dataset.k)); toast('Saved quiz discarded'); render(); break;
