@@ -1922,6 +1922,2086 @@
       "topicId": "repro-female",
       "subtopic": "Menopause",
       "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-061",
+      "type": "single-best",
+      "stem": "A capacitated sperm binds the zona pellucida but cannot release acrosomal contents. Which step fails?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Penetration of the zona pellucida"
+        },
+        {
+          "label": "B",
+          "text": "Transport through the uterine tube"
+        },
+        {
+          "label": "C",
+          "text": "Fusion of the two pronuclei"
+        },
+        {
+          "label": "D",
+          "text": "Closure of the fetal shunts"
+        },
+        {
+          "label": "E",
+          "text": "Implantation into endometrium"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The acrosome reaction releases enzymes that facilitate penetration of the zona pellucida.",
+      "topicId": "repro-preg",
+      "subtopic": "Fertilization",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-062",
+      "type": "single-best",
+      "stem": "Which sperm change particularly helps it traverse the cumulus cell layer around the oocyte?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Completion of sperm meiosis"
+        },
+        {
+          "label": "B",
+          "text": "Hyperactivated flagellar motility"
+        },
+        {
+          "label": "C",
+          "text": "Loss of the acrosomal cap"
+        },
+        {
+          "label": "D",
+          "text": "Depolarization of the ovum"
+        },
+        {
+          "label": "E",
+          "text": "Division of the sperm nucleus"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Capacitated sperm display vigorous hyperactivated motility for penetration of egg investments.",
+      "topicId": "repro-preg",
+      "subtopic": "Fertilization",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-063",
+      "type": "single-best",
+      "stem": "The oocyte's cortical granules release their contents after sperm entry mainly to prevent what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Formation of the female pronucleus"
+        },
+        {
+          "label": "B",
+          "text": "Completion of meiosis II"
+        },
+        {
+          "label": "C",
+          "text": "Entry of additional spermatozoa"
+        },
+        {
+          "label": "D",
+          "text": "Implantation of the blastocyst"
+        },
+        {
+          "label": "E",
+          "text": "Migration of the first polar body"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The cortical reaction modifies the zona pellucida and prevents polyspermy.",
+      "topicId": "repro-preg",
+      "subtopic": "Fertilization",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-064",
+      "type": "single-best",
+      "stem": "What intracellular signal helps activate the secondary oocyte after sperm-egg fusion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A fall in intracellular calcium"
+        },
+        {
+          "label": "B",
+          "text": "A rise in cytosolic potassium"
+        },
+        {
+          "label": "C",
+          "text": "A fall in mitochondrial oxygen"
+        },
+        {
+          "label": "D",
+          "text": "A rise in cytosolic calcium"
+        },
+        {
+          "label": "E",
+          "text": "A rise in circulating TSH"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Sperm entry triggers calcium oscillations that promote oocyte activation and meiosis completion.",
+      "topicId": "repro-preg",
+      "subtopic": "Fertilization",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-065",
+      "type": "single-best",
+      "stem": "Which stage forms as cleavage produces a compact ball of blastomeres before a fluid cavity appears?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Blastocyst stage"
+        },
+        {
+          "label": "B",
+          "text": "Gastrula stage"
+        },
+        {
+          "label": "C",
+          "text": "Neurula stage"
+        },
+        {
+          "label": "D",
+          "text": "Implanted embryo"
+        },
+        {
+          "label": "E",
+          "text": "Morula stage"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The morula is a solid mass of cells that develops before the fluid-filled blastocyst.",
+      "topicId": "repro-preg",
+      "subtopic": "Early development",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-066",
+      "type": "single-best",
+      "stem": "In a blastocyst, which cell population mainly gives rise to the embryo proper?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inner cell mass"
+        },
+        {
+          "label": "B",
+          "text": "Syncytiotrophoblast"
+        },
+        {
+          "label": "C",
+          "text": "Cytotrophoblast"
+        },
+        {
+          "label": "D",
+          "text": "Maternal decidua"
+        },
+        {
+          "label": "E",
+          "text": "Uterine endometrium"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The embryoblast or inner cell mass develops into the embryo.",
+      "topicId": "repro-preg",
+      "subtopic": "Early development",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-067",
+      "type": "single-best",
+      "stem": "Which outer trophoblast layer actively invades maternal endometrium during implantation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inner cell mass"
+        },
+        {
+          "label": "B",
+          "text": "Syncytiotrophoblast"
+        },
+        {
+          "label": "C",
+          "text": "Epiblast layer"
+        },
+        {
+          "label": "D",
+          "text": "Amniotic epithelium"
+        },
+        {
+          "label": "E",
+          "text": "Ovarian granulosa"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Invasive syncytiotrophoblast penetrates decidual tissue to establish implantation.",
+      "topicId": "repro-preg",
+      "subtopic": "Implantation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-068",
+      "type": "single-best",
+      "stem": "Why do chorionic villi become increasingly effective sites of exchange during development?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maternal arteries enter fetal blood"
+        },
+        {
+          "label": "B",
+          "text": "The placenta loses trophoblast"
+        },
+        {
+          "label": "C",
+          "text": "Fetal vessels enter the villi"
+        },
+        {
+          "label": "D",
+          "text": "Oocytes enter placental tissue"
+        },
+        {
+          "label": "E",
+          "text": "Uterine glands stop all secretion"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Developing fetal capillaries approach maternal blood spaces across the placental barrier.",
+      "topicId": "repro-preg",
+      "subtopic": "Implantation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-069",
+      "type": "single-best",
+      "stem": "Which exchange normally crosses the placental membrane by facilitated transport rather than simple lipid diffusion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maternal-to-fetal oxygen transfer"
+        },
+        {
+          "label": "B",
+          "text": "Fetal-to-maternal carbon dioxide"
+        },
+        {
+          "label": "C",
+          "text": "Transfer of steroid hormones"
+        },
+        {
+          "label": "D",
+          "text": "Maternal-to-fetal glucose transfer"
+        },
+        {
+          "label": "E",
+          "text": "Passage of lipid-soluble gases"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Glucose enters fetal circulation largely through placental glucose transporters such as GLUT1.",
+      "topicId": "repro-preg",
+      "subtopic": "Placenta",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-070",
+      "type": "single-best",
+      "stem": "Which maternal antibody class normally crosses the placenta most efficiently?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Immunoglobulin M"
+        },
+        {
+          "label": "B",
+          "text": "Immunoglobulin A"
+        },
+        {
+          "label": "C",
+          "text": "Immunoglobulin D"
+        },
+        {
+          "label": "D",
+          "text": "Immunoglobulin E"
+        },
+        {
+          "label": "E",
+          "text": "Immunoglobulin G"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Fc receptor-mediated transfer of IgG provides passive fetal immunity.",
+      "topicId": "repro-preg",
+      "subtopic": "Placenta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-071",
+      "type": "single-best",
+      "stem": "How are the maternal and fetal circulations normally related inside a placental villus?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Separated by an exchange barrier"
+        },
+        {
+          "label": "B",
+          "text": "Mixed in the same capillaries"
+        },
+        {
+          "label": "C",
+          "text": "Connected by fetal venous valves"
+        },
+        {
+          "label": "D",
+          "text": "Merged within the decidua"
+        },
+        {
+          "label": "E",
+          "text": "Divided only by plasma proteins"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Maternal blood bathes villi while fetal blood remains within villous capillaries.",
+      "topicId": "repro-preg",
+      "subtopic": "Placenta",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-072",
+      "type": "single-best",
+      "stem": "Which placental cell layer produces most circulating maternal hCG?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cytotrophoblast only"
+        },
+        {
+          "label": "B",
+          "text": "Syncytiotrophoblast"
+        },
+        {
+          "label": "C",
+          "text": "Endometrial gland cells"
+        },
+        {
+          "label": "D",
+          "text": "Ovarian granulosa cells"
+        },
+        {
+          "label": "E",
+          "text": "Decidual stromal cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Syncytiotrophoblast secretes hCG into maternal blood.",
+      "topicId": "repro-preg",
+      "subtopic": "Placenta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-073",
+      "type": "single-best",
+      "stem": "In later pregnancy, placental lactogen helps spare maternal glucose for the fetus by doing what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increasing maternal glucose utilization"
+        },
+        {
+          "label": "B",
+          "text": "Suppressing maternal adipose lipolysis"
+        },
+        {
+          "label": "C",
+          "text": "Decreasing maternal insulin sensitivity"
+        },
+        {
+          "label": "D",
+          "text": "Blocking fetal glucose transport"
+        },
+        {
+          "label": "E",
+          "text": "Suppressing placental fatty acids"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Human placental lactogen promotes maternal insulin resistance and mobilization of fat.",
+      "topicId": "repro-preg",
+      "subtopic": "Pregnancy hormones",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-074",
+      "type": "single-best",
+      "stem": "Which placental steroid is particularly important for maintaining uterine quiescence?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Estradiol"
+        },
+        {
+          "label": "B",
+          "text": "Testosterone"
+        },
+        {
+          "label": "C",
+          "text": "Cortisol"
+        },
+        {
+          "label": "D",
+          "text": "Progesterone"
+        },
+        {
+          "label": "E",
+          "text": "Aldosterone"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Progesterone reduces myometrial excitability during much of gestation.",
+      "topicId": "repro-preg",
+      "subtopic": "Pregnancy hormones",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-075",
+      "type": "single-best",
+      "stem": "Near term, increased myometrial responsiveness to oxytocin is largely aided by what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reduced uterine gap junctions"
+        },
+        {
+          "label": "B",
+          "text": "Reduced estrogen receptor activity"
+        },
+        {
+          "label": "C",
+          "text": "Loss of uterine stretch sensitivity"
+        },
+        {
+          "label": "D",
+          "text": "Complete progesterone withdrawal"
+        },
+        {
+          "label": "E",
+          "text": "Increased oxytocin receptors"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "More oxytocin receptors and gap junctions promote coordinated strong uterine contractions.",
+      "topicId": "repro-preg",
+      "subtopic": "Pregnancy hormones",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-076",
+      "type": "single-best",
+      "stem": "Why can maternal circulating insulin rise during late normal pregnancy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Compensation for insulin resistance"
+        },
+        {
+          "label": "B",
+          "text": "Direct transfer of fetal insulin"
+        },
+        {
+          "label": "C",
+          "text": "Complete suppression of placental hPL"
+        },
+        {
+          "label": "D",
+          "text": "Loss of maternal pancreatic beta cells"
+        },
+        {
+          "label": "E",
+          "text": "Permanent reduction of maternal glucose"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Maternal beta cells compensate for placental-hormone-induced insulin resistance.",
+      "topicId": "repro-preg",
+      "subtopic": "Pregnancy hormones",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-077",
+      "type": "single-best",
+      "stem": "Why does maternal arterial carbon dioxide tension normally fall during pregnancy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Progesterone suppresses ventilation"
+        },
+        {
+          "label": "B",
+          "text": "Progesterone stimulates ventilation"
+        },
+        {
+          "label": "C",
+          "text": "Placenta blocks carbon dioxide removal"
+        },
+        {
+          "label": "D",
+          "text": "Maternal lung capacity is eliminated"
+        },
+        {
+          "label": "E",
+          "text": "Maternal haemoglobin has no CO2"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Progesterone increases respiratory drive, producing mild compensated respiratory alkalosis.",
+      "topicId": "repro-preg",
+      "subtopic": "Maternal changes",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-078",
+      "type": "single-best",
+      "stem": "Why does maternal cardiac output normally increase during pregnancy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lower blood volume and heart rate"
+        },
+        {
+          "label": "B",
+          "text": "Reduced uteroplacental blood demand"
+        },
+        {
+          "label": "C",
+          "text": "Higher stroke volume and heart rate"
+        },
+        {
+          "label": "D",
+          "text": "Loss of all peripheral vasodilation"
+        },
+        {
+          "label": "E",
+          "text": "Complete absence of sodium retention"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Plasma volume, heart rate and stroke volume rise to meet uteroplacental demands.",
+      "topicId": "repro-preg",
+      "subtopic": "Maternal changes",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-079",
+      "type": "single-best",
+      "stem": "A pregnant woman has reduced plasma albumin concentration despite increased total circulating albumin mass. Why?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Albumin is not made during gestation"
+        },
+        {
+          "label": "B",
+          "text": "Placenta removes all serum protein"
+        },
+        {
+          "label": "C",
+          "text": "Fetal liver produces maternal albumin"
+        },
+        {
+          "label": "D",
+          "text": "Plasma volume expands disproportionately"
+        },
+        {
+          "label": "E",
+          "text": "Maternal kidneys stop protein handling"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Haemodilution from plasma volume expansion lowers measured albumin concentration.",
+      "topicId": "repro-preg",
+      "subtopic": "Maternal changes",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-080",
+      "type": "single-best",
+      "stem": "Cervical pressure from the fetal head reinforces uterine contractions through which reflex?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Baroreceptor reflex"
+        },
+        {
+          "label": "B",
+          "text": "Pupillary light reflex"
+        },
+        {
+          "label": "C",
+          "text": "Micturition reflex"
+        },
+        {
+          "label": "D",
+          "text": "Vestibulo-ocular reflex"
+        },
+        {
+          "label": "E",
+          "text": "Ferguson reflex"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Cervical stretch increases oxytocin release through the Ferguson positive feedback reflex.",
+      "topicId": "repro-preg",
+      "subtopic": "Labour physiology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-081",
+      "type": "single-best",
+      "stem": "Which mediator is especially involved in cervical softening and ripening near delivery?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prostaglandin E2"
+        },
+        {
+          "label": "B",
+          "text": "Thyroid-stimulating hormone"
+        },
+        {
+          "label": "C",
+          "text": "Pancreatic glucagon"
+        },
+        {
+          "label": "D",
+          "text": "Parathyroid hormone"
+        },
+        {
+          "label": "E",
+          "text": "Posterior pituitary ADH"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Prostaglandin E2 promotes cervical remodeling and participates in labour.",
+      "topicId": "repro-preg",
+      "subtopic": "Labour physiology",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-082",
+      "type": "single-best",
+      "stem": "Increasing gap junctions between myometrial cells near term have what functional consequence?",
+      "options": [
+        {
+          "label": "A",
+          "text": "More isolated contractions"
+        },
+        {
+          "label": "B",
+          "text": "More coordinated contractions"
+        },
+        {
+          "label": "C",
+          "text": "Loss of all uterine electrical coupling"
+        },
+        {
+          "label": "D",
+          "text": "Suppressed intracellular calcium rise"
+        },
+        {
+          "label": "E",
+          "text": "Complete blockade of oxytocin action"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Gap junctions electrically couple myometrial cells to promote synchronized labour.",
+      "topicId": "repro-preg",
+      "subtopic": "Labour physiology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-083",
+      "type": "single-best",
+      "stem": "Which stimulus provides a mechanical contribution to the initiation and reinforcement of labour?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reduction of uterine muscle stretch"
+        },
+        {
+          "label": "B",
+          "text": "Decrease in fetal head pressure"
+        },
+        {
+          "label": "C",
+          "text": "Distension of the uterus and cervix"
+        },
+        {
+          "label": "D",
+          "text": "Suppression of cervical afferents"
+        },
+        {
+          "label": "E",
+          "text": "Complete loss of myometrial calcium"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Stretch and cervical pressure increase contractility and oxytocin-related feedback.",
+      "topicId": "repro-preg",
+      "subtopic": "Labour physiology",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-084",
+      "type": "single-best",
+      "stem": "What principally distinguishes prolactin from oxytocin in breastfeeding?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Milk ejection versus milk synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Duct contraction versus duct growth"
+        },
+        {
+          "label": "C",
+          "text": "Colostrum digestion versus uptake"
+        },
+        {
+          "label": "D",
+          "text": "Milk synthesis versus milk ejection"
+        },
+        {
+          "label": "E",
+          "text": "Oocyte release versus maturation"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Prolactin drives milk production, while oxytocin drives ejection.",
+      "topicId": "repro-preg",
+      "subtopic": "Lactation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-085",
+      "type": "single-best",
+      "stem": "A mother has adequate prolactin but poor milk removal from the breast. What can eventually happen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Persistent acceleration of synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Complete loss of progesterone receptors"
+        },
+        {
+          "label": "C",
+          "text": "Reduced milk stasis automatically"
+        },
+        {
+          "label": "D",
+          "text": "Permanent increase in supply"
+        },
+        {
+          "label": "E",
+          "text": "Local suppression of milk synthesis"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Milk accumulation locally inhibits continued milk production; regular removal helps sustain supply.",
+      "topicId": "repro-preg",
+      "subtopic": "Lactation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-086",
+      "type": "single-best",
+      "stem": "Which early milk component is especially enriched in colostrum compared with mature milk?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Secretory immunoglobulin A"
+        },
+        {
+          "label": "B",
+          "text": "Lactose concentration"
+        },
+        {
+          "label": "C",
+          "text": "Total triglyceride content"
+        },
+        {
+          "label": "D",
+          "text": "Total caloric density"
+        },
+        {
+          "label": "E",
+          "text": "Water-soluble carbohydrate"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Colostrum is particularly rich in protective proteins including secretory IgA.",
+      "topicId": "repro-preg",
+      "subtopic": "Lactation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-087",
+      "type": "single-best",
+      "stem": "Why do milk volumes rise sharply after placental delivery?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Placental hCG rises"
+        },
+        {
+          "label": "B",
+          "text": "Progesterone levels fall"
+        },
+        {
+          "label": "C",
+          "text": "Maternal prolactin disappears"
+        },
+        {
+          "label": "D",
+          "text": "Pituitary oxytocin is absent"
+        },
+        {
+          "label": "E",
+          "text": "Inhibin rises abruptly"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Placental progesterone withdrawal permits the onset of copious lactogenesis.",
+      "topicId": "repro-preg",
+      "subtopic": "Lactation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-088",
+      "type": "single-best",
+      "stem": "Frequent exclusive suckling can delay ovulation by reducing which hypothalamic signal?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Continuous thyrotropin-releasing hormone"
+        },
+        {
+          "label": "B",
+          "text": "Corticotropin-releasing hormone"
+        },
+        {
+          "label": "C",
+          "text": "Pulsatile gonadotropin-releasing hormone"
+        },
+        {
+          "label": "D",
+          "text": "Growth hormone-releasing hormone"
+        },
+        {
+          "label": "E",
+          "text": "Posterior pituitary vasopressin"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Lactational amenorrhoea involves suppression of GnRH pulsatility and gonadotropin release.",
+      "topicId": "repro-preg",
+      "subtopic": "Lactation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-089",
+      "type": "single-best",
+      "stem": "Which sensory event starts the neuroendocrine milk-ejection reflex?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ovarian follicle rupture"
+        },
+        {
+          "label": "B",
+          "text": "Maternal carotid sinus stretch"
+        },
+        {
+          "label": "C",
+          "text": "Intestinal nutrient absorption"
+        },
+        {
+          "label": "D",
+          "text": "Nipple mechanoreceptor stimulation"
+        },
+        {
+          "label": "E",
+          "text": "Glomerular sodium reabsorption"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Suckling activates nipple afferents that drive hypothalamic oxytocin release.",
+      "topicId": "repro-preg",
+      "subtopic": "Lactation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-090",
+      "type": "single-best",
+      "stem": "Which event is most likely to acutely interrupt milk let-down despite adequate milk production?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Elevated mammary prolactin receptor number"
+        },
+        {
+          "label": "B",
+          "text": "Increased milk synthesis in alveoli"
+        },
+        {
+          "label": "C",
+          "text": "Increased hepatic glucose output"
+        },
+        {
+          "label": "D",
+          "text": "Increased ovarian inhibin release"
+        },
+        {
+          "label": "E",
+          "text": "Stress inhibiting oxytocin release"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Stress can impair the centrally mediated oxytocin let-down reflex even when milk is present.",
+      "topicId": "repro-preg",
+      "subtopic": "Lactation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-091",
+      "type": "single-best",
+      "stem": "The lobuloalveolar structures of the breast grow extensively during pregnancy under which hormones?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Estrogen and progesterone"
+        },
+        {
+          "label": "B",
+          "text": "ACTH and cortisol"
+        },
+        {
+          "label": "C",
+          "text": "Insulin and glucagon"
+        },
+        {
+          "label": "D",
+          "text": "TSH and thyroxine"
+        },
+        {
+          "label": "E",
+          "text": "PTH and calcitonin"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Estrogen supports ducts, and progesterone supports lobuloalveolar development.",
+      "topicId": "repro-preg",
+      "subtopic": "Lactation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-092",
+      "type": "single-best",
+      "stem": "What fetal vessel is most directly surrounded by maternal blood in the placental intervillous space?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maternal uterine spiral arteries"
+        },
+        {
+          "label": "B",
+          "text": "Capillaries within chorionic villi"
+        },
+        {
+          "label": "C",
+          "text": "Maternal intervillous veins"
+        },
+        {
+          "label": "D",
+          "text": "Fetal umbilical vein outside placenta"
+        },
+        {
+          "label": "E",
+          "text": "Maternal uterine lymphatic vessels"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The trophoblastic placental barrier separates maternal intervillous blood from fetal villous capillaries.",
+      "topicId": "repro-preg",
+      "subtopic": "Placenta",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-093",
+      "type": "single-best",
+      "stem": "Maternal-fetal transfer of oxygen is mainly driven by what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Active transport against oxygen gradient"
+        },
+        {
+          "label": "B",
+          "text": "Hormonal receptor uptake"
+        },
+        {
+          "label": "C",
+          "text": "Partial-pressure gradient"
+        },
+        {
+          "label": "D",
+          "text": "Fetal antibody receptors"
+        },
+        {
+          "label": "E",
+          "text": "Direct maternal-fetal vessel fusion"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Oxygen diffuses down its partial-pressure gradient across the placenta.",
+      "topicId": "repro-preg",
+      "subtopic": "Placenta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-094",
+      "type": "single-best",
+      "stem": "Which vessel carries comparatively oxygenated blood from the placenta toward the fetal liver?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Paired umbilical arteries"
+        },
+        {
+          "label": "B",
+          "text": "Fetal pulmonary artery"
+        },
+        {
+          "label": "C",
+          "text": "Fetal superior vena cava"
+        },
+        {
+          "label": "D",
+          "text": "Single umbilical vein"
+        },
+        {
+          "label": "E",
+          "text": "Fetal ductus arteriosus"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "One umbilical vein returns oxygenated placental blood to the fetus.",
+      "topicId": "repro-fetal",
+      "subtopic": "Fetal circulation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-095",
+      "type": "single-best",
+      "stem": "Which vessels convey fetal blood toward the placenta for oxygenation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Two umbilical veins"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary veins"
+        },
+        {
+          "label": "C",
+          "text": "Coronary arteries"
+        },
+        {
+          "label": "D",
+          "text": "Internal jugular veins"
+        },
+        {
+          "label": "E",
+          "text": "Two umbilical arteries"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Paired umbilical arteries return comparatively deoxygenated blood to the placenta.",
+      "topicId": "repro-fetal",
+      "subtopic": "Fetal circulation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-096",
+      "type": "single-best",
+      "stem": "The ductus venosus directs part of umbilical venous blood into which vessel?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inferior vena cava"
+        },
+        {
+          "label": "B",
+          "text": "Superior vena cava"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary vein"
+        },
+        {
+          "label": "D",
+          "text": "Descending aorta"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary artery"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The ductus venosus bypasses part of the liver and joins the inferior vena cava.",
+      "topicId": "repro-fetal",
+      "subtopic": "Fetal circulation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-097",
+      "type": "single-best",
+      "stem": "What is the main direction of blood movement through the fetal foramen ovale?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Left atrium to right atrium"
+        },
+        {
+          "label": "B",
+          "text": "Right atrium to left atrium"
+        },
+        {
+          "label": "C",
+          "text": "Right ventricle to left ventricle"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary trunk to aorta"
+        },
+        {
+          "label": "E",
+          "text": "Aorta to pulmonary artery"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The foramen ovale permits right-to-left atrial shunting before birth.",
+      "topicId": "repro-fetal",
+      "subtopic": "Fetal circulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-098",
+      "type": "single-best",
+      "stem": "Which fetal channel connects the pulmonary artery to the descending aorta?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ductus venosus"
+        },
+        {
+          "label": "B",
+          "text": "Foramen ovale"
+        },
+        {
+          "label": "C",
+          "text": "Ductus arteriosus"
+        },
+        {
+          "label": "D",
+          "text": "Umbilical vein"
+        },
+        {
+          "label": "E",
+          "text": "Coronary sinus"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The ductus arteriosus shunts blood away from high-resistance fetal lungs.",
+      "topicId": "repro-fetal",
+      "subtopic": "Fetal circulation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-099",
+      "type": "single-best",
+      "stem": "Why is pulmonary blood flow relatively low in the fetus?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pulmonary vascular resistance is low"
+        },
+        {
+          "label": "B",
+          "text": "Placental resistance is very high"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary vessels are fully dilated"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary vascular resistance is high"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary venous pressure is zero"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Fluid-filled, unventilated fetal lungs maintain high pulmonary vascular resistance.",
+      "topicId": "repro-fetal",
+      "subtopic": "Fetal circulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-100",
+      "type": "single-best",
+      "stem": "What makes placental circulation a major low-resistance component of fetal systemic flow?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Closed umbilical vessels"
+        },
+        {
+          "label": "B",
+          "text": "High resistance of the placenta"
+        },
+        {
+          "label": "C",
+          "text": "Complete lack of fetal cardiac output"
+        },
+        {
+          "label": "D",
+          "text": "Absence of placental capillaries"
+        },
+        {
+          "label": "E",
+          "text": "Parallel placental vascular bed"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The placental circulation forms a low-resistance pathway in fetal circulation.",
+      "topicId": "repro-fetal",
+      "subtopic": "Fetal circulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-101",
+      "type": "single-best",
+      "stem": "Why is oxygenated blood from the ductus venosus preferentially directed toward the fetal brain and heart?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Streaming toward the foramen ovale"
+        },
+        {
+          "label": "B",
+          "text": "Complete mixing in pulmonary arteries"
+        },
+        {
+          "label": "C",
+          "text": "Shunting from aorta to vena cava"
+        },
+        {
+          "label": "D",
+          "text": "Direct flow into umbilical arteries"
+        },
+        {
+          "label": "E",
+          "text": "Retrograde flow in pulmonary veins"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Streaming of inferior vena caval blood across the foramen ovale favors supply to the left heart.",
+      "topicId": "repro-fetal",
+      "subtopic": "Fetal circulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-102",
+      "type": "single-best",
+      "stem": "Why do fetal ventricles function more in parallel than in series?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only the left ventricle pumps blood"
+        },
+        {
+          "label": "B",
+          "text": "Both contribute to systemic output"
+        },
+        {
+          "label": "C",
+          "text": "Only the right ventricle pumps blood"
+        },
+        {
+          "label": "D",
+          "text": "All blood must cross the lungs"
+        },
+        {
+          "label": "E",
+          "text": "All blood bypasses the placenta"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Fetal shunts distribute combined ventricular output to the systemic and placental circulations.",
+      "topicId": "repro-fetal",
+      "subtopic": "Fetal circulation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-103",
+      "type": "single-best",
+      "stem": "Which fetal chamber pumps most of its output into the ductus arteriosus?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Left ventricle"
+        },
+        {
+          "label": "B",
+          "text": "Left atrium"
+        },
+        {
+          "label": "C",
+          "text": "Right ventricle"
+        },
+        {
+          "label": "D",
+          "text": "Right atrium"
+        },
+        {
+          "label": "E",
+          "text": "Coronary sinus"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "High pulmonary resistance diverts much right ventricular output through the ductus arteriosus.",
+      "topicId": "repro-fetal",
+      "subtopic": "Fetal circulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-104",
+      "type": "single-best",
+      "stem": "The first effective breaths rapidly lower pulmonary vascular resistance mainly through what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Umbilical venous pressure rise"
+        },
+        {
+          "label": "B",
+          "text": "Placental vasodilatation"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary oxygen tension fall"
+        },
+        {
+          "label": "D",
+          "text": "Lung aeration and increased oxygen"
+        },
+        {
+          "label": "E",
+          "text": "Reduction of pulmonary blood flow"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Aeration and higher alveolar oxygen dilate pulmonary vessels.",
+      "topicId": "repro-fetal",
+      "subtopic": "Transition at birth",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-105",
+      "type": "single-best",
+      "stem": "Clamping the umbilical cord normally causes which immediate systemic change?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Systemic resistance decreases"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary resistance increases"
+        },
+        {
+          "label": "C",
+          "text": "Right atrial pressure increases"
+        },
+        {
+          "label": "D",
+          "text": "Left atrial pressure decreases"
+        },
+        {
+          "label": "E",
+          "text": "Systemic resistance increases"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Removal of low-resistance placental circulation raises systemic vascular resistance.",
+      "topicId": "repro-fetal",
+      "subtopic": "Transition at birth",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-106",
+      "type": "single-best",
+      "stem": "Functional closure of the foramen ovale follows which pressure relationship?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Left atrial pressure exceeds right"
+        },
+        {
+          "label": "B",
+          "text": "Right atrial pressure exceeds left"
+        },
+        {
+          "label": "C",
+          "text": "Both atria become pressure-free"
+        },
+        {
+          "label": "D",
+          "text": "Right ventricular pressure exceeds aorta"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary artery pressure exceeds aorta"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Increased pulmonary venous return raises left atrial pressure and opposes right-to-left shunting.",
+      "topicId": "repro-fetal",
+      "subtopic": "Transition at birth",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-107",
+      "type": "single-best",
+      "stem": "Why does the ductus arteriosus constrict after a healthy term birth?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Less oxygen and more prostaglandin"
+        },
+        {
+          "label": "B",
+          "text": "More oxygen and less prostaglandin"
+        },
+        {
+          "label": "C",
+          "text": "More pulmonary vascular resistance"
+        },
+        {
+          "label": "D",
+          "text": "Less pulmonary blood flow"
+        },
+        {
+          "label": "E",
+          "text": "Persistent placental prostaglandin"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Increased arterial oxygen and falling prostaglandins favor ductal constriction.",
+      "topicId": "repro-fetal",
+      "subtopic": "Transition at birth",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-108",
+      "type": "single-best",
+      "stem": "Which adult anatomical remnant derives from the ductus arteriosus?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ligamentum venosum"
+        },
+        {
+          "label": "B",
+          "text": "Ligamentum teres hepatis"
+        },
+        {
+          "label": "C",
+          "text": "Ligamentum arteriosum"
+        },
+        {
+          "label": "D",
+          "text": "Fossa ovalis"
+        },
+        {
+          "label": "E",
+          "text": "Medial umbilical ligament"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The ductus arteriosus becomes the ligamentum arteriosum.",
+      "topicId": "repro-fetal",
+      "subtopic": "Transition at birth",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-109",
+      "type": "single-best",
+      "stem": "Which adult structure marks the closed fetal foramen ovale?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Coronary sinus"
+        },
+        {
+          "label": "B",
+          "text": "Ligamentum venosum"
+        },
+        {
+          "label": "C",
+          "text": "Ligamentum arteriosum"
+        },
+        {
+          "label": "D",
+          "text": "Fossa ovalis"
+        },
+        {
+          "label": "E",
+          "text": "Oval ligament of liver"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Fusion of the atrial septal flap leaves the fossa ovalis.",
+      "topicId": "repro-fetal",
+      "subtopic": "Transition at birth",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-110",
+      "type": "single-best",
+      "stem": "Which adult remnant corresponds to the former ductus venosus?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ligamentum arteriosum"
+        },
+        {
+          "label": "B",
+          "text": "Ligamentum teres hepatis"
+        },
+        {
+          "label": "C",
+          "text": "Fossa ovalis"
+        },
+        {
+          "label": "D",
+          "text": "Median umbilical ligament"
+        },
+        {
+          "label": "E",
+          "text": "Ligamentum venosum"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The ductus venosus becomes the ligamentum venosum in the liver.",
+      "topicId": "repro-fetal",
+      "subtopic": "Transition at birth",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-111",
+      "type": "single-best",
+      "stem": "After birth, the umbilical vein normally forms which hepatic structure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ligamentum teres hepatis"
+        },
+        {
+          "label": "B",
+          "text": "Ligamentum venosum"
+        },
+        {
+          "label": "C",
+          "text": "Ligamentum arteriosum"
+        },
+        {
+          "label": "D",
+          "text": "Medial umbilical ligament"
+        },
+        {
+          "label": "E",
+          "text": "Fossa ovalis"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The remnant of the left umbilical vein is the round ligament of the liver.",
+      "topicId": "repro-fetal",
+      "subtopic": "Transition at birth",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-112",
+      "type": "single-best",
+      "stem": "Premature neonates are especially vulnerable to alveolar collapse mainly because of low levels of what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pulmonary prostaglandin E2"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary surfactant"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary nitric oxide"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary haemoglobin F"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary bicarbonate"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Type II pneumocyte surfactant reduces alveolar surface tension and prevents atelectasis.",
+      "topicId": "repro-fetal",
+      "subtopic": "Neonatal respiration",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-113",
+      "type": "single-best",
+      "stem": "Which lung cell is responsible for synthesis and secretion of pulmonary surfactant?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type I pneumocyte"
+        },
+        {
+          "label": "B",
+          "text": "Alveolar macrophage"
+        },
+        {
+          "label": "C",
+          "text": "Type II pneumocyte"
+        },
+        {
+          "label": "D",
+          "text": "Capillary endothelial cell"
+        },
+        {
+          "label": "E",
+          "text": "Ciliated bronchial cell"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Type II alveolar cells produce surfactant.",
+      "topicId": "repro-fetal",
+      "subtopic": "Neonatal respiration",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-114",
+      "type": "single-best",
+      "stem": "Successful clearance of fetal lung liquid at birth relies importantly on increased what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chloride secretion into alveoli"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary vascular constriction"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary fluid secretion"
+        },
+        {
+          "label": "D",
+          "text": "Sodium absorption by lung epithelium"
+        },
+        {
+          "label": "E",
+          "text": "Alveolar protein degradation"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Birth-related epithelial sodium transport helps remove fluid from the airspaces.",
+      "topicId": "repro-fetal",
+      "subtopic": "Neonatal respiration",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-115",
+      "type": "single-best",
+      "stem": "What is the principal effect of pulmonary surfactant during the newborn's first breaths?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased alveolar surface tension"
+        },
+        {
+          "label": "B",
+          "text": "Increased alveolar fluid volume"
+        },
+        {
+          "label": "C",
+          "text": "Reduced lung compliance"
+        },
+        {
+          "label": "D",
+          "text": "Increased work of inflation"
+        },
+        {
+          "label": "E",
+          "text": "Reduced alveolar surface tension"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Surfactant reduces the pressure needed to inflate small alveoli.",
+      "topicId": "repro-fetal",
+      "subtopic": "Neonatal respiration",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-116",
+      "type": "single-best",
+      "stem": "Why are preterm babies prone to hypoglycaemia shortly after birth?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Limited energy stores and immature production"
+        },
+        {
+          "label": "B",
+          "text": "High total hepatic glycogen stores"
+        },
+        {
+          "label": "C",
+          "text": "Excess fetal placental glucose inflow"
+        },
+        {
+          "label": "D",
+          "text": "Fully mature hepatic gluconeogenesis"
+        },
+        {
+          "label": "E",
+          "text": "Markedly reduced glucose consumption"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Limited glycogen and fat stores plus immature glucose production increase vulnerability.",
+      "topicId": "repro-fetal",
+      "subtopic": "Neonatal metabolism",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-117",
+      "type": "single-best",
+      "stem": "Newborn infants generate heat without shivering predominantly by oxidizing what tissue?",
+      "options": [
+        {
+          "label": "A",
+          "text": "White skeletal cartilage"
+        },
+        {
+          "label": "B",
+          "text": "Brown adipose tissue"
+        },
+        {
+          "label": "C",
+          "text": "Red marrow precursors"
+        },
+        {
+          "label": "D",
+          "text": "Cerebral white matter"
+        },
+        {
+          "label": "E",
+          "text": "Mature epidermal tissue"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Brown fat supports nonshivering thermogenesis through mitochondrial uncoupling.",
+      "topicId": "repro-fetal",
+      "subtopic": "Neonatal thermoregulation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-118",
+      "type": "single-best",
+      "stem": "Which mitochondrial protein enables heat generation in neonatal brown adipose tissue?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ATP synthase subunit B"
+        },
+        {
+          "label": "B",
+          "text": "Cytochrome c oxidase"
+        },
+        {
+          "label": "C",
+          "text": "Uncoupling protein 1"
+        },
+        {
+          "label": "D",
+          "text": "Voltage-dependent anion channel"
+        },
+        {
+          "label": "E",
+          "text": "Sodium-potassium ATPase"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "UCP1 dissipates the proton gradient as heat instead of conserving it as ATP.",
+      "topicId": "repro-fetal",
+      "subtopic": "Neonatal thermoregulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-119",
+      "type": "single-best",
+      "stem": "Physiological neonatal jaundice is partly related to immaturity of which liver process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Albumin transport into urine"
+        },
+        {
+          "label": "B",
+          "text": "Haemoglobin synthesis in marrow"
+        },
+        {
+          "label": "C",
+          "text": "Insulin degradation by kidneys"
+        },
+        {
+          "label": "D",
+          "text": "Bilirubin conjugation"
+        },
+        {
+          "label": "E",
+          "text": "Surfactant secretion in lungs"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Immature UGT-mediated conjugation reduces bilirubin clearance in the newborn.",
+      "topicId": "repro-fetal",
+      "subtopic": "Neonatal hepatic function",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-120",
+      "type": "single-best",
+      "stem": "Why is vitamin K prophylaxis important soon after birth?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Excess vitamin K from placental blood"
+        },
+        {
+          "label": "B",
+          "text": "Overactive hepatic clotting synthesis"
+        },
+        {
+          "label": "C",
+          "text": "Complete loss of circulating calcium"
+        },
+        {
+          "label": "D",
+          "text": "Too much intestinal bacterial synthesis"
+        },
+        {
+          "label": "E",
+          "text": "Low stores and limited gut vitamin K"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Neonates have limited vitamin K reserves and immature intestinal flora.",
+      "topicId": "repro-fetal",
+      "subtopic": "Neonatal hepatic function",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-121",
+      "type": "single-best",
+      "stem": "Which renal feature makes young neonates more vulnerable to fluid imbalance?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Low GFR and limited concentrating ability"
+        },
+        {
+          "label": "B",
+          "text": "High adult-like concentrating capacity"
+        },
+        {
+          "label": "C",
+          "text": "Very high renal reserve capacity"
+        },
+        {
+          "label": "D",
+          "text": "Fully mature tubular sodium handling"
+        },
+        {
+          "label": "E",
+          "text": "Unlimited glomerular filtration"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Immature filtration and tubular function limit neonatal water and solute regulation.",
+      "topicId": "repro-fetal",
+      "subtopic": "Neonatal renal function",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-122",
+      "type": "single-best",
+      "stem": "Why is severe neonatal bradycardia especially likely to depress cardiac output?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Excess ability to increase stroke volume"
+        },
+        {
+          "label": "B",
+          "text": "Limited ability to raise stroke volume"
+        },
+        {
+          "label": "C",
+          "text": "Very low baseline oxygen consumption"
+        },
+        {
+          "label": "D",
+          "text": "Complete preservation of placental flow"
+        },
+        {
+          "label": "E",
+          "text": "Very high neonatal ventricular reserve"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The neonatal heart is relatively heart-rate dependent because stroke volume reserve is limited.",
+      "topicId": "repro-fetal",
+      "subtopic": "Neonatal circulation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-123",
+      "type": "single-best",
+      "stem": "Fetal haemoglobin has reduced affinity for which red-cell regulator compared with adult Hb?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carbon dioxide in blood"
+        },
+        {
+          "label": "B",
+          "text": "Oxygen within the lungs"
+        },
+        {
+          "label": "C",
+          "text": "2,3-bisphosphoglycerate"
+        },
+        {
+          "label": "D",
+          "text": "Hydrogen ion in plasma"
+        },
+        {
+          "label": "E",
+          "text": "Chloride within plasma"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "HbF binds 2,3-BPG less strongly, helping it acquire oxygen at placental tensions.",
+      "topicId": "repro-fetal",
+      "subtopic": "Fetal oxygen transport",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-phys-repro-124",
+      "type": "single-best",
+      "stem": "What happens to the predominant haemoglobin composition after the neonatal period?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fetal haemoglobin rises indefinitely"
+        },
+        {
+          "label": "B",
+          "text": "All haemoglobin becomes HbA2"
+        },
+        {
+          "label": "C",
+          "text": "Haemoglobin production entirely stops"
+        },
+        {
+          "label": "D",
+          "text": "Adult haemoglobin gradually replaces HbF"
+        },
+        {
+          "label": "E",
+          "text": "Fetal and adult haemoglobin vanish"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Gamma-chain synthesis declines while beta-chain-containing adult Hb rises after birth.",
+      "topicId": "repro-fetal",
+      "subtopic": "Fetal oxygen transport",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-phys-repro-125",
+      "type": "single-best",
+      "stem": "A newborn with persistent high pulmonary resistance continues a right-to-left ductal shunt. Which condition does this describe?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Physiological ductus closure"
+        },
+        {
+          "label": "B",
+          "text": "Normal foramen ovale closure"
+        },
+        {
+          "label": "C",
+          "text": "Reduced systemic venous return alone"
+        },
+        {
+          "label": "D",
+          "text": "Isolated maternal anaemia"
+        },
+        {
+          "label": "E",
+          "text": "Persistent pulmonary hypertension"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Persistent pulmonary hypertension maintains high PVR and can preserve fetal right-to-left shunting.",
+      "topicId": "repro-fetal",
+      "subtopic": "Neonatal circulation",
+      "difficulty": "hard"
     }
   ]
 }
