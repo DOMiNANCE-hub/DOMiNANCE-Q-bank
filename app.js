@@ -400,6 +400,7 @@
     const d = currentData();
     const counts = {}; d[r.coll].forEach(q => { counts[q.topic] = (counts[q.topic] || 0) + 1; });
     const topics = d.topics.filter(t => counts[t.id]);
+    const pendingTopics = r.course === 'biochemistry' && r.courseSem ? d.topics.filter(t => !counts[t.id]) : [];
     const sel = new Set(getSel(r).filter(id => counts[id]));
     const n = pool(d, r.coll, [...sel]).length;
     const systems = [];
@@ -431,7 +432,9 @@
     }
     const dock = '<div class="dock"><div class="in"><div class="info">' + (sel.size ? '<b>' + sel.size + ' topic' + (sel.size === 1 ? '' : 's') + '</b> · ' + n + ' questions' : 'Pick one or more topics') + '</div><button class="btn primary" data-a="continue">Continue</button></div></div>';
     // on the list of systems there is nothing to tick, so the bar only appears once topics inside have been picked
-    return wrap(topbar() + head + '<p class="lead">' + lead + '</p>' + html) + (sysLevel && !sel.size ? '' : dock);
+    const pendingHtml = pendingTopics.length ? '<h2>Other semester topics</h2><div class="folders big">' +
+      pendingTopics.map(t => '<div class="folder" aria-disabled="true"><span class="ft">' + esc(t.title) + '</span><span class="fc">Questions coming soon</span></div>').join('') + '</div>' : '';
+    return wrap(topbar() + head + '<p class="lead">' + lead + '</p>' + html + pendingHtml) + (sysLevel && !sel.size ? '' : dock);
   }
 
   /* ---------- view: setup ---------- */
