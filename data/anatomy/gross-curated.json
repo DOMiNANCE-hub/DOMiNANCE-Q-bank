@@ -21740,6 +21740,5030 @@
       "topicId": "g-urinary",
       "subtopic": "Clinical",
       "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-001",
+      "type": "single-best",
+      "stem": "The olfactory nerve fibres (CN I) reach the olfactory bulb by passing through the",
+      "options": [
+        {
+          "label": "A",
+          "text": "cribriform plate"
+        },
+        {
+          "label": "B",
+          "text": "optic canal"
+        },
+        {
+          "label": "C",
+          "text": "superior orbital fissure"
+        },
+        {
+          "label": "D",
+          "text": "foramen rotundum"
+        },
+        {
+          "label": "E",
+          "text": "foramen ovale"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "CN I fibres pass through the perforations of the cribriform plate of the ethmoid bone.",
+      "topicId": "g-hn",
+      "subtopic": "Skull foramina",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-a-002",
+      "type": "single-best",
+      "stem": "The optic canal transmits the optic nerve together with the",
+      "options": [
+        {
+          "label": "A",
+          "text": "internal carotid artery"
+        },
+        {
+          "label": "B",
+          "text": "ophthalmic artery"
+        },
+        {
+          "label": "C",
+          "text": "middle meningeal artery"
+        },
+        {
+          "label": "D",
+          "text": "maxillary artery"
+        },
+        {
+          "label": "E",
+          "text": "superior ophthalmic vein"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The optic canal carries CN II and the ophthalmic artery.",
+      "topicId": "g-hn",
+      "subtopic": "Skull foramina",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-a-003",
+      "type": "single-best",
+      "stem": "Which set of nerves all pass through the superior orbital fissure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IX, X and XI"
+        },
+        {
+          "label": "B",
+          "text": "I, II and V1"
+        },
+        {
+          "label": "C",
+          "text": "III, IV, V1 and VI"
+        },
+        {
+          "label": "D",
+          "text": "II, III and IV"
+        },
+        {
+          "label": "E",
+          "text": "V2, V3 and VII"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The oculomotor, trochlear, ophthalmic (V1) and abducens nerves (plus the superior ophthalmic vein) traverse the superior orbital fissure.",
+      "topicId": "g-hn",
+      "subtopic": "Skull foramina",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-004",
+      "type": "single-best",
+      "stem": "The maxillary division of the trigeminal nerve (V2) leaves the middle cranial fossa through the",
+      "options": [
+        {
+          "label": "A",
+          "text": "foramen spinosum"
+        },
+        {
+          "label": "B",
+          "text": "superior orbital fissure"
+        },
+        {
+          "label": "C",
+          "text": "foramen lacerum"
+        },
+        {
+          "label": "D",
+          "text": "foramen rotundum"
+        },
+        {
+          "label": "E",
+          "text": "foramen ovale"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "V2 exits via the foramen rotundum into the pterygopalatine fossa; V3 exits via the foramen ovale.",
+      "topicId": "g-hn",
+      "subtopic": "Skull foramina",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-005",
+      "type": "single-best",
+      "stem": "The middle meningeal artery enters the cranial cavity through the",
+      "options": [
+        {
+          "label": "A",
+          "text": "foramen ovale"
+        },
+        {
+          "label": "B",
+          "text": "foramen rotundum"
+        },
+        {
+          "label": "C",
+          "text": "carotid canal"
+        },
+        {
+          "label": "D",
+          "text": "jugular foramen"
+        },
+        {
+          "label": "E",
+          "text": "foramen spinosum"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The middle meningeal artery (and meningeal branch of V3) passes through the foramen spinosum.",
+      "topicId": "g-hn",
+      "subtopic": "Skull foramina",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-a-006",
+      "type": "single-best",
+      "stem": "The glossopharyngeal, vagus and accessory nerves leave the skull together through the",
+      "options": [
+        {
+          "label": "A",
+          "text": "jugular foramen"
+        },
+        {
+          "label": "B",
+          "text": "hypoglossal canal"
+        },
+        {
+          "label": "C",
+          "text": "foramen magnum"
+        },
+        {
+          "label": "D",
+          "text": "stylomastoid foramen"
+        },
+        {
+          "label": "E",
+          "text": "carotid canal"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "CN IX, X and XI exit via the jugular foramen with the internal jugular vein.",
+      "topicId": "g-hn",
+      "subtopic": "Skull foramina",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-007",
+      "type": "single-best",
+      "stem": "The facial nerve emerges onto the face region through the",
+      "options": [
+        {
+          "label": "A",
+          "text": "jugular foramen"
+        },
+        {
+          "label": "B",
+          "text": "stylomastoid foramen"
+        },
+        {
+          "label": "C",
+          "text": "internal acoustic meatus"
+        },
+        {
+          "label": "D",
+          "text": "foramen ovale"
+        },
+        {
+          "label": "E",
+          "text": "petrotympanic fissure"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "CN VII exits the skull base through the stylomastoid foramen (after giving chorda tympani within the temporal bone).",
+      "topicId": "g-hn",
+      "subtopic": "Skull foramina",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-a-008",
+      "type": "single-best",
+      "stem": "The hypoglossal nerve (CN XII) exits the skull through the",
+      "options": [
+        {
+          "label": "A",
+          "text": "stylomastoid foramen"
+        },
+        {
+          "label": "B",
+          "text": "foramen ovale"
+        },
+        {
+          "label": "C",
+          "text": "hypoglossal canal"
+        },
+        {
+          "label": "D",
+          "text": "jugular foramen"
+        },
+        {
+          "label": "E",
+          "text": "foramen magnum"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "CN XII leaves through the hypoglossal canal in the occipital bone.",
+      "topicId": "g-hn",
+      "subtopic": "Skull foramina",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-a-009",
+      "type": "single-best",
+      "stem": "The internal carotid artery enters the skull base through the",
+      "options": [
+        {
+          "label": "A",
+          "text": "jugular foramen"
+        },
+        {
+          "label": "B",
+          "text": "foramen ovale"
+        },
+        {
+          "label": "C",
+          "text": "optic canal"
+        },
+        {
+          "label": "D",
+          "text": "carotid canal"
+        },
+        {
+          "label": "E",
+          "text": "foramen lacerum"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The ICA enters through the carotid canal (and crosses the upper part of the foramen lacerum, which nothing fully traverses).",
+      "topicId": "g-hn",
+      "subtopic": "Skull foramina",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-010",
+      "type": "single-best",
+      "stem": "The spinal roots of the accessory nerve (CN XI) enter the cranial cavity through the",
+      "options": [
+        {
+          "label": "A",
+          "text": "jugular foramen"
+        },
+        {
+          "label": "B",
+          "text": "hypoglossal canal"
+        },
+        {
+          "label": "C",
+          "text": "foramen ovale"
+        },
+        {
+          "label": "D",
+          "text": "stylomastoid foramen"
+        },
+        {
+          "label": "E",
+          "text": "foramen magnum"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The spinal roots of CN XI ascend through the foramen magnum, then leave with IX and X via the jugular foramen.",
+      "topicId": "g-hn",
+      "subtopic": "Skull foramina",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-011",
+      "type": "single-best",
+      "stem": "The pterion is clinically important because deep to it runs the",
+      "options": [
+        {
+          "label": "A",
+          "text": "middle meningeal artery"
+        },
+        {
+          "label": "B",
+          "text": "superficial temporal artery"
+        },
+        {
+          "label": "C",
+          "text": "maxillary artery"
+        },
+        {
+          "label": "D",
+          "text": "cavernous sinus"
+        },
+        {
+          "label": "E",
+          "text": "internal carotid artery"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "A blow fracturing the thin pterion may tear the underlying anterior division of the middle meningeal artery, giving an extradural haematoma.",
+      "topicId": "g-hn",
+      "subtopic": "Skull",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-012",
+      "type": "single-best",
+      "stem": "The point where the coronal and sagittal sutures meet is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "nasion"
+        },
+        {
+          "label": "B",
+          "text": "bregma"
+        },
+        {
+          "label": "C",
+          "text": "lambda"
+        },
+        {
+          "label": "D",
+          "text": "pterion"
+        },
+        {
+          "label": "E",
+          "text": "asterion"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Bregma is the junction of the coronal and sagittal sutures; lambda is where the sagittal meets the lambdoid.",
+      "topicId": "g-hn",
+      "subtopic": "Skull",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-a-013",
+      "type": "single-best",
+      "stem": "Emissary veins passing through the skull are clinically significant because they",
+      "options": [
+        {
+          "label": "A",
+          "text": "carry cerebrospinal fluid to the scalp"
+        },
+        {
+          "label": "B",
+          "text": "transmit the cranial nerves outward"
+        },
+        {
+          "label": "C",
+          "text": "link scalp veins to the dural venous sinuses"
+        },
+        {
+          "label": "D",
+          "text": "supply the diploe with arterial blood"
+        },
+        {
+          "label": "E",
+          "text": "drain the brain to the facial vein alone"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Valveless emissary veins link extracranial (scalp) veins with the dural venous sinuses, a route for spread of infection.",
+      "topicId": "g-hn",
+      "subtopic": "Skull",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-014",
+      "type": "single-best",
+      "stem": "The five layers of the scalp, from superficial to deep, are Skin, dense Connective tissue, Aponeurosis, Loose areolar tissue and",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dura mater"
+        },
+        {
+          "label": "B",
+          "text": "Diploe"
+        },
+        {
+          "label": "C",
+          "text": "Galea"
+        },
+        {
+          "label": "D",
+          "text": "Pericranium"
+        },
+        {
+          "label": "E",
+          "text": "Periosteum of the orbit"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The scalp layers spell SCALP: Skin, Connective tissue, Aponeurosis (galea), Loose areolar tissue, Pericranium.",
+      "topicId": "g-hn",
+      "subtopic": "Scalp",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-a-015",
+      "type": "single-best",
+      "stem": "Scalp wounds bleed profusely because the vessels lie in the dense connective tissue layer, where they are",
+      "options": [
+        {
+          "label": "A",
+          "text": "under unusually high arterial pressure"
+        },
+        {
+          "label": "B",
+          "text": "devoid of any smooth muscle"
+        },
+        {
+          "label": "C",
+          "text": "connected directly to the sinuses"
+        },
+        {
+          "label": "D",
+          "text": "lacking any venous drainage"
+        },
+        {
+          "label": "E",
+          "text": "held open by fibrous septa and cannot retract"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Fibrous septa of the second (dense connective tissue) layer anchor the vessel walls open, preventing retraction and vasospasm.",
+      "topicId": "g-hn",
+      "subtopic": "Scalp",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-016",
+      "type": "single-best",
+      "stem": "The 'dangerous area' of the scalp, through which infection may spread to the cranial venous sinuses, is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "loose areolar tissue layer"
+        },
+        {
+          "label": "B",
+          "text": "skin"
+        },
+        {
+          "label": "C",
+          "text": "dense connective tissue layer"
+        },
+        {
+          "label": "D",
+          "text": "pericranium"
+        },
+        {
+          "label": "E",
+          "text": "epicranial aponeurosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The loose areolar layer transmits emissary veins to the intracranial sinuses, so infection here can spread inward.",
+      "topicId": "g-hn",
+      "subtopic": "Scalp",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-017",
+      "type": "single-best",
+      "stem": "A deep scalp laceration gapes widely only when the wound cuts transversely through the",
+      "options": [
+        {
+          "label": "A",
+          "text": "temporalis fascia"
+        },
+        {
+          "label": "B",
+          "text": "epicranial aponeurosis"
+        },
+        {
+          "label": "C",
+          "text": "the overlying skin"
+        },
+        {
+          "label": "D",
+          "text": "the pericranium"
+        },
+        {
+          "label": "E",
+          "text": "loose areolar tissue"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Transverse cuts through the galea aponeurotica let the occipitofrontalis pull the edges apart; cuts sparing it do not gape.",
+      "topicId": "g-hn",
+      "subtopic": "Scalp",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-018",
+      "type": "single-best",
+      "stem": "The muscles of facial expression develop from the second pharyngeal arch and are therefore supplied by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "hypoglossal nerve"
+        },
+        {
+          "label": "B",
+          "text": "accessory nerve"
+        },
+        {
+          "label": "C",
+          "text": "facial nerve"
+        },
+        {
+          "label": "D",
+          "text": "trigeminal nerve"
+        },
+        {
+          "label": "E",
+          "text": "glossopharyngeal nerve"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Facial expression muscles are second-arch derivatives supplied by CN VII; the muscles of mastication (first arch) are supplied by V3.",
+      "topicId": "g-hn",
+      "subtopic": "Face",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-a-019",
+      "type": "single-best",
+      "stem": "The 'danger area of the face' can spread infection to the cavernous sinus because the facial vein communicates with it via the",
+      "options": [
+        {
+          "label": "A",
+          "text": "retromandibular vein"
+        },
+        {
+          "label": "B",
+          "text": "external jugular vein"
+        },
+        {
+          "label": "C",
+          "text": "internal jugular vein"
+        },
+        {
+          "label": "D",
+          "text": "superior ophthalmic vein"
+        },
+        {
+          "label": "E",
+          "text": "pterygoid venous plexus only"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The valveless facial vein links to the cavernous sinus through the superior ophthalmic vein, so infection in the nasolabial region can spread intracranially.",
+      "topicId": "g-hn",
+      "subtopic": "Face",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-020",
+      "type": "single-best",
+      "stem": "Within the parotid gland, the most superficial of the three major structures is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "retromandibular vein"
+        },
+        {
+          "label": "B",
+          "text": "external carotid artery"
+        },
+        {
+          "label": "C",
+          "text": "maxillary artery"
+        },
+        {
+          "label": "D",
+          "text": "auriculotemporal nerve"
+        },
+        {
+          "label": "E",
+          "text": "facial nerve"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "From superficial to deep the parotid contains the facial nerve, then the retromandibular vein, then the external carotid artery.",
+      "topicId": "g-hn",
+      "subtopic": "Face",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-021",
+      "type": "single-best",
+      "stem": "The chief muscle of the cheek, which keeps food on the occlusal surfaces during chewing, is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "buccinator"
+        },
+        {
+          "label": "B",
+          "text": "masseter"
+        },
+        {
+          "label": "C",
+          "text": "orbicularis oris"
+        },
+        {
+          "label": "D",
+          "text": "risorius"
+        },
+        {
+          "label": "E",
+          "text": "zygomaticus major"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The buccinator (CN VII) compresses the cheek against the teeth; although it aids chewing it is a muscle of facial expression.",
+      "topicId": "g-hn",
+      "subtopic": "Face",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-a-022",
+      "type": "single-best",
+      "stem": "The superficial temporal artery is one of the two terminal branches of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "common carotid artery"
+        },
+        {
+          "label": "B",
+          "text": "external carotid artery"
+        },
+        {
+          "label": "C",
+          "text": "internal carotid artery"
+        },
+        {
+          "label": "D",
+          "text": "maxillary artery"
+        },
+        {
+          "label": "E",
+          "text": "facial artery"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The external carotid artery ends as the superficial temporal and maxillary arteries.",
+      "topicId": "g-hn",
+      "subtopic": "Temporal fossa",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-a-023",
+      "type": "single-best",
+      "stem": "Giant cell (temporal) arteritis most characteristically involves the",
+      "options": [
+        {
+          "label": "A",
+          "text": "middle meningeal artery"
+        },
+        {
+          "label": "B",
+          "text": "occipital artery"
+        },
+        {
+          "label": "C",
+          "text": "superficial temporal artery"
+        },
+        {
+          "label": "D",
+          "text": "maxillary artery"
+        },
+        {
+          "label": "E",
+          "text": "facial artery"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Temporal arteritis typically affects the superficial temporal artery, giving a tender, thickened, pulseless vessel.",
+      "topicId": "g-hn",
+      "subtopic": "Temporal fossa",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-a-024",
+      "type": "single-best",
+      "stem": "The maxillary artery enters the infratemporal fossa by passing deep to the neck of the mandible, between it and the",
+      "options": [
+        {
+          "label": "A",
+          "text": "lateral pterygoid muscle"
+        },
+        {
+          "label": "B",
+          "text": "parotid gland"
+        },
+        {
+          "label": "C",
+          "text": "temporalis tendon"
+        },
+        {
+          "label": "D",
+          "text": "sphenomandibular ligament"
+        },
+        {
+          "label": "E",
+          "text": "stylomandibular ligament"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The maxillary artery passes between the neck of the mandible and the sphenomandibular ligament.",
+      "topicId": "g-hn",
+      "subtopic": "Infratemporal fossa",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-025",
+      "type": "single-best",
+      "stem": "The branch of the first (mandibular) part of the maxillary artery that runs to the mandibular foramen is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "middle meningeal artery"
+        },
+        {
+          "label": "B",
+          "text": "deep auricular artery"
+        },
+        {
+          "label": "C",
+          "text": "anterior tympanic artery"
+        },
+        {
+          "label": "D",
+          "text": "buccal artery"
+        },
+        {
+          "label": "E",
+          "text": "inferior alveolar artery"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The inferior alveolar artery (first part) enters the mandibular foramen; the middle meningeal (also first part) goes to the foramen spinosum.",
+      "topicId": "g-hn",
+      "subtopic": "Infratemporal fossa",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-026",
+      "type": "single-best",
+      "stem": "The valveless pterygoid venous plexus is clinically important because it communicates with the cavernous sinus through the",
+      "options": [
+        {
+          "label": "A",
+          "text": "foramina ovale and Vesalius"
+        },
+        {
+          "label": "B",
+          "text": "the foramen spinosum only"
+        },
+        {
+          "label": "C",
+          "text": "the carotid canal"
+        },
+        {
+          "label": "D",
+          "text": "the jugular foramen"
+        },
+        {
+          "label": "E",
+          "text": "the superior orbital fissure"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Emissary veins through the foramina ovale and Vesalius link the pterygoid plexus to the cavernous sinus, a route for infection.",
+      "topicId": "g-hn",
+      "subtopic": "Infratemporal fossa",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-027",
+      "type": "single-best",
+      "stem": "The auriculotemporal nerve conveys postganglionic parasympathetic secretomotor fibres to the parotid gland from the",
+      "options": [
+        {
+          "label": "A",
+          "text": "geniculate ganglion"
+        },
+        {
+          "label": "B",
+          "text": "otic ganglion"
+        },
+        {
+          "label": "C",
+          "text": "submandibular ganglion"
+        },
+        {
+          "label": "D",
+          "text": "pterygopalatine ganglion"
+        },
+        {
+          "label": "E",
+          "text": "ciliary ganglion"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Postganglionic parasympathetic fibres from the otic ganglion hitch-hike on the auriculotemporal nerve (V3) to the parotid.",
+      "topicId": "g-hn",
+      "subtopic": "Infratemporal fossa",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-028",
+      "type": "single-best",
+      "stem": "The chorda tympani joins the lingual nerve in the infratemporal fossa to carry taste from the anterior two-thirds of the tongue and parasympathetic fibres to the",
+      "options": [
+        {
+          "label": "A",
+          "text": "palatine and pharyngeal glands"
+        },
+        {
+          "label": "B",
+          "text": "thyroid and parathyroid glands"
+        },
+        {
+          "label": "C",
+          "text": "submandibular and sublingual glands"
+        },
+        {
+          "label": "D",
+          "text": "parotid and buccal glands"
+        },
+        {
+          "label": "E",
+          "text": "lacrimal and nasal glands"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Chorda tympani (from CN VII) carries taste and preganglionic parasympathetic fibres (relaying in the submandibular ganglion) to the submandibular and sublingual glands.",
+      "topicId": "g-hn",
+      "subtopic": "Infratemporal fossa",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-029",
+      "type": "single-best",
+      "stem": "The nerve to the medial pterygoid also supplies motor fibres to the tensor tympani and the",
+      "options": [
+        {
+          "label": "A",
+          "text": "stylopharyngeus"
+        },
+        {
+          "label": "B",
+          "text": "stapedius"
+        },
+        {
+          "label": "C",
+          "text": "buccinator"
+        },
+        {
+          "label": "D",
+          "text": "tensor veli palatini"
+        },
+        {
+          "label": "E",
+          "text": "levator veli palatini"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The nerve to medial pterygoid (from the main trunk of V3) also supplies tensor tympani and tensor veli palatini.",
+      "topicId": "g-hn",
+      "subtopic": "Infratemporal fossa",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-030",
+      "type": "single-best",
+      "stem": "Which muscle of mastication is the only one that protrudes the mandible and initiates jaw opening?",
+      "options": [
+        {
+          "label": "A",
+          "text": "medial pterygoid"
+        },
+        {
+          "label": "B",
+          "text": "masseter"
+        },
+        {
+          "label": "C",
+          "text": "temporalis"
+        },
+        {
+          "label": "D",
+          "text": "buccinator"
+        },
+        {
+          "label": "E",
+          "text": "lateral pterygoid"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The lateral pterygoid protrudes the mandible and begins depression (opening); the others close the jaw.",
+      "topicId": "g-hn",
+      "subtopic": "Infratemporal fossa",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-a-031",
+      "type": "single-best",
+      "stem": "The retromandibular vein is formed within the parotid region by union of the superficial temporal vein and the",
+      "options": [
+        {
+          "label": "A",
+          "text": "maxillary vein"
+        },
+        {
+          "label": "B",
+          "text": "facial vein"
+        },
+        {
+          "label": "C",
+          "text": "posterior auricular vein"
+        },
+        {
+          "label": "D",
+          "text": "internal jugular vein"
+        },
+        {
+          "label": "E",
+          "text": "pterygoid plexus"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The superficial temporal and maxillary veins unite to form the retromandibular vein.",
+      "topicId": "g-hn",
+      "subtopic": "Infratemporal fossa",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-032",
+      "type": "single-best",
+      "stem": "The pterygopalatine fossa is a pyramidal space lying behind the maxilla and below the",
+      "options": [
+        {
+          "label": "A",
+          "text": "nasal septum"
+        },
+        {
+          "label": "B",
+          "text": "apex of the orbit"
+        },
+        {
+          "label": "C",
+          "text": "floor of the middle cranial fossa"
+        },
+        {
+          "label": "D",
+          "text": "body of the mandible"
+        },
+        {
+          "label": "E",
+          "text": "hard palate"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The pterygopalatine fossa lies behind the maxilla, below the orbital apex, acting as a neurovascular crossroads.",
+      "topicId": "g-hn",
+      "subtopic": "Pterygopalatine fossa",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-a-033",
+      "type": "single-best",
+      "stem": "The anterior wall of the pterygopalatine fossa is formed by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "pyramidal process of the palatine bone"
+        },
+        {
+          "label": "B",
+          "text": "greater wing of the sphenoid"
+        },
+        {
+          "label": "C",
+          "text": "posterior surface of the maxilla"
+        },
+        {
+          "label": "D",
+          "text": "pterygoid process of the sphenoid"
+        },
+        {
+          "label": "E",
+          "text": "perpendicular plate of the palatine bone"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The posterior surface of the maxilla forms the anterior wall; the pterygoid process forms the posterior wall.",
+      "topicId": "g-hn",
+      "subtopic": "Pterygopalatine fossa",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-034",
+      "type": "single-best",
+      "stem": "Which opening in the medial wall of the pterygopalatine fossa leads directly into the nasal cavity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "inferior orbital fissure"
+        },
+        {
+          "label": "B",
+          "text": "pterygomaxillary fissure"
+        },
+        {
+          "label": "C",
+          "text": "greater palatine canal"
+        },
+        {
+          "label": "D",
+          "text": "sphenopalatine foramen"
+        },
+        {
+          "label": "E",
+          "text": "foramen rotundum"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The sphenopalatine foramen (medial wall) opens into the nasal cavity; foramen rotundum opens to the middle cranial fossa.",
+      "topicId": "g-hn",
+      "subtopic": "Pterygopalatine fossa",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-035",
+      "type": "single-best",
+      "stem": "The pterygopalatine fossa communicates with the orbit through the",
+      "options": [
+        {
+          "label": "A",
+          "text": "superior orbital fissure"
+        },
+        {
+          "label": "B",
+          "text": "optic canal"
+        },
+        {
+          "label": "C",
+          "text": "sphenopalatine foramen"
+        },
+        {
+          "label": "D",
+          "text": "foramen rotundum"
+        },
+        {
+          "label": "E",
+          "text": "inferior orbital fissure"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The inferior orbital fissure connects the pterygopalatine fossa to the floor of the orbit.",
+      "topicId": "g-hn",
+      "subtopic": "Pterygopalatine fossa",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-036",
+      "type": "single-best",
+      "stem": "The main parasympathetic (motor) root of the pterygopalatine ganglion is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "greater petrosal nerve"
+        },
+        {
+          "label": "B",
+          "text": "deep petrosal nerve"
+        },
+        {
+          "label": "C",
+          "text": "lesser petrosal nerve"
+        },
+        {
+          "label": "D",
+          "text": "chorda tympani"
+        },
+        {
+          "label": "E",
+          "text": "nerve to medial pterygoid"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The greater petrosal nerve (from CN VII) carries preganglionic parasympathetic fibres that synapse in the pterygopalatine ganglion.",
+      "topicId": "g-hn",
+      "subtopic": "Pterygopalatine fossa",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-037",
+      "type": "single-best",
+      "stem": "The nerve of the pterygoid canal (Vidian nerve) is formed by union of the greater petrosal nerve and the",
+      "options": [
+        {
+          "label": "A",
+          "text": "infraorbital nerve"
+        },
+        {
+          "label": "B",
+          "text": "deep petrosal nerve"
+        },
+        {
+          "label": "C",
+          "text": "lesser petrosal nerve"
+        },
+        {
+          "label": "D",
+          "text": "chorda tympani"
+        },
+        {
+          "label": "E",
+          "text": "nasopalatine nerve"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The Vidian nerve = greater petrosal (parasympathetic) + deep petrosal (sympathetic).",
+      "topicId": "g-hn",
+      "subtopic": "Pterygopalatine fossa",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-038",
+      "type": "single-best",
+      "stem": "The deep petrosal nerve carries which type of fibres into the pterygoid canal?",
+      "options": [
+        {
+          "label": "A",
+          "text": "postganglionic parasympathetic"
+        },
+        {
+          "label": "B",
+          "text": "special sensory (taste)"
+        },
+        {
+          "label": "C",
+          "text": "postganglionic sympathetic"
+        },
+        {
+          "label": "D",
+          "text": "preganglionic sympathetic"
+        },
+        {
+          "label": "E",
+          "text": "preganglionic parasympathetic"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The deep petrosal nerve carries postganglionic sympathetic fibres from the internal carotid plexus, which pass through the ganglion without synapsing.",
+      "topicId": "g-hn",
+      "subtopic": "Pterygopalatine fossa",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-039",
+      "type": "single-best",
+      "stem": "Postganglionic parasympathetic fibres from the pterygopalatine ganglion supply the lacrimal, nasal and palatine glands but NOT the",
+      "options": [
+        {
+          "label": "A",
+          "text": "palatine glands"
+        },
+        {
+          "label": "B",
+          "text": "lacrimal gland"
+        },
+        {
+          "label": "C",
+          "text": "pharyngeal glands"
+        },
+        {
+          "label": "D",
+          "text": "submandibular gland"
+        },
+        {
+          "label": "E",
+          "text": "nasal mucous glands"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The submandibular (and sublingual) glands are supplied by the submandibular ganglion, not the pterygopalatine ganglion.",
+      "topicId": "g-hn",
+      "subtopic": "Pterygopalatine fossa",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-040",
+      "type": "single-best",
+      "stem": "The nerve usually regarded as the direct continuation of the maxillary nerve beyond the pterygopalatine fossa is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "zygomatic nerve"
+        },
+        {
+          "label": "B",
+          "text": "posterior superior alveolar nerve"
+        },
+        {
+          "label": "C",
+          "text": "greater palatine nerve"
+        },
+        {
+          "label": "D",
+          "text": "nasopalatine nerve"
+        },
+        {
+          "label": "E",
+          "text": "infraorbital nerve"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "V2 continues as the infraorbital nerve through the inferior orbital fissure and infraorbital canal.",
+      "topicId": "g-hn",
+      "subtopic": "Pterygopalatine fossa",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-041",
+      "type": "single-best",
+      "stem": "Parasympathetic fibres reach the lacrimal gland from the pterygopalatine ganglion by travelling on the zygomatic nerve and then a communicating branch to the",
+      "options": [
+        {
+          "label": "A",
+          "text": "lacrimal nerve"
+        },
+        {
+          "label": "B",
+          "text": "frontal nerve"
+        },
+        {
+          "label": "C",
+          "text": "nasociliary nerve"
+        },
+        {
+          "label": "D",
+          "text": "infraorbital nerve"
+        },
+        {
+          "label": "E",
+          "text": "supraorbital nerve"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Secretomotor fibres hop from the zygomatic branch of V2 to the lacrimal nerve (V1) to reach the lacrimal gland.",
+      "topicId": "g-hn",
+      "subtopic": "Pterygopalatine fossa",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-042",
+      "type": "single-best",
+      "stem": "A maxillary nerve block placed in the pterygopalatine fossa would numb the",
+      "options": [
+        {
+          "label": "A",
+          "text": "lower teeth and buccal mucosa"
+        },
+        {
+          "label": "B",
+          "text": "lower eyelid, upper lip and nasal cavity"
+        },
+        {
+          "label": "C",
+          "text": "chin, lower lip and anterior tongue"
+        },
+        {
+          "label": "D",
+          "text": "upper eyelid, forehead and scalp"
+        },
+        {
+          "label": "E",
+          "text": "external ear and posterior scalp"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "V2 supplies the mid-face: lower eyelid, upper lip, upper teeth, palate and nasal cavity.",
+      "topicId": "g-hn",
+      "subtopic": "Pterygopalatine fossa",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-a-043",
+      "type": "single-best",
+      "stem": "The greater palatine nerve, a branch of the pterygopalatine ganglion, supplies the",
+      "options": [
+        {
+          "label": "A",
+          "text": "nasal septum"
+        },
+        {
+          "label": "B",
+          "text": "upper molar teeth"
+        },
+        {
+          "label": "C",
+          "text": "hard palate mucosa and gingiva"
+        },
+        {
+          "label": "D",
+          "text": "soft palate only"
+        },
+        {
+          "label": "E",
+          "text": "anterior palatal gingiva to the canines"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The greater palatine nerve supplies most of the hard-palate mucosa and gingiva; the nasopalatine supplies the anterior palate behind the incisors.",
+      "topicId": "g-hn",
+      "subtopic": "Pterygopalatine fossa",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-001",
+      "type": "single-best",
+      "stem": "The atlas (C1) is unusual among vertebrae in that it has no",
+      "options": [
+        {
+          "label": "A",
+          "text": "body or spinous process"
+        },
+        {
+          "label": "B",
+          "text": "transverse foramina"
+        },
+        {
+          "label": "C",
+          "text": "articular facets"
+        },
+        {
+          "label": "D",
+          "text": "vertebral foramen"
+        },
+        {
+          "label": "E",
+          "text": "posterior arch"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "C1 has no body and no true spinous process; it is a ring of two lateral masses joined by anterior and posterior arches.",
+      "topicId": "g-hn",
+      "subtopic": "Cervical spine",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-b-002",
+      "type": "single-best",
+      "stem": "The dens (odontoid process) is a distinguishing feature of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "first thoracic vertebra"
+        },
+        {
+          "label": "B",
+          "text": "axis (C2)"
+        },
+        {
+          "label": "C",
+          "text": "atlas (C1)"
+        },
+        {
+          "label": "D",
+          "text": "vertebra prominens (C7)"
+        },
+        {
+          "label": "E",
+          "text": "typical cervical vertebra"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The dens projects upward from the body of the axis (C2) and forms the pivot for the atlanto-axial joint.",
+      "topicId": "g-hn",
+      "subtopic": "Cervical spine",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-b-003",
+      "type": "single-best",
+      "stem": "A long, non-bifid spinous process that is easily palpated at the base of the neck identifies the",
+      "options": [
+        {
+          "label": "A",
+          "text": "third cervical vertebra"
+        },
+        {
+          "label": "B",
+          "text": "first thoracic vertebra"
+        },
+        {
+          "label": "C",
+          "text": "vertebra prominens (C7)"
+        },
+        {
+          "label": "D",
+          "text": "atlas (C1)"
+        },
+        {
+          "label": "E",
+          "text": "axis (C2)"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "C7, the vertebra prominens, has a long non-bifid spinous process used as a surface landmark.",
+      "topicId": "g-hn",
+      "subtopic": "Cervical spine",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-b-004",
+      "type": "single-best",
+      "stem": "A feature unique to cervical vertebrae, transmitting the vertebral artery, is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "intervertebral foramen"
+        },
+        {
+          "label": "B",
+          "text": "nutrient foramen"
+        },
+        {
+          "label": "C",
+          "text": "transverse foramen of the sacrum"
+        },
+        {
+          "label": "D",
+          "text": "foramen transversarium"
+        },
+        {
+          "label": "E",
+          "text": "vertebral foramen"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Each cervical transverse process contains a foramen transversarium; those of C1-C6 transmit the vertebral artery.",
+      "topicId": "g-hn",
+      "subtopic": "Cervical spine",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-b-005",
+      "type": "single-best",
+      "stem": "Nodding the head ('yes' movement) occurs chiefly at the",
+      "options": [
+        {
+          "label": "A",
+          "text": "atlanto-axial joint"
+        },
+        {
+          "label": "B",
+          "text": "C2-C3 facet joints"
+        },
+        {
+          "label": "C",
+          "text": "intervertebral discs"
+        },
+        {
+          "label": "D",
+          "text": "temporomandibular joint"
+        },
+        {
+          "label": "E",
+          "text": "atlanto-occipital joint"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Flexion-extension (nodding) occurs at the condyloid atlanto-occipital joints; rotation ('no') occurs at the atlanto-axial joint.",
+      "topicId": "g-hn",
+      "subtopic": "Cervical spine",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-b-006",
+      "type": "single-best",
+      "stem": "The ligament that holds the dens tightly against the anterior arch of the atlas is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "transverse ligament of the atlas"
+        },
+        {
+          "label": "B",
+          "text": "alar ligament"
+        },
+        {
+          "label": "C",
+          "text": "apical ligament of the dens"
+        },
+        {
+          "label": "D",
+          "text": "tectorial membrane"
+        },
+        {
+          "label": "E",
+          "text": "ligamentum nuchae"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The transverse ligament of the atlas retains the dens; the alar ligaments limit rotation and the apical ligament is a small median band.",
+      "topicId": "g-hn",
+      "subtopic": "Cervical spine",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-007",
+      "type": "single-best",
+      "stem": "A Jefferson fracture is a burst fracture of the anterior and posterior arches of which vertebra?",
+      "options": [
+        {
+          "label": "A",
+          "text": "first thoracic vertebra"
+        },
+        {
+          "label": "B",
+          "text": "atlas (C1)"
+        },
+        {
+          "label": "C",
+          "text": "axis (C2)"
+        },
+        {
+          "label": "D",
+          "text": "vertebra prominens (C7)"
+        },
+        {
+          "label": "E",
+          "text": "third cervical vertebra"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "A vertical blow to the vertex produces the Jefferson (burst) fracture of the C1 ring; the cord is often spared because the canal is wide.",
+      "topicId": "g-hn",
+      "subtopic": "Cervical spine",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-008",
+      "type": "single-best",
+      "stem": "A hangman's fracture passes bilaterally through the pars interarticularis of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "fourth cervical vertebra"
+        },
+        {
+          "label": "B",
+          "text": "first thoracic vertebra"
+        },
+        {
+          "label": "C",
+          "text": "axis (C2)"
+        },
+        {
+          "label": "D",
+          "text": "atlas (C1)"
+        },
+        {
+          "label": "E",
+          "text": "vertebra prominens (C7)"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Forceful hyperextension with distraction fractures the pars interarticularis of C2 (hangman's fracture).",
+      "topicId": "g-hn",
+      "subtopic": "Cervical spine",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-009",
+      "type": "single-best",
+      "stem": "The hyoid bone is unique among the bones of the body because it",
+      "options": [
+        {
+          "label": "A",
+          "text": "contains no bone marrow"
+        },
+        {
+          "label": "B",
+          "text": "is entirely cartilaginous"
+        },
+        {
+          "label": "C",
+          "text": "ossifies only in old age"
+        },
+        {
+          "label": "D",
+          "text": "articulates with no other bone"
+        },
+        {
+          "label": "E",
+          "text": "has no muscular attachments"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The U-shaped hyoid has no bony articulations; it is suspended by muscles and ligaments at the level of C3.",
+      "topicId": "g-hn",
+      "subtopic": "Hyoid",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-b-010",
+      "type": "single-best",
+      "stem": "Fracture of the hyoid bone is a classic forensic indicator of",
+      "options": [
+        {
+          "label": "A",
+          "text": "blunt chest trauma"
+        },
+        {
+          "label": "B",
+          "text": "a fall onto the vertex"
+        },
+        {
+          "label": "C",
+          "text": "a whiplash injury"
+        },
+        {
+          "label": "D",
+          "text": "a penetrating stab wound"
+        },
+        {
+          "label": "E",
+          "text": "manual strangulation"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Because the hyoid is well protected, its fracture strongly suggests manual (hands-on) strangulation.",
+      "topicId": "g-hn",
+      "subtopic": "Hyoid",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-b-011",
+      "type": "single-best",
+      "stem": "The sternocleidomastoid and trapezius both receive their motor supply from the",
+      "options": [
+        {
+          "label": "A",
+          "text": "accessory nerve (CN XI)"
+        },
+        {
+          "label": "B",
+          "text": "vagus nerve (CN X)"
+        },
+        {
+          "label": "C",
+          "text": "hypoglossal nerve (CN XII)"
+        },
+        {
+          "label": "D",
+          "text": "cervical plexus (C2-C4)"
+        },
+        {
+          "label": "E",
+          "text": "facial nerve (CN VII)"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "CN XI gives motor supply to SCM and trapezius; the cervical plexus provides only sensory (proprioceptive) fibres.",
+      "topicId": "g-hn",
+      "subtopic": "Neck muscles",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-b-012",
+      "type": "single-best",
+      "stem": "The platysma, a muscle of the superficial neck, is supplied by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "hypoglossal nerve (CN XII)"
+        },
+        {
+          "label": "B",
+          "text": "facial nerve (CN VII)"
+        },
+        {
+          "label": "C",
+          "text": "accessory nerve (CN XI)"
+        },
+        {
+          "label": "D",
+          "text": "cervical plexus"
+        },
+        {
+          "label": "E",
+          "text": "vagus nerve (CN X)"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Platysma is a muscle of facial expression supplied by the cervical branch of CN VII.",
+      "topicId": "g-hn",
+      "subtopic": "Neck muscles",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-b-013",
+      "type": "single-best",
+      "stem": "Most of the infrahyoid ('strap') muscles are innervated by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "vagus nerve"
+        },
+        {
+          "label": "B",
+          "text": "accessory nerve"
+        },
+        {
+          "label": "C",
+          "text": "ansa cervicalis"
+        },
+        {
+          "label": "D",
+          "text": "hypoglossal nerve"
+        },
+        {
+          "label": "E",
+          "text": "phrenic nerve"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Sternohyoid, sternothyroid and omohyoid are supplied by the ansa cervicalis (C1-C3); thyrohyoid gets C1 fibres via CN XII.",
+      "topicId": "g-hn",
+      "subtopic": "Neck muscles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-014",
+      "type": "single-best",
+      "stem": "The only infrahyoid muscle NOT supplied by the ansa cervicalis is the thyrohyoid, which is supplied by",
+      "options": [
+        {
+          "label": "A",
+          "text": "the phrenic nerve"
+        },
+        {
+          "label": "B",
+          "text": "the external laryngeal nerve"
+        },
+        {
+          "label": "C",
+          "text": "the accessory nerve"
+        },
+        {
+          "label": "D",
+          "text": "C1 via the hypoglossal nerve"
+        },
+        {
+          "label": "E",
+          "text": "the superior laryngeal nerve"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Thyrohyoid (and geniohyoid) receive C1 fibres travelling with CN XII.",
+      "topicId": "g-hn",
+      "subtopic": "Neck muscles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-015",
+      "type": "single-best",
+      "stem": "The mylohyoid muscle, which forms the floor of the mouth, is supplied by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "the hypoglossal nerve"
+        },
+        {
+          "label": "B",
+          "text": "the facial nerve"
+        },
+        {
+          "label": "C",
+          "text": "the lingual nerve"
+        },
+        {
+          "label": "D",
+          "text": "the glossopharyngeal nerve"
+        },
+        {
+          "label": "E",
+          "text": "nerve to mylohyoid (V3)"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The nerve to mylohyoid, a branch of the inferior alveolar nerve (V3), supplies mylohyoid and the anterior belly of digastric.",
+      "topicId": "g-hn",
+      "subtopic": "Neck muscles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-016",
+      "type": "single-best",
+      "stem": "The posterior belly of the digastric muscle is supplied by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "facial nerve (CN VII)"
+        },
+        {
+          "label": "B",
+          "text": "trigeminal nerve (V3)"
+        },
+        {
+          "label": "C",
+          "text": "hypoglossal nerve"
+        },
+        {
+          "label": "D",
+          "text": "glossopharyngeal nerve"
+        },
+        {
+          "label": "E",
+          "text": "accessory nerve"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The anterior belly is supplied by V3 (nerve to mylohyoid) and the posterior belly by CN VII, reflecting their arch origins.",
+      "topicId": "g-hn",
+      "subtopic": "Neck muscles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-017",
+      "type": "single-best",
+      "stem": "All four suboccipital muscles are supplied by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "dorsal ramus of C2"
+        },
+        {
+          "label": "B",
+          "text": "suboccipital nerve (C1)"
+        },
+        {
+          "label": "C",
+          "text": "greater occipital nerve"
+        },
+        {
+          "label": "D",
+          "text": "lesser occipital nerve"
+        },
+        {
+          "label": "E",
+          "text": "the accessory nerve"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The suboccipital nerve (posterior ramus of C1) is motor to all four suboccipital muscles.",
+      "topicId": "g-hn",
+      "subtopic": "Neck muscles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-018",
+      "type": "single-best",
+      "stem": "The anterior scalene is an important landmark because the phrenic nerve",
+      "options": [
+        {
+          "label": "A",
+          "text": "wraps around its lateral border"
+        },
+        {
+          "label": "B",
+          "text": "runs within its tendon"
+        },
+        {
+          "label": "C",
+          "text": "descends on its anterior surface"
+        },
+        {
+          "label": "D",
+          "text": "pierces its muscle belly"
+        },
+        {
+          "label": "E",
+          "text": "lies deep (posterior) to it"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The phrenic nerve passes vertically downward on the anterior surface of the anterior scalene.",
+      "topicId": "g-hn",
+      "subtopic": "Neck muscles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-019",
+      "type": "single-best",
+      "stem": "The roots and trunks of the brachial plexus, with the subclavian artery, emerge between the anterior scalene and the",
+      "options": [
+        {
+          "label": "A",
+          "text": "longus colli"
+        },
+        {
+          "label": "B",
+          "text": "sternocleidomastoid"
+        },
+        {
+          "label": "C",
+          "text": "levator scapulae"
+        },
+        {
+          "label": "D",
+          "text": "middle scalene"
+        },
+        {
+          "label": "E",
+          "text": "posterior scalene"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The interscalene triangle between anterior and middle scalene transmits the brachial plexus and subclavian artery.",
+      "topicId": "g-hn",
+      "subtopic": "Neck muscles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-020",
+      "type": "single-best",
+      "stem": "The posterior triangle of the neck is bounded anteriorly by the SCM and posteriorly by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "posterior belly of digastric"
+        },
+        {
+          "label": "B",
+          "text": "superior belly of omohyoid"
+        },
+        {
+          "label": "C",
+          "text": "middle third of the clavicle"
+        },
+        {
+          "label": "D",
+          "text": "anterior border of trapezius and the clavicle"
+        },
+        {
+          "label": "E",
+          "text": "anterior border of trapezius"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Posterior triangle: anterior = posterior border of SCM, posterior = anterior border of trapezius, base = middle third of clavicle.",
+      "topicId": "g-hn",
+      "subtopic": "Neck triangles",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-b-021",
+      "type": "single-best",
+      "stem": "A nerve especially vulnerable during a lymph-node biopsy in the posterior triangle is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "spinal accessory nerve"
+        },
+        {
+          "label": "B",
+          "text": "phrenic nerve"
+        },
+        {
+          "label": "C",
+          "text": "vagus nerve"
+        },
+        {
+          "label": "D",
+          "text": "hypoglossal nerve"
+        },
+        {
+          "label": "E",
+          "text": "great auricular nerve"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "CN XI runs superficially across the posterior triangle and may be injured in node biopsy, causing trapezius weakness.",
+      "topicId": "g-hn",
+      "subtopic": "Neck triangles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-022",
+      "type": "single-best",
+      "stem": "The carotid triangle is so named because it contains the",
+      "options": [
+        {
+          "label": "A",
+          "text": "carotid canal"
+        },
+        {
+          "label": "B",
+          "text": "bifurcation of the common carotid artery"
+        },
+        {
+          "label": "C",
+          "text": "internal carotid artery only"
+        },
+        {
+          "label": "D",
+          "text": "carotid sheath and thoracic duct"
+        },
+        {
+          "label": "E",
+          "text": "entire cervical sympathetic trunk"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The carotid triangle contains the carotid bifurcation and the beginning of the internal and external carotid arteries.",
+      "topicId": "g-hn",
+      "subtopic": "Neck triangles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-023",
+      "type": "single-best",
+      "stem": "The submental triangle is unpaired because it is bounded by the body of the hyoid and the",
+      "options": [
+        {
+          "label": "A",
+          "text": "the two sternocleidomastoid muscles"
+        },
+        {
+          "label": "B",
+          "text": "the mylohyoid and hyoglossus muscles"
+        },
+        {
+          "label": "C",
+          "text": "the anterior bellies of digastric"
+        },
+        {
+          "label": "D",
+          "text": "the posterior bellies of digastric"
+        },
+        {
+          "label": "E",
+          "text": "the superior bellies of omohyoid"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The submental triangle lies between the two anterior bellies of digastric and the hyoid, crossing the midline.",
+      "topicId": "g-hn",
+      "subtopic": "Neck triangles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-024",
+      "type": "single-best",
+      "stem": "The anterior triangle of the neck is subdivided by the digastric and the superior belly of omohyoid into the carotid, muscular, submental and",
+      "options": [
+        {
+          "label": "A",
+          "text": "occipital triangle"
+        },
+        {
+          "label": "B",
+          "text": "supraclavicular triangle"
+        },
+        {
+          "label": "C",
+          "text": "interscalene triangle"
+        },
+        {
+          "label": "D",
+          "text": "submandibular triangle"
+        },
+        {
+          "label": "E",
+          "text": "suboccipital triangle"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The four subdivisions of the anterior triangle are the carotid, muscular, submental and submandibular (digastric) triangles.",
+      "topicId": "g-hn",
+      "subtopic": "Neck triangles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-025",
+      "type": "single-best",
+      "stem": "The recurrent laryngeal nerve supplies all the intrinsic muscles of the larynx except the",
+      "options": [
+        {
+          "label": "A",
+          "text": "posterior cricoarytenoid"
+        },
+        {
+          "label": "B",
+          "text": "lateral cricoarytenoid"
+        },
+        {
+          "label": "C",
+          "text": "transverse arytenoid"
+        },
+        {
+          "label": "D",
+          "text": "thyroarytenoid"
+        },
+        {
+          "label": "E",
+          "text": "cricothyroid"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The cricothyroid is supplied by the external branch of the superior laryngeal nerve; the RLN supplies all other intrinsic laryngeal muscles.",
+      "topicId": "g-hn",
+      "subtopic": "Neck nerves",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-026",
+      "type": "single-best",
+      "stem": "The four cutaneous branches of the cervical plexus emerge at the midpoint of the posterior border of the SCM, a site called",
+      "options": [
+        {
+          "label": "A",
+          "text": "Erb's point"
+        },
+        {
+          "label": "B",
+          "text": "McBurney's point"
+        },
+        {
+          "label": "C",
+          "text": "the carotid triangle"
+        },
+        {
+          "label": "D",
+          "text": "the angle of the mandible"
+        },
+        {
+          "label": "E",
+          "text": "Little's area"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Erb's point (nerve point of the neck) is where the cutaneous branches of the cervical plexus emerge; used for a cervical plexus block.",
+      "topicId": "g-hn",
+      "subtopic": "Neck nerves",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-027",
+      "type": "single-best",
+      "stem": "The phrenic nerve, the sole motor supply to the diaphragm, arises mainly from spinal segment",
+      "options": [
+        {
+          "label": "A",
+          "text": "C8"
+        },
+        {
+          "label": "B",
+          "text": "C4"
+        },
+        {
+          "label": "C",
+          "text": "C2"
+        },
+        {
+          "label": "D",
+          "text": "C6"
+        },
+        {
+          "label": "E",
+          "text": "T1"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The phrenic nerve arises from C3-C5, mainly C4 ('C3, 4, 5 keep the diaphragm alive').",
+      "topicId": "g-hn",
+      "subtopic": "Neck nerves",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-b-028",
+      "type": "single-best",
+      "stem": "The ansa cervicalis is formed by fibres from spinal nerves",
+      "options": [
+        {
+          "label": "A",
+          "text": "C4 to C6"
+        },
+        {
+          "label": "B",
+          "text": "C5 to C7"
+        },
+        {
+          "label": "C",
+          "text": "C1 to C3"
+        },
+        {
+          "label": "D",
+          "text": "C2 to C4"
+        },
+        {
+          "label": "E",
+          "text": "C3 to C5"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The ansa cervicalis (superior and inferior roots) is formed by C1-C3 and supplies the infrahyoid muscles.",
+      "topicId": "g-hn",
+      "subtopic": "Neck nerves",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-029",
+      "type": "single-best",
+      "stem": "Which cranial nerve descends within the carotid sheath throughout the neck?",
+      "options": [
+        {
+          "label": "A",
+          "text": "accessory nerve (CN XI)"
+        },
+        {
+          "label": "B",
+          "text": "glossopharyngeal nerve (CN IX)"
+        },
+        {
+          "label": "C",
+          "text": "facial nerve (CN VII)"
+        },
+        {
+          "label": "D",
+          "text": "vagus nerve (CN X)"
+        },
+        {
+          "label": "E",
+          "text": "hypoglossal nerve (CN XII)"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "CN X runs the length of the carotid sheath between and behind the carotid artery and internal jugular vein.",
+      "topicId": "g-hn",
+      "subtopic": "Neck nerves",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-b-030",
+      "type": "single-best",
+      "stem": "The great auricular nerve, a cutaneous branch of the cervical plexus, supplies skin over the",
+      "options": [
+        {
+          "label": "A",
+          "text": "anterior neck"
+        },
+        {
+          "label": "B",
+          "text": "clavicle and shoulder"
+        },
+        {
+          "label": "C",
+          "text": "scalp behind the ear only"
+        },
+        {
+          "label": "D",
+          "text": "lower lip and chin"
+        },
+        {
+          "label": "E",
+          "text": "parotid gland and lower pinna"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The great auricular nerve (C2-C3) supplies skin over the parotid, the angle of the jaw and the lower auricle.",
+      "topicId": "g-hn",
+      "subtopic": "Neck nerves",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-031",
+      "type": "single-best",
+      "stem": "The common carotid artery usually bifurcates at the level of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "the thyroid cartilage"
+        },
+        {
+          "label": "B",
+          "text": "the hyoid bone"
+        },
+        {
+          "label": "C",
+          "text": "the cricoid cartilage"
+        },
+        {
+          "label": "D",
+          "text": "the first tracheal ring"
+        },
+        {
+          "label": "E",
+          "text": "the angle of the mandible"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The CCA divides into internal and external carotid arteries at about C4, the upper border of the thyroid cartilage.",
+      "topicId": "g-hn",
+      "subtopic": "Neck arteries",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-b-032",
+      "type": "single-best",
+      "stem": "Which artery gives no branches in the neck?",
+      "options": [
+        {
+          "label": "A",
+          "text": "vertebral artery"
+        },
+        {
+          "label": "B",
+          "text": "internal carotid artery"
+        },
+        {
+          "label": "C",
+          "text": "external carotid artery"
+        },
+        {
+          "label": "D",
+          "text": "subclavian artery"
+        },
+        {
+          "label": "E",
+          "text": "common carotid artery"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The internal carotid artery ascends to the skull without branching in the neck; the external carotid gives several branches.",
+      "topicId": "g-hn",
+      "subtopic": "Neck arteries",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-b-033",
+      "type": "single-best",
+      "stem": "The vertebral artery most commonly arises from the",
+      "options": [
+        {
+          "label": "A",
+          "text": "thyrocervical trunk"
+        },
+        {
+          "label": "B",
+          "text": "internal carotid artery"
+        },
+        {
+          "label": "C",
+          "text": "subclavian artery"
+        },
+        {
+          "label": "D",
+          "text": "external carotid artery"
+        },
+        {
+          "label": "E",
+          "text": "common carotid artery"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The vertebral artery is the first branch of the first part of the subclavian artery and ascends through the foramina transversaria.",
+      "topicId": "g-hn",
+      "subtopic": "Neck arteries",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-b-034",
+      "type": "single-best",
+      "stem": "The inferior thyroid artery is a branch of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "costocervical trunk"
+        },
+        {
+          "label": "B",
+          "text": "internal thoracic artery"
+        },
+        {
+          "label": "C",
+          "text": "subclavian artery directly"
+        },
+        {
+          "label": "D",
+          "text": "thyrocervical trunk"
+        },
+        {
+          "label": "E",
+          "text": "external carotid artery"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The inferior thyroid artery arises from the thyrocervical trunk of the subclavian artery.",
+      "topicId": "g-hn",
+      "subtopic": "Neck arteries",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-035",
+      "type": "single-best",
+      "stem": "Carotid sinus massage slows the heart because it stimulates baroreceptors supplied by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "vagus nerve (CN X)"
+        },
+        {
+          "label": "B",
+          "text": "sympathetic trunk"
+        },
+        {
+          "label": "C",
+          "text": "facial nerve (CN VII)"
+        },
+        {
+          "label": "D",
+          "text": "hypoglossal nerve (CN XII)"
+        },
+        {
+          "label": "E",
+          "text": "glossopharyngeal nerve (CN IX)"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Baroreceptors of the carotid sinus are supplied by CN IX; their stimulation raises vagal tone and slows the heart.",
+      "topicId": "g-hn",
+      "subtopic": "Neck arteries",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-036",
+      "type": "single-best",
+      "stem": "The internal jugular vein begins at the jugular foramen as a continuation of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "sigmoid sinus"
+        },
+        {
+          "label": "B",
+          "text": "cavernous sinus"
+        },
+        {
+          "label": "C",
+          "text": "superior sagittal sinus"
+        },
+        {
+          "label": "D",
+          "text": "inferior petrosal sinus"
+        },
+        {
+          "label": "E",
+          "text": "straight sinus"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The IJV begins as the continuation of the sigmoid sinus at the jugular foramen.",
+      "topicId": "g-hn",
+      "subtopic": "Neck veins",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-037",
+      "type": "single-best",
+      "stem": "The external jugular vein is formed by the posterior auricular vein and the",
+      "options": [
+        {
+          "label": "A",
+          "text": "superior thyroid vein"
+        },
+        {
+          "label": "B",
+          "text": "posterior division of the retromandibular vein"
+        },
+        {
+          "label": "C",
+          "text": "anterior division of the retromandibular vein"
+        },
+        {
+          "label": "D",
+          "text": "common facial vein"
+        },
+        {
+          "label": "E",
+          "text": "anterior jugular vein"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The EJV = posterior auricular vein + posterior division of the retromandibular vein; it crosses the SCM superficially.",
+      "topicId": "g-hn",
+      "subtopic": "Neck veins",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-038",
+      "type": "single-best",
+      "stem": "The right internal jugular vein is preferred for central venous catheterisation mainly because it has",
+      "options": [
+        {
+          "label": "A",
+          "text": "valves that prevent reflux"
+        },
+        {
+          "label": "B",
+          "text": "no relation to the carotid artery"
+        },
+        {
+          "label": "C",
+          "text": "a straighter path to the SVC"
+        },
+        {
+          "label": "D",
+          "text": "a wider lumen than the left"
+        },
+        {
+          "label": "E",
+          "text": "no surrounding lymph nodes"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The right IJV gives a nearly straight line to the SVC and avoids the thoracic duct, which drains at the left venous angle.",
+      "topicId": "g-hn",
+      "subtopic": "Neck veins",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-039",
+      "type": "single-best",
+      "stem": "The jugulodigastric (tonsillar) node is typically the first to enlarge in",
+      "options": [
+        {
+          "label": "A",
+          "text": "thyroid cancer"
+        },
+        {
+          "label": "B",
+          "text": "carcinoma of the tongue tip"
+        },
+        {
+          "label": "C",
+          "text": "breast carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "tonsillitis and pharyngitis"
+        },
+        {
+          "label": "E",
+          "text": "carcinoma of the stomach"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The jugulodigastric node drains the tonsil and pharynx and enlarges early in tonsillitis and oropharyngeal cancer.",
+      "topicId": "g-hn",
+      "subtopic": "Neck lymphatics",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-040",
+      "type": "single-best",
+      "stem": "An enlarged, firm, non-tender left supraclavicular (Virchow's) node suggests metastatic cancer of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "the scalp or occiput"
+        },
+        {
+          "label": "B",
+          "text": "the parotid gland"
+        },
+        {
+          "label": "C",
+          "text": "the larynx"
+        },
+        {
+          "label": "D",
+          "text": "the thyroid gland"
+        },
+        {
+          "label": "E",
+          "text": "an abdominal organ"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Virchow's node receives lymph via the thoracic duct from the abdomen; Troisier's sign points to gastric and other abdominal malignancy.",
+      "topicId": "g-hn",
+      "subtopic": "Neck lymphatics",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-041",
+      "type": "single-best",
+      "stem": "The jugulo-omohyoid node is particularly associated with lymph drainage from the",
+      "options": [
+        {
+          "label": "A",
+          "text": "tongue"
+        },
+        {
+          "label": "B",
+          "text": "nasopharynx"
+        },
+        {
+          "label": "C",
+          "text": "parotid gland"
+        },
+        {
+          "label": "D",
+          "text": "larynx only"
+        },
+        {
+          "label": "E",
+          "text": "thyroid isthmus"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The jugulo-omohyoid node is the 'lymph node of the tongue', often the first involved in tongue carcinoma.",
+      "topicId": "g-hn",
+      "subtopic": "Neck lymphatics",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-042",
+      "type": "single-best",
+      "stem": "The investing layer of deep cervical fascia splits to enclose the trapezius and the",
+      "options": [
+        {
+          "label": "A",
+          "text": "prevertebral muscles"
+        },
+        {
+          "label": "B",
+          "text": "sternocleidomastoid"
+        },
+        {
+          "label": "C",
+          "text": "infrahyoid muscles"
+        },
+        {
+          "label": "D",
+          "text": "pharynx and oesophagus"
+        },
+        {
+          "label": "E",
+          "text": "carotid sheath contents"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The investing layer surrounds the neck like a collar, splitting to ensheath the SCM and trapezius and the parotid and submandibular glands.",
+      "topicId": "g-hn",
+      "subtopic": "Neck fascia",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-043",
+      "type": "single-best",
+      "stem": "The pretracheal layer of deep cervical fascia encloses the",
+      "options": [
+        {
+          "label": "A",
+          "text": "prevertebral and scalene muscles"
+        },
+        {
+          "label": "B",
+          "text": "internal jugular vein and phrenic nerve"
+        },
+        {
+          "label": "C",
+          "text": "thyroid gland, trachea and oesophagus"
+        },
+        {
+          "label": "D",
+          "text": "sternocleidomastoid and trapezius"
+        },
+        {
+          "label": "E",
+          "text": "carotid artery and vagus nerve"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The visceral pretracheal fascia encloses the thyroid, larynx, trachea, pharynx and cervical oesophagus.",
+      "topicId": "g-hn",
+      "subtopic": "Neck fascia",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-044",
+      "type": "single-best",
+      "stem": "The carotid sheath encloses the common/internal carotid artery, the vagus nerve and the",
+      "options": [
+        {
+          "label": "A",
+          "text": "phrenic nerve"
+        },
+        {
+          "label": "B",
+          "text": "sympathetic trunk"
+        },
+        {
+          "label": "C",
+          "text": "thoracic duct"
+        },
+        {
+          "label": "D",
+          "text": "internal jugular vein"
+        },
+        {
+          "label": "E",
+          "text": "external jugular vein"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The carotid sheath contains the carotid artery, IJV and CN X; the sympathetic trunk lies behind it, not within it.",
+      "topicId": "g-hn",
+      "subtopic": "Neck fascia",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-045",
+      "type": "single-best",
+      "stem": "Infection in the 'danger space' is clinically feared because it can spread directly to the",
+      "options": [
+        {
+          "label": "A",
+          "text": "anterior cranial fossa"
+        },
+        {
+          "label": "B",
+          "text": "orbit"
+        },
+        {
+          "label": "C",
+          "text": "parotid region"
+        },
+        {
+          "label": "D",
+          "text": "submandibular space"
+        },
+        {
+          "label": "E",
+          "text": "posterior mediastinum"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The danger space (between alar and prevertebral fasciae) runs from the skull base to the diaphragm, allowing spread to the posterior mediastinum.",
+      "topicId": "g-hn",
+      "subtopic": "Neck fascia",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-046",
+      "type": "single-best",
+      "stem": "The cervical sympathetic trunk lies on the surface of which fascia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "prevertebral fascia"
+        },
+        {
+          "label": "B",
+          "text": "pretracheal fascia"
+        },
+        {
+          "label": "C",
+          "text": "investing layer"
+        },
+        {
+          "label": "D",
+          "text": "buccopharyngeal fascia"
+        },
+        {
+          "label": "E",
+          "text": "alar fascia"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The sympathetic trunk lies on the prevertebral fascia, behind (deep to) the carotid sheath.",
+      "topicId": "g-hn",
+      "subtopic": "Neck fascia",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-047",
+      "type": "single-best",
+      "stem": "The thyroid isthmus typically crosses in front of which tracheal rings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "at the cricoid only"
+        },
+        {
+          "label": "B",
+          "text": "second to fourth"
+        },
+        {
+          "label": "C",
+          "text": "first to second"
+        },
+        {
+          "label": "D",
+          "text": "fifth to sixth"
+        },
+        {
+          "label": "E",
+          "text": "below the sixth"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The isthmus usually overlies the 2nd-4th tracheal rings, a landmark for tracheostomy.",
+      "topicId": "g-hn",
+      "subtopic": "Thyroid",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-b-048",
+      "type": "single-best",
+      "stem": "A pyramidal lobe of the thyroid, when present, is a remnant of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "foramen caecum only"
+        },
+        {
+          "label": "B",
+          "text": "Rathke's pouch"
+        },
+        {
+          "label": "C",
+          "text": "thyroglossal duct"
+        },
+        {
+          "label": "D",
+          "text": "ultimobranchial body"
+        },
+        {
+          "label": "E",
+          "text": "third pharyngeal pouch"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The pyramidal lobe represents a persistent lower part of the thyroglossal duct.",
+      "topicId": "g-hn",
+      "subtopic": "Thyroid",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-049",
+      "type": "single-best",
+      "stem": "Calcitonin is secreted by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "parathyroid chief cells"
+        },
+        {
+          "label": "B",
+          "text": "oxyphil cells"
+        },
+        {
+          "label": "C",
+          "text": "colloid"
+        },
+        {
+          "label": "D",
+          "text": "parafollicular (C) cells"
+        },
+        {
+          "label": "E",
+          "text": "thyroid follicular cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Parafollicular (C) cells secrete calcitonin; follicular cells make T3 and T4.",
+      "topicId": "g-hn",
+      "subtopic": "Thyroid",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-b-050",
+      "type": "single-best",
+      "stem": "The nerve most at risk of injury during thyroidectomy, running near the groove between trachea and oesophagus, is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "external laryngeal nerve"
+        },
+        {
+          "label": "B",
+          "text": "internal laryngeal nerve"
+        },
+        {
+          "label": "C",
+          "text": "phrenic nerve"
+        },
+        {
+          "label": "D",
+          "text": "hypoglossal nerve"
+        },
+        {
+          "label": "E",
+          "text": "recurrent laryngeal nerve"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The recurrent laryngeal nerve lies in or near the tracheo-oesophageal groove and may be injured in thyroid surgery.",
+      "topicId": "g-hn",
+      "subtopic": "Thyroid",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-051",
+      "type": "single-best",
+      "stem": "The superior parathyroid glands develop embryologically from the",
+      "options": [
+        {
+          "label": "A",
+          "text": "fourth pharyngeal pouches"
+        },
+        {
+          "label": "B",
+          "text": "third pharyngeal pouches"
+        },
+        {
+          "label": "C",
+          "text": "second pharyngeal pouches"
+        },
+        {
+          "label": "D",
+          "text": "first pharyngeal pouches"
+        },
+        {
+          "label": "E",
+          "text": "thyroglossal duct"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Superior parathyroids arise from the 4th pouches; the inferior parathyroids (and thymus) arise from the 3rd pouches.",
+      "topicId": "g-hn",
+      "subtopic": "Parathyroid",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-052",
+      "type": "single-best",
+      "stem": "The inferior parathyroid glands are more variable in position and may descend into the",
+      "options": [
+        {
+          "label": "A",
+          "text": "pterygopalatine fossa"
+        },
+        {
+          "label": "B",
+          "text": "superior mediastinum"
+        },
+        {
+          "label": "C",
+          "text": "posterior cranial fossa"
+        },
+        {
+          "label": "D",
+          "text": "carotid sheath"
+        },
+        {
+          "label": "E",
+          "text": "submandibular space"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Because of their longer embryological descent with the thymus, inferior parathyroids may be found in the superior mediastinum.",
+      "topicId": "g-hn",
+      "subtopic": "Parathyroid",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-053",
+      "type": "single-best",
+      "stem": "A Pancoast tumour at the lung apex may cause Horner's syndrome by compressing the",
+      "options": [
+        {
+          "label": "A",
+          "text": "recurrent laryngeal nerve"
+        },
+        {
+          "label": "B",
+          "text": "superior cervical ganglion"
+        },
+        {
+          "label": "C",
+          "text": "stellate ganglion"
+        },
+        {
+          "label": "D",
+          "text": "the vagus nerve"
+        },
+        {
+          "label": "E",
+          "text": "the phrenic nerve"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "An apical lung tumour can compress the stellate ganglion, interrupting sympathetic supply to the head and neck.",
+      "topicId": "g-hn",
+      "subtopic": "Sympathetic trunk",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-054",
+      "type": "single-best",
+      "stem": "Postganglionic sympathetic fibres to the dilator pupillae and other orbital structures travel from the superior cervical ganglion along the",
+      "options": [
+        {
+          "label": "A",
+          "text": "vertebral artery"
+        },
+        {
+          "label": "B",
+          "text": "inferior thyroid artery"
+        },
+        {
+          "label": "C",
+          "text": "facial artery"
+        },
+        {
+          "label": "D",
+          "text": "internal carotid artery"
+        },
+        {
+          "label": "E",
+          "text": "external carotid artery"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Fibres run with the internal carotid artery as the internal carotid (carotid) plexus to reach the orbit.",
+      "topicId": "g-hn",
+      "subtopic": "Sympathetic trunk",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-b-055",
+      "type": "single-best",
+      "stem": "In the cervical sympathetic trunk, the preganglionic fibres that synapse in the superior cervical ganglion originate from the",
+      "options": [
+        {
+          "label": "A",
+          "text": "cervical spinal segments directly"
+        },
+        {
+          "label": "B",
+          "text": "medulla oblongata"
+        },
+        {
+          "label": "C",
+          "text": "sacral spinal segments"
+        },
+        {
+          "label": "D",
+          "text": "the ganglion's own neurons"
+        },
+        {
+          "label": "E",
+          "text": "upper thoracic spinal segments"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "No white rami enter the cervical ganglia; preganglionic fibres ascend from upper thoracic (T1-T6) segments to synapse there.",
+      "topicId": "g-hn",
+      "subtopic": "Sympathetic trunk",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-001",
+      "type": "single-best",
+      "stem": "The fragile 'lamina papyracea' that forms most of the medial wall of the orbit is part of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "ethmoid bone"
+        },
+        {
+          "label": "B",
+          "text": "lacrimal bone"
+        },
+        {
+          "label": "C",
+          "text": "sphenoid bone"
+        },
+        {
+          "label": "D",
+          "text": "maxilla"
+        },
+        {
+          "label": "E",
+          "text": "palatine bone"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The lamina papyracea is the paper-thin orbital plate of the ethmoid, lying next to the ethmoidal air cells.",
+      "topicId": "g-hn",
+      "subtopic": "Orbit",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-002",
+      "type": "single-best",
+      "stem": "The roof of the orbit is formed mainly by the orbital plate of the frontal bone and the",
+      "options": [
+        {
+          "label": "A",
+          "text": "frontal process of the maxilla"
+        },
+        {
+          "label": "B",
+          "text": "lesser wing of the sphenoid"
+        },
+        {
+          "label": "C",
+          "text": "greater wing of the sphenoid"
+        },
+        {
+          "label": "D",
+          "text": "orbital plate of the ethmoid"
+        },
+        {
+          "label": "E",
+          "text": "orbital process of the palatine"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The roof is formed by the frontal bone's orbital plate and the lesser wing of the sphenoid.",
+      "topicId": "g-hn",
+      "subtopic": "Orbit",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-003",
+      "type": "single-best",
+      "stem": "The common tendinous ring (annulus of Zinn) is the common origin of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "superior rectus and oblique"
+        },
+        {
+          "label": "B",
+          "text": "all seven extraocular muscles"
+        },
+        {
+          "label": "C",
+          "text": "four rectus muscles"
+        },
+        {
+          "label": "D",
+          "text": "two oblique muscles"
+        },
+        {
+          "label": "E",
+          "text": "levator palpebrae superioris"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The four recti arise from the annulus of Zinn, which surrounds the optic canal at the orbital apex.",
+      "topicId": "g-hn",
+      "subtopic": "Orbit",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-004",
+      "type": "single-best",
+      "stem": "Which structure passes through the superior orbital fissure OUTSIDE the common tendinous ring?",
+      "options": [
+        {
+          "label": "A",
+          "text": "nasociliary nerve"
+        },
+        {
+          "label": "B",
+          "text": "abducent nerve (CN VI)"
+        },
+        {
+          "label": "C",
+          "text": "optic nerve (CN II)"
+        },
+        {
+          "label": "D",
+          "text": "trochlear nerve (CN IV)"
+        },
+        {
+          "label": "E",
+          "text": "oculomotor nerve (CN III)"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "CN IV, the frontal and lacrimal nerves and the superior ophthalmic vein pass outside the ring; III, VI and nasociliary pass through it.",
+      "topicId": "g-hn",
+      "subtopic": "Orbit",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-005",
+      "type": "single-best",
+      "stem": "The optic canal transmits the optic nerve and the",
+      "options": [
+        {
+          "label": "A",
+          "text": "central retinal vein"
+        },
+        {
+          "label": "B",
+          "text": "superior ophthalmic vein"
+        },
+        {
+          "label": "C",
+          "text": "nasociliary nerve"
+        },
+        {
+          "label": "D",
+          "text": "abducent nerve"
+        },
+        {
+          "label": "E",
+          "text": "ophthalmic artery"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The optic canal, in the lesser wing of the sphenoid, carries CN II and the ophthalmic artery.",
+      "topicId": "g-hn",
+      "subtopic": "Orbit",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-c-006",
+      "type": "single-best",
+      "stem": "The lateral rectus muscle is supplied by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "abducent nerve (CN VI)"
+        },
+        {
+          "label": "B",
+          "text": "oculomotor nerve (CN III)"
+        },
+        {
+          "label": "C",
+          "text": "trochlear nerve (CN IV)"
+        },
+        {
+          "label": "D",
+          "text": "ophthalmic nerve (CN V1)"
+        },
+        {
+          "label": "E",
+          "text": "facial nerve (CN VII)"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Remember LR6 SO4, the rest 3: lateral rectus = CN VI, superior oblique = CN IV, all others = CN III.",
+      "topicId": "g-hn",
+      "subtopic": "Extraocular muscles",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-c-007",
+      "type": "single-best",
+      "stem": "The superior oblique muscle is supplied by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "optic nerve (CN II)"
+        },
+        {
+          "label": "B",
+          "text": "trochlear nerve (CN IV)"
+        },
+        {
+          "label": "C",
+          "text": "oculomotor nerve (CN III)"
+        },
+        {
+          "label": "D",
+          "text": "abducent nerve (CN VI)"
+        },
+        {
+          "label": "E",
+          "text": "ophthalmic nerve (CN V1)"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The superior oblique is the only extraocular muscle supplied by CN IV (the trochlear nerve).",
+      "topicId": "g-hn",
+      "subtopic": "Extraocular muscles",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-c-008",
+      "type": "single-best",
+      "stem": "The tendon of the superior oblique muscle changes direction by passing through a fibrocartilaginous pulley called the",
+      "options": [
+        {
+          "label": "A",
+          "text": "suspensory ligament"
+        },
+        {
+          "label": "B",
+          "text": "tarsal plate"
+        },
+        {
+          "label": "C",
+          "text": "trochlea"
+        },
+        {
+          "label": "D",
+          "text": "annulus of Zinn"
+        },
+        {
+          "label": "E",
+          "text": "check ligament"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The superior oblique tendon loops through the trochlea on the medial orbital roof before inserting on the sclera.",
+      "topicId": "g-hn",
+      "subtopic": "Extraocular muscles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-009",
+      "type": "single-best",
+      "stem": "To test the superior rectus in isolation, the patient is asked to look",
+      "options": [
+        {
+          "label": "A",
+          "text": "straight up"
+        },
+        {
+          "label": "B",
+          "text": "down and out"
+        },
+        {
+          "label": "C",
+          "text": "down and in"
+        },
+        {
+          "label": "D",
+          "text": "up and out (abducted)"
+        },
+        {
+          "label": "E",
+          "text": "up and in (adducted)"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Clinically the superior rectus is tested with the eye abducted (looking up and laterally), isolating its elevating action.",
+      "topicId": "g-hn",
+      "subtopic": "Extraocular muscles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-010",
+      "type": "single-best",
+      "stem": "The muscle that elevates the upper eyelid under voluntary (somatic) control is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "superior tarsal (Müller's) muscle"
+        },
+        {
+          "label": "B",
+          "text": "orbicularis oculi"
+        },
+        {
+          "label": "C",
+          "text": "frontalis"
+        },
+        {
+          "label": "D",
+          "text": "superior rectus"
+        },
+        {
+          "label": "E",
+          "text": "levator palpebrae superioris"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Levator palpebrae superioris (CN III) is the main voluntary elevator; the superior tarsal (Müller's) muscle is a smooth, sympathetically-driven accessory.",
+      "topicId": "g-hn",
+      "subtopic": "Extraocular muscles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-011",
+      "type": "single-best",
+      "stem": "Drooping of the eyelid (ptosis) in Horner's syndrome results from loss of sympathetic supply to the",
+      "options": [
+        {
+          "label": "A",
+          "text": "superior tarsal (Müller's) muscle"
+        },
+        {
+          "label": "B",
+          "text": "levator palpebrae superioris"
+        },
+        {
+          "label": "C",
+          "text": "orbicularis oculi"
+        },
+        {
+          "label": "D",
+          "text": "sphincter pupillae"
+        },
+        {
+          "label": "E",
+          "text": "ciliary muscle"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The partial ptosis of Horner's syndrome is due to paralysis of the sympathetically-innervated superior tarsal muscle.",
+      "topicId": "g-hn",
+      "subtopic": "Extraocular muscles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-012",
+      "type": "single-best",
+      "stem": "Preganglionic parasympathetic fibres for pupillary constriction arise from the",
+      "options": [
+        {
+          "label": "A",
+          "text": "pterygopalatine ganglion"
+        },
+        {
+          "label": "B",
+          "text": "Edinger-Westphal nucleus"
+        },
+        {
+          "label": "C",
+          "text": "superior cervical ganglion"
+        },
+        {
+          "label": "D",
+          "text": "ciliary ganglion"
+        },
+        {
+          "label": "E",
+          "text": "ciliospinal centre of Budge"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The Edinger-Westphal nucleus sends preganglionic fibres via CN III to the ciliary ganglion.",
+      "topicId": "g-hn",
+      "subtopic": "Orbit autonomics",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-013",
+      "type": "single-best",
+      "stem": "Postganglionic parasympathetic fibres reach the sphincter pupillae and ciliary muscle via the",
+      "options": [
+        {
+          "label": "A",
+          "text": "oculomotor nerve directly"
+        },
+        {
+          "label": "B",
+          "text": "frontal nerve"
+        },
+        {
+          "label": "C",
+          "text": "short ciliary nerves"
+        },
+        {
+          "label": "D",
+          "text": "long ciliary nerves"
+        },
+        {
+          "label": "E",
+          "text": "nasociliary nerve"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "From the ciliary ganglion, postganglionic parasympathetic fibres travel in the short ciliary nerves to the sphincter pupillae and ciliary muscle.",
+      "topicId": "g-hn",
+      "subtopic": "Orbit autonomics",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-014",
+      "type": "single-best",
+      "stem": "Dilation of the pupil (mydriasis) is produced by the dilator pupillae under",
+      "options": [
+        {
+          "label": "A",
+          "text": "somatic motor control"
+        },
+        {
+          "label": "B",
+          "text": "CN III control"
+        },
+        {
+          "label": "C",
+          "text": "CN II control"
+        },
+        {
+          "label": "D",
+          "text": "sympathetic control"
+        },
+        {
+          "label": "E",
+          "text": "parasympathetic control"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The radial dilator pupillae is sympathetically driven; the circular sphincter pupillae is parasympathetic.",
+      "topicId": "g-hn",
+      "subtopic": "Orbit autonomics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-c-015",
+      "type": "single-best",
+      "stem": "Parasympathetic secretomotor supply to the lacrimal gland originates in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "oculomotor nerve (CN III)"
+        },
+        {
+          "label": "B",
+          "text": "trigeminal nerve (CN V)"
+        },
+        {
+          "label": "C",
+          "text": "glossopharyngeal nerve (CN IX)"
+        },
+        {
+          "label": "D",
+          "text": "superior cervical ganglion"
+        },
+        {
+          "label": "E",
+          "text": "facial nerve (CN VII)"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Lacrimal secretomotor fibres leave CN VII via the greater petrosal nerve, synapse in the pterygopalatine ganglion, then hitch-hike on V2 and V1 to the gland.",
+      "topicId": "g-hn",
+      "subtopic": "Orbit autonomics",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-016",
+      "type": "single-best",
+      "stem": "Tears drain from the lacrimal sac into the nasal cavity through the nasolacrimal duct, which opens into the",
+      "options": [
+        {
+          "label": "A",
+          "text": "inferior nasal meatus"
+        },
+        {
+          "label": "B",
+          "text": "middle nasal meatus"
+        },
+        {
+          "label": "C",
+          "text": "superior nasal meatus"
+        },
+        {
+          "label": "D",
+          "text": "sphenoethmoidal recess"
+        },
+        {
+          "label": "E",
+          "text": "nasal vestibule"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The nasolacrimal duct opens into the inferior meatus beneath the inferior concha.",
+      "topicId": "g-hn",
+      "subtopic": "Lacrimal apparatus",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-017",
+      "type": "single-best",
+      "stem": "The correct order of tear drainage from the eye surface is",
+      "options": [
+        {
+          "label": "A",
+          "text": "puncta, sac, canaliculi, duct"
+        },
+        {
+          "label": "B",
+          "text": "puncta, canaliculi, lacrimal sac, nasolacrimal duct"
+        },
+        {
+          "label": "C",
+          "text": "lacrimal sac, puncta, canaliculi, duct"
+        },
+        {
+          "label": "D",
+          "text": "canaliculi, puncta, duct, sac"
+        },
+        {
+          "label": "E",
+          "text": "nasolacrimal duct, sac, canaliculi, puncta"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Tears flow: lacrimal puncta → canaliculi → lacrimal sac → nasolacrimal duct → inferior meatus.",
+      "topicId": "g-hn",
+      "subtopic": "Lacrimal apparatus",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-018",
+      "type": "single-best",
+      "stem": "The lacrimal gland lies in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "medial canthus"
+        },
+        {
+          "label": "B",
+          "text": "lower eyelid"
+        },
+        {
+          "label": "C",
+          "text": "superolateral part of the orbit"
+        },
+        {
+          "label": "D",
+          "text": "inferomedial part of the orbit"
+        },
+        {
+          "label": "E",
+          "text": "orbital apex"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The lacrimal gland occupies the superolateral orbit, in the lacrimal fossa of the frontal bone.",
+      "topicId": "g-hn",
+      "subtopic": "Lacrimal apparatus",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-c-019",
+      "type": "single-best",
+      "stem": "Aqueous humour is produced by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "the choroid plexus of the eye"
+        },
+        {
+          "label": "B",
+          "text": "the trabecular meshwork"
+        },
+        {
+          "label": "C",
+          "text": "retinal pigment epithelium"
+        },
+        {
+          "label": "D",
+          "text": "the ciliary processes"
+        },
+        {
+          "label": "E",
+          "text": "the lacrimal gland"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The ciliary processes secrete aqueous humour into the posterior chamber; it then flows through the pupil into the anterior chamber.",
+      "topicId": "g-hn",
+      "subtopic": "Eyeball",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-020",
+      "type": "single-best",
+      "stem": "Aqueous humour drains from the anterior chamber through the trabecular meshwork into the",
+      "options": [
+        {
+          "label": "A",
+          "text": "the vortex veins"
+        },
+        {
+          "label": "B",
+          "text": "the central retinal vein"
+        },
+        {
+          "label": "C",
+          "text": "the nasolacrimal duct"
+        },
+        {
+          "label": "D",
+          "text": "the subarachnoid space"
+        },
+        {
+          "label": "E",
+          "text": "the canal of Schlemm"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "At the iridocorneal angle, aqueous humour passes through the trabecular meshwork into the canal of Schlemm.",
+      "topicId": "g-hn",
+      "subtopic": "Eyeball",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-021",
+      "type": "single-best",
+      "stem": "The outer fibrous tunic of the eyeball consists of the sclera and the",
+      "options": [
+        {
+          "label": "A",
+          "text": "cornea"
+        },
+        {
+          "label": "B",
+          "text": "choroid"
+        },
+        {
+          "label": "C",
+          "text": "retina"
+        },
+        {
+          "label": "D",
+          "text": "conjunctiva"
+        },
+        {
+          "label": "E",
+          "text": "ciliary body"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The fibrous layer is the sclera (posterior 5/6) plus the transparent cornea (anterior 1/6).",
+      "topicId": "g-hn",
+      "subtopic": "Eyeball",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-c-022",
+      "type": "single-best",
+      "stem": "The vascular (uveal) layer of the eyeball is composed of the choroid, ciliary body and",
+      "options": [
+        {
+          "label": "A",
+          "text": "lens"
+        },
+        {
+          "label": "B",
+          "text": "iris"
+        },
+        {
+          "label": "C",
+          "text": "retina"
+        },
+        {
+          "label": "D",
+          "text": "cornea"
+        },
+        {
+          "label": "E",
+          "text": "sclera"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The uvea comprises the choroid, ciliary body and iris.",
+      "topicId": "g-hn",
+      "subtopic": "Eyeball",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-c-023",
+      "type": "single-best",
+      "stem": "The cornea is well suited to transplantation chiefly because it is",
+      "options": [
+        {
+          "label": "A",
+          "text": "continuously shed"
+        },
+        {
+          "label": "B",
+          "text": "covered by conjunctiva"
+        },
+        {
+          "label": "C",
+          "text": "free of blood vessels"
+        },
+        {
+          "label": "D",
+          "text": "richly innervated"
+        },
+        {
+          "label": "E",
+          "text": "highly pigmented"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Being avascular, the cornea has limited immune access, giving corneal grafts a high success rate.",
+      "topicId": "g-hn",
+      "subtopic": "Eyeball",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-c-024",
+      "type": "single-best",
+      "stem": "The region of sharpest visual acuity, containing only cones, is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "ora serrata"
+        },
+        {
+          "label": "B",
+          "text": "macula lutea periphery"
+        },
+        {
+          "label": "C",
+          "text": "lamina cribrosa"
+        },
+        {
+          "label": "D",
+          "text": "fovea centralis"
+        },
+        {
+          "label": "E",
+          "text": "optic disc"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The fovea centralis, a pit within the macula, contains only cones and gives the sharpest acuity.",
+      "topicId": "g-hn",
+      "subtopic": "Eyeball",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-c-025",
+      "type": "single-best",
+      "stem": "The optic disc is the 'blind spot' because it",
+      "options": [
+        {
+          "label": "A",
+          "text": "has only rods"
+        },
+        {
+          "label": "B",
+          "text": "is covered by the iris"
+        },
+        {
+          "label": "C",
+          "text": "lies behind the lens"
+        },
+        {
+          "label": "D",
+          "text": "contains only cones"
+        },
+        {
+          "label": "E",
+          "text": "contains no photoreceptors"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The optic disc is where the optic nerve leaves and vessels enter; it has no photoreceptors.",
+      "topicId": "g-hn",
+      "subtopic": "Eyeball",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-c-026",
+      "type": "single-best",
+      "stem": "Rod photoreceptors contain the photopigment",
+      "options": [
+        {
+          "label": "A",
+          "text": "rhodopsin"
+        },
+        {
+          "label": "B",
+          "text": "photopsin"
+        },
+        {
+          "label": "C",
+          "text": "melanin"
+        },
+        {
+          "label": "D",
+          "text": "crystallin"
+        },
+        {
+          "label": "E",
+          "text": "iodopsin only"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Rods contain rhodopsin and mediate scotopic (low-light) vision; cones contain photopsins for colour vision.",
+      "topicId": "g-hn",
+      "subtopic": "Eyeball",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-c-027",
+      "type": "single-best",
+      "stem": "Accommodation for near vision is produced by contraction of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "levator palpebrae"
+        },
+        {
+          "label": "B",
+          "text": "ciliary muscle"
+        },
+        {
+          "label": "C",
+          "text": "dilator pupillae"
+        },
+        {
+          "label": "D",
+          "text": "superior oblique"
+        },
+        {
+          "label": "E",
+          "text": "sphincter pupillae alone"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Parasympathetic contraction of the ciliary muscle slackens the zonular fibres, letting the lens become more convex for near focus.",
+      "topicId": "g-hn",
+      "subtopic": "Eyeball",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-028",
+      "type": "single-best",
+      "stem": "Clouding (opacification) of the lens is called a",
+      "options": [
+        {
+          "label": "A",
+          "text": "pterygium"
+        },
+        {
+          "label": "B",
+          "text": "hordeolum"
+        },
+        {
+          "label": "C",
+          "text": "cataract"
+        },
+        {
+          "label": "D",
+          "text": "chalazion"
+        },
+        {
+          "label": "E",
+          "text": "glaucoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "A cataract is opacification of the lens; glaucoma is raised intraocular pressure.",
+      "topicId": "g-hn",
+      "subtopic": "Eyeball",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-c-029",
+      "type": "single-best",
+      "stem": "The meibomian (tarsal) glands are embedded within the",
+      "options": [
+        {
+          "label": "A",
+          "text": "bulbar conjunctiva"
+        },
+        {
+          "label": "B",
+          "text": "lacrimal gland"
+        },
+        {
+          "label": "C",
+          "text": "levator aponeurosis"
+        },
+        {
+          "label": "D",
+          "text": "tarsal plates"
+        },
+        {
+          "label": "E",
+          "text": "orbital septum"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Modified sebaceous meibomian glands lie within the tarsal plates and secrete the lipid layer of the tear film.",
+      "topicId": "g-hn",
+      "subtopic": "Eyelid",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-030",
+      "type": "single-best",
+      "stem": "A painless firm nodule in the eyelid caused by chronic blockage of a meibomian gland is a",
+      "options": [
+        {
+          "label": "A",
+          "text": "external hordeolum"
+        },
+        {
+          "label": "B",
+          "text": "pterygium"
+        },
+        {
+          "label": "C",
+          "text": "dacryocystitis"
+        },
+        {
+          "label": "D",
+          "text": "ectropion"
+        },
+        {
+          "label": "E",
+          "text": "chalazion"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "A chalazion is a painless granuloma of a blocked meibomian gland, away from the lid margin; a stye (hordeolum) is acute and painful at the margin.",
+      "topicId": "g-hn",
+      "subtopic": "Eyelid",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-031",
+      "type": "single-best",
+      "stem": "The thin fascial sheath that surrounds the eyeball and separates it from orbital fat is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tenon's capsule (fascia bulbi)"
+        },
+        {
+          "label": "B",
+          "text": "the orbital septum"
+        },
+        {
+          "label": "C",
+          "text": "the periorbita"
+        },
+        {
+          "label": "D",
+          "text": "the suspensory ligament of Lockwood"
+        },
+        {
+          "label": "E",
+          "text": "the tarsal plate"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Tenon's capsule (fascia bulbi) envelops the globe from the optic nerve to the corneoscleral junction.",
+      "topicId": "g-hn",
+      "subtopic": "Orbit",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-032",
+      "type": "single-best",
+      "stem": "The skin of the lower eyelid is supplied mainly by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "infratrochlear nerve"
+        },
+        {
+          "label": "B",
+          "text": "infraorbital nerve"
+        },
+        {
+          "label": "C",
+          "text": "supraorbital nerve"
+        },
+        {
+          "label": "D",
+          "text": "lacrimal nerve"
+        },
+        {
+          "label": "E",
+          "text": "supratrochlear nerve"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The infraorbital nerve (V2) supplies the lower-lid skin; the upper lid is supplied by branches of V1.",
+      "topicId": "g-hn",
+      "subtopic": "Orbit",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-033",
+      "type": "single-best",
+      "stem": "The lobule (earlobe) of the auricle differs from the rest of the pinna in that it",
+      "options": [
+        {
+          "label": "A",
+          "text": "contains muscle"
+        },
+        {
+          "label": "B",
+          "text": "is lined by mucosa"
+        },
+        {
+          "label": "C",
+          "text": "contains no cartilage"
+        },
+        {
+          "label": "D",
+          "text": "is made of bone"
+        },
+        {
+          "label": "E",
+          "text": "has no skin"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The pinna is elastic cartilage except the lobule, which contains only fibrofatty tissue and skin.",
+      "topicId": "g-hn",
+      "subtopic": "External ear",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-c-034",
+      "type": "single-best",
+      "stem": "During otoscopy in an adult the auricle is pulled",
+      "options": [
+        {
+          "label": "A",
+          "text": "straight forward"
+        },
+        {
+          "label": "B",
+          "text": "downward and forward"
+        },
+        {
+          "label": "C",
+          "text": "straight down"
+        },
+        {
+          "label": "D",
+          "text": "upward and backward"
+        },
+        {
+          "label": "E",
+          "text": "downward and backward"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Pulling the adult auricle up and back straightens the cartilaginous external acoustic meatus for examination.",
+      "topicId": "g-hn",
+      "subtopic": "External ear",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-c-035",
+      "type": "single-best",
+      "stem": "The outer third of the external acoustic meatus is cartilaginous, while the inner two-thirds is",
+      "options": [
+        {
+          "label": "A",
+          "text": "muscular"
+        },
+        {
+          "label": "B",
+          "text": "membranous"
+        },
+        {
+          "label": "C",
+          "text": "cartilaginous also"
+        },
+        {
+          "label": "D",
+          "text": "glandular"
+        },
+        {
+          "label": "E",
+          "text": "bony"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The lateral third is cartilaginous; the medial two-thirds is bone (temporal bone).",
+      "topicId": "g-hn",
+      "subtopic": "External ear",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-g-hn-c-036",
+      "type": "single-best",
+      "stem": "The part of the tympanic membrane that lacks the fibrous middle layer is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "pars flaccida"
+        },
+        {
+          "label": "B",
+          "text": "pars tensa"
+        },
+        {
+          "label": "C",
+          "text": "umbo"
+        },
+        {
+          "label": "D",
+          "text": "annulus"
+        },
+        {
+          "label": "E",
+          "text": "cone of light"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The pars flaccida (Shrapnell's membrane) lacks the fibrous layer and is more flexible; the pars tensa is the main vibrating part.",
+      "topicId": "g-hn",
+      "subtopic": "Tympanic membrane",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-037",
+      "type": "single-best",
+      "stem": "On otoscopy the 'cone of light' is a reflection seen in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "annulus"
+        },
+        {
+          "label": "B",
+          "text": "anteroinferior quadrant"
+        },
+        {
+          "label": "C",
+          "text": "posterosuperior quadrant"
+        },
+        {
+          "label": "D",
+          "text": "centre at the umbo"
+        },
+        {
+          "label": "E",
+          "text": "pars flaccida"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The light reflex radiates anteroinferiorly from the umbo on the normal tympanic membrane.",
+      "topicId": "g-hn",
+      "subtopic": "Tympanic membrane",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-038",
+      "type": "single-best",
+      "stem": "The medial (labyrinthine) wall of the middle ear bears a rounded prominence, the promontory, formed by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "jugular bulb"
+        },
+        {
+          "label": "B",
+          "text": "carotid canal"
+        },
+        {
+          "label": "C",
+          "text": "basal turn of the cochlea"
+        },
+        {
+          "label": "D",
+          "text": "lateral semicircular canal"
+        },
+        {
+          "label": "E",
+          "text": "facial canal"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The promontory on the medial wall is produced by the basal turn of the cochlea and carries the tympanic plexus.",
+      "topicId": "g-hn",
+      "subtopic": "Middle ear",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-039",
+      "type": "single-best",
+      "stem": "The roof (tegmental wall) of the middle ear, separating it from the middle cranial fossa, is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "aditus ad antrum"
+        },
+        {
+          "label": "B",
+          "text": "jugular wall"
+        },
+        {
+          "label": "C",
+          "text": "pyramidal eminence"
+        },
+        {
+          "label": "D",
+          "text": "tegmen tympani"
+        },
+        {
+          "label": "E",
+          "text": "promontory"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The tegmen tympani of the petrous temporal bone forms the roof of the tympanic cavity.",
+      "topicId": "g-hn",
+      "subtopic": "Middle ear",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-040",
+      "type": "single-best",
+      "stem": "The base (footplate) of the stapes is attached to the oval window by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "incudostapedial joint"
+        },
+        {
+          "label": "B",
+          "text": "tensor tympani tendon"
+        },
+        {
+          "label": "C",
+          "text": "round window membrane"
+        },
+        {
+          "label": "D",
+          "text": "stapedius tendon"
+        },
+        {
+          "label": "E",
+          "text": "annular ligament"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The stapes footplate is fixed in the oval window by the annular ligament (a syndesmosis).",
+      "topicId": "g-hn",
+      "subtopic": "Ossicles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-041",
+      "type": "single-best",
+      "stem": "Which muscle, supplied by the facial nerve, dampens movement of the stapes at the oval window?",
+      "options": [
+        {
+          "label": "A",
+          "text": "stapedius"
+        },
+        {
+          "label": "B",
+          "text": "tensor tympani"
+        },
+        {
+          "label": "C",
+          "text": "tensor veli palatini"
+        },
+        {
+          "label": "D",
+          "text": "salpingopharyngeus"
+        },
+        {
+          "label": "E",
+          "text": "levator veli palatini"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Stapedius (CN VII), the smallest skeletal muscle, dampens the stapes; tensor tympani (V3) tenses the eardrum.",
+      "topicId": "g-hn",
+      "subtopic": "Ossicles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-042",
+      "type": "single-best",
+      "stem": "The tensor tympani muscle is supplied by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "abducent nerve (CN VI)"
+        },
+        {
+          "label": "B",
+          "text": "mandibular nerve (V3)"
+        },
+        {
+          "label": "C",
+          "text": "facial nerve (CN VII)"
+        },
+        {
+          "label": "D",
+          "text": "glossopharyngeal nerve (CN IX)"
+        },
+        {
+          "label": "E",
+          "text": "vagus nerve (CN X)"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Tensor tympani is supplied by V3 (via the nerve to medial pterygoid); stapedius is supplied by CN VII.",
+      "topicId": "g-hn",
+      "subtopic": "Ossicles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-043",
+      "type": "single-best",
+      "stem": "Otitis media is more common in children because the pharyngotympanic (Eustachian) tube is",
+      "options": [
+        {
+          "label": "A",
+          "text": "held permanently open"
+        },
+        {
+          "label": "B",
+          "text": "lined only by cartilage"
+        },
+        {
+          "label": "C",
+          "text": "shorter, wider, horizontal"
+        },
+        {
+          "label": "D",
+          "text": "longer and more vertical"
+        },
+        {
+          "label": "E",
+          "text": "made entirely of bone"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "A child's auditory tube is shorter, wider and more horizontal, easing spread of infection from the nasopharynx.",
+      "topicId": "g-hn",
+      "subtopic": "Middle ear",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-044",
+      "type": "single-best",
+      "stem": "The auditory tube is actively opened during swallowing mainly by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "salpingopharyngeus"
+        },
+        {
+          "label": "B",
+          "text": "stapedius"
+        },
+        {
+          "label": "C",
+          "text": "tensor tympani"
+        },
+        {
+          "label": "D",
+          "text": "tensor veli palatini"
+        },
+        {
+          "label": "E",
+          "text": "levator veli palatini"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Tensor veli palatini opens the tube; levator veli palatini and salpingopharyngeus assist.",
+      "topicId": "g-hn",
+      "subtopic": "Middle ear",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-045",
+      "type": "single-best",
+      "stem": "The tympanic plexus on the promontory is formed mainly by the tympanic branch of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "facial nerve (CN VII)"
+        },
+        {
+          "label": "B",
+          "text": "vagus nerve (CN X)"
+        },
+        {
+          "label": "C",
+          "text": "trigeminal nerve (CN V)"
+        },
+        {
+          "label": "D",
+          "text": "accessory nerve (CN XI)"
+        },
+        {
+          "label": "E",
+          "text": "glossopharyngeal (CN IX)"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Jacobson's nerve (tympanic branch of CN IX) with sympathetic fibres forms the tympanic plexus; it continues as the lesser petrosal nerve.",
+      "topicId": "g-hn",
+      "subtopic": "Middle ear",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-046",
+      "type": "single-best",
+      "stem": "The chorda tympani crosses the tympanic cavity between the",
+      "options": [
+        {
+          "label": "A",
+          "text": "malleus and incus"
+        },
+        {
+          "label": "B",
+          "text": "incus and stapes"
+        },
+        {
+          "label": "C",
+          "text": "stapes and oval window"
+        },
+        {
+          "label": "D",
+          "text": "promontory and round window"
+        },
+        {
+          "label": "E",
+          "text": "tegmen and floor"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The chorda tympani (CN VII) runs across the medial surface of the tympanic membrane between the handle of the malleus and the long process of the incus.",
+      "topicId": "g-hn",
+      "subtopic": "Middle ear",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-047",
+      "type": "single-best",
+      "stem": "MacEwen's (suprameatal) triangle is a surgical landmark overlying the",
+      "options": [
+        {
+          "label": "A",
+          "text": "jugular bulb"
+        },
+        {
+          "label": "B",
+          "text": "mastoid antrum"
+        },
+        {
+          "label": "C",
+          "text": "facial nerve canal"
+        },
+        {
+          "label": "D",
+          "text": "sigmoid sinus"
+        },
+        {
+          "label": "E",
+          "text": "carotid canal"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "MacEwen's triangle is used in mastoidectomy as a safe entry to the mastoid antrum.",
+      "topicId": "g-hn",
+      "subtopic": "Middle ear",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-048",
+      "type": "single-best",
+      "stem": "The bony labyrinth contains which fluid?",
+      "options": [
+        {
+          "label": "A",
+          "text": "cerebrospinal fluid"
+        },
+        {
+          "label": "B",
+          "text": "vitreous"
+        },
+        {
+          "label": "C",
+          "text": "perilymph"
+        },
+        {
+          "label": "D",
+          "text": "endolymph"
+        },
+        {
+          "label": "E",
+          "text": "aqueous humour"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Perilymph (high sodium) fills the bony labyrinth around the membranous labyrinth, which contains endolymph.",
+      "topicId": "g-hn",
+      "subtopic": "Inner ear",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-049",
+      "type": "single-best",
+      "stem": "Endolymph differs from perilymph in being rich in",
+      "options": [
+        {
+          "label": "A",
+          "text": "calcium"
+        },
+        {
+          "label": "B",
+          "text": "chloride"
+        },
+        {
+          "label": "C",
+          "text": "bicarbonate"
+        },
+        {
+          "label": "D",
+          "text": "potassium"
+        },
+        {
+          "label": "E",
+          "text": "sodium"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Endolymph is high in potassium and low in sodium, resembling intracellular fluid; perilymph is the reverse.",
+      "topicId": "g-hn",
+      "subtopic": "Inner ear",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-050",
+      "type": "single-best",
+      "stem": "Endolymph is produced chiefly by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "ciliary processes"
+        },
+        {
+          "label": "B",
+          "text": "choroid plexus"
+        },
+        {
+          "label": "C",
+          "text": "endosteum of the bony labyrinth"
+        },
+        {
+          "label": "D",
+          "text": "organ of Corti"
+        },
+        {
+          "label": "E",
+          "text": "stria vascularis"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The stria vascularis in the cochlear duct secretes endolymph; perilymph is formed by capillaries of the endosteum.",
+      "topicId": "g-hn",
+      "subtopic": "Inner ear",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-051",
+      "type": "single-best",
+      "stem": "The sensory organ of hearing, the spiral organ of Corti, rests on the",
+      "options": [
+        {
+          "label": "A",
+          "text": "basilar membrane"
+        },
+        {
+          "label": "B",
+          "text": "Reissner's membrane"
+        },
+        {
+          "label": "C",
+          "text": "tectorial membrane"
+        },
+        {
+          "label": "D",
+          "text": "spiral ligament"
+        },
+        {
+          "label": "E",
+          "text": "oval window"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The organ of Corti sits on the basilar membrane within the scala media (cochlear duct).",
+      "topicId": "g-hn",
+      "subtopic": "Inner ear",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-052",
+      "type": "single-best",
+      "stem": "The membrane separating the scala vestibuli from the scala media is",
+      "options": [
+        {
+          "label": "A",
+          "text": "the spiral lamina"
+        },
+        {
+          "label": "B",
+          "text": "Reissner's (vestibular) membrane"
+        },
+        {
+          "label": "C",
+          "text": "the basilar membrane"
+        },
+        {
+          "label": "D",
+          "text": "the tectorial membrane"
+        },
+        {
+          "label": "E",
+          "text": "the secondary tympanic membrane"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Reissner's membrane forms the roof of the cochlear duct, separating scala media from scala vestibuli; the basilar membrane forms its floor.",
+      "topicId": "g-hn",
+      "subtopic": "Inner ear",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-053",
+      "type": "single-best",
+      "stem": "The base of the basilar membrane (near the oval window) is narrow and stiff, so it responds best to",
+      "options": [
+        {
+          "label": "A",
+          "text": "head rotation"
+        },
+        {
+          "label": "B",
+          "text": "linear acceleration"
+        },
+        {
+          "label": "C",
+          "text": "high-frequency sounds"
+        },
+        {
+          "label": "D",
+          "text": "low-frequency sounds"
+        },
+        {
+          "label": "E",
+          "text": "only loud sounds"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The stiff narrow base detects high frequencies; the wide flexible apex detects low frequencies (tonotopy).",
+      "topicId": "g-hn",
+      "subtopic": "Inner ear",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-054",
+      "type": "single-best",
+      "stem": "The scala vestibuli and scala tympani communicate at the apex of the cochlea at the",
+      "options": [
+        {
+          "label": "A",
+          "text": "oval window"
+        },
+        {
+          "label": "B",
+          "text": "round window"
+        },
+        {
+          "label": "C",
+          "text": "vestibule"
+        },
+        {
+          "label": "D",
+          "text": "helicotrema"
+        },
+        {
+          "label": "E",
+          "text": "modiolus"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The two perilymph-filled scalae are continuous at the helicotrema at the cochlear apex.",
+      "topicId": "g-hn",
+      "subtopic": "Inner ear",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-055",
+      "type": "single-best",
+      "stem": "The semicircular canals detect",
+      "options": [
+        {
+          "label": "A",
+          "text": "linear acceleration"
+        },
+        {
+          "label": "B",
+          "text": "sound frequency"
+        },
+        {
+          "label": "C",
+          "text": "static head tilt only"
+        },
+        {
+          "label": "D",
+          "text": "gravitational pull only"
+        },
+        {
+          "label": "E",
+          "text": "rotational head movement"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The three semicircular canals, via the crista ampullaris, detect angular (rotational) movements of the head.",
+      "topicId": "g-hn",
+      "subtopic": "Inner ear",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-056",
+      "type": "single-best",
+      "stem": "The utricle and saccule detect linear acceleration and head position by means of their",
+      "options": [
+        {
+          "label": "A",
+          "text": "sensory maculae"
+        },
+        {
+          "label": "B",
+          "text": "cristae ampullares"
+        },
+        {
+          "label": "C",
+          "text": "organ of Corti"
+        },
+        {
+          "label": "D",
+          "text": "tectorial membrane"
+        },
+        {
+          "label": "E",
+          "text": "spiral ganglion"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The maculae of the utricle and saccule, with their otoconia, sense linear acceleration and gravity (static equilibrium).",
+      "topicId": "g-hn",
+      "subtopic": "Inner ear",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-057",
+      "type": "single-best",
+      "stem": "The spiral ganglion, containing the cell bodies of the cochlear nerve, lies within the",
+      "options": [
+        {
+          "label": "A",
+          "text": "mastoid antrum"
+        },
+        {
+          "label": "B",
+          "text": "modiolus"
+        },
+        {
+          "label": "C",
+          "text": "helicotrema"
+        },
+        {
+          "label": "D",
+          "text": "vestibule"
+        },
+        {
+          "label": "E",
+          "text": "tegmen tympani"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The spiral ganglion is housed in the modiolus, the central bony core of the cochlea.",
+      "topicId": "g-hn",
+      "subtopic": "Inner ear",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-058",
+      "type": "single-best",
+      "stem": "Otosclerosis, abnormal bone growth fixing the stapes at the oval window, typically causes",
+      "options": [
+        {
+          "label": "A",
+          "text": "total deafness only"
+        },
+        {
+          "label": "B",
+          "text": "tinnitus with normal hearing"
+        },
+        {
+          "label": "C",
+          "text": "conductive hearing loss"
+        },
+        {
+          "label": "D",
+          "text": "sensorineural hearing loss"
+        },
+        {
+          "label": "E",
+          "text": "vertigo without hearing loss"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Fixation of the stapes impairs mechanical sound conduction, giving a conductive hearing loss.",
+      "topicId": "g-hn",
+      "subtopic": "Ear clinical",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-g-hn-c-059",
+      "type": "single-best",
+      "stem": "Age-related sensorineural hearing loss is known as",
+      "options": [
+        {
+          "label": "A",
+          "text": "barotrauma"
+        },
+        {
+          "label": "B",
+          "text": "mastoiditis"
+        },
+        {
+          "label": "C",
+          "text": "cholesteatoma"
+        },
+        {
+          "label": "D",
+          "text": "presbycusis"
+        },
+        {
+          "label": "E",
+          "text": "otosclerosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Presbycusis is progressive sensorineural loss of high-frequency hearing with age.",
+      "topicId": "g-hn",
+      "subtopic": "Ear clinical",
+      "difficulty": "medium"
     }
   ]
 }
