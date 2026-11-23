@@ -3312,31 +3312,31 @@
     {
       "id": "dq-bio-rs3",
       "type": "single-best",
-      "stem": "Hydrogen peroxide is classed as a:",
+      "stem": "Hydrogen peroxide differs from superoxide in that it is a:",
       "options": [
         {
           "label": "A",
-          "text": "oxygen-centred radical"
+          "text": "oxygen radical"
         },
         {
           "label": "B",
-          "text": "a reactive nitrogen species instead"
+          "text": "nitrogen radical"
         },
         {
           "label": "C",
-          "text": "non-radical reactive oxygen species"
+          "text": "non-radical"
         },
         {
           "label": "D",
-          "text": "a carbon-centred radical only"
+          "text": "carbon radical"
         },
         {
           "label": "E",
-          "text": "a reactive sulphur species"
+          "text": "sulphur radical"
         }
       ],
       "correctAnswer": "C",
-      "why": "It has no unpaired electron but is a ROS.",
+      "why": "Hydrogen peroxide has no unpaired electron, so it is a non-radical reactive oxygen species, unlike the superoxide and hydroxyl radicals.",
       "topicId": "ros",
       "subtopic": "Free radicals and antioxidants",
       "difficulty": "medium",
