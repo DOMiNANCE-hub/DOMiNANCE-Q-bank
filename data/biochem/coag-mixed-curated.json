@@ -1,1 +1,172 @@
-{"id":"dq-bio-coagmix","title":"Biochemistry — Mixed Exam Formats (DOMiNANCE Originals)","source":"KNUST Biochemistry lectures and corresponding study guides","questions":[{"id":"dq-bio-coagmix-001","type":"single-best","stem":"Assertion: Vitamin K deficiency may cause bleeding.\nReason: Gamma-carboxylation permits clotting factors to bind calcium.","options":[{"label":"A","text":"Both true, correct explanation"},{"label":"B","text":"Both true, not correct explanation"},{"label":"C","text":"Assertion true, Reason false"},{"label":"D","text":"Assertion false, Reason true"},{"label":"E","text":"Both false"}],"correctAnswer":"A","why":"Vitamin K supports gamma-carboxylation of factors II, VII, IX and X, permitting calcium-dependent membrane binding; deficient modification increases bleeding risk.","topicId":"coagulation","subtopic":"Coagulation mechanisms","lockOrder":true,"difficulty":"hard"},{"id":"dq-bio-coagmix-002","type":"single-best","stem":"Assertion: Heparin directly digests fibrin within an established clot.\nReason: Antithrombin neutralizes activated thrombin and factor Xa.","options":[{"label":"A","text":"Both true, correct explanation"},{"label":"B","text":"Both true, not correct explanation"},{"label":"C","text":"Assertion true, Reason false"},{"label":"D","text":"Assertion false, Reason true"},{"label":"E","text":"Both false"}],"correctAnswer":"D","why":"Heparin is an anticoagulant that accelerates antithrombin action, but fibrin breakdown requires plasmin-mediated fibrinolysis.","topicId":"coagulation","subtopic":"Anticoagulants and fibrinolysis","lockOrder":true,"difficulty":"hard"},{"id":"dq-bio-coagmix-003","type":"single-best","stem":"Assertion: Platelet dense granules contain ADP and serotonin.\nReason: Platelet alpha granules contain platelet factor 4 and fibrinogen.","options":[{"label":"A","text":"Both true, correct explanation"},{"label":"B","text":"Both true, not correct explanation"},{"label":"C","text":"Assertion true, Reason false"},{"label":"D","text":"Assertion false, Reason true"},{"label":"E","text":"Both false"}],"correctAnswer":"B","why":"Both statements are correct but list independent contents of the two platelet granule classes.","topicId":"coagulation","subtopic":"Platelet granules","lockOrder":true,"difficulty":"hard"},{"id":"dq-bio-coagmix-004","type":"single-best","stem":"Consider the following statements about vitamin K and coagulation:\nI. Vitamin K supports gamma-carboxylation of prothrombin.\nII. Factor XIII is a vitamin K-dependent protease.\nIII. Citrate enhances calcium-dependent factor binding.","options":[{"label":"A","text":"I, II and III"},{"label":"B","text":"I and II only"},{"label":"C","text":"II and III only"},{"label":"D","text":"I and III only"},{"label":"E","text":"I only"}],"correctAnswer":"E","why":"Only I is true. Factor XIII is a fibrin-stabilizing transglutaminase, not a vitamin K-dependent protease, and citrate chelates calcium rather than promoting its binding.","topicId":"coagulation","subtopic":"Vitamin K and coagulation","lockOrder":true,"difficulty":"hard"},{"id":"dq-bio-coagmix-005","type":"single-best","stem":"Which statements about coagulation are correct?\nI. Factor Xa participates in prothrombin activation.\nII. Factor XIIIa cross-links fibrin strands.\nIII. Platelet phospholipids help organize enzyme complexes.","options":[{"label":"A","text":"I, II and III"},{"label":"B","text":"I and II only"},{"label":"C","text":"II and III only"},{"label":"D","text":"I and III only"},{"label":"E","text":"I only"}],"correctAnswer":"A","why":"Xa generates thrombin via prothrombinase, XIIIa stabilizes fibrin, and platelet phospholipids support efficient clotting-complex assembly.","topicId":"coagulation","subtopic":"Clotting cascade","lockOrder":true,"difficulty":"hard"}]}
+{
+  "id": "dq-bio-coagmix",
+  "title": "Biochemistry — Mixed Exam Formats (DOMiNANCE Originals)",
+  "source": "KNUST Biochemistry lectures and corresponding study guides",
+  "questions": [
+    {
+      "id": "dq-bio-coagmix-001",
+      "type": "single-best",
+      "stem": "Assertion: Vitamin K deficiency may cause bleeding.\nReason: Gamma-carboxylation permits clotting factors to bind calcium.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Vitamin K supports gamma-carboxylation of factors II, VII, IX and X, permitting calcium-dependent membrane binding; deficient modification increases bleeding risk.",
+      "topicId": "coagulation",
+      "subtopic": "Coagulation mechanisms",
+      "lockOrder": true,
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-coagmix-002",
+      "type": "single-best",
+      "stem": "Assertion: Heparin directly digests fibrin within an established clot.\nReason: Antithrombin neutralizes activated thrombin and factor Xa.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Heparin is an anticoagulant that accelerates antithrombin action, but fibrin breakdown requires plasmin-mediated fibrinolysis.",
+      "topicId": "coagulation",
+      "subtopic": "Anticoagulants and fibrinolysis",
+      "lockOrder": true,
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-coagmix-003",
+      "type": "single-best",
+      "stem": "Assertion: Platelet dense granules contain ADP and serotonin.\nReason: Platelet alpha granules contain platelet factor 4 and fibrinogen.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both true, correct explanation"
+        },
+        {
+          "label": "B",
+          "text": "Both true, not correct explanation"
+        },
+        {
+          "label": "C",
+          "text": "Assertion true, Reason false"
+        },
+        {
+          "label": "D",
+          "text": "Assertion false, Reason true"
+        },
+        {
+          "label": "E",
+          "text": "Both false"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Both statements are correct but list independent contents of the two platelet granule classes.",
+      "topicId": "coagulation",
+      "subtopic": "Platelet granules",
+      "lockOrder": true,
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-coagmix-004",
+      "type": "single-best",
+      "stem": "Consider the following statements about vitamin K and coagulation:\nI. Vitamin K supports gamma-carboxylation of prothrombin.\nII. Factor XIII is a vitamin K-dependent protease.\nIII. Citrate enhances calcium-dependent factor binding.",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Only I is true. Factor XIII is a fibrin-stabilizing transglutaminase, not a vitamin K-dependent protease, and citrate chelates calcium rather than promoting its binding.",
+      "topicId": "coagulation",
+      "subtopic": "Vitamin K and coagulation",
+      "lockOrder": true,
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-bio-coagmix-005",
+      "type": "single-best",
+      "stem": "Which statements about coagulation are correct?\nI. Factor Xa participates in prothrombin activation.\nII. Factor XIIIa cross-links fibrin strands.\nIII. Platelet phospholipids help organize enzyme complexes.",
+      "options": [
+        {
+          "label": "A",
+          "text": "I, II and III"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I and III only"
+        },
+        {
+          "label": "E",
+          "text": "I only"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Xa generates thrombin via prothrombinase, XIIIa stabilizes fibrin, and platelet phospholipids support efficient clotting-complex assembly.",
+      "topicId": "coagulation",
+      "subtopic": "Clotting cascade",
+      "lockOrder": true,
+      "difficulty": "hard"
+    }
+  ]
+}
