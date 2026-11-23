@@ -2,7 +2,7 @@
    Shell + questions: network first when online (so a fresh launch shows the latest),
    cached copy when offline. The whole bank is precached on install, so it works fully
    offline after the first visit. Images: cache first (file names never change). */
-const CACHE = 'dq-v69';
+const CACHE = 'dq-v70';
 const CORE = ['./', './index.html', './styles.css', './app.js', './manifest.webmanifest',
   './fonts/inter.woff2', './fonts/anton.woff2',
   './icons/icon-192.png', './icons/icon-512.png', './icons/icon-180.png'];
@@ -17,7 +17,6 @@ const DATA = [
   './data/biochem/biochem-curated.json', './data/biochem/past-questions.json', './data/biochem/topics.json',
   './data/biochem/sem1-topics.json', './data/biochem/sem1-past.json', './data/biochem/sem1-curated.json',
   './data/biochem/sem2-topics.json', './data/biochem/sem2-past.json', './data/biochem/sem2-curated.json',
-  './data/biochem/coag-curated.json',
   './data/biochem/visual-curated.json',
   './data/biochem/collagen-curated.json',
   './data/biochem/endocrine-curated.json',
