@@ -351,7 +351,12 @@
     [/heart|cardi|circul|vessel|blood flow|vein|venous|coronary|capillar|haemodynam|reflex|baroreflex/, '🫀']
   ];
   const SYSEMO = { gross: '🦴', micro: '🔬', embryo: '👶', cvs: '🫀', gi: '🍔', renal: '🫘', resp: '🫁', endocrine: '🧪', senses: '👁️', cns: '🧠', biochem: '🧬' };
-  const COURSEEMO = { anatomy: '🩻', physiology: '🫀', biochemistry: '⚗️' };
+  const COURSEEMO = {
+    anatomy: '🩻', physiology: '🫀', biochemistry: '⚗️',
+    bmc: '⚗️', 'cell-structure': '🔬', 'medical-genetics': '🧬', 'biological-chemistry': '🧪',
+    'statistical-methods': '📊', algebra: '➗', 'communication-skills': '💬', 'computer-appreciation': '💻',
+    'gsl-1': '🤟', 'gsl-2': '🤟', 'behavioural-sciences': '💭', 'medical-entomology': '🦟'
+  };
   const pickEmo = t => { const s = String(t || '').toLowerCase(); const r = EMO_RULES.find(([re]) => re.test(s)); return r ? r[1] : '📁'; };
   const emo = ch => '<span class="emo" aria-hidden="true">' + ch + '</span>';
   const SYSICO = { gross: 'body', micro: 'microscope', embryo: 'embryo', cvs: 'pulse', gi: 'stomach', renal: 'kidney', resp: 'lungs', endocrine: 'drop', senses: 'eye', cns: 'brain', biochem: 'dna' };

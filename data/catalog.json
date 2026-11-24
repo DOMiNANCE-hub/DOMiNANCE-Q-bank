@@ -10,7 +10,62 @@
     {
      "id": "sem1",
      "title": "First semester",
-     "courses": []
+     "courses": [
+      {
+       "id": "bmc",
+       "title": "Basic Medical Chemistry",
+       "icon": "flask",
+       "status": "soon"
+      },
+      {
+       "id": "cell-structure",
+       "title": "Cell Structure",
+       "icon": "microscope",
+       "status": "soon"
+      },
+      {
+       "id": "medical-genetics",
+       "title": "Medical Genetics",
+       "icon": "dna",
+       "status": "soon"
+      },
+      {
+       "id": "biological-chemistry",
+       "title": "Biological Chemistry",
+       "icon": "flask",
+       "status": "soon"
+      },
+      {
+       "id": "statistical-methods",
+       "title": "Statistical Methods",
+       "icon": "chart",
+       "status": "soon"
+      },
+      {
+       "id": "algebra",
+       "title": "Algebra",
+       "icon": "math",
+       "status": "soon"
+      },
+      {
+       "id": "communication-skills",
+       "title": "Communication Skills",
+       "icon": "chat",
+       "status": "soon"
+      },
+      {
+       "id": "computer-appreciation",
+       "title": "Computer Appreciation",
+       "icon": "computer",
+       "status": "soon"
+      },
+      {
+       "id": "gsl-1",
+       "title": "Ghanaian Sign Language I",
+       "icon": "hand",
+       "status": "soon"
+      }
+     ]
     },
     {
      "id": "sem2",
@@ -54,6 +109,36 @@
        ],
        "onlyTag": "HB1",
        "steeplechase": "soon"
+      },
+      {
+       "id": "physiology",
+       "title": "Physiology I",
+       "icon": "heart",
+       "status": "soon"
+      },
+      {
+       "id": "biochemistry",
+       "title": "Biochemistry I",
+       "icon": "flask",
+       "status": "soon"
+      },
+      {
+       "id": "behavioural-sciences",
+       "title": "Behavioural Sciences I",
+       "icon": "brain",
+       "status": "soon"
+      },
+      {
+       "id": "medical-entomology",
+       "title": "Medical Entomology",
+       "icon": "bug",
+       "status": "soon"
+      },
+      {
+       "id": "gsl-2",
+       "title": "Ghanaian Sign Language II",
+       "icon": "hand",
+       "status": "soon"
       }
      ]
     }
