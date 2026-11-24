@@ -391,7 +391,8 @@
     const hist = store.get('dq.hist.' + ck, []).slice(0, 5);
     const coll = k => '<a class="row" href="' + baseHash(Object.assign({}, r, { coll: k }), 'topics') + '"><span class="ico">' + (k === 'past' ? I.archive : I.spark) + '</span><span class="txt"><span class="t">' + COLL[k] + '</span><span class="s">' + COLL_SUB[k] + '</span><span class="s n">' + d[k].length + ' questions</span></span><span class="chev">' + I.chev + '</span></a>';
     return wrap(topbar() + crumbs(trail(r, 'course')) + '<h1>' + esc(c.title) + '</h1><p class="lead">' + (d.past.length && d.curated.length ? 'Choose a collection. Both are sorted by topic.' : 'Questions are sorted by topic.') + '</p>' + resumeCards(ck) +
-      '<div class="list">' + ['past', 'curated'].filter(k => d[k].length).map(coll).join('') + '</div>' +
+      '<div class="list">' + ['past', 'curated'].filter(k => d[k].length).map(coll).join('') +
+      (c.steeplechase ? '<div class="row soon" aria-disabled="true"><span class="ico">' + emo('🔬') + '</span><span class="txt"><span class="t">Steeplechase</span><span class="s">Spot diagnosis · photomicrograph stations</span><span class="s n">Coming soon</span></span></div>' : '') + '</div>' +
       '<h2>Your recent scores</h2>' + (hist.length ? '<div class="history">' + hist.map(h => '<div class="hi"><b>' + h.pct + '%</b><span>' + esc(COLL[h.coll]) + ' · ' + esc(h.label) + '<br><small>' + h.got + '/' + h.total + ' marks · ' + esc(new Date(h.at).toLocaleDateString()) + '</small></span></div>').join('') + '</div>' : '<p class="empty">Finish a quiz and your scores will show here.</p>'));
   }
 

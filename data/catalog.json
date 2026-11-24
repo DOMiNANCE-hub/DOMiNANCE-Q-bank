@@ -52,7 +52,8 @@
          ]
         }
        ],
-       "onlyTag": "HB1"
+       "onlyTag": "HB1",
+       "steeplechase": "soon"
       }
      ]
     }
@@ -64,6 +65,48 @@
    "subtitle": "Second years",
    "status": "live",
    "courses": [
+    {
+     "id": "anatomy",
+     "title": "Anatomy",
+     "icon": "bone",
+     "status": "live",
+     "systems": [
+      {
+       "id": "gross",
+       "title": "Gross anatomy",
+       "topics": "data/anatomy/gross-topics.json",
+       "past": [
+        "data/anatomy/gross-past.json"
+       ],
+       "curated": [
+        "data/anatomy/gross-curated.json"
+       ]
+      },
+      {
+       "id": "micro",
+       "title": "Microscopic anatomy",
+       "topics": "data/anatomy/micro-topics.json",
+       "past": [
+        "data/anatomy/micro-past.json"
+       ],
+       "curated": [
+        "data/anatomy/micro-curated.json"
+       ]
+      },
+      {
+       "id": "embryo",
+       "title": "Developmental anatomy",
+       "topics": "data/anatomy/embryo-topics.json",
+       "past": [
+        "data/anatomy/embryo-past.json"
+       ],
+       "curated": [
+        "data/anatomy/embryo-curated.json"
+       ]
+      }
+     ],
+     "steeplechase": "soon"
+    },
     {
      "id": "physiology",
      "title": "Physiology",
@@ -210,47 +253,6 @@
           "data/biochem/sem2-mixed-curated.json"
          ]
         }
-       ]
-      }
-     ]
-    },
-    {
-     "id": "anatomy",
-     "title": "Anatomy",
-     "icon": "bone",
-     "status": "live",
-     "systems": [
-      {
-       "id": "gross",
-       "title": "Gross anatomy",
-       "topics": "data/anatomy/gross-topics.json",
-       "past": [
-        "data/anatomy/gross-past.json"
-       ],
-       "curated": [
-        "data/anatomy/gross-curated.json"
-       ]
-      },
-      {
-       "id": "micro",
-       "title": "Microscopic anatomy",
-       "topics": "data/anatomy/micro-topics.json",
-       "past": [
-        "data/anatomy/micro-past.json"
-       ],
-       "curated": [
-        "data/anatomy/micro-curated.json"
-       ]
-      },
-      {
-       "id": "embryo",
-       "title": "Developmental anatomy",
-       "topics": "data/anatomy/embryo-topics.json",
-       "past": [
-        "data/anatomy/embryo-past.json"
-       ],
-       "curated": [
-        "data/anatomy/embryo-curated.json"
        ]
       }
      ]
