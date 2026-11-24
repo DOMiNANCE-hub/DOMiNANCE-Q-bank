@@ -4568,9 +4568,6 @@
             "semester": 1,
             "questionNumbers": [
               13
-            ],
-            "answerReferences": [
-              "https://pubchem.ncbi.nlm.nih.gov/pathway/BioCyc:HUMAN_PWY-4984"
             ]
           }
         },
@@ -4618,9 +4615,6 @@
             "semester": 1,
             "questionNumbers": [
               14
-            ],
-            "answerReferences": [
-              "https://www.ncbi.nlm.nih.gov/books/NBK513323/"
             ]
           }
         },
@@ -4715,9 +4709,6 @@
             "semester": 1,
             "questionNumbers": [
               18
-            ],
-            "answerReferences": [
-              "https://www.uniprot.org/uniprot/P00367"
             ]
           }
         },
@@ -4775,23 +4766,23 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
           "correctAnswer": "B",
@@ -4801,10 +4792,18 @@
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II, which is also true.",
-            "C": "Includes III, which is false, and leaves out I, which is true.",
-            "D": "Includes III, which is false, and leaves out II, which is true.",
-            "E": "Includes III, which is false."
+            "A": "This is not the supported combination (I and II only). Cysteine is converted to pyruvate and taurine. Glutathione is a peptide formed from cysteine, not a carbon skeleton end-product.",
+            "C": "This is not the supported combination (I and II only). Cysteine is converted to pyruvate and taurine. Glutathione is a peptide formed from cysteine, not a carbon skeleton end-product.",
+            "D": "This is not the supported combination (I and II only). Cysteine is converted to pyruvate and taurine. Glutathione is a peptide formed from cysteine, not a carbon skeleton end-product.",
+            "E": "This is not the supported combination (I and II only). Cysteine is converted to pyruvate and taurine. Glutathione is a peptide formed from cysteine, not a carbon skeleton end-product."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              30
+            ]
           }
         },
         {
@@ -4814,23 +4813,23 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
           "correctAnswer": "B",
@@ -4840,10 +4839,18 @@
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II, which is also true.",
-            "C": "Includes III, which is false, and leaves out I, which is true.",
-            "D": "Includes III, which is false, and leaves out II, which is true.",
-            "E": "Includes III, which is false."
+            "A": "This is not the supported combination (I and II only). Folic acid consists of PABA and a pteridine ring. (It contains glutamate, not glutamine).",
+            "C": "This is not the supported combination (I and II only). Folic acid consists of PABA and a pteridine ring. (It contains glutamate, not glutamine).",
+            "D": "This is not the supported combination (I and II only). Folic acid consists of PABA and a pteridine ring. (It contains glutamate, not glutamine).",
+            "E": "This is not the supported combination (I and II only). Folic acid consists of PABA and a pteridine ring. (It contains glutamate, not glutamine)."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              33
+            ]
           }
         },
         {
@@ -4853,36 +4860,49 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "B",
-          "why": "Serine, alanine, aspartate, cysteine, histidine are glycogenic. Threonine and isoleucine are both.",
+          "correctAnswer": null,
+          "why": "II is purely glucogenic. Under the convention that threonine is both glucogenic and ketogenic, I and III are false, but II only is not offered. Some texts classify human threonine as glucogenic; check course convention before keying.",
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II, which is also true.",
-            "C": "Includes III, which is false, and leaves out I, which is true.",
-            "D": "Includes III, which is false, and leaves out II, which is true.",
-            "E": "Includes III, which is false."
+            "A": "II is purely glucogenic. Under the convention that threonine is both glucogenic and ketogenic, I and III are false, but II only is not offered. Some texts classify human threonine as glucogenic; check course convention before keying.",
+            "B": "II is purely glucogenic. Under the convention that threonine is both glucogenic and ketogenic, I and III are false, but II only is not offered. Some texts classify human threonine as glucogenic; check course convention before keying.",
+            "C": "II is purely glucogenic. Under the convention that threonine is both glucogenic and ketogenic, I and III are false, but II only is not offered. Some texts classify human threonine as glucogenic; check course convention before keying.",
+            "D": "II is purely glucogenic. Under the convention that threonine is both glucogenic and ketogenic, I and III are false, but II only is not offered. Some texts classify human threonine as glucogenic; check course convention before keying.",
+            "E": "II is purely glucogenic. Under the convention that threonine is both glucogenic and ketogenic, I and III are false, but II only is not offered. Some texts classify human threonine as glucogenic; check course convention before keying."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              34
+            ]
+          },
+          "pascoReview": {
+            "status": "needs-review",
+            "reason": "II is purely glucogenic. Under the convention that threonine is both glucogenic and ketogenic, I and III are false, but II only is not offered. Some texts classify human threonine as glucogenic; check course convention before keying."
           }
         },
         {
@@ -4892,23 +4912,23 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
           "correctAnswer": "B",
@@ -4918,10 +4938,18 @@
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II, which is also true.",
-            "C": "Includes III, which is false, and leaves out I, which is true.",
-            "D": "Includes III, which is false, and leaves out II, which is true.",
-            "E": "Includes III, which is false."
+            "A": "This is not the supported combination (I and II only). Isoleucine and tyrosine are both. Serine is purely glycogenic.",
+            "C": "This is not the supported combination (I and II only). Isoleucine and tyrosine are both. Serine is purely glycogenic.",
+            "D": "This is not the supported combination (I and II only). Isoleucine and tyrosine are both. Serine is purely glycogenic.",
+            "E": "This is not the supported combination (I and II only). Isoleucine and tyrosine are both. Serine is purely glycogenic."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              35
+            ]
           }
         },
         {
@@ -4931,36 +4959,48 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "E",
-          "why": "All three are ketogenic (or both) and yield acetyl CoA during degradation.",
+          "correctAnswer": "C",
+          "why": "Isoleucine and tryptophan yield acetyl-CoA or acetoacetyl-CoA; tyrosine yields fumarate and acetoacetate, rather than acetyl-CoA directly. The result depends on whether indirect conversion of ketone bodies is included.",
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II and III, which are also true.",
-            "B": "Leaves out III, which is also true.",
-            "C": "Leaves out I, which is also true.",
-            "D": "Leaves out II, which is also true."
+            "A": "This is not the supported combination (II and III only). Isoleucine and tryptophan yield acetyl-CoA or acetoacetyl-CoA; tyrosine yields fumarate and acetoacetate, rather than acetyl-CoA directly. The result depends on whether indirect conversion of ketone bodies is included.",
+            "B": "This is not the supported combination (II and III only). Isoleucine and tryptophan yield acetyl-CoA or acetoacetyl-CoA; tyrosine yields fumarate and acetoacetate, rather than acetyl-CoA directly. The result depends on whether indirect conversion of ketone bodies is included.",
+            "D": "This is not the supported combination (II and III only). Isoleucine and tryptophan yield acetyl-CoA or acetoacetyl-CoA; tyrosine yields fumarate and acetoacetate, rather than acetyl-CoA directly. The result depends on whether indirect conversion of ketone bodies is included.",
+            "E": "This is not the supported combination (II and III only). Isoleucine and tryptophan yield acetyl-CoA or acetoacetyl-CoA; tyrosine yields fumarate and acetoacetate, rather than acetyl-CoA directly. The result depends on whether indirect conversion of ketone bodies is included."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              36
+            ]
+          },
+          "pascoReview": {
+            "status": "needs-review",
+            "reason": "Isoleucine and tryptophan yield acetyl-CoA or acetoacetyl-CoA; tyrosine yields fumarate and acetoacetate, rather than acetyl-CoA directly. The result depends on whether indirect conversion of ketone bodies is included."
           }
         },
         {
@@ -4970,23 +5010,23 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
           "correctAnswer": "B",
@@ -4996,10 +5036,18 @@
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II, which is also true.",
-            "C": "Includes III, which is false, and leaves out I, which is true.",
-            "D": "Includes III, which is false, and leaves out II, which is true.",
-            "E": "Includes III, which is false."
+            "A": "This is not the supported combination (I and II only). Serine and cysteine have polar, uncharged side chains. Methionine's thioether side chain is hydrophobic, so it is classed as non-polar.",
+            "C": "This is not the supported combination (I and II only). Serine and cysteine have polar, uncharged side chains. Methionine's thioether side chain is hydrophobic, so it is classed as non-polar.",
+            "D": "This is not the supported combination (I and II only). Serine and cysteine have polar, uncharged side chains. Methionine's thioether side chain is hydrophobic, so it is classed as non-polar.",
+            "E": "This is not the supported combination (I and II only). Serine and cysteine have polar, uncharged side chains. Methionine's thioether side chain is hydrophobic, so it is classed as non-polar."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              37
+            ]
           }
         },
         {
@@ -5009,36 +5057,44 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "A",
+          "correctAnswer": "D",
           "why": "Arginine is basic (positive). Glutamine is polar uncharged. Glutamate is acidic (negative).",
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "B": "Includes II, which is false.",
-            "C": "Includes II and III, which are false, and leaves out I, which is true.",
-            "D": "Includes III, which is false.",
-            "E": "Includes II and III, which are false."
+            "A": "This is not the supported combination (I only). Arginine is basic (positive). Glutamine is polar uncharged. Glutamate is acidic (negative).",
+            "B": "This is not the supported combination (I only). Arginine is basic (positive). Glutamine is polar uncharged. Glutamate is acidic (negative).",
+            "C": "This is not the supported combination (I only). Arginine is basic (positive). Glutamine is polar uncharged. Glutamate is acidic (negative).",
+            "E": "This is not the supported combination (I only). Arginine is basic (positive). Glutamine is polar uncharged. Glutamate is acidic (negative)."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              38
+            ]
           }
         },
         {
@@ -5132,9 +5188,6 @@
             "semester": 1,
             "questionNumbers": [
               9
-            ],
-            "answerReferences": [
-              "https://www.uniprot.org/uniprot/P00367"
             ]
           }
         },
@@ -5397,9 +5450,6 @@
             "semester": 1,
             "questionNumbers": [
               25
-            ],
-            "answerReferences": [
-              "https://pubchem.ncbi.nlm.nih.gov/pathway/BioCyc:HUMAN_PWY-4984"
             ]
           }
         },
@@ -5410,36 +5460,44 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "E",
+          "correctAnswer": "A",
           "why": "Excess ammonia drives glutamate dehydrogenase backwards, draining α-ketoglutarate from the TCA cycle and cutting ATP production (II). It also diverts glutamate into glutamine, reducing GABA synthesis (III), and NH4+ competes with K+ at the Na+/K+-ATPase, disturbing neuronal membranes (I).",
           "topicId": "nitrogen",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II and III, which are also true.",
-            "B": "Leaves out III, which is also true.",
-            "C": "Leaves out I, which is also true.",
-            "D": "Leaves out II, which is also true."
+            "B": "This is not the supported combination (I, II and III). Excess ammonia drives glutamate dehydrogenase backwards, draining α-ketoglutarate from the TCA cycle and cutting ATP production (II). It also diverts glutamate into glutamine, reducing GABA synthesis (III), and NH4+ competes with K+ at the Na+/K+-ATPase, disturbing neuronal membranes (I).",
+            "C": "This is not the supported combination (I, II and III). Excess ammonia drives glutamate dehydrogenase backwards, draining α-ketoglutarate from the TCA cycle and cutting ATP production (II). It also diverts glutamate into glutamine, reducing GABA synthesis (III), and NH4+ competes with K+ at the Na+/K+-ATPase, disturbing neuronal membranes (I).",
+            "D": "This is not the supported combination (I, II and III). Excess ammonia drives glutamate dehydrogenase backwards, draining α-ketoglutarate from the TCA cycle and cutting ATP production (II). It also diverts glutamate into glutamine, reducing GABA synthesis (III), and NH4+ competes with K+ at the Na+/K+-ATPase, disturbing neuronal membranes (I).",
+            "E": "This is not the supported combination (I, II and III). Excess ammonia drives glutamate dehydrogenase backwards, draining α-ketoglutarate from the TCA cycle and cutting ATP production (II). It also diverts glutamate into glutamine, reducing GABA synthesis (III), and NH4+ competes with K+ at the Na+/K+-ATPase, disturbing neuronal membranes (I)."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              26
+            ]
           }
         },
         {
@@ -5576,23 +5634,23 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
           "correctAnswer": "C",
@@ -5602,10 +5660,18 @@
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Includes I, which is false, and leaves out II and III, which are true.",
-            "B": "Includes I, which is false, and leaves out III, which is true.",
-            "D": "Includes I, which is false, and leaves out II, which is true.",
-            "E": "Includes I, which is false."
+            "A": "This is not the supported combination (II and III only). It is a variant of MSUD (ii) caused by the enzyme deficiency (iii), but symptoms appear intermittently, often later.",
+            "B": "This is not the supported combination (II and III only). It is a variant of MSUD (ii) caused by the enzyme deficiency (iii), but symptoms appear intermittently, often later.",
+            "D": "This is not the supported combination (II and III only). It is a variant of MSUD (ii) caused by the enzyme deficiency (iii), but symptoms appear intermittently, often later.",
+            "E": "This is not the supported combination (II and III only). It is a variant of MSUD (ii) caused by the enzyme deficiency (iii), but symptoms appear intermittently, often later."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              31
+            ]
           }
         },
         {
@@ -5756,36 +5822,44 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "A",
+          "correctAnswer": "D",
           "why": "Cystathionuria is caused by a defect in cystathionine gamma-lyase (i).",
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "B": "Includes II, which is false.",
-            "C": "Includes II and III, which are false, and leaves out I, which is true.",
-            "D": "Includes III, which is false.",
-            "E": "Includes II and III, which are false."
+            "A": "This is not the supported combination (I only). Cystathionuria is caused by a defect in cystathionine gamma-lyase (i).",
+            "B": "This is not the supported combination (I only). Cystathionuria is caused by a defect in cystathionine gamma-lyase (i).",
+            "C": "This is not the supported combination (I only). Cystathionuria is caused by a defect in cystathionine gamma-lyase (i).",
+            "E": "This is not the supported combination (I only). Cystathionuria is caused by a defect in cystathionine gamma-lyase (i)."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              27
+            ]
           }
         },
         {
@@ -5795,36 +5869,48 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
           "correctAnswer": "E",
-          "why": "Defects in methionine synthase, lack of PLP, and CBS deficiency can all lead to homocystinuria.",
+          "why": "Only III explicitly states a causal deficiency. I and II name methionine synthase and pyridoxal phosphate without specifying a deficiency; if missing words are inferred, all three could be causal. Preserve wording; provisional E.",
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II and III, which are also true.",
-            "B": "Leaves out III, which is also true.",
-            "C": "Leaves out I, which is also true.",
-            "D": "Leaves out II, which is also true."
+            "A": "This is not the supported combination (III only). Only III explicitly states a causal deficiency. I and II name methionine synthase and pyridoxal phosphate without specifying a deficiency; if missing words are inferred, all three could be causal. Preserve wording; provisional E.",
+            "B": "This is not the supported combination (III only). Only III explicitly states a causal deficiency. I and II name methionine synthase and pyridoxal phosphate without specifying a deficiency; if missing words are inferred, all three could be causal. Preserve wording; provisional E.",
+            "C": "This is not the supported combination (III only). Only III explicitly states a causal deficiency. I and II name methionine synthase and pyridoxal phosphate without specifying a deficiency; if missing words are inferred, all three could be causal. Preserve wording; provisional E.",
+            "D": "This is not the supported combination (III only). Only III explicitly states a causal deficiency. I and II name methionine synthase and pyridoxal phosphate without specifying a deficiency; if missing words are inferred, all three could be causal. Preserve wording; provisional E."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              28
+            ]
+          },
+          "pascoReview": {
+            "status": "needs-review",
+            "reason": "Only III explicitly states a causal deficiency. I and II name methionine synthase and pyridoxal phosphate without specifying a deficiency; if missing words are inferred, all three could be causal. Preserve wording; provisional E."
           }
         },
         {
@@ -5834,36 +5920,48 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "E",
-          "why": "Isovaleric acidemia causes speech defects, mild intellectual disability, and a distinct 'sweaty feet' odor.",
+          "correctAnswer": "A",
+          "why": "Isovaleric acidaemia can cause developmental delay and a characteristic sweaty-feet/cheesy odour. Speech defects and mild intellectual disability are not universal; review the lecture-specific wording.",
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II and III, which are also true.",
-            "B": "Leaves out III, which is also true.",
-            "C": "Leaves out I, which is also true.",
-            "D": "Leaves out II, which is also true."
+            "B": "This is not the supported combination (I, II and III). Isovaleric acidaemia can cause developmental delay and a characteristic sweaty-feet/cheesy odour. Speech defects and mild intellectual disability are not universal; review the lecture-specific wording.",
+            "C": "This is not the supported combination (I, II and III). Isovaleric acidaemia can cause developmental delay and a characteristic sweaty-feet/cheesy odour. Speech defects and mild intellectual disability are not universal; review the lecture-specific wording.",
+            "D": "This is not the supported combination (I, II and III). Isovaleric acidaemia can cause developmental delay and a characteristic sweaty-feet/cheesy odour. Speech defects and mild intellectual disability are not universal; review the lecture-specific wording.",
+            "E": "This is not the supported combination (I, II and III). Isovaleric acidaemia can cause developmental delay and a characteristic sweaty-feet/cheesy odour. Speech defects and mild intellectual disability are not universal; review the lecture-specific wording."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              29
+            ]
+          },
+          "pascoReview": {
+            "status": "needs-review",
+            "reason": "Isovaleric acidaemia can cause developmental delay and a characteristic sweaty-feet/cheesy odour. Speech defects and mild intellectual disability are not universal; review the lecture-specific wording."
           }
         },
         {
@@ -5873,36 +5971,44 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "E",
+          "correctAnswer": "A",
           "why": "IEMs can present early or later (depending on severity/exposure to triggers).",
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II and III, which are also true.",
-            "B": "Leaves out III, which is also true.",
-            "C": "Leaves out I, which is also true.",
-            "D": "Leaves out II, which is also true."
+            "B": "This is not the supported combination (I, II and III). IEMs can present early or later (depending on severity/exposure to triggers).",
+            "C": "This is not the supported combination (I, II and III). IEMs can present early or later (depending on severity/exposure to triggers).",
+            "D": "This is not the supported combination (I, II and III). IEMs can present early or later (depending on severity/exposure to triggers).",
+            "E": "This is not the supported combination (I, II and III). IEMs can present early or later (depending on severity/exposure to triggers)."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              39
+            ]
           }
         },
         {
@@ -5912,23 +6018,23 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
           "correctAnswer": "C",
@@ -5938,10 +6044,18 @@
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Includes I, which is false, and leaves out II and III, which are true.",
-            "B": "Includes I, which is false, and leaves out III, which is true.",
-            "D": "Includes I, which is false, and leaves out II, which is true.",
-            "E": "Includes I, which is false."
+            "A": "This is not the supported combination (II and III only). In a block, the substrate accumulates (not reduces). It interferes with feedback and reduces the product.",
+            "B": "This is not the supported combination (II and III only). In a block, the substrate accumulates (not reduces). It interferes with feedback and reduces the product.",
+            "D": "This is not the supported combination (II and III only). In a block, the substrate accumulates (not reduces). It interferes with feedback and reduces the product.",
+            "E": "This is not the supported combination (II and III only). In a block, the substrate accumulates (not reduces). It interferes with feedback and reduces the product."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              40
+            ]
           }
         },
         {
@@ -5951,36 +6065,48 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "E",
-          "why": "All can be used depending on the suspected disorder.",
+          "correctAnswer": "A",
+          "why": "All can be diagnostic specimens depending on the disorder, but skin biopsy is typically specialized rather than a routine initial specimen. The stem is insufficiently specific; provisional key.",
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II and III, which are also true.",
-            "B": "Leaves out III, which is also true.",
-            "C": "Leaves out I, which is also true.",
-            "D": "Leaves out II, which is also true."
+            "B": "This is not the supported combination (I, II and III). All can be diagnostic specimens depending on the disorder, but skin biopsy is typically specialized rather than a routine initial specimen. The stem is insufficiently specific; provisional key.",
+            "C": "This is not the supported combination (I, II and III). All can be diagnostic specimens depending on the disorder, but skin biopsy is typically specialized rather than a routine initial specimen. The stem is insufficiently specific; provisional key.",
+            "D": "This is not the supported combination (I, II and III). All can be diagnostic specimens depending on the disorder, but skin biopsy is typically specialized rather than a routine initial specimen. The stem is insufficiently specific; provisional key.",
+            "E": "This is not the supported combination (I, II and III). All can be diagnostic specimens depending on the disorder, but skin biopsy is typically specialized rather than a routine initial specimen. The stem is insufficiently specific; provisional key."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              41
+            ]
+          },
+          "pascoReview": {
+            "status": "needs-review",
+            "reason": "All can be diagnostic specimens depending on the disorder, but skin biopsy is typically specialized rather than a routine initial specimen. The stem is insufficiently specific; provisional key."
           }
         },
         {
@@ -5990,23 +6116,23 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
           "correctAnswer": "B",
@@ -6016,10 +6142,18 @@
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II, which is also true.",
-            "C": "Includes III, which is false, and leaves out I, which is true.",
-            "D": "Includes III, which is false, and leaves out II, which is true.",
-            "E": "Includes III, which is false."
+            "A": "This is not the supported combination (I and II only). CVS and amniotic fluid are prenatal. Liver biopsy is postnatal.",
+            "C": "This is not the supported combination (I and II only). CVS and amniotic fluid are prenatal. Liver biopsy is postnatal.",
+            "D": "This is not the supported combination (I and II only). CVS and amniotic fluid are prenatal. Liver biopsy is postnatal.",
+            "E": "This is not the supported combination (I and II only). CVS and amniotic fluid are prenatal. Liver biopsy is postnatal."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              42
+            ]
           }
         },
         {
@@ -6029,36 +6163,44 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "E",
+          "correctAnswer": "A",
           "why": "Screening requires the disease to be common, treatable, and have an easy test.",
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II and III, which are also true.",
-            "B": "Leaves out III, which is also true.",
-            "C": "Leaves out I, which is also true.",
-            "D": "Leaves out II, which is also true."
+            "B": "This is not the supported combination (I, II and III). Screening requires the disease to be common, treatable, and have an easy test.",
+            "C": "This is not the supported combination (I, II and III). Screening requires the disease to be common, treatable, and have an easy test.",
+            "D": "This is not the supported combination (I, II and III). Screening requires the disease to be common, treatable, and have an easy test.",
+            "E": "This is not the supported combination (I, II and III). Screening requires the disease to be common, treatable, and have an easy test."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              43
+            ]
           }
         },
         {
@@ -6068,36 +6210,44 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "E",
+          "correctAnswer": "A",
           "why": "All are common presentations.",
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II and III, which are also true.",
-            "B": "Leaves out III, which is also true.",
-            "C": "Leaves out I, which is also true.",
-            "D": "Leaves out II, which is also true."
+            "B": "This is not the supported combination (I, II and III). All are common presentations.",
+            "C": "This is not the supported combination (I, II and III). All are common presentations.",
+            "D": "This is not the supported combination (I, II and III). All are common presentations.",
+            "E": "This is not the supported combination (I, II and III). All are common presentations."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              44
+            ]
           }
         },
         {
@@ -6107,36 +6257,48 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "E",
-          "why": "All are standard tests for metabolic disorders.",
+          "correctAnswer": "A",
+          "why": "Blood gases and bicarbonate directly assess acid–base status; plasma ammonia helps investigate suspected metabolic disease, not acid–base disturbance itself. The scope of the stem is ambiguous.",
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II and III, which are also true.",
-            "B": "Leaves out III, which is also true.",
-            "C": "Leaves out I, which is also true.",
-            "D": "Leaves out II, which is also true."
+            "B": "This is not the supported combination (I, II and III). Blood gases and bicarbonate directly assess acid–base status; plasma ammonia helps investigate suspected metabolic disease, not acid–base disturbance itself. The scope of the stem is ambiguous.",
+            "C": "This is not the supported combination (I, II and III). Blood gases and bicarbonate directly assess acid–base status; plasma ammonia helps investigate suspected metabolic disease, not acid–base disturbance itself. The scope of the stem is ambiguous.",
+            "D": "This is not the supported combination (I, II and III). Blood gases and bicarbonate directly assess acid–base status; plasma ammonia helps investigate suspected metabolic disease, not acid–base disturbance itself. The scope of the stem is ambiguous.",
+            "E": "This is not the supported combination (I, II and III). Blood gases and bicarbonate directly assess acid–base status; plasma ammonia helps investigate suspected metabolic disease, not acid–base disturbance itself. The scope of the stem is ambiguous."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              45
+            ]
+          },
+          "pascoReview": {
+            "status": "needs-review",
+            "reason": "Blood gases and bicarbonate directly assess acid–base status; plasma ammonia helps investigate suspected metabolic disease, not acid–base disturbance itself. The scope of the stem is ambiguous."
           }
         },
         {
@@ -6146,36 +6308,44 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "E",
+          "correctAnswer": "A",
           "why": "All are valid strategies.",
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II and III, which are also true.",
-            "B": "Leaves out III, which is also true.",
-            "C": "Leaves out I, which is also true.",
-            "D": "Leaves out II, which is also true."
+            "B": "This is not the supported combination (I, II and III). All are valid strategies.",
+            "C": "This is not the supported combination (I, II and III). All are valid strategies.",
+            "D": "This is not the supported combination (I, II and III). All are valid strategies.",
+            "E": "This is not the supported combination (I, II and III). All are valid strategies."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              46
+            ]
           }
         },
         {
@@ -6185,23 +6355,23 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "III only"
+              "text": "iii only"
             }
           ],
           "correctAnswer": "E",
@@ -6211,10 +6381,18 @@
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Includes I, which is false, and leaves out III, which is true.",
-            "B": "Includes I and II, which are false, and leaves out III, which is true.",
-            "C": "Includes II, which is false.",
-            "D": "Includes I, which is false."
+            "A": "This is not the supported combination (III only). Classic galactosemia is caused by GALT (uridyltransferase) deficiency.",
+            "B": "This is not the supported combination (III only). Classic galactosemia is caused by GALT (uridyltransferase) deficiency.",
+            "C": "This is not the supported combination (III only). Classic galactosemia is caused by GALT (uridyltransferase) deficiency.",
+            "D": "This is not the supported combination (III only). Classic galactosemia is caused by GALT (uridyltransferase) deficiency."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              48
+            ]
           }
         },
         {
@@ -6224,36 +6402,44 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "A",
+          "correctAnswer": "D",
           "why": "Methylmalonic aciduria is caused by defects in the breakdown of isoleucine (and valine, methionine, threonine).",
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "B": "Includes II, which is false.",
-            "C": "Includes II and III, which are false, and leaves out I, which is true.",
-            "D": "Includes III, which is false.",
-            "E": "Includes II and III, which are false."
+            "A": "This is not the supported combination (I only). Methylmalonic aciduria is caused by defects in the breakdown of isoleucine (and valine, methionine, threonine).",
+            "B": "This is not the supported combination (I only). Methylmalonic aciduria is caused by defects in the breakdown of isoleucine (and valine, methionine, threonine).",
+            "C": "This is not the supported combination (I only). Methylmalonic aciduria is caused by defects in the breakdown of isoleucine (and valine, methionine, threonine).",
+            "E": "This is not the supported combination (I only). Methylmalonic aciduria is caused by defects in the breakdown of isoleucine (and valine, methionine, threonine)."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              49
+            ]
           }
         },
         {
@@ -6263,23 +6449,23 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
           "correctAnswer": "B",
@@ -6289,10 +6475,18 @@
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II, which is also true.",
-            "C": "Includes III, which is false, and leaves out I, which is true.",
-            "D": "Includes III, which is false, and leaves out II, which is true.",
-            "E": "Includes III, which is false."
+            "A": "This is not the supported combination (I and II only). Menkes (copper transport) and Cystinosis (cystine transport) are transporter defects.",
+            "C": "This is not the supported combination (I and II only). Menkes (copper transport) and Cystinosis (cystine transport) are transporter defects.",
+            "D": "This is not the supported combination (I and II only). Menkes (copper transport) and Cystinosis (cystine transport) are transporter defects.",
+            "E": "This is not the supported combination (I and II only). Menkes (copper transport) and Cystinosis (cystine transport) are transporter defects."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              52
+            ]
           }
         },
         {
@@ -6302,36 +6496,44 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "E",
+          "correctAnswer": "A",
           "why": "All can result from receptor mutations.",
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II and III, which are also true.",
-            "B": "Leaves out III, which is also true.",
-            "C": "Leaves out I, which is also true.",
-            "D": "Leaves out II, which is also true."
+            "B": "This is not the supported combination (I, II and III). All can result from receptor mutations.",
+            "C": "This is not the supported combination (I, II and III). All can result from receptor mutations.",
+            "D": "This is not the supported combination (I, II and III). All can result from receptor mutations.",
+            "E": "This is not the supported combination (I, II and III). All can result from receptor mutations."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              54
+            ]
           }
         },
         {
@@ -6495,36 +6697,44 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "E",
+          "correctAnswer": "A",
           "why": "All are features of Tay-Sachs (developmental regression, hypotonia, weakness).",
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II and III, which are also true.",
-            "B": "Leaves out III, which is also true.",
-            "C": "Leaves out I, which is also true.",
-            "D": "Leaves out II, which is also true."
+            "B": "This is not the supported combination (I, II and III). All are features of Tay-Sachs (developmental regression, hypotonia, weakness).",
+            "C": "This is not the supported combination (I, II and III). All are features of Tay-Sachs (developmental regression, hypotonia, weakness).",
+            "D": "This is not the supported combination (I, II and III). All are features of Tay-Sachs (developmental regression, hypotonia, weakness).",
+            "E": "This is not the supported combination (I, II and III). All are features of Tay-Sachs (developmental regression, hypotonia, weakness)."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              50
+            ]
           }
         },
         {
@@ -6534,23 +6744,23 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
           "correctAnswer": "B",
@@ -6560,10 +6770,18 @@
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II, which is also true.",
-            "C": "Includes III, which is false, and leaves out I, which is true.",
-            "D": "Includes III, which is false, and leaves out II, which is true.",
-            "E": "Includes III, which is false."
+            "A": "This is not the supported combination (I and II only). COL1A1 mutations cause defective collagen. Triple helix formation is slow/defective. Cross-linking is deficient, not compact.",
+            "C": "This is not the supported combination (I and II only). COL1A1 mutations cause defective collagen. Triple helix formation is slow/defective. Cross-linking is deficient, not compact.",
+            "D": "This is not the supported combination (I and II only). COL1A1 mutations cause defective collagen. Triple helix formation is slow/defective. Cross-linking is deficient, not compact.",
+            "E": "This is not the supported combination (I and II only). COL1A1 mutations cause defective collagen. Triple helix formation is slow/defective. Cross-linking is deficient, not compact."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              53
+            ]
           }
         },
         {
@@ -6573,36 +6791,48 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "A",
-          "why": "The alpha-keto acid dehydrogenase complex usually refers to the pyruvate dehydrogenase complex.",
+          "correctAnswer": "D",
+          "why": "Pyruvate dehydrogenase is an α-keto acid dehydrogenase complex, but not synonymous with the whole enzyme class. I is the closest option; review the imprecise stem.",
           "topicId": "iem",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "B": "Includes II, which is false.",
-            "C": "Includes II and III, which are false, and leaves out I, which is true.",
-            "D": "Includes III, which is false.",
-            "E": "Includes II and III, which are false."
+            "A": "This is not the supported combination (I only). Pyruvate dehydrogenase is an α-keto acid dehydrogenase complex, but not synonymous with the whole enzyme class. I is the closest option; review the imprecise stem.",
+            "B": "This is not the supported combination (I only). Pyruvate dehydrogenase is an α-keto acid dehydrogenase complex, but not synonymous with the whole enzyme class. I is the closest option; review the imprecise stem.",
+            "C": "This is not the supported combination (I only). Pyruvate dehydrogenase is an α-keto acid dehydrogenase complex, but not synonymous with the whole enzyme class. I is the closest option; review the imprecise stem.",
+            "E": "This is not the supported combination (I only). Pyruvate dehydrogenase is an α-keto acid dehydrogenase complex, but not synonymous with the whole enzyme class. I is the closest option; review the imprecise stem."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              32
+            ]
+          },
+          "pascoReview": {
+            "status": "needs-review",
+            "reason": "Pyruvate dehydrogenase is an α-keto acid dehydrogenase complex, but not synonymous with the whole enzyme class. I is the closest option; review the imprecise stem."
           }
         },
         {
@@ -6612,23 +6842,23 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
           "correctAnswer": "C",
@@ -6638,10 +6868,18 @@
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Includes I, which is false, and leaves out II and III, which are true.",
-            "B": "Includes I, which is false, and leaves out III, which is true.",
-            "D": "Includes I, which is false, and leaves out II, which is true.",
-            "E": "Includes I, which is false."
+            "A": "This is not the supported combination (II and III only). Incidence is closer to 1:10,000. It is autosomal recessive and causes pale pigmentation.",
+            "B": "This is not the supported combination (II and III only). Incidence is closer to 1:10,000. It is autosomal recessive and causes pale pigmentation.",
+            "D": "This is not the supported combination (II and III only). Incidence is closer to 1:10,000. It is autosomal recessive and causes pale pigmentation.",
+            "E": "This is not the supported combination (II and III only). Incidence is closer to 1:10,000. It is autosomal recessive and causes pale pigmentation."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              47
+            ]
           }
         },
         {
@@ -7292,9 +7530,6 @@
             "semester": 1,
             "questionNumbers": [
               79
-            ],
-            "answerReferences": [
-              "https://pmc.ncbi.nlm.nih.gov/articles/PMC2742746/"
             ]
           }
         },
@@ -7906,36 +8141,44 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "A",
+          "correctAnswer": "D",
           "why": "Helix residues are numbered by helix letter and position (A1, A2 …), so I is true. The terminal non-helical residues are designated NA1 and NA2 (and HC1–HC5 at the C-terminus), not N1 and N2, so III is false. II is also false.",
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "hard",
           "lockOrder": true,
           "notes": {
-            "B": "Includes II, which is false.",
-            "C": "Includes II and III, which are false, and leaves out I, which is true.",
-            "D": "Includes III, which is false.",
-            "E": "Includes II and III, which are false."
+            "A": "This is not the supported combination (I only). Helix residues are numbered by helix letter and position (A1, A2 …), so I is true. The terminal non-helical residues are designated NA1 and NA2 (and HC1–HC5 at the C-terminus), not N1 and N2, so III is false. II is also false.",
+            "B": "This is not the supported combination (I only). Helix residues are numbered by helix letter and position (A1, A2 …), so I is true. The terminal non-helical residues are designated NA1 and NA2 (and HC1–HC5 at the C-terminus), not N1 and N2, so III is false. II is also false.",
+            "C": "This is not the supported combination (I only). Helix residues are numbered by helix letter and position (A1, A2 …), so I is true. The terminal non-helical residues are designated NA1 and NA2 (and HC1–HC5 at the C-terminus), not N1 and N2, so III is false. II is also false.",
+            "E": "This is not the supported combination (I only). Helix residues are numbered by helix letter and position (A1, A2 …), so I is true. The terminal non-helical residues are designated NA1 and NA2 (and HC1–HC5 at the C-terminus), not N1 and N2, so III is false. II is also false."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              55
+            ]
           }
         },
         {
@@ -7945,23 +8188,23 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
           "correctAnswer": "B",
@@ -7971,10 +8214,18 @@
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II, which is also true.",
-            "C": "Includes III, which is false, and leaves out I, which is true.",
-            "D": "Includes III, which is false, and leaves out II, which is true.",
-            "E": "Includes III, which is false."
+            "A": "This is not the supported combination (I and II only). The C-terminal region is designated HC1-HC5, not H1-H5.",
+            "C": "This is not the supported combination (I and II only). The C-terminal region is designated HC1-HC5, not H1-H5.",
+            "D": "This is not the supported combination (I and II only). The C-terminal region is designated HC1-HC5, not H1-H5.",
+            "E": "This is not the supported combination (I and II only). The C-terminal region is designated HC1-HC5, not H1-H5."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              56
+            ]
           }
         },
         {
@@ -8021,9 +8272,6 @@
             "semester": 1,
             "questionNumbers": [
               57
-            ],
-            "answerReferences": [
-              "https://basicmedicalkey.com/proteins-myoglobin-hemoglobin/"
             ]
           }
         },
@@ -8034,23 +8282,23 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
           "correctAnswer": "C",
@@ -8060,10 +8308,18 @@
           "difficulty": "hard",
           "lockOrder": true,
           "notes": {
-            "A": "Includes I, which is false, and leaves out II and III, which are true.",
-            "B": "Includes I, which is false, and leaves out III, which is true.",
-            "D": "Includes I, which is false, and leaves out II, which is true.",
-            "E": "Includes I, which is false."
+            "A": "This is not the supported combination (II and III only). Charged and polar side chains (Glu, Asp, Gln, Asn, Lys, Arg) are on the surface, so I is false. Amphipathic residues such as Thr, Tyr and Trp point their non-polar parts inward (II), and the only polar residues in the interior are the two histidines E7 and F8 (III).",
+            "B": "This is not the supported combination (II and III only). Charged and polar side chains (Glu, Asp, Gln, Asn, Lys, Arg) are on the surface, so I is false. Amphipathic residues such as Thr, Tyr and Trp point their non-polar parts inward (II), and the only polar residues in the interior are the two histidines E7 and F8 (III).",
+            "D": "This is not the supported combination (II and III only). Charged and polar side chains (Glu, Asp, Gln, Asn, Lys, Arg) are on the surface, so I is false. Amphipathic residues such as Thr, Tyr and Trp point their non-polar parts inward (II), and the only polar residues in the interior are the two histidines E7 and F8 (III).",
+            "E": "This is not the supported combination (II and III only). Charged and polar side chains (Glu, Asp, Gln, Asn, Lys, Arg) are on the surface, so I is false. Amphipathic residues such as Thr, Tyr and Trp point their non-polar parts inward (II), and the only polar residues in the interior are the two histidines E7 and F8 (III)."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              58
+            ]
           }
         },
         {
@@ -8073,36 +8329,44 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "E",
+          "correctAnswer": "A",
           "why": "All are true features of the globin pocket.",
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II and III, which are also true.",
-            "B": "Leaves out III, which is also true.",
-            "C": "Leaves out I, which is also true.",
-            "D": "Leaves out II, which is also true."
+            "B": "This is not the supported combination (I, II and III). All are true features of the globin pocket.",
+            "C": "This is not the supported combination (I, II and III). All are true features of the globin pocket.",
+            "D": "This is not the supported combination (I, II and III). All are true features of the globin pocket.",
+            "E": "This is not the supported combination (I, II and III). All are true features of the globin pocket."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              59
+            ]
           }
         },
         {
@@ -8112,23 +8376,23 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
           "correctAnswer": "C",
@@ -8138,10 +8402,18 @@
           "difficulty": "hard",
           "lockOrder": true,
           "notes": {
-            "A": "Includes I, which is false, and leaves out II and III, which are true.",
-            "B": "Includes I, which is false, and leaves out III, which is true.",
-            "D": "Includes I, which is false, and leaves out II, which is true.",
-            "E": "Includes I, which is false."
+            "A": "This is not the supported combination (II and III only). In myoglobin and haemoglobin, CO binds about 200 times more tightly than O2 (II). That is far less than free haem, which binds CO about 25 000 times more strongly than O2 (so I is false). The hindered pocket (distal histidine forcing a bent geometry) cuts CO affinity and lets O2 bind reversibly (III).",
+            "B": "This is not the supported combination (II and III only). In myoglobin and haemoglobin, CO binds about 200 times more tightly than O2 (II). That is far less than free haem, which binds CO about 25 000 times more strongly than O2 (so I is false). The hindered pocket (distal histidine forcing a bent geometry) cuts CO affinity and lets O2 bind reversibly (III).",
+            "D": "This is not the supported combination (II and III only). In myoglobin and haemoglobin, CO binds about 200 times more tightly than O2 (II). That is far less than free haem, which binds CO about 25 000 times more strongly than O2 (so I is false). The hindered pocket (distal histidine forcing a bent geometry) cuts CO affinity and lets O2 bind reversibly (III).",
+            "E": "This is not the supported combination (II and III only). In myoglobin and haemoglobin, CO binds about 200 times more tightly than O2 (II). That is far less than free haem, which binds CO about 25 000 times more strongly than O2 (so I is false). The hindered pocket (distal histidine forcing a bent geometry) cuts CO affinity and lets O2 bind reversibly (III)."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              60
+            ]
           }
         },
         {
@@ -8151,36 +8423,44 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "A",
+          "correctAnswer": "D",
           "why": "The proximal histidine F8 is bonded to the haem iron (I). The distal histidine E7 sits near the sixth position but is not attached (II false). The haem site binds O2 and CO, but CO2 binds to the N-terminal amino groups of the globin chains, not the haem (III false).",
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "hard",
           "lockOrder": true,
           "notes": {
-            "B": "Includes II, which is false.",
-            "C": "Includes II and III, which are false, and leaves out I, which is true.",
-            "D": "Includes III, which is false.",
-            "E": "Includes II and III, which are false."
+            "A": "This is not the supported combination (I only). The proximal histidine F8 is bonded to the haem iron (I). The distal histidine E7 sits near the sixth position but is not attached (II false). The haem site binds O2 and CO, but CO2 binds to the N-terminal amino groups of the globin chains, not the haem (III false).",
+            "B": "This is not the supported combination (I only). The proximal histidine F8 is bonded to the haem iron (I). The distal histidine E7 sits near the sixth position but is not attached (II false). The haem site binds O2 and CO, but CO2 binds to the N-terminal amino groups of the globin chains, not the haem (III false).",
+            "C": "This is not the supported combination (I only). The proximal histidine F8 is bonded to the haem iron (I). The distal histidine E7 sits near the sixth position but is not attached (II false). The haem site binds O2 and CO, but CO2 binds to the N-terminal amino groups of the globin chains, not the haem (III false).",
+            "E": "This is not the supported combination (I only). The proximal histidine F8 is bonded to the haem iron (I). The distal histidine E7 sits near the sixth position but is not attached (II false). The haem site binds O2 and CO, but CO2 binds to the N-terminal amino groups of the globin chains, not the haem (III false)."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              61
+            ]
           }
         },
         {
@@ -8190,36 +8470,44 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "A",
+          "correctAnswer": "D",
           "why": "The haem site is modulated by the distal histidine E7 and surrounding residues (I). It is affected by O2 binding at the other subunits (cooperativity), so II is false. 2,3-BPG binds in the central cavity between the β chains, not at the active site, so III is false.",
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "hard",
           "lockOrder": true,
           "notes": {
-            "B": "Includes II, which is false.",
-            "C": "Includes II and III, which are false, and leaves out I, which is true.",
-            "D": "Includes III, which is false.",
-            "E": "Includes II and III, which are false."
+            "A": "This is not the supported combination (I only). The haem site is modulated by the distal histidine E7 and surrounding residues (I). It is affected by O2 binding at the other subunits (cooperativity), so II is false. 2,3-BPG binds in the central cavity between the β chains, not at the active site, so III is false.",
+            "B": "This is not the supported combination (I only). The haem site is modulated by the distal histidine E7 and surrounding residues (I). It is affected by O2 binding at the other subunits (cooperativity), so II is false. 2,3-BPG binds in the central cavity between the β chains, not at the active site, so III is false.",
+            "C": "This is not the supported combination (I only). The haem site is modulated by the distal histidine E7 and surrounding residues (I). It is affected by O2 binding at the other subunits (cooperativity), so II is false. 2,3-BPG binds in the central cavity between the β chains, not at the active site, so III is false.",
+            "E": "This is not the supported combination (I only). The haem site is modulated by the distal histidine E7 and surrounding residues (I). It is affected by O2 binding at the other subunits (cooperativity), so II is false. 2,3-BPG binds in the central cavity between the β chains, not at the active site, so III is false."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              62
+            ]
           }
         },
         {
@@ -8229,23 +8517,23 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
           "correctAnswer": "B",
@@ -8255,10 +8543,18 @@
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II, which is also true.",
-            "C": "Includes III, which is false, and leaves out I, which is true.",
-            "D": "Includes III, which is false, and leaves out II, which is true.",
-            "E": "Includes III, which is false."
+            "A": "This is not the supported combination (I and II only). Myoglobin is a monomer, so it has no quaternary structure.",
+            "C": "This is not the supported combination (I and II only). Myoglobin is a monomer, so it has no quaternary structure.",
+            "D": "This is not the supported combination (I and II only). Myoglobin is a monomer, so it has no quaternary structure.",
+            "E": "This is not the supported combination (I and II only). Myoglobin is a monomer, so it has no quaternary structure."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              64
+            ]
           }
         },
         {
@@ -8268,36 +8564,44 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and II only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "C",
+          "correctAnswer": "E",
           "why": "It allows reversible binding of O2.",
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Includes I, which is false, and leaves out III, which is true.",
-            "B": "Includes II, which is false, and leaves out III, which is true.",
-            "D": "Includes I and II, which are false, and leaves out III, which is true.",
-            "E": "Includes I and II, which are false."
+            "A": "This is not the supported combination (III only). It allows reversible binding of O2.",
+            "B": "This is not the supported combination (III only). It allows reversible binding of O2.",
+            "C": "This is not the supported combination (III only). It allows reversible binding of O2.",
+            "D": "This is not the supported combination (III only). It allows reversible binding of O2."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              65
+            ]
           }
         },
         {
@@ -8307,36 +8611,44 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "E",
+          "correctAnswer": "A",
           "why": "These residues are highly conserved to maintain the heme pocket structure.",
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II and III, which are also true.",
-            "B": "Leaves out III, which is also true.",
-            "C": "Leaves out I, which is also true.",
-            "D": "Leaves out II, which is also true."
+            "B": "This is not the supported combination (I, II and III). These residues are highly conserved to maintain the heme pocket structure.",
+            "C": "This is not the supported combination (I, II and III). These residues are highly conserved to maintain the heme pocket structure.",
+            "D": "This is not the supported combination (I, II and III). These residues are highly conserved to maintain the heme pocket structure.",
+            "E": "This is not the supported combination (I, II and III). These residues are highly conserved to maintain the heme pocket structure."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              66
+            ]
           }
         },
         {
@@ -8346,23 +8658,23 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
           "correctAnswer": "B",
@@ -8372,10 +8684,18 @@
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II, which is also true.",
-            "C": "Includes III, which is false, and leaves out I, which is true.",
-            "D": "Includes III, which is false, and leaves out II, which is true.",
-            "E": "Includes III, which is false."
+            "A": "This is not the supported combination (I and II only). The curve is sigmoidal.",
+            "C": "This is not the supported combination (I and II only). The curve is sigmoidal.",
+            "D": "This is not the supported combination (I and II only). The curve is sigmoidal.",
+            "E": "This is not the supported combination (I and II only). The curve is sigmoidal."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              67
+            ]
           }
         },
         {
@@ -8385,23 +8705,23 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
           "correctAnswer": "C",
@@ -8411,10 +8731,18 @@
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Includes I, which is false, and leaves out II and III, which are true.",
-            "B": "Includes I, which is false, and leaves out III, which is true.",
-            "D": "Includes I, which is false, and leaves out II, which is true.",
-            "E": "Includes I, which is false."
+            "A": "This is not the supported combination (II and III only). CO2 does cause conformational changes.",
+            "B": "This is not the supported combination (II and III only). CO2 does cause conformational changes.",
+            "D": "This is not the supported combination (II and III only). CO2 does cause conformational changes.",
+            "E": "This is not the supported combination (II and III only). CO2 does cause conformational changes."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              68
+            ]
           }
         },
         {
@@ -8424,23 +8752,23 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
           "correctAnswer": "C",
@@ -8450,10 +8778,18 @@
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Includes I, which is false, and leaves out II and III, which are true.",
-            "B": "Includes I, which is false, and leaves out III, which is true.",
-            "D": "Includes I, which is false, and leaves out II, which is true.",
-            "E": "Includes I, which is false."
+            "A": "This is not the supported combination (II and III only). Mb curve lies to the left.",
+            "B": "This is not the supported combination (II and III only). Mb curve lies to the left.",
+            "D": "This is not the supported combination (II and III only). Mb curve lies to the left.",
+            "E": "This is not the supported combination (II and III only). Mb curve lies to the left."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              69
+            ]
           }
         },
         {
@@ -8463,23 +8799,23 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
           "correctAnswer": "B",
@@ -8489,10 +8825,18 @@
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II, which is also true.",
-            "C": "Includes III, which is false, and leaves out I, which is true.",
-            "D": "Includes III, which is false, and leaves out II, which is true.",
-            "E": "Includes III, which is false."
+            "A": "This is not the supported combination (I and II only). It decreases affinity for CO.",
+            "C": "This is not the supported combination (I and II only). It decreases affinity for CO.",
+            "D": "This is not the supported combination (I and II only). It decreases affinity for CO.",
+            "E": "This is not the supported combination (I and II only). It decreases affinity for CO."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              70
+            ]
           }
         },
         {
@@ -8502,36 +8846,48 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "E",
-          "why": "The globin chains bind CO2, buffer H+, and allow O2 binding.",
+          "correctAnswer": "B",
+          "why": "Globin chains bind CO2 at amino termini and buffer H+. Oxygen binds directly to haem iron, not the polypeptide chain. If 'functions' is interpreted indirectly as supporting oxygen binding, III may also be defensible.",
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II and III, which are also true.",
-            "B": "Leaves out III, which is also true.",
-            "C": "Leaves out I, which is also true.",
-            "D": "Leaves out II, which is also true."
+            "A": "This is not the supported combination (I and II only). Globin chains bind CO2 at amino termini and buffer H+. Oxygen binds directly to haem iron, not the polypeptide chain. If 'functions' is interpreted indirectly as supporting oxygen binding, III may also be defensible.",
+            "C": "This is not the supported combination (I and II only). Globin chains bind CO2 at amino termini and buffer H+. Oxygen binds directly to haem iron, not the polypeptide chain. If 'functions' is interpreted indirectly as supporting oxygen binding, III may also be defensible.",
+            "D": "This is not the supported combination (I and II only). Globin chains bind CO2 at amino termini and buffer H+. Oxygen binds directly to haem iron, not the polypeptide chain. If 'functions' is interpreted indirectly as supporting oxygen binding, III may also be defensible.",
+            "E": "This is not the supported combination (I and II only). Globin chains bind CO2 at amino termini and buffer H+. Oxygen binds directly to haem iron, not the polypeptide chain. If 'functions' is interpreted indirectly as supporting oxygen binding, III may also be defensible."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              71
+            ]
+          },
+          "pascoReview": {
+            "status": "needs-review",
+            "reason": "Globin chains bind CO2 at amino termini and buffer H+. Oxygen binds directly to haem iron, not the polypeptide chain. If 'functions' is interpreted indirectly as supporting oxygen binding, III may also be defensible."
           }
         },
         {
@@ -8541,23 +8897,23 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
           "correctAnswer": "C",
@@ -8567,10 +8923,18 @@
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Includes I, which is false, and leaves out II and III, which are true.",
-            "B": "Includes I, which is false, and leaves out III, which is true.",
-            "D": "Includes I, which is false, and leaves out II, which is true.",
-            "E": "Includes I, which is false."
+            "A": "This is not the supported combination (II and III only). BPG stabilizes the T state.",
+            "B": "This is not the supported combination (II and III only). BPG stabilizes the T state.",
+            "D": "This is not the supported combination (II and III only). BPG stabilizes the T state.",
+            "E": "This is not the supported combination (II and III only). BPG stabilizes the T state."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              72
+            ]
           }
         },
         {
@@ -8580,36 +8944,44 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "A",
+          "correctAnswer": "D",
           "why": "E7 prevents oxidation and discourages linear CO binding.",
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "B": "Includes II, which is false.",
-            "C": "Includes II and III, which are false, and leaves out I, which is true.",
-            "D": "Includes III, which is false.",
-            "E": "Includes II and III, which are false."
+            "A": "This is not the supported combination (I only). E7 prevents oxidation and discourages linear CO binding.",
+            "B": "This is not the supported combination (I only). E7 prevents oxidation and discourages linear CO binding.",
+            "C": "This is not the supported combination (I only). E7 prevents oxidation and discourages linear CO binding.",
+            "E": "This is not the supported combination (I only). E7 prevents oxidation and discourages linear CO binding."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              73
+            ]
           }
         },
         {
@@ -8619,36 +8991,48 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "E",
-          "why": "In HbS, valine replaces glutamate at position 6 of the β chain (the item's wording 'substitution of glutamic acid for valine' is the lecturer's phrasing for this change). Val-6 forms a hydrophobic 'sticky patch' that is present in both oxy- and deoxy-HbS, but the complementary pocket it fits into appears only on deoxy-HbS, so polymers form when HbS is deoxygenated.",
+          "correctAnswer": "C",
+          "why": "I is false as written: valine replaces glutamate at β6, not the reverse. II and III are true. The hydrophobic patch is present on oxygenated HbS, but the complementary binding pocket is exposed on deoxygenation.",
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "hard",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II and III, which are also true.",
-            "B": "Leaves out III, which is also true.",
-            "C": "Leaves out I, which is also true.",
-            "D": "Leaves out II, which is also true."
+            "A": "This is not the supported combination (II and III only). I is false as written: valine replaces glutamate at β6, not the reverse. II and III are true. The hydrophobic patch is present on oxygenated HbS, but the complementary binding pocket is exposed on deoxygenation.",
+            "B": "This is not the supported combination (II and III only). I is false as written: valine replaces glutamate at β6, not the reverse. II and III are true. The hydrophobic patch is present on oxygenated HbS, but the complementary binding pocket is exposed on deoxygenation.",
+            "D": "This is not the supported combination (II and III only). I is false as written: valine replaces glutamate at β6, not the reverse. II and III are true. The hydrophobic patch is present on oxygenated HbS, but the complementary binding pocket is exposed on deoxygenation.",
+            "E": "This is not the supported combination (II and III only). I is false as written: valine replaces glutamate at β6, not the reverse. II and III are true. The hydrophobic patch is present on oxygenated HbS, but the complementary binding pocket is exposed on deoxygenation."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              74
+            ]
+          },
+          "pascoReview": {
+            "status": "needs-review",
+            "reason": "Valine substitutes for glutamate, not glutamate for valine as printed. II and III describe the hydrophobic surface patch and deoxy-HbS complementary site; key C when reading I literally."
           }
         },
         {
@@ -8658,36 +9042,49 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "III only"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "E",
-          "why": "HbS polymerises when the Val-6 sticky patch of one molecule fits into the complementary site of another (III). Fully oxygenated HbS has no complementary sites (II false). Repeated sickling eventually becomes irreversible, which is why the item treats I as false.",
+          "correctAnswer": null,
+          "why": "I and III are true in the usual interpretation: early sickling can reverse on reoxygenation; HbS polymerizes through sticky-patch/complementary-site interactions. II is false. I and III only is absent in the original codes. Repeated damage can cause irreversible sickling, but that does not make I universally false.",
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Includes I, which is false, and leaves out III, which is true.",
-            "B": "Includes I and II, which are false, and leaves out III, which is true.",
-            "C": "Includes II, which is false.",
-            "D": "Includes I, which is false."
+            "A": "I and III are true in the usual interpretation: early sickling can reverse on reoxygenation; HbS polymerizes through sticky-patch/complementary-site interactions. II is false. I and III only is absent in the original codes. Repeated damage can cause irreversible sickling, but that does not make I universally false.",
+            "B": "I and III are true in the usual interpretation: early sickling can reverse on reoxygenation; HbS polymerizes through sticky-patch/complementary-site interactions. II is false. I and III only is absent in the original codes. Repeated damage can cause irreversible sickling, but that does not make I universally false.",
+            "C": "I and III are true in the usual interpretation: early sickling can reverse on reoxygenation; HbS polymerizes through sticky-patch/complementary-site interactions. II is false. I and III only is absent in the original codes. Repeated damage can cause irreversible sickling, but that does not make I universally false.",
+            "D": "I and III are true in the usual interpretation: early sickling can reverse on reoxygenation; HbS polymerizes through sticky-patch/complementary-site interactions. II is false. I and III only is absent in the original codes. Repeated damage can cause irreversible sickling, but that does not make I universally false.",
+            "E": "I and III are true in the usual interpretation: early sickling can reverse on reoxygenation; HbS polymerizes through sticky-patch/complementary-site interactions. II is false. I and III only is absent in the original codes. Repeated damage can cause irreversible sickling, but that does not make I universally false."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              75
+            ]
+          },
+          "pascoReview": {
+            "status": "needs-review",
+            "reason": "I and III are true in the usual interpretation: early sickling can reverse on reoxygenation; HbS polymerizes through sticky-patch/complementary-site interactions. II is false. I and III only is absent in the original codes. Repeated damage can cause irreversible sickling, but that does not make I universally false."
           }
         },
         {
@@ -8697,23 +9094,23 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "III only"
+              "text": "iii only"
             }
           ],
           "correctAnswer": "E",
@@ -8723,10 +9120,18 @@
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Includes I, which is false, and leaves out III, which is true.",
-            "B": "Includes I and II, which are false, and leaves out III, which is true.",
-            "C": "Includes II, which is false.",
-            "D": "Includes I, which is false."
+            "A": "This is not the supported combination (III only). Trait has ~40% HbS. Both HbA and HbS are in every RBC.",
+            "B": "This is not the supported combination (III only). Trait has ~40% HbS. Both HbA and HbS are in every RBC.",
+            "C": "This is not the supported combination (III only). Trait has ~40% HbS. Both HbA and HbS are in every RBC.",
+            "D": "This is not the supported combination (III only). Trait has ~40% HbS. Both HbA and HbS are in every RBC."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              77
+            ]
           }
         },
         {
@@ -8736,23 +9141,23 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "III only"
+              "text": "iii only"
             }
           ],
           "correctAnswer": "E",
@@ -8762,10 +9167,18 @@
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Includes I, which is false, and leaves out III, which is true.",
-            "B": "Includes I and II, which are false, and leaves out III, which is true.",
-            "C": "Includes II, which is false.",
-            "D": "Includes I, which is false."
+            "A": "This is not the supported combination (III only). HbF is often detected in small amounts. Deoxygenation triggers sickling.",
+            "B": "This is not the supported combination (III only). HbF is often detected in small amounts. Deoxygenation triggers sickling.",
+            "C": "This is not the supported combination (III only). HbF is often detected in small amounts. Deoxygenation triggers sickling.",
+            "D": "This is not the supported combination (III only). HbF is often detected in small amounts. Deoxygenation triggers sickling."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              78
+            ]
           }
         },
         {
@@ -8775,36 +9188,44 @@
           "options": [
             {
               "label": "A",
-              "text": "III only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "A",
+          "correctAnswer": "E",
           "why": "Strictly, sickle cell anaemia means the homozygous SS genotype. SC disease and S/β-thalassaemia are other forms of sickle cell DISEASE, not sickle cell anaemia.",
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "hard",
           "lockOrder": true,
           "notes": {
-            "B": "Includes I and II, which are false, and leaves out III, which is true.",
-            "C": "Includes II, which is false.",
-            "D": "Includes I, which is false.",
-            "E": "Includes I and II, which are false."
+            "A": "This is not the supported combination (III only). Strictly, sickle cell anaemia means the homozygous SS genotype. SC disease and S/β-thalassaemia are other forms of sickle cell DISEASE, not sickle cell anaemia.",
+            "B": "This is not the supported combination (III only). Strictly, sickle cell anaemia means the homozygous SS genotype. SC disease and S/β-thalassaemia are other forms of sickle cell DISEASE, not sickle cell anaemia.",
+            "C": "This is not the supported combination (III only). Strictly, sickle cell anaemia means the homozygous SS genotype. SC disease and S/β-thalassaemia are other forms of sickle cell DISEASE, not sickle cell anaemia.",
+            "D": "This is not the supported combination (III only). Strictly, sickle cell anaemia means the homozygous SS genotype. SC disease and S/β-thalassaemia are other forms of sickle cell DISEASE, not sickle cell anaemia."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              80
+            ]
           }
         },
         {
@@ -8814,36 +9235,48 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
           "correctAnswer": "B",
-          "why": "They inhibit formation and mimic the C-terminal sequence. They do not dissolve formed crystals.",
+          "why": "Existing answer assumes the historical C-terminal peptide approach; verify against lecture/source before treating as final.",
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II, which is also true.",
-            "C": "Includes III, which is false, and leaves out I, which is true.",
-            "D": "Includes III, which is false, and leaves out II, which is true.",
-            "E": "Includes III, which is false."
+            "A": "This is not the supported combination (I and II only). Existing answer assumes the historical C-terminal peptide approach; verify against lecture/source before treating as final.",
+            "C": "This is not the supported combination (I and II only). Existing answer assumes the historical C-terminal peptide approach; verify against lecture/source before treating as final.",
+            "D": "This is not the supported combination (I and II only). Existing answer assumes the historical C-terminal peptide approach; verify against lecture/source before treating as final.",
+            "E": "This is not the supported combination (I and II only). Existing answer assumes the historical C-terminal peptide approach; verify against lecture/source before treating as final."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              81
+            ]
+          },
+          "pascoReview": {
+            "status": "needs-review",
+            "reason": "Existing answer assumes the historical C-terminal peptide approach; verify against lecture/source before treating as final."
           }
         },
         {
@@ -8853,36 +9286,49 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "D",
-          "why": "They act as decoys by mimicking the complementary site, not the sticky patch.",
+          "correctAnswer": null,
+          "why": "Existing explanation supports I and III (decoy complementary-site mimicry), not II; that combination is absent. Historical antisickling peptides can target different interfaces, so review before scoring.",
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out III, which is also true.",
-            "B": "Includes II, which is false, and leaves out III, which is true.",
-            "C": "Includes II, which is false, and leaves out I, which is true.",
-            "E": "Includes II, which is false."
+            "A": "Existing explanation supports I and III (decoy complementary-site mimicry), not II; that combination is absent. Historical antisickling peptides can target different interfaces, so review before scoring.",
+            "B": "Existing explanation supports I and III (decoy complementary-site mimicry), not II; that combination is absent. Historical antisickling peptides can target different interfaces, so review before scoring.",
+            "C": "Existing explanation supports I and III (decoy complementary-site mimicry), not II; that combination is absent. Historical antisickling peptides can target different interfaces, so review before scoring.",
+            "D": "Existing explanation supports I and III (decoy complementary-site mimicry), not II; that combination is absent. Historical antisickling peptides can target different interfaces, so review before scoring.",
+            "E": "Existing explanation supports I and III (decoy complementary-site mimicry), not II; that combination is absent. Historical antisickling peptides can target different interfaces, so review before scoring."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              82
+            ]
+          },
+          "pascoReview": {
+            "status": "needs-review",
+            "reason": "Existing explanation supports I and III (decoy complementary-site mimicry), not II; that combination is absent. Historical antisickling peptides can target different interfaces, so review before scoring."
           }
         },
         {
@@ -8892,36 +9338,44 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "E",
+          "correctAnswer": "A",
           "why": "Cyanate carbamylates the N-terminal amino groups, increasing oxygen affinity and preventing sickling.",
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Leaves out II and III, which are also true.",
-            "B": "Leaves out III, which is also true.",
-            "C": "Leaves out I, which is also true.",
-            "D": "Leaves out II, which is also true."
+            "B": "This is not the supported combination (I, II and III). Cyanate carbamylates the N-terminal amino groups, increasing oxygen affinity and preventing sickling.",
+            "C": "This is not the supported combination (I, II and III). Cyanate carbamylates the N-terminal amino groups, increasing oxygen affinity and preventing sickling.",
+            "D": "This is not the supported combination (I, II and III). Cyanate carbamylates the N-terminal amino groups, increasing oxygen affinity and preventing sickling.",
+            "E": "This is not the supported combination (I, II and III). Cyanate carbamylates the N-terminal amino groups, increasing oxygen affinity and preventing sickling."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              83
+            ]
           }
         },
         {
@@ -8931,23 +9385,23 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "III only"
+              "text": "iii only"
             }
           ],
           "correctAnswer": "E",
@@ -8957,10 +9411,18 @@
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "A": "Includes I, which is false, and leaves out III, which is true.",
-            "B": "Includes I and II, which are false, and leaves out III, which is true.",
-            "C": "Includes II, which is false.",
-            "D": "Includes I, which is false."
+            "A": "This is not the supported combination (III only). Thalassemias are quantitative defects (reduced production), not qualitative structural defects.",
+            "B": "This is not the supported combination (III only). Thalassemias are quantitative defects (reduced production), not qualitative structural defects.",
+            "C": "This is not the supported combination (III only). Thalassemias are quantitative defects (reduced production), not qualitative structural defects.",
+            "D": "This is not the supported combination (III only). Thalassemias are quantitative defects (reduced production), not qualitative structural defects."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              84
+            ]
           }
         },
         {
@@ -8970,36 +9432,44 @@
           "options": [
             {
               "label": "A",
-              "text": "I only"
+              "text": "i, ii, iii"
             },
             {
               "label": "B",
-              "text": "I and II only"
+              "text": "i, ii only"
             },
             {
               "label": "C",
-              "text": "II and III only"
+              "text": "ii, iii only"
             },
             {
               "label": "D",
-              "text": "I and III only"
+              "text": "i only"
             },
             {
               "label": "E",
-              "text": "I, II and III"
+              "text": "iii only"
             }
           ],
-          "correctAnswer": "A",
+          "correctAnswer": "D",
           "why": "It is a mismatch in synthesis. Polymerization is sickle cell.",
           "topicId": "haemoglobin",
           "subtopic": "",
           "difficulty": "medium",
           "lockOrder": true,
           "notes": {
-            "B": "Includes II, which is false.",
-            "C": "Includes II and III, which are false, and leaves out I, which is true.",
-            "D": "Includes III, which is false.",
-            "E": "Includes II and III, which are false."
+            "A": "This is not the supported combination (I only). It is a mismatch in synthesis. Polymerization is sickle cell.",
+            "B": "This is not the supported combination (I only). It is a mismatch in synthesis. Polymerization is sickle cell.",
+            "C": "This is not the supported combination (I only). It is a mismatch in synthesis. Polymerization is sickle cell.",
+            "E": "This is not the supported combination (I only). It is a mismatch in synthesis. Polymerization is sickle cell."
+          },
+          "pascoSource": {
+            "paper": "KNUST SMS 265 Biochemistry, April 2021",
+            "academicYear": "2020/2021",
+            "semester": 1,
+            "questionNumbers": [
+              85
+            ]
           }
         },
         {
