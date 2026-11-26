@@ -3032,7 +3032,7 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "It is derived from vitamin B6.",
+      "why": "Aminotransferases use pyridoxal phosphate (from vitamin B6), which carries the amino group from the amino acid to the keto acid.",
       "topicId": "nitrogen",
       "subtopic": "Amino acid reactions",
       "difficulty": "medium",
@@ -3564,7 +3564,7 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "This is the respiratory burst.",
+      "why": "NADPH oxidase in the phagocyte membrane passes electrons from NADPH to O₂, making superoxide in the respiratory burst; its deficiency causes chronic granulomatous disease.",
       "topicId": "ros",
       "subtopic": "Free radicals and antioxidants",
       "difficulty": "medium",
@@ -14777,10 +14777,16 @@
       ],
       "correctAnswer": "A",
       "lockOrder": true,
-      "why": "All three statements are correct.",
+      "why": "Haem synthesis starts in the mitochondrion with glycine and succinyl-CoA (ALA synthase, the committed step) and ends there when ferrochelatase inserts Fe²⁺ into protoporphyrin IX, so all three statements are true.",
       "topicId": "haem",
       "subtopic": "Haem synthesis",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Leaves out III, which is also true.",
+        "C": "Leaves out I, which is also true.",
+        "D": "Leaves out II, which is also true.",
+        "E": "Leaves out II and III, which are also true."
+      }
     },
     {
       "id": "dq-bio-haem-k-07",
@@ -16048,10 +16054,16 @@
       ],
       "correctAnswer": "A",
       "lockOrder": true,
-      "why": "All three are correct.",
+      "why": "Myoglobin is a single polypeptide (a monomer) with one haem group that binds O₂, storing it in muscle, so all three statements are true.",
       "topicId": "haemoglobin",
       "subtopic": "Oxygen carriers",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Leaves out III, which is also true.",
+        "C": "Leaves out I, which is also true.",
+        "D": "Leaves out II, which is also true.",
+        "E": "Leaves out II and III, which are also true."
+      }
     },
     {
       "id": "dq-bio-hb-k-02",
