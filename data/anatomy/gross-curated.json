@@ -40,9 +40,13 @@
         "E": "T"
       },
       "notes": {
-        "D": "Mainly SMOOTH MUSCLE."
+        "A": "The three circulations are pulmonary, systemic (caval) and portal.",
+        "B": "Blood passes from arteries to arterioles and then into capillaries.",
+        "C": "The intima is endothelium on connective tissue with an internal elastic lamina.",
+        "D": "The tunica media is mainly smooth muscle (plus elastic fibres in large arteries); collagen dominates the adventitia.",
+        "E": "Simple squamous endothelium lines every vessel and the heart."
       },
-      "why": "False: D. Mainly SMOOTH MUSCLE."
+      "why": "A vessel wall has three coats: intima (endothelium and internal elastic lamina), media (mainly smooth muscle) and adventitia (mainly collagen)."
     },
     {
       "id": "dq-g-gv2",
@@ -81,10 +85,13 @@
         "E": "T"
       },
       "notes": {
-        "B": "Muscular arteries.",
-        "D": "They are POTENTIAL anastomoses."
+        "A": "The elastic aorta stretches in systole and recoils in diastole, keeping blood flowing.",
+        "B": "Muscular arteries and arterioles have relatively more smooth muscle, which controls resistance.",
+        "C": "The two facial arteries join freely across the lip, a true (actual) anastomosis.",
+        "D": "Coronary connections are only potential anastomoses, too small to compensate for a sudden blockage.",
+        "E": "Arteriovenous shunts let blood bypass capillary beds, e.g. in the skin."
       },
-      "why": "False: D. They are POTENTIAL anastomoses."
+      "why": "Actual anastomoses (e.g. labial) join arteries freely; coronary links are only potential and cannot open fast enough, so a sudden occlusion causes infarction."
     },
     {
       "id": "dq-g-gv3",
@@ -161,9 +168,13 @@
         "E": "T"
       },
       "notes": {
-        "C": "Only a single layer of endothelium."
+        "A": "Capillaries are the narrowest vessels, about 7–10 µm across.",
+        "B": "Their very thin wall makes them the site of exchange between blood and tissues.",
+        "C": "The wall is just endothelium on a basal lamina, with no smooth muscle or connective tissue coats.",
+        "D": "Tight junctions with no intercellular channels form the blood–brain barrier.",
+        "E": "A red cell of about 6–8 µm only just fits through."
       },
-      "why": "False: C. Only a single layer of endothelium."
+      "why": "A capillary wall is only endothelium on a basal lamina, the thinnest wall in the circulation, which suits its role as the exchange vessel."
     },
     {
       "id": "dq-g-gv5",
@@ -240,9 +251,13 @@
         "E": "F"
       },
       "notes": {
-        "E": "MUCH LESS muscle in the media."
+        "A": "Low pressure means thinner walls and wider lumens than the companion arteries.",
+        "B": "They have the three coats but no distinct elastic lamina.",
+        "C": "Limb veins are doubled: superficial veins plus deep venae comitantes.",
+        "D": "Valves in limb and neck veins prevent backflow.",
+        "E": "Veins have much less smooth muscle in the media than arteries of the same size."
       },
-      "why": "False: E. MUCH LESS muscle in the media."
+      "why": "Veins are low-pressure vessels: thin walls, wide lumens, a thin media and valves that stop reflux."
     },
     {
       "id": "dq-g-gv10",
@@ -2212,7 +2227,7 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Both lie within the pericardium.",
+      "why": "The pulmonary trunk lies to the left of the ascending aorta, and both lie within the fibrous pericardium.",
       "notes": {
         "A": "Oesophagus is posterior.",
         "B": "Left atrium is behind.",
@@ -3390,7 +3405,7 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "It is a baroreceptor site.",
+      "why": "The carotid sinus is the dilated start of the internal carotid artery; its wall has baroreceptors supplied by the glossopharyngeal nerve.",
       "notes": {
         "A": "Not there.",
         "B": "Not there.",
@@ -3435,9 +3450,13 @@
         "E": "F"
       },
       "notes": {
-        "E": "It may be complete OR incomplete."
+        "A": "Compact (solid) organs have no central lumen.",
+        "B": "The stroma (capsule and septa) supports the functional parenchyma.",
+        "C": "Septa or trabeculae from the capsule divide them into lobes or lobules.",
+        "D": "Vessels and ducts usually enter and leave at a hilum.",
+        "E": "Compartmentalisation can be complete or incomplete."
       },
-      "why": "False: E. It may be complete OR incomplete."
+      "why": "Compact organs are solid: a capsule-derived stroma supports the parenchyma and divides it, completely or incompletely, into compartments, with vessels entering at a hilum."
     },
     {
       "id": "dq-g-go2",
@@ -3514,9 +3533,13 @@
         "E": "F"
       },
       "notes": {
-        "E": "FUNCTION determines the number of coats and layers."
+        "A": "Segments of the digestive, respiratory and genitourinary tracts are hollow organs.",
+        "B": "Blood and lymphatic vessels are also tubular organs.",
+        "C": "The mucosal epithelium lines the lumen directly.",
+        "D": "The usual pattern is mucosa, muscularis and an outer adventitia or serosa.",
+        "E": "The number of coats and layers varies with the organ's function."
       },
-      "why": "False: E. FUNCTION determines the number of coats and layers."
+      "why": "Hollow organs share a basic plan of mucosa, muscularis and adventitia or serosa around a lumen, but function decides how many coats and layers each has."
     },
     {
       "id": "dq-g-go4",
@@ -3631,9 +3654,13 @@
         "E": "F"
       },
       "notes": {
-        "E": "Inferior = ANTERIOR, middle and posterior."
+        "A": "It is the median space between the two pleural sacs.",
+        "B": "It extends from the sternum in front to the vertebral column behind.",
+        "C": "It contains all the thoracic viscera except the lungs.",
+        "D": "The plane from the sternal angle to the lower border of T4 separates superior from inferior.",
+        "E": "The inferior mediastinum is divided into anterior, middle and posterior parts."
       },
-      "why": "False: E. Inferior = ANTERIOR, middle and posterior."
+      "why": "A plane through the sternal angle divides the mediastinum into superior and inferior parts; the inferior part is subdivided into anterior, middle (heart) and posterior."
     },
     {
       "id": "dq-g-go7",
@@ -3672,9 +3699,13 @@
         "E": "F"
       },
       "notes": {
-        "E": "That is the middle mediastinum."
+        "A": "The aortic arch and its three branches lie here.",
+        "B": "Both brachiocephalic veins and the upper half of the SVC lie here.",
+        "C": "The left recurrent laryngeal nerve hooks under the aortic arch here.",
+        "D": "The trachea, oesophagus and thoracic duct pass through it.",
+        "E": "The heart in its pericardium forms the middle mediastinum."
       },
-      "why": "False: E. That is the middle mediastinum."
+      "why": "The superior mediastinum holds the great vessels, the vagus and left recurrent laryngeal nerves, the trachea, oesophagus and thoracic duct; the heart is in the middle mediastinum."
     },
     {
       "id": "dq-g-go9",
@@ -5796,7 +5827,7 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "It is the pacemaker.",
+      "why": "The SA node fires at about 70–80 per minute at rest, faster than any other cardiac tissue, so it sets the heart rate.",
       "notes": {
         "A": "AV junctional escape.",
         "B": "Ventricular escape.",
@@ -6822,7 +6853,7 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "This is cardiac tamponade.",
+      "why": "Fluid that collects quickly cannot stretch the fibrous pericardium, so pressure rises and compresses the heart (cardiac tamponade), limiting filling.",
       "notes": {
         "B": "Not so.",
         "C": "Not so.",
@@ -7734,7 +7765,7 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "It is the pacemaker.",
+      "why": "The lecture places the SA node in the posterior wall of the right atrium near the SVC opening; the AV node lies in the lower interatrial septum.",
       "notes": {
         "A": "AV node.",
         "B": "Bundle of His.",
@@ -7886,7 +7917,7 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "It is the non-coronary cusp.",
+      "why": "The right and left coronary arteries arise above the right and left cusps, so the posterior cusp has none and is called the non-coronary cusp.",
       "notes": {
         "A": "Right coronary artery.",
         "B": "Left coronary artery.",
@@ -8083,9 +8114,13 @@
         "E": "T"
       },
       "notes": {
-        "D": "Lower tract = bronchi, bronchioles and lungs."
+        "A": "The conducting division moves air without gas exchange: nasal cavity, pharynx, larynx and trachea.",
+        "B": "The respiratory division, where gas exchange happens, is the lungs and alveoli.",
+        "C": "In the lecture's scheme the upper tract runs from the nose down to the trachea.",
+        "D": "The larynx is upper tract; the lower tract is the bronchi, bronchioles and lungs.",
+        "E": "The diaphragm and thoracic wall muscles change chest volume to move air."
       },
-      "why": "False: D. Lower tract = bronchi, bronchioles and lungs."
+      "why": "The lecture splits the tract at the trachea: nose, pharynx, larynx and trachea form the upper tract; bronchi, bronchioles and lungs the lower."
     },
     {
       "id": "dq-g-gr2",
@@ -8124,9 +8159,13 @@
         "E": "F"
       },
       "notes": {
-        "E": "The anterior half is CARTILAGE."
+        "A": "The external nares (nostrils) are the anterior openings.",
+        "B": "The choanae open from the nasal cavity into the nasopharynx.",
+        "C": "The vestibule, lined by hairy skin, lies just inside the nostrils.",
+        "D": "The bony posterior septum is the vomer and perpendicular plate of the ethmoid.",
+        "E": "The anterior septum is the septal cartilage."
       },
-      "why": "False: E. The anterior half is CARTILAGE."
+      "why": "The nasal septum is cartilage in front (septal cartilage) and bone behind (vomer and perpendicular plate of the ethmoid)."
     },
     {
       "id": "dq-g-gr3",
@@ -8165,9 +8204,13 @@
         "E": "F"
       },
       "notes": {
-        "E": "It communicates with them ANTERIORLY."
+        "A": "It is a fibromuscular tube about 12 cm long.",
+        "B": "It runs from the skull base to the start of the oesophagus at C6.",
+        "C": "The superior, middle and inferior constrictors form its outer circular layer.",
+        "D": "Stylopharyngeus, palatopharyngeus and salpingopharyngeus form its inner longitudinal layer.",
+        "E": "The nose, mouth and larynx open into its front (anterior) wall."
       },
-      "why": "False: E. It communicates with them ANTERIORLY."
+      "why": "The pharynx is a 12 cm fibromuscular tube behind the nose, mouth and larynx, made of three constrictors plus three longitudinal muscles."
     },
     {
       "id": "dq-g-gr4",
@@ -8244,10 +8287,13 @@
         "E": "T"
       },
       "notes": {
-        "A": "About C3.",
-        "D": "At the lower border of the CRICOID (C6)."
+        "A": "The oropharynx runs from the soft palate to the upper border of the epiglottis (about C3).",
+        "B": "The palatine tonsil lies in the tonsillar fossa of its lateral wall.",
+        "C": "The vallecula and lingual tonsil (posterior third of the tongue) form its anterior wall.",
+        "D": "The laryngopharynx ends at the lower border of the cricoid cartilage (C6), not the thyroid.",
+        "E": "The piriform recess lies on each side of the laryngeal inlet."
       },
-      "why": "False: D. At the lower border of the CRICOID (C6)."
+      "why": "The laryngopharynx runs from the epiglottis to the lower border of the cricoid cartilage at C6, where the oesophagus begins."
     },
     {
       "id": "dq-g-gr6",
@@ -11851,7 +11897,7 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "It is larger in males.",
+      "why": "The adult trachea is about 10 cm long and 2–2.5 cm wide, running from C6 to the sternal angle.",
       "notes": {
         "B": "Too small.",
         "C": "Too long.",

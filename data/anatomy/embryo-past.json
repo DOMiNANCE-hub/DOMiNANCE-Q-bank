@@ -396,12 +396,13 @@
             "E": "T"
           },
           "notes": {
-            "A": "Would give constant signs.",
-            "B": "Not related.",
-            "D": "It usually closes alone.",
-            "E": "Excellent."
+            "A": "Coarctation gives persistent signs (e.g. weak, delayed femoral pulses), not cyanosis only on crying.",
+            "B": "The ductus venosus is a shunt within the liver; it cannot mix blood between the atria.",
+            "C": "The septum primum flap has not yet fused with the septum secundum, so a rise in right atrial pressure opens it and shunts blood right to left.",
+            "D": "Left atrial pressure normally keeps the flap shut until it fuses, so surgery is rarely needed.",
+            "E": "The flap usually fuses within the first months of life, so survival is excellent."
           },
-          "why": "A probe-patent foramen ovale opens when right atrial pressure rises.",
+          "why": "Crying raises right atrial pressure and pushes open an unfused septum primum flap (a probe-patent foramen ovale), shunting deoxygenated blood to the left side; it usually seals on its own, so the outlook is excellent.",
           "difficulty": "medium"
         },
         {
@@ -1305,11 +1306,13 @@
             "E": "F"
           },
           "notes": {
-            "A": "Covered by skin.",
-            "D": "That is omphalocele.",
-            "E": "Not the cause."
+            "A": "An umbilical hernia is skin-covered and lies at the umbilicus itself.",
+            "B": "Faulty closure of a lateral body fold leaves a defect beside (usually right of) the umbilicus.",
+            "C": "The defect involves the full thickness of the wall, so the bowel lies free with no covering sac.",
+            "D": "Failure of the physiological hernia to return gives omphalocele, which is covered by amnion.",
+            "E": "Malrotation may accompany it but does not cause the wall defect."
           },
-          "why": "Gastroschisis: a lateral body-wall defect beside the cord with no sac.",
+          "why": "Gastroschisis is a full-thickness lateral body-wall defect (faulty closure of a lateral fold), so bowel protrudes beside a normally inserted cord with no sac; a sac-covered defect at the cord is omphalocele.",
           "difficulty": "medium"
         },
         {
@@ -2769,12 +2772,13 @@
             "E": "F"
           },
           "notes": {
-            "A": "No.",
-            "B": "No.",
-            "C": "No.",
-            "E": "No."
+            "A": "It does not act on hCG.",
+            "B": "hCS (placental lactogen) is not its target.",
+            "C": "Relaxin is not blocked by it.",
+            "D": "Mifepristone blocks progesterone receptors, so the progesterone-dependent decidua breaks down.",
+            "E": "It has no direct anti-oestrogen action."
           },
-          "why": "Mifepristone (RU486) blocks progesterone receptors.",
+          "why": "RU486 is a progesterone-receptor antagonist; without progesterone support the decidua breaks down, which is why it is used for medical termination of pregnancy.",
           "difficulty": "medium"
         },
         {
@@ -3313,13 +3317,17 @@
             "I": "F"
           },
           "notes": {
-            "A": "AMH removes the Müllerian ducts.",
-            "D": "Wolffian ducts need androgen action.",
-            "E": "Same.",
-            "G": "Usually undescended.",
-            "I": "AMH stops it forming."
+            "A": "The testes still make AMH, so the paramesonephric ducts regress and no oviducts form.",
+            "B": "SRY on the Y chromosome makes the gonads testes, not ovaries.",
+            "C": "SRY directs the gonads to become testes, even though the body cannot respond to their androgens.",
+            "D": "Without androgen action the mesonephric ducts regress, so there is no ductus deferens.",
+            "E": "The epididymis is also a mesonephric (Wolffian) derivative and needs androgen action to persist.",
+            "F": "A defective androgen receptor in an XY individual gives female external genitalia despite testes.",
+            "G": "The testes usually remain undescended, in the abdomen or inguinal canal.",
+            "H": "With no uterus or tubes and non-functional testes, the person cannot reproduce.",
+            "I": "AMH from the testes makes the paramesonephric ducts regress, so no uterus forms."
           },
-          "why": "Androgen insensitivity: testes make AMH and testosterone but tissues cannot respond.",
+          "why": "In androgen insensitivity the XY testes make AMH (so no Müllerian structures) and testosterone, but the tissues cannot respond, so the Wolffian ducts regress and the external genitalia develop as female.",
           "difficulty": "medium"
         },
         {

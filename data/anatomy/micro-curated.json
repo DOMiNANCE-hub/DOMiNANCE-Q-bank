@@ -40,9 +40,13 @@
         "E": "T"
       },
       "notes": {
-        "D": "It is the VISCERAL layer."
+        "A": "The endocardial endothelium is simple squamous.",
+        "B": "Purkinje fibres run in the subendocardial layer.",
+        "C": "Myocardial cells wind spirally around the chambers.",
+        "D": "The epicardium is the visceral layer of serous pericardium; the parietal layer lines the fibrous pericardium.",
+        "E": "Coronary vessels and fat lie in the subepicardial connective tissue."
       },
-      "why": "False: D. It is the VISCERAL layer."
+      "why": "The heart wall is endocardium (endothelium, with Purkinje fibres beneath), myocardium and epicardium, the visceral layer of serous pericardium that carries the coronary vessels in fat."
     },
     {
       "id": "dq-m-mc2",
@@ -82,10 +86,12 @@
       },
       "notes": {
         "A": "Tricuspid.",
-        "B": "Each has THREE cusps.",
-        "E": "They are LARGE modified cardiac muscle cells."
+        "B": "Both semilunar valves have three cusps.",
+        "C": "The SA node lies in the right atrial wall near the SVC opening.",
+        "D": "The bundle of His runs from the AV node into the interventricular septum.",
+        "E": "Purkinje fibres are large, pale, glycogen-rich modified cardiac muscle cells."
       },
-      "why": "False: B, E. Each has THREE cusps. They are LARGE modified cardiac muscle cells."
+      "why": "Both semilunar valves and the tricuspid valve have three cusps, and impulses spread SA node → AV node → bundle of His → large, pale Purkinje fibres."
     },
     {
       "id": "dq-m-mc3",
@@ -162,11 +168,13 @@
         "E": "F"
       },
       "notes": {
-        "B": "More smooth muscle, less elastin.",
+        "A": "Most named arteries (e.g. radial, femoral) are muscular arteries.",
+        "B": "They have more smooth muscle and less elastin than elastic arteries.",
+        "C": "A prominent, wavy internal elastic lamina is typical.",
         "D": "In the larger ones.",
         "E": "Their adventitia contains vasa vasorum."
       },
-      "why": "False: B, E. More smooth muscle, less elastin. Their adventitia contains vasa vasorum."
+      "why": "Muscular arteries have a media mainly of smooth muscle between a prominent internal elastic lamina and, in larger ones, an external elastic lamina."
     },
     {
       "id": "dq-m-mc6",
@@ -2900,7 +2908,7 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "It is relatively thin.",
+      "why": "The thin media of a large vein is a few layers of circular smooth muscle with collagen and some fibroblasts; the adventitia is its thickest coat.",
       "notes": {
         "A": "Not in vessels.",
         "C": "Elastic arteries.",
@@ -3515,9 +3523,13 @@
         "E": "T"
       },
       "notes": {
-        "C": "They are the END of the conducting zone (generations 11–16)."
+        "A": "The conducting zone warms, moistens and filters inspired air.",
+        "B": "The trachea is generation 0 and the main bronchi generation 1.",
+        "C": "Terminal bronchioles are the end of the conducting zone (generations 11–16).",
+        "D": "Respiratory bronchioles (17–19) begin the respiratory zone.",
+        "E": "Alveolar saccules end the tree at about generation 23."
       },
-      "why": "False: C. They are the END of the conducting zone (generations 11–16)."
+      "why": "Airways from the trachea (generation 0) to the terminal bronchioles (about 16) only conduct air; gas exchange starts at respiratory bronchioles (17–19) and ends at the alveolar sacs (about 23)."
     },
     {
       "id": "dq-m-mr2",
@@ -3594,10 +3606,13 @@
         "E": "F"
       },
       "notes": {
-        "C": "Bronchus-associated lymphoid tissue.",
-        "E": "The tracheal basement membrane is THICK."
+        "A": "Smooth muscle runs concentrically (spirally) around the airway.",
+        "B": "Elastic fibres run longitudinally.",
+        "C": "The lamina propria contains bronchus-associated lymphoid tissue (BALT).",
+        "D": "Seromucous glands lie in the submucosa.",
+        "E": "The tracheal basement membrane is notably thick."
       },
-      "why": "False: E. The tracheal basement membrane is THICK."
+      "why": "Conducting airways have respiratory epithelium on a basement membrane (thick in the trachea), a lamina propria with BALT and a submucosa with seromucous glands."
     },
     {
       "id": "dq-m-mr4",
@@ -3637,9 +3652,12 @@
       },
       "notes": {
         "A": "E.g. SO₂ and ozone.",
-        "D": "BASAL cells are the stem cells; K cells are neuroendocrine."
+        "B": "Ciliated cells beat mucus up toward the pharynx.",
+        "C": "Brush cells are chemosensory, with afferent nerve endings at their base.",
+        "D": "Basal cells are the stem cells; small granule (K) cells are neuroendocrine.",
+        "E": "Small granule (K) cells are neuroendocrine and contain serotonin, calcitonin and bombesin."
       },
-      "why": "False: D. BASAL cells are the stem cells; K cells are neuroendocrine."
+      "why": "In respiratory epithelium the basal cells are the stem cells; goblet, ciliated, brush and neuroendocrine small granule (K) cells each have their own role."
     },
     {
       "id": "dq-m-mr5",
@@ -3830,10 +3848,13 @@
         "E": "F"
       },
       "notes": {
-        "D": "Type II cells make surfactant.",
-        "E": "They are NOT capable of division."
+        "A": "Type I cells are very thin squamous cells.",
+        "B": "They make up about 40% of alveolar lining cells.",
+        "C": "They cover about 95% of the alveolar surface.",
+        "D": "Surfactant comes from type II cells.",
+        "E": "Type I cells cannot divide; type II cells replace them."
       },
-      "why": "False: D, E. Type II cells make surfactant. They are NOT capable of division."
+      "why": "Type I pneumocytes are thin squamous cells covering most of the alveolar surface for gas exchange; type II cells make surfactant and replace them."
     },
     {
       "id": "dq-m-mr21",
@@ -7216,9 +7237,13 @@
         "E": "F"
       },
       "notes": {
-        "E": "With the OROpharynx, through the fauces."
+        "A": "The vestibule lies between the teeth or gums and the lips or cheeks.",
+        "B": "Behind the last molars the vestibule opens into the oral cavity proper.",
+        "C": "The palate forms the roof.",
+        "D": "Mylohyoid and geniohyoid support the floor.",
+        "E": "It opens behind into the oropharynx through the fauces, not the nasopharynx."
       },
-      "why": "False: E. With the OROpharynx, through the fauces."
+      "why": "The mouth has a vestibule and an oral cavity proper, joined behind the last molars; the cavity proper opens back through the fauces into the oropharynx."
     },
     {
       "id": "dq-m-mo2",
@@ -7257,9 +7282,13 @@
         "E": "T"
       },
       "notes": {
-        "D": "MASTICATORY mucosa."
+        "A": "Masticatory mucosa (about 25%) covers the gums and hard palate and is usually keratinised.",
+        "B": "Lining mucosa (about 60%) is non-keratinised.",
+        "C": "Specialised mucosa (about 15%), with papillae, covers the dorsum of the tongue.",
+        "D": "The hard palate has masticatory mucosa.",
+        "E": "The soft palate has lining mucosa."
       },
-      "why": "False: D. MASTICATORY mucosa."
+      "why": "Oral mucosa is masticatory (gums and hard palate, keratinised), lining (most of the mouth, including the soft palate, non-keratinised) or specialised (dorsum of the tongue)."
     },
     {
       "id": "dq-m-mo3",
@@ -7336,11 +7365,13 @@
         "E": "T"
       },
       "notes": {
-        "B": "Because of movement of the underlying muscle.",
-        "C": "No submucosa under the INFERIOR surface of the tongue.",
-        "E": "Sebaceous glands without hair follicles."
+        "A": "Lining mucosa has non-keratinised stratified squamous epithelium.",
+        "B": "Its papillae are few and short because the underlying muscle moves.",
+        "C": "There is no distinct submucosa under the inferior surface of the tongue.",
+        "D": "The lecture singles out the alveolar mucosa as having numerous deep papillae.",
+        "E": "Fordyce spots are sebaceous glands without hair follicles, seen in the lips and cheeks."
       },
-      "why": "False: C. No submucosa under the INFERIOR surface of the tongue."
+      "why": "Lining mucosa is flexible: non-keratinised epithelium, few short papillae and usually a submucosa, which is absent under the inferior surface of the tongue."
     },
     {
       "id": "dq-m-mo6",
