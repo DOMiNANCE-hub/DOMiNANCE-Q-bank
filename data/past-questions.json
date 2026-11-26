@@ -49,7 +49,8 @@
           },
           "topicId": "coronary",
           "subtopic": "Coronary perfusion and cardiac metabolism",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "why": "Left ventricular coronary flow is set by metabolic demand and squeezed off in systole, so it rises with hypoxia and with sympathetic drive that raises O₂ use, while autoregulation keeps it steady when perfusion pressure changes."
         },
         {
           "id": "set-01-A-002",
@@ -93,7 +94,8 @@
           },
           "topicId": "cardiac-cycle",
           "subtopic": "Ventricular ejection and filling",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "why": "Ventricular filling is mostly passive and fastest in early diastole once the AV valves open (which can produce a normal S3), with atrial contraction only topping it up."
         },
         {
           "id": "set-01-A-003",
@@ -137,7 +139,8 @@
           },
           "topicId": "cv-introduction",
           "subtopic": "Heart chambers and valves",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "why": "The beat starts at the SA node in the right atrium and reaches the ventricles only through the AV node and His bundle, so atria contract before ventricles and the base is pulled toward the apex."
         },
         {
           "id": "set-01-A-004",
@@ -181,7 +184,8 @@
           },
           "topicId": "microcirculation",
           "subtopic": "Starling forces and filtration",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "why": "Net filtration rises when capillary hydrostatic pressure rises (arteriolar dilation, standing, venous obstruction) or plasma oncotic pressure falls (low albumin); lymphatic block causes oedema by stopping drainage, not by raising filtration."
         },
         {
           "id": "set-01-A-005",
@@ -225,7 +229,8 @@
           },
           "topicId": "blood-pressure",
           "subtopic": "Blood pressure measurement",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "why": "Korotkoff sounds come from turbulent flow in the partly compressed artery: systolic pressure is read at the first sound and diastolic at their disappearance, using a cuff sized to the arm."
         },
         {
           "id": "set-01-A-006",
@@ -269,7 +274,8 @@
           },
           "topicId": "hemodynamics",
           "subtopic": "Poiseuille resistance and viscosity",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "why": "By Poiseuille's law resistance varies with viscosity and length and inversely with radius⁴, so arteriolar smooth-muscle tone, not wall thickness or the parallel capillary bed, sets most vascular resistance."
         },
         {
           "id": "set-01-A-007",
@@ -313,7 +319,8 @@
           },
           "topicId": "neural-humoral",
           "subtopic": "Sympathetic and parasympathetic effects",
-          "difficulty": "easy"
+          "difficulty": "easy",
+          "why": "Sympathetic drive to the heart rises in exercise, excitement, emotion and hypotension (less baroreceptor firing), and falls when a sudden rise in pressure triggers the baroreceptor reflex."
         },
         {
           "id": "set-01-A-008",
@@ -357,7 +364,8 @@
           },
           "topicId": "ecg",
           "subtopic": "QRS, ST, T and U waves",
-          "difficulty": "medium"
+          "difficulty": "medium",
+          "why": "Electrical events precede mechanical ones: P is atrial depolarisation, QRS ventricular depolarisation and T ventricular repolarisation, QT approximates the ventricular action potential, and R-R varies with breathing (sinus arrhythmia)."
         },
         {
           "id": "set-01-A-009",
