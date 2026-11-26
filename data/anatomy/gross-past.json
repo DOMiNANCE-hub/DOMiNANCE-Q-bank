@@ -289,9 +289,11 @@
             "C": "F"
           },
           "notes": {
+            "A": "Gluteus medius abducts the hip and keeps the pelvis level when the opposite foot is lifted.",
+            "B": "Gluteus minimus works with medius as a hip abductor and pelvic stabiliser.",
             "C": "Lateral rotators; they do not keep the pelvis level."
           },
-          "why": "Gluteus medius and minimus abduct the hip and stabilise the pelvis in walking.",
+          "why": "Superior gluteal nerve injury paralyses gluteus medius and minimus, the hip abductors that hold the pelvis level in walking.",
           "topicId": "g-muscles",
           "subtopic": "",
           "difficulty": "easy"
@@ -653,11 +655,13 @@
             "E": "F"
           },
           "notes": {
-            "C": "Transversospinalis group.",
-            "D": "Transversospinalis.",
-            "E": "Transversospinalis."
+            "A": "Longissimus is the middle column of erector spinae.",
+            "B": "Spinalis is the medial column of erector spinae.",
+            "C": "Semispinalis belongs to the deeper transversospinalis group.",
+            "D": "Multifidus is a transversospinalis muscle.",
+            "E": "Rotatores are transversospinalis muscles."
           },
-          "why": "Erector spinae: iliocostalis, longissimus, spinalis.",
+          "why": "Erector spinae has three columns: iliocostalis (lateral), longissimus (middle) and spinalis (medial); semispinalis, multifidus and rotatores are the deeper transversospinalis group.",
           "topicId": "g-muscles",
           "subtopic": "",
           "difficulty": "medium"
@@ -1643,8 +1647,14 @@
             "D": "T",
             "E": "T"
           },
-          "notes": {},
-          "why": "APL, EPB and EPL emerge between ECRB and extensor digitorum.",
+          "notes": {
+            "A": "Extensor indicis is deep but stays medial and runs to the index finger; it does not outcrop.",
+            "B": "EPB outcrops and crosses the radial side of the wrist to the thumb.",
+            "C": "Extensor digitorum is the superficial muscle the outcropping group emerges beside.",
+            "D": "APL is the most lateral of the outcropping muscles.",
+            "E": "EPL outcrops and forms the medial border of the anatomical snuffbox."
+          },
+          "why": "The three deep 'outcropping' muscles (APL, EPB and EPL) emerge between extensor carpi radialis brevis and extensor digitorum to reach the thumb.",
           "topicId": "g-muscles",
           "subtopic": "",
           "difficulty": "medium"
@@ -1854,6 +1864,10 @@
             "E": "F"
           },
           "notes": {
+            "A": "Adductor longus forms the medial part of the floor.",
+            "B": "Psoas major forms part of the lateral floor.",
+            "C": "Pectineus lies between psoas and adductor longus in the floor.",
+            "D": "Iliacus forms the most lateral part of the floor.",
             "E": "Deep to pectineus/adductor longus, a small part may show; usually not listed."
           },
           "why": "Floor (lateral to medial): iliacus, psoas, pectineus, adductor longus.",
@@ -2146,6 +2160,8 @@
           "notes": {
             "A": "Second layer.",
             "B": "Second layer.",
+            "C": "Abductor hallucis runs along the medial border in the first layer.",
+            "D": "Abductor digiti minimi runs along the lateral border in the first layer.",
             "E": "Second layer."
           },
           "why": "First layer: abductor hallucis, flexor digitorum brevis, abductor digiti minimi.",
@@ -2440,7 +2456,7 @@
             }
           ],
           "correctAnswer": "A",
-          "why": "That is its extent.",
+          "why": "The adductor (subsartorial) canal runs from the apex of the femoral triangle to the adductor hiatus, where the femoral vessels pass into the popliteal fossa.",
           "notes": {},
           "lockOrder": true,
           "topicId": "g-muscles",
@@ -2506,7 +2522,7 @@
             }
           ],
           "correctAnswer": "A",
-          "why": "True.",
+          "why": "Scarpa's fascia is the deep membranous layer of superficial fascia over the dilatable lower abdominal wall, and it extends up onto the lower thoracic wall in front of the midaxillary line.",
           "notes": {},
           "lockOrder": true,
           "topicId": "g-muscles",
@@ -2678,8 +2694,14 @@
             "D": "T",
             "E": "T"
           },
-          "notes": {},
-          "why": "All five attach to the perineal body.",
+          "notes": {
+            "A": "The external anal sphincter attaches to it from behind.",
+            "B": "Pubovaginalis (part of levator ani) inserts into it in females.",
+            "C": "Levator prostatae is the male equivalent of pubovaginalis and inserts into it.",
+            "D": "Bulbospongiosus attaches to it in front.",
+            "E": "The deep transverse perineal muscle attaches to it."
+          },
+          "why": "The perineal body is a fibromuscular node between the anal canal and the urogenital structures where several perineal muscles converge; tearing it weakens the pelvic floor.",
           "topicId": "g-muscles",
           "subtopic": "",
           "difficulty": "medium"
@@ -4257,8 +4279,14 @@
             "D": "T",
             "E": "T"
           },
-          "notes": {},
-          "why": "All five are soft palate muscles.",
+          "notes": {
+            "A": "Tensor veli palatini tenses the palate; it is supplied by V3.",
+            "B": "Levator veli palatini raises the soft palate.",
+            "C": "Palatoglossus forms the palatoglossal arch.",
+            "D": "Palatopharyngeus forms the palatopharyngeal arch.",
+            "E": "Musculus uvulae shortens and lifts the uvula."
+          },
+          "why": "The five soft-palate muscles are all supplied by the pharyngeal plexus (vagus) except tensor veli palatini, which is supplied by the mandibular nerve.",
           "topicId": "g-hn",
           "subtopic": "",
           "difficulty": "medium"
@@ -5714,7 +5742,7 @@
             }
           ],
           "correctAnswer": "A",
-          "why": "True.",
+          "why": "The conus artery is usually the first branch of the right coronary artery and supplies the infundibulum (conus) of the right ventricle.",
           "notes": {},
           "lockOrder": true,
           "topicId": "g-heart",
@@ -5875,9 +5903,11 @@
             "C": "F"
           },
           "notes": {
+            "A": "Central nodes lie in the axillary fat and receive from the pectoral, lateral and subscapular groups.",
+            "B": "Lateral nodes lie along the axillary vein and drain most of the upper limb.",
             "C": "Supraclavicular nodes are in the neck, beyond the apical group."
           },
-          "why": "Five axillary groups: pectoral, lateral, subscapular, central and apical.",
+          "why": "The five axillary groups are pectoral, lateral, subscapular, central and apical; the supraclavicular nodes are in the neck.",
           "topicId": "g-lymph",
           "subtopic": "",
           "difficulty": "easy"
@@ -5949,7 +5979,9 @@
             "C": "T"
           },
           "notes": {
-            "A": "Rich in lymphatics."
+            "A": "Rich in lymphatics.",
+            "B": "The lips have a rich lymphatic drainage to the submental and submandibular nodes.",
+            "C": "Endomysium, around individual muscle fibres, has no lymphatics."
           },
           "why": "Lymphatics are absent from CNS, bone marrow, cornea, cartilage, epidermis and endomysium.",
           "topicId": "g-lymph",
@@ -6040,7 +6072,11 @@
             "B": "T",
             "C": "F"
           },
-          "notes": {},
+          "notes": {
+            "A": "Some thyroid lymph vessels drain straight into the thoracic duct.",
+            "B": "Some oesophageal lymph vessels drain straight into the thoracic duct.",
+            "C": "Liver lymph passes through hepatic and coeliac nodes first."
+          },
           "why": "Some vessels from the thyroid and oesophagus drain straight into the thoracic duct.",
           "topicId": "g-lymph",
           "subtopic": "",
@@ -7625,8 +7661,11 @@
             "E": "F"
           },
           "notes": {
+            "A": "The cardia surrounds the opening of the oesophagus.",
             "B": "A notch on the lesser curvature, not a part.",
-            "D": "Not a standard part of the stomach."
+            "C": "The body lies between the fundus and the pyloric antrum.",
+            "D": "Not a standard part of the stomach.",
+            "E": "An ampulla is found in the uterine tube, duodenum and rectum, not the stomach."
           },
           "why": "Parts: cardia, fundus, body, pyloric part (antrum, canal, pylorus).",
           "topicId": "g-gi",
@@ -7925,8 +7964,10 @@
             "E": "T"
           },
           "notes": {
+            "A": "The duodenum is about 25 cm long.",
             "B": "The ampulla (cap) has mesentery-like attachments.",
             "C": "About 10 cm.",
+            "D": "The 2nd (descending) part is about 7.5 cm long.",
             "E": "About 2.5 cm."
           },
           "why": "Duodenum parts: 1st 5 cm, 2nd 7.5 cm, 3rd 10 cm, 4th 2.5 cm.",
@@ -9338,11 +9379,17 @@
             "D": "T",
             "E": "T"
           },
-          "notes": {},
+          "notes": {
+            "A": "Dentine forms the bulk of the tooth.",
+            "B": "The crown is the enamel-covered part above the gum.",
+            "C": "Enamel, the hardest tissue in the body, covers the crown.",
+            "D": "The pulp is the central cavity with vessels and nerves.",
+            "E": "Cementum covers the root and anchors the periodontal ligament."
+          },
           "topicId": "g-gi",
           "subtopic": "",
           "difficulty": "medium",
-          "why": "All are parts of a tooth: enamel, dentine, pulp, cementum and the crown."
+          "why": "A tooth has a crown and root(s); its tissues are enamel (crown), cementum (root), dentine (bulk) and pulp (centre)."
         },
         {
           "id": "ana-gpq-117",
@@ -11254,7 +11301,7 @@
             }
           ],
           "correctAnswer": "A",
-          "why": "True.",
+          "why": "In the superior mediastinum the aortic arch arches backwards over the left side of the oesophagus and trachea.",
           "notes": {},
           "lockOrder": true,
           "topicId": "g-gi",
@@ -11298,7 +11345,7 @@
             }
           ],
           "correctAnswer": "A",
-          "why": "True.",
+          "why": "The epiploic foramen (of Winslow), behind the free edge of the lesser omentum, is the only opening between the greater and lesser sacs.",
           "notes": {},
           "lockOrder": true,
           "topicId": "g-gi",
@@ -11364,7 +11411,7 @@
             }
           ],
           "correctAnswer": "A",
-          "why": "True.",
+          "why": "The right and left gastroepiploic (gastro-omental) vessels run in the gastrocolic part of the greater omentum along the greater curvature.",
           "notes": {},
           "lockOrder": true,
           "topicId": "g-gi",
@@ -11386,7 +11433,7 @@
             }
           ],
           "correctAnswer": "A",
-          "why": "True.",
+          "why": "The lesser sac opens into the greater sac only through the epiploic foramen of Winslow, which is its aditus.",
           "notes": {},
           "lockOrder": true,
           "topicId": "g-gi",
@@ -12797,7 +12844,7 @@
             }
           ],
           "correctAnswer": "A",
-          "why": "True.",
+          "why": "The external urethral meatus is the narrowest part of the male urethra, which is why stones and catheters most often catch there.",
           "notes": {},
           "lockOrder": true,
           "topicId": "g-male",
@@ -13250,9 +13297,11 @@
             "C": "F"
           },
           "notes": {
-            "B": "Lymphoedema of the skin; hair follicles stay tethered, giving the orange-peel look."
+            "A": "A blocked lactiferous duct gives a cyst or galactocoele, not skin oedema.",
+            "B": "Lymphoedema of the skin; hair follicles stay tethered, giving the orange-peel look.",
+            "C": "Glandular swelling does not thicken the overlying skin."
           },
-          "why": "Cancer cells blocking dermal lymphatics cause skin oedema.",
+          "why": "Tumour cells block the dermal lymphatics, so the skin swells (lymphoedema) while hair follicles stay tethered, giving the orange-peel look.",
           "topicId": "g-female",
           "subtopic": "",
           "difficulty": "easy"
@@ -13282,9 +13331,10 @@
           },
           "notes": {
             "A": "The tumour pulls on them.",
-            "B": "That gives peau d'orange."
+            "B": "That gives peau d'orange.",
+            "C": "Glandular swelling does not tether the skin to the tumour."
           },
-          "why": "Infiltration and shortening of Cooper's ligaments retracts the skin.",
+          "why": "A tumour that infiltrates and shortens Cooper's (suspensory) ligaments pulls the overlying skin inwards, causing dimpling; blocked lymphatics give peau d'orange instead.",
           "topicId": "g-female",
           "subtopic": "",
           "difficulty": "easy"
@@ -13504,8 +13554,13 @@
             "C": "T",
             "D": "T"
           },
-          "notes": {},
-          "why": "Four parts: infundibulum, ampulla, isthmus, intramural part.",
+          "notes": {
+            "A": "The intramural part runs through the uterine wall and is the narrowest part.",
+            "B": "The isthmus is the narrow, thick-walled part next to the uterus.",
+            "C": "The infundibulum is the funnel-shaped lateral end, fringed with fimbriae, opening near the ovary.",
+            "D": "The ampulla is the widest and longest part, where fertilisation usually occurs."
+          },
+          "why": "From lateral to medial the uterine tube has four parts: infundibulum, ampulla (the usual site of fertilisation), isthmus and intramural part.",
           "topicId": "g-female",
           "subtopic": "",
           "difficulty": "medium"
@@ -13953,8 +14008,12 @@
             "B": "T",
             "C": "T"
           },
-          "notes": {},
-          "why": "All three are parts of a synapse.",
+          "notes": {
+            "A": "The presynaptic membrane releases neurotransmitter from synaptic vesicles.",
+            "B": "The synaptic cleft is the narrow gap the transmitter crosses.",
+            "C": "The postsynaptic membrane carries receptors for the transmitter."
+          },
+          "why": "A chemical synapse has a presynaptic membrane that releases transmitter, a cleft it diffuses across, and a postsynaptic membrane carrying its receptors.",
           "topicId": "g-cns",
           "subtopic": "",
           "difficulty": "easy"
@@ -13984,9 +14043,10 @@
           },
           "notes": {
             "A": "Encapsulated.",
+            "B": "Free nerve endings (pain, temperature) have no capsule.",
             "C": "Merkel cell–neurite complexes are not encapsulated."
           },
-          "why": "Encapsulated: Meissner, Pacinian, Ruffini, Krause.",
+          "why": "Free nerve endings and Merkel discs are non-encapsulated; Meissner, Pacinian, Ruffini and Krause endings are encapsulated.",
           "topicId": "g-cns",
           "subtopic": "",
           "difficulty": "easy"
@@ -15106,7 +15166,7 @@
             }
           ],
           "correctAnswer": "A",
-          "why": "True.",
+          "why": "The chiasma carries the crossing fibres from both nasal retinae, which see the temporal fields, so midline compression (e.g. a pituitary tumour) causes bitemporal hemianopia.",
           "notes": {},
           "lockOrder": true,
           "topicId": "g-cns",
@@ -15146,8 +15206,14 @@
             "D": "T",
             "E": "T"
           },
-          "notes": {},
-          "why": "Fimbria → crus → commissure → body → columns → mammillary bodies.",
+          "notes": {
+            "A": "The columns arch down in front of the interventricular foramina to the mammillary bodies.",
+            "B": "The two crura join beneath the corpus callosum to form the body.",
+            "C": "The (hippocampal) commissure links the two crura across the midline.",
+            "D": "Each crus arches up behind the thalamus, continuing from the fimbria.",
+            "E": "The fimbria, along the hippocampus, is where the fornix begins."
+          },
+          "why": "The fornix runs fimbria → crus → body → columns (with the commissure linking the two crura), carrying hippocampal output to the mammillary bodies.",
           "topicId": "g-cns",
           "subtopic": "",
           "difficulty": "medium"
@@ -16017,9 +16083,11 @@
             "C": "F"
           },
           "notes": {
-            "B": "Posterior divisions of the ventral rami of L2–L4."
+            "A": "L1 gives the iliohypogastric and ilioinguinal nerves, not the femoral nerve.",
+            "B": "Posterior divisions of the ventral rami of L2–L4.",
+            "C": "L5 joins the lumbosacral trunk, not the femoral nerve."
           },
-          "why": "Femoral: L2–L4 (posterior divisions). Obturator: L2–L4 (anterior divisions).",
+          "why": "The femoral nerve comes from the posterior divisions of the ventral rami of L2–L4; the obturator nerve comes from the anterior divisions of the same roots.",
           "topicId": "g-nerves",
           "subtopic": "",
           "difficulty": "easy"
@@ -16049,9 +16117,10 @@
           },
           "notes": {
             "A": "Medial leg and foot.",
+            "B": "The intermediate and medial cutaneous nerves of the thigh are femoral branches.",
             "C": "A direct branch of the lumbar plexus (L2, L3)."
           },
-          "why": "Femoral cutaneous branches: anterior cutaneous of thigh and saphenous.",
+          "why": "The femoral nerve's cutaneous branches are the anterior cutaneous nerves of the thigh and the saphenous nerve; the lateral cutaneous nerve of the thigh comes straight from the lumbar plexus.",
           "topicId": "g-nerves",
           "subtopic": "",
           "difficulty": "easy"
@@ -16147,9 +16216,10 @@
           },
           "notes": {
             "A": "Facial (taste) and lingual (general).",
+            "B": "IX carries both taste and general sensation from the posterior third of the tongue.",
             "C": "Hypoglossal."
           },
-          "why": "IX supplies all sensation from the posterior third.",
+          "why": "The glossopharyngeal nerve carries both taste and general sensation from the posterior third of the tongue; the anterior two-thirds are lingual (general) and chorda tympani (taste), and movement is hypoglossal.",
           "topicId": "g-nerves",
           "subtopic": "",
           "difficulty": "easy"
@@ -16211,10 +16281,11 @@
             "C": "F"
           },
           "notes": {
+            "A": "The lingual nerve (V3) carries general sensation from the anterior two-thirds.",
             "B": "Taste.",
             "C": "No such branch to this area."
           },
-          "why": "Lingual nerve: general sensation; chorda tympani: taste.",
+          "why": "General sensation from the anterior two-thirds is carried by the lingual nerve (V3); taste from the same area travels in the chorda tympani (VII).",
           "topicId": "g-nerves",
           "subtopic": "",
           "difficulty": "easy"
@@ -16276,9 +16347,11 @@
             "C": "F"
           },
           "notes": {
-            "B": "Loss of parasympathetic and medial rectus."
+            "A": "The pupil dilates, not constricts, and the eye turns out, not in.",
+            "B": "Loss of parasympathetic and medial rectus.",
+            "C": "The pupil dilates, but loss of medial rectus makes the eye turn out, not in."
           },
-          "why": "III palsy: dilated pupil, ptosis, eye down and out.",
+          "why": "Oculomotor palsy removes the pupil's parasympathetic supply (dilated pupil) and most extraocular muscles, so lateral rectus and superior oblique pull the eye down and out, with ptosis.",
           "topicId": "g-nerves",
           "subtopic": "",
           "difficulty": "easy"
@@ -16350,9 +16423,13 @@
             "E": "T"
           },
           "notes": {
-            "B": "C4 meets T2 here."
+            "A": "Above the sternal angle and 2nd rib the skin is supplied by the supraclavicular nerves (C3, C4).",
+            "B": "At the 2nd rib the C4 dermatome meets T2, because C5–T1 supply the upper limb.",
+            "C": "Below the sternal angle the midline is supplied by anterior cutaneous branches of T2–L1.",
+            "D": "Lateral cutaneous branches of T12 and the iliohypogastric nerve cross the iliac crest to the buttock.",
+            "E": "The ilioinguinal nerve has no lateral cutaneous branch, so it does not reach the buttock."
           },
-          "why": "All five are true.",
+          "why": "The body wall is supplied segmentally: C3–C4 (supraclavicular nerves) above the 2nd rib, then T2–L1 below, because C5–T1 have gone to the upper limb.",
           "topicId": "g-nerves",
           "subtopic": "",
           "difficulty": "medium"
@@ -16391,9 +16468,13 @@
             "E": "T"
           },
           "notes": {
-            "A": "Vagus (pharyngeal plexus)."
+            "A": "Vagus (pharyngeal plexus).",
+            "B": "The intrinsic longitudinal muscles are supplied by the hypoglossal nerve.",
+            "C": "Styloglossus is an extrinsic muscle supplied by the hypoglossal nerve.",
+            "D": "The intrinsic vertical muscle is supplied by the hypoglossal nerve.",
+            "E": "Hyoglossus is an extrinsic muscle supplied by the hypoglossal nerve."
           },
-          "why": "All tongue muscles are hypoglossal except palatoglossus.",
+          "why": "The hypoglossal nerve supplies all intrinsic and extrinsic tongue muscles except palatoglossus, which is supplied by the vagus via the pharyngeal plexus.",
           "topicId": "g-nerves",
           "subtopic": "",
           "difficulty": "medium"
@@ -17937,7 +18018,7 @@
             }
           ],
           "correctAnswer": "B",
-          "why": "It is the DORSAL ramus of C2.",
+          "why": "The greater occipital nerve is the medial branch of the dorsal ramus of C2, not a ventral ramus; it supplies the skin over the back of the scalp.",
           "notes": {},
           "lockOrder": true,
           "topicId": "g-nerves",
@@ -18921,10 +19002,11 @@
             "C": "F"
           },
           "notes": {
+            "A": "The transpyloric plane, midway between the jugular notch and pubic symphysis, passes through L1.",
             "B": "At L3.",
             "C": "At L3/L4."
           },
-          "why": "The transpyloric plane (Addison) lies at L1.",
+          "why": "The transpyloric plane (of Addison) lies at L1 and crosses the pylorus, the fundus of the gallbladder and the renal hila; the subcostal plane is at L3.",
           "topicId": "g-intro",
           "subtopic": "",
           "difficulty": "easy"
@@ -19027,12 +19109,13 @@
             "E": "T"
           },
           "notes": {
+            "A": "Most of the liver lies under the right lower ribs.",
             "B": "The fundus and body lie under the left costal margin.",
             "C": "Ribs 9–11.",
             "D": "Ribs 11–12.",
             "E": "Rib 12 crosses its upper pole."
           },
-          "why": "All five lie partly under the costal margin.",
+          "why": "The liver, stomach, spleen and both kidneys all lie partly behind the lower ribs, which protect them but can injure them when fractured.",
           "topicId": "g-intro",
           "subtopic": "",
           "difficulty": "medium"
@@ -19211,7 +19294,7 @@
             }
           ],
           "correctAnswer": "A",
-          "why": "True.",
+          "why": "Opening the chest wall to reach the lungs, heart or mediastinum is a thoracotomy, most often made through an intercostal space.",
           "notes": {},
           "lockOrder": true,
           "topicId": "g-intro",
@@ -20317,6 +20400,8 @@
             "E": "F"
           },
           "notes": {
+            "A": "The sphenoid and ethmoid of the skull base are irregular bones.",
+            "B": "Vault bones like the parietal and frontal are flat bones.",
             "C": "Short bones are the carpals and tarsals.",
             "D": "There are no long bones in the skull.",
             "E": "Sesamoid bones sit in tendons, e.g. the patella."
@@ -20775,6 +20860,7 @@
           },
           "notes": {
             "A": "There are 12 pairs.",
+            "B": "Ribs 1–7 reach the sternum by their own costal cartilages, so they are true ribs.",
             "C": "False ribs are 8–12.",
             "D": "Only 11 and 12 float.",
             "E": "Ribs 8–12 do not reach it directly."
@@ -20818,6 +20904,8 @@
             "E": "F"
           },
           "notes": {
+            "A": "The foramen magnum joins the cranial cavity to the vertebral canal.",
+            "B": "The foramen magnum lies in the occipital bone.",
             "C": "The sagittal suture joins the two parietals; the occipital meets them at the lambdoid suture.",
             "D": "That is the coronal suture.",
             "E": "They meet at the sagittal suture."
@@ -20861,7 +20949,11 @@
             "E": "T"
           },
           "notes": {
-            "C": "Those are cervical."
+            "A": "Lumbar bodies are large and kidney-shaped to bear weight.",
+            "B": "Lumbar transverse processes are long and slender.",
+            "C": "Those are cervical.",
+            "D": "Lumbar spines are thick, horizontal and hatchet-shaped.",
+            "E": "Only thoracic vertebrae carry rib facets."
           },
           "why": "Big bodies, hatchet-shaped spines, no transverse foramina and no rib facets.",
           "topicId": "g-bones",
@@ -20988,9 +21080,13 @@
             "E": "T"
           },
           "notes": {
+            "A": "It is made of the two hip bones, the sacrum and the coccyx.",
+            "B": "The female pelvis is wider, shallower and lighter for childbirth.",
+            "C": "The inlet and outlet bound the true pelvis above and below.",
+            "D": "The outlet is bounded by the pubic arch, the ischial tuberosities and the coccyx.",
             "E": "The pelvis is the most reliable bone for sexing a skeleton."
           },
-          "why": "All five statements are true.",
+          "why": "The bony pelvis is two hip bones plus the sacrum and coccyx, with an inlet and outlet; its sex differences make it the most reliable bone for sexing a skeleton.",
           "topicId": "g-bones",
           "subtopic": "",
           "difficulty": "medium"
@@ -22314,10 +22410,13 @@
             "E": "F"
           },
           "notes": {
-            "A": "Medial.",
-            "E": "Longer."
+            "A": "The ulna is longer but medial; the radius is lateral.",
+            "B": "It articulates with the humerus at the trochlea and with the radius laterally.",
+            "C": "The olecranon, trochlear notch and radial notch are at its proximal end.",
+            "D": "The head and styloid process are at its distal end.",
+            "E": "The ulna is medial, but it is longer than the radius, not shorter."
           },
-          "why": "The ulna is the longer, medial bone.",
+          "why": "The ulna is the longer, medial forearm bone; its large proximal end (olecranon, trochlear notch) forms the elbow, and its small distal head and styloid lie at the wrist.",
           "difficulty": "medium"
         },
         {
@@ -22481,8 +22580,14 @@
             "D": "T",
             "E": "T"
           },
-          "notes": {},
-          "why": "All five are thoracic cage joints.",
+          "notes": {
+            "A": "Each rib head articulates with the vertebral bodies.",
+            "B": "Costotransverse joints link each rib tubercle to a transverse process.",
+            "C": "Costovertebral joints is the collective name for the rib-head and costotransverse joints.",
+            "D": "Interchondral joints lie between the costal cartilages of the lower true and false ribs.",
+            "E": "Costochondral joints join each rib to its costal cartilage."
+          },
+          "why": "The thoracic cage has joints behind (rib heads and costotransverse, together the costovertebral joints) and in front (costochondral, sternocostal and interchondral).",
           "topicId": "g-joints",
           "subtopic": "",
           "difficulty": "medium"
@@ -22554,9 +22659,11 @@
             "C": "T"
           },
           "notes": {
-            "A": "A synovial hinge joint."
+            "A": "A synovial hinge joint.",
+            "B": "A syndesmosis joins bones by a ligament or membrane, e.g. the inferior tibiofibular joint.",
+            "C": "Sutures are fibrous joints between skull bones."
           },
-          "why": "Fibrous joints: sutures, syndesmoses, gomphoses.",
+          "why": "The three fibrous joints are sutures, syndesmoses and gomphoses (teeth in sockets); a ginglymus is a synovial hinge joint.",
           "topicId": "g-joints",
           "subtopic": "",
           "difficulty": "easy"
