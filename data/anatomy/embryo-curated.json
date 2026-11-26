@@ -10434,6 +10434,1222 @@
       "topicId": "e-limbs",
       "subtopic": "Limb anomalies",
       "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-057",
+      "type": "single-best",
+      "stem": "At puberty, spermatogenesis in the seminiferous tubules is directly initiated by",
+      "options": [
+        {
+          "label": "A",
+          "text": "FSH from the anterior pituitary"
+        },
+        {
+          "label": "B",
+          "text": "LH from the anterior pituitary"
+        },
+        {
+          "label": "C",
+          "text": "GnRH from the hypothalamus"
+        },
+        {
+          "label": "D",
+          "text": "testosterone from Leydig cells"
+        },
+        {
+          "label": "E",
+          "text": "inhibin from Sertoli cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "FSH acts on the Sertoli cells to initiate spermatogenesis, while testosterone (driven by LH) sustains it; the whole axis is switched on by hypothalamic GnRH.",
+      "topicId": "e-gameto",
+      "subtopic": "Spermatogenesis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-058",
+      "type": "single-best",
+      "stem": "Normal spermatogenesis requires a testicular temperature that is about",
+      "options": [
+        {
+          "label": "A",
+          "text": "equal to core body temperature"
+        },
+        {
+          "label": "B",
+          "text": "2-3 °C below core body temperature"
+        },
+        {
+          "label": "C",
+          "text": "2-3 °C above core body temperature"
+        },
+        {
+          "label": "D",
+          "text": "5-6 °C below core body temperature"
+        },
+        {
+          "label": "E",
+          "text": "about 10 °C below core temperature"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The scrotum keeps the testes 2-3 °C cooler than the core, which is essential for sperm production; this is why an undescended (intra-abdominal) testis fails to make sperm.",
+      "topicId": "e-gameto",
+      "subtopic": "Spermatogenesis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-059",
+      "type": "single-best",
+      "stem": "The phase of spermatogenesis in which type A spermatogonia multiply by mitosis to generate primary spermatocytes is called",
+      "options": [
+        {
+          "label": "A",
+          "text": "spermiogenesis"
+        },
+        {
+          "label": "B",
+          "text": "spermiation"
+        },
+        {
+          "label": "C",
+          "text": "spermatocytogenesis"
+        },
+        {
+          "label": "D",
+          "text": "spermatidogenesis"
+        },
+        {
+          "label": "E",
+          "text": "capacitation"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Spermatocytogenesis is the initial mitotic phase (~16 days) that amplifies spermatogonia into primary spermatocytes; spermiogenesis is the later remodelling of spermatids into spermatozoa.",
+      "topicId": "e-gameto",
+      "subtopic": "Spermatogenesis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-060",
+      "type": "single-best",
+      "stem": "Which event is characteristic of spermiogenesis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "reduction of the chromosome number to haploid"
+        },
+        {
+          "label": "B",
+          "text": "crossing over between homologous chromosomes"
+        },
+        {
+          "label": "C",
+          "text": "mitotic amplification of stem spermatogonia"
+        },
+        {
+          "label": "D",
+          "text": "shedding of excess cytoplasm as a residual body"
+        },
+        {
+          "label": "E",
+          "text": "duplication of DNA before the first division"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Spermiogenesis remodels a round spermatid into a spermatozoon — forming the acrosome and tail and shedding excess cytoplasm — with no further division; chromosome reduction and crossing over happen earlier, in meiosis.",
+      "topicId": "e-gameto",
+      "subtopic": "Spermatogenesis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-061",
+      "type": "single-best",
+      "stem": "The primary oocyte completes its first meiotic division",
+      "options": [
+        {
+          "label": "A",
+          "text": "during the fifth month of fetal life"
+        },
+        {
+          "label": "B",
+          "text": "only at the moment of fertilization"
+        },
+        {
+          "label": "C",
+          "text": "at the first menstrual period (menarche)"
+        },
+        {
+          "label": "D",
+          "text": "continuously throughout reproductive life"
+        },
+        {
+          "label": "E",
+          "text": "just before ovulation, in response to the LH surge"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Arrested in prophase I since fetal life, the primary oocyte finishes meiosis I at the LH surge to give a secondary oocyte and the first polar body; meiosis II is completed only if fertilization occurs.",
+      "topicId": "e-gameto",
+      "subtopic": "Oogenesis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-062",
+      "type": "single-best",
+      "stem": "The ovulated secondary oocyte stays arrested at which stage unless it is fertilized?",
+      "options": [
+        {
+          "label": "A",
+          "text": "metaphase of the second meiotic division"
+        },
+        {
+          "label": "B",
+          "text": "prophase of the first meiotic division"
+        },
+        {
+          "label": "C",
+          "text": "metaphase of the first meiotic division"
+        },
+        {
+          "label": "D",
+          "text": "anaphase of the second meiotic division"
+        },
+        {
+          "label": "E",
+          "text": "telophase of the first meiotic division"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The secondary oocyte is ovulated in metaphase II and only finishes the division, expelling the second polar body, if a sperm penetrates it.",
+      "topicId": "e-gameto",
+      "subtopic": "Oogenesis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-063",
+      "type": "single-best",
+      "stem": "The continual degeneration of ovarian follicles at every stage of development is termed",
+      "options": [
+        {
+          "label": "A",
+          "text": "luteolysis"
+        },
+        {
+          "label": "B",
+          "text": "atresia"
+        },
+        {
+          "label": "C",
+          "text": "ovulation"
+        },
+        {
+          "label": "D",
+          "text": "involution"
+        },
+        {
+          "label": "E",
+          "text": "menolysis"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Follicular atresia removes the great majority of follicles throughout life, so of the roughly two million present at birth only about 400 ever ovulate; luteolysis instead means regression of the corpus luteum.",
+      "topicId": "e-gameto",
+      "subtopic": "Oogenesis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-064",
+      "type": "single-best",
+      "stem": "Apart from spermatozoa, semen is formed mainly by secretions of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "testis and epididymis"
+        },
+        {
+          "label": "B",
+          "text": "bulbourethral and bladder glands"
+        },
+        {
+          "label": "C",
+          "text": "prostate and seminal vesicles"
+        },
+        {
+          "label": "D",
+          "text": "epididymis and seminal vesicles"
+        },
+        {
+          "label": "E",
+          "text": "prostate and bulbourethral glands"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Most of the ejaculate volume is seminal-vesicle and prostatic fluid that nourishes and activates the sperm; the testis and epididymis supply the sperm themselves, not the bulk fluid.",
+      "topicId": "e-fert",
+      "subtopic": "Fertilization",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-065",
+      "type": "single-best",
+      "stem": "A normal semen sample contains approximately how many spermatozoa per millilitre?",
+      "options": [
+        {
+          "label": "A",
+          "text": "about 1 million"
+        },
+        {
+          "label": "B",
+          "text": "about 10 million"
+        },
+        {
+          "label": "C",
+          "text": "about 1 billion"
+        },
+        {
+          "label": "D",
+          "text": "about 100 million"
+        },
+        {
+          "label": "E",
+          "text": "about 500 thousand"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Normal semen carries on the order of 100 million sperm per millilitre; fertility generally needs at least ~15 million/mL with adequate motility and morphology.",
+      "topicId": "e-fert",
+      "subtopic": "Fertilization",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-066",
+      "type": "single-best",
+      "stem": "Capacitation of spermatozoa in the female genital tract chiefly involves",
+      "options": [
+        {
+          "label": "A",
+          "text": "release of hyaluronidase from the acrosomal cap"
+        },
+        {
+          "label": "B",
+          "text": "fusion of the sperm head with the oocyte membrane"
+        },
+        {
+          "label": "C",
+          "text": "condensation of the sperm nucleus within the head"
+        },
+        {
+          "label": "D",
+          "text": "shedding of the sperm tail before penetration"
+        },
+        {
+          "label": "E",
+          "text": "removal of a glycoprotein coat from the sperm plasmalemma"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Capacitation strips a glycoprotein coat from the sperm plasmalemma, exposing receptors so the sperm can later undergo the acrosome reaction; it precedes and is distinct from acrosomal enzyme release.",
+      "topicId": "e-fert",
+      "subtopic": "Fertilization",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-067",
+      "type": "single-best",
+      "stem": "After the acrosome reaction, penetration of the zona pellucida is mediated mainly by",
+      "options": [
+        {
+          "label": "A",
+          "text": "acrosin"
+        },
+        {
+          "label": "B",
+          "text": "hyaluronidase"
+        },
+        {
+          "label": "C",
+          "text": "neuraminidase"
+        },
+        {
+          "label": "D",
+          "text": "acid phosphatase"
+        },
+        {
+          "label": "E",
+          "text": "plasminogen"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Acrosin, exposed on the inner acrosomal membrane, digests the zona pellucida; hyaluronidase instead disperses the corona radiata and cumulus cells earlier.",
+      "topicId": "e-fert",
+      "subtopic": "Fertilization",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-068",
+      "type": "single-best",
+      "stem": "The slow block to polyspermy is produced by",
+      "options": [
+        {
+          "label": "A",
+          "text": "rapid depolarisation of the oocyte plasma membrane"
+        },
+        {
+          "label": "B",
+          "text": "release of cortical granules that alter the zona pellucida"
+        },
+        {
+          "label": "C",
+          "text": "immediate hardening of the corona radiata"
+        },
+        {
+          "label": "D",
+          "text": "closure of binding sites on the sperm tail"
+        },
+        {
+          "label": "E",
+          "text": "contraction of the oviduct around the oocyte"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Cortical granules discharged on sperm contact modify the zona (the zona reaction), making it impermeable to further sperm — the slow block to polyspermy.",
+      "topicId": "e-fert",
+      "subtopic": "Fertilization",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-069",
+      "type": "single-best",
+      "stem": "The genetic sex of the zygote is determined by",
+      "options": [
+        {
+          "label": "A",
+          "text": "whether the oocyte carries an X or a Y chromosome"
+        },
+        {
+          "label": "B",
+          "text": "the number of polar bodies the oocyte expels"
+        },
+        {
+          "label": "C",
+          "text": "whether the fertilizing sperm carries an X or a Y chromosome"
+        },
+        {
+          "label": "D",
+          "text": "the timing of ovulation relative to coitus"
+        },
+        {
+          "label": "E",
+          "text": "the level of testosterone in the semen"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The oocyte always carries an X, so the sperm’s sex chromosome — X (female) or Y (male) — sets the zygote’s genetic sex.",
+      "topicId": "e-fert",
+      "subtopic": "Fertilization",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-embryo-g-070",
+      "type": "single-best",
+      "stem": "Entry of the spermatozoon triggers the secondary oocyte to",
+      "options": [
+        {
+          "label": "A",
+          "text": "begin its first meiotic division from the start"
+        },
+        {
+          "label": "B",
+          "text": "expel the first polar body instead"
+        },
+        {
+          "label": "C",
+          "text": "re-enter the prophase resting (dictyotene) stage"
+        },
+        {
+          "label": "D",
+          "text": "complete meiosis II and expel the second polar body"
+        },
+        {
+          "label": "E",
+          "text": "duplicate all its chromosomes once more"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Sperm penetration releases the metaphase-II arrest, so the oocyte finishes meiosis II and extrudes the second polar body, leaving the haploid female pronucleus.",
+      "topicId": "e-fert",
+      "subtopic": "Fertilization",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-071",
+      "type": "single-best",
+      "stem": "After ovulation, the secondary oocyte remains capable of being fertilized for about",
+      "options": [
+        {
+          "label": "A",
+          "text": "72 hours"
+        },
+        {
+          "label": "B",
+          "text": "6 hours"
+        },
+        {
+          "label": "C",
+          "text": "1 week"
+        },
+        {
+          "label": "D",
+          "text": "3 hours"
+        },
+        {
+          "label": "E",
+          "text": "24 hours"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "The ovulated oocyte is viable for roughly 24 hours; if no sperm reaches it in that window it degenerates and is shed with menstruation.",
+      "topicId": "e-fert",
+      "subtopic": "Fertilization",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-embryo-g-072",
+      "type": "single-best",
+      "stem": "Within the female genital tract, spermatozoa may survive for up to about",
+      "options": [
+        {
+          "label": "A",
+          "text": "72 hours"
+        },
+        {
+          "label": "B",
+          "text": "6 hours"
+        },
+        {
+          "label": "C",
+          "text": "2 weeks"
+        },
+        {
+          "label": "D",
+          "text": "30 minutes"
+        },
+        {
+          "label": "E",
+          "text": "1 hour"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Sperm can survive up to roughly three days awaiting ovulation, so intercourse a few days before ovulation can still achieve fertilization.",
+      "topicId": "e-fert",
+      "subtopic": "Fertilization",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-073",
+      "type": "single-best",
+      "stem": "In vivo, fertilization normally takes place in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "cavity of the uterus"
+        },
+        {
+          "label": "B",
+          "text": "ampulla of the uterine tube"
+        },
+        {
+          "label": "C",
+          "text": "fundus of the uterus"
+        },
+        {
+          "label": "D",
+          "text": "cervical canal"
+        },
+        {
+          "label": "E",
+          "text": "isthmus of the uterine tube"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Sperm and oocyte usually meet in the ampulla, the widest part of the uterine tube; the zygote then cleaves as it travels to the uterus for implantation.",
+      "topicId": "e-fert",
+      "subtopic": "Fertilization",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-embryo-g-074",
+      "type": "single-best",
+      "stem": "Virtually all the cytoplasm and organelles of the zygote are contributed by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "spermatozoon"
+        },
+        {
+          "label": "B",
+          "text": "corona radiata"
+        },
+        {
+          "label": "C",
+          "text": "secondary oocyte"
+        },
+        {
+          "label": "D",
+          "text": "zona pellucida"
+        },
+        {
+          "label": "E",
+          "text": "first polar body"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The large oocyte supplies essentially all the cytoplasm, mitochondria and organelles; the sperm contributes little more than its haploid nucleus and a centriole.",
+      "topicId": "e-fert",
+      "subtopic": "Fertilization",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-075",
+      "type": "single-best",
+      "stem": "During cleavage the blastomeres stay enclosed within the zona pellucida, which prevents",
+      "options": [
+        {
+          "label": "A",
+          "text": "premature splitting into monozygotic twins"
+        },
+        {
+          "label": "B",
+          "text": "entry of extra spermatozoa (polyspermy)"
+        },
+        {
+          "label": "C",
+          "text": "compaction of the morula from occurring"
+        },
+        {
+          "label": "D",
+          "text": "formation of the blastocoel cavity"
+        },
+        {
+          "label": "E",
+          "text": "attachment of the embryo to the oviduct"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The intact zona holds the blastomeres together, preventing premature implantation in the tube and premature separation into identical twins until the blastocyst hatches.",
+      "topicId": "e-cleave",
+      "subtopic": "Cleavage",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-076",
+      "type": "single-best",
+      "stem": "A solid ball of about 16 blastomeres formed during cleavage is called the",
+      "options": [
+        {
+          "label": "A",
+          "text": "blastocyst"
+        },
+        {
+          "label": "B",
+          "text": "morula"
+        },
+        {
+          "label": "C",
+          "text": "gastrula"
+        },
+        {
+          "label": "D",
+          "text": "embryoblast"
+        },
+        {
+          "label": "E",
+          "text": "zygote"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "At roughly the 16-cell stage the compacted ball of blastomeres is the morula; a fluid-filled cavity later converts it into a blastocyst.",
+      "topicId": "e-cleave",
+      "subtopic": "Cleavage",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-embryo-g-077",
+      "type": "single-best",
+      "stem": "A fluid-filled cavity first appears in the conceptus, forming the blastocyst, at about",
+      "options": [
+        {
+          "label": "A",
+          "text": "day 1 after fertilization"
+        },
+        {
+          "label": "B",
+          "text": "day 10 after fertilization"
+        },
+        {
+          "label": "C",
+          "text": "day 5 after fertilization"
+        },
+        {
+          "label": "D",
+          "text": "day 14 after fertilization"
+        },
+        {
+          "label": "E",
+          "text": "day 21 after fertilization"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The blastocoel appears around day 5 as trophoblast cells pump fluid into the morula; the blastocyst then hatches from the zona and implants.",
+      "topicId": "e-cleave",
+      "subtopic": "Cleavage",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-078",
+      "type": "single-best",
+      "stem": "The secretory (receptive) endometrium needed for implantation is produced mainly under the influence of",
+      "options": [
+        {
+          "label": "A",
+          "text": "oestrogen from the ovarian follicle"
+        },
+        {
+          "label": "B",
+          "text": "hCG from the syncytiotrophoblast"
+        },
+        {
+          "label": "C",
+          "text": "FSH from the anterior pituitary"
+        },
+        {
+          "label": "D",
+          "text": "progesterone from the corpus luteum"
+        },
+        {
+          "label": "E",
+          "text": "prolactin from the anterior pituitary"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "The corpus luteum, stimulated by LH, secretes progesterone that converts the proliferative endometrium into the receptive secretory phase.",
+      "topicId": "e-cleave",
+      "subtopic": "Implantation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-079",
+      "type": "single-best",
+      "stem": "Slight bleeding that sometimes accompanies implantation results from",
+      "options": [
+        {
+          "label": "A",
+          "text": "shedding of the entire uterine lining"
+        },
+        {
+          "label": "B",
+          "text": "rupture of the corpus luteum cyst"
+        },
+        {
+          "label": "C",
+          "text": "detachment of the cervical mucus plug"
+        },
+        {
+          "label": "D",
+          "text": "breakdown of the zona pellucida"
+        },
+        {
+          "label": "E",
+          "text": "trophoblast eroding endometrial blood vessels"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "As the invading trophoblast digests endometrial tissue it erodes small maternal vessels, which can cause light implantation (false) bleeding.",
+      "topicId": "e-cleave",
+      "subtopic": "Implantation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-080",
+      "type": "single-best",
+      "stem": "After implantation, the part of the decidua lying between the conceptus and the myometrium is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "decidua basalis"
+        },
+        {
+          "label": "B",
+          "text": "decidua capsularis"
+        },
+        {
+          "label": "C",
+          "text": "decidua parietalis"
+        },
+        {
+          "label": "D",
+          "text": "decidua marginalis"
+        },
+        {
+          "label": "E",
+          "text": "decidua functionalis"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The decidua basalis lies deep to the conceptus toward the myometrium and forms the maternal part of the placenta; the capsularis overlies it toward the uterine cavity.",
+      "topicId": "e-cleave",
+      "subtopic": "Implantation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-081",
+      "type": "single-best",
+      "stem": "Implantation at any site outside the body of the uterus is termed",
+      "options": [
+        {
+          "label": "A",
+          "text": "molar pregnancy"
+        },
+        {
+          "label": "B",
+          "text": "ectopic pregnancy"
+        },
+        {
+          "label": "C",
+          "text": "abruptio placentae"
+        },
+        {
+          "label": "D",
+          "text": "placenta praevia"
+        },
+        {
+          "label": "E",
+          "text": "superfetation"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Ectopic implantation (most often tubal) occurs outside the uterine body; tubal sites are dangerous because rupture causes severe internal bleeding.",
+      "topicId": "e-cleave",
+      "subtopic": "Implantation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dq-embryo-g-082",
+      "type": "single-best",
+      "stem": "Dizygotic (fraternal) twins always have which membrane arrangement?",
+      "options": [
+        {
+          "label": "A",
+          "text": "monochorionic, diamniotic"
+        },
+        {
+          "label": "B",
+          "text": "monochorionic, monoamniotic"
+        },
+        {
+          "label": "C",
+          "text": "dichorionic, diamniotic"
+        },
+        {
+          "label": "D",
+          "text": "dichorionic, monoamniotic"
+        },
+        {
+          "label": "E",
+          "text": "a single shared placenta and sac"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "Arising from two separately implanting zygotes, dizygotic twins always have two chorions and two amnions (Di-Di).",
+      "topicId": "e-cleave",
+      "subtopic": "Twinning",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-083",
+      "type": "single-best",
+      "stem": "Monozygotic twins that share a single (monochorionic) placenta are at particular risk of",
+      "options": [
+        {
+          "label": "A",
+          "text": "haemolytic disease of the newborn"
+        },
+        {
+          "label": "B",
+          "text": "gestational trophoblastic disease"
+        },
+        {
+          "label": "C",
+          "text": "a complete hydatidiform mole"
+        },
+        {
+          "label": "D",
+          "text": "twin-to-twin transfusion syndrome"
+        },
+        {
+          "label": "E",
+          "text": "placenta praevia"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "A shared placenta allows unbalanced blood flow between the twins through placental vascular anastomoses, causing twin-to-twin transfusion syndrome.",
+      "topicId": "e-cleave",
+      "subtopic": "Twinning",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-084",
+      "type": "single-best",
+      "stem": "Conjoined twinning results from incomplete splitting that occurs after formation of",
+      "options": [
+        {
+          "label": "A",
+          "text": "the two-cell stage of cleavage"
+        },
+        {
+          "label": "B",
+          "text": "an intact zona pellucida"
+        },
+        {
+          "label": "C",
+          "text": "the compacted morula"
+        },
+        {
+          "label": "D",
+          "text": "the secondary oocyte"
+        },
+        {
+          "label": "E",
+          "text": "the bilaminar embryonic disc"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Splitting after the bilaminar disc has formed (once organ progenitors have differentiated) is incomplete, producing conjoined twins; this is possible only in Mo-Mo twins.",
+      "topicId": "e-cleave",
+      "subtopic": "Twinning",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-085",
+      "type": "single-best",
+      "stem": "The notochordal process grows forward (cranially) from",
+      "options": [
+        {
+          "label": "A",
+          "text": "the primitive node (Hensen’s node)"
+        },
+        {
+          "label": "B",
+          "text": "the prochordal plate at the cranial end"
+        },
+        {
+          "label": "C",
+          "text": "the cloacal membrane caudally"
+        },
+        {
+          "label": "D",
+          "text": "the connecting (body) stalk"
+        },
+        {
+          "label": "E",
+          "text": "the primitive groove itself"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "The notochordal process extends cranially from the primitive (Hensen’s) node at the cranial end of the streak, laying down the embryonic midline.",
+      "topicId": "e-disc",
+      "subtopic": "Germ disc",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-086",
+      "type": "single-best",
+      "stem": "Epiblast cells that never migrate through the primitive streak remain on the surface as the",
+      "options": [
+        {
+          "label": "A",
+          "text": "endoderm"
+        },
+        {
+          "label": "B",
+          "text": "ectoderm"
+        },
+        {
+          "label": "C",
+          "text": "mesoderm"
+        },
+        {
+          "label": "D",
+          "text": "hypoblast"
+        },
+        {
+          "label": "E",
+          "text": "notochord"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "Once the ingressing cells have formed endoderm and mesoderm, the epiblast cells left on the surface become ectoderm, which forms the nervous system and epidermis.",
+      "topicId": "e-disc",
+      "subtopic": "Germ disc",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-087",
+      "type": "single-best",
+      "stem": "All three primary germ layers of the embryo are derived from the",
+      "options": [
+        {
+          "label": "A",
+          "text": "hypoblast"
+        },
+        {
+          "label": "B",
+          "text": "trophoblast"
+        },
+        {
+          "label": "C",
+          "text": "epiblast"
+        },
+        {
+          "label": "D",
+          "text": "cytotrophoblast"
+        },
+        {
+          "label": "E",
+          "text": "extraembryonic mesoderm"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "During gastrulation the epiblast generates ectoderm, mesoderm and endoderm; the hypoblast is displaced and contributes only to extraembryonic structures.",
+      "topicId": "e-disc",
+      "subtopic": "Germ disc",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-088",
+      "type": "single-best",
+      "stem": "The paraxial mesoderm, lying on either side of the notochord, differentiates into",
+      "options": [
+        {
+          "label": "A",
+          "text": "nephrons"
+        },
+        {
+          "label": "B",
+          "text": "heart tubes"
+        },
+        {
+          "label": "C",
+          "text": "blood islands"
+        },
+        {
+          "label": "D",
+          "text": "somites"
+        },
+        {
+          "label": "E",
+          "text": "the gut tube"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Paraxial mesoderm segments into somites, which give rise to the axial skeleton, skeletal muscle and dermis.",
+      "topicId": "e-disc",
+      "subtopic": "Germ disc",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-089",
+      "type": "single-best",
+      "stem": "The intermediate mesoderm gives rise mainly to the",
+      "options": [
+        {
+          "label": "A",
+          "text": "heart and great vessels"
+        },
+        {
+          "label": "B",
+          "text": "vertebrae and ribs"
+        },
+        {
+          "label": "C",
+          "text": "limbs and body wall"
+        },
+        {
+          "label": "D",
+          "text": "brain and spinal cord"
+        },
+        {
+          "label": "E",
+          "text": "kidneys and gonads"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "Intermediate mesoderm forms the urogenital system — the kidneys and the gonads; the heart and body wall arise from lateral plate mesoderm.",
+      "topicId": "e-disc",
+      "subtopic": "Germ disc",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-090",
+      "type": "single-best",
+      "stem": "Along the length of the embryo, the somites are added in which sequence?",
+      "options": [
+        {
+          "label": "A",
+          "text": "craniocaudally (head to tail)"
+        },
+        {
+          "label": "B",
+          "text": "caudocranially (tail to head)"
+        },
+        {
+          "label": "C",
+          "text": "all at the same time"
+        },
+        {
+          "label": "D",
+          "text": "from the midline outward"
+        },
+        {
+          "label": "E",
+          "text": "in no fixed order"
+        }
+      ],
+      "correctAnswer": "A",
+      "why": "Somites appear in a strict craniocaudal sequence from about days 20-31, which is why somite number is used to age young embryos.",
+      "topicId": "e-disc",
+      "subtopic": "Germ disc",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-091",
+      "type": "single-best",
+      "stem": "In the adult, the only persisting remnant of the notochord is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "anterior longitudinal ligament of the spine"
+        },
+        {
+          "label": "B",
+          "text": "nucleus pulposus of the intervertebral disc"
+        },
+        {
+          "label": "C",
+          "text": "ligamentum flavum between the laminae"
+        },
+        {
+          "label": "D",
+          "text": "denticulate ligament of the spinal cord"
+        },
+        {
+          "label": "E",
+          "text": "filum terminale of the spinal cord"
+        }
+      ],
+      "correctAnswer": "B",
+      "why": "The notochord largely regresses; its sole adult remnant is the nucleus pulposus at the centre of each intervertebral disc.",
+      "topicId": "e-disc",
+      "subtopic": "Germ disc",
+      "difficulty": "hard"
+    },
+    {
+      "id": "dq-embryo-g-092",
+      "type": "single-best",
+      "stem": "By inhibiting BMP signalling, the notochord induces the overlying ectoderm to form the",
+      "options": [
+        {
+          "label": "A",
+          "text": "epidermis"
+        },
+        {
+          "label": "B",
+          "text": "somite"
+        },
+        {
+          "label": "C",
+          "text": "neural plate"
+        },
+        {
+          "label": "D",
+          "text": "endoderm"
+        },
+        {
+          "label": "E",
+          "text": "primitive streak"
+        }
+      ],
+      "correctAnswer": "C",
+      "why": "The notochord (through SHH and BMP inhibition) induces the overlying ectoderm to become neuroectoderm — the neural plate that folds into the neural tube.",
+      "topicId": "e-disc",
+      "subtopic": "Germ disc",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-093",
+      "type": "single-best",
+      "stem": "The bilaminar embryonic disc is composed of",
+      "options": [
+        {
+          "label": "A",
+          "text": "ectoderm and endoderm"
+        },
+        {
+          "label": "B",
+          "text": "amnion and yolk sac"
+        },
+        {
+          "label": "C",
+          "text": "epiblast and trophoblast"
+        },
+        {
+          "label": "D",
+          "text": "epiblast and hypoblast"
+        },
+        {
+          "label": "E",
+          "text": "cytotrophoblast and syncytiotrophoblast"
+        }
+      ],
+      "correctAnswer": "D",
+      "why": "Before gastrulation the inner cell mass forms a bilaminar disc of epiblast (columnar, future embryo) and hypoblast (cuboidal); gastrulation then makes it trilaminar.",
+      "topicId": "e-disc",
+      "subtopic": "Germ disc",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dq-embryo-g-094",
+      "type": "single-best",
+      "stem": "Ingression of epiblast cells at the primitive streak (EMT) requires loss of adhesion through repression of",
+      "options": [
+        {
+          "label": "A",
+          "text": "integrin"
+        },
+        {
+          "label": "B",
+          "text": "fibronectin"
+        },
+        {
+          "label": "C",
+          "text": "laminin"
+        },
+        {
+          "label": "D",
+          "text": "N-CAM"
+        },
+        {
+          "label": "E",
+          "text": "E-cadherin"
+        }
+      ],
+      "correctAnswer": "E",
+      "why": "At the streak, Snail represses E-cadherin so epiblast cells lose epithelial adhesion and migrate inward as mesenchyme (epithelial-to-mesenchymal transition).",
+      "topicId": "e-disc",
+      "subtopic": "Germ disc",
+      "difficulty": "hard"
     }
   ]
 }
