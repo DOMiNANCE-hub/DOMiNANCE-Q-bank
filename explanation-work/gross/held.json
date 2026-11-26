@@ -1,0 +1,1608 @@
+[
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-g16-k90",
+    "stem": "The muscles cut were:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Gluteus medius"
+      },
+      {
+        "label": "B",
+        "text": "Gluteus minimus"
+      },
+      {
+        "label": "C",
+        "text": "Obturator internus and gemelli"
+      }
+    ],
+    "stored_key": {
+      "A": "T",
+      "B": "T",
+      "C": "F"
+    },
+    "status": "open",
+    "disputed_statements": [
+      "Working interpretation  Gluteus medius and minimus are hip abductors supplied by the superior gluteal nerve; their dysfunction produces a Trendelenburg sign. The sign alone cannot prove direct muscle transection."
+    ],
+    "proposed_interpretation": "Working interpretation  Gluteus medius and minimus are hip abductors supplied by the superior gluteal nerve; their dysfunction produces a Trendelenburg sign. The sign alone cannot prove direct muscle transection.",
+    "reason": "Working interpretation  Gluteus medius and minimus are hip abductors supplied by the superior gluteal nerve; their dysfunction produces a Trendelenburg sign. The sign alone cannot prove direct muscle transection.",
+    "sources": [
+      "Recovered preceding question  ana-g16-k89 describes a deep cut in the buttock followed by pelvic dropping during walking (positive Trendelenburg sign). Its key identifies the superior gluteal nerve."
+    ],
+    "ask_lecturer": "What to confirm  Locate the original 2016 question paper and check whether these two items share the same scenario. Does it establish that the muscles themselves were cut, or only that they were weakened or denervated?",
+    "original_register": {
+      "heading": "01  Gross anatomy — missing case context",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-g16-k90  |  Past question",
+        "Original stem  The muscles cut were:",
+        "A. Gluteus medius  [T]",
+        "B. Gluteus minimus  [T]",
+        "C. Obturator internus and gemelli  [F]",
+        "Recovered preceding question  ana-g16-k89 describes a deep cut in the buttock followed by pelvic dropping during walking (positive Trendelenburg sign). Its key identifies the superior gluteal nerve.",
+        "What to confirm  Locate the original 2016 question paper and check whether these two items share the same scenario. Does it establish that the muscles themselves were cut, or only that they were weakened or denervated?",
+        "Working interpretation  Gluteus medius and minimus are hip abductors supplied by the superior gluteal nerve; their dysfunction produces a Trendelenburg sign. The sign alone cannot prove direct muscle transection.",
+        "Confirmed answer / clarification:",
+        "____________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-g16-k90"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-ms15-39",
+    "stem": "About the pharynx:",
+    "options": [
+      {
+        "label": "A",
+        "text": "It lies in front of the upper six cervical vertebrae"
+      },
+      {
+        "label": "B",
+        "text": "It is separated from the vertebral bodies by the pretracheal fascia"
+      },
+      {
+        "label": "C",
+        "text": "It is incomplete in front, opening into the nose, mouth and larynx"
+      },
+      {
+        "label": "D",
+        "text": "Its lateral wall is attached to the ramus of the mandible"
+      },
+      {
+        "label": "E",
+        "text": "Its musculature includes buccinator"
+      }
+    ],
+    "stored_key": "C",
+    "status": "open",
+    "disputed_statements": [
+      "Disputed options  A and C appear anatomically correct, but this is stored as a single-best-answer question with C keyed."
+    ],
+    "proposed_interpretation": "Disputed options  A and C appear anatomically correct, but this is stored as a single-best-answer question with C keyed.",
+    "reason": "Reason for review  The pharynx extends from the skull base to the lower border of the cricoid cartilage, near C6. Its anterior wall also communicates with the nasal cavity, oral cavity and larynx.",
+    "sources": [
+      "Reference: StatPearls, Anatomy, Head and Neck, Pharynx, https://www.ncbi.nlm.nih.gov/sites/books/NBK544271/"
+    ],
+    "ask_lecturer": "Ask the lecturer  Was this originally a single-best-answer or multiple-response item? If single-best, is there an intended qualification that makes A incorrect? Please confirm the original wording and key.",
+    "original_register": {
+      "heading": "04  Gross anatomy — more than one correct option",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-ms15-39  |  Past question",
+        "Original stem  About the pharynx:",
+        "A. It lies in front of the upper six cervical vertebrae",
+        "B. It is separated from the vertebral bodies by the pretracheal fascia",
+        "C. It is incomplete in front, opening into the nose, mouth and larynx  [Stored answer]",
+        "D. Its lateral wall is attached to the ramus of the mandible",
+        "E. Its musculature includes buccinator",
+        "Disputed options  A and C appear anatomically correct, but this is stored as a single-best-answer question with C keyed.",
+        "Reason for review  The pharynx extends from the skull base to the lower border of the cricoid cartilage, near C6. Its anterior wall also communicates with the nasal cavity, oral cavity and larynx.",
+        "Ask the lecturer  Was this originally a single-best-answer or multiple-response item? If single-best, is there an intended qualification that makes A incorrect? Please confirm the original wording and key.",
+        "Reference: StatPearls, Anatomy, Head and Neck, Pharynx, https://www.ncbi.nlm.nih.gov/sites/books/NBK544271/",
+        "Confirmed answer / clarification:",
+        "____________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-ms15-39"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-gpq-23",
+    "stem": "About the pharynx:",
+    "options": [
+      {
+        "label": "A",
+        "text": "It is about 12–14 cm long"
+      },
+      {
+        "label": "B",
+        "text": "The nasopharynx ends below at the level of C1"
+      },
+      {
+        "label": "C",
+        "text": "The oropharynx ends at the upper border of the epiglottis"
+      },
+      {
+        "label": "D",
+        "text": "The laryngopharynx ends at C6"
+      },
+      {
+        "label": "E",
+        "text": "The hypopharynx is the part above the laryngeal inlet"
+      }
+    ],
+    "stored_key": {
+      "A": "T",
+      "B": "T",
+      "C": "T",
+      "D": "T",
+      "E": "F"
+    },
+    "status": "open",
+    "disputed_statements": [
+      "Reason for review  The lower boundary of the nasopharynx is the soft palate; its vertebral level is approximate and varies with position. Existing explanation calls the C1 statement false despite the true key."
+    ],
+    "proposed_interpretation": "Reason for review  The lower boundary of the nasopharynx is the soft palate; its vertebral level is approximate and varies with position. Existing explanation calls the C1 statement false despite the true key.",
+    "reason": "Reason for review  The lower boundary of the nasopharynx is the soft palate; its vertebral level is approximate and varies with position. Existing explanation calls the C1 statement false despite the true key.",
+    "sources": [
+      "Reference  Reference: standard regional anatomy description of the nasopharynx (soft palate as inferior boundary); confirm local teaching convention."
+    ],
+    "ask_lecturer": "Ask the lecturer  Is C1 the intended approximate level in the KNUST course, or should the statement be false because it specifies a fixed vertebral level?",
+    "original_register": {
+      "heading": "05  Gross anatomy — nasopharyngeal boundary",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-gpq-23  |  Past question",
+        "Original stem  About the pharynx:",
+        "A. It is about 12–14 cm long [T]",
+        "B. The nasopharynx ends below at the level of C1 [T]",
+        "C. The oropharynx ends at the upper border of the epiglottis [T]",
+        "D. The laryngopharynx ends at C6 [T]",
+        "E. The hypopharynx is the part above the laryngeal inlet [F]",
+        "Reason for review  The lower boundary of the nasopharynx is the soft palate; its vertebral level is approximate and varies with position. Existing explanation calls the C1 statement false despite the true key.",
+        "Ask the lecturer  Is C1 the intended approximate level in the KNUST course, or should the statement be false because it specifies a fixed vertebral level?",
+        "Reference  Reference: standard regional anatomy description of the nasopharynx (soft palate as inferior boundary); confirm local teaching convention.",
+        "Confirmed answer / clarification:",
+        "___________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-gpq-23"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-osa-b22",
+    "stem": "The pterygopalatine fossa connects with the middle cranial fossa through the:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Infraorbital canal"
+      },
+      {
+        "label": "B",
+        "text": "Pterygoid canal"
+      },
+      {
+        "label": "C",
+        "text": "Sphenopalatine foramen"
+      },
+      {
+        "label": "D",
+        "text": "Greater palatine canal"
+      },
+      {
+        "label": "E",
+        "text": "Foramen rotundum"
+      }
+    ],
+    "stored_key": "E",
+    "status": "open",
+    "disputed_statements": [
+      "Reason for review  Foramen rotundum is the direct route for V2. The pterygoid canal also communicates with the middle cranial fossa near the foramen lacerum in standard descriptions; the stem does not specify V2 or a direct communication."
+    ],
+    "proposed_interpretation": "Reason for review  Foramen rotundum is the direct route for V2. The pterygoid canal also communicates with the middle cranial fossa near the foramen lacerum in standard descriptions; the stem does not specify V2 or a direct communication.",
+    "reason": "Reason for review  Foramen rotundum is the direct route for V2. The pterygoid canal also communicates with the middle cranial fossa near the foramen lacerum in standard descriptions; the stem does not specify V2 or a direct communication.",
+    "sources": [
+      "Reference  Reference: StatPearls, Anatomy, Pterygopalatine Fossa, https://www.ncbi.nlm.nih.gov/books/NBK513269/"
+    ],
+    "ask_lecturer": "Ask the lecturer  Should both B and E be accepted, or is foramen rotundum the intended single best answer because the pterygoid canal opens at the foramen lacerum region?",
+    "original_register": {
+      "heading": "06  Gross anatomy — pterygopalatine fossa communication",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-osa-b22  |  Past question",
+        "Original stem  The pterygopalatine fossa connects with the middle cranial fossa through the:",
+        "A. Infraorbital canal",
+        "B. Pterygoid canal",
+        "C. Sphenopalatine foramen",
+        "D. Greater palatine canal",
+        "E. Foramen rotundum [Stored answer]",
+        "Reason for review  Foramen rotundum is the direct route for V2. The pterygoid canal also communicates with the middle cranial fossa near the foramen lacerum in standard descriptions; the stem does not specify V2 or a direct communication.",
+        "Ask the lecturer  Should both B and E be accepted, or is foramen rotundum the intended single best answer because the pterygoid canal opens at the foramen lacerum region?",
+        "Reference  Reference: StatPearls, Anatomy, Pterygopalatine Fossa, https://www.ncbi.nlm.nih.gov/books/NBK513269/",
+        "Confirmed answer / clarification:",
+        "___________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-osa-b22"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-ms15-32",
+    "stem": "Features of the diaphragmatic (inferior) surface of the heart:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Left atrial wall"
+      },
+      {
+        "label": "B",
+        "text": "The apex"
+      },
+      {
+        "label": "C",
+        "text": "The pulmonary arteries"
+      },
+      {
+        "label": "D",
+        "text": "The posterior interventricular branch of the right coronary artery"
+      },
+      {
+        "label": "E",
+        "text": "The ascending aorta"
+      }
+    ],
+    "stored_key": {
+      "A": "F",
+      "B": "F",
+      "C": "F",
+      "D": "T",
+      "E": "F"
+    },
+    "status": "open",
+    "disputed_statements": [
+      "Reason for review  The apex is conventionally described separately from the surfaces, but the diaphragmatic surface extends to the apex. The posterior interventricular artery is a recognised surface feature, and its origin varies with coronary dominance."
+    ],
+    "proposed_interpretation": "Reason for review  The apex is conventionally described separately from the surfaces, but the diaphragmatic surface extends to the apex. The posterior interventricular artery is a recognised surface feature, and its origin varies with coronary dominance.",
+    "reason": "Reason for review  The apex is conventionally described separately from the surfaces, but the diaphragmatic surface extends to the apex. The posterior interventricular artery is a recognised surface feature, and its origin varies with coronary dominance.",
+    "sources": [
+      "Reference  Reference: Gray’s Basic Anatomy, Thorax, heart surfaces; the diaphragmatic surface extends from the base to the apex."
+    ],
+    "ask_lecturer": "Ask the lecturer  In the course classification, should the apex be marked false because it is described separately, or accepted as a feature at the end of the diaphragmatic surface?",
+    "original_register": {
+      "heading": "07  Gross anatomy — diaphragmatic surface of heart",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-ms15-32  |  Past question",
+        "Original stem  Features of the diaphragmatic (inferior) surface of the heart:",
+        "A. Left atrial wall [F]",
+        "B. The apex [F]",
+        "C. The pulmonary arteries [F]",
+        "D. The posterior interventricular branch of the right coronary artery [T]",
+        "E. The ascending aorta [F]",
+        "Reason for review  The apex is conventionally described separately from the surfaces, but the diaphragmatic surface extends to the apex. The posterior interventricular artery is a recognised surface feature, and its origin varies with coronary dominance.",
+        "Ask the lecturer  In the course classification, should the apex be marked false because it is described separately, or accepted as a feature at the end of the diaphragmatic surface?",
+        "Reference  Reference: Gray’s Basic Anatomy, Thorax, heart surfaces; the diaphragmatic surface extends from the base to the apex.",
+        "Confirmed answer / clarification:",
+        "___________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-ms15-32"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-ms15-t51",
+    "stem": "Arteriovenous anastomoses are found in the:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Palmar skin of the digits"
+      },
+      {
+        "label": "B",
+        "text": "Lips"
+      },
+      {
+        "label": "C",
+        "text": "Nose"
+      },
+      {
+        "label": "D",
+        "text": "Axilla"
+      },
+      {
+        "label": "E",
+        "text": "Anorectal junction"
+      }
+    ],
+    "stored_key": {
+      "A": "T",
+      "B": "T",
+      "C": "T",
+      "D": "F",
+      "E": "T"
+    },
+    "status": "open",
+    "disputed_statements": [
+      "Reason for review  Gray’s Anatomy supports cutaneous shunts in the hands, lips and nose and describes alimentary mucosal shunts. The specific anorectal junction and exclusion of the axilla require the lecturer’s intended anatomical classification."
+    ],
+    "proposed_interpretation": "Reason for review  Gray’s Anatomy supports cutaneous shunts in the hands, lips and nose and describes alimentary mucosal shunts. The specific anorectal junction and exclusion of the axilla require the lecturer’s intended anatomical classification.",
+    "reason": "Reason for review  Gray’s Anatomy supports cutaneous shunts in the hands, lips and nose and describes alimentary mucosal shunts. The specific anorectal junction and exclusion of the axilla require the lecturer’s intended anatomical classification.",
+    "sources": [
+      "Reference  Gray’s Anatomy, skin: https://elsevier-elibrary.com/contents/fullcontent/58750/epubcontent_v2/OEBPS/B9780443066849500159.htm"
+    ],
+    "ask_lecturer": "Ask the lecturer  Can you confirm the specific anorectal junction and axilla statements, and whether this is a list of common sites rather than all possible sites?",
+    "original_register": {
+      "heading": "08  Gross anatomy — Arteriovenous anastomoses",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-ms15-t51  |  Past question",
+        "Original stem  Arteriovenous anastomoses are found in the:",
+        "A. Palmar skin of the digits [T]",
+        "B. Lips [T]",
+        "C. Nose [T]",
+        "D. Axilla [F]",
+        "E. Anorectal junction [T]",
+        "Reason for review  Gray’s Anatomy supports cutaneous shunts in the hands, lips and nose and describes alimentary mucosal shunts. The specific anorectal junction and exclusion of the axilla require the lecturer’s intended anatomical classification.",
+        "Ask the lecturer  Can you confirm the specific anorectal junction and axilla statements, and whether this is a list of common sites rather than all possible sites?",
+        "Reference  Gray’s Anatomy, skin: https://elsevier-elibrary.com/contents/fullcontent/58750/epubcontent_v2/OEBPS/B9780443066849500159.htm",
+        "Confirmed answer / clarification:",
+        "___________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-ms15-t51"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-g16-a55",
+    "stem": "True or false: The cardiac veins do not have names matching the arteries they accompany.",
+    "options": [
+      {
+        "label": "A",
+        "text": "True"
+      },
+      {
+        "label": "B",
+        "text": "False"
+      }
+    ],
+    "stored_key": "A",
+    "status": "open",
+    "disputed_statements": [
+      "Reason for review  Traditional names (great and middle cardiac veins) differ from their associated artery names. Modern descriptions also use anterior and posterior interventricular vein terminology, which can match the arterial names."
+    ],
+    "proposed_interpretation": "Reason for review  Traditional names (great and middle cardiac veins) differ from their associated artery names. Modern descriptions also use anterior and posterior interventricular vein terminology, which can match the arterial names.",
+    "reason": "Reason for review  Traditional names (great and middle cardiac veins) differ from their associated artery names. Modern descriptions also use anterior and posterior interventricular vein terminology, which can match the arterial names.",
+    "sources": [
+      "Reference  Coronary venous anatomy, JACC: https://www.jacc.org/doi/10.1016/j.jacc.2005.04.017"
+    ],
+    "ask_lecturer": "Ask the lecturer  Is the statement intended to refer only to the traditional major cardiac vein names, or should the absolute wording be marked false?",
+    "original_register": {
+      "heading": "09  Gross anatomy — Cardiac vein terminology",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-g16-a55  |  Past question",
+        "Original stem  True or false: The cardiac veins do not have names matching the arteries they accompany.",
+        "A. True [Stored answer]",
+        "B. False",
+        "Reason for review  Traditional names (great and middle cardiac veins) differ from their associated artery names. Modern descriptions also use anterior and posterior interventricular vein terminology, which can match the arterial names.",
+        "Ask the lecturer  Is the statement intended to refer only to the traditional major cardiac vein names, or should the absolute wording be marked false?",
+        "Reference  Coronary venous anatomy, JACC: https://www.jacc.org/doi/10.1016/j.jacc.2005.04.017",
+        "Confirmed answer / clarification:",
+        "___________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-g16-a55"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-ms15-96",
+    "stem": "Tissues WITHOUT lymphatic vessels include:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Glans penis"
+      },
+      {
+        "label": "B",
+        "text": "Lips"
+      },
+      {
+        "label": "C",
+        "text": "Endomysium"
+      }
+    ],
+    "stored_key": {
+      "A": "F",
+      "B": "F",
+      "C": "T"
+    },
+    "status": "open",
+    "disputed_statements": [
+      "Reason for review  The existing key excludes lymphatics from endomysium. Published anatomy descriptions explicitly identify lymphatic capillaries in the endomysium near the capillary bed."
+    ],
+    "proposed_interpretation": "Reason for review  The existing key excludes lymphatics from endomysium. Published anatomy descriptions explicitly identify lymphatic capillaries in the endomysium near the capillary bed.",
+    "reason": "Reason for review  The existing key excludes lymphatics from endomysium. Published anatomy descriptions explicitly identify lymphatic capillaries in the endomysium near the capillary bed.",
+    "sources": [
+      "Reference  StatPearls, Anatomy, Skeletal Muscle: https://www.ncbi.nlm.nih.gov/books/NBK537236/"
+    ],
+    "ask_lecturer": "Ask the lecturer  Should endomysium be marked false in this question, or is a particular histological convention intended?",
+    "original_register": {
+      "heading": "10  Gross anatomy — Lymphatics in skeletal muscle",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-ms15-96  |  Past question",
+        "Original stem  Tissues WITHOUT lymphatic vessels include:",
+        "A. Glans penis [F]",
+        "B. Lips [F]",
+        "C. Endomysium [T]",
+        "Reason for review  The existing key excludes lymphatics from endomysium. Published anatomy descriptions explicitly identify lymphatic capillaries in the endomysium near the capillary bed.",
+        "Ask the lecturer  Should endomysium be marked false in this question, or is a particular histological convention intended?",
+        "Reference  StatPearls, Anatomy, Skeletal Muscle: https://www.ncbi.nlm.nih.gov/books/NBK537236/",
+        "Confirmed answer / clarification:",
+        "___________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-ms15-96"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-ms15-99",
+    "stem": "Lymph from which organs may enter the thoracic duct directly without passing through nodes?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thyroid gland"
+      },
+      {
+        "label": "B",
+        "text": "Oesophagus"
+      },
+      {
+        "label": "C",
+        "text": "Liver"
+      }
+    ],
+    "stored_key": {
+      "A": "T",
+      "B": "T",
+      "C": "F"
+    },
+    "status": "open",
+    "disputed_statements": [
+      "Reason for review  Direct oesophageal drainage is documented. Thyroid direct drainage and the categorical exclusion of the liver need clarification because alternative organ lymphatic pathways exist."
+    ],
+    "proposed_interpretation": "Reason for review  Direct oesophageal drainage is documented. Thyroid direct drainage and the categorical exclusion of the liver need clarification because alternative organ lymphatic pathways exist.",
+    "reason": "Reason for review  Direct oesophageal drainage is documented. Thyroid direct drainage and the categorical exclusion of the liver need clarification because alternative organ lymphatic pathways exist.",
+    "sources": [
+      "Reference  Important Anatomy in Lymphatic Interventions: https://pmc.ncbi.nlm.nih.gov/articles/PMC12077938/"
+    ],
+    "ask_lecturer": "Ask the lecturer  Which direct thyroid and hepatic lymphatic routes are taught, and should the stored thyroid and liver statements be retained?",
+    "original_register": {
+      "heading": "11  Gross anatomy — Direct organ lymphatic drainage",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-ms15-99  |  Past question",
+        "Original stem  Lymph from which organs may enter the thoracic duct directly without passing through nodes?",
+        "A. Thyroid gland [T]",
+        "B. Oesophagus [T]",
+        "C. Liver [F]",
+        "Reason for review  Direct oesophageal drainage is documented. Thyroid direct drainage and the categorical exclusion of the liver need clarification because alternative organ lymphatic pathways exist.",
+        "Ask the lecturer  Which direct thyroid and hepatic lymphatic routes are taught, and should the stored thyroid and liver statements be retained?",
+        "Reference  Important Anatomy in Lymphatic Interventions: https://pmc.ncbi.nlm.nih.gov/articles/PMC12077938/",
+        "Confirmed answer / clarification:",
+        "___________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-ms15-99"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-ms15-56",
+    "stem": "About the superior thoracic aperture:",
+    "options": [
+      {
+        "label": "A",
+        "text": "It slopes downward and backward"
+      },
+      {
+        "label": "B",
+        "text": "Its posterior border is the body of T1"
+      },
+      {
+        "label": "C",
+        "text": "Its anterior border is the upper border of the manubrium"
+      },
+      {
+        "label": "D",
+        "text": "Its lateral borders are the outer borders of the first ribs"
+      },
+      {
+        "label": "E",
+        "text": "Its anterior border is higher than its posterior border"
+      }
+    ],
+    "stored_key": "C",
+    "status": "open",
+    "disputed_statements": [
+      "Reason for review  Both the body of T1 posteriorly and the superior border of the manubrium anteriorly are accepted anatomical boundaries. Two options appear correct."
+    ],
+    "proposed_interpretation": "Reason for review  Both the body of T1 posteriorly and the superior border of the manubrium anteriorly are accepted anatomical boundaries. Two options appear correct.",
+    "reason": "Reason for review  Both the body of T1 posteriorly and the superior border of the manubrium anteriorly are accepted anatomical boundaries. Two options appear correct.",
+    "sources": [
+      "Reference  Gray’s Anatomy, thoracic wall: https://elsevier-elibrary.com/contents/fullcontent/58750/epubcontent_v2/OEBPS/B9780443066849500615.htm"
+    ],
+    "ask_lecturer": "Ask the lecturer  Was this originally a multiple-response question, or should both the T1 and manubrial statements be accepted?",
+    "original_register": {
+      "heading": "12  Gross anatomy — Superior thoracic aperture",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-ms15-56  |  Past question",
+        "Original stem  About the superior thoracic aperture:",
+        "A. It slopes downward and backward",
+        "B. Its posterior border is the body of T1",
+        "C. Its anterior border is the upper border of the manubrium [Stored answer]",
+        "D. Its lateral borders are the outer borders of the first ribs",
+        "E. Its anterior border is higher than its posterior border",
+        "Reason for review  Both the body of T1 posteriorly and the superior border of the manubrium anteriorly are accepted anatomical boundaries. Two options appear correct.",
+        "Ask the lecturer  Was this originally a multiple-response question, or should both the T1 and manubrial statements be accepted?",
+        "Reference  Gray’s Anatomy, thoracic wall: https://elsevier-elibrary.com/contents/fullcontent/58750/epubcontent_v2/OEBPS/B9780443066849500615.htm",
+        "Confirmed answer / clarification:",
+        "___________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-ms15-56"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-ms15-58",
+    "stem": "All of the following about the mediastinum are correct EXCEPT:",
+    "options": [
+      {
+        "label": "A",
+        "text": "The inferior mediastinum is larger than the superior mediastinum"
+      },
+      {
+        "label": "B",
+        "text": "The superior mediastinum communicates with all the other subdivisions"
+      },
+      {
+        "label": "C",
+        "text": "The posterior mediastinum communicates with the middle mediastinum through the superior mediastinum"
+      },
+      {
+        "label": "D",
+        "text": "The superior mediastinum continues up into the neck"
+      },
+      {
+        "label": "E",
+        "text": "Tracheal position in the jugular notch is a guide to mediastinal shift"
+      }
+    ],
+    "stored_key": "C",
+    "status": "open",
+    "disputed_statements": [
+      "Reason for review  The explanation states that inferior subdivisions communicate only through the superior mediastinum, which appears to support the keyed exception rather than refute it. The meaning of communication needs clarification."
+    ],
+    "proposed_interpretation": "Reason for review  The explanation states that inferior subdivisions communicate only through the superior mediastinum, which appears to support the keyed exception rather than refute it. The meaning of communication needs clarification.",
+    "reason": "Reason for review  The explanation states that inferior subdivisions communicate only through the superior mediastinum, which appears to support the keyed exception rather than refute it. The meaning of communication needs clarification.",
+    "sources": [
+      "Reference  Cunningham’s Manual of Practical Anatomy, thoracic cavity: https://accessmedicine.mhmedical.com/content.aspx?bookId=3475&sectionId=286445224"
+    ],
+    "ask_lecturer": "Ask the lecturer  Which statement is intended to be false, and what type of communication between mediastinal subdivisions is meant?",
+    "original_register": {
+      "heading": "13  Gross anatomy — Mediastinal subdivisions",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-ms15-58  |  Past question",
+        "Original stem  All of the following about the mediastinum are correct EXCEPT:",
+        "A. The inferior mediastinum is larger than the superior mediastinum",
+        "B. The superior mediastinum communicates with all the other subdivisions",
+        "C. The posterior mediastinum communicates with the middle mediastinum through the superior mediastinum [Stored answer]",
+        "D. The superior mediastinum continues up into the neck",
+        "E. Tracheal position in the jugular notch is a guide to mediastinal shift",
+        "Reason for review  The explanation states that inferior subdivisions communicate only through the superior mediastinum, which appears to support the keyed exception rather than refute it. The meaning of communication needs clarification.",
+        "Ask the lecturer  Which statement is intended to be false, and what type of communication between mediastinal subdivisions is meant?",
+        "Reference  Cunningham’s Manual of Practical Anatomy, thoracic cavity: https://accessmedicine.mhmedical.com/content.aspx?bookId=3475&sectionId=286445224",
+        "Confirmed answer / clarification:",
+        "___________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-ms15-58"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-ms15-65",
+    "stem": "About the lungs, which is NOT correct?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The left and right lungs are similar but not identical"
+      },
+      {
+        "label": "B",
+        "text": "They are covered by visceral pleura except at the hilum"
+      },
+      {
+        "label": "C",
+        "text": "The region where bronchi and vessels enter is the root"
+      },
+      {
+        "label": "D",
+        "text": "The right lung is larger than the left"
+      },
+      {
+        "label": "E",
+        "text": "The main and lobar bronchi lie outside the lung"
+      }
+    ],
+    "stored_key": "E",
+    "status": "open",
+    "disputed_statements": [
+      "Reason for review  The region of the lung surface where structures enter is technically the hilum; the root is the collection of structures passing through it. In addition, the right superior lobar bronchus can branch before entering the lung. The keyed statement is too broad, and the root statement is also imprecise."
+    ],
+    "proposed_interpretation": "Reason for review  The region of the lung surface where structures enter is technically the hilum; the root is the collection of structures passing through it. In addition, the right superior lobar bronchus can branch before entering the lung. The keyed statement is too broad, and the root statement is also imprecise.",
+    "reason": "Reason for review  The region of the lung surface where structures enter is technically the hilum; the root is the collection of structures passing through it. In addition, the right superior lobar bronchus can branch before entering the lung. The keyed statement is too broad, and the root statement is also imprecise.",
+    "sources": [
+      "Reference  StatPearls, Anatomy, Thorax, Lungs: https://www.ncbi.nlm.nih.gov/books/NBK470197/"
+    ],
+    "ask_lecturer": "Ask the lecturer  Does the examiner accept root and hilum interchangeably here? Is the keyed exception the intended one despite the prehilar right superior lobar bronchus?",
+    "original_register": {
+      "heading": "14  Gross anatomy — Lung hilum and root",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-ms15-65  |  Past question",
+        "Original stem  About the lungs, which is NOT correct?",
+        "A. The left and right lungs are similar but not identical",
+        "B. They are covered by visceral pleura except at the hilum",
+        "C. The region where bronchi and vessels enter is the root",
+        "D. The right lung is larger than the left",
+        "E. The main and lobar bronchi lie outside the lung [Stored answer]",
+        "Reason for review  The region of the lung surface where structures enter is technically the hilum; the root is the collection of structures passing through it. In addition, the right superior lobar bronchus can branch before entering the lung. The keyed statement is too broad, and the root statement is also imprecise.",
+        "Ask the lecturer  Does the examiner accept root and hilum interchangeably here? Is the keyed exception the intended one despite the prehilar right superior lobar bronchus?",
+        "Reference  StatPearls, Anatomy, Thorax, Lungs: https://www.ncbi.nlm.nih.gov/books/NBK470197/",
+        "Confirmed answer / clarification:",
+        "___________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-ms15-65"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-ms15-69",
+    "stem": "About the fissures and lobes of the lungs:",
+    "options": [
+      {
+        "label": "A",
+        "text": "The oblique fissure is present in the right lung only"
+      },
+      {
+        "label": "B",
+        "text": "The horizontal fissure is present in both lungs"
+      },
+      {
+        "label": "C",
+        "text": "The superior lobe lies above and behind the oblique fissure"
+      },
+      {
+        "label": "D",
+        "text": "The middle lobe is present only in the right lung"
+      },
+      {
+        "label": "E",
+        "text": "The inferior lobe touches the anterior thoracic wall"
+      }
+    ],
+    "stored_key": "D",
+    "status": "open",
+    "disputed_statements": [
+      "Reason for review  The middle lobe is indeed right-sided. The oblique fissure reaches the inferior lung border near the sixth costochondral junction, so a small inferior-lobe projection near the anterior/lateral transition may be possible. The word touches is imprecise and does not account for pleural separation."
+    ],
+    "proposed_interpretation": "Reason for review  The middle lobe is indeed right-sided. The oblique fissure reaches the inferior lung border near the sixth costochondral junction, so a small inferior-lobe projection near the anterior/lateral transition may be possible. The word touches is imprecise and does not account for pleural separation.",
+    "reason": "Reason for review  The middle lobe is indeed right-sided. The oblique fissure reaches the inferior lung border near the sixth costochondral junction, so a small inferior-lobe projection near the anterior/lateral transition may be possible. The word touches is imprecise and does not account for pleural separation.",
+    "sources": [
+      "Reference  Gray’s Anatomy, lungs: https://elsevier-elibrary.com/contents/fullcontent/58750/epubcontent_v2/OEBPS/B9780443066849500652.htm"
+    ],
+    "ask_lecturer": "Ask the lecturer  Is the last option intended to mean the main anterior surface, or any contact/projection onto the anterior thoracic wall? Should it also be accepted?",
+    "original_register": {
+      "heading": "15  Gross anatomy — Lung lobes and anterior chest wall",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-ms15-69  |  Past question",
+        "Original stem  About the fissures and lobes of the lungs:",
+        "A. The oblique fissure is present in the right lung only",
+        "B. The horizontal fissure is present in both lungs",
+        "C. The superior lobe lies above and behind the oblique fissure",
+        "D. The middle lobe is present only in the right lung [Stored answer]",
+        "E. The inferior lobe touches the anterior thoracic wall",
+        "Reason for review  The middle lobe is indeed right-sided. The oblique fissure reaches the inferior lung border near the sixth costochondral junction, so a small inferior-lobe projection near the anterior/lateral transition may be possible. The word touches is imprecise and does not account for pleural separation.",
+        "Ask the lecturer  Is the last option intended to mean the main anterior surface, or any contact/projection onto the anterior thoracic wall? Should it also be accepted?",
+        "Reference  Gray’s Anatomy, lungs: https://elsevier-elibrary.com/contents/fullcontent/58750/epubcontent_v2/OEBPS/B9780443066849500652.htm",
+        "Confirmed answer / clarification:",
+        "___________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-ms15-69"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-ms15-25",
+    "stem": "Regarding the anal canal:",
+    "options": [
+      {
+        "label": "A",
+        "text": "It begins at the anorectal junction"
+      },
+      {
+        "label": "B",
+        "text": "The anal columns contain terminal branches of the superior rectal artery and vein"
+      },
+      {
+        "label": "C",
+        "text": "The lower ends of the anal columns are joined by the anal valves"
+      },
+      {
+        "label": "D",
+        "text": "The line formed by the anal valves is the pectinate line"
+      },
+      {
+        "label": "E",
+        "text": "Its smooth (circular) muscle forms the internal anal sphincter"
+      }
+    ],
+    "stored_key": {
+      "A": "T",
+      "B": "F",
+      "C": "T",
+      "D": "T",
+      "E": "T"
+    },
+    "status": "open",
+    "disputed_statements": [
+      "Reason for review  Moore’s Essential Clinical Anatomy explicitly identifies terminal branches of the superior rectal artery and vein within the anal columns. The existing note also supports this relationship, contradicting the false key."
+    ],
+    "proposed_interpretation": "Reason for review  Moore’s Essential Clinical Anatomy explicitly identifies terminal branches of the superior rectal artery and vein within the anal columns. The existing note also supports this relationship, contradicting the false key.",
+    "reason": "Reason for review  Moore’s Essential Clinical Anatomy explicitly identifies terminal branches of the superior rectal artery and vein within the anal columns. The existing note also supports this relationship, contradicting the false key.",
+    "sources": [
+      "Reference  Moore et al., Essential Clinical Anatomy, 4th ed., anal canal; supporting anatomy: https://www.ncbi.nlm.nih.gov/books/NBK554531/"
+    ],
+    "ask_lecturer": "Ask the lecturer  Should the statement about superior rectal vessels within the anal columns be marked true?",
+    "original_register": {
+      "heading": "16  Gross anatomy — Anal columns and superior rectal vessels",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-ms15-25  |  Past question",
+        "Original stem  Regarding the anal canal:",
+        "A. It begins at the anorectal junction [T]",
+        "B. The anal columns contain terminal branches of the superior rectal artery and vein [F]",
+        "C. The lower ends of the anal columns are joined by the anal valves [T]",
+        "D. The line formed by the anal valves is the pectinate line [T]",
+        "E. Its smooth (circular) muscle forms the internal anal sphincter [T]",
+        "Reason for review  Moore’s Essential Clinical Anatomy explicitly identifies terminal branches of the superior rectal artery and vein within the anal columns. The existing note also supports this relationship, contradicting the false key.",
+        "Ask the lecturer  Should the statement about superior rectal vessels within the anal columns be marked true?",
+        "Reference  Moore et al., Essential Clinical Anatomy, 4th ed., anal canal; supporting anatomy: https://www.ncbi.nlm.nih.gov/books/NBK554531/",
+        "Confirmed answer / clarification:",
+        "___________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-ms15-25"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-ms15-35",
+    "stem": "About the tongue:",
+    "options": [
+      {
+        "label": "A",
+        "text": "The sulcus terminalis divides the dorsum into anterior one-third and posterior two-thirds"
+      },
+      {
+        "label": "B",
+        "text": "The apex of the sulcus terminalis points backwards and is at the foramen caecum"
+      },
+      {
+        "label": "C",
+        "text": "Macroglossia is due to hypertrophy of the lingual muscles"
+      },
+      {
+        "label": "D",
+        "text": "The foramen caecum marks the origin of the parotid duct"
+      },
+      {
+        "label": "E",
+        "text": "Movement of the tip is restrained by the frenulum"
+      }
+    ],
+    "stored_key": "B",
+    "status": "open",
+    "disputed_statements": [
+      "Reason for review  The keyed sulcus terminalis statement is correct. The frenulum also restricts anterior tongue movement, especially when its attachment is unusually tight or anterior; the last option does not say that only the tip is restrained."
+    ],
+    "proposed_interpretation": "Reason for review  The keyed sulcus terminalis statement is correct. The frenulum also restricts anterior tongue movement, especially when its attachment is unusually tight or anterior; the last option does not say that only the tip is restrained.",
+    "reason": "Reason for review  The keyed sulcus terminalis statement is correct. The frenulum also restricts anterior tongue movement, especially when its attachment is unusually tight or anterior; the last option does not say that only the tip is restrained.",
+    "sources": [
+      "Reference  Mills et al., What is a tongue tie? Clinical Anatomy: https://pmc.ncbi.nlm.nih.gov/articles/PMC6850428/"
+    ],
+    "ask_lecturer": "Ask the lecturer  Is the frenulum statement also acceptable, or was the examiner intending a distinction between normal tongue movement and ankyloglossia?",
+    "original_register": {
+      "heading": "17  Gross anatomy — Tongue and lingual frenulum",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-ms15-35  |  Past question",
+        "Original stem  About the tongue:",
+        "A. The sulcus terminalis divides the dorsum into anterior one-third and posterior two-thirds",
+        "B. The apex of the sulcus terminalis points backwards and is at the foramen caecum [Stored answer]",
+        "C. Macroglossia is due to hypertrophy of the lingual muscles",
+        "D. The foramen caecum marks the origin of the parotid duct",
+        "E. Movement of the tip is restrained by the frenulum",
+        "Reason for review  The keyed sulcus terminalis statement is correct. The frenulum also restricts anterior tongue movement, especially when its attachment is unusually tight or anterior; the last option does not say that only the tip is restrained.",
+        "Ask the lecturer  Is the frenulum statement also acceptable, or was the examiner intending a distinction between normal tongue movement and ankyloglossia?",
+        "Reference  Mills et al., What is a tongue tie? Clinical Anatomy: https://pmc.ncbi.nlm.nih.gov/articles/PMC6850428/",
+        "Confirmed answer / clarification:",
+        "___________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-ms15-35"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-ms15-48",
+    "stem": "The surfaces of the liver include the following EXCEPT:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Anterior"
+      },
+      {
+        "label": "B",
+        "text": "Superior"
+      },
+      {
+        "label": "C",
+        "text": "Posterior"
+      },
+      {
+        "label": "D",
+        "text": "Postero-inferior (visceral)"
+      },
+      {
+        "label": "E",
+        "text": "Lateral"
+      }
+    ],
+    "stored_key": "E",
+    "status": "open",
+    "disputed_statements": [
+      "Reason for review  Modern surgical descriptions include a lateral aspect of the diaphragmatic surface, while older teaching may call it the right surface. The exclusion depends on the nomenclature expected."
+    ],
+    "proposed_interpretation": "Reason for review  Modern surgical descriptions include a lateral aspect of the diaphragmatic surface, while older teaching may call it the right surface. The exclusion depends on the nomenclature expected.",
+    "reason": "Reason for review  Modern surgical descriptions include a lateral aspect of the diaphragmatic surface, while older teaching may call it the right surface. The exclusion depends on the nomenclature expected.",
+    "sources": [
+      "Reference  Anatomy of the liver, Surgery (Oxford): https://www.sciencedirect.com/science/article/pii/S0263931926000402"
+    ],
+    "ask_lecturer": "Ask the lecturer  Does the course distinguish a right surface from a lateral surface, or is the lateral aspect accepted?",
+    "original_register": {
+      "heading": "18  Gross anatomy — Liver surface nomenclature",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-ms15-48  |  Past question",
+        "Original stem  The surfaces of the liver include the following EXCEPT:",
+        "A. Anterior",
+        "B. Superior",
+        "C. Posterior",
+        "D. Postero-inferior (visceral)",
+        "E. Lateral [Stored answer]",
+        "Reason for review  Modern surgical descriptions include a lateral aspect of the diaphragmatic surface, while older teaching may call it the right surface. The exclusion depends on the nomenclature expected.",
+        "Ask the lecturer  Does the course distinguish a right surface from a lateral surface, or is the lateral aspect accepted?",
+        "Reference  Anatomy of the liver, Surgery (Oxford): https://www.sciencedirect.com/science/article/pii/S0263931926000402",
+        "Confirmed answer / clarification:",
+        "___________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-ms15-48"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-ms15-51",
+    "stem": "The right subphrenic space is bounded above by the:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Falciform ligament"
+      },
+      {
+        "label": "B",
+        "text": "Superior (anterior) layer of the coronary ligament"
+      },
+      {
+        "label": "C",
+        "text": "Posterior layer of the coronary ligament"
+      },
+      {
+        "label": "D",
+        "text": "Left triangular ligament"
+      },
+      {
+        "label": "E",
+        "text": "Hepatogastric ligament"
+      }
+    ],
+    "stored_key": "B",
+    "status": "open",
+    "disputed_statements": [
+      "Reason for review  The diaphragm is the superior boundary of the right subphrenic space. The coronary ligament limits the space posteriorly; the question may refer to the posterior reflection rather than its roof."
+    ],
+    "proposed_interpretation": "Reason for review  The diaphragm is the superior boundary of the right subphrenic space. The coronary ligament limits the space posteriorly; the question may refer to the posterior reflection rather than its roof.",
+    "reason": "Reason for review  The diaphragm is the superior boundary of the right subphrenic space. The coronary ligament limits the space posteriorly; the question may refer to the posterior reflection rather than its roof.",
+    "sources": [
+      "Reference  IMAIOS, Right subphrenic space: https://www.imaios.cn/en/e-anatomy/anatomical-structures/right-subphrenic-space-1587361644"
+    ],
+    "ask_lecturer": "Ask the lecturer  Is the examiner referring to the posterior boundary instead of the superior boundary?",
+    "original_register": {
+      "heading": "19  Gross anatomy — Right subphrenic space",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-ms15-51  |  Past question",
+        "Original stem  The right subphrenic space is bounded above by the:",
+        "A. Falciform ligament",
+        "B. Superior (anterior) layer of the coronary ligament [Stored answer]",
+        "C. Posterior layer of the coronary ligament",
+        "D. Left triangular ligament",
+        "E. Hepatogastric ligament",
+        "Reason for review  The diaphragm is the superior boundary of the right subphrenic space. The coronary ligament limits the space posteriorly; the question may refer to the posterior reflection rather than its roof.",
+        "Ask the lecturer  Is the examiner referring to the posterior boundary instead of the superior boundary?",
+        "Reference  IMAIOS, Right subphrenic space: https://www.imaios.cn/en/e-anatomy/anatomical-structures/right-subphrenic-space-1587361644",
+        "Confirmed answer / clarification:",
+        "___________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-ms15-51"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-ms15-t71",
+    "stem": "Arteries that may be divided in partial gastrectomy with gastroduodenal anastomosis include the:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pancreaticoduodenal arteries"
+      },
+      {
+        "label": "B",
+        "text": "Left gastric"
+      },
+      {
+        "label": "C",
+        "text": "Right gastroepiploic"
+      },
+      {
+        "label": "D",
+        "text": "Short gastric"
+      },
+      {
+        "label": "E",
+        "text": "Gastroduodenal"
+      }
+    ],
+    "stored_key": {
+      "A": "F",
+      "B": "T",
+      "C": "T",
+      "D": "T",
+      "E": "F"
+    },
+    "status": "open",
+    "disputed_statements": [
+      "Reason for review  Gastroduodenal anastomosis usually follows distal resection. Short gastric vessels supply the remnant fundus and are typically preserved. Which vessels may be divided depends on the operation and extent of resection."
+    ],
+    "proposed_interpretation": "Reason for review  Gastroduodenal anastomosis usually follows distal resection. Short gastric vessels supply the remnant fundus and are typically preserved. Which vessels may be divided depends on the operation and extent of resection.",
+    "reason": "Reason for review  Gastroduodenal anastomosis usually follows distal resection. Short gastric vessels supply the remnant fundus and are typically preserved. Which vessels may be divided depends on the operation and extent of resection.",
+    "sources": [
+      "Reference  StatPearls, Gastric Resection for Malignancy: https://www.ncbi.nlm.nih.gov/books/NBK560760/"
+    ],
+    "ask_lecturer": "Ask the lecturer  Was a particular extent of resection intended? Should short gastric arteries be marked true for this operation?",
+    "original_register": {
+      "heading": "20  Gross anatomy — Partial gastrectomy and vessels",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-ms15-t71  |  Past question",
+        "Original stem  Arteries that may be divided in partial gastrectomy with gastroduodenal anastomosis include the:",
+        "A. Pancreaticoduodenal arteries [F]",
+        "B. Left gastric [T]",
+        "C. Right gastroepiploic [T]",
+        "D. Short gastric [T]",
+        "E. Gastroduodenal [F]",
+        "Reason for review  Gastroduodenal anastomosis usually follows distal resection. Short gastric vessels supply the remnant fundus and are typically preserved. Which vessels may be divided depends on the operation and extent of resection.",
+        "Ask the lecturer  Was a particular extent of resection intended? Should short gastric arteries be marked true for this operation?",
+        "Reference  StatPearls, Gastric Resection for Malignancy: https://www.ncbi.nlm.nih.gov/books/NBK560760/",
+        "Confirmed answer / clarification:",
+        "___________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-ms15-t71"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-ms15-t151",
+    "stem": "Possible anatomical sources of his vomited blood include:",
+    "options": [
+      {
+        "label": "A",
+        "text": "A strangulated hiatus hernia"
+      },
+      {
+        "label": "B",
+        "text": "A bleeding gastric ulcer"
+      },
+      {
+        "label": "C",
+        "text": "A duodenal ulcer eroding the gastroduodenal artery"
+      },
+      {
+        "label": "D",
+        "text": "Ruptured oesophageal varices from cirrhosis and portal hypertension"
+      },
+      {
+        "label": "E",
+        "text": "Bleeding gastritis"
+      }
+    ],
+    "stored_key": {
+      "A": "F",
+      "B": "T",
+      "C": "T",
+      "D": "T",
+      "E": "T"
+    },
+    "status": "open",
+    "disputed_statements": [
+      "Reason for review  The preceding stem describes a 56-year-old heavy drinker with severe epigastric pain and haematemesis. A strangulated hernia complicated by gastric volvulus and ischaemic mucosal injury can also cause bleeding, though uncommon. The word possible is broad."
+    ],
+    "proposed_interpretation": "Reason for review  The preceding stem describes a 56-year-old heavy drinker with severe epigastric pain and haematemesis. A strangulated hernia complicated by gastric volvulus and ischaemic mucosal injury can also cause bleeding, though uncommon. The word possible is broad.",
+    "reason": "Reason for review  The preceding stem describes a 56-year-old heavy drinker with severe epigastric pain and haematemesis. A strangulated hernia complicated by gastric volvulus and ischaemic mucosal injury can also cause bleeding, though uncommon. The word possible is broad.",
+    "sources": [
+      "Reference  Case report, An Acute Presentation of Chronic Gastric Volvulus: https://pmc.ncbi.nlm.nih.gov/articles/PMC7145163/"
+    ],
+    "ask_lecturer": "Ask the lecturer  Is the hernia excluded because it is uncommon in this case, or should it be accepted as a possible source?",
+    "original_register": {
+      "heading": "21  Gross anatomy — Haematemesis and strangulated hiatus hernia",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-ms15-t151  |  Past question",
+        "Original stem  Possible anatomical sources of his vomited blood include:",
+        "A. A strangulated hiatus hernia [F]",
+        "B. A bleeding gastric ulcer [T]",
+        "C. A duodenal ulcer eroding the gastroduodenal artery [T]",
+        "D. Ruptured oesophageal varices from cirrhosis and portal hypertension [T]",
+        "E. Bleeding gastritis [T]",
+        "Reason for review  The preceding stem describes a 56-year-old heavy drinker with severe epigastric pain and haematemesis. A strangulated hernia complicated by gastric volvulus and ischaemic mucosal injury can also cause bleeding, though uncommon. The word possible is broad.",
+        "Ask the lecturer  Is the hernia excluded because it is uncommon in this case, or should it be accepted as a possible source?",
+        "Reference  Case report, An Acute Presentation of Chronic Gastric Volvulus: https://pmc.ncbi.nlm.nih.gov/articles/PMC7145163/",
+        "Confirmed answer / clarification:",
+        "___________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-ms15-t151"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-gpq-129",
+    "stem": "About peritoneal compartments:",
+    "options": [
+      {
+        "label": "A",
+        "text": "The transverse mesocolon divides supracolic from infracolic compartments"
+      },
+      {
+        "label": "B",
+        "text": "The falciform ligament subdivides the supracolic compartment"
+      },
+      {
+        "label": "C",
+        "text": "The hepatorenal pouch is closed above by the coronary ligament (inferior layer)"
+      },
+      {
+        "label": "D",
+        "text": "On the left, the hepatorenal pouch communicates with the omental bursa"
+      },
+      {
+        "label": "E",
+        "text": "The left subhepatic space is the lesser sac"
+      }
+    ],
+    "stored_key": {
+      "A": "T",
+      "B": "T",
+      "C": "T",
+      "D": "T",
+      "E": "T"
+    },
+    "status": "open",
+    "disputed_statements": [
+      "Reason for review  Radiological anatomy distinguishes left subhepatic or perihepatic spaces from the lesser sac. Terminology differs among teaching texts, and treating these spaces as synonyms may be misleading."
+    ],
+    "proposed_interpretation": "Reason for review  Radiological anatomy distinguishes left subhepatic or perihepatic spaces from the lesser sac. Terminology differs among teaching texts, and treating these spaces as synonyms may be misleading.",
+    "reason": "Reason for review  Radiological anatomy distinguishes left subhepatic or perihepatic spaces from the lesser sac. Terminology differs among teaching texts, and treating these spaces as synonyms may be misleading.",
+    "sources": [
+      "Reference  Radiographics, The Peritoneum: Anatomy, Pathologic Findings, and Patterns of Disease Spread: https://pubs.rsna.org/doi/10.1148/rg.230216"
+    ],
+    "ask_lecturer": "Ask the lecturer  Which definition of the left subhepatic space is used in the course? Is the final statement intended to describe the left posterior subhepatic space specifically?",
+    "original_register": {
+      "heading": "22  Gross anatomy — Left subhepatic space versus lesser sac",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-gpq-129  |  Past question",
+        "Original stem  About peritoneal compartments:",
+        "A. The transverse mesocolon divides supracolic from infracolic compartments [T]",
+        "B. The falciform ligament subdivides the supracolic compartment [T]",
+        "C. The hepatorenal pouch is closed above by the coronary ligament (inferior layer) [T]",
+        "D. On the left, the hepatorenal pouch communicates with the omental bursa [T]",
+        "E. The left subhepatic space is the lesser sac [T]",
+        "Reason for review  Radiological anatomy distinguishes left subhepatic or perihepatic spaces from the lesser sac. Terminology differs among teaching texts, and treating these spaces as synonyms may be misleading.",
+        "Ask the lecturer  Which definition of the left subhepatic space is used in the course? Is the final statement intended to describe the left posterior subhepatic space specifically?",
+        "Reference  Radiographics, The Peritoneum: Anatomy, Pathologic Findings, and Patterns of Disease Spread: https://pubs.rsna.org/doi/10.1148/rg.230216",
+        "Confirmed answer / clarification:",
+        "___________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-gpq-129"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-gpq-140",
+    "stem": "About the jejunum and ileum:",
+    "options": [
+      {
+        "label": "A",
+        "text": "They are the mobile part of the small intestine"
+      },
+      {
+        "label": "B",
+        "text": "The jejunum is shorter than the ileum"
+      },
+      {
+        "label": "C",
+        "text": "The jejunum has a wider lumen than the ileum"
+      },
+      {
+        "label": "D",
+        "text": "The mesentery of the jejunum has more fat than that of the ileum"
+      },
+      {
+        "label": "E",
+        "text": "Aggregated lymphoid nodules (Peyer's patches) are in the ileum but not the jejunum"
+      }
+    ],
+    "stored_key": {
+      "A": "T",
+      "B": "T",
+      "C": "T",
+      "D": "F",
+      "E": "T"
+    },
+    "status": "open",
+    "disputed_statements": [
+      "Reason for review  Peyer patches are characteristic of ileum, but published human anatomy describes aggregates in the lower jejunum as well. The absolute exclusion is questionable."
+    ],
+    "proposed_interpretation": "Reason for review  Peyer patches are characteristic of ileum, but published human anatomy describes aggregates in the lower jejunum as well. The absolute exclusion is questionable.",
+    "reason": "Reason for review  Peyer patches are characteristic of ileum, but published human anatomy describes aggregates in the lower jejunum as well. The absolute exclusion is questionable.",
+    "sources": [
+      "Reference  StatPearls, Peyer Patches: https://www.ncbi.nlm.nih.gov/books/NBK557457/"
+    ],
+    "ask_lecturer": "Ask the lecturer  Should the last statement be false, or is it intended as a conventional distinguishing feature of ileum?",
+    "original_register": {
+      "heading": "23  Gross anatomy — Peyer patches in jejunum",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-gpq-140  |  Past question",
+        "Original stem  About the jejunum and ileum:",
+        "A. They are the mobile part of the small intestine [T]",
+        "B. The jejunum is shorter than the ileum [T]",
+        "C. The jejunum has a wider lumen than the ileum [T]",
+        "D. The mesentery of the jejunum has more fat than that of the ileum [F]",
+        "E. Aggregated lymphoid nodules (Peyer's patches) are in the ileum but not the jejunum [T]",
+        "Reason for review  Peyer patches are characteristic of ileum, but published human anatomy describes aggregates in the lower jejunum as well. The absolute exclusion is questionable.",
+        "Ask the lecturer  Should the last statement be false, or is it intended as a conventional distinguishing feature of ileum?",
+        "Reference  StatPearls, Peyer Patches: https://www.ncbi.nlm.nih.gov/books/NBK557457/",
+        "Confirmed answer / clarification:",
+        "___________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-gpq-140"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-gpq-145",
+    "stem": "The transverse mesocolon is attached across the:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Right kidney"
+      },
+      {
+        "label": "B",
+        "text": "Descending (2nd) part of the duodenum"
+      },
+      {
+        "label": "C",
+        "text": "Pancreas (anterior border)"
+      },
+      {
+        "label": "D",
+        "text": "Left kidney"
+      },
+      {
+        "label": "E",
+        "text": "Right suprarenal gland"
+      }
+    ],
+    "stored_key": {
+      "A": "T",
+      "B": "T",
+      "C": "T",
+      "D": "T",
+      "E": "F"
+    },
+    "status": "open",
+    "disputed_statements": [
+      "Reason for review  Gray’s describes the root crossing the second part of the duodenum, pancreatic head and neck and upper pole of the left kidney; a direct right kidney attachment is not specified. Distinguish the mesocolic root from the right colonic flexure and adjacent fascia."
+    ],
+    "proposed_interpretation": "Reason for review  Gray’s describes the root crossing the second part of the duodenum, pancreatic head and neck and upper pole of the left kidney; a direct right kidney attachment is not specified. Distinguish the mesocolic root from the right colonic flexure and adjacent fascia.",
+    "reason": "Reason for review  Gray’s describes the root crossing the second part of the duodenum, pancreatic head and neck and upper pole of the left kidney; a direct right kidney attachment is not specified. Distinguish the mesocolic root from the right colonic flexure and adjacent fascia.",
+    "sources": [
+      "Reference  Gray’s Anatomy, transverse mesocolon: https://elsevier-elibrary.com/contents/fullcontent/58750/epubcontent_v2/OEBPS/B9780443066849500767.htm"
+    ],
+    "ask_lecturer": "Ask the lecturer  Is the right kidney considered a direct root attachment in the course?",
+    "original_register": {
+      "heading": "24  Gross anatomy — Transverse mesocolon attachment",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-gpq-145  |  Past question",
+        "Original stem  The transverse mesocolon is attached across the:",
+        "A. Right kidney [T]",
+        "B. Descending (2nd) part of the duodenum [T]",
+        "C. Pancreas (anterior border) [T]",
+        "D. Left kidney [T]",
+        "E. Right suprarenal gland [F]",
+        "Reason for review  Gray’s describes the root crossing the second part of the duodenum, pancreatic head and neck and upper pole of the left kidney; a direct right kidney attachment is not specified. Distinguish the mesocolic root from the right colonic flexure and adjacent fascia.",
+        "Ask the lecturer  Is the right kidney considered a direct root attachment in the course?",
+        "Reference  Gray’s Anatomy, transverse mesocolon: https://elsevier-elibrary.com/contents/fullcontent/58750/epubcontent_v2/OEBPS/B9780443066849500767.htm",
+        "Confirmed answer / clarification:",
+        "___________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-gpq-145"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-gpq-147",
+    "stem": "About the liver:",
+    "options": [
+      {
+        "label": "A",
+        "text": "It weighs about 1.5 kg"
+      },
+      {
+        "label": "B",
+        "text": "About 1500 ml of blood flows through it per minute"
+      },
+      {
+        "label": "C",
+        "text": "It has five surfaces"
+      },
+      {
+        "label": "D",
+        "text": "It is completely covered by peritoneum"
+      },
+      {
+        "label": "E",
+        "text": "Its inferior border is notched by the ligamentum teres"
+      }
+    ],
+    "stored_key": {
+      "A": "T",
+      "B": "T",
+      "C": "F",
+      "D": "F",
+      "E": "T"
+    },
+    "status": "open",
+    "disputed_statements": [
+      "Reason for review  Gray’s describes five surfaces (superior, anterior, right, posterior and inferior). Other texts group them into diaphragmatic and visceral surfaces. The keyed false depends on nomenclature. Related to ana-ms15-48, already listed."
+    ],
+    "proposed_interpretation": "Reason for review  Gray’s describes five surfaces (superior, anterior, right, posterior and inferior). Other texts group them into diaphragmatic and visceral surfaces. The keyed false depends on nomenclature. Related to ana-ms15-48, already listed.",
+    "reason": "Reason for review  Gray’s describes five surfaces (superior, anterior, right, posterior and inferior). Other texts group them into diaphragmatic and visceral surfaces. The keyed false depends on nomenclature. Related to ana-ms15-48, already listed.",
+    "sources": [
+      "Reference  Gray’s Anatomy, liver: https://elsevier-elibrary.com/contents/fullcontent/58750/epubcontent_v2/OEBPS/B9780443066849500767.htm"
+    ],
+    "ask_lecturer": "Ask the lecturer  Which classification is expected for the exam?",
+    "original_register": {
+      "heading": "25  Gross anatomy — Number of liver surfaces",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-gpq-147  |  Past question",
+        "Original stem  About the liver:",
+        "A. It weighs about 1.5 kg [T]",
+        "B. About 1500 ml of blood flows through it per minute [T]",
+        "C. It has five surfaces [F]",
+        "D. It is completely covered by peritoneum [F]",
+        "E. Its inferior border is notched by the ligamentum teres [T]",
+        "Reason for review  Gray’s describes five surfaces (superior, anterior, right, posterior and inferior). Other texts group them into diaphragmatic and visceral surfaces. The keyed false depends on nomenclature. Related to ana-ms15-48, already listed.",
+        "Ask the lecturer  Which classification is expected for the exam?",
+        "Reference  Gray’s Anatomy, liver: https://elsevier-elibrary.com/contents/fullcontent/58750/epubcontent_v2/OEBPS/B9780443066849500767.htm",
+        "Confirmed answer / clarification:",
+        "___________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-gpq-147"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-gpq-150",
+    "stem": "About the biliary tract:",
+    "options": [
+      {
+        "label": "A",
+        "text": "There are three hepatic ducts"
+      },
+      {
+        "label": "B",
+        "text": "Surgically, the hepatic ducts are partly intrahepatic"
+      },
+      {
+        "label": "C",
+        "text": "The cystic duct joins the right side of the common hepatic duct to form the bile duct"
+      },
+      {
+        "label": "D",
+        "text": "The common bile duct begins at the porta hepatis"
+      },
+      {
+        "label": "E",
+        "text": "The bile duct lies in the free edge of the lesser omentum"
+      }
+    ],
+    "stored_key": {
+      "A": "F",
+      "B": "T",
+      "C": "T",
+      "D": "F",
+      "E": "T"
+    },
+    "status": "open",
+    "disputed_statements": [
+      "Reason for review  There are two main hepatic ducts exiting the liver, which unite to form the common hepatic duct. Counting the three named ducts is also defensible; the question does not specify whether the common duct is excluded."
+    ],
+    "proposed_interpretation": "Reason for review  There are two main hepatic ducts exiting the liver, which unite to form the common hepatic duct. Counting the three named ducts is also defensible; the question does not specify whether the common duct is excluded.",
+    "reason": "Reason for review  There are two main hepatic ducts exiting the liver, which unite to form the common hepatic duct. Counting the three named ducts is also defensible; the question does not specify whether the common duct is excluded.",
+    "sources": [
+      "Reference  StatPearls, Anatomy, Abdomen and Pelvis: Biliary Ducts: https://www.ncbi.nlm.nih.gov/books/NBK459246/"
+    ],
+    "ask_lecturer": "Ask the lecturer  Does three hepatic ducts include the common hepatic duct in the course terminology?",
+    "original_register": {
+      "heading": "26  Gross anatomy — Number of hepatic ducts",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-gpq-150  |  Past question",
+        "Original stem  About the biliary tract:",
+        "A. There are three hepatic ducts [F]",
+        "B. Surgically, the hepatic ducts are partly intrahepatic [T]",
+        "C. The cystic duct joins the right side of the common hepatic duct to form the bile duct [T]",
+        "D. The common bile duct begins at the porta hepatis [F]",
+        "E. The bile duct lies in the free edge of the lesser omentum [T]",
+        "Reason for review  There are two main hepatic ducts exiting the liver, which unite to form the common hepatic duct. Counting the three named ducts is also defensible; the question does not specify whether the common duct is excluded.",
+        "Ask the lecturer  Does three hepatic ducts include the common hepatic duct in the course terminology?",
+        "Reference  StatPearls, Anatomy, Abdomen and Pelvis: Biliary Ducts: https://www.ncbi.nlm.nih.gov/books/NBK459246/",
+        "Confirmed answer / clarification:",
+        "___________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-gpq-150"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-gpq-156",
+    "stem": "A specimen is identified as the pancreas because:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Its shape is like a reversed \"J\" lying sideways (hockey stick)"
+      },
+      {
+        "label": "B",
+        "text": "It is firm and finely lobulated"
+      },
+      {
+        "label": "C",
+        "text": "It lies intraperitoneally in the floor of the lesser sac"
+      },
+      {
+        "label": "D",
+        "text": "It lies on the IVC and both renal veins"
+      },
+      {
+        "label": "E",
+        "text": "Its posterior surface (head) relates to the IVC"
+      }
+    ],
+    "stored_key": {
+      "A": "T",
+      "B": "T",
+      "C": "F",
+      "D": "F",
+      "E": "T"
+    },
+    "status": "open",
+    "disputed_statements": [
+      "Reason for review  Published descriptions relate the head to the IVC, right renal vessels and left renal vein. The fourth statement is keyed false, but these relations support it. The existing key point even contradicts the stored key."
+    ],
+    "proposed_interpretation": "Reason for review  Published descriptions relate the head to the IVC, right renal vessels and left renal vein. The fourth statement is keyed false, but these relations support it. The existing key point even contradicts the stored key.",
+    "reason": "Reason for review  Published descriptions relate the head to the IVC, right renal vessels and left renal vein. The fourth statement is keyed false, but these relations support it. The existing key point even contradicts the stored key.",
+    "sources": [
+      "Reference  Anatomy of the pancreas and spleen: https://doi.org/10.1016/j.mpsur.2019.04.008; https://pmc.ncbi.nlm.nih.gov/articles/PMC11591934/"
+    ],
+    "ask_lecturer": "Ask the lecturer  Should the fourth statement be true, or does the lecturer distinguish a direct relation from the IVC confluence?",
+    "original_register": {
+      "heading": "27  Gross anatomy — Pancreas posterior vascular relations",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-gpq-156  |  Past question",
+        "Original stem  A specimen is identified as the pancreas because:",
+        "A. Its shape is like a reversed \"J\" lying sideways (hockey stick) [T]",
+        "B. It is firm and finely lobulated [T]",
+        "C. It lies intraperitoneally in the floor of the lesser sac [F]",
+        "D. It lies on the IVC and both renal veins [F]",
+        "E. Its posterior surface (head) relates to the IVC [T]",
+        "Reason for review  Published descriptions relate the head to the IVC, right renal vessels and left renal vein. The fourth statement is keyed false, but these relations support it. The existing key point even contradicts the stored key.",
+        "Ask the lecturer  Should the fourth statement be true, or does the lecturer distinguish a direct relation from the IVC confluence?",
+        "Reference  Anatomy of the pancreas and spleen: https://doi.org/10.1016/j.mpsur.2019.04.008; https://pmc.ncbi.nlm.nih.gov/articles/PMC11591934/",
+        "Confirmed answer / clarification:",
+        "___________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-gpq-156"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-osa-98",
+    "stem": "All of the following about the liver are true EXCEPT:",
+    "options": [
+      {
+        "label": "A",
+        "text": "The IVC groove lies on the right of the caudate lobe"
+      },
+      {
+        "label": "B",
+        "text": "The left triangular ligament lies in front of the abdominal oesophagus"
+      },
+      {
+        "label": "C",
+        "text": "The ligamentum venosum is attached to the left branch of the portal vein at the porta"
+      },
+      {
+        "label": "D",
+        "text": "The lesser omentum attaches the lesser curvature to the visceral surface of the liver"
+      },
+      {
+        "label": "E",
+        "text": "Attachment of the hepatic veins to the IVC is an important support of the liver"
+      }
+    ],
+    "stored_key": "A",
+    "status": "open",
+    "disputed_statements": [
+      "Reason for review  The IVC groove is indeed to the right of the caudate lobe in standard visceral-surface descriptions. The existing explanation reverses this relation. The intended exception is uncertain."
+    ],
+    "proposed_interpretation": "Reason for review  The IVC groove is indeed to the right of the caudate lobe in standard visceral-surface descriptions. The existing explanation reverses this relation. The intended exception is uncertain.",
+    "reason": "Reason for review  The IVC groove is indeed to the right of the caudate lobe in standard visceral-surface descriptions. The existing explanation reverses this relation. The intended exception is uncertain.",
+    "sources": [
+      "Reference  Radiology for surgeons: liver anatomy: https://pmc.ncbi.nlm.nih.gov/articles/PMC12916557/"
+    ],
+    "ask_lecturer": "Ask the lecturer  Which statement was the original examiner’s exception? Please confirm against the original paper.",
+    "original_register": {
+      "heading": "28  Gross anatomy — Caudate lobe and IVC groove",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-osa-98  |  Past question",
+        "Original stem  All of the following about the liver are true EXCEPT:",
+        "A. The IVC groove lies on the right of the caudate lobe [Stored answer]",
+        "B. The left triangular ligament lies in front of the abdominal oesophagus",
+        "C. The ligamentum venosum is attached to the left branch of the portal vein at the porta",
+        "D. The lesser omentum attaches the lesser curvature to the visceral surface of the liver",
+        "E. Attachment of the hepatic veins to the IVC is an important support of the liver",
+        "Reason for review  The IVC groove is indeed to the right of the caudate lobe in standard visceral-surface descriptions. The existing explanation reverses this relation. The intended exception is uncertain.",
+        "Ask the lecturer  Which statement was the original examiner’s exception? Please confirm against the original paper.",
+        "Reference  Radiology for surgeons: liver anatomy: https://pmc.ncbi.nlm.nih.gov/articles/PMC12916557/",
+        "Confirmed answer / clarification:",
+        "___________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-osa-98"
+    }
+  },
+  {
+    "file": "data/anatomy/gross-past.json",
+    "id": "ana-gpq-164",
+    "stem": "About the ureters:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Both have identical posterior relations"
+      },
+      {
+        "label": "B",
+        "text": "The right ureter is slightly shorter than the left"
+      },
+      {
+        "label": "C",
+        "text": "Each is about 25 cm long"
+      },
+      {
+        "label": "D",
+        "text": "Each has three anatomical constrictions"
+      }
+    ],
+    "stored_key": {
+      "A": "F",
+      "B": "T",
+      "C": "T",
+      "D": "T"
+    },
+    "status": "open",
+    "disputed_statements": [
+      "Reason for review  Standard descriptions of the abdominal ureters often give the same posterior relations bilaterally (psoas major and the genitofemoral nerve), while their anterior relations differ. The exact crossing at the pelvic brim varies. The stored false key may depend on whether the entire abdominal and pelvic course or the usual abdominal relations are meant."
+    ],
+    "proposed_interpretation": "Reason for review  Standard descriptions of the abdominal ureters often give the same posterior relations bilaterally (psoas major and the genitofemoral nerve), while their anterior relations differ. The exact crossing at the pelvic brim varies. The stored false key may depend on whether the entire abdominal and pelvic course or the usual abdominal relations are meant.",
+    "reason": "Reason for review  Standard descriptions of the abdominal ureters often give the same posterior relations bilaterally (psoas major and the genitofemoral nerve), while their anterior relations differ. The exact crossing at the pelvic brim varies. The stored false key may depend on whether the entire abdominal and pelvic course or the usual abdominal relations are meant.",
+    "sources": [
+      "Reference  Menoufia University, Anatomy of the urinary system: https://mu.menofia.edu.eg/PrtlFiles/Faculties/med/Portal/Files/Urinary-system-module-Anatomy.pdf"
+    ],
+    "ask_lecturer": "Ask the lecturer  Should the first statement be false because the complete pelvic relations differ, or true under the usual description of abdominal ureter relations? Please identify the intended anatomical distinction.",
+    "original_register": {
+      "heading": "29  Gross anatomy — ureter relations",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  ana-gpq-164  |  Past question",
+        "Original stem  About the ureters:",
+        "A. Both have identical posterior relations [F]",
+        "B. The right ureter is slightly shorter than the left [T]",
+        "C. Each is about 25 cm long [T]",
+        "D. Each has three anatomical constrictions [T]",
+        "Reason for review  Standard descriptions of the abdominal ureters often give the same posterior relations bilaterally (psoas major and the genitofemoral nerve), while their anterior relations differ. The exact crossing at the pelvic brim varies. The stored false key may depend on whether the entire abdominal and pelvic course or the usual abdominal relations are meant.",
+        "Ask the lecturer  Should the first statement be false because the complete pelvic relations differ, or true under the usual description of abdominal ureter relations? Please identify the intended anatomical distinction.",
+        "Reference  Menoufia University, Anatomy of the urinary system: https://mu.menofia.edu.eg/PrtlFiles/Faculties/med/Portal/Files/Urinary-system-module-Anatomy.pdf",
+        "Confirmed answer / clarification:",
+        "___________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "ana-gpq-164"
+    }
+  }
+]

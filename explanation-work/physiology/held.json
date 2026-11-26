@@ -1,0 +1,209 @@
+[
+  {
+    "file": "data/past-questions.json",
+    "id": "set-01-A-003",
+    "stem": "In the heart",
+    "options": [
+      {
+        "label": "A",
+        "text": "The left atrial wall is about three times thicker than the right atrial wall."
+      },
+      {
+        "label": "B",
+        "text": "Systolic contraction normally begins in the left atrium."
+      },
+      {
+        "label": "C",
+        "text": "Excitation spreads directly from atrial muscle cells to ventricular muscle cells."
+      },
+      {
+        "label": "D",
+        "text": "Atrial and ventricular muscle contracts simultaneously in systole."
+      },
+      {
+        "label": "E",
+        "text": "The contracting ventricles shorten from apex to base."
+      }
+    ],
+    "stored_key": {
+      "A": "F",
+      "B": "F",
+      "C": "F",
+      "D": "F",
+      "E": "T"
+    },
+    "disputed_statements": [
+      "E"
+    ],
+    "reason": "The statement may describe shortening along the long axis or imply that the apex moves towards the base. Those readings have different implications. The existing explanation describes the basal valve plane moving towards the apex.",
+    "proposed_interpretation": "The apex-to-base distance shortens, principally because the valve plane moves towards the relatively stationary apex.",
+    "ask_lecturer": "Does the examiner intend long-axis shortening, or a direction of motion or activation?",
+    "sources": [
+      "MRI tissue-tagging measurements of systolic long-axis shortening, https://pubmed.ncbi.nlm.nih.gov/1860217/"
+    ],
+    "status": "open"
+  },
+  {
+    "file": "data/past-questions.json",
+    "id": "set-01-A-010",
+    "stem": "In the estimation of cardiac output using the Fick principle",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pulmonary blood flow is measured."
+      },
+      {
+        "label": "B",
+        "text": "The PO2 of arterial and mixed venous blood are measured."
+      },
+      {
+        "label": "C",
+        "text": "Oxygen uptake is estimated from alveolar PO2 measurements."
+      },
+      {
+        "label": "D",
+        "text": "Pulmonary arterial blood is sampled to measure the oxygen in mixed venous blood."
+      },
+      {
+        "label": "E",
+        "text": "Pulmonary venous blood is sampled to measure the oxygen in arterial blood."
+      }
+    ],
+    "stored_key": {
+      "A": "T",
+      "B": "F",
+      "C": "F",
+      "D": "T",
+      "E": "T"
+    },
+    "disputed_statements": [
+      "E"
+    ],
+    "reason": "The item keys pulmonary venous sampling as true. Pulmonary venous oxygen content belongs in a pulmonary-flow balance, but routine clinical direct Fick cardiac output uses systemic arterial and mixed venous pulmonary arterial samples.",
+    "proposed_interpretation": "If the question means routine clinical sampling, the pulmonary venous sampling assertion is false. It can describe a theoretical pulmonary oxygen balance.",
+    "ask_lecturer": "Is this a theoretical pulmonary Fick balance or the usual clinical sampling protocol?",
+    "sources": [
+      "American Physiological Society, Fick method and blood sampling, https://journals.physiology.org/doi/full/10.1152/japplphysiol.01074.2001",
+      "Calculating FICK Cardiac Output and Input, https://www.ncbi.nlm.nih.gov/books/NBK606091/"
+    ],
+    "status": "open"
+  },
+  {
+    "file": "data/past-questions.json",
+    "id": "set-01-B-002",
+    "stem": "What principle enables the use of the sphygmomanometer and the stethoscope to measure blood pressure in clinical practice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Fluid flow in large tubes is laminar and silent but narrowing causes turbulent noisy flow"
+      },
+      {
+        "label": "B",
+        "text": "The blood flow through arteries hit the walls and generate sound at different frequencies"
+      },
+      {
+        "label": "C",
+        "text": "The narrowing of the blood vessels by the balloon cuff accentuates the sounds already present"
+      },
+      {
+        "label": "D",
+        "text": "The thick arterial walls vibrate as they get partially occluded"
+      },
+      {
+        "label": "E",
+        "text": "There is no simple explanation to the use of the equipment"
+      }
+    ],
+    "stored_key": "A",
+    "disputed_statements": [
+      "A",
+      "D"
+    ],
+    "reason": "The key attributes the audible signal to turbulence, but in vivo ultrafast imaging shows pulse-induced arterial and tissue motion producing the recorded vibration. An alternative specifically mentions arterial wall vibration.",
+    "proposed_interpretation": "The keyed option reflects a traditional teaching explanation. Arterial wall motion offers a defensible competing answer under current experimental evidence.",
+    "ask_lecturer": "Should the traditional fluid-flow explanation remain the intended teaching answer despite the wall-vibration alternative?",
+    "sources": [
+      "Baranger et al., The fundamental mechanisms of the Korotkoff sounds generation, https://pmc.ncbi.nlm.nih.gov/articles/PMC10550233/"
+    ],
+    "status": "open"
+  },
+  {
+    "file": "data/past-questions.json",
+    "id": "set-01-B-008",
+    "stem": "These factors oppose fluid filtration out of the circulation EXCEPT",
+    "options": [
+      {
+        "label": "A",
+        "text": "Plasma oncotic pressure"
+      },
+      {
+        "label": "B",
+        "text": "Tissue fluid pressure"
+      },
+      {
+        "label": "C",
+        "text": "Capillary hydrostatic pressure"
+      },
+      {
+        "label": "D",
+        "text": "Lymphatic fluid pressure"
+      },
+      {
+        "label": "E",
+        "text": "All of the above"
+      }
+    ],
+    "stored_key": "C",
+    "disputed_statements": [
+      "C",
+      "D"
+    ],
+    "reason": "The keyed capillary hydrostatic pressure drives filtration. Intralymphatic pressure is not an opposing transcapillary Starling force either, so two options could satisfy the exception.",
+    "proposed_interpretation": "Only positive interstitial hydrostatic pressure directly opposes outward hydraulic flow from the tissue side. Lymphatic fluid pressure is a different quantity.",
+    "ask_lecturer": "Was lymphatic fluid pressure intended to mean interstitial hydrostatic pressure? Which single exception does the course accept?",
+    "sources": [
+      "Klabunde, Hydrostatic and Oncotic Pressures, https://cvphysiology.com/microcirculation/m012"
+    ],
+    "status": "open"
+  },
+  {
+    "file": "data/past-questions.json",
+    "id": "set-01-B-013",
+    "stem": "Individual capillaries have narrow lumens but the capillary beds offer the least resistance to blood flow because",
+    "options": [
+      {
+        "label": "A",
+        "text": "capillaries lack valves"
+      },
+      {
+        "label": "B",
+        "text": "several capillaries in parallel offer a large cross sectional area to blood flow"
+      },
+      {
+        "label": "C",
+        "text": "several capillaries in series offer adequate length for blood flow"
+      },
+      {
+        "label": "D",
+        "text": "all precapillary sphincters are either opened or closed"
+      },
+      {
+        "label": "E",
+        "text": "there is too little blood going through the capillaries at any one time"
+      }
+    ],
+    "stored_key": "B",
+    "disputed_statements": [
+      "stem",
+      "B"
+    ],
+    "reason": "The parallel arrangement explains why the bed has less resistance than individual capillaries or the arteriolar segment. The stem claims the capillary bed has the least resistance of all vascular segments, which the pressure distribution does not support.",
+    "proposed_interpretation": "The choice concerning multiple parallel pathways answers the intended comparison, but the absolute superlative in the stem is misleading.",
+    "ask_lecturer": "Should the comparison be with an individual capillary or the arteriolar bed, rather than every segment of the vasculature?",
+    "sources": [
+      "Klabunde, Haemodynamics, https://cvphysiology.com/hemodynamics/h001",
+      "Klabunde, Capillary hydrostatic pressure, https://cvphysiology.com/microcirculation/m012"
+    ],
+    "status": "open"
+  }
+]

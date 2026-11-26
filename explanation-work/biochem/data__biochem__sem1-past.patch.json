@@ -1,0 +1,110 @@
+{
+  "bio-001": {
+    "why": "Statins occupy the substrate-binding site of 3-hydroxy-3-methylglutaryl-CoA (HMG-CoA) reductase. By competing with HMG-CoA, they reduce mevalonate production and slow cholesterol synthesis in the liver.",
+    "notes": {
+      "B": "AMP-activated protein kinase can phosphorylate and inhibit the reductase when cellular energy is scarce.",
+      "C": "An upstream kinase activates AMP-activated protein kinase, placing it a step removed from the enzyme that binds statins.",
+      "D": "The phosphatase removes an inhibitory phosphate from the reductase, restoring its activity independently of statin binding.",
+      "E": "Protein kinase A transmits signals from cyclic AMP, whereas statins bind the enzyme that produces mevalonate."
+    }
+  },
+  "bio-002": {
+    "why": "When cellular energy is scarce, AMP-activated protein kinase phosphorylates HMG-CoA reductase. This reduces the production of mevalonate and slows the energy-consuming synthesis of cholesterol.",
+    "notes": {
+      "A": "The reductase converts HMG-CoA into mevalonate and receives its inhibitory phosphate from a separate kinase.",
+      "C": "An upstream kinase activates AMP-activated protein kinase, which then directly phosphorylates the reductase.",
+      "D": "The phosphatase removes the inhibitory phosphate from HMG-CoA reductase, allowing cholesterol synthesis to resume.",
+      "E": "Protein kinase A responds to cyclic AMP, whereas the enzyme that directly senses energy status and inhibits the reductase is AMP-activated protein kinase."
+    }
+  },
+  "bio-003": {
+    "why": "An upstream kinase phosphorylates a threonine in the catalytic subunit of AMP-activated protein kinase. This phosphorylation allows the energy sensor to inhibit biosynthetic pathways when energy is scarce.",
+    "notes": {
+      "A": "HMG-CoA reductase makes mevalonate and is a downstream target of the activated energy sensor.",
+      "B": "AMP-activated protein kinase is the enzyme receiving the activating phosphate in this signalling step.",
+      "D": "The reductase phosphatase restores the activity of the cholesterol-synthesis enzyme by removing its inhibitory phosphate.",
+      "E": "Protein kinase A responds to cyclic AMP, whereas a distinct upstream kinase phosphorylates the activation loop of the energy sensor."
+    }
+  },
+  "bio-004": {
+    "why": "Cyclic AMP binds the regulatory subunits of protein kinase A and releases its active catalytic subunits. This is how the hormonal signal is relayed to downstream enzymes regulating cholesterol synthesis.",
+    "notes": {
+      "A": "HMG-CoA reductase makes mevalonate and is the enzyme whose activity changes downstream of the hormonal signal.",
+      "B": "AMP-activated protein kinase can phosphorylate the reductase directly, but its regulatory nucleotide is AMP rather than cyclic AMP.",
+      "C": "An upstream kinase phosphorylates AMP-activated protein kinase and does not serve as the receptor for cyclic AMP in this pathway.",
+      "D": "The reductase phosphatase activates the reductase by removing phosphate and acts downstream of the cyclic AMP signal."
+    }
+  },
+  "bio-005": {
+    "why": "Acetyl-CoA carboxylase uses ATP, bicarbonate and the cofactor biotin to convert acetyl-CoA to malonyl-CoA. This commits carbon to fatty acid synthesis and controls the supply of two-carbon units for elongation.",
+    "notes": {
+      "A": "Condensation takes place on fatty acid synthase once the carboxylase has supplied the malonyl group.",
+      "B": "Acetate can be activated to acetyl-CoA, but this also supplies pathways other than fatty acid synthesis.",
+      "C": "The carboxylase adds bicarbonate-derived carbon to acetyl-CoA, so free malonate is not its starting material.",
+      "E": "The first reduction on fatty acid synthase consumes NADPH after the chain has already undergone condensation."
+    }
+  },
+  "bio-006": {
+    "why": "After a carbohydrate-rich meal, glucose can supply acetyl-CoA for fatty acid synthesis and glycerol 3-phosphate for the backbone. Insulin favours esterification of the fatty acids into triacylglycerol for storage.",
+    "notes": {
+      "A": "Plants also synthesise triacylglycerols, which are an important energy reserve in many seeds.",
+      "C": "Low carbohydrate availability generally favours oxidation of fatty acids and reduces the use of carbohydrate carbon for new fatty acids.",
+      "D": "Animals synthesise triacylglycerols in the fed state, including in the liver and adipose tissue.",
+      "E": "A sustained carbohydrate surplus supplies both carbon and an insulin signal for fat storage in humans."
+    }
+  },
+  "bio-007": {
+    "why": "Insulin favours storage after a carbohydrate-rich meal. Glucose supplies glycerol 3-phosphate for the triacylglycerol backbone and can supply acetyl-CoA for synthesis of the attached fatty acids.",
+    "notes": {
+      "A": "Fat is stored with little water and yields more energy per gram than hydrated glycogen.",
+      "C": "Insulin promotes fatty acid synthesis and storage after feeding, while low insulin favours release of fatty acids from adipose tissue.",
+      "D": "Mammalian liver can convert surplus glucose into fatty acids and esterify these to form triacylglycerols.",
+      "E": "Phosphatidate loses its phosphate to form diacylglycerol, which receives a third fatty acyl group."
+    }
+  },
+  "bio-008": {
+    "why": "In the cytidine diphosphate (CDP) routes, one partner is activated and the other supplies a free hydroxyl group. Linking two CDP-activated partners is unnecessary for forming the phosphodiester bond.",
+    "notes": {
+      "A": "CDP-choline transfers its phosphocholine group to diacylglycerol during the formation of phosphatidylcholine.",
+      "B": "Free inositol reacts with activated CDP-diacylglycerol in the pathway that forms phosphatidylinositol.",
+      "D": "Mammalian cells can exchange serine for the ethanolamine head group of phosphatidylethanolamine to make phosphatidylserine.",
+      "E": "The liver can synthesise phosphatidylcholine by adding three methyl groups to the head group of phosphatidylethanolamine."
+    }
+  },
+  "bio-009": {
+    "why": "Low-density lipoprotein carries much of the cholesterol in plasma as cholesteryl esters. Cells can bind its apolipoprotein B-100 through LDL receptors and take up the particle by endocytosis.",
+    "notes": {
+      "A": "Intermediate-density lipoprotein is a remnant that can return to the liver or give rise to low-density lipoprotein.",
+      "C": "High-density lipoprotein accepts excess cholesterol from peripheral cells and participates in its return to the liver.",
+      "D": "Chylomicrons chiefly deliver dietary triacylglycerol, and their cholesterol-rich remnants are taken up by the liver.",
+      "E": "Very-low-density lipoprotein chiefly exports hepatic triacylglycerol and gives rise to cholesterol-enriched particles as it loses fat."
+    }
+  },
+  "bio-010": {
+    "why": "The liver packages triacylglycerol into very-low-density lipoprotein for export. Lipoprotein lipase then hydrolyses the particle's triacylglycerol in capillaries, making fatty acids available to muscle and adipose tissue.",
+    "notes": {
+      "A": "Chylomicrons are rich in triacylglycerol too, but the intestine produces them to transport fat absorbed from a meal.",
+      "B": "Low-density lipoprotein has already lost much of its precursor's triacylglycerol and is enriched in cholesteryl esters.",
+      "D": "High-density lipoprotein participates mainly in cholesterol transport and carries a relatively small amount of triacylglycerol.",
+      "E": "Intermediate-density lipoprotein is the remnant formed after lipoprotein lipase has removed some triacylglycerol from the hepatic particle."
+    }
+  },
+  "bio-011": {
+    "why": "Acetyl-CoA supplies all the carbon atoms retained in cholesterol. Its two-carbon units first form acetoacetyl-CoA and then HMG-CoA, which is reduced to mevalonate in the sterol pathway.",
+    "notes": {
+      "A": "Free acetate must first be activated with coenzyme A before it can enter cholesterol synthesis.",
+      "C": "Oxaloacetate can help export acetyl units as citrate, but is regenerated when cytosolic citrate is cleaved.",
+      "D": "Malate participates in the citrate shuttle and can help supply reducing power for biosynthesis.",
+      "E": "Pyruvate can yield acetyl-CoA through oxidative decarboxylation, placing it upstream of the direct building block."
+    }
+  },
+  "bio-012": {
+    "why": "Cholecystokinin is a peptide hormone synthesised from an amino acid precursor in intestinal endocrine cells. The other choices are sterols or products of sterol metabolism.",
+    "notes": {
+      "A": "The liver oxidises and shortens the side chain of cholesterol to form primary bile acids, including chenodeoxycholic acid.",
+      "B": "Glycocholic acid forms when the liver conjugates the cholesterol-derived bile acid cholic acid with glycine.",
+      "C": "Steroid-producing cells convert cholesterol to pregnenolone, from which they can synthesise testosterone.",
+      "D": "In skin, ultraviolet B light acts on the sterol precursor 7-dehydrocholesterol to initiate vitamin D₃ synthesis."
+    }
+  }
+}

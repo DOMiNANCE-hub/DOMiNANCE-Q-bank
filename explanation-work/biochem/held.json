@@ -1,0 +1,136 @@
+[
+  {
+    "file": "data/biochem/sem1-past.json",
+    "id": "bio-413",
+    "stem": "The following statements about haemoglobin quaternary structure are true:",
+    "options": [
+      {
+        "label": "A",
+        "text": "The α1β2 interface is closely connected to the haem"
+      },
+      {
+        "label": "B",
+        "text": "The α1β2 interface is supposed to be the functional contact area of haemoglobin"
+      },
+      {
+        "label": "C",
+        "text": "Large structural changes take place at the α1β2 interface on oxygenation"
+      },
+      {
+        "label": "D",
+        "text": "The α1β1 interface is a relatively fixed (stabilizing) contact area"
+      },
+      {
+        "label": "E",
+        "text": "A number of salt linkages are broken in the α1β1 interface on oxygenation"
+      }
+    ],
+    "stored_key": {
+      "A": "F",
+      "B": "T",
+      "C": "T",
+      "D": "T",
+      "E": "F"
+    },
+    "disputed_statements": [
+      "A"
+    ],
+    "proposed_interpretation": "The mobile interface between dimers is functionally coupled to haem ligation. Physical proximity cannot be inferred from that movement.",
+    "reason": "The existing note claims that the intradimer interface is nearer haem. Neither the stem nor the evidence defines a distance measure or specifies which haem and interface residues are being compared.",
+    "sources": [
+      "Vallone et al., Probing the alpha 1 beta 2 interface of human hemoglobin, https://pubmed.ncbi.nlm.nih.gov/8647854/",
+      "Jones et al., Differential control of heme reactivity, https://pmc.ncbi.nlm.nih.gov/articles/PMC4353013/"
+    ],
+    "ask_lecturer": "Did “closely connected” mean coupling to oxygen binding or a particular spatial contact? Please supply the original slide or structural definition.",
+    "status": "open",
+    "handoff_entry": {
+      "heading": "02  Biochemistry — haemoglobin interfaces",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  bio-413  |  Past question",
+        "Original stem  The following statements about haemoglobin quaternary structure are true:",
+        "A. The α1β2 interface is closely connected to the haem  [F]",
+        "B. The α1β2 interface is supposed to be the functional contact area of haemoglobin  [T]",
+        "C. Large structural changes take place at the α1β2 interface on oxygenation  [T]",
+        "D. The α1β1 interface is a relatively fixed (stabilizing) contact area  [T]",
+        "E. A number of salt linkages are broken in the α1β1 interface on oxygenation  [F]",
+        "Disputed statement  A — stored false; proposed true if “closely connected” refers to structural or functional coupling rather than literal proximity.",
+        "Reason for review  Oxygen binding changes the haem environment and the inter-dimer sliding interface. The α1β1 contact is relatively stable. The existing explanation’s claim about relative proximity to haem is not established by these facts.",
+        "Ask the lecturer  Should the first statement be marked true? What was meant by “closely connected to the haem” in the course notes?",
+        "Reference: Haemoglobin: Structure, Function and Allostery (2020), https://pmc.ncbi.nlm.nih.gov/articles/PMC7370311/; Differential Control of Heme Reactivity (2015), https://pmc.ncbi.nlm.nih.gov/articles/PMC4353013/.",
+        "Confirmed answer / clarification:",
+        "____________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "bio-413"
+    }
+  },
+  {
+    "file": "data/biochem/sem1-past.json",
+    "id": "bio-428",
+    "stem": "Concerning anti-sickling oligopeptides:",
+    "options": [
+      {
+        "label": "A",
+        "text": "They work by dissolving formed HbS fibers"
+      },
+      {
+        "label": "B",
+        "text": "They are synthetic oligopeptides with sequences corresponding to the carboxylterminal region of the βS chain"
+      },
+      {
+        "label": "C",
+        "text": "They are stereo-specific gelation inhibitors of HbS"
+      },
+      {
+        "label": "D",
+        "text": "They resemble the 'sticky patch'"
+      },
+      {
+        "label": "E",
+        "text": "They resemble the 'complementary sites' which develop on deoxyhaemoglobin A or S"
+      }
+    ],
+    "stored_key": {
+      "A": "F",
+      "B": "T",
+      "C": "T",
+      "D": "F",
+      "E": "T"
+    },
+    "disputed_statements": [
+      "B",
+      "D",
+      "E"
+    ],
+    "proposed_interpretation": "The mature β-chain sickle substitution is at position 6, near the amino terminus. Experimental inhibitors can mimic either member of a polymer contact.",
+    "reason": "Kubota and Yang studied peptides representing both the amino-terminal donor region and a proposed complementary contact. The blanket carboxyl-terminal and acceptor-only descriptions cannot cover both examples.",
+    "sources": [
+      "Kubota and Yang, Oligopeptides as potential antiaggregation agents for deoxyhemoglobin S, https://pubmed.ncbi.nlm.nih.gov/271966/",
+      "Olubiyi et al., Rational Drug Design of Peptide-Based Therapies for Sickle Cell Disease, https://pmc.ncbi.nlm.nih.gov/articles/PMC6943517/"
+    ],
+    "ask_lecturer": "Which peptide and study did the lecturer teach? Was “carboxylterminal” intended to be “amino-terminal”, and which contact is being mimicked?",
+    "status": "open",
+    "handoff_entry": {
+      "heading": "03  Biochemistry — anti-sickling peptides",
+      "status": "open",
+      "paragraphs": [
+        "Question ID  bio-428  |  Past question",
+        "Original stem  Concerning anti-sickling oligopeptides:",
+        "A. They work by dissolving formed HbS fibers  [F]",
+        "B. They are synthetic oligopeptides with sequences corresponding to the carboxylterminal region of the βS chain  [T]",
+        "C. They are stereo-specific gelation inhibitors of HbS  [T]",
+        "D. They resemble the 'sticky patch'  [F]",
+        "E. They resemble the 'complementary sites' which develop on deoxyhaemoglobin A or S  [T]",
+        "Disputed statements  B, D and E. B is keyed true, but documented experimental peptides include N-terminal sequences. Some inhibitors mimic the donor region, whereas others target the complementary acceptor site.",
+        "Ask the lecturer  Which specific class of anti-sickling oligopeptides does the question refer to? Is “carboxylterminal” a transcription error for “amino-terminal”? Should D and E be marked according to a particular peptide design?",
+        "Working interpretation  The HbS mutation is β6 Glu→Val, near the amino terminus of the β chain. Deoxygenated HbS polymerises through interactions of this hydrophobic donor region with complementary sites. The mechanism of inhibition depends on the peptide.",
+        "Reference: Rational Drug Design of Peptide-Based Therapies for Sickle Cell Disease (2019), https://pmc.ncbi.nlm.nih.gov/articles/PMC6943517/; Stereospecific inhibitors of the gelation of sickle hemoglobin, https://pubmed.ncbi.nlm.nih.gov/7419427/.",
+        "Confirmed answer / clarification:",
+        "____________________________________________________________________________",
+        "Lecturer or source: __________________________    Date: __________________"
+      ],
+      "id": "bio-428"
+    }
+  }
+]

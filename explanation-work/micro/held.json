@@ -1,0 +1,183 @@
+[
+  {
+    "file": "data/anatomy/micro-curated.json",
+    "id": "dq-m-mo4",
+    "stem": "Lining mucosa:",
+    "options": [
+      {
+        "label": "A",
+        "text": "has stratified squamous non-keratinised epithelium"
+      },
+      {
+        "label": "B",
+        "text": "has fewer and shorter connective tissue papillae"
+      },
+      {
+        "label": "C",
+        "text": "has a distinct submucosa everywhere, including under the tongue"
+      },
+      {
+        "label": "D",
+        "text": "has numerous deep papillae in the alveolar mucosa"
+      },
+      {
+        "label": "E",
+        "text": "may contain Fordyce spots"
+      }
+    ],
+    "stored_key": {
+      "A": "T",
+      "B": "T",
+      "C": "F",
+      "D": "T",
+      "E": "T"
+    },
+    "disputed_statements": [
+      {
+        "label": "D",
+        "text": "has numerous deep papillae in the alveolar mucosa"
+      }
+    ],
+    "proposed_interpretation": "The normal alveolar lining mucosa generally shows sparse, short connective tissue papillae. A false mark for this statement warrants lecturer consideration.",
+    "reason": "Human alveolar mucosa examined by electron microscopy showed occasional short, slender papillae. Attached gingiva is a separate tissue with more pronounced interdigitation. The existing note attributes a contrary regional exception to an unavailable lecture. The general statement about fewer, shorter papillae remains consistent with the teaching sources.",
+    "sources": [
+      "Quantitative electron microscopic analysis of the epithelium of normal human alveolar mucosa, PMID 872202, https://pubmed.ncbi.nlm.nih.gov/872202/",
+      "Architecture and density of the connective tissue papillae of the human oral mucosa, PMID 838625, https://pubmed.ncbi.nlm.nih.gov/838625/",
+      "Manual of Oral Histology and Oral Pathology, nonkeratinized mucosa and gingiva, https://cbspd.s3.ap-south-1.amazonaws.com/assets/documents/9789354660603S.pdf"
+    ],
+    "ask_lecturer": "Can you provide the teaching slide and confirm whether the intended site was alveolar lining mucosa or attached gingiva?",
+    "status": "open"
+  },
+  {
+    "file": "data/anatomy/micro-past.json",
+    "id": "ana-mic-sa-j-1",
+    "stem": "Swell bodies of the nasal conchae perform all of the following EXCEPT:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sensory perception"
+      },
+      {
+        "label": "B",
+        "text": "Adjustment of the temperature of inspired air"
+      },
+      {
+        "label": "C",
+        "text": "Regulation of blood flow to the overlying epithelium"
+      },
+      {
+        "label": "D",
+        "text": "Increasing contact between inspired air and the nasal mucosa"
+      },
+      {
+        "label": "E",
+        "text": "Increasing pressure in the nasal cavity"
+      }
+    ],
+    "stored_key": "A",
+    "disputed_statements": [
+      {
+        "label": "A",
+        "text": "Sensory perception"
+      },
+      {
+        "label": "E",
+        "text": "Increasing pressure in the nasal cavity"
+      }
+    ],
+    "proposed_interpretation": "Sensory perception is not a function of the vascular swell bodies. Raising nasal cavity pressure is also a questionable function as written.",
+    "reason": "Engorgement changes airway calibre and resistance, increasing the pressure difference required to maintain a given flow. That differs from increasing pressure throughout the nasal cavity. More than one exclusion is defensible.",
+    "sources": [
+      "Junqueira, Respiratory System, https://accessmedicine.mhmedical.com/content.aspx?bookId=3390&sectionId=281540985",
+      "Physiology, Nasal, nasal cycle and resistance, https://www.ncbi.nlm.nih.gov/books/NBK526086/"
+    ],
+    "ask_lecturer": "Was increased resistance or the pressure gradient across the nose intended by “increasing pressure in the nasal cavity”?",
+    "status": "open"
+  },
+  {
+    "file": "data/anatomy/micro-past.json",
+    "id": "ana-mic-sa-j-7",
+    "stem": "The epiglottis:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Is a leaf-shaped cartilage attached by its stem to the posterior aspect of the thyroid cartilage at the thyroid angle"
+      },
+      {
+        "label": "B",
+        "text": "Has below it, a pair of mucosal folds that lack muscle and are covered by pseudostratified columnar ciliated epithelium with goblets"
+      },
+      {
+        "label": "C",
+        "text": "Contains mixed mucous and serous glands and hyaline cartilage"
+      }
+    ],
+    "stored_key": {
+      "A": "T",
+      "B": "T",
+      "C": "F"
+    },
+    "disputed_statements": [
+      {
+        "label": "B",
+        "text": "Has below it, a pair of mucosal folds that lack muscle and are covered by pseudostratified columnar ciliated epithelium with goblets"
+      }
+    ],
+    "proposed_interpretation": "The respiratory lining and position identify the vestibular folds, but absence of muscle is too absolute in humans.",
+    "reason": "Anatomical sections of human vestibular folds show variable striated muscle bundles. The characteristic vocalis muscle of a true vocal fold is a different feature.",
+    "sources": [
+      "Amount and spatial arrangement of muscle fibers in the human laryngeal Musculus ventricularis, https://pubmed.ncbi.nlm.nih.gov/37092576/",
+      "Muscular Anatomy of the Human Ventricular Folds, https://pmc.ncbi.nlm.nih.gov/articles/PMC3831168/"
+    ],
+    "ask_lecturer": "Did “lack muscle” mean that vestibular folds lack the prominent vocalis core of a true vocal fold?",
+    "status": "open"
+  },
+  {
+    "file": "data/anatomy/micro-past.json",
+    "id": "ana-mic-sa-j-55",
+    "stem": "Alveoli:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Have a lining of Type I and II Alveolar Cells and Occasional Brush Cells"
+      },
+      {
+        "label": "B",
+        "text": "Form the mass of the parenchyma of the lung, giving the appearance of fine lace or a sponge"
+      },
+      {
+        "label": "C",
+        "text": "Are the terminal air spaces of the respiratory system and are the actual sites of gas exchange Between the air and the blood"
+      },
+      {
+        "label": "D",
+        "text": "Have very thin squamous cells covering about 95% of the alveolar surface"
+      },
+      {
+        "label": "E",
+        "text": "Have cuboidal secretory cells covering about 5% of the surface, mainly at septal junctions"
+      }
+    ],
+    "stored_key": {
+      "A": "T",
+      "B": "T",
+      "C": "T",
+      "D": "T",
+      "E": "T"
+    },
+    "disputed_statements": [
+      {
+        "label": "A",
+        "text": "Have a lining of Type I and II Alveolar Cells and Occasional Brush Cells"
+      }
+    ],
+    "proposed_interpretation": "Type I and II pneumocytes are well established; whether occasional brush cells should be taught as normal human alveolar lining cells needs confirmation.",
+    "reason": "Some clinical teaching sources include brush cells in alveoli. A species-specific review distinguishes reported rat alveolar brush cells from normal human alveoli. The choice gives no species qualifier.",
+    "sources": [
+      "Histology, Lung, https://www.ncbi.nlm.nih.gov/books/NBK534789/",
+      "Keeping it together: Pulmonary alveoli are maintained by a hierarchy of cellular programs, https://pmc.ncbi.nlm.nih.gov/articles/PMC5679707/"
+    ],
+    "ask_lecturer": "Does the course expect this statement as a general mammalian histology description or specifically for normal human alveoli?",
+    "status": "open"
+  }
+]

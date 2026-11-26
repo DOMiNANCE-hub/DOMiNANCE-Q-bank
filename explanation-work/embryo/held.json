@@ -1,0 +1,129 @@
+[
+  {
+    "file": "data/anatomy/embryo-past.json",
+    "id": "ana-emb-sa-h-146-150",
+    "stem": "Hours after the birth of a baby boy, the observant mother noticed that he became cyanotic anytime he cried vigorously. What is the embryological explanation and prognosis for this condition?",
+    "options": [
+      {
+        "label": "A",
+        "text": "There has been a coarctation of the baby’s aorta"
+      },
+      {
+        "label": "B",
+        "text": "Vigorous crying opens a patent ductus venosus"
+      },
+      {
+        "label": "C",
+        "text": "Vigorous crying increases the pressure in the right atrium that temporary opens a yet-to-fuse septum primum"
+      },
+      {
+        "label": "D",
+        "text": "Surgery is required to correct the defect causing the problem"
+      },
+      {
+        "label": "E",
+        "text": "Survival rate is very high for babies with this condition"
+      }
+    ],
+    "stored_key": {
+      "A": "F",
+      "B": "F",
+      "C": "T",
+      "D": "F",
+      "E": "T"
+    },
+    "disputed_statements": "Transient cyanosis with crying and a prognosis of high survival.",
+    "proposed_interpretation": "A transient right-to-left atrial shunt is possible if right atrial pressure rises above left atrial pressure. The stem does not establish an isolated patent foramen ovale.",
+    "reason": "Recurrent visible cyanosis hours after delivery has other serious causes. Prognosis and the need for intervention cannot be inferred from crying alone.",
+    "sources": [
+      "Merck Manual Professional, Perinatal Physiology https://www.merckmanuals.com/professional/pediatrics/perinatal-physiology/perinatal-physiology"
+    ],
+    "ask_lecturer": "Is the case intended to establish an otherwise healthy newborn with an isolated patent foramen ovale confirmed on assessment?",
+    "status": "open"
+  },
+  {
+    "file": "data/anatomy/embryo-past.json",
+    "id": "ana-emb-es-10",
+    "stem": "Which of the following veins does NOT contribute to the formation of the inferior vena cava?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Right posterior cardinal"
+      },
+      {
+        "label": "B",
+        "text": "Right subcardinal"
+      },
+      {
+        "label": "C",
+        "text": "Right supracardinal"
+      },
+      {
+        "label": "D",
+        "text": "Right umbilical vein"
+      },
+      {
+        "label": "E",
+        "text": "Right vitelline vein"
+      }
+    ],
+    "stored_key": "D",
+    "disputed_statements": "Whether the right posterior cardinal vein forms part of the inferior vena cava proper.",
+    "proposed_interpretation": "The right umbilical vein regresses without forming the cava. The posterior cardinal system supplies the common iliac veins and their confluence, variably described as a caudal caval contribution.",
+    "reason": "With a strict definition limited to segments of the inferior vena cava proper, the right posterior cardinal vein is also a plausible exception.",
+    "sources": [
+      "NCBI Bookshelf, Anatomy, Abdomen and Pelvis: Inferior Vena Cava https://www.ncbi.nlm.nih.gov/books/NBK482353/",
+      "Congenital anomalies of the IVC—embryological perspective and clinical relevance https://pmc.ncbi.nlm.nih.gov/articles/PMC5220208/"
+    ],
+    "ask_lecturer": "Does the course include the iliac confluence in its definition of the inferior vena cava?",
+    "status": "open"
+  },
+  {
+    "file": "data/anatomy/embryo-past.json",
+    "id": "ana-emb-sa-h-136-141",
+    "stem": "Concerning lung development and function, as well as medico-legal cases, evaluate the following",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lungs from a newborn baby who died before birth will float when placed in water"
+      },
+      {
+        "label": "B",
+        "text": "Lungs of newborn who died after birth will sink when placed in water"
+      },
+      {
+        "label": "C",
+        "text": "The lungs are totally non-functional in the foetus"
+      },
+      {
+        "label": "D",
+        "text": "Lung development continues after birth"
+      },
+      {
+        "label": "E",
+        "text": "Respiratory distress syndrome results from lack of surfactant-secreting cells in the epithelium of the lungs"
+      },
+      {
+        "label": "F",
+        "text": "Congenital lobar emphysema results from lack of pneumocyte type I cells in the epithelium of the lungs"
+      }
+    ],
+    "stored_key": {
+      "A": "F",
+      "B": "F",
+      "C": "F",
+      "D": "T",
+      "E": "T",
+      "F": "F"
+    },
+    "disputed_statements": "The assertion that respiratory distress syndrome results from lack of surfactant-secreting cells is keyed true.",
+    "proposed_interpretation": "Premature lungs usually contain immature type II pneumocytes with insufficient surfactant production. Cell absence and functional immaturity have different meanings.",
+    "reason": "The stored explanation changes the assertion from absent cells to insufficient surfactant. Flotation also reflects aeration and cannot independently establish live birth.",
+    "sources": [
+      "NCBI Bookshelf, Embryology, Pulmonary https://www.ncbi.nlm.nih.gov/sites/books/NBK544372/",
+      "Forensic Aspects of Perinatal Deaths https://pmc.ncbi.nlm.nih.gov/articles/PMC6490584/"
+    ],
+    "ask_lecturer": "Does “lack of surfactant-secreting cells” mean immature cells with inadequate secretion, and should the forensic limits of flotation be explicit?",
+    "status": "open"
+  }
+]
