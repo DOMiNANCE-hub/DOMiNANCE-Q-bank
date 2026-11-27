@@ -340,5 +340,158 @@
       "C": "Pancreatic alpha-amylase hydrolyses internal alpha-1,4 bonds in starch to yield smaller carbohydrates.",
       "D": "Pancreatic ribonucleases and deoxyribonucleases are secreted into the gut lumen to hydrolyse dietary RNA and DNA."
     }
+  },
+  "phy-gi-238": {
+    "why": "Bile salts and phospholipids form mixed aggregates that help disperse dietary lipids and carry digested lipids in the aqueous lumen. Cholesterol is another major biliary lipid carried in these aggregates. The detergent action comes chiefly from the bile salts.",
+    "notes": {
+      "A": "Secretin increases bicarbonate-rich biliary and pancreatic secretion. The listed regulators are not digestive constituents of bile.",
+      "C": "Acid phosphatase does not provide the physiologically important detergent action. Secretin regulates ductal secretion from the circulation.",
+      "D": "Pancreatic juice supplies major proteases, lipases and amylase. Bile supports digestion through bile salts and other lipids.",
+      "E": "Cholecystokinin stimulates gallbladder contraction and enzyme secretion by pancreatic acini. It is a hormone rather than a biliary digestive lipid."
+    }
+  },
+  "phy-gi-268": {
+    "why": "Pancreatic juice contains enzymes for neutral-fat digestion. Pancreatic triglyceride lipase chiefly releases two fatty acids and a 2-monoacylglycerol. Further hydrolysis by intestinal and pancreatic esterases can yield free glycerol.",
+    "notes": {
+      "A": "Vagal cholinergic input promotes secretion from pancreatic acini. The characteristic copious bicarbonate-rich response is driven mainly by secretin.",
+      "B": "Duodenal acid stimulates secretin release, producing an abundant watery secretion rich in bicarbonate.",
+      "C": "Secretin primarily acts on pancreatic ducts, where it increases bicarbonate and fluid secretion.",
+      "E": "Disaccharides are converted to monosaccharides mainly by enzymes in the small-intestinal brush border. Pancreatic amylase acts on larger carbohydrates."
+    }
+  },
+  "phy-gi-276": {
+    "why": "Acid delivered to the duodenum stimulates S cells to release secretin. Pancreatic ducts respond with a large volume of bicarbonate-rich fluid, which buffers the acidic chyme.",
+    "notes": {
+      "B": "The duodenal response to acid can slow gastric emptying so that acid enters at a rate the intestine can buffer.",
+      "C": "Gallbladder contraction is promoted by cholecystokinin, particularly when fat reaches the duodenum. Acid primarily evokes the secretin response here.",
+      "D": "During meal-related bile delivery, the sphincter of Oddi generally relaxes with cholecystokinin signalling. The acid-triggered secretin response is pancreatic buffering.",
+      "E": "Pancreozymin is the older name for cholecystokinin. Duodenal acid selectively stimulates secretin in this comparison."
+    }
+  },
+  "phy-gi-281": {
+    "why": "The liver buffers blood glucose across feeding and fasting. Hepatocytes store glucose as glycogen after a meal and maintain circulating glucose between meals by glycogenolysis and gluconeogenesis.",
+    "notes": {
+      "B": "Hepatic amino acid catabolism produces nitrogen that is converted mainly to urea. Renal glutamine metabolism is a major source of ammonia excreted as ammonium.",
+      "C": "UV light supports cholecalciferol synthesis in the skin. The liver hydroxylates cholecalciferol to 25-hydroxyvitamin D.",
+      "D": "Immunoglobulins are produced by plasma cells. The liver synthesises albumin and many other non-antibody plasma proteins.",
+      "E": "Gonadal steroid hormones act on receptors in target tissues. The liver is important for steroid metabolism and clearance."
+    }
+  },
+  "phy-gi-294": {
+    "why": "Pancreatic juice supplies protease precursors and lipase. A marked lack of pancreatic enzymes can leave undigested muscle fibres in the stool and increases faecal fat by impairing triglyceride digestion.",
+    "notes": {
+      "A": "Reduced pancreatic protease delivery can leave muscle fibres incompletely digested. Their increased presence in stool is called creatorrhoea.",
+      "B": "Reduced pancreatic lipase delivery can impair triglyceride digestion and increase faecal fat. This is steatorrhoea.",
+      "C": "Fat maldigestion increases the loss of fat into faeces rather than decreasing it.",
+      "D": "Severe fat malabsorption can reduce vitamin K uptake and impair activation of prothrombin and other vitamin K-dependent clotting proteins."
+    }
+  },
+  "phy-gi-303": {
+    "why": "Pancreatic juice is usually the most alkaline of these fluids because duct cells secrete a high concentration of bicarbonate, especially during secretin stimulation. Actual pH varies with the secretion rate and sampling conditions.",
+    "notes": {
+      "A": "Gastric juice is acidic because parietal cells secrete hydrochloric acid into the gastric lumen.",
+      "C": "Gallbladder bile is concentrated and can be acidified during storage, lowering its pH relative to freshly secreted hepatic bile.",
+      "D": "Intestinal secretions can be alkaline, but pancreatic ducts provide the especially bicarbonate-rich secretion that neutralises most incoming acid.",
+      "E": "Saliva contains bicarbonate and varies with flow. It is commonly near neutral or mildly alkaline."
+    }
+  },
+  "phy-gi-309": {
+    "why": "Secretin is released by enteroendocrine S cells in the proximal small intestine when gastric acid reaches the duodenum. It increases pancreatic and biliary bicarbonate secretion to neutralise the acid.",
+    "notes": {
+      "B": "Acid in the stomach does not directly contact duodenal S cells. The stimulus occurs when acidic chyme crosses the pylorus.",
+      "C": "Bile ducts respond to secretin by increasing bicarbonate output. The liver is not the primary site of secretin production.",
+      "D": "Colonic distension activates local and reflex motility pathways. Duodenal acid is the classic stimulus for secretin.",
+      "E": "The gallbladder stores and concentrates bile and contracts in response to cholecystokinin. Secretin comes from proximal intestinal S cells."
+    }
+  },
+  "phy-gi-332": {
+    "why": "Choleretic agents increase bile secretion by the liver or biliary duct system. This is distinct from expelling bile already stored in the gallbladder, an effect termed cholagogue or cholekinetic.",
+    "notes": {
+      "A": "Gallbladder contraction increases delivery of stored bile. This is a cholekinetic effect, as seen with cholecystokinin.",
+      "C": "Pancreatic secretion concerns fluid and enzymes from pancreatic ducts and acini. Choleresis refers to biliary output.",
+      "D": "Suppression of hepatic bile secretion is the opposite of a choleretic effect.",
+      "E": "Inhibiting gallbladder emptying delays delivery from storage. It does not define an effect on hepatic bile formation."
+    }
+  },
+  "phy-gi-333": {
+    "why": "Enterohepatic circulation classically describes bile salts cycling from liver to intestine and back. Most are reabsorbed in the terminal ileum, return to the liver via portal blood and are secreted again in bile.",
+    "notes": {
+      "A": "Dietary proteins are digested to amino acids and small peptides. Their absorption is not the classic liver–bile–ileum cycle.",
+      "B": "Most long-chain dietary fats are carried from the intestine in lymph within chylomicrons. Bile salts assist absorption and then cycle separately.",
+      "C": "Monosaccharides travel through portal blood to the liver after absorption. They do not enter the classic bile-salt recycling pathway.",
+      "E": "Some urobilinogen derived from bilirubin also recirculates. The standard high-volume digestive recycling pathway refers to bile salts."
+    }
+  },
+  "phy-gi-334": {
+    "why": "Enteropeptidase, also called enterokinase, is a brush-border protease in the proximal small intestine. It cleaves the activation peptide from trypsinogen. The resulting trypsin activates more trypsinogen and several other pancreatic zymogens.",
+    "notes": {
+      "A": "Gastric acid initiates pepsinogen activation in the stomach. Trypsinogen is activated enzymatically in the small intestine.",
+      "B": "Iron salts play no physiological role in trypsinogen activation. Enteropeptidase supplies the initiating proteolytic cleavage.",
+      "D": "Gastrin is a hormone that increases gastric acid secretion. It does not cleave a pancreatic zymogen.",
+      "E": "Acetylcholine stimulates pancreatic secretion through cholinergic pathways. Activation takes place after the zymogen reaches the intestinal lumen."
+    }
+  },
+  "phy-gi-335": {
+    "why": "Bile salts are amphipathic molecules that help emulsify fat and form mixed micelles with products of lipid digestion. These micelles deliver fatty acids and monoacylglycerols through the aqueous layer near the intestinal brush border.",
+    "notes": {
+      "A": "Secretin regulates bicarbonate-rich secretion into bile and pancreatic juice. Such regulatory hormones are distinct from bile salts in the lumen.",
+      "C": "Acid phosphatase lacks the detergent action that makes bile salts important for intestinal lipid processing.",
+      "D": "The pancreas supplies the major luminal digestive enzymes. Bile promotes lipid digestion by dispersing and solubilising lipids.",
+      "E": "Cholecystokinin stimulates delivery of bile from the gallbladder. The hormone does not itself form luminal mixed micelles."
+    }
+  },
+  "phy-gi-209": {
+    "why": "Calcitriol is the active vitamin D metabolite. It increases intestinal calcium absorption, particularly the regulated transcellular pathway, by promoting expression of transport proteins such as TRPV6 and calbindin.",
+    "notes": {
+      "A": "Hypercalcaemia lowers parathyroid hormone secretion, which can reduce renal calcitriol production. It is not the usual stimulus for calcium uptake.",
+      "B": "Oxalate can form poorly soluble complexes with calcium in the intestine and decrease the amount available for absorption.",
+      "C": "Iron overload is not a physiological signal for intestinal calcium transport. The regulated pathway responds primarily to calcitriol.",
+      "E": "Sodium-coupled transport is important for glucose and several other nutrients, but calcitriol is the principal regulator of active intestinal calcium uptake."
+    }
+  },
+  "phy-gi-213": {
+    "why": "The small intestine has mixing contractions, especially segmentation, and propulsive contractions, especially peristalsis. Segmentation improves contact with digestive fluids and the mucosa, while propulsion moves contents distally.",
+    "notes": {
+      "A": "Segmentation is a pattern of local contractions that mixes chyme and exposes it to the epithelial surface.",
+      "B": "Coordinated peristaltic contractions propel chyme along the small intestine as part of normal transit.",
+      "C": "Retrograde movement can occur in particular patterns. It is not one of the two standard categories of small-intestinal motility named here.",
+      "D": "Hunger contractions usually refer to contractions felt in the empty stomach. The fasting small intestine has a migrating motor complex."
+    }
+  },
+  "phy-gi-214": {
+    "why": "Protein hydrolysis begins in the stomach through pepsin. In the small intestine, pancreatic proteases and intestinal peptidases continue the process to amino acids and small absorbable peptides.",
+    "notes": {
+      "A": "The mouth begins mechanical breakdown and some starch digestion. It does not provide the main digestive proteases for food protein.",
+      "B": "Acid activates pepsin and denatures dietary proteins. Pepsin hydrolyses peptide bonds in the stomach.",
+      "C": "Pancreatic trypsin, chymotrypsin and other proteases act in the small intestine, where brush-border and intracellular peptidases complete digestion.",
+      "D": "The oesophagus transports the swallowed bolus. It does not make a significant contribution to protein hydrolysis."
+    }
+  },
+  "phy-gi-216": {
+    "why": "After long-chain lipid digestion, enterocytes re-esterify fatty acids and monoacylglycerols to triglycerides. They package those triglycerides into chylomicrons, which enter villus lacteals and reach the blood through the thoracic duct.",
+    "notes": {
+      "A": "Shorter-chain fatty acids can reach the liver by portal blood. Most dietary long-chain triglyceride uses the lymphatic route after processing.",
+      "B": "The portal vein and hepatic artery are separate hepatic inflows. Chylomicrons leave the intestine in lymph before reaching the systemic circulation.",
+      "D": "Newly formed long-chain triglyceride is carried in chylomicrons in lymph. Portal transport is important for shorter-chain fatty acids.",
+      "E": "Absorption takes place in the proximal small intestine, including the jejunum. The principal transport mechanism for most meal fat is chylomicron entry into lymph."
+    }
+  },
+  "phy-gi-217": {
+    "why": "Pancreatic lipase is the major enzyme for intestinal triglyceride digestion in adults. With colipase at the oil–water interface, it releases fatty acids and 2-monoacylglycerol. Bile-salt micelles then carry those products toward the brush border.",
+    "notes": {
+      "A": "Bile salts and phospholipids help disperse lipid droplets. Emulsification improves access but does not itself hydrolyse triglycerides.",
+      "B": "Gastric lipase contributes to initial lipolysis. Pancreatic lipase normally supplies the greater share of adult triglyceride digestion.",
+      "D": "Triglyceride hydrolysis occurs mainly at the surface of emulsion droplets. Mixed micelles carry the resulting lipid products.",
+      "E": "Lipids leave mixed micelles near the epithelial surface and can then enter enterocytes. Whole micelles do not require a dedicated uptake receptor."
+    }
+  },
+  "phy-gi-220": {
+    "why": "Apical SGLT1 carries glucose into small-intestinal enterocytes together with sodium. The basolateral sodium–potassium ATPase maintains the sodium gradient that drives this secondary active uptake, and glucose exits toward the blood largely through GLUT2.",
+    "notes": {
+      "A": "Luminal glucose uptake commonly takes place against a glucose gradient, so passive diffusion alone cannot explain it.",
+      "C": "Facilitated diffusion through GLUT2 is important for basolateral exit. The principal apical route is sodium-coupled SGLT1.",
+      "D": "The driving ion for SGLT1 is sodium. Chloride transport follows separate pathways and is not coupled directly to glucose by this transporter.",
+      "E": "The standard intestinal uptake pathway uses SGLT1 and GLUT2. It is not dependent on insulin-stimulated GLUT4 insertion."
+    }
   }
 }
