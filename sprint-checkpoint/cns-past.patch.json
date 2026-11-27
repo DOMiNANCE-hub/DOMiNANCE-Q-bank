@@ -169,5 +169,158 @@
       "D": "Broca aphasia is a language-production disorder. Weakness of lips or tongue can occur with nearby motor injury but is not required.",
       "E": "Wernicke aphasia involves the dominant posterior temporal language network and is characterised by fluent speech with impaired comprehension."
     }
+  },
+  "phy-cns-469": {
+    "why": "An EEG records voltage fluctuations at the scalp arising mainly from synchronised postsynaptic activity in populations of cortical neurons. It can monitor changes in brain activity across wakefulness, sleep and seizures.",
+    "notes": {
+      "A": "A posterior alpha rhythm is prominent in relaxed wakefulness with eyes closed, but opening the eyes and increasing attention usually attenuate it.",
+      "B": "Deep non-REM sleep has prominent slow delta activity, but delta does not occupy every part of a deep-sleep epoch.",
+      "C": "Theta activity can occur in healthy children, depending on age, wakefulness and location. It is not alone evidence of pathology.",
+      "E": "Scalp EEG is a recognised way to monitor patterns of electrical activity arising from the brain."
+    }
+  },
+  "phy-cns-470": {
+    "why": "Sleep timing reflects the circadian clock as well as the homeostatic drive that builds with time awake. The circadian component persists under constant conditions and is synchronised to the environment by cues such as light.",
+    "notes": {
+      "B": "Slow-wave sleep is stage N3 of non-REM sleep. Rapid eye movements are characteristic of a separate REM stage.",
+      "C": "Sleep needs and architecture change with age, but young adults do not generally require less sleep than older adults.",
+      "D": "A major pulse of growth hormone commonly occurs during early-night slow-wave sleep.",
+      "E": "Recommended sleep duration is not generally lower for women solely on the basis of sex, and individual sleep needs vary."
+    }
+  },
+  "phy-cns-471": {
+    "why": "The dorsal columns carry discriminative touch, vibration and conscious proprioception ipsilaterally up the spinal cord. The fibres synapse and cross in the medulla before ascending in the medial lemniscus.",
+    "notes": {
+      "A": "Most conscious pain transmission from the body uses the anterolateral system after crossing in the spinal cord.",
+      "B": "Temperature signals are carried chiefly in anterolateral pathways rather than in the dorsal columns.",
+      "C": "Vibration sensed by specialised mechanoreceptors is transmitted principally in the dorsal column–medial lemniscus pathway.",
+      "D": "The dorsal columns carry conscious position and movement information from muscles and joints."
+    }
+  },
+  "phy-cns-473": {
+    "why": "A complete transection at C1–C2 can disconnect brainstem respiratory drive from the phrenic motor neurons at C3–C5, causing immediate ventilatory failure. It can rapidly be fatal without ventilatory support.",
+    "notes": {
+      "A": "A lesion at T1 can impair intercostal and other functions but leaves descending input to upper cervical phrenic motor neurons intact.",
+      "C": "A lumbar lesion can impair lower-limb or pelvic function. It does not directly disconnect the diaphragm from the brainstem.",
+      "D": "A lower thoracic lesion can weaken some expiratory muscles, but the phrenic motor supply is above it.",
+      "E": "A lesion at the first lumbar level is below the origins of the phrenic nerves and does not abolish diaphragmatic drive."
+    }
+  },
+  "phy-cns-474": {
+    "why": "Brainstem circuits generate respiratory patterns, regulate cardiovascular reflexes and coordinate autonomic functions such as swallowing, vomiting and parts of gastrointestinal control. Voluntary limb movement chiefly depends on cortical initiation and descending motor pathways.",
+    "notes": {
+      "A": "The medulla contains neurons that generate the automatic respiratory rhythm. Pontine networks help shape it.",
+      "B": "Brainstem networks help control arterial pressure and heart rate through autonomic reflexes.",
+      "C": "The medulla contains vagal nuclei that regulate several gastrointestinal motor and secretory functions.",
+      "D": "The brainstem relays and modulates motor signals, but voluntary limb movement is chiefly initiated by motor areas of the cerebral cortex."
+    }
+  },
+  "phy-cns-475": {
+    "why": "The primary motor cortex occupies the precentral gyrus of the frontal lobe. Premotor cortex lies anterior to it, and Broca's area is in the dominant inferior frontal gyrus.",
+    "notes": {
+      "B": "The parietal lobe contains primary somatosensory cortex just behind the central sulcus. The primary motor cortex is on the other side.",
+      "C": "The temporal lobe contains primary auditory cortex and participates in language comprehension. The named motor and speech-production areas are frontal.",
+      "D": "The occipital lobe contains primary visual cortex and is not the location of the listed areas.",
+      "E": "The prefrontal cortex is an anterior subdivision of the frontal lobe. It does not encompass the primary motor cortex."
+    }
+  },
+  "phy-cns-476": {
+    "why": "The medulla contains respiratory and cardiovascular control networks and integrates defensive reflexes such as coughing, sneezing and vomiting. These functions involve distributed circuits that coordinate respiratory muscles and autonomic activity.",
+    "notes": {
+      "A": "The medulla contains cardiovascular networks that regulate vascular tone and contribute to arterial pressure reflexes.",
+      "B": "Medullary respiratory neurons generate and coordinate key parts of the breathing rhythm.",
+      "C": "Medullary networks use visceral and airway afferent signals to coordinate vomiting and coughing.",
+      "D": "Nasal trigeminal afferents can activate medullary pathways that organise the sneeze response."
+    }
+  },
+  "phy-cns-478": {
+    "why": "The amygdala helps assign emotional significance to stimuli and coordinate learned fear and defensive responses. Bilateral amygdala injury can markedly impair fear recognition or expression, although it does not abolish all emotions.",
+    "notes": {
+      "A": "Septal nuclei participate in limbic modulation. Impaired fear processing after bilateral injury is more classically associated with the amygdala.",
+      "B": "The thalamus relays sensory information and contributes to emotional circuits. It is not the classic site for the specific fear deficit described.",
+      "D": "Sensory cortex supports perception and discrimination of stimuli. Amygdala circuits are especially important for assigning threat significance.",
+      "E": "Basal ganglia contribute to movement, motivation and action selection. Loss of fear is more characteristic of amygdala dysfunction."
+    }
+  },
+  "phy-cns-479": {
+    "why": "Renshaw cells are inhibitory spinal interneurons activated by recurrent branches of alpha motor axons. They feed inhibition back onto the same motor pool and nearby motor neurons, helping regulate motor output.",
+    "notes": {
+      "B": "Cerebellar inhibition is mediated by neurons such as Purkinje cells and local interneurons. Renshaw cells are spinal neurons.",
+      "C": "Muscle spindles contain intrafusal muscle fibres and sensory endings for stretch, rather than Renshaw interneurons.",
+      "D": "The retina uses its own interneurons, including horizontal and amacrine cells. Renshaw cells are found in the spinal cord.",
+      "E": "Basal ganglia contain several kinds of inhibitory neuron, but spinal recurrent inhibition is the setting for Renshaw cells."
+    }
+  },
+  "phy-cns-480": {
+    "why": "Premotor areas lie anterior to primary motor cortex and help plan, select and coordinate movements before execution. Frontal motor planning networks include specialised regions for speech and voluntary eye movements.",
+    "notes": {
+      "B": "Voluntary movement is a broad function shared by several cortical areas. Premotor cortex is distinguished by preparing and organising coordinated actions.",
+      "C": "The premotor cortex lies in the frontal lobe, rather than in the temporal lobe.",
+      "D": "The cerebellum also coordinates movement but is anatomically separate from the premotor cortex.",
+      "E": "Neither the temporal cortex nor the cerebellum is the frontal premotor area described by the term."
+    }
+  },
+  "phy-cns-481": {
+    "why": "Limbic networks help link smells and flavours to emotion, reward and memory, and participate in feeding and reproduction-related behaviour. Primary visual processing depends mainly on occipital cortex. Visual information can still influence limbic responses.",
+    "notes": {
+      "A": "Olfactory pathways connect closely with regions such as the amygdala and related limbic circuits, linking odours to emotion and memory.",
+      "B": "Gustatory information reaches reward and emotion circuits, including amygdala-related networks. Primary taste processing itself involves insular and opercular cortex.",
+      "C": "Limbic and hypothalamic circuits connect motivation and energy state to feeding behaviour.",
+      "D": "Limbic and hypothalamic pathways help regulate sexual motivation and related autonomic or behavioural responses."
+    }
+  },
+  "phy-cns-482": {
+    "why": "REM sleep is called paradoxical sleep because the EEG is relatively activated and resembles wakefulness while most skeletal muscles are markedly inhibited. Rapid eye movements and vivid dreaming can occur.",
+    "notes": {
+      "A": "High-amplitude delta waves characterise deep non-REM sleep. REM tends to have lower-amplitude mixed-frequency EEG activity.",
+      "B": "REM is often associated with vivid dreams. It is physiologically different from deep slow-wave sleep.",
+      "C": "Most skeletal muscles have reduced tone, but eye movements, breathing and occasional twitches continue.",
+      "E": "Alpha waves are described in an EEG, which records brain activity. ECG records cardiac electrical activity."
+    }
+  },
+  "phy-cns-483": {
+    "why": "Severe or prolonged sleep deprivation can produce perceptual distortions, hallucinations and symptoms resembling psychosis. Even shorter periods of sleep loss can reduce attention and slow reaction time.",
+    "notes": {
+      "B": "Sleep loss generally slows processing and impairs sustained attention rather than improving mental speed.",
+      "C": "Shortage of sleep usually decreases alertness and can cause brief involuntary lapses in wakefulness.",
+      "D": "Attention, mood and physiological regulation can all change with sleep loss. Severity depends on the duration and individual factors.",
+      "E": "Sleep deprivation commonly increases sympathetic activity or disrupts normal nocturnal blood pressure regulation. Lower arterial pressure is not its characteristic consequence."
+    }
+  },
+  "phy-cns-485": {
+    "why": "A relaxed awake adult with eyes closed typically shows a posterior alpha rhythm around 8–13 Hz. It is recorded prominently over occipital regions and attenuates when the eyes open or attention increases.",
+    "notes": {
+      "B": "Theta activity can appear normally during drowsiness. It is not the usual predominant occipital rhythm in a relaxed awake adult with eyes closed.",
+      "C": "Delta waves are slow and prominent in deep non-REM sleep rather than ordinary relaxed wakefulness.",
+      "D": "Faster beta activity can occur during wakefulness, but the characteristic posterior eyes-closed rhythm is alpha.",
+      "E": "Alternating delta and beta episodes are not the standard pattern of quiet wakefulness with eyes closed."
+    }
+  },
+  "phy-cns-486": {
+    "why": "The basal ganglia help select and scale desired actions and suppress competing movements through loops with the thalamus and cerebral cortex. They also participate in habit learning, motivation and cognition.",
+    "notes": {
+      "A": "Sensory inputs inform motor programmes, but movement selection and modulation are the main functions tested here.",
+      "B": "Short-term memory depends strongly on cortical and other distributed networks. It is not the principal classic function of the basal ganglia.",
+      "D": "Hypothalamic–pituitary pathways provide the major neural control of endocrine secretion.",
+      "E": "Temperature regulation is chiefly a hypothalamic function, with little involvement of basal ganglia motor loops."
+    }
+  },
+  "phy-cns-487": {
+    "why": "The suprachiasmatic nucleus is the main mammalian circadian pacemaker. It receives light-related retinal input and coordinates daily rhythms in behaviour, physiological functions and endocrine signals.",
+    "notes": {
+      "A": "The ventromedial hypothalamus participates in energy balance and feeding. It is not the principal circadian pacemaker.",
+      "B": "The dorsomedial hypothalamus receives timing signals and helps relay some outputs. The primary timing oscillator is the suprachiasmatic nucleus.",
+      "D": "The supraoptic nucleus synthesises vasopressin and oxytocin. It does not generate the principal daily timing signal.",
+      "E": "The paraventricular nucleus coordinates endocrine and autonomic functions and relays some circadian signals. It is not the master clock."
+    }
+  },
+  "phy-cns-488": {
+    "why": "Pineal melatonin is normally highest during the biological night and low during the day. The suprachiasmatic clock controls this pattern, and light reaching the retina can shift its timing or suppress nocturnal secretion.",
+    "notes": {
+      "A": "Circadian timing comes from endogenous oscillators. External light and other cues synchronise them with the environment.",
+      "B": "The primary central clock is in the hypothalamic suprachiasmatic nucleus, rather than the cerebral cortex.",
+      "C": "Adjustment to night work is variable and often incomplete. A consistent 48-hour adaptation is not expected.",
+      "E": "Cortisol generally rises toward habitual waking and is low near the beginning of the biological night, rather than normally peaking around midnight."
+    }
   }
 }
