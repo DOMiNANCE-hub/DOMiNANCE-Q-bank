@@ -5216,10 +5216,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The cartilaginous neurocranium (base) ossifies endochondrally.",
+      "why": "The chondrocranium develops as a cartilaginous framework around the developing brain and sensory structures. Endochondral ossification replaces this cartilage with bone, unlike the predominantly intramembranous development of the cranial vault.",
       "topicId": "e-face",
       "subtopic": "Skull development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Intramembranous ossification forms bone directly within mesenchyme and predominates in the cranial vault rather than the base.",
+        "C": "Neural crest contributes anterior cranial base mesenchyme, but condensation alone does not describe the ossification mechanism.",
+        "D": "Occipital somites contribute posterior cranial structures, but their fusion is not the general mechanism of chondrocranial ossification.",
+        "E": "Placodes contribute sensory structures through epithelial specialisation rather than replacing cranial base cartilage with bone."
+      }
     },
     {
       "id": "dq-embryo-face-052",
@@ -5248,10 +5254,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The viscerocranium (maxilla, mandible, zygoma, nasal bones, ear ossicles) derives from the 1st and 2nd arches.",
+      "why": "The viscerocranium develops largely from cranial neural crest mesenchyme associated with the first and second pharyngeal arches, with additional contributions from the frontonasal region. It forms the facial skeletal framework and associated structures.",
       "topicId": "e-face",
       "subtopic": "Skull development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Lateral plate mesoderm contributes other skeletal regions but is not the principal source of the facial skeleton.",
+        "C": "The frontonasal prominence contributes important facial bones, but it does not alone form the entire viscerocranium.",
+        "D": "Paraxial mesoderm contributes cranial and axial tissues, but most facial skeletal mesenchyme derives from cranial neural crest.",
+        "E": "The notochord patterns axial structures and does not itself generate the principal facial skeletal components."
+      }
     },
     {
       "id": "dq-embryo-face-053",
@@ -5280,10 +5292,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The anterior fontanelle usually closes around 18 months; premature suture fusion is craniosynostosis.",
+      "why": "The anterior fontanelle permits skull deformation during birth and accommodates rapid brain growth. It typically closes during the second year of life, with considerable normal variation around the conventional eighteen-month estimate.",
       "topicId": "e-face",
       "subtopic": "Skull development",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Closure at three years would be later than the usual teaching estimate, although timing varies between children.",
+        "B": "The anterior fontanelle normally remains open at birth to accommodate continued expansion of the developing brain.",
+        "D": "Closure around two months is more characteristic of the smaller posterior fontanelle than the anterior fontanelle.",
+        "E": "Six months is earlier than the conventional anterior fontanelle closure estimate, although early normal closure can occur."
+      }
     },
     {
       "id": "dq-embryo-face-054",
@@ -5312,10 +5330,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The lateral lingual swellings and the median tuberculum impar (1st arch) form the oral part of the tongue.",
+      "why": "The first arch produces paired lateral lingual swellings and a median tuberculum impar. The lateral swellings enlarge and merge over the median swelling, forming most of the mucosal anterior two-thirds of the tongue.",
       "topicId": "e-face",
       "subtopic": "Tongue development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The hypopharyngeal eminence contributes principally to the posterior tongue rather than the anterior first arch region.",
+        "B": "Foramen caecum marks the embryonic thyroid origin and is not a major anterior lingual swelling.",
+        "C": "The epiglottic swelling contributes the caudal tongue and epiglottic region rather than the anterior oral tongue.",
+        "E": "The copula is associated with the second arch and is largely overgrown during posterior tongue development."
+      }
     },
     {
       "id": "dq-embryo-face-055",
@@ -5344,10 +5368,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "General sensation of the oral tongue is via the lingual nerve (V3); taste is via the chorda tympani (VII).",
+      "why": "The anterior oral tongue derives mainly from first arch swellings, accounting for its general sensory supply through the lingual branch of the mandibular nerve. Taste fibres travel separately through chorda tympani before joining it.",
       "topicId": "e-face",
       "subtopic": "Tongue development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Chorda tympani conveys taste from most of the anterior tongue rather than its principal general sensory supply.",
+        "B": "Glossopharyngeal fibres convey general sensation and taste chiefly from the posterior third, including circumvallate taste buds.",
+        "C": "The hypoglossal nerve principally supplies tongue muscles rather than ordinary mucosal sensation from the anterior tongue.",
+        "D": "Vagal sensory fibres serve the epiglottic and adjacent pharyngeal region rather than most of the oral tongue."
+      }
     },
     {
       "id": "dq-embryo-face-056",
@@ -5376,10 +5406,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Reflecting its 2nd-arch contribution, taste from the oral tongue travels in the chorda tympani (CN VII).",
+      "why": "Chorda tympani carries taste afferents from most of the anterior two-thirds of the tongue and joins the lingual nerve peripherally. Circumvallate papillae are an important glossopharyngeal exception despite their anterior position.",
       "topicId": "e-face",
       "subtopic": "Tongue development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "The lingual nerve conveys general sensation and carries accompanying chorda tympani fibres, rather than supplying taste independently.",
+        "C": "Glossopharyngeal taste fibres serve the posterior third and circumvallate papillae, rather than most of the anterior oral tongue.",
+        "D": "Hypoglossal fibres provide motor innervation to most tongue muscles rather than transporting gustatory afferent information.",
+        "E": "Vagal taste fibres serve selected epiglottic and pharyngeal regions, rather than most anterior tongue taste buds."
+      }
     },
     {
       "id": "dq-embryo-face-057",
@@ -5408,10 +5444,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The pharyngeal part forms from the hypopharyngeal eminence (mainly 3rd arch), supplied by CN IX.",
+      "why": "The third arch component of the hypopharyngeal eminence expands over the second arch copula and contributes most of the posterior third of the tongue. Glossopharyngeal sensory innervation reflects this developmental association.",
       "topicId": "e-face",
       "subtopic": "Tongue development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The fourth arch contributes the most caudal tongue and epiglottic region rather than the entire posterior third.",
+        "C": "First arch lingual swellings contribute most of the anterior oral tongue rather than the posterior pharyngeal portion.",
+        "D": "The second arch copula is largely overgrown by third arch tissue and does not form the principal posterior mucosa.",
+        "E": "Occipital somites provide tongue muscle precursors rather than the pharyngeal arch-derived mucosal region specified here."
+      }
     },
     {
       "id": "dq-embryo-face-058",
@@ -5440,10 +5482,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Tongue muscles arise from occipital myotomes that migrate forward, carrying CN XII with them.",
+      "why": "Myogenic precursors migrate from occipital somites into the developing tongue, forming its intrinsic and most extrinsic skeletal muscles. Their hypoglossal motor innervation reflects this migration from the occipital region.",
       "topicId": "e-face",
       "subtopic": "Tongue development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Tuberculum impar contributes an early lingual mucosal swelling rather than the migrating skeletal muscle precursor population.",
+        "B": "Lateral plate mesoderm supplies several other muscular and connective tissues, but tongue myoblasts originate in occipital somites.",
+        "D": "First arch mesenchyme contributes anterior tongue mucosal structures rather than the principal intrinsic tongue muscle precursors.",
+        "E": "Neural crest contributes craniofacial connective tissues but does not supply the conventional occipital myogenic population."
+      }
     },
     {
       "id": "dq-embryo-face-059",
@@ -5472,10 +5520,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Palatoglossus is a 4th-arch muscle supplied by the pharyngeal branch of the vagus (CN X).",
+      "why": "Most tongue muscles arise from occipital somites and receive hypoglossal motor innervation. Palatoglossus is functionally associated with the soft palate and receives vagal motor fibres through the pharyngeal plexus.",
       "topicId": "e-face",
       "subtopic": "Tongue development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The facial nerve supplies facial expression and selected second arch muscles rather than motor fibres to palatoglossus.",
+        "B": "Trigeminal motor fibres supply muscles of mastication and tensor veli palatini, rather than the palatoglossus muscle.",
+        "C": "Although cranial accessory fibres were historically described in this pathway, palatoglossus is clinically innervated through the vagus.",
+        "E": "Glossopharyngeal motor fibres supply stylopharyngeus, rather than the palatal muscle that elevates the posterior tongue."
+      }
     },
     {
       "id": "dq-embryo-face-060",
@@ -5504,10 +5558,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The sulcus terminalis marks the fusion line; the foramen caecum lies at its apex.",
+      "why": "The sulcus terminalis is a V-shaped groove separating the oral anterior two-thirds from the pharyngeal posterior third of the tongue. Its apex contains the foramen caecum, marking the embryonic thyroid origin.",
       "topicId": "e-face",
       "subtopic": "Tongue development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The palatine raphe marks midline palatal fusion and is not the boundary between the two tongue regions.",
+        "B": "The linguogingival region lies between tongue and gingiva, rather than separating oral and pharyngeal tongue surfaces.",
+        "C": "The median sulcus divides the oral tongue longitudinally rather than marking its posterior transverse developmental boundary.",
+        "D": "Circumvallate papillae lie just anterior to the sulcus terminalis, but the groove itself defines the boundary."
+      }
     },
     {
       "id": "dq-embryo-face-061",
@@ -5536,10 +5596,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Incomplete fusion of the lateral lingual swellings gives a bifid tongue; a short frenulum gives tongue-tie.",
+      "why": "Incomplete merging of paired lateral lingual swellings can produce a bifid tongue, typically with a midline division. The abnormality reflects disruption of the developmental union that normally establishes a continuous anterior tongue.",
       "topicId": "e-face",
       "subtopic": "Tongue development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Tongue-tie involves a restrictive lingual frenulum rather than incomplete midline merging of paired lingual swellings.",
+        "C": "Macroglossia denotes abnormal enlargement of the tongue and does not specifically describe a developmental midline cleft.",
+        "D": "Lingual thyroid results from abnormal thyroid descent and is not caused by failure of lingual swelling fusion.",
+        "E": "Geographic tongue involves migrating areas of papillary loss and inflammation rather than a congenital bifid configuration."
+      }
     },
     {
       "id": "dq-embryo-face-062",
@@ -5568,10 +5634,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The thyroid diverticulum arises at the foramen caecum on the floor of the pharynx, linking tongue and thyroid development.",
+      "why": "The thyroid follicular primordium arises as a median thickening of endoderm in the floor of the primitive pharynx. Its original site persists as the foramen caecum at the apex of the sulcus terminalis.",
       "topicId": "e-face",
       "subtopic": "Thyroid development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The copula contributes an early posterior lingual swelling rather than the median site of thyroid follicular origin.",
+        "C": "The sulcus terminalis contains the foramen caecum at its apex, which is the more precise thyroid landmark.",
+        "D": "The incisive foramen marks primary and secondary palate relationships rather than the embryonic site of thyroid origin.",
+        "E": "The stomodeum is the ectodermal primitive mouth, whereas the thyroid primordium arises from pharyngeal endoderm."
+      }
     },
     {
       "id": "dq-embryo-face-063",
@@ -5600,10 +5672,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The thyroglossal duct marks the descent path; it normally degenerates, leaving the foramen caecum as a remnant.",
+      "why": "The thyroid primordium descends from the floor of the primitive pharynx while temporarily retaining a narrow epithelial connection called the thyroglossal duct. This connection normally degenerates as the gland reaches its cervical location.",
       "topicId": "e-face",
       "subtopic": "Thyroid development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The nasolacrimal duct develops between maxillary and lateral nasal prominences rather than connecting thyroid and tongue.",
+        "B": "The vitelline duct connects the developing midgut to the yolk sac, not the descending thyroid primordium.",
+        "D": "Pharyngeal membranes are interfaces between ectoderm and endoderm rather than the epithelial tract accompanying thyroid descent.",
+        "E": "The cervical sinus encloses lateral pharyngeal clefts temporarily and does not connect the thyroid to the tongue."
+      }
     },
     {
       "id": "dq-embryo-face-064",
@@ -5632,10 +5710,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "By the 7th week the thyroid lies in its definitive position below the cricoid cartilage.",
+      "why": "The thyroid primordium descends anterior to the developing pharyngeal and laryngeal structures and normally reaches its pretracheal position by approximately the seventh embryonic week. Subsequent differentiation establishes mature follicular organisation and function.",
       "topicId": "e-face",
       "subtopic": "Thyroid development",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Ten weeks is later than the conventional completion of thyroid descent, although glandular differentiation continues afterwards.",
+        "B": "Twelve weeks relates more closely to developing thyroid functional maturation than to reaching the definitive cervical position.",
+        "C": "Sixteen weeks is well after normal anatomical thyroid descent has been completed during the embryonic period.",
+        "E": "The fourth week marks early formation of the thyroid primordium rather than completion of its cervical descent."
+      }
     },
     {
       "id": "dq-embryo-face-065",
@@ -5664,10 +5748,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Failure of descent leaves a lingual thyroid at the foramen caecum region.",
+      "why": "Failure or interruption of normal thyroid descent can leave functioning ectopic thyroid tissue near the foramen caecum at the tongue base. This lingual thyroid may represent the individual's only functional thyroid tissue.",
       "topicId": "e-face",
       "subtopic": "Thyroid development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "A thyroglossal cyst forms from residual duct tissue and does not necessarily contain an entire ectopic thyroid gland.",
+        "B": "A pyramidal lobe is a superior extension of thyroid tissue associated with duct remnants, not a lingual gland.",
+        "C": "Ectopic parathyroids arise from altered pharyngeal pouch migration rather than failure of median thyroid primordium descent.",
+        "D": "The tubercle of Zuckerkandl is a posterior thyroid projection rather than thyroid tissue retained at the tongue base."
+      }
     },
     {
       "id": "dq-embryo-face-066",
@@ -5696,10 +5786,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "A thyroglossal cyst is a midline neck swelling from a persistent thyroglossal duct remnant.",
+      "why": "A thyroglossal duct cyst develops when epithelial remnants of the transient thyroid descent tract persist and accumulate fluid. It commonly presents as a midline cervical lesion near the hyoid and may move with swallowing.",
       "topicId": "e-face",
       "subtopic": "Thyroid development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Branchial cleft cysts usually occur laterally and arise from developmental remnants associated with pharyngeal cleft structures.",
+        "C": "Dermoid cysts contain ectodermal elements and may occur in the midline, but do not specifically arise from thyroglossal duct remnants.",
+        "D": "Cystic hygroma is a lymphatic malformation rather than an epithelial cyst arising along the thyroid descent pathway.",
+        "E": "A ranula arises from salivary mucus accumulation, usually involving the sublingual gland rather than a thyroglossal duct remnant."
+      }
     },
     {
       "id": "dq-embryo-face-067",
@@ -5728,10 +5824,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Teeth form from oral ectoderm and neural-crest-derived ectomesenchyme, beginning about week 6.",
+      "why": "Tooth development depends on reciprocal signalling between oral ectoderm and neural crest-derived ectomesenchyme. The epithelial component produces enamel-forming ameloblasts, while mesenchymal derivatives contribute dentin, pulp and the supporting periodontal tissues.",
       "topicId": "e-face",
       "subtopic": "Teeth development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Paraxial mesoderm contributes craniofacial muscles, but dental ectomesenchyme derives principally from migrating cranial neural crest cells.",
+        "C": "Occipital somites contribute tongue muscle precursors rather than the principal connective-tissue precursors involved in odontogenesis.",
+        "D": "Lateral plate mesoderm forms many other skeletal and connective tissues but is not the main dental mesenchymal source.",
+        "E": "Endoderm lines portions of the primitive gut and does not provide the characteristic neural crest-derived dental ectomesenchyme."
+      }
     },
     {
       "id": "dq-embryo-face-068",
@@ -5760,10 +5862,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The ectodermal enamel organ forms ameloblasts and hence enamel; the mesenchymal dental papilla forms dentine and pulp.",
+      "why": "The dental lamina arises from oral ectoderm and gives rise to the epithelial enamel organ. Inner enamel epithelial cells differentiate into ameloblasts that synthesise enamel matrix following inductive interactions with dental papilla mesenchyme.",
       "topicId": "e-face",
       "subtopic": "Teeth development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The dental follicle is mesenchymal and contributes supporting periodontal tissues rather than the epithelial enamel organ.",
+        "B": "Endoderm contributes pharyngeal and gut epithelial structures, rather than the oral ectodermal enamel-forming epithelium.",
+        "D": "Neural crest-derived mesenchyme forms the dental papilla and follicle, not the epithelial cells producing enamel.",
+        "E": "Dental papilla supplies odontoblasts and pulp cells rather than the enamel organ's ameloblast lineage."
+      }
     },
     {
       "id": "dq-embryo-face-069",
@@ -5792,10 +5900,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The dental papilla (mesenchyme) forms odontoblasts (dentine) and the pulp; the dental follicle forms cementum, PDL and alveolar bone.",
+      "why": "The dental papilla consists of neural crest-derived ectomesenchyme within the concavity of the enamel organ. Peripheral papilla cells differentiate into dentin-producing odontoblasts, while its remaining central tissue becomes dental pulp.",
       "topicId": "e-face",
       "subtopic": "Teeth development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Dental follicle contributes cementum and periodontal supporting tissues, rather than the internal dentin and pulp components.",
+        "B": "Dental lamina is an epithelial structure giving rise to tooth buds, not the mesenchymal dental papilla.",
+        "C": "Stellate reticulum is part of the epithelial enamel organ and does not generate odontoblasts or pulp connective tissue.",
+        "E": "The enamel organ produces ameloblasts and associated epithelial structures rather than the mesenchymal dental pulp and dentin."
+      }
     },
     {
       "id": "dq-embryo-face-070",
@@ -5824,10 +5938,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The dental follicle (sac) gives rise to cementum, periodontal ligament and alveolar bone.",
+      "why": "The dental follicle surrounds the developing enamel organ and dental papilla as ectomesenchymal tissue. Its cells contribute cementoblasts, periodontal ligament fibroblasts and osteoblasts associated with supporting alveolar bone during tooth development.",
       "topicId": "e-face",
       "subtopic": "Teeth development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Dental papilla contributes dentin-producing odontoblasts and pulp connective tissue, rather than the external supporting periodontal structures.",
+        "B": "The enamel organ provides epithelial ameloblasts for enamel production, rather than the mesenchymal periodontal supporting tissues.",
+        "C": "Inner enamel epithelium differentiates into ameloblasts and does not directly generate cementoblasts or ligament fibroblasts.",
+        "D": "Dental lamina initiates epithelial tooth buds, rather than forming the surrounding mesenchymal follicular supporting tissue."
+      }
     },
     {
       "id": "dq-embryo-face-071",
@@ -5856,10 +5976,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Ameloblasts are lost once the tooth erupts, so enamel cannot be replaced; odontoblasts persist, so dentine can be.",
+      "why": "Ameloblasts deposit enamel before eruption but are lost from the tooth surface during eruption. Mature enamel therefore lacks cells capable of secreting replacement enamel matrix, although limited mineral remineralisation can still occur.",
       "topicId": "e-face",
       "subtopic": "Teeth development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Dentin lies beneath enamel and does not prevent regeneration by covering the erupted enamel surface.",
+        "C": "Odontoblasts persist at the pulp–dentin interface and can produce additional dentin, rather than being lost with ameloblasts.",
+        "D": "Dental pulp normally remains viable after eruption and does not explain the absence of enamel-forming cells.",
+        "E": "Cementum covers the root and does not normally replace crown enamel following the eruption of a tooth."
+      }
     },
     {
       "id": "dq-embryo-face-072",
@@ -5888,10 +6014,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "There are 20 deciduous teeth (10 per jaw) and 32 permanent teeth (16 per jaw).",
+      "why": "The primary dentition comprises twenty teeth, with two incisors, one canine and two molars in each quadrant. These teeth are progressively replaced by permanent successors during childhood, with permanent molars erupting posteriorly.",
       "topicId": "e-face",
       "subtopic": "Teeth development",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Twenty-eight describes permanent dentition when third molars are excluded, rather than the number of primary teeth.",
+        "C": "Thirty-two is the conventional complete adult permanent dentition including third molars, not the deciduous set.",
+        "D": "Sixteen would omit four teeth from the normal primary dentition of five teeth per quadrant.",
+        "E": "Twenty-four exceeds the usual primary tooth number, which contains no premolars and only two molars per quadrant."
+      }
     },
     {
       "id": "dq-embryo-face-073",
@@ -5920,10 +6052,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "At the cap stage the enamel organ, dental papilla and dental follicle first become distinguishable.",
+      "why": "During the cap stage, the epithelial tooth bud develops a concave enamel organ over a condensed dental papilla. The surrounding dental follicle becomes distinguishable, establishing the three major components of the developing tooth germ.",
       "topicId": "e-face",
       "subtopic": "Teeth development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Initiation establishes dental lamina before the three distinct morphological components of the tooth germ become recognisable.",
+        "B": "Maturation involves later differentiation and mineralisation rather than initial recognition of the cap-shaped enamel organ.",
+        "D": "The bud stage forms rounded epithelial ingrowths, preceding the characteristic concavity surrounding the dental papilla.",
+        "E": "The bell stage follows the cap stage and shows more advanced epithelial differentiation and crown shape specification."
+      }
     },
     {
       "id": "dq-embryo-resp-001",
@@ -5952,10 +6090,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "A laryngotracheal (respiratory) groove appears on the ventral wall of the foregut in week 4 and grows into the laryngotracheal diverticulum.",
+      "why": "The respiratory primordium emerges during the fourth week as a laryngotracheal groove in ventral foregut endoderm. This deepens and develops into a respiratory diverticulum that subsequently produces the developing lung buds.",
       "topicId": "e-resp",
       "subtopic": "Respiratory tree",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Bronchial buds emerge as the respiratory diverticulum branches, rather than being the earliest ventral foregut groove.",
+        "C": "Septum transversum contributes to diaphragm and liver-associated structures rather than the initial respiratory epithelial primordium.",
+        "D": "Pleuropericardial folds separate developing thoracic cavities and arise after the initial respiratory primordium appears.",
+        "E": "The cloacal membrane marks the caudal digestive and urogenital region rather than the cranial foregut respiratory origin."
+      }
     },
     {
       "id": "dq-embryo-resp-002",
@@ -5984,10 +6128,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The tracheoesophageal (laryngotracheal) septum divides the foregut into a ventral laryngotracheal tube and a dorsal oesophagus.",
+      "why": "The respiratory diverticulum separates from the dorsal foregut as the tracheoesophageal region undergoes coordinated remodelling. The resulting tracheoesophageal septum conventionally describes the partition between the ventral respiratory tube and dorsal oesophagus.",
       "topicId": "e-resp",
       "subtopic": "Respiratory tree",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The dorsal mesentery suspends portions of the digestive tract and does not form the tracheoesophageal partition.",
+        "C": "The urorectal septum divides the cloacal region into anorectal and urogenital compartments rather than separating respiratory and oesophageal tubes.",
+        "D": "The laryngeal inlet maintains communication with the pharynx rather than constituting the septum separating the two tubes.",
+        "E": "Pleuroperitoneal membranes contribute to diaphragm development and closure of thoracoabdominal communications, not foregut tube partitioning."
+      }
     },
     {
       "id": "dq-embryo-resp-003",
@@ -6016,10 +6166,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Respiratory epithelium (and glands) arise from foregut endoderm; the cartilage, smooth muscle and connective tissue come from splanchnic mesoderm.",
+      "why": "The epithelial lining of the lower respiratory tract develops from the endoderm of the ventral foregut diverticulum. Its descendants differentiate into conducting airway epithelial cells and alveolar epithelial populations specialised for gas exchange.",
       "topicId": "e-resp",
       "subtopic": "Respiratory tree",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Somatic mesoderm contributes parietal body-wall and serosal structures, rather than respiratory epithelial cells arising from foregut.",
+        "B": "Surface ectoderm contributes other epithelial structures but does not form the lower respiratory endodermal lining.",
+        "D": "Splanchnic mesoderm contributes respiratory connective tissue, cartilage and smooth muscle rather than the epithelial luminal lining.",
+        "E": "Neural crest contributes selected peripheral neural and skeletal structures, not the principal epithelium of the lower respiratory tract."
+      }
     },
     {
       "id": "dq-embryo-resp-004",
@@ -6048,10 +6204,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Splanchnic (visceral) mesoderm forms the cartilage, smooth muscle and connective tissue around the endodermal airway.",
+      "why": "Splanchnic lateral plate mesoderm surrounding the respiratory diverticulum differentiates into smooth muscle, cartilage and connective tissue of the lower respiratory tree. Foregut endoderm instead produces the specialised epithelial lining of these structures.",
       "topicId": "e-resp",
       "subtopic": "Respiratory tree",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Neural crest contributes selected craniofacial and laryngeal structures, but the lower airway supporting tissue chiefly derives from splanchnic mesoderm.",
+        "B": "Surface ectoderm is not the mesenchymal source of lower airway cartilage and smooth muscle surrounding the respiratory diverticulum.",
+        "C": "The notochord provides axial patterning signals and does not directly form the structural mesenchyme of the respiratory tree.",
+        "E": "Foregut endoderm produces airway epithelium rather than the surrounding cartilage and smooth-muscle components."
+      }
     },
     {
       "id": "dq-embryo-resp-005",
@@ -6080,10 +6242,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Imperfect partitioning of the foregut gives a tracheoesophageal fistula, often with oesophageal atresia.",
+      "why": "Abnormal separation of the ventral respiratory tube from the dorsal oesophagus may leave a tracheoesophageal fistula, often associated with oesophageal atresia. The persistent communication allows passage of fluid or air between the two systems.",
       "topicId": "e-resp",
       "subtopic": "Respiratory tree",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Diaphragmatic hernia results from abnormal formation of the diaphragm rather than incomplete foregut respiratory and oesophageal separation.",
+        "B": "Congenital pulmonary cysts involve abnormal airway or lung development rather than the specific persistent communication described here.",
+        "C": "Congenital lobar overinflation involves abnormal airway mechanics, rather than a direct connection between trachea and oesophagus.",
+        "D": "Cleft palate results from abnormal palatal shelf development and fusion, not defective respiratory diverticulum partitioning."
+      }
     },
     {
       "id": "dq-embryo-resp-006",
@@ -6112,10 +6280,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The right main bronchus is wider and more vertical, so aspirated material tends to enter it.",
+      "why": "In adults, the right main bronchus is generally wider, shorter and more vertical than the left. Aspirated material therefore often follows its more direct route, although distribution also depends on body position and age.",
       "topicId": "e-resp",
       "subtopic": "Respiratory tree",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "A longer more horizontal course characterises the left main bronchus rather than the usual right bronchial configuration.",
+        "C": "The right main bronchus generally has a larger calibre, rather than being narrower than the left.",
+        "D": "The right main bronchus takes a relatively direct descending course, rather than a sharply medial angled trajectory.",
+        "E": "Both main bronchi contain cartilaginous support and other wall components, so cartilage alone does not explain aspiration laterality."
+      }
     },
     {
       "id": "dq-embryo-resp-007",
@@ -6144,10 +6318,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The right main bronchus divides into three lobar bronchi, the left into two, matching the lung lobes.",
+      "why": "The right primary bronchial bud divides into three secondary bronchi corresponding to the superior, middle and inferior pulmonary lobes. The left primary bronchial bud produces two secondary bronchi for its two lobes.",
       "topicId": "e-resp",
       "subtopic": "Respiratory tree",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Five is the combined number of conventional lobar bronchi across both lungs, rather than the right lung alone.",
+        "C": "Two corresponds to the usual number of left lobar bronchi, not the right-sided branching arrangement.",
+        "D": "Four is not the ordinary number of right lobar bronchi, which correspond to three anatomical pulmonary lobes.",
+        "E": "One describes the initial right main bronchus before its division into the three secondary lobar branches."
+      }
     },
     {
       "id": "dq-embryo-resp-008",
@@ -6176,10 +6356,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "In the canalicular phase the respiratory portion differentiates and capillaries approach the epithelium, setting up the air-blood barrier.",
+      "why": "During the canalicular stage, distal respiratory epithelium thins and capillaries approach the developing airspaces, initiating formation of a gas-exchange barrier. Subsequent saccular development expands these specialised surfaces and improves potential pulmonary gas exchange.",
       "topicId": "e-resp",
       "subtopic": "Lung phases",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The alveolar stage expands and matures gas-exchange units, rather than being the earliest stage establishing epithelial–capillary proximity.",
+        "B": "The embryonic phase establishes lung buds and major airways before distal gas-exchange barrier differentiation occurs.",
+        "D": "The pseudoglandular phase produces conducting airway branching but lacks adequate specialised distal surfaces for gas exchange.",
+        "E": "The terminal saccular phase further develops thin exchange surfaces that begin forming during the earlier canalicular stage."
+      }
     },
     {
       "id": "dq-embryo-resp-009",
@@ -6272,10 +6458,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Lack of surfactant raises alveolar surface tension, causing RDS, common in preterm infants.",
+      "why": "Neonatal respiratory distress syndrome results principally from insufficient pulmonary surfactant, especially in preterm infants. Elevated surface tension promotes alveolar collapse, reduced compliance and hypoxaemia, with proteinaceous hyaline membranes developing in injured airspaces.",
       "topicId": "e-resp",
       "subtopic": "Respiratory tree",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Excess amniotic fluid may accompany selected fetal disorders, but it is not the primary cause of surfactant-deficient respiratory distress.",
+        "C": "Failure of bronchial branching can cause pulmonary hypoplasia, rather than the characteristic surfactant deficiency of neonatal respiratory distress syndrome.",
+        "D": "Tracheoesophageal fistula causes abnormal airway–oesophageal communication and aspiration risk, not the primary alveolar surface-tension defect.",
+        "E": "Diaphragmatic herniation may impair lung growth but is a distinct developmental cause of respiratory compromise."
+      }
     },
     {
       "id": "dq-embryo-resp-012",
@@ -6304,10 +6496,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The placenta is the respiratory organ until birth; the lungs develop structurally without functioning.",
+      "why": "Before birth, placental chorionic villi provide the interface for oxygen uptake and carbon dioxide transfer between maternal and fetal circulations. Fetal lungs are fluid-filled and receive limited blood flow, rather than providing air-based gas exchange.",
       "topicId": "e-resp",
       "subtopic": "Respiratory tree",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The fetal liver supports metabolism and haematopoiesis but does not exchange respiratory gases directly with maternal blood.",
+        "C": "Fetal lungs develop and perform breathing movements but do not provide effective air-based gas exchange before birth.",
+        "D": "Amniotic fluid surrounds and protects the fetus, rather than serving as its principal respiratory gas-exchange interface.",
+        "E": "The ductus arteriosus redirects blood away from fetal lungs but does not itself exchange gases with maternal blood."
+      }
     },
     {
       "id": "dq-embryo-resp-013",
@@ -6336,10 +6534,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Oligohydramnios restricts lung expansion and fetal breathing movements, causing hypoplastic lungs.",
+      "why": "Prolonged severe oligohydramnios can restrict normal fetal lung expansion and alter thoracic development. Reduced growth of respiratory airways and exchange tissues may produce pulmonary hypoplasia, especially when fluid loss occurs early in gestation.",
       "topicId": "e-resp",
       "subtopic": "Respiratory tree",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Congenital lung cysts arise from abnormal respiratory development rather than representing the characteristic consequence of reduced amniotic fluid.",
+        "B": "Diaphragmatic hernia may independently cause pulmonary hypoplasia through compression, but it is not the defining consequence of oligohydramnios.",
+        "D": "Congenital lobar overinflation involves airway mechanics and is not the characteristic outcome of impaired fetal lung expansion.",
+        "E": "Tracheoesophageal fistula results from abnormal foregut separation rather than reduced amniotic fluid volume itself."
+      }
     },
     {
       "id": "dq-embryo-resp-014",
@@ -6400,10 +6604,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The pericardial, pleural and peritoneal cavities all derive from the intraembryonic coelom in the lateral plate mesoderm.",
+      "why": "The intraembryonic coelom develops within lateral plate mesoderm and initially forms a horseshoe-shaped cavity. Embryonic folding and subsequent partitioning produce the pericardial, pleural and peritoneal cavities from this common developmental space.",
       "topicId": "e-resp",
       "subtopic": "Body cavities",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The amniotic cavity surrounds the embryo externally and does not form the internal serous body cavities.",
+        "B": "The extraembryonic coelom surrounds the early embryonic structures, whereas internal body cavities develop from the intraembryonic coelom.",
+        "C": "The neural tube encloses the developing central nervous system canal rather than the body's serous cavities.",
+        "D": "The yolk sac contributes early nutritional and developmental functions but does not form the internal pleural and peritoneal spaces."
+      }
     },
     {
       "id": "dq-embryo-resp-016",
@@ -6432,10 +6642,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The intraembryonic coelom splits lateral mesoderm into somatic (parietal) and splanchnic (visceral) layers.",
+      "why": "Cavities within lateral plate mesoderm coalesce into the intraembryonic coelom, separating somatic mesoderm adjacent to ectoderm from splanchnic mesoderm adjacent to endoderm. Their derivatives support body walls and developing viscera respectively.",
       "topicId": "e-resp",
       "subtopic": "Body cavities",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Paraxial mesoderm lies closer to the neural axis and forms somites rather than being a leaflet of lateral plate.",
+        "C": "Intermediate mesoderm lies between paraxial and lateral plate regions and contributes urogenital development rather than coelomic leaflets.",
+        "D": "Notochordal tissue forms the axial midline rather than one of the layers produced by lateral plate cavitation.",
+        "E": "The conventional paired layer names are somatic and splanchnic, rather than somatic and a nonspecific dorsal layer."
+      }
     },
     {
       "id": "dq-embryo-resp-017",
@@ -6464,10 +6680,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The pleuropericardial folds grow in as the lungs expand and fuse to separate the pleural and pericardial cavities.",
+      "why": "Pleuropericardial folds grow into the developing thoracic coelomic spaces and separate pleural cavities from the pericardial cavity. Their membranes contribute to the fibrous pericardium and carry developing phrenic nerves during this process.",
       "topicId": "e-resp",
       "subtopic": "Body cavities",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The urorectal septum partitions the cloaca into digestive and urogenital regions rather than separating thoracic serous cavities.",
+        "C": "Pleuroperitoneal folds close communications between pleural and peritoneal cavities, not between pleural and pericardial cavities.",
+        "D": "Septum transversum contributes to the diaphragm's central tendon and does not principally partition the cardiac and pulmonary cavities.",
+        "E": "Dorsal mesenteric tissue contributes organ suspension and selected diaphragm components rather than the pleuropericardial partition."
+      }
     },
     {
       "id": "dq-embryo-resp-018",
