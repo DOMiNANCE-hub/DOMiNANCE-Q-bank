@@ -567,5 +567,155 @@
       "C": "Immunodeficiency impairs defence. Losing the distinction between self and non-self instead risks inappropriate attack on the body's tissues.",
       "D": "Tolerance is a mechanism that normally limits responses to self antigens. Its failure can contribute to autoimmunity."
     }
+  },
+  "bio-279": {
+    "why": "Severe combined immunodeficiency is a disorder of impaired lymphocyte development or function. The hallmark is inadequate immune protection. Rheumatoid arthritis, Graves disease and autoimmune adrenal insufficiency involve inappropriate responses to self tissues.",
+    "notes": {
+      "A": "Rheumatoid arthritis is an immune-mediated inflammatory disease that commonly affects joints. It is classified as autoimmune.",
+      "C": "Graves disease involves autoantibodies that stimulate the thyroid-stimulating hormone receptor.",
+      "D": "Autoimmune destruction of the adrenal cortex is a common cause of Addison disease. Other causes of primary adrenal insufficiency also exist."
+    }
+  },
+  "bio-280": {
+    "why": "Type I hypersensitivity typically begins with sensitisation. The initial exposure induces allergen-specific IgE, which binds mast-cell and basophil receptors. Later exposure can cross-link that IgE and trigger release of mediators.",
+    "notes": {
+      "B": "A later response can produce symptoms, but allergen-specific IgE normally has to be generated during sensitisation first.",
+      "C": "Cellular injury is not the required immune priming event. Priming is the development of allergen-specific IgE.",
+      "D": "Degranulation is a downstream event that occurs after an allergen cross-links IgE on a sensitised cell."
+    }
+  },
+  "bio-282": {
+    "why": "Type II hypersensitivity is mediated by antibodies, usually IgG or IgM, directed against cell-associated antigens or receptors. The antibodies can cause cell injury through immune effectors or alter receptor function.",
+    "notes": {
+      "B": "Mast-cell degranulation is characteristic of immediate type I hypersensitivity rather than the defining type II mechanism.",
+      "C": "Erythrocytes can be targets of type II reactions, as in some transfusion reactions. They are not involved as the defining effector in every type II reaction.",
+      "D": "Histamine is a major early mediator of immediate allergy. Antibody binding to a cell-associated antigen defines type II."
+    }
+  },
+  "bio-284": {
+    "why": "Cancer can develop as genetic changes weaken controls on division, survival and tissue invasion. Loss of cell-cycle control can allow abnormal cells to continue proliferating when normal growth signals would stop them.",
+    "notes": {
+      "A": "Death of a damaged cell usually limits expansion of that cell. Cancer depends on survival and outgrowth of abnormal cells.",
+      "B": "Apoptosis is regulated cell death and can prevent damaged cells from expanding. Resistance to apoptosis can contribute to cancer.",
+      "D": "Cell-cycle arrest prevents further division. Cancer involves failure or evasion of controls that would normally impose arrest."
+    }
+  },
+  "bio-285": {
+    "why": "FcεRI is the high-affinity receptor for the Fc portion of IgE on mast cells and basophils. When a multivalent allergen cross-links receptor-bound IgE, intracellular signalling can trigger degranulation.",
+    "notes": {
+      "B": "FcεRII, also called CD23, is the lower-affinity IgE receptor. It is distinct from the high-affinity mast-cell receptor.",
+      "C": "Membrane immunoglobulin serves as an antigen receptor on B cells. It is not the mast-cell receptor that binds the Fc region of IgE.",
+      "D": "T-cell receptors recognise antigens in an appropriate presenting context. They do not hold IgE on mast cells."
+    }
+  },
+  "bio-286": {
+    "why": "Atopy is a personal or familial predisposition to develop IgE responses to common environmental allergens. It increases the likelihood of immediate allergic conditions such as allergic rhinitis or allergic asthma.",
+    "notes": {
+      "A": "Atrophy refers to a decrease in cell or tissue size. It does not describe inherited susceptibility to allergy.",
+      "C": "Anergy is functional unresponsiveness of an immune cell, rather than an increased tendency to develop an allergic response.",
+      "D": "Synergy occurs when combined signals produce a greater effect together. It is not the name for a familial predisposition to immediate allergy."
+    }
+  },
+  "bio-287": {
+    "why": "Systemic lupus erythematosus is an autoimmune disease in which immune complex-mediated injury is a classic mechanism. Immediate IgE-mediated reactions contribute to allergic rhinitis and allergic forms of asthma and atopic disease.",
+    "notes": {
+      "A": "Allergic asthma can involve allergen-specific IgE and mast-cell mediators, although not all asthma is allergic.",
+      "B": "Allergic rhinitis is a classic immediate hypersensitivity condition triggered by common airborne allergens.",
+      "D": "Atopic dermatitis has several mechanisms, including skin-barrier dysfunction and inflammation. IgE-associated atopy can be part of its presentation."
+    }
+  },
+  "bio-288": {
+    "why": "Naturally occurring ABO isohaemagglutinins are often IgM. In an incompatible transfusion, they can activate complement on donor red cells and cause rapid haemolysis. IgG ABO antibodies can also occur, particularly in group O individuals.",
+    "notes": {
+      "A": "IgG contributes to several red-cell immune reactions and can be present in the ABO system, but IgM is the usual teaching answer for acute ABO incompatibility.",
+      "C": "IgA provides mucosal protection and is not the principal isotype responsible for classic ABO red-cell haemolysis.",
+      "D": "IgE mediates many immediate allergies and is not the predominant ABO antibody in this reaction."
+    }
+  },
+  "bio-289": {
+    "why": "Interferon gamma supports cell-mediated immunity and macrophage activation in delayed hypersensitivity. Interferon gamma release assays detect a memory T-cell response that can support a diagnosis of tuberculosis infection. The result alone does not distinguish latent infection from active disease.",
+    "notes": {
+      "A": "TNF alpha contributes to inflammation and granuloma biology but is not the interferon measured by the named class of tests.",
+      "B": "TNF beta, also called lymphotoxin alpha, has immune signalling roles but is not the usual readout for these assays.",
+      "C": "Interferon alpha is a type I interferon with prominent antiviral roles. These assays instead measure the response involving interferon gamma."
+    }
+  },
+  "bio-291": {
+    "why": "Ulcerative colitis is a form of inflammatory bowel disease in which an inappropriate response to intestinal microbes may contribute to inflammation. Host genetics, the mucosal barrier and environmental factors also influence disease.",
+    "notes": {
+      "B": "Many peptic ulcers are associated with Helicobacter pylori or anti-inflammatory drug use. They are not the classic example of a failure of tolerance to the colonic microbiome.",
+      "C": "Vomiting is a nonspecific reflex symptom. It does not identify the chronic mucosal inflammation described here.",
+      "D": "Bronchoconstriction can occur in airway disease and allergy, rather than being the expected manifestation of chronic immune dysregulation in the colon."
+    }
+  },
+  "bio-292": {
+    "why": "Corticosteroids can suppress inflammatory gene expression and are used to control inflammation in many autoimmune diseases, particularly during flares. Long-term treatment is disease-specific and may rely on other immunomodulatory therapies.",
+    "notes": {
+      "A": "Vaccines generally prepare protective immunity against infection. They are not the usual general anti-inflammatory treatment for established autoimmunity.",
+      "B": "Allergen desensitisation can treat selected allergies. It is not a general treatment for immune responses directed against self.",
+      "C": "Antihistamines can alleviate some immediate allergic symptoms but generally do not control the underlying inflammation of autoimmune disease."
+    }
+  },
+  "bio-293": {
+    "why": "Autoimmunity involves an immune response directed at self antigens because self-tolerance has failed. An excessive response to a foreign but harmless antigen, such as pollen, can instead cause allergy.",
+    "notes": {
+      "A": "An overreaction alone is not sufficient to define autoimmunity. The immune response must be directed against components of the host."
+    }
+  },
+  "bio-295": {
+    "why": "Anergy is a state of functional unresponsiveness. In the periphery, a lymphocyte that recognises antigen without the necessary co-stimulatory signals can become anergic and fail to mount a response to that antigen.",
+    "notes": {
+      "B": "Anergy is one established route to peripheral tolerance, alongside deletion of some lymphocytes and suppression by regulatory cells."
+    }
+  },
+  "bio-296": {
+    "why": "Central tolerance develops while lymphocytes mature. T cells encounter self antigens in the thymus, and B cells undergo tolerance checks in the bone marrow. Outcomes can include deletion, receptor editing or regulatory differentiation, depending on the cell.",
+    "notes": {
+      "B": "The thymus and bone marrow are the main sites of early tolerance checks for developing T cells and B cells, respectively."
+    }
+  },
+  "bio-297": {
+    "why": "Peripheral tolerance can include deletion of mature self-reactive lymphocytes by apoptosis. Persistent or inappropriate antigen recognition can trigger death signals, while anergy and regulatory suppression provide other means of limiting responses.",
+    "notes": {
+      "B": "Programmed death can remove self-reactive cells outside the primary lymphoid organs and thereby contribute to tolerance."
+    }
+  },
+  "bio-298": {
+    "why": "Some medications or other agents can trigger an autoimmune syndrome or promote autoantibody formation in susceptible individuals. The mechanism depends on the exposure and can involve altered immune regulation or recognition.",
+    "notes": {
+      "B": "Drug-induced autoimmune syndromes demonstrate that an external chemical exposure can contribute to loss of normal tolerance."
+    }
+  },
+  "bio-299": {
+    "why": "Histamine is formed by decarboxylation of histidine. Histidine decarboxylase removes the carboxyl group as carbon dioxide, leaving the corresponding biogenic amine.",
+    "notes": {
+      "A": "The key reaction removes carbon dioxide from histidine. It is decarboxylation rather than a reduction."
+    }
+  },
+  "bio-300": {
+    "why": "Histidine decarboxylase removes the alpha-carboxyl group of histidine to form histamine. Released histamine can dilate vessels and increase vascular permeability, contributing to redness and swelling in an immediate skin reaction.",
+    "notes": {
+      "B": "Adding a methyl group does not make histamine from histidine. Methylation can instead occur during histamine metabolism.",
+      "C": "Phosphorylation adds a phosphate group and would not produce the biogenic amine in this reaction.",
+      "D": "Isomerisation rearranges atoms without the loss of carbon dioxide needed to convert histidine to histamine."
+    }
+  },
+  "bio-302": {
+    "why": "Tryptophan is converted to 5-hydroxytryptophan and then to serotonin. Dopamine is made through a different pathway, in which tyrosine is converted to L-DOPA and then decarboxylated.",
+    "notes": {
+      "A": "The serotonin assertion is true, but the reason is false because dopamine is derived from tyrosine rather than tryptophan.",
+      "B": "Both claims cannot be true. Tryptophan feeds serotonin synthesis, whereas tyrosine feeds catecholamine synthesis.",
+      "D": "Tryptophan is a serotonin precursor, so the assertion should not be marked false.",
+      "E": "The reason is inaccurate, but the stated relationship between tryptophan and serotonin is well established."
+    }
+  },
+  "bio-308": {
+    "why": "Severe combined immunodeficiency causes a profound defect in adaptive immune function. Affected infants are vulnerable to serious or recurrent infections, including fungal infections, and some live vaccines can cause disease in a severely immunocompromised child.",
+    "notes": {
+      "A": "Complications from certain live vaccines are possible, and fungal or other severe infections also reflect the immune defect.",
+      "B": "Live vaccine-associated infection and severe yeast infection are possible. Susceptibility to a broad range of infections is also increased.",
+      "C": "Fungal infections and general susceptibility are characteristic. Severe immune impairment can also allow disease from certain live vaccines.",
+      "D": "Complications can follow certain live vaccines, and overall susceptibility is increased. Persistent or severe yeast infection is another recognised finding."
+    }
   }
 }
