@@ -725,3 +725,9 @@
 - Key: A — a fall in prostaglandins after cord clamping.
 - Concern: Ductus venosus closure primarily follows cessation of umbilical venous flow and haemodynamic changes after cord clamping. Prostaglandin withdrawal is better established for ductus arteriosus closure; verify the keyed mechanism. Original explanation and key untouched.
 - Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-face-021 — Key or premise review
+- Stem: The intrinsic muscles of the larynx are derived from the
+- Key: A — sixth arch.
+- Concern: The cricothyroid is an intrinsic laryngeal muscle derived from the fourth arch; most other intrinsic muscles are sixth arch derivatives. The keyed statement lacks this necessary exception. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
