@@ -203,5 +203,147 @@
       "D": "Severe hypertriglyceridaemia is an established cause of acute pancreatitis, so the assertion is not false.",
       "E": "Both the association and the proposed microvascular and lipotoxic explanation have physiological support."
     }
+  },
+  "bio-310": {
+    "why": "Vertebrate cytosolic fatty acid synthase is a type I synthase. Each polypeptide contains multiple catalytic domains and an ACP domain, and two polypeptides associate to form the functional complex that commonly produces palmitate.",
+    "notes": {
+      "A": "Separate proteins carry out the individual reactions of type II synthase systems. The vertebrate cytosolic enzyme combines the activities in one polypeptide.",
+      "B": "Cytosolic fatty acid synthase is encoded by a nuclear gene, rather than by the mitochondrial genome.",
+      "C": "The major pathway for de novo palmitate production is cytosolic. Mitochondria have a distinct specialised synthesis system.",
+      "E": "Multiple enzyme activities assembled in one protein chain are a defining feature of the vertebrate type I synthase."
+    }
+  },
+  "bio-313": {
+    "why": "Lovastatin is a statin. Its active form competitively inhibits HMG-CoA reductase, reducing mevalonate formation and hepatic cholesterol synthesis.",
+    "notes": {
+      "A": "Clofibrate is a fibrate that acts mainly through PPAR-alpha to change expression of lipid metabolism genes.",
+      "B": "Gemfibrozil is a fibrate used to lower triglycerides. Its principal mechanism does not involve direct inhibition of HMG-CoA reductase.",
+      "D": "Cholestyramine binds bile acids in the gut and increases their faecal loss. It does not directly inhibit the reductase.",
+      "E": "Lovastatin has a well-defined direct inhibitory action at the reductase substrate-binding site."
+    }
+  },
+  "bio-314": {
+    "why": "Simvastatin inhibits hepatic HMG-CoA reductase, which lowers intracellular cholesterol and increases LDL receptor expression. The resulting decline in circulating LDL reduces the risk of atherosclerotic cardiovascular events.",
+    "notes": {
+      "A": "Low-dose niacin is not standard drug therapy for atherosclerotic cardiovascular risk reduction. Lipid effects from pharmacological niacin do not substitute for established statin benefit.",
+      "B": "High-dose vitamin C is not an established substitute for LDL-lowering therapy to reduce atherosclerotic events.",
+      "C": "Bariatric surgery can improve some cardiovascular risk factors in selected patients, but it is a procedure rather than the drug treatment asked for.",
+      "D": "Dietary modification contributes to risk reduction. It is a lifestyle intervention rather than a medication."
+    }
+  },
+  "bio-317": {
+    "why": "Liver-derived VLDL contains one apoB-100 molecule per particle. ApoB-100 is the structural scaffold and remains with the particle as it is converted to IDL and, for some particles, LDL.",
+    "notes": {
+      "B": "ApoB-48 is a shorter product expressed in the intestine and is the structural protein of chylomicrons.",
+      "C": "ApoA-I is the principal structural apolipoprotein of HDL, rather than the scaffold of VLDL.",
+      "D": "ApoC-II can be carried on VLDL and activates lipoprotein lipase. It is exchangeable and not the main structural protein.",
+      "E": "ApoE helps hepatic receptors recognise some triglyceride-rich remnants. It is not the fixed structural scaffold of VLDL."
+    }
+  },
+  "bio-318": {
+    "why": "Persistently elevated VLDL can increase exposure to atherogenic apoB-containing remnant particles. Smaller VLDL remnants can enter and be retained in the arterial wall, contributing to atherosclerotic cardiovascular disease.",
+    "notes": {
+      "B": "VLDL and its remnants carry cholesterol as well as triglyceride. Persistent elevation does not characteristically cause low blood cholesterol.",
+      "C": "Hepatosplenomegaly can occur in severe chylomicronaemia or other disorders. It is not the principal long-term consequence of chronically raised VLDL.",
+      "D": "Severe hypertriglyceridaemia can cause abdominal pain from pancreatitis. Atherosclerosis is the key long-term vascular consequence of increased atherogenic remnants.",
+      "E": "Lipoprotein lipase deficiency can cause triglyceride-rich particles to accumulate. It is a possible underlying disorder, rather than a consequence of increased VLDL."
+    }
+  },
+  "bio-319": {
+    "why": "Many lipidoses are inherited storage disorders in which a defect in lipid degradation causes particular substrates to accumulate. Demonstration of reduced activity of the relevant enzyme can support the diagnosis, sometimes together with genetic and biomarker tests.",
+    "notes": {
+      "A": "Classic lipid storage disorders are usually inherited rather than acquired during life.",
+      "B": "The substrate typically accumulates because it cannot be degraded normally. Its concentration may rise in affected tissue rather than fall.",
+      "C": "These disorders can affect nervous tissue, liver and other organs. They do not generally cause ordinary obesity by lipid accumulation in the stomach.",
+      "E": "Some accumulated lipids or derivatives can be detected in body fluids and serve as useful biomarkers, depending on the disorder."
+    }
+  },
+  "bio-321": {
+    "why": "Statins lower hepatic cholesterol synthesis and increase expression of functioning hepatic LDL receptors. This increases clearance of circulating LDL and usually lowers LDL cholesterol during treatment.",
+    "notes": {
+      "A": "A rise in total blood cholesterol is not the expected response when the major LDL cholesterol fraction is being lowered.",
+      "B": "Statins act chiefly on cholesterol synthesis and LDL clearance, not by lowering blood glucose.",
+      "D": "Fatty acid beta-oxidation is a separate pathway. Reduced oxidation is not the usual marker of an effective statin response.",
+      "E": "Hepatic LDL uptake normally increases during statin treatment, so circulating LDL tends to fall rather than rise."
+    }
+  },
+  "bio-322": {
+    "why": "ApoC-II normally activates lipoprotein lipase. When apoC-II is deficient, triglycerides in chylomicrons are cleared poorly, producing severe hypertriglyceridaemia. This can resemble inherited lipoprotein lipase deficiency.",
+    "notes": {
+      "A": "Type I hyperlipoproteinaemia is defined primarily by accumulation of chylomicrons rather than an isolated postprandial increase in VLDL.",
+      "B": "Failure to activate lipoprotein lipase impairs removal of circulating triglyceride, so a normal triglyceride level is not the expected hallmark.",
+      "D": "Chylomicrons carry some cholesterol, but the most characteristic change is a major elevation of triglycerides.",
+      "E": "Reduced lipoprotein lipase activity decreases triglyceride clearance, so triglyceride-rich particles remain in plasma."
+    }
+  },
+  "bio-324": {
+    "why": "HDL is richest in protein relative to lipid and has the greatest density among these particles. The density then decreases through LDL and VLDL, with triglyceride-rich chylomicrons least dense.",
+    "notes": {
+      "A": "LDL is denser than VLDL and must precede it when the particles are listed from most to least dense.",
+      "C": "HDL has greater density than LDL and chylomicrons, so it belongs at the beginning rather than after them.",
+      "D": "VLDL is less dense than LDL and HDL. Chylomicrons are the least dense, so they belong at the end."
+    }
+  },
+  "bio-391": {
+    "why": "Atherosclerosis is a disease of the intima of medium and large arteries. Retained apoB-containing lipoproteins and subsequent inflammatory and fibrous responses contribute to plaque formation. The defining process does not take place in capillary walls.",
+    "notes": {
+      "A": "Both claims misidentify capillaries as the site of disease. Plaques form in the arterial intima rather than beneath an outer capillary lining.",
+      "B": "The vessel and layer descriptions are both inaccurate, so neither claim supplies a valid explanation.",
+      "C": "Plaque-related thickening involves arteries, not capillaries. The assertion therefore misstates the affected vessels.",
+      "D": "Lipid retention occurs in the arterial intima. The reason is also inaccurate because it places the lesion in capillaries."
+    }
+  },
+  "bio-443": {
+    "why": "A total plasma cholesterol above 7.0 mmol/L is markedly elevated among these choices. Clinical decisions also depend on the LDL cholesterol value, family history and other findings, rather than total cholesterol alone.",
+    "notes": {
+      "B": "Low bile acid concentrations can affect intestinal fat handling. They are not a plasma cholesterol measurement.",
+      "C": "Fat malabsorption can result from several digestive disorders. It does not itself indicate markedly elevated plasma cholesterol.",
+      "D": "HMG-CoA reductase participates in cholesterol synthesis. Deficiency of the enzyme is not a measured high cholesterol level.",
+      "E": "An absence of a heart attack does not exclude high plasma cholesterol. Cholesterol is measured directly."
+    }
+  },
+  "bio-444": {
+    "why": "Bile salts help stabilise small lipid droplets and form mixed micelles that carry lipid digestion products. Low delivery of bile salts to the intestine can impair emulsification and make fat absorption less efficient.",
+    "notes": {
+      "A": "High plasma cholesterol measures a circulating lipid concentration. It does not show that too few bile salts reach the intestinal lumen.",
+      "C": "Impaired fat absorption can follow defective emulsification. It is a possible result rather than the upstream loss of an emulsifying agent.",
+      "D": "HMG-CoA reductase is part of cholesterol synthesis, but the most direct defect here is reduced intestinal availability of bile salts.",
+      "E": "The absence of a heart attack does not explain how dietary fat is dispersed in the intestine."
+    }
+  },
+  "bio-445": {
+    "why": "Poor emulsification can limit access of lipases to dietary fat and can accompany insufficient mixed-micelle formation. This reduces absorption of long-chain lipid products and can lead to fatty stools and fat-soluble vitamin malabsorption.",
+    "notes": {
+      "A": "Defective emulsification directly affects intestinal lipid processing. A high plasma cholesterol level is not its expected presentation.",
+      "B": "A low bile salt supply can cause defective emulsification. It is an upstream factor rather than the resulting problem with nutrient uptake.",
+      "D": "HMG-CoA reductase is involved in cholesterol synthesis. Deficient activity is not a clinical manifestation diagnostic of low emulsification.",
+      "E": "The absence of a heart attack does not indicate whether dietary fat is being digested and absorbed."
+    }
+  },
+  "bio-458": {
+    "why": "Carrots are plant foods and are not a meaningful dietary source of cholesterol. Plant tissues primarily contain phytosterols. Butter, cheese and egg yolk are animal foods that contribute cholesterol.",
+    "notes": {
+      "A": "Butter contains dairy fat and can provide dietary cholesterol, although the amount depends on the serving.",
+      "B": "Cheese is made from milk and contains some cholesterol, with variation according to fat content and serving size.",
+      "C": "Egg yolk contains cholesterol in its lipid fraction, in contrast to typical plant foods."
+    }
+  },
+  "bio-903": {
+    "why": "Bile salts are derived from cholesterol. Hepatocytes convert the sterol into primary bile acids, which can be conjugated with glycine or taurine before secretion into bile.",
+    "notes": {
+      "B": "Gangliosides are glycosphingolipids built from ceramide and an oligosaccharide that contains sialic acid.",
+      "C": "Geraniol is a monoterpene alcohol formed from isoprenoid precursors. It is not made by modifying a sterol.",
+      "D": "Phosphatidylglycerol is a glycerophospholipid with a glycerol head group. Its backbone is not cholesterol.",
+      "E": "Prostaglandins are eicosanoids formed from polyunsaturated fatty acids, often arachidonic acid."
+    }
+  },
+  "bio-904": {
+    "why": "Statins competitively inhibit HMG-CoA reductase, slowing conversion of HMG-CoA to mevalonate. Lower hepatic cholesterol increases LDL receptor expression, which promotes removal of LDL from blood.",
+    "notes": {
+      "B": "Lipoprotein lipase hydrolyses triglycerides in circulating particles. It is not the direct enzyme target of statins.",
+      "C": "The direct drug effect is inhibition of the reductase, even though feedback can increase expression of the enzyme.",
+      "D": "Lower plasma LDL reflects increased hepatic clearance through LDL receptors. Direct blockade of LDL particle synthesis is not the main mechanism.",
+      "E": "Some statins modestly change HDL cholesterol, but inhibition of HMG-CoA reductase is the defining drug action."
+    }
   }
 }
