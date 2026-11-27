@@ -5,7 +5,7 @@
   "drafts": 154,
   "holds": 19,
   "drafts_pushed": true,
-  "applied_to_data": false,
+  "applied_to_data": true,
   "source_blob": "269a490dd5a3d8e1adc56fbfe2d100f86bfea052",
   "next_id": null,
   "remaining_ids": [],
@@ -67,5 +67,7 @@
     "https://histologylab.ctl.columbia.edu/lab04/endochondral-ossification/",
     "https://histology.leeds.ac.uk/home/tissue_types/muscle/muscle_cell_junctions/",
     "https://ntp.niehs.nih.gov/atlas/us/musculoskeletal-system/muscle"
-  ]
+  ],
+  "data_blob": "8a53995da81d73a05b658a72076d156fb2bbe5cd",
+  "next_file": "data/anatomy/embryo-past.json"
 }
