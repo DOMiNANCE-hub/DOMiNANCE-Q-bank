@@ -2476,7 +2476,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Reduced flow lets vasodilator metabolites accumulate, dilating vessels and restoring flow.",
+      "why": "Reduced local perfusion decreases the removal of vasodilator metabolites and may reduce oxygen delivery. The resulting arteriolar relaxation lowers resistance and helps restore tissue blood flow through metabolic autoregulation.",
+      "notes": {
+        "B": "Metabolite washout increases when perfusion rises, reducing local vasodilator concentrations and favouring restoration of vascular resistance.",
+        "C": "Myogenic contraction is a response to increased vascular wall stretch, whereas metabolic autoregulation responds to changes in local tissue chemistry.",
+        "D": "Serotonin can influence vascular tone through receptor-dependent effects, but its release is not the principal metabolic response to reduced tissue perfusion.",
+        "E": "Reflex bradycardia changes systemic cardiac output and is not the local mechanism through which an underperfused tissue dilates its arterioles."
+      },
       "topicId": "local-regulation",
       "subtopic": "Autoregulation",
       "difficulty": "medium"
@@ -2508,7 +2514,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Adenosine, CO2, H+, K+, lactate and low O2 dilate; serotonin, angiotensin and cold constrict.",
+      "why": "Adenosine accumulates during ATP breakdown when metabolic activity increases or oxygen supply becomes inadequate. It relaxes vascular smooth muscle in several systemic vascular beds, particularly the coronary circulation, helping match perfusion to demand.",
+      "notes": {
+        "A": "Vasopressin acts on vascular V1 receptors to promote vasoconstriction rather than serving as a typical local vasodilator metabolite.",
+        "C": "Serotonin has receptor-dependent vascular effects, including constriction in several vascular beds, rather than being the classic metabolic dilator associated with ATP breakdown.",
+        "D": "Angiotensin II activates vascular AT1 receptors and generally increases vascular resistance through smooth muscle contraction.",
+        "E": "Cold commonly promotes cutaneous vasoconstriction to conserve body heat; it is a thermal stimulus rather than a locally generated metabolic vasodilator."
+      },
       "topicId": "local-regulation",
       "subtopic": "Vasoactive factors",
       "difficulty": "medium"
@@ -2540,7 +2552,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "EDRF is nitric oxide, produced by endothelium to relax vascular smooth muscle.",
+      "why": "Nitric oxide is synthesised by endothelial nitric oxide synthase in response to stimuli including bradykinin and shear stress. It diffuses into vascular smooth muscle, activates soluble guanylyl cyclase and increases cGMP-dependent relaxation.",
+      "notes": {
+        "A": "Endothelin is an endothelial peptide that usually causes powerful vasoconstriction through smooth muscle endothelin A receptors, unlike the classic relaxing factor.",
+        "B": "Serotonin is a vasoactive monoamine with receptor-dependent effects; it is not the molecule originally identified as endothelium-derived relaxing factor.",
+        "D": "Histamine can stimulate endothelial nitric oxide production and promote vasodilatation, but it is not itself the classic endothelium-derived relaxing factor.",
+        "E": "Angiotensin II is a major renin–angiotensin system effector that usually causes vasoconstriction rather than mediating nitric oxide-dependent smooth muscle relaxation."
+      },
       "topicId": "local-regulation",
       "subtopic": "Vasoactive factors",
       "difficulty": "medium"
@@ -2572,7 +2590,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "By the myogenic theory, raised distending pressure stretches and reflexly contracts the smooth muscle.",
+      "why": "An increase in transmural pressure stretches vascular smooth muscle and activates intrinsic mechanosensitive signalling, including membrane depolarisation and calcium entry. The resulting contraction increases resistance and limits excessive blood flow.",
+      "notes": {
+        "A": "Reduced oxygen tension usually promotes metabolic vasodilatation in systemic tissues, rather than triggering the stretch-dependent myogenic response.",
+        "B": "Increased local temperature can influence vascular tone through thermal and metabolic mechanisms, but it is not the defining myogenic stimulus.",
+        "C": "Parasympathetic discharge can influence selected vascular beds through neural mechanisms; myogenic autoregulation is intrinsic to vascular smooth muscle.",
+        "E": "Accumulating vasodilator metabolites favour relaxation through metabolic autoregulation, rather than defining the contraction induced by increased wall stretch."
+      },
       "topicId": "local-regulation",
       "subtopic": "Autoregulation",
       "difficulty": "hard"
@@ -2604,7 +2628,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Laplace (P = T/r for a cylinder): a smaller radius means a higher pressure is tolerated for the same tension.",
+      "why": "For an ideal thin-walled cylindrical vessel, circumferential wall tension equals transmural pressure multiplied by radius. Rearranging gives pressure as tension divided by radius, so a smaller radius permits a higher pressure at the same tension.",
+      "notes": {
+        "A": "A larger radius requires greater circumferential tension to balance the same transmural pressure, rather than permitting higher pressure at fixed tension.",
+        "B": "An unchanged radius leaves the pressure–tension relationship unchanged when wall tension is fixed, so it does not increase the supported pressure.",
+        "C": "Wall thickness matters when converting wall tension into wall stress, but equality of radius and thickness is not required for the Laplace relationship.",
+        "D": "Maximum stretch generally increases vessel radius, which would reduce the pressure supported at a specified fixed circumferential wall tension."
+      },
       "topicId": "local-regulation",
       "subtopic": "Law of Laplace",
       "difficulty": "hard"
@@ -2636,7 +2666,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Pulse pressure = systolic minus diastolic pressure.",
+      "why": "Pulse pressure is systolic arterial pressure minus diastolic arterial pressure. It represents the amplitude of the arterial pressure oscillation and is influenced particularly by stroke volume and arterial compliance.",
+      "notes": {
+        "B": "The time-averaged arterial pressure over a cardiac cycle is mean arterial pressure, not the difference between its peak and trough.",
+        "C": "Adding a fraction of systolic pressure to diastolic pressure does not define pulse pressure; pulse pressure requires subtracting diastolic pressure from systolic pressure.",
+        "D": "Systolic pressure minus mean pressure measures only the pressure excursion above the mean, rather than the complete peak-to-trough difference.",
+        "E": "Adding systolic and diastolic pressures produces a sum, not the amplitude of the arterial pressure change during a heartbeat."
+      },
       "topicId": "blood-pressure",
       "subtopic": "Arterial pressure",
       "difficulty": "medium"
@@ -2668,7 +2704,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "MAP is approximated as diastolic + 1/3 (pulse pressure) because diastole lasts longer.",
+      "why": "At a normal resting heart rate, mean arterial pressure is approximated by diastolic pressure plus one-third of pulse pressure. The weighting reflects the longer time spent in diastole than systole; it changes at higher heart rates.",
+      "notes": {
+        "A": "Subtracting systolic pressure from twice diastolic pressure incorrectly reduces the estimate as systolic pressure rises at constant diastolic pressure.",
+        "C": "The simple arithmetic average gives equal weighting to systolic and diastolic pressures, overlooking the longer duration of diastole at rest.",
+        "D": "Systolic minus diastolic pressure defines pulse pressure, which measures pressure amplitude rather than the time-averaged arterial pressure.",
+        "E": "Adding the entire pulse pressure to diastolic pressure simply recovers systolic pressure, rather than estimating the mean over the cardiac cycle."
+      },
       "topicId": "blood-pressure",
       "subtopic": "Arterial pressure",
       "difficulty": "medium"
@@ -2700,7 +2742,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The elastic recoil of the aorta sustaining diastolic flow is the Windkessel effect.",
+      "why": "The Windkessel effect reflects the ability of elastic arteries to store part of ventricular stroke volume and elastic energy during systole. Their recoil during diastole maintains arterial pressure and forward flow despite intermittent ventricular ejection.",
+      "notes": {
+        "A": "The Valsalva manoeuvre alters intrathoracic pressure, venous return and reflex cardiovascular responses, rather than describing arterial elastic energy storage.",
+        "B": "The Anrep effect describes a delayed increase in myocardial contractile force after increased loading, not elastic recoil of the arterial tree.",
+        "D": "The Bernoulli principle relates pressure, velocity and elevation in fluid flow; it does not describe the arterial reservoir function during diastole.",
+        "E": "The Bainbridge reflex describes a heart-rate response to increased atrial stretch and venous return, not the maintenance of diastolic arterial pressure."
+      },
       "topicId": "blood-pressure",
       "subtopic": "Arterial pressure",
       "difficulty": "hard"
@@ -2732,7 +2780,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The first Korotkoff (tapping) sound marks systolic pressure; disappearance marks diastolic.",
+      "why": "As cuff pressure falls just below peak arterial pressure, blood begins passing intermittently through the compressed artery during systole. The first audible Korotkoff sounds therefore estimate systolic pressure during auscultatory measurement.",
+      "notes": {
+        "A": "Mean arterial pressure is the time-averaged arterial pressure; oscillometric devices estimate it from cuff oscillations rather than the first Korotkoff sound.",
+        "B": "Pulse pressure requires the difference between separately measured systolic and diastolic pressures, not the pressure at the first audible sound alone.",
+        "C": "Venous pressure is considerably lower than arterial systolic pressure and is not the quantity measured at the onset of Korotkoff sounds.",
+        "E": "Diastolic pressure is generally estimated at disappearance of Korotkoff sounds in adults, rather than at their first appearance."
+      },
       "topicId": "blood-pressure",
       "subtopic": "Measurement",
       "difficulty": "medium"
@@ -2764,7 +2818,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "A too-small cuff reads falsely high; a too-large cuff reads falsely low.",
+      "why": "An undersized blood pressure cuff requires excessive cuff pressure to compress the underlying brachial artery adequately. This commonly overestimates systolic and diastolic pressures, making correct cuff sizing important for accurate measurement.",
+      "notes": {
+        "A": "An excessively large cuff tends to underestimate blood pressure, whereas an undersized cuff generally produces the opposite error.",
+        "B": "Incorrect cuff size changes the relationship between applied cuff pressure and arterial compression, so the reading is not reliably unaffected.",
+        "C": "An undersized cuff commonly still produces measurable sounds or oscillations, but the recorded pressure is biased rather than necessarily absent.",
+        "D": "Although the size of the error varies among individuals, the characteristic direction of bias from an undersized cuff is upward."
+      },
       "topicId": "blood-pressure",
       "subtopic": "Measurement",
       "difficulty": "medium"
@@ -2796,7 +2856,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The cuff should be at heart level, or gravity distorts the reading.",
+      "why": "The upper-arm cuff should be supported at approximately right atrial level to minimise hydrostatic pressure error. A cuff below heart level tends to read too high, whereas one above heart level tends to read too low.",
+      "notes": {
+        "B": "Shoulder height is not the standard reference and may position the cuff above right atrial level, introducing a hydrostatic underestimate.",
+        "C": "Wrist height varies with limb position; even wrist-based measurements require the device to be held at heart level.",
+        "D": "Neck level is generally above the right atrium in an upright individual, so it is not the appropriate hydrostatic reference.",
+        "E": "Mid-thigh level is generally below the right atrium when seated or standing and would introduce a hydrostatic pressure difference."
+      },
       "topicId": "blood-pressure",
       "subtopic": "Measurement",
       "difficulty": "easy"
@@ -2828,7 +2894,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The vasomotor centre of the medulla oblongata is the principal controller of vascular tone and BP.",
+      "why": "Medullary cardiovascular networks integrate baroreceptor and other afferent signals and regulate sympathetic vasomotor activity. In particular, the nucleus tractus solitarius and ventrolateral medullary regions participate in controlling arteriolar resistance and arterial pressure.",
+      "notes": {
+        "A": "The cerebellum primarily coordinates movement and balance, although it can influence autonomic functions indirectly rather than serving as the main vasomotor centre.",
+        "C": "The cerebral cortex can modify cardiovascular responses during emotion and voluntary activity, but basic reflex integration occurs chiefly within the brainstem.",
+        "D": "The hypothalamus coordinates autonomic responses to temperature, stress and homeostatic demands, while the medulla provides major cardiovascular reflex integration.",
+        "E": "The spinal cord contains sympathetic preganglionic neurons that transmit vasomotor commands, but major baroreflex integration occurs in medullary circuits."
+      },
       "topicId": "neural-humoral",
       "subtopic": "Vasomotor centre",
       "difficulty": "medium"
@@ -2860,7 +2932,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "There is tonic sympathetic vasoconstrictor discharge; reducing it causes vasodilatation.",
+      "why": "Most systemic resistance vessels receive tonic sympathetic vasoconstrictor activity. Noradrenaline released from postganglionic fibres activates vascular alpha-adrenergic receptors, allowing changes in sympathetic discharge to increase or decrease basal vascular tone.",
+      "notes": {
+        "A": "Somatic motor fibres activate skeletal muscle at neuromuscular junctions rather than supplying the usual tonic constrictor input to vascular smooth muscle.",
+        "B": "Sensory afferents carry information towards the central nervous system and are not the principal efferent fibres maintaining systemic vascular tone.",
+        "D": "Parasympathetic vasodilator innervation is limited to selected tissues and does not supply the widespread tonic constrictor activity of systemic resistance vessels.",
+        "E": "Sympathetic vasodilator mechanisms exist in selected contexts, but widespread basal neurogenic vascular tone is predominantly maintained by sympathetic vasoconstrictor fibres."
+      },
       "topicId": "neural-humoral",
       "subtopic": "Neural control",
       "difficulty": "medium"
@@ -2924,7 +3002,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Sympathetic activity increases both heart rate (chronotropy) and strength of contraction (inotropy).",
+      "why": "Sympathetic noradrenaline stimulates cardiac beta-1 receptors, increasing cAMP-dependent pacemaker activity and calcium handling. This increases both heart rate through positive chronotropy and myocardial contractility through positive inotropy.",
+      "notes": {
+        "A": "A reduction in rate is characteristic of vagal stimulation, whereas cardiac sympathetic activation normally accelerates sinoatrial firing and increases contraction strength.",
+        "B": "Sympathetic stimulation increases calcium-dependent myocardial force alongside heart rate, rather than producing the combination of tachycardia and reduced contractility.",
+        "C": "Increased contractile force is consistent with sympathetic stimulation, but sinoatrial firing normally accelerates rather than slowing during direct beta-1 activation.",
+        "D": "Cardiac sympathetic input modifies both pacemaker activity and contractile performance, so it does not normally leave both variables unchanged."
+      },
       "topicId": "neural-humoral",
       "subtopic": "Neural control",
       "difficulty": "easy"
@@ -2956,7 +3040,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Tonic vagal tone keeps resting rate below the intrinsic SA rate; vagotomy or atropine raises the rate.",
+      "why": "At rest, tonic parasympathetic activity releases acetylcholine onto sinoatrial M2 receptors and slows spontaneous pacemaker depolarisation. This keeps resting heart rate below the intrinsic sinoatrial rate, which becomes more apparent after autonomic blockade.",
+      "notes": {
+        "B": "Tonic sympathetic discharge accelerates sinoatrial firing through beta-1 receptors and therefore opposes, rather than explains, the resting vagal slowing.",
+        "C": "Circulating adrenaline generally stimulates cardiac beta-adrenergic receptors and increases heart rate, rather than maintaining the resting rate below intrinsic pacemaker frequency.",
+        "D": "The intrinsic sinoatrial rate is generally higher than the usual resting heart rate because autonomic activity, especially vagal tone, modifies it.",
+        "E": "Atrial stretch can increase heart rate through the Bainbridge reflex, but it is not the predominant mechanism restraining resting sinoatrial firing."
+      },
       "topicId": "neural-humoral",
       "subtopic": "Neural control",
       "difficulty": "medium"
@@ -2988,7 +3078,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "ANP is a vasodilator (and promotes sodium/water loss).",
+      "why": "Atrial natriuretic peptide is released in response to atrial stretch and activates natriuretic peptide receptor A, increasing intracellular cGMP. It promotes vascular relaxation and renal sodium excretion, helping reduce circulatory volume and pressure.",
+      "notes": {
+        "A": "Venoconstriction mobilises stored venous blood towards the heart, whereas atrial natriuretic peptide generally favours reduced vascular tone and volume.",
+        "C": "Vasoconstriction increases vascular resistance, while atrial natriuretic peptide typically activates cGMP-mediated smooth muscle relaxation and opposes pressor systems.",
+        "D": "Increased myocardial contractility is chiefly associated with positive inotropic signalling, not the primary vascular action of atrial natriuretic peptide.",
+        "E": "Tachycardia may result from autonomic reflexes, but atrial natriuretic peptide primarily promotes vasodilatation and natriuresis rather than directly accelerating pacemaker firing."
+      },
       "topicId": "neural-humoral",
       "subtopic": "Humoral control",
       "difficulty": "medium"
@@ -3020,7 +3116,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "High-pressure baroreceptors lie in the carotid sinus and the aortic arch.",
+      "why": "High-pressure arterial baroreceptors are stretch-sensitive endings located principally in the carotid sinuses and aortic arch. They detect changes in arterial wall distension and send afferent signals to medullary cardiovascular centres.",
+      "notes": {
+        "A": "The right atrium contains cardiopulmonary receptors responsive to filling and stretch, rather than the principal high-pressure systemic arterial baroreceptors.",
+        "B": "Receptors near the caval–atrial junction can monitor venous filling, but the superior vena cava is not a principal high-pressure arterial baroreceptor site.",
+        "D": "The pulmonary circulation contains cardiopulmonary sensory receptors, but the classic systemic arterial baroreflex arises chiefly from carotid sinus and aortic arch receptors.",
+        "E": "The coronary sinus drains myocardial venous blood into the right atrium and is not a principal high-pressure arterial baroreceptor location."
+      },
       "topicId": "reflexes",
       "subtopic": "Baroreceptor reflex",
       "difficulty": "medium"
@@ -3052,7 +3154,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Carotid sinus afferents run in the carotid sinus nerve, a branch of the glossopharyngeal; aortic afferents run in the vagus.",
+      "why": "Carotid sinus stretch signals travel through the carotid sinus nerve, also called Hering's nerve, which joins the glossopharyngeal nerve. These afferents terminate in the medullary nucleus tractus solitarius.",
+      "notes": {
+        "A": "The phrenic nerve supplies the diaphragm and carries associated sensory signals; it does not transmit carotid sinus baroreceptor afferents.",
+        "B": "The trigeminal nerve carries facial sensation and supplies muscles of mastication, rather than providing the principal carotid sinus afferent pathway.",
+        "C": "The hypoglossal nerve supplies tongue musculature and is not the sensory pathway from carotid sinus baroreceptors.",
+        "E": "The vagus nerve carries aortic arch baroreceptor afferents and other visceral sensory signals, whereas carotid sinus afferents primarily travel through the glossopharyngeal nerve."
+      },
       "topicId": "reflexes",
       "subtopic": "Baroreceptor reflex",
       "difficulty": "hard"
@@ -3084,7 +3192,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Raised pressure increases baroreceptor firing, stimulating the vagus and inhibiting the vasomotor centre, so the heart slows and vessels dilate.",
+      "why": "Increased arterial pressure stretches baroreceptors and increases their afferent firing. Medullary integration enhances cardiac vagal activity and reduces sympathetic activity, slowing the heart and dilating resistance vessels to oppose the pressure rise.",
+      "notes": {
+        "A": "Tachycardia and vasoconstriction are compensatory responses to reduced arterial pressure, rather than the normal baroreflex response to a pressure rise.",
+        "B": "Increased arterial baroreceptor firing inhibits sympathetic vasomotor output, rather than increasing the sympathetic activity that would support a further pressure rise.",
+        "C": "Reduced heart rate and sympathetic cardiac stimulation tend to decrease cardiac output during this reflex, rather than actively increase it.",
+        "D": "Reduced sympathetic activity generally relaxes capacitance veins, whereas venoconstriction is more characteristic of compensation for falling arterial pressure."
+      },
       "topicId": "reflexes",
       "subtopic": "Baroreceptor reflex",
       "difficulty": "medium"
@@ -3116,7 +3230,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Reduced baroreceptor firing raises sympathetic output and reduces vagal tone, giving tachycardia and vasoconstriction.",
+      "why": "A fall in arterial pressure reduces carotid sinus and aortic arch stretch, decreasing baroreceptor firing. The resulting increase in sympathetic activity and withdrawal of vagal activity accelerate the heart and constrict vessels to support pressure.",
+      "notes": {
+        "B": "Bradycardia and vasodilatation are typical compensatory responses to raised arterial pressure and would worsen an existing pressure fall.",
+        "C": "Reduced baroreceptor firing disinhibits sympathetic vasomotor pathways, increasing rather than reducing sympathetic output during an acute pressure fall.",
+        "D": "Slowing the heart would tend to reduce cardiac output; vagal withdrawal normally accelerates sinoatrial firing during baroreflex compensation for hypotension.",
+        "E": "Sympathetic arteriolar constriction raises peripheral resistance during compensation, rather than producing a further fall in vascular resistance."
+      },
       "topicId": "reflexes",
       "subtopic": "Baroreceptor reflex",
       "difficulty": "medium"
@@ -3148,7 +3268,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Raised intracranial pressure causes systemic hypertension, and the baroreceptors then produce reflex bradycardia.",
+      "why": "Markedly raised intracranial pressure can compromise cerebral perfusion, triggering a sympathetic pressor response that increases systemic arterial pressure. The arterial baroreflex then produces bradycardia; irregular respiration completes the classical Cushing triad.",
+      "notes": {
+        "A": "A significant Cushing response changes systemic arterial pressure and heart rate as the body attempts to maintain cerebral perfusion.",
+        "C": "Hypotension with tachycardia is more typical of compensation for reduced systemic circulating volume than the classical Cushing response to raised intracranial pressure.",
+        "D": "The sympathetic pressor response raises arterial pressure, but subsequent baroreceptor activation characteristically slows rather than accelerates the heart.",
+        "E": "Hypotension would further compromise cerebral perfusion, whereas the classic Cushing response includes a compensatory rise in systemic arterial pressure."
+      },
       "topicId": "reflexes",
       "subtopic": "Cushing reflex",
       "difficulty": "hard"
@@ -3212,7 +3338,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The pressure drop above heart level is detected by the carotid sinus and aortic arch baroreceptors, triggering compensation.",
+      "why": "Standing promotes dependent venous pooling and transiently reduces ventricular filling, stroke volume and arterial pressure. Carotid sinus and aortic arch baroreceptors detect the reduction in arterial stretch and initiate rapid compensatory cardiovascular responses.",
+      "notes": {
+        "A": "Pulmonary stretch receptors chiefly monitor lung inflation and participate in respiratory reflexes, rather than directly sensing systemic arterial pressure.",
+        "B": "Peripheral chemoreceptors respond primarily to arterial oxygen, carbon dioxide and hydrogen ion changes, whereas baroreceptors detect arterial wall stretch.",
+        "C": "Joint proprioceptors provide information about limb position and movement, rather than directly monitoring the acute reduction in systemic arterial pressure.",
+        "E": "Atrial low-pressure receptors detect changes in central blood volume and contribute to cardiovascular regulation, but arterial pressure is directly sensed by arterial baroreceptors."
+      },
       "topicId": "gravity",
       "subtopic": "Effects of gravity",
       "difficulty": "medium"
@@ -3244,7 +3376,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "When sympathetic vasoconstriction fails (e.g. autonomic neuropathy, sympatholytic drugs), standing causes a fall in BP.",
+      "why": "Normal standing evokes sympathetic arteriolar and venous constriction that limits pooling and supports arterial pressure. Impaired autonomic vasoconstriction can produce neurogenic orthostatic hypotension, although volume depletion and other non-neurogenic causes are also common.",
+      "notes": {
+        "A": "Parasympathetic withdrawal contributes to compensatory tachycardia, but the major vascular defect in neurogenic orthostatic hypotension involves inadequate sympathetic vasoconstriction.",
+        "B": "The respiratory pump assists venous return, but failure of this mechanism is not the characteristic autonomic abnormality in neurogenic orthostatic hypotension.",
+        "C": "Abnormal pacemaker activity can reduce cardiac output, but impaired sympathetic vascular compensation is the characteristic mechanism of neurogenic postural hypotension.",
+        "D": "Renal sodium handling influences circulating volume over longer periods, whereas rapid postural compensation relies strongly on sympathetic vascular responses."
+      },
       "topicId": "gravity",
       "subtopic": "Orthostatic hypotension",
       "difficulty": "medium"
@@ -3308,7 +3446,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The suit compresses the lower body, reducing venous pooling and improving venous return.",
+      "why": "A positive-acceleration pressure suit compresses the lower limbs and often the abdomen, limiting dependent venous pooling and helping maintain central blood volume. This supports arterial pressure and perfusion of the brain and eyes.",
+      "notes": {
+        "A": "Reducing intracranial pressure is not the primary action of a pressure suit, which chiefly limits acceleration-induced blood redistribution towards the lower body.",
+        "C": "Heart rate may change through compensatory reflexes, but the suit primarily acts mechanically on lower-body circulation rather than directly stimulating the sinoatrial node.",
+        "D": "Cerebral vasodilatation may assist local autoregulation, but the suit preserves perfusion mainly by limiting lower-body pooling and maintaining central arterial pressure.",
+        "E": "Increasing viscosity would raise resistance to blood flow, whereas a pressure suit works by mechanically compressing dependent vascular compartments."
+      },
       "topicId": "gravity",
       "subtopic": "Acceleration",
       "difficulty": "medium"
@@ -3340,7 +3484,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Shock is inadequate tissue perfusion for metabolic/nutritional needs, with a relative or absolute low output.",
+      "why": "Circulatory shock is acute circulatory failure in which tissue perfusion and oxygen delivery or utilisation become inadequate for metabolic requirements. It can result from volume loss, pump failure, obstruction or abnormal distribution of blood flow.",
+      "notes": {
+        "A": "Respiratory failure impairs gas exchange and may worsen tissue oxygen delivery, but does not by itself define acute circulatory failure.",
+        "B": "Loss of consciousness can arise from neurological, metabolic or circulatory causes and is neither necessary nor sufficient to diagnose shock.",
+        "D": "A sustained rise in arterial pressure defines hypertension, whereas shock concerns inadequate tissue perfusion and may occur even before hypotension develops.",
+        "E": "Bradycardia can contribute to reduced cardiac output, but shock also occurs with normal or elevated heart rates and has multiple circulatory mechanisms."
+      },
       "topicId": "shock",
       "subtopic": "Shock",
       "difficulty": "medium"
@@ -3372,7 +3522,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Loss of circulating volume (haemorrhage, burns, fluid loss) gives hypovolaemic shock.",
+      "why": "Haemorrhage reduces circulating blood volume, while burns and severe vomiting can cause substantial intravascular fluid depletion. Reduced venous return and preload lower stroke volume and cardiac output, producing hypovolaemic shock when compensation becomes inadequate.",
+      "notes": {
+        "A": "Distributive shock primarily involves abnormal vascular tone and blood-flow distribution, rather than the primary loss of circulating volume described here.",
+        "B": "Obstructive shock results from mechanical impairment of cardiac filling or blood flow, such as tamponade or massive pulmonary embolism.",
+        "C": "Neurogenic shock results from loss of sympathetic vascular tone, typically after significant spinal cord injury, rather than primary blood or fluid loss.",
+        "E": "Cardiogenic shock primarily results from inadequate myocardial pumping, whereas the listed conditions predominantly reduce the volume available to fill the heart."
+      },
       "topicId": "shock",
       "subtopic": "Shock",
       "difficulty": "medium"
@@ -3404,7 +3560,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "A physical obstruction to flow (tamponade, tension pneumothorax, pulmonary embolism) causes obstructive shock.",
+      "why": "Cardiac tamponade restricts diastolic filling through elevated pericardial pressure, whereas massive pulmonary embolism obstructs pulmonary blood flow and increases right ventricular load. Both mechanically impair effective cardiac output and can produce obstructive shock.",
+      "notes": {
+        "A": "Hypovolaemic shock results primarily from reduced circulating volume rather than a mechanical impediment to cardiac filling or pulmonary blood flow.",
+        "B": "Distributive shock principally involves abnormal vascular tone and maldistribution of perfusion, rather than the mechanical obstruction described by these conditions.",
+        "C": "Cardiogenic shock is primarily due to intrinsic cardiac pump dysfunction; tamponade and pulmonary embolism are conventionally classified as mechanical obstructive causes.",
+        "D": "Anaphylactic shock involves mediator-induced vasodilatation and vascular permeability, rather than direct compression of the heart or obstruction of pulmonary arterial flow."
+      },
       "topicId": "shock",
       "subtopic": "Shock",
       "difficulty": "medium"
@@ -3436,7 +3598,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Baroreceptor-driven sympathetic discharge constricts skin vessels, making the skin pale and cool.",
+      "why": "Acute volume loss decreases arterial baroreceptor firing and increases sympathetic vasoconstrictor activity. Constriction of cutaneous resistance vessels reduces skin perfusion, producing pallor and coolness while helping preserve arterial pressure and vital-organ perfusion.",
+      "notes": {
+        "B": "Cutaneous vasodilatation increases skin blood flow and may produce warm skin, rather than explaining the cool pallor typical of compensated hypovolaemia.",
+        "C": "Cardiac output generally falls as volume loss reduces preload; compensatory mechanisms may partially maintain output but do not directly explain cutaneous pallor.",
+        "D": "Loss of vasomotor tone would favour vasodilatation, whereas the characteristic early compensatory response to hypovolaemia is increased sympathetic vascular tone.",
+        "E": "Histamine promotes local vasodilatation and increased permeability, rather than mediating the baroreceptor-driven cutaneous vasoconstriction of early hypovolaemic shock."
+      },
       "topicId": "shock",
       "subtopic": "Shock",
       "difficulty": "medium"
@@ -3468,7 +3636,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Generalised vasoconstriction spares the coronary and cerebral circulations while diverting blood from skin, kidney and viscera.",
+      "why": "During compensated shock, sympathetic vasoconstriction redistributes blood away from several peripheral and splanchnic beds. Strong local metabolic and autoregulatory mechanisms help preserve myocardial and cerebral perfusion, although severe or prolonged shock eventually compromises these organs.",
+      "notes": {
+        "A": "Skeletal muscle flow may decrease through sympathetic vasoconstriction during resting compensated shock, allowing limited circulating flow to support more immediately vital organs.",
+        "C": "Cutaneous and renal perfusion commonly decrease during compensatory sympathetic activation; cool skin and reduced urine output may reflect this redistribution.",
+        "D": "Splanchnic and skeletal muscle vascular beds can undergo vasoconstriction during compensation, rather than receiving the principal preferential preservation of flow.",
+        "E": "Hepatic and splenic perfusion can decline during circulatory shock as sympathetic responses redistribute available blood towards critical cardiac and cerebral requirements."
+      },
       "topicId": "shock",
       "subtopic": "Shock",
       "difficulty": "medium"
@@ -3500,7 +3674,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Distributive shock has a normal volume but massive vasodilatation and pooling, so perfusion is inadequate.",
+      "why": "Distributive shock involves abnormally low vascular tone and maldistributed tissue perfusion. Widespread vasodilatation increases vascular capacity and reduces effective filling, while capillary leakage may additionally cause actual intravascular volume depletion in sepsis or anaphylaxis.",
+      "notes": {
+        "A": "Primary myocardial pump failure characterises cardiogenic shock, although myocardial dysfunction may coexist with distributive shock in severe sepsis.",
+        "B": "Acute haemorrhage primarily reduces circulating volume and causes hypovolaemic shock, rather than the characteristic widespread loss of vascular tone.",
+        "D": "Reduced intravascular volume can accompany distributive shock through capillary leakage, but vasodilatation and maldistribution are its distinguishing primary mechanisms.",
+        "E": "Mechanical obstruction to cardiac filling or outflow characterises obstructive shock rather than the vascular tone abnormality defining distributive shock."
+      },
       "topicId": "shock",
       "subtopic": "Shock",
       "difficulty": "medium"
@@ -3532,7 +3712,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Fainting follows abrupt vasodilatation and bradycardia after strong emotion, reducing cerebral blood flow.",
+      "why": "Vasovagal syncope results from reflex-mediated hypotension, often involving vasodilatation and inappropriate slowing of the heart. The transient reduction in global cerebral perfusion produces brief loss of consciousness with spontaneous recovery when perfusion returns.",
+      "notes": {
+        "A": "Cerebral haemorrhage causes neurological injury through bleeding and is not the reflex mechanism responsible for uncomplicated vasovagal syncope.",
+        "B": "Airway obstruction impairs ventilation and oxygenation, whereas vasovagal syncope primarily results from transient inadequate cerebral blood flow.",
+        "C": "Hypoglycaemia deprives the brain of glucose and may impair consciousness, but does not define the reflex circulatory mechanism of vasovagal syncope.",
+        "E": "A primary cardiac arrhythmia can cause cardiac syncope by reducing output, whereas vasovagal syncope arises from an abnormal autonomic reflex."
+      },
       "topicId": "shock",
       "subtopic": "Syncope",
       "difficulty": "medium"
@@ -3564,7 +3750,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Capillaries have a wall one endothelial cell thick, allowing exchange.",
+      "why": "A typical capillary wall consists of a single layer of endothelial cells supported by a basal lamina, with pericytes associated with some capillaries. The thin barrier facilitates exchange between blood and surrounding tissues.",
+      "notes": {
+        "A": "Smooth muscle surrounding endothelial cells characterises arterioles and some larger microvessels; typical capillaries do not possess a continuous smooth muscle coat.",
+        "B": "Three distinct tunicae characterise larger arteries and veins, whereas capillaries lack separate muscular and adventitial coats.",
+        "C": "Elastic laminae are structural features of larger arteries and are not present as distinct layers in a typical capillary wall.",
+        "D": "A thick collagenous coat would increase diffusion distance; typical capillaries instead possess a thin endothelial barrier with basal lamina support."
+      },
       "topicId": "microcirculation",
       "subtopic": "Capillaries",
       "difficulty": "easy"
