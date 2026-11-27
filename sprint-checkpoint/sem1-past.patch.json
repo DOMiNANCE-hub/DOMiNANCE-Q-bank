@@ -1192,5 +1192,173 @@
       "B": "Chlorophyll contains a magnesium-containing chlorin ring, a reduced relative of a porphyrin ring.",
       "D": "Bilirubin is a linear tetrapyrrole formed from biliverdin after the haem ring is opened."
     }
+  },
+  "bio-141": {
+    "why": "Porphin is the parent porphyrin macrocycle. It consists of four pyrrole rings joined by methene bridges to form a conjugated ring system. A metal can bind in the centre of some derivatives, but unmodified porphin contains none.",
+    "notes": {
+      "B": "Porphin has an extended conjugated system and is not a highly saturated ring.",
+      "C": "Each of the four smaller rings is a pyrrole ring with one nitrogen, rather than an imidazole ring with two.",
+      "D": "Ferrous iron coordinates with the porphyrin ring in haem. The parent porphin molecule does not require a central metal."
+    }
+  },
+  "bio-142": {
+    "why": "The porphin ring has four pyrrole units joined by four methene bridges. The bridge carbons participate in the conjugated macrocycle. Substituted porphyrins have additional side chains on that framework.",
+    "notes": {
+      "A": "Methyl groups are substituents on some porphyrins, such as protoporphyrin IX. They are not features of unsubstituted porphin.",
+      "B": "Methylene bridges are characteristic of reduced porphyrinogens. Porphin is the oxidised conjugated parent macrocycle.",
+      "D": "Porphin is a closed macrocycle. Linear tetrapyrroles arise when the ring is opened, as in haem degradation."
+    }
+  },
+  "bio-143": {
+    "why": "Protoporphyrin IX has four methyl, two vinyl and two propionate substituents. Its extensive conjugation absorbs visible light, giving the porphyrin its characteristic colour.",
+    "notes": {
+      "A": "Protoporphyrin IX also has two propionate groups. The methyl and vinyl groups do not account for all its substituents.",
+      "C": "Porphyrins are generally coloured because their conjugated rings absorb light. The reduced porphyrinogens are much less coloured.",
+      "D": "The ring system absorbs strongly, including a near-violet absorption band known as the Soret band."
+    }
+  },
+  "bio-144": {
+    "why": "Uroporphyrins have four conventional positional isomer types, designated I through IV. They differ in the arrangement of the acetate and propionate groups on their four pyrrole rings.",
+    "notes": {
+      "A": "The paired side-chain arrangements give four conventional uroporphyrin types rather than eight distinct types.",
+      "C": "Coproporphyrins also have four conventional isomer types, with methyl and propionate side chains.",
+      "D": "The conventional coproporphyrin series comprises types I through IV. Fifteen is not the standard count for this set."
+    }
+  },
+  "bio-145": {
+    "why": "Acute intermittent porphyria results from hydroxymethylbilane synthase deficiency. During an acute attack, hepatic production of the early haem precursors rises and porphobilinogen and 5-aminolaevulinate accumulate in blood and urine.",
+    "notes": {
+      "A": "Porphobilinogen synthase is ALA dehydratase. Its deficiency causes a different acute hepatic porphyria.",
+      "B": "Uroporphyrinogen decarboxylase deficiency or inhibition is associated with porphyria cutanea tarda, rather than acute intermittent porphyria.",
+      "D": "Acute intermittent porphyria is classically detected through increased porphobilinogen and ALA during attacks, rather than urinary accumulation of uroporphyrinogen."
+    }
+  },
+  "bio-146": {
+    "why": "Porphyria cutanea tarda arises when hepatic uroporphyrinogen decarboxylase activity is low. Accumulated porphyrins can absorb light and generate reactive species in exposed skin, causing fragility and blistering photosensitivity.",
+    "notes": {
+      "A": "Porphyria cutanea tarda is the most common porphyria, although porphyrias as a group are uncommon.",
+      "B": "Uroporphyrinogen III synthase deficiency causes congenital erythropoietic porphyria. Porphyria cutanea tarda instead involves uroporphyrinogen decarboxylase.",
+      "D": "Neurovisceral attacks characterise the acute hepatic porphyrias. Porphyria cutanea tarda predominantly affects light-exposed skin."
+    }
+  },
+  "bio-328": {
+    "why": "Uroporphyrinogen decarboxylase removes carbon dioxide from the four acetate side chains of uroporphyrinogen III, converting them to methyl groups. The product is coproporphyrinogen III.",
+    "notes": {
+      "A": "Hydroxymethylbilane synthase, historically called uroporphyrinogen I synthase, joins four porphobilinogens rather than six.",
+      "B": "Porphobilinogen deaminase produces hydroxymethylbilane. A separate synthase forms the type III macrocycle.",
+      "D": "Coproporphyrinogen oxidase forms protoporphyrinogen IX. A different enzyme, protoporphyrinogen oxidase, oxidises it to protoporphyrin IX."
+    }
+  },
+  "bio-329": {
+    "why": "The terminal steps of haem synthesis return to mitochondria. Protoporphyrinogen oxidase converts protoporphyrinogen IX to protoporphyrin IX there, after which ferrochelatase inserts ferrous iron.",
+    "notes": {
+      "A": "Delta-aminolaevulinate is made from glycine and succinyl-CoA in mitochondria before export to the cytosol.",
+      "B": "ALA dehydratase forms porphobilinogen in the cytosol, rather than in mitochondria.",
+      "C": "Uroporphyrinogen III synthase forms the cyclic intermediate in the cytosol before later intermediates return to mitochondria."
+    }
+  },
+  "bio-330": {
+    "why": "Haem provides negative feedback on hepatic ALA synthase 1, decreasing production of the enzyme and limiting its import into mitochondria. This restrains the first committed step of haem biosynthesis when haem is available.",
+    "notes": {
+      "A": "Haemin is a ferric haem derivative and can form by oxidation. Enzymatic haem breakdown instead forms biliverdin, iron and carbon monoxide.",
+      "B": "Haem represses hepatic ALA synthase 1 expression and mitochondrial import rather than enhancing them.",
+      "D": "In erythroid cells, haem inhibits the haem-regulated kinase HRI, helping prevent inhibitory phosphorylation of eIF2α and supporting globin translation."
+    }
+  },
+  "bio-331": {
+    "why": "Coproporphyrinogen oxidase catalyses oxidative decarboxylation of two propionate groups in coproporphyrinogen III. The corresponding vinyl groups are present in the resulting protoporphyrinogen IX.",
+    "notes": {
+      "A": "A carboxylase adds a carboxyl group. This enzyme removes carboxyl carbons during oxidative decarboxylation.",
+      "C": "The physiological product is protoporphyrinogen IX, rather than a type IV product.",
+      "D": "Two propionate groups are converted to vinyl groups. The other two propionate groups remain in the product."
+    }
+  },
+  "bio-362": {
+    "why": "Haem oxygenase opens the haem ring at the alpha-methene bridge and forms biliverdin. Molecular oxygen is used, and the required electrons ultimately come from NADPH via a reductase.",
+    "notes": {
+      "A": "The alpha bridge is cleaved in the usual mammalian reaction. It is the bridge carbon that becomes carbon monoxide.",
+      "B": "Biliverdin formation is correct, but the cleavage site described in the combination is wrong and NADPH supplies reducing power.",
+      "D": "NADPH supplies reducing equivalents. The named beta cleavage site is incorrect, and biliverdin is formed.",
+      "E": "Biliverdin formation and NADPH use are correct. Cleavage of the beta-methene bridge is not."
+    }
+  },
+  "bio-404": {
+    "why": "Haem synthesis begins and ends in mitochondria, with several intervening reactions in the cytosol. ALA is formed in mitochondria, while porphobilinogen, uroporphyrinogen III and coproporphyrinogen III are formed in the cytosol.",
+    "notes": {
+      "A": "ALA synthase catalyses the first reaction in the mitochondrial matrix, using glycine and succinyl-CoA.",
+      "B": "Cytosolic ALA dehydratase condenses two ALA molecules to produce porphobilinogen.",
+      "C": "Uroporphyrinogen III synthase cyclises hydroxymethylbilane in the cytosol.",
+      "D": "Coproporphyrinogen III is formed in the cytosol and then enters mitochondria for subsequent oxidation.",
+      "E": "Mitochondrial protoporphyrinogen oxidase forms protoporphyrin IX before iron insertion."
+    }
+  },
+  "bio-405": {
+    "why": "Hepatic haem restrains ALA synthase 1 through negative feedback. In erythroid precursors, haem also limits activity of the haem-regulated eIF2α kinase, coordinating globin production with the amount of haem available.",
+    "notes": {
+      "A": "The central iron of ferrous haem can be oxidised to the ferric state. Haemin describes a ferric haem derivative.",
+      "B": "Haem generally restrains hepatic ALA synthase 1 synthesis and import rather than enhancing them.",
+      "C": "Hepatic haem can repress ALA synthase 1 and decrease import of the precursor protein into mitochondria.",
+      "D": "Haem suppresses HRI activity, reducing inhibitory phosphorylation of eIF2α and supporting globin translation.",
+      "E": "HRI can phosphorylate the alpha subunit of eIF2, suppressing translation initiation when available haem is low."
+    }
+  },
+  "bio-406": {
+    "why": "Haem oxygenase uses oxygen and NADPH-derived reducing power to open haem at the alpha-methene bridge. It releases carbon monoxide and iron, leaving biliverdin, which can later be reduced to bilirubin.",
+    "notes": {
+      "A": "The standard mammalian oxygenase opens the haem ring at its alpha-methene bridge.",
+      "B": "Haem oxygenase forms biliverdin, while a separate reductase then converts biliverdin to bilirubin.",
+      "C": "The standard oxygenase system receives electrons from NADPH via a reductase. NADH is not its principal donor.",
+      "D": "Haem ring opening requires oxygen and reducing equivalents ultimately obtained from NADPH.",
+      "E": "The bridge carbon leaves as carbon monoxide. Carbon dioxide is not the product of that cleavage."
+    }
+  },
+  "bio-407": {
+    "why": "Acute intermittent porphyria is an inherited acute hepatic porphyria due to reduced hydroxymethylbilane synthase activity. Acute attacks are associated with raised early haem precursors and can cause abdominal, neurological and psychiatric symptoms.",
+    "notes": {
+      "A": "Hepatic overproduction of early haem precursors drives acute intermittent porphyria, placing it among acute hepatic porphyrias.",
+      "B": "The disorder is usually inherited in an autosomal dominant pattern, with incomplete penetrance.",
+      "C": "Hydroxymethylbilane synthase is also called porphobilinogen deaminase. Reduced activity is the underlying defect.",
+      "D": "Porphobilinogen and ALA rise during acute attacks and can be detected in urine and plasma.",
+      "E": "Abdominal pain, autonomic symptoms, neuropathy and neuropsychiatric changes can occur during acute attacks."
+    }
+  },
+  "bio-418": {
+    "why": "Porphin is the conjugated parent structure of porphyrins. Four pyrrole rings are linked by methene bridges to form a macrocycle. Reduced porphyrinogens have a different bridge structure and much less visible absorption.",
+    "notes": {
+      "A": "The linked pyrroles form a closed macrocycle rather than a linear chain.",
+      "B": "Porphin has an extended conjugated system and is not a highly saturated molecule.",
+      "C": "Each pyrrole supplies one nitrogen, giving four nitrogen atoms facing the centre of the ring.",
+      "D": "Methylene bridges occur in reduced porphyrinogens. They do not describe the conjugated porphin framework.",
+      "E": "Methene groups connect adjoining pyrrole units and participate in the conjugated ring."
+    }
+  },
+  "bio-419": {
+    "why": "Porphobilinogen synthase, also called delta-ALA dehydratase, joins two molecules of delta-aminolaevulinate in the cytosol. Porphobilinogen is then used in a different reaction that combines four molecules.",
+    "notes": {
+      "A": "Delta-ALA dehydratase is the enzyme that condenses two ALA molecules to form porphobilinogen.",
+      "B": "Porphobilinogen synthase is another name for ALA dehydratase, reflecting the product it forms.",
+      "C": "Two ALA molecules are used for each porphobilinogen. Four porphobilinogens enter the later tetrapyrrole-forming reaction.",
+      "D": "ALA moves out of mitochondria before it is converted to porphobilinogen in the cytosol.",
+      "E": "Mitochondrial ALA synthesis precedes the cytosolic porphobilinogen-forming reaction."
+    }
+  },
+  "bio-422": {
+    "why": "Hydroxymethylbilane synthase joins four porphobilinogen units. Uroporphyrinogen III synthase then forms the type III macrocycle. Uroporphyrinogen decarboxylase removes acetate carboxyl groups, while coproporphyrinogen oxidase modifies two propionate groups in the next intermediate.",
+    "notes": {
+      "A": "Uroporphyrinogen I synthase is an older name for hydroxymethylbilane synthase, which condenses four porphobilinogen units.",
+      "B": "The enzyme also called uroporphyrinogen III co-synthase converts hydroxymethylbilane to uroporphyrinogen III.",
+      "C": "Uroporphyrinogen III decarboxylase removes carboxyl groups from acetate side chains, converting them to methyl groups.",
+      "D": "Coproporphyrinogen oxidase converts two propionate substituents to vinyl groups through oxidative decarboxylation.",
+      "E": "The product of coproporphyrinogen oxidase is protoporphyrinogen IX, which is oxidised by the next enzyme."
+    }
+  },
+  "bio-184": {
+    "why": "Oxygen binding changes haemoglobin's quaternary conformation and increases affinity at the remaining sites. This positive cooperativity makes the saturation curve sigmoidal. Lower pH stabilises lower-affinity states, contributing to the Bohr effect.",
+    "notes": {
+      "A": "Cooperative oxygen binding is one manifestation, but the curve shape and response to pH also reflect linked conformational changes.",
+      "B": "Cooperativity and the sigmoid curve are related. The pH-dependent shift also reflects allosteric coupling.",
+      "C": "The curve and response to pH show allostery, and the increase in affinity at other sites after oxygen binds is another example.",
+      "D": "Oxygen binding and pH influence conformation. Cooperative binding is also what gives the oxygen saturation curve its characteristic sigmoid shape."
+    }
   }
 }
