@@ -30,7 +30,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Auerbach's (myenteric) plexus lies between the inner circular and outer longitudinal muscle layers and controls motility.",
+      "why": "The myenteric plexus occupies the plane between the inner circular and outer longitudinal layers of the muscularis externa. Its enteric neurons coordinate gastrointestinal muscle activity, including propulsive contractions and relaxation.",
+      "notes": {
+        "B": "The submucosal plexus lies in the submucosa and chiefly regulates mucosal secretion and local blood flow, rather than separating the external muscle layers.",
+        "C": "The lamina propria is connective tissue beneath the mucosal epithelium, containing vessels, immune cells and glands, rather than lying between the external muscle layers.",
+        "D": "The muscularis mucosae is a thin smooth-muscle layer separating the mucosa from the submucosa and producing local mucosal movements.",
+        "E": "The serosa forms the outer covering of intraperitoneal gut segments and lies external to the muscularis externa, not between its layers."
+      },
       "topicId": "gi-general",
       "subtopic": "Gut wall",
       "difficulty": "medium"
@@ -62,7 +68,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Meissner's plexus in the submucosa regulates local secretion, absorption and submucosal muscle.",
+      "why": "The submucosal plexus integrates local sensory information and regulates epithelial secretion, absorption, mucosal blood flow and muscularis mucosae activity. The myenteric plexus is more directly associated with coordinating contractions of the muscularis externa.",
+      "notes": {
+        "A": "The migrating motor complex involves coordinated gastrointestinal motility and fasting signals such as motilin, rather than being chiefly a submucosal secretory function.",
+        "C": "The force and propagation of peristaltic contractions are primarily coordinated by myenteric circuits acting on the muscularis externa.",
+        "D": "Pharyngeal swallowing is coordinated by brainstem circuits and cranial motor nerves rather than the intrinsic submucosal enteric plexus.",
+        "E": "Gastric emptying depends on antral motility, pyloric resistance and duodenal feedback, rather than being the principal function of the submucosal plexus."
+      },
       "topicId": "gi-general",
       "subtopic": "Gut wall",
       "difficulty": "medium"
@@ -126,7 +138,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Gut-associated lymphoid tissue (GALT) sits in the lamina propria of the mucosa.",
+      "why": "Gut-associated lymphoid tissue includes diffuse lymphocytes, plasma cells and organised lymphoid follicles within the mucosa, particularly the lamina propria. Larger aggregates may extend into the submucosa, enabling immune surveillance and protection against luminal antigens.",
+      "notes": {
+        "A": "The serosa provides an external mesothelial covering and connective tissue but is not the principal compartment for immune surveillance immediately beneath the mucosal epithelium.",
+        "B": "The submucosal plexus is a network of enteric neurons controlling local mucosal functions, not a collection of lymphoid immune cells.",
+        "C": "The muscularis mucosae consists chiefly of smooth muscle that produces local mucosal movements, rather than housing most mucosal lymphoid cells.",
+        "E": "The muscularis externa generates major mixing and propulsive movements and is not the principal location of mucosa-associated lymphoid tissue."
+      },
       "topicId": "gi-general",
       "subtopic": "Gut wall",
       "difficulty": "medium"
@@ -158,7 +176,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Numerous gap junctions electrically couple the unitary smooth-muscle fibres, letting them act as a syncytium.",
+      "why": "Gap junctions connect neighbouring gastrointestinal smooth-muscle cells through low-resistance channels that permit ionic current to spread between cells. This electrical coupling allows groups of cells to depolarise and contract together as a functional syncytium.",
+      "notes": {
+        "A": "Desmosomes provide mechanical adhesion and resistance to tissue stress but do not themselves provide the intercellular ionic channels needed for electrical coupling.",
+        "B": "Tight junctions restrict paracellular movement between epithelial cells and maintain barrier properties, rather than allowing electrical current to pass directly between smooth-muscle cells.",
+        "C": "Chemical synapses transmit signals using neurotransmitters, but direct electrical coupling between adjacent smooth-muscle cells is principally mediated by gap junctions.",
+        "D": "A basement membrane supports cells and helps organise extracellular structure but does not create low-resistance cytoplasmic channels between neighbouring smooth-muscle fibres."
+      },
       "topicId": "gi-general",
       "subtopic": "Smooth muscle",
       "difficulty": "medium"
@@ -190,7 +214,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Interstitial cells of Cajal set the slow-wave rhythm that paces GI smooth-muscle contraction.",
+      "why": "Interstitial cells of Cajal generate rhythmic oscillations in membrane potential and transmit them to electrically coupled gastrointestinal smooth muscle. These slow waves establish the timing of phasic contractions, with contraction strength influenced by neural and hormonal inputs.",
+      "notes": {
+        "B": "Parietal cells secrete hydrochloric acid and intrinsic factor in gastric glands, rather than generating the electrical rhythms of gastrointestinal muscle.",
+        "C": "Enterochromaffin-like cells release histamine to stimulate gastric acid secretion and are not the specialised gastrointestinal electrical pacemaker cells.",
+        "D": "Kupffer cells are resident macrophages of hepatic sinusoids and participate in phagocytosis and immune surveillance rather than intestinal electrical pacing.",
+        "E": "Paneth cells at the base of intestinal crypts secrete antimicrobial substances, including defensins, and do not generate smooth-muscle slow waves."
+      },
       "topicId": "gi-general",
       "subtopic": "Electrical activity",
       "difficulty": "hard"
@@ -254,7 +284,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Sympathetic catecholamines hyperpolarise the fibres, inhibiting motility.",
+      "why": "Sympathetic catecholaminergic signalling generally inhibits gastrointestinal wall motility through suppression of excitatory enteric transmission and, in many preparations, smooth-muscle hyperpolarisation or relaxation. Responses vary with receptor subtype and region; sphincters may instead contract.",
+      "notes": {
+        "A": "Slow-wave frequency is primarily established by interstitial cells of Cajal and varies by gastrointestinal region, rather than necessarily increasing with sympathetic stimulation.",
+        "B": "Tonic contraction can occur in gastrointestinal sphincters during sympathetic activity, but the general response of the non-sphincter muscle wall is reduced motility.",
+        "D": "Depolarisation towards threshold tends to increase excitability and contractile activity, whereas sympathetic input generally suppresses excitatory activity in the gastrointestinal wall.",
+        "E": "Sympathetic postganglionic fibres supplying most gastrointestinal targets release noradrenaline and can inhibit acetylcholine release from excitatory enteric neurons."
+      },
       "topicId": "gi-general",
       "subtopic": "Electrical activity",
       "difficulty": "medium"
@@ -286,7 +322,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Tonic contractions maintain closure of the LES, orad stomach, ileocaecal and internal anal sphincters.",
+      "why": "The lower oesophageal sphincter maintains a sustained basal smooth-muscle contraction that creates a high-pressure zone and limits gastro-oesophageal reflux. It relaxes transiently during swallowing, allowing the bolus to enter the stomach.",
+      "notes": {
+        "A": "Small-intestinal wall muscle commonly produces rhythmic phasic segmentation and peristalsis for mixing and propulsion, rather than maintaining a continuously closed sphincter.",
+        "B": "The oesophageal body generates sequential propulsive contractions during swallowing, whereas sustained basal barrier pressure characterises its sphincter regions.",
+        "C": "The transverse colon exhibits mixing and propagating contractile patterns, rather than functioning as a continuously contracted gastro-oesophageal barrier.",
+        "E": "The gastric antrum produces strong phasic contractions that grind and propel gastric contents, contrasting with the sustained basal tone of the lower oesophageal sphincter."
+      },
       "topicId": "gi-general",
       "subtopic": "Motility",
       "difficulty": "hard"
@@ -318,7 +360,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The MMC, the inter-digestive 'housekeeper', cycles roughly every 1.5-2 hours and is driven by motilin.",
+      "why": "During fasting, the migrating motor complex recurs approximately every 90–120 minutes, with a phase of strong propagating contractions that clears residual material. Feeding interrupts the fasting pattern and replaces it with fed-state motility.",
+      "notes": {
+        "A": "Ten to fifteen minutes is much shorter than the usual interval between successive migrating motor complexes in the fasting gastrointestinal tract.",
+        "B": "Six to eight hours substantially exceeds the typical 90–120-minute fasting cycle and would omit several expected migrating motor complexes.",
+        "C": "Thirty seconds is closer to the timescale of individual contractile events than the interval between complete fasting motor complexes.",
+        "D": "Twelve hours spans numerous normal fasting motor cycles, rather than representing the recurrence interval of a single migrating motor complex."
+      },
       "topicId": "gi-general",
       "subtopic": "Motility",
       "difficulty": "hard"
@@ -350,7 +398,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Motilin from mucosal endocrine cells elicits the MMC between meals.",
+      "why": "Motilin is released cyclically by endocrine cells of the upper small intestine during fasting and is closely associated with gastric phase III migrating motor complex activity. Enteric and other regulatory mechanisms also contribute, especially to intestinal-origin complexes.",
+      "notes": {
+        "B": "Secretin is released in response to acidic duodenal contents and chiefly promotes bicarbonate secretion, rather than initiating the characteristic fasting motor pattern.",
+        "C": "Cholecystokinin is released after nutrients enter the small intestine and promotes pancreatic secretion and gallbladder contraction, rather than driving the fasting complex.",
+        "D": "Gastrin promotes gastric acid secretion and influences gastric motility, but is not the characteristic cyclical hormone associated with fasting phase III activity.",
+        "E": "Somatostatin generally inhibits gastrointestinal hormone release and several secretory functions, rather than serving as the principal hormonal trigger of gastric fasting phase III."
+      },
       "topicId": "gi-general",
       "subtopic": "Motility",
       "difficulty": "hard"
@@ -382,7 +436,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Segmentation is a mixing movement that shuffles chyme to and fro; peristalsis is the propulsive movement.",
+      "why": "Segmentation consists of alternating local contractions of circular smooth muscle that divide and redistribute chyme. This increases contact with digestive secretions and the absorptive epithelium, whereas peristaltic waves primarily move contents along the tract.",
+      "notes": {
+        "A": "Emptying solid food from the stomach requires antral grinding and coordinated pyloric opening; this is not the defining purpose of intestinal segmentation.",
+        "C": "Rapid net propulsion towards the anus characterises propulsive motor patterns, whereas segmentation chiefly produces local redistribution and mixing of luminal contents.",
+        "D": "Segmentation is especially important in the small intestine and is not confined to the oesophagus, whose major motor function is bolus propulsion.",
+        "E": "Pharyngeal constrictors propel a swallowed bolus through the pharynx using skeletal muscle, rather than producing intestinal smooth-muscle segmentation."
+      },
       "topicId": "gi-general",
       "subtopic": "Motility",
       "difficulty": "medium"
@@ -414,7 +474,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The vagus supplies gut down to the proximal colon; the pelvic nerves supply the distal colon and anorectum.",
+      "why": "Pelvic splanchnic nerves arise from sacral spinal segments S2–S4 and carry parasympathetic preganglionic fibres to the distal colon and rectum. They support distal bowel motility and contribute to the defaecation reflex.",
+      "notes": {
+        "A": "Hypogastric nerves predominantly convey sympathetic pathways to pelvic organs and do not provide the principal sacral parasympathetic input to the distal bowel.",
+        "B": "The phrenic nerve arises mainly from cervical spinal segments C3–C5 and supplies the diaphragm rather than parasympathetic gastrointestinal motor pathways.",
+        "D": "The vagus provides parasympathetic innervation to the foregut and midgut, whereas the distal hindgut receives sacral parasympathetic fibres.",
+        "E": "Thoracic and lumbar splanchnic nerves generally carry sympathetic fibres; the specifically named pelvic splanchnic nerves provide the sacral parasympathetic supply."
+      },
       "topicId": "gi-general",
       "subtopic": "Autonomic supply",
       "difficulty": "hard"
@@ -446,7 +512,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Gut sympathetic preganglionic fibres leave the cord between T5 and L2 and relay in the prevertebral ganglia.",
+      "why": "Gastrointestinal sympathetic preganglionic neurons arise from thoracic and upper lumbar spinal segments, approximately T5–L2. Their axons commonly travel in splanchnic nerves and synapse in prevertebral ganglia before postganglionic fibres reach the gut.",
+      "notes": {
+        "A": "Upper cervical spinal segments contain motor and sensory pathways but do not form the principal thoracolumbar sympathetic outflow supplying abdominal digestive organs.",
+        "B": "Upper thoracic sympathetic segments chiefly contribute to pathways serving thoracic and upper-body structures; the major gastrointestinal outflow begins further caudally.",
+        "C": "Lower lumbar segments L3–L5 are below the conventional T1–L2 sympathetic preganglionic outflow and do not supply its principal gastrointestinal component.",
+        "E": "Sacral segments S2–S4 provide pelvic parasympathetic outflow to the distal bowel, rather than the thoracolumbar sympathetic preganglionic supply."
+      },
       "topicId": "gi-general",
       "subtopic": "Autonomic supply",
       "difficulty": "hard"
@@ -478,7 +550,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Sympathetic activity inhibits gut motility and secretion and contracts sphincters; parasympathetic does the opposite.",
+      "why": "Sympathetic input generally inhibits gastrointestinal secretion and wall motility by suppressing excitatory enteric transmission and altering smooth-muscle activity. It can increase sphincter tone and constrict splanchnic vessels, particularly during stress.",
+      "notes": {
+        "A": "Enhanced digestive motility and secretion with coordinated sphincter relaxation are generally associated with parasympathetic and excitatory enteric activity, rather than sympathetic predominance.",
+        "B": "Copious watery glandular secretion is characteristic of selected parasympathetic secretory responses, not a uniform effect of sympathetic stimulation throughout the gastrointestinal tract.",
+        "C": "The detrusor is urinary bladder smooth muscle, and its contraction is mainly mediated by parasympathetic pathways rather than representing a gastrointestinal sympathetic response.",
+        "D": "Gastrin release is principally promoted by luminal peptides, gastric distension and vagal gastrin-releasing peptide signalling, not the general inhibitory gastrointestinal sympathetic response."
+      },
       "topicId": "gi-general",
       "subtopic": "Autonomic supply",
       "difficulty": "medium"
@@ -510,7 +588,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "About 2 L is ingested and ~7 L comes from secretions; nearly all is reabsorbed.",
+      "why": "Approximately two litres of fluid are ingested daily, with a further seven litres contributed by saliva and gastrointestinal, pancreatic and biliary secretions. Most of this combined luminal fluid is reabsorbed before faecal excretion.",
+      "notes": {
+        "B": "Seven litres approximates the daily contribution of endogenous digestive secretions in this teaching model, rather than the amount consumed directly.",
+        "C": "Nine litres approximates the total fluid load entering the digestive tract after combining oral intake with endogenous secretions.",
+        "D": "Half a litre is lower than the approximate daily oral fluid contribution used in this conventional gastrointestinal fluid-balance calculation.",
+        "E": "Five litres exceeds the conventional two-litre oral intake estimate and does not represent the standard partition of the nine-litre luminal load."
+      },
       "topicId": "gi-general",
       "subtopic": "Fluid balance",
       "difficulty": "medium"
@@ -542,7 +626,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Serous acinar cells carry zymogen granules containing salivary amylase; mucous cells secrete mucins.",
+      "why": "Serous acinar cells synthesise and package digestive proteins, including salivary alpha-amylase, into apical secretory granules. Amylase initiates starch digestion by hydrolysing internal alpha-1,4 glycosidic bonds, while mucous acinar cells principally produce mucins.",
+      "notes": {
+        "A": "Paneth cells are intestinal crypt cells that secrete antimicrobial proteins such as lysozyme and defensins, rather than producing salivary amylase.",
+        "C": "Mucous acinar cells principally secrete mucins that lubricate oral contents, whereas enzyme-rich watery secretion is characteristic of serous acinar cells.",
+        "D": "Salivary duct cells primarily modify the electrolyte composition of acinar secretion, rather than serving as the principal site of salivary amylase synthesis.",
+        "E": "Goblet cells are unicellular mucus-secreting epithelial glands and are not the enzyme-producing serous acinar cells of major salivary glands."
+      },
       "topicId": "gi-mouth",
       "subtopic": "Saliva",
       "difficulty": "medium"
@@ -574,7 +664,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Ducts reabsorb Na+ (more than the K+ secreted) and stay water-impermeable, leaving a hypotonic final saliva.",
+      "why": "Salivary ducts reabsorb sodium and chloride while secreting potassium and bicarbonate. Because net solute removal occurs across a relatively water-impermeable ductal epithelium, final saliva becomes hypotonic, especially at lower flow rates.",
+      "notes": {
+        "A": "High ductal water permeability would allow water to follow reabsorbed solutes, reducing the osmotic separation needed to produce markedly hypotonic saliva.",
+        "B": "Salivary duct cells generally secrete bicarbonate into the lumen; bicarbonate reabsorption is not the principal mechanism underlying final salivary hypotonicity.",
+        "D": "The usual net ductal transport involves sodium reabsorption and potassium secretion, rather than sodium secretion with free water movement and potassium uptake.",
+        "E": "Adding substantial sodium chloride would increase luminal solute concentration; salivary hypotonicity instead depends on net ductal electrolyte removal without equivalent water reabsorption."
+      },
       "topicId": "gi-mouth",
       "subtopic": "Saliva",
       "difficulty": "hard"
@@ -606,7 +702,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Salivary secretion is purely neural, and both parasympathetic and sympathetic stimulation increase it.",
+      "why": "Salivary secretion is regulated predominantly by autonomic neural reflexes rather than by the major gastrointestinal secretory hormones. Both parasympathetic and sympathetic nerves can stimulate secretion, with different effects on fluid volume and protein composition.",
+      "notes": {
+        "A": "Sympathetic stimulation can evoke protein-rich secretion, but parasympathetic activity is also important and typically produces abundant salivary fluid.",
+        "B": "Secretin is a duodenal hormone that stimulates pancreatic and biliary bicarbonate-rich secretion, rather than acting as the principal regulator of salivation.",
+        "C": "Parasympathetic activity strongly stimulates salivation, but sympathetic nerves also stimulate salivary protein secretion and cannot be considered physiologically inactive.",
+        "E": "Gastrin principally stimulates gastric acid secretion and is not the main control signal for the neural reflex regulation of salivary glands."
+      },
       "topicId": "gi-mouth",
       "subtopic": "Saliva",
       "difficulty": "hard"
@@ -638,7 +740,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Parasympathetic drive gives abundant watery saliva; sympathetic drive gives sparse, protein-rich saliva.",
+      "why": "Parasympathetic cholinergic stimulation activates muscarinic receptors and promotes substantial fluid and electrolyte secretion from salivary acini, supported by increased glandular perfusion. The resulting saliva is generally copious and relatively dilute in protein compared with sympathetic secretion.",
+      "notes": {
+        "A": "Relatively scant, protein-rich saliva is more characteristic of sympathetic stimulation, although actual secretion composition also depends on gland type and stimulus intensity.",
+        "B": "Enzyme secretion may accompany parasympathetic activation, but abundant water secretion is a defining feature rather than a low fluid output.",
+        "C": "Parasympathetic saliva contains electrolytes and gland-specific proteins, and it is not inherently acidic or devoid of digestive enzymes.",
+        "D": "Both autonomic divisions stimulate salivary glands, but they differ in their relative effects on fluid secretion, protein release and vascular responses."
+      },
       "topicId": "gi-mouth",
       "subtopic": "Saliva",
       "difficulty": "hard"
@@ -670,7 +778,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The parotid is served by IX through the otic ganglion; the submandibular and sublingual glands by VII through the submandibular ganglion.",
+      "why": "Parotid preganglionic parasympathetic fibres originate from the glossopharyngeal nerve and travel through the tympanic and lesser petrosal pathways to the otic ganglion. Postganglionic fibres reach the gland through the auriculotemporal nerve, a branch of the mandibular nerve.",
+      "notes": {
+        "B": "Facial nerve fibres travel through the chorda tympani to the submandibular ganglion, supplying mainly the submandibular and sublingual glands rather than the parotid.",
+        "C": "The nodose ganglion is a sensory ganglion of the vagus nerve, not the parasympathetic relay for parotid secretomotor fibres.",
+        "D": "The ciliary ganglion relays oculomotor parasympathetic fibres to intraocular muscles; trigeminal branches carry hitchhiking fibres but do not originate parotid parasympathetic outflow.",
+        "E": "The hypoglossal nerve primarily supplies tongue muscles and does not directly provide the preganglionic secretomotor pathway to the parotid gland."
+      },
       "topicId": "gi-mouth",
       "subtopic": "Saliva",
       "difficulty": "hard"
@@ -702,7 +816,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Once the bolus reaches the pharynx the involuntary pharyngeal phase takes over for about a second.",
+      "why": "Once the bolus reaches the pharynx, sensory input triggers a coordinated, largely involuntary brainstem swallowing sequence. The pharyngeal phase is rapid, typically around one second, and briefly protects the airway while directing food into the oesophagus.",
+      "notes": {
+        "A": "The enteric nervous system coordinates many oesophageal and intestinal functions, but pharyngeal swallowing requires brainstem control of striated muscle through cranial nerves.",
+        "C": "Voluntary control primarily initiates the oral phase, whereas the subsequent rapid pharyngeal sequence is largely reflexly coordinated.",
+        "D": "The cerebral cortex can initiate and modulate swallowing, but the pharyngeal motor sequence is not maintained entirely by voluntary cortical control.",
+        "E": "A duration of around ten seconds better approximates some oesophageal transit times than the brief, coordinated pharyngeal phase of swallowing."
+      },
       "topicId": "gi-mouth",
       "subtopic": "Swallowing",
       "difficulty": "medium"
@@ -734,7 +854,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The soft palate rises and seals off the nasopharynx, preventing regurgitation into the nose.",
+      "why": "Elevation and posterior movement of the soft palate close the velopharyngeal opening during swallowing. This separates the nasopharynx from the oropharynx, directing the bolus towards the oesophagus and limiting nasal regurgitation.",
+      "notes": {
+        "A": "Upper oesophageal sphincter relaxation opens the passage into the oesophagus, but it does not directly close the route into the nasopharynx.",
+        "B": "Tongue elevation helps propel the bolus backwards during the oral phase, whereas nasopharyngeal closure requires movement of the soft palate.",
+        "D": "Lower oesophageal sphincter closure helps prevent gastric reflux and occurs far below the velopharyngeal opening that must be sealed during pharyngeal swallowing.",
+        "E": "The diaphragm contributes to respiratory and lower oesophageal mechanics, rather than directly sealing the nasopharynx during the pharyngeal swallowing sequence."
+      },
       "topicId": "gi-mouth",
       "subtopic": "Swallowing",
       "difficulty": "medium"
@@ -766,7 +892,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Primary peristalsis is initiated by the swallowing centre; secondary waves arise from ENS reflexes in response to residual bolus distension.",
+      "why": "Secondary oesophageal peristalsis is triggered by residual food or distension within the oesophagus rather than a new voluntary swallow. Local enteric mechanosensory circuits and vagal pathways coordinate a clearing wave, with their relative contributions depending on oesophageal region.",
+      "notes": {
+        "A": "Lower oesophageal sphincter relaxation permits bolus entry into the stomach but is not the usual initiating stimulus for a secondary clearing contraction.",
+        "B": "Stimulation of pharyngeal receptors helps initiate the swallowing sequence and primary peristalsis, whereas secondary waves respond to oesophageal distension.",
+        "C": "Diaphragmatic contraction contributes to pressure around the gastro-oesophageal junction but does not normally initiate secondary peristaltic clearance of retained material.",
+        "E": "The swallowing centre initiates primary oesophageal peristalsis during a swallow; secondary peristalsis can begin without a new pharyngeal swallowing event."
+      },
       "topicId": "gi-mouth",
       "subtopic": "Swallowing",
       "difficulty": "hard"
@@ -798,7 +930,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The deglutition centre in the medulla and pons coordinates the swallow via cranial nerves V, IX, X and XII.",
+      "why": "Swallowing is coordinated by a brainstem central pattern-generating network centred in the medulla, with contributions from adjacent pontine circuitry. Sensory input and coordinated cranial motor output organise pharyngeal propulsion, airway protection and oesophageal entry.",
+      "notes": {
+        "A": "The cerebral cortex participates in voluntary swallow initiation and modulation, but the core patterned pharyngeal swallowing sequence is organised within brainstem circuits.",
+        "B": "The hypothalamus regulates appetite, thirst and autonomic homeostasis, but it is not the principal neural centre coordinating the rapid swallowing motor sequence.",
+        "C": "The cerebellum contributes to motor coordination and timing, whereas the core swallowing pattern generator is located in the brainstem.",
+        "D": "The spinal cord contains motor and autonomic pathways but does not house the principal cranial nerve circuits coordinating pharyngeal swallowing."
+      },
       "topicId": "gi-mouth",
       "subtopic": "Swallowing",
       "difficulty": "medium"
@@ -830,7 +968,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Parietal (oxyntic) cells secrete both HCl and intrinsic factor.",
+      "why": "Gastric parietal cells in oxyntic glands secrete hydrochloric acid through apical proton pumps and intrinsic factor as a glycoprotein. Acid supports digestion and antimicrobial defence, while intrinsic factor enables efficient vitamin B12 absorption in the terminal ileum.",
+      "notes": {
+        "B": "Chief cells primarily release pepsinogen and gastric lipase, rather than secreting the acid and intrinsic factor characteristic of parietal cells.",
+        "C": "G cells secrete gastrin, which stimulates acid secretion indirectly and directly through gastric regulatory pathways, but do not themselves produce hydrochloric acid.",
+        "D": "Mucous neck cells produce mucus within gastric glands, supporting lubrication and protection rather than supplying intrinsic factor and hydrochloric acid.",
+        "E": "Enterochromaffin-like cells secrete histamine, which activates parietal-cell H2 receptors, but the acid and intrinsic factor originate from parietal cells themselves."
+      },
       "topicId": "gi-stomach",
       "subtopic": "Gastric cells",
       "difficulty": "medium"
@@ -862,7 +1006,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Chief cells secrete pepsinogen (activated to pepsin by acid) and gastric lipase.",
+      "why": "Gastric chief cells synthesise and secrete pepsinogen, an inactive precursor converted to pepsin in the acidic gastric lumen, and gastric lipase. These secretions initiate protein and lipid digestion before chyme enters the small intestine.",
+      "notes": {
+        "A": "Surface mucous cells secrete protective mucus and bicarbonate, forming a barrier against gastric acid and pepsin rather than supplying the principal gastric digestive enzymes.",
+        "C": "Parietal cells secrete hydrochloric acid and intrinsic factor; their acid activates pepsinogen but does not originate from the enzyme-producing chief-cell pathway.",
+        "D": "G cells release gastrin into the circulation to regulate gastric secretion and motility, rather than secreting pepsinogen or gastric lipase into the lumen.",
+        "E": "D cells produce somatostatin, which inhibits gastrin and other secretory pathways, rather than producing the digestive enzyme products of chief cells."
+      },
       "topicId": "gi-stomach",
       "subtopic": "Gastric cells",
       "difficulty": "medium"
@@ -894,7 +1044,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The apical H+/K+-ATPase (proton pump) drives H+ into the canaliculus in exchange for K+.",
+      "why": "The apical hydrogen–potassium ATPase uses ATP to exchange intracellular hydrogen ions for luminal potassium ions across the parietal-cell canalicular membrane. Chloride enters the lumen separately, allowing hydrochloric acid to accumulate in gastric juice.",
+      "notes": {
+        "A": "The basolateral chloride–bicarbonate exchanger supplies intracellular chloride and transfers bicarbonate to blood, but does not directly pump hydrogen ions into the gastric lumen.",
+        "B": "The sodium–potassium–chloride cotransporter mediates coupled electrolyte movement in several epithelia, rather than performing the ATP-driven apical hydrogen–potassium exchange of gastric acid secretion.",
+        "D": "The sodium–potassium ATPase maintains cellular sodium and potassium gradients, chiefly at the basolateral membrane, rather than directly secreting gastric hydrogen ions.",
+        "E": "Sodium–hydrogen exchange contributes to intracellular pH regulation in many cells but is not the principal apical proton pump responsible for gastric acid secretion."
+      },
       "topicId": "gi-stomach",
       "subtopic": "HCl secretion",
       "difficulty": "hard"
@@ -926,7 +1082,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "As HCO3- is exchanged for Cl- across the basolateral membrane during acid secretion, blood pH rises transiently — the alkaline tide.",
+      "why": "During gastric acid secretion, carbonic anhydrase generates hydrogen ions and bicarbonate from carbon dioxide and water. Bicarbonate exits parietal cells basolaterally in exchange for chloride, temporarily increasing gastric venous blood alkalinity after a meal.",
+      "notes": {
+        "A": "The Bohr effect describes reduced haemoglobin oxygen affinity with increased carbon dioxide or hydrogen ion concentration, rather than postprandial bicarbonate entry into venous blood.",
+        "B": "An acid tide would imply increased acidity, whereas secretion of gastric hydrogen ions is accompanied by bicarbonate transfer into the blood.",
+        "C": "Alkaline reflux refers to reflux of relatively alkaline gastrointestinal contents and does not describe the transient rise in venous alkalinity accompanying gastric acid secretion.",
+        "E": "The chloride shift usually describes chloride–bicarbonate exchange in erythrocytes during carbon dioxide transport; the postprandial venous change is specifically termed the alkaline tide."
+      },
       "topicId": "gi-stomach",
       "subtopic": "HCl secretion",
       "difficulty": "hard"
@@ -958,7 +1120,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Intrinsic factor binds B12 so it can be taken up by receptor-mediated endocytosis in the lower ileum; its lack causes pernicious anaemia.",
+      "why": "Intrinsic factor binds dietary vitamin B12 after pancreatic enzymes release the vitamin from its earlier binding proteins. The complex is recognised by receptors in the terminal ileum, allowing absorption; intrinsic factor deficiency can therefore cause vitamin B12 deficiency.",
+      "notes": {
+        "A": "Iron is absorbed predominantly in the proximal small intestine through specialised iron transport mechanisms, rather than requiring intrinsic factor binding.",
+        "B": "Folate is absorbed mainly in the proximal small intestine through folate transport systems and does not depend on the intrinsic factor–cobalamin complex.",
+        "C": "Calcium absorption uses vitamin D-regulated and passive transport pathways, particularly in the small intestine, rather than depending on gastric intrinsic factor.",
+        "D": "Vitamin K absorption is associated mainly with intestinal lipid absorption and bile-dependent processes, rather than the terminal ileal intrinsic factor receptor pathway."
+      },
       "topicId": "gi-stomach",
       "subtopic": "Intrinsic factor",
       "difficulty": "hard"
@@ -1022,7 +1190,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Food-induced distension activates stretch receptors driving long vagovagal and short local reflexes that boost secretion.",
+      "why": "Gastric distension activates mechanosensitive pathways that initiate short enteric reflexes and long vagovagal reflexes. Excitatory neural signalling promotes acid secretion through direct parietal-cell stimulation and stimulation of gastrin and histamine pathways.",
+      "notes": {
+        "A": "Cholecystokinin is released mainly in response to duodenal nutrients and promotes pancreatic secretion and gallbladder contraction, rather than mediating the principal gastric stretch-induced acid response.",
+        "C": "Secretin is released in response to acidic duodenal chyme and chiefly stimulates bicarbonate secretion while opposing excessive gastric acid delivery.",
+        "D": "Circulating adrenaline participates in sympathetic stress responses but is not the principal mediator of the gastric distension-induced secretory reflexes.",
+        "E": "The enterogastric reflex is inhibitory feedback originating in the small intestine and generally limits gastric secretion and emptying rather than stimulating the gastric stretch response."
+      },
       "topicId": "gi-stomach",
       "subtopic": "Secretion phases",
       "difficulty": "hard"
@@ -1054,7 +1228,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Once duodenal chyme is acidic and fatty, the enterogastric reflex plus secretin, GIP and CCK inhibit gastric secretion and motility.",
+      "why": "Acid, fat and other features of chyme entering the duodenum activate inhibitory neural feedback and release intestinal hormones, including secretin and cholecystokinin. Together with other enterogastrone signals, these responses limit gastric secretion and delivery of additional chyme.",
+      "notes": {
+        "A": "Histamine released from enterochromaffin-like cells stimulates parietal-cell H2 receptors and increases acid secretion, rather than providing the main intestinal inhibitory feedback.",
+        "B": "Gastric fundal stretch activates gastric-phase neural reflexes and receptive mechanisms, whereas intestinal-phase inhibition is initiated primarily by signals from the small intestine.",
+        "D": "Cephalic vagal reflexes prepare the stomach for food and generally stimulate gastric secretion before or during ingestion, rather than mediating duodenal inhibition.",
+        "E": "Antral gastrin stimulates gastric acid secretion, so its release does not explain the principal inhibitory response to acidic or fatty duodenal contents."
+      },
       "topicId": "gi-stomach",
       "subtopic": "Secretion phases",
       "difficulty": "hard"
@@ -1086,7 +1266,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Vagovagal reflexes release NANC transmitters (NO, VIP, ATP) to relax the orad stomach for storage.",
+      "why": "Swallowing and gastric filling activate vagovagal reflexes that recruit inhibitory enteric motor neurons in the proximal stomach. Non-adrenergic, non-cholinergic signalling, particularly nitric oxide and vasoactive intestinal peptide, reduces muscle tone and accommodates food without a large pressure rise.",
+      "notes": {
+        "A": "Gastrin regulates gastric acid secretion and influences motor activity, but is not the principal inhibitory transmitter mediating receptive relaxation of proximal gastric smooth muscle.",
+        "B": "Parietal-cell proton pumps secrete hydrogen ions into gastric juice and do not directly mediate the neural relaxation of the proximal stomach.",
+        "C": "Pyloric contraction regulates distal gastric outflow and contributes to retropulsion, rather than directly producing receptive relaxation of the fundus and proximal body.",
+        "E": "Sympathetic effects can modify gastric motility, but receptive relaxation principally involves vagovagal activation of inhibitory enteric neurons in the proximal stomach."
+      },
       "topicId": "gi-stomach",
       "subtopic": "Gastric motility",
       "difficulty": "hard"
@@ -1118,7 +1304,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The thick-walled distal stomach produces strong phasic contractions that mix chyme and regulate emptying.",
+      "why": "The distal stomach, especially the antrum, generates strong phasic peristaltic contractions that propel food towards a regulated pyloric outlet. Retropulsion against the narrowed pylorus grinds and mixes solids, while coordinated antral and pyloric activity controls gastric emptying.",
+      "notes": {
+        "A": "The fundus and proximal body primarily provide accommodation and storage through receptive relaxation and tonic pressure, rather than producing the strongest grinding contractions.",
+        "B": "The cardia is the region near the gastro-oesophageal junction and is not the principal thick-walled grinding chamber that regulates delivery into the duodenum.",
+        "C": "The lower oesophageal sphincter controls entry from the oesophagus and limits reflux, rather than grinding food or controlling gastric outflow into the duodenum.",
+        "D": "The duodenum receives gastric chyme and supplies feedback regulating emptying, but the gastric grinding pump is located upstream in the distal stomach."
+      },
       "topicId": "gi-stomach",
       "subtopic": "Gastric motility",
       "difficulty": "medium"
@@ -1150,7 +1342,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Duodenal acid and fat slow gastric emptying so the small intestine is not overwhelmed.",
+      "why": "Acidic or fat-rich chyme in the duodenum activates enterogastric neural feedback and inhibitory hormonal signals, including secretin and cholecystokinin. These responses slow gastric delivery, allowing time for neutralisation, digestion and absorption in the small intestine.",
+      "notes": {
+        "B": "Dilute glucose solutions can evoke nutrient feedback, but excess duodenal acid and fat are especially characteristic potent inhibitors of gastric emptying.",
+        "C": "Water generally empties relatively rapidly because it requires little digestion and lacks the strong fat-related and acid-neutralisation feedback signals.",
+        "D": "Bicarbonate-rich chyme helps neutralise acid and does not provide the same acidic stimulus for inhibitory duodenal feedback as excess hydrogen ions.",
+        "E": "Protein digestion products can influence gastric emptying through intestinal feedback, but protein alone is not the exclusive or most characteristic inhibitory stimulus described here."
+      },
       "topicId": "gi-stomach",
       "subtopic": "Gastric motility",
       "difficulty": "medium"
@@ -1182,7 +1380,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Enterokinase from the duodenal mucosa activates trypsinogen to trypsin, which then activates the other proenzymes.",
+      "why": "Enteropeptidase, traditionally called enterokinase, is a duodenal brush-border enzyme that cleaves the activation peptide from trypsinogen to form trypsin. Active trypsin then activates additional trypsinogen and several other pancreatic digestive zymogens.",
+      "notes": {
+        "A": "Bile salts facilitate lipid emulsification and micelle formation, but they do not catalyse the specific proteolytic activation of pancreatic trypsinogen.",
+        "C": "Pepsin is an acid-active gastric protease that digests dietary protein, rather than the brush-border enzyme responsible for physiological trypsinogen activation.",
+        "D": "Gastric acid activates pepsinogen and denatures proteins, but pancreatic trypsinogen is normally activated enzymatically within the small intestinal lumen.",
+        "E": "Secretin stimulates bicarbonate-rich pancreatic secretion in response to duodenal acid and does not directly cleave trypsinogen into active trypsin."
+      },
       "topicId": "gi-pancreas",
       "subtopic": "Pancreatic enzymes",
       "difficulty": "hard"
@@ -1214,7 +1418,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Secreting trypsinogen, chymotrypsinogen and procarboxypeptidase inactive protects pancreatic tissue from autodigestion.",
+      "why": "Pancreatic proteases are synthesised and secreted as inactive zymogens to reduce premature digestion of pancreatic cells and ducts. Their physiological activation occurs predominantly in the small intestine, and pancreatic trypsin inhibitors provide an additional protective mechanism.",
+      "notes": {
+        "A": "The gallbladder stores and concentrates bile, whereas pancreatic digestive zymogens travel through the pancreatic duct system rather than being stored in the gallbladder.",
+        "B": "Bicarbonate neutralises gastric acid in the duodenum, but binding to bicarbonate is not the reason pancreatic proteases are secreted in inactive forms.",
+        "D": "Inactive zymogens can be transported in pancreatic juice, but their principal protective advantage is preventing inappropriate proteolytic activity within pancreatic tissue.",
+        "E": "Pancreatic proteases function mainly in the near-neutral or mildly alkaline small intestinal environment, rather than requiring inactive secretion to operate at gastric acidity."
+      },
       "topicId": "gi-pancreas",
       "subtopic": "Pancreatic enzymes",
       "difficulty": "medium"
@@ -1246,7 +1456,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Secretin acts on duct cells to secrete a bicarbonate-rich fluid that neutralises duodenal acid.",
+      "why": "Acid entering the duodenum stimulates S cells to release secretin into the circulation. Secretin activates pancreatic ductal signalling that promotes bicarbonate and water secretion, neutralising acidic chyme and providing an appropriate luminal pH for pancreatic enzymes.",
+      "notes": {
+        "A": "Gallbladder contraction is principally stimulated by cholecystokinin released in response to fats and protein digestion products, rather than being secretin's major action.",
+        "B": "Gastrin release is mainly regulated by gastric nutrients, distension and vagal signalling; secretin tends to inhibit excessive gastric acid secretion rather than stimulate gastrin.",
+        "C": "Parietal-cell acid secretion is stimulated by gastrin, histamine and acetylcholine, whereas secretin helps limit acid delivery and promotes its neutralisation.",
+        "E": "Pancreatic acinar enzyme secretion is principally stimulated by cholecystokinin and cholinergic input; secretin chiefly increases ductal bicarbonate-rich fluid secretion."
+      },
       "topicId": "gi-pancreas",
       "subtopic": "Pancreatic control",
       "difficulty": "hard"
@@ -1278,7 +1494,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "CCK drives acinar enzyme output and contracts the gallbladder (relaxing the sphincter of Oddi); it also potentiates secretin.",
+      "why": "Cholecystokinin is released from upper intestinal I cells in response to fatty acids and protein digestion products. It stimulates pancreatic digestive enzyme secretion through neural and hormonal pathways and promotes gallbladder contraction with coordinated biliary outflow.",
+      "notes": {
+        "A": "Secretin is the principal hormonal stimulus for pancreatic ductal bicarbonate secretion; cholecystokinin can potentiate this response but also strongly promotes enzyme secretion.",
+        "B": "Gastric acid secretion is principally stimulated by gastrin, histamine and acetylcholine; cholecystokinin more characteristically promotes intestinal digestive responses and slows gastric emptying.",
+        "C": "Salivary amylase release is regulated predominantly by autonomic neural stimulation of salivary glands, rather than by intestinal cholecystokinin as its main control signal.",
+        "D": "Intrinsic factor is secreted by gastric parietal cells to support vitamin B12 absorption, rather than being a principal target of cholecystokinin action."
+      },
       "topicId": "gi-pancreas",
       "subtopic": "Pancreatic control",
       "difficulty": "hard"
