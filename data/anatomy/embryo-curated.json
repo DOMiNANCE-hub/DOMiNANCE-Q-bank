@@ -11206,10 +11206,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Astrocytes, oligodendrocytes and ependyma arise from neuroectoderm; microglia come from mesenchyme (monocyte lineage).",
+      "why": "Microglia originate from early yolk sac-derived myeloid progenitors that colonise the developing central nervous system. They provide resident immune surveillance, unlike astrocytes, oligodendrocytes and ependymal cells derived from neuroectodermal progenitors.",
       "topicId": "e-cns",
       "subtopic": "Spinal cord",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Astrocytes develop from neural progenitors and provide metabolic, structural and regulatory support to central nervous tissue.",
+        "B": "Oligodendrocytes arise from neuroectodermal progenitors and produce myelin around axons within the central nervous system.",
+        "C": "Ependymal cells develop from neural tube progenitors and line the ventricular system and spinal central canal.",
+        "D": "Microglia are the exception because their developmental lineage is myeloid rather than the neuroectodermal lineage of other listed glia."
+      }
     },
     {
       "id": "dq-embryo-cns-021",
@@ -11238,10 +11244,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Differential growth means the cord ends at about L3 at birth and L1 in the adult.",
+      "why": "The adult spinal cord usually terminates as the conus medullaris near the L1–L2 vertebral level, with individual variation. Differential growth of the vertebral column and spinal cord produces this higher termination.",
       "topicId": "e-cns",
       "subtopic": "Spinal cord",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Termination at L3 is more characteristic of earlier development or a relatively low conus than the typical adult position.",
+        "C": "The vertebral canal continues below L5, but the adult spinal cord normally ends much more cranially.",
+        "D": "T12 may occur as a relatively high variant, but L1–L2 is the usual adult anatomical landmark.",
+        "E": "Sacral nerve roots travel through the lower vertebral canal rather than the adult spinal cord extending to S1."
+      }
     },
     {
       "id": "dq-embryo-cns-022",
@@ -11270,10 +11282,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Below the conus the lumbosacral roots and filum terminale form the cauda equina.",
+      "why": "Differential growth of the vertebral column elongates descending lumbar, sacral and coccygeal roots below the conus medullaris. These roots form the cauda equina, accompanying the filum terminale within the lumbar cistern.",
       "topicId": "e-cns",
       "subtopic": "Spinal cord",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The dural portion of the filum is a slender terminal attachment rather than a collective bundle of descending nerve roots.",
+        "C": "The conus medullaris is the tapered distal spinal cord from which the elongated nerve roots descend.",
+        "D": "The cervical enlargement contains neuronal populations supplying upper limbs, rather than the descending lower spinal nerve roots.",
+        "E": "Denticulate ligaments are lateral pial attachments stabilising the spinal cord, not the bundle of descending roots."
+      }
     },
     {
       "id": "dq-embryo-cns-023",
@@ -11302,10 +11320,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Oligodendrocytes myelinate CNS axons; Schwann cells myelinate peripheral axons.",
+      "why": "Oligodendrocytes extend cellular processes to form myelin sheaths around multiple central nervous system axonal segments. Myelination increases conduction efficiency and differs from peripheral myelination by Schwann cells, which typically myelinate one segment each.",
       "topicId": "e-cns",
       "subtopic": "Brain processes",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Microglia provide immune surveillance and phagocytosis rather than producing the principal insulating myelin sheath.",
+        "B": "Ependymal cells line ventricular and central canal surfaces rather than wrapping central nervous system axons in myelin.",
+        "D": "Schwann cells form peripheral nerve myelin, whereas oligodendrocytes provide myelination within the brain and spinal cord.",
+        "E": "Astrocytes support neuronal homeostasis and synapses but do not produce the principal central nervous system myelin sheath."
+      }
     },
     {
       "id": "dq-embryo-cns-024",
@@ -11334,10 +11358,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Pruning weeds out underused connections and strengthens frequently used ones, mostly between about ages 3 and 16.",
+      "why": "Synaptic pruning selectively eliminates some neuronal connections during development, while others are stabilised through activity-dependent mechanisms and molecular signalling. This refines circuits following earlier periods of abundant synapse formation and maturation.",
       "topicId": "e-cns",
       "subtopic": "Brain processes",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Neural migration moves developing cells to their destinations rather than selectively removing established synaptic connections.",
+        "B": "Synaptogenesis establishes new synapses, whereas pruning removes selected connections during subsequent refinement of neuronal circuits.",
+        "C": "Myelination improves axonal conduction efficiency rather than directly describing selective elimination of synaptic contacts.",
+        "E": "Neurogenesis produces new neurons from precursor populations, rather than eliminating selected connections between existing neurons."
+      }
     },
     {
       "id": "dq-embryo-limbs-001",
@@ -11366,10 +11396,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Limb buds appear on the ventrolateral body wall in week 4; forelimb buds appear slightly before hindlimb buds.",
+      "why": "Upper limb buds become apparent near the end of the fourth embryonic week, followed shortly by lower limb buds. Localised lateral plate mesodermal outgrowth beneath ectoderm establishes the developing appendages.",
       "topicId": "e-limbs",
       "subtopic": "Limb initiation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "The second week establishes the bilaminar disc before limb bud mesenchymal outgrowth has commenced.",
+        "C": "By the sixth week limb buds are already developing flattened distal plates rather than appearing initially.",
+        "D": "The eighth week is associated with increasingly differentiated limbs and digits, not their initial appearance.",
+        "E": "The tenth week is within fetal development, after the initial embryonic limb buds have formed."
+      }
     },
     {
       "id": "dq-embryo-limbs-002",
@@ -11398,10 +11434,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Somatic lateral plate mesoderm forms the limb bud core (bones and connective tissue); muscle comes later from somites.",
+      "why": "The initial limb bud mesenchymal core originates predominantly from somatic lateral plate mesoderm, covered externally by ectoderm. Migrating somitic myogenic precursors subsequently populate this core, contributing skeletal muscle rather than the principal skeletal framework.",
       "topicId": "e-limbs",
       "subtopic": "Limb initiation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Surface ectoderm covers the limb bud and forms signalling structures such as the apical ectodermal ridge.",
+        "C": "Paraxial mesoderm contributes migrating muscle precursors, rather than providing the initial principal limb mesenchymal core.",
+        "D": "Neural crest contributes peripheral nerves and selected cell populations, not the main limb bud skeletal mesenchyme.",
+        "E": "Splanchnic lateral plate mesoderm associates with developing viscera rather than forming the somatic appendicular mesenchyme."
+      }
     },
     {
       "id": "dq-embryo-limbs-003",
@@ -11430,10 +11472,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "FGF10 from the lateral plate mesoderm triggers limb bud outgrowth.",
+      "why": "FGF10 expressed in limb-forming lateral plate mesoderm promotes initiation of limb bud outgrowth and induces ectodermal FGF signalling. Reciprocal FGF signalling between mesenchyme and apical ectodermal ridge sustains subsequent development.",
       "topicId": "e-limbs",
       "subtopic": "Limb initiation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "BMP4 participates in limb patterning and differentiation but is not the specified initial mesenchymal FGF outgrowth signal.",
+        "B": "Retinoic acid influences developmental patterning and competence, rather than serving as the specified mesenchymal outgrowth factor.",
+        "D": "SHH from the posterior limb bud regulates anteroposterior patterning rather than initiating the principal FGF10-mediated outgrowth loop.",
+        "E": "Wnt7a from dorsal ectoderm specifies dorsal identity rather than the initial lateral plate mesodermal outgrowth signal."
+      }
     },
     {
       "id": "dq-embryo-limbs-004",
@@ -11462,10 +11510,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The apical ectodermal ridge (AER) caps the bud and controls proximo-distal outgrowth via FGF8.",
+      "why": "The apical ectodermal ridge is a thickened epithelial structure along the distal limb bud margin. It produces FGF signals that support proliferation and survival of underlying mesenchyme during limb elongation and patterning.",
       "topicId": "e-limbs",
       "subtopic": "Signalling centres",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The progress zone denotes distal mesenchyme beneath the ridge rather than the specialised thickened ectoderm itself.",
+        "B": "Dermomyotome is a somitic structure contributing dermal and muscular populations rather than the distal limb epithelial ridge.",
+        "C": "Neural crest forms migratory cell populations at neural folds and is not the distal ectodermal thickening.",
+        "E": "The zone of polarising activity is posterior limb mesenchyme producing SHH, rather than the apical epithelial structure."
+      }
     },
     {
       "id": "dq-embryo-limbs-005",
@@ -11494,10 +11548,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The AER drives proximo-distal patterning (shoulder to fingertip); the ZPA controls antero-posterior patterning.",
+      "why": "The apical ectodermal ridge provides FGF signals maintaining distal limb outgrowth and supporting proximodistal patterning. Interactions with underlying mesenchyme progressively establish proximal, intermediate and distal skeletal regions as the limb elongates.",
       "topicId": "e-limbs",
       "subtopic": "Signalling centres",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Anteroposterior digit patterning depends particularly on SHH signalling from the posterior zone of polarising activity.",
+        "B": "Dorsoventral identity is regulated by ectodermal signals including dorsal Wnt7a and ventral Engrailed-1 rather than primarily ridge FGF.",
+        "C": "Craniocaudal positioning concerns limb field specification along the embryonic trunk rather than elongation within the limb.",
+        "D": "Mediolateral orientation is not the standard axis assigned to the ridge's support of progressive distal limb outgrowth."
+      }
     },
     {
       "id": "dq-embryo-limbs-006",
@@ -11526,10 +11586,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The ZPA at the posterior margin secretes SHH, which patterns the antero-posterior (thumb to little-finger) axis.",
+      "why": "The posterior limb bud zone of polarising activity produces Sonic hedgehog, establishing a signalling gradient and duration-dependent responses. These influence anteroposterior skeletal patterning and digit identities, in coordination with other developmental signals.",
       "topicId": "e-limbs",
       "subtopic": "Signalling centres",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "FGF8 from the apical ectodermal ridge supports limb outgrowth rather than serving as the posterior polarising morphogen.",
+        "C": "Wnt7a from dorsal ectoderm promotes dorsal limb identity rather than the characteristic posterior digit patterning signal.",
+        "D": "Engrailed-1 helps establish ventral ectodermal identity rather than acting as the secreted posterior polarising morphogen.",
+        "E": "FGF10 is involved in limb initiation and reciprocal FGF signalling rather than specifying digit identity through posterior SHH."
+      }
     },
     {
       "id": "dq-embryo-limbs-007",
@@ -11558,10 +11624,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Wnt7a from dorsal ectoderm specifies dorsal fate; Engrailed-1 from ventral ectoderm specifies ventral fate.",
+      "why": "Dorsal limb ectoderm expresses Wnt7a, which promotes dorsal mesenchymal identity through downstream regulators including LMX1B. Ventral ectoderm expresses factors such as Engrailed-1 that restrict dorsalising signals to the appropriate region.",
       "topicId": "e-limbs",
       "subtopic": "Signalling centres",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Retinoic acid contributes to developmental signalling and patterning but does not replace dorsal ectodermal Wnt7a in this mechanism.",
+        "C": "Engrailed-1 promotes ventral identity and restricts Wnt7a expression rather than directly establishing dorsal limb identity.",
+        "D": "SHH from posterior mesenchyme regulates anteroposterior digit patterning rather than the principal dorsal ectodermal specification pathway.",
+        "E": "FGF8 from the apical ectodermal ridge supports proximodistal limb outgrowth rather than selectively establishing the dorsal surface."
+      }
     },
     {
       "id": "dq-embryo-limbs-008",
@@ -11590,10 +11662,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Stylopod (humerus/femur), then zeugopod (radius-ulna/tibia-fibula), then autopod (hand/foot).",
+      "why": "The appendicular skeletal axis is divided into stylopod, zeugopod and autopod from proximal to distal. The autopod includes wrist or ankle structures, metapodial bones and digits, following the more proximal limb segments.",
       "topicId": "e-limbs",
       "subtopic": "Limb patterning",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Propod is not the conventional collective name for the distal skeletal segment containing wrist or ankle and digits.",
+        "B": "Acropod may describe distal digit-related regions, but autopod is the standard collective distal limb segment in this classification.",
+        "D": "Metapod refers more narrowly to metacarpal or metatarsal regions and does not include the complete distal limb segment.",
+        "E": "Basipod refers to a component of the distal skeleton rather than the entire autopod in the three-segment scheme."
+      }
     },
     {
       "id": "dq-embryo-limbs-009",
@@ -11622,10 +11700,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The stylopod is the proximal segment (humerus in the arm, femur in the leg).",
+      "why": "The stylopod is the most proximal major limb skeletal segment and contains a single principal long bone. It corresponds to the humerus in the upper limb and the femur in the lower limb.",
       "topicId": "e-limbs",
       "subtopic": "Limb patterning",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The autopod is the distal limb segment containing wrist or ankle structures and digits rather than proximal long bones.",
+        "B": "Metapod refers to the metacarpal or metatarsal region rather than the single proximal humeral or femoral segment.",
+        "C": "Acropod refers to distal digit-related structures rather than the most proximal long bone of the limb.",
+        "E": "The zeugopod contains paired long bones, radius and ulna or tibia and fibula, rather than humerus or femur."
+      }
     },
     {
       "id": "dq-embryo-limbs-010",
@@ -11654,10 +11738,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "HOX (homeobox) genes set the cranio-caudal position at which limbs form.",
+      "why": "HOX gene expression along the developing body axis contributes positional information defining where limb fields arise. Additional region-specific regulators, including T-box factors and local FGF signalling, participate in initiation and identity of the appendages.",
       "topicId": "e-limbs",
       "subtopic": "Limb patterning",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "T-box factors contribute limb identity and initiation but do not alone establish the complete craniocaudal positional programme.",
+        "B": "SHH acts prominently within the posterior limb bud to pattern digits rather than specifying trunk-level limb field positions.",
+        "C": "Wnt7a regulates dorsal limb identity after the field is established, rather than specifying its axial trunk location.",
+        "D": "FGF8 supports continued outgrowth from the apical ectodermal ridge rather than providing the principal axial positional code."
+      }
     },
     {
       "id": "dq-embryo-limbs-011",
@@ -11686,10 +11776,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "TBX5 (with FGF10) specifies the forelimb; TBX4 (with FGF10) specifies the hindlimb.",
+      "why": "TBX5 is expressed in the developing forelimb field and is important for initiation of forelimb outgrowth. Hindlimb development instead prominently involves PITX1 and TBX4, with additional regulators establishing full regional identity.",
       "topicId": "e-limbs",
       "subtopic": "Limb patterning",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "TBX4 is associated mainly with hindlimb developmental programmes rather than the characteristic forelimb initiation factor.",
+        "C": "SHH regulates anteroposterior patterning within both developing limbs rather than specifically establishing forelimb versus hindlimb identity.",
+        "D": "HOX genes contribute axial and regional positional information, but the specified forelimb-associated T-box regulator is TBX5.",
+        "E": "PAX6 is particularly important in eye and nervous system development rather than initiating the forelimb developmental programme."
+      }
     },
     {
       "id": "dq-embryo-limbs-012",
@@ -11718,10 +11814,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The limb buds flatten into hand and foot plates by week 6.",
+      "why": "By approximately the sixth embryonic week, distal limb buds flatten into hand and foot plates. Digital rays subsequently become apparent within these plates as mesenchymal condensations organise the developing future fingers and toes.",
       "topicId": "e-limbs",
       "subtopic": "Hand and digits",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Apical caps is not the conventional name for the flattened mesenchymal and ectodermal distal limb regions.",
+        "C": "Digital rays are developing digit condensations within the plates rather than the name of the whole flattened ends.",
+        "D": "Limb paddles is an informal descriptive term rather than the conventional anatomical name for hand and foot plates.",
+        "E": "Autopod describes the eventual distal limb skeletal region rather than the specific early flattened embryonic structures."
+      }
     },
     {
       "id": "dq-embryo-limbs-013",
@@ -11750,10 +11852,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Programmed cell death (apoptosis) removes the interdigital mesenchyme, freeing the fingers and toes.",
+      "why": "Interdigital mesenchyme undergoes regulated programmed cell death during limb development, separating the initially connected digital rays. BMP signalling and other pathways participate in removal of tissue between digits, while disrupted separation may produce syndactyly.",
       "topicId": "e-limbs",
       "subtopic": "Hand and digits",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Chondrogenesis forms cartilage models within digital rays, rather than selectively removing tissue from the spaces between digits.",
+        "B": "Ossification occurs within developing skeletal elements and does not itself remove the embryonic interdigital web tissue.",
+        "D": "Digital rays form within a shared distal plate rather than arising as five independently detached limb buds.",
+        "E": "Fusion of adjacent digital rays would reduce separation, whereas normal digit formation involves removal of intervening tissue."
+      }
     },
     {
       "id": "dq-embryo-limbs-014",
@@ -11782,10 +11890,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Myogenic cells migrate into the limb bud from the somites; the bones form from somatic lateral plate mesoderm.",
+      "why": "Limb skeletal muscle precursors originate from hypaxial regions of somitic dermomyotomes and migrate into the developing limb buds. There they form dorsal and ventral muscle masses that subsequently differentiate into individual muscles.",
       "topicId": "e-limbs",
       "subtopic": "Limb tissues",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Neural crest contributes peripheral nerves and other cell populations, rather than the primary limb skeletal muscle lineage.",
+        "B": "The apical ectodermal ridge provides growth signals and does not directly generate the mesodermal myogenic precursor population.",
+        "C": "Splanchnic mesoderm contributes visceral smooth muscle and other tissues rather than the somitic origin of limb skeletal muscle.",
+        "E": "Somatic lateral plate mesoderm supplies limb skeletal and connective tissue components, while muscle fibres originate from somites."
+      }
     },
     {
       "id": "dq-embryo-limbs-015",
@@ -11814,10 +11928,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Mesenchyme forms hyaline cartilage models that are replaced by bone through endochondral ossification; ossification centres appear about week 12.",
+      "why": "Most appendicular bones develop through endochondral ossification, in which mesenchymal condensations first form cartilage templates that are progressively replaced by bone. Selected girdle components, notably much of the clavicle, have additional intramembranous contributions.",
       "topicId": "e-limbs",
       "subtopic": "Limb tissues",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Intramembranous ossification forms bone directly from mesenchyme and is not the predominant mechanism of limb long-bone development.",
+        "B": "Somites contribute axial skeletal structures and limb muscle precursors rather than forming long bones by direct fusion.",
+        "C": "Neural crest contributes much craniofacial skeleton, whereas most limb skeletal tissue derives from lateral plate mesoderm.",
+        "D": "Direct mineralisation within mesenchyme describes intramembranous ossification rather than the cartilage-intermediate pathway of most limb bones."
+      }
     },
     {
       "id": "dq-embryo-limbs-016",
@@ -11846,10 +11966,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The upper limbs rotate 90 degrees laterally (thumb lateral); the lower limbs rotate medially (big toe medial).",
+      "why": "The upper limbs rotate laterally during development, reorienting their preaxial borders so that the thumbs occupy lateral positions in anatomical posture. This rotation also contributes to adult relationships between extensor and flexor compartments.",
       "topicId": "e-limbs",
       "subtopic": "Limb rotation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "A medial thumb position would resemble the orientation of the great toe after medial lower limb rotation.",
+        "C": "Anterior placement does not describe the final preaxial thumb position relative to the trunk in anatomical posture.",
+        "D": "Posterior placement does not describe the characteristic lateral position established by external upper limb rotation.",
+        "E": "Superior position is not the standard anatomical relationship of the thumb following developmental lateral upper limb rotation."
+      }
     },
     {
       "id": "dq-embryo-limbs-017",
@@ -11878,10 +12004,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The lower limbs rotate 90 degrees medially, placing the great toe medially and the extensors anteriorly.",
+      "why": "The lower limbs rotate medially during development, bringing their preaxial borders towards the midline. The great toes consequently lie medially, and the rotation contributes to adult muscle compartment and dermatomal arrangements.",
       "topicId": "e-limbs",
       "subtopic": "Limb rotation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Inferior placement refers to a vertical direction and does not identify the great toe's medial relationship to other digits.",
+        "C": "Lateral positioning characterises the thumb after upper limb rotation rather than the great toe after medial rotation.",
+        "D": "The lower limb's anterior surface is reoriented during rotation, but the great toe's defining digit position is medial.",
+        "E": "Posterior placement does not describe the usual anatomical position of the great toe relative to the other digits."
+      }
     },
     {
       "id": "dq-embryo-limbs-018",
@@ -11942,10 +12074,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Thalidomide inhibits angiogenesis in the developing limb, producing phocomelia and amelia.",
+      "why": "Thalidomide exposure during critical embryonic stages can disrupt limb development through mechanisms involving cereblon-dependent protein degradation and impaired angiogenesis. Reduced vascular support is an important proposed contributor to the resulting limb reduction defects.",
       "topicId": "e-limbs",
       "subtopic": "Limb anomalies",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Apical ridge injury may produce limb defects, but direct destruction is not the best description of the specified drug mechanism.",
+        "B": "Somitic migration contributes limb muscles, whereas thalidomide's developmental effects are not restricted to blocking this migration.",
+        "C": "HOX genes regulate patterning, but direct general inhibition of these genes is not the primary established explanation for thalidomide embryopathy.",
+        "E": "SHH disruption can cause digit patterning abnormalities, but selective SHH blockade is not the principal specified thalidomide mechanism."
+      }
     },
     {
       "id": "dq-embryo-limbs-020",
@@ -11974,10 +12112,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Amelia is total absence of a limb; meromelia is partial absence; phocomelia is absence of proximal parts with the hand/foot attached near the trunk.",
+      "why": "Amelia denotes congenital complete absence of one or more limbs, reflecting severe disruption of early limb initiation or development. Partial absence is instead described by terms such as meromelia, depending on the affected structures.",
       "topicId": "e-limbs",
       "subtopic": "Limb anomalies",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Meromelia describes partial absence of a limb rather than complete absence of the whole appendage.",
+        "B": "Phocomelia describes severe reduction of proximal limb segments with distal structures attached unusually close to the trunk.",
+        "C": "Ectrodactyly involves absence or abnormal development of particular digits, rather than complete absence of an entire limb.",
+        "D": "Syndactyly describes joining of adjacent digits and does not denote complete absence of the whole appendage."
+      }
     },
     {
       "id": "dq-embryo-limbs-021",
@@ -12006,10 +12150,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Syndactyly is fusion of digits (failed interdigital apoptosis); polydactyly is extra digits.",
+      "why": "Syndactyly describes congenital joining of adjacent digits by soft tissue, bone or both. Incomplete separation of developing digital rays or disturbed interdigital tissue regression can contribute to this developmental pattern.",
       "topicId": "e-limbs",
       "subtopic": "Limb anomalies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Polydactyly describes additional digits rather than fusion or persistent joining of neighbouring fingers or toes.",
+        "C": "Ectrodactyly describes absence of particular digits or central digital structures, rather than abnormal union of adjacent digits.",
+        "D": "Brachydactyly describes shortened digits due to abnormal skeletal growth rather than persistent fusion between neighbouring digits.",
+        "E": "Amelia denotes absence of an entire limb, not joining of two adjacent digits within a developed limb."
+      }
     },
     {
       "id": "dq-embryo-limbs-022",
@@ -12038,10 +12188,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Polydactyly is the presence of extra digits.",
+      "why": "Polydactyly describes the presence of additional fingers or toes beyond the usual five on an appendage. Altered limb patterning signals, including disturbances of SHH-related pathways, can produce different positions and configurations of extra digits.",
       "topicId": "e-limbs",
       "subtopic": "Limb anomalies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Meromelia describes partial absence of a limb rather than an increase in the number of digits.",
+        "C": "Syndactyly describes persistent joining of adjacent digits, rather than the presence of supernumerary fingers or toes.",
+        "D": "Brachydactyly describes unusually short digits rather than development of additional digits within the limb.",
+        "E": "Ectrodactyly describes absence or deficiency of selected digits, contrasting with the additional digits of polydactyly."
+      }
     },
     {
       "id": "dq-embryo-g-057",
@@ -12102,10 +12258,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The scrotum keeps the testes 2-3 °C cooler than the core, which is essential for sperm production; this is why an undescended (intra-abdominal) testis fails to make sperm.",
+      "why": "Normal spermatogenesis is favoured by testicular temperatures approximately two to three degrees Celsius below core temperature. The scrotum, pampiniform plexus and cremasteric and dartos responses help maintain this relatively cooler environment.",
       "topicId": "e-gameto",
       "subtopic": "Spermatogenesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Sustained core temperature exposure may impair germ-cell development, rather than representing the preferred scrotal thermal environment.",
+        "C": "Temperatures above core temperature increase thermal stress on spermatogenic tissue rather than supporting its normal function.",
+        "D": "A five-to-six-degree reduction exceeds the conventional typical difference between scrotal testicular and core body temperatures.",
+        "E": "A ten-degree reduction is substantially greater than the ordinary physiological cooling required for efficient human spermatogenesis."
+      }
     },
     {
       "id": "dq-embryo-g-059",
@@ -12134,10 +12296,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Spermatocytogenesis is the initial mitotic phase (~16 days) that amplifies spermatogonia into primary spermatocytes; spermiogenesis is the later remodelling of spermatids into spermatozoa.",
+      "why": "Spermatocytogenesis is the proliferative and differentiative phase in which spermatogonia undergo mitosis and generate cells entering meiosis as primary spermatocytes. It precedes meiotic production of haploid spermatids and their subsequent morphological differentiation.",
       "topicId": "e-gameto",
       "subtopic": "Spermatogenesis",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Spermiogenesis converts haploid spermatids into spermatozoa without further cell division, after the earlier spermatogonial and meiotic stages.",
+        "B": "Spermiation releases differentiated spermatozoa from Sertoli cells into the seminiferous tubular lumen rather than producing primary spermatocytes.",
+        "D": "Spermatid formation follows the meiotic divisions, rather than naming the mitotic spermatogonial proliferation specified in the stem.",
+        "E": "Capacitation involves post-ejaculatory functional sperm changes that prepare sperm for fertilisation rather than generating primary spermatocytes."
+      }
     },
     {
       "id": "dq-embryo-g-060",
@@ -12166,10 +12334,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Spermiogenesis remodels a round spermatid into a spermatozoon — forming the acrosome and tail and shedding excess cytoplasm — with no further division; chromosome reduction and crossing over happen earlier, in meiosis.",
+      "why": "During spermiogenesis, haploid spermatids undergo extensive morphological remodelling without further cell division. Their nuclei condense, acrosomes and flagella develop, and surplus cytoplasm is discarded in residual bodies subsequently cleared by Sertoli cells.",
       "topicId": "e-gameto",
       "subtopic": "Spermatogenesis",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Reduction of chromosome number occurs during meiosis I, before the morphological remodelling of haploid spermatids.",
+        "B": "Crossing over occurs between homologous chromosomes during prophase I rather than during postmeiotic spermatid differentiation.",
+        "C": "Mitotic amplification maintains spermatogonial precursor populations and precedes the meiotic and spermiogenic phases.",
+        "E": "Premeiotic DNA replication occurs before the first meiotic division, not during differentiation of already haploid spermatids."
+      }
     },
     {
       "id": "dq-embryo-g-061",
@@ -12198,10 +12372,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Arrested in prophase I since fetal life, the primary oocyte finishes meiosis I at the LH surge to give a secondary oocyte and the first polar body; meiosis II is completed only if fertilization occurs.",
+      "why": "The preovulatory LH surge induces selected primary oocytes to resume meiosis I and complete the first division. Asymmetric cytokinesis produces a secondary oocyte and first polar body, followed by arrest in metaphase II.",
       "topicId": "e-gameto",
       "subtopic": "Oogenesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "During fetal development, primary oocytes enter meiosis I but normally arrest in prophase rather than completing it.",
+        "B": "Fertilisation normally triggers completion of meiosis II, after the first division has already finished around ovulation.",
+        "C": "Menarche marks the first menstruation and does not necessarily coincide with completion of meiosis I in every primary oocyte.",
+        "D": "Individual selected oocytes resume meiosis around ovulation rather than all completing the first division continuously throughout reproductive life."
+      }
     },
     {
       "id": "dq-embryo-g-062",
@@ -12230,10 +12410,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The secondary oocyte is ovulated in metaphase II and only finishes the division, expelling the second polar body, if a sperm penetrates it.",
+      "why": "After completing meiosis I, the secondary oocyte enters meiosis II and arrests at metaphase before ovulation. Fertilisation-associated calcium signalling releases this arrest, allowing completion of meiosis II and extrusion of the second polar body.",
       "topicId": "e-gameto",
       "subtopic": "Oogenesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Prophase I is the prolonged arrest of primary oocytes established during fetal life, before the secondary oocyte forms.",
+        "C": "Metaphase I precedes completion of the first meiotic division and is not the normal arrest of the ovulated secondary oocyte.",
+        "D": "Anaphase II occurs after release from metaphase II arrest, normally following activation by sperm–oocyte fusion.",
+        "E": "Telophase I precedes the formation of the secondary oocyte and first polar body rather than representing its later arrest."
+      }
     },
     {
       "id": "dq-embryo-g-063",
@@ -12262,10 +12448,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Follicular atresia removes the great majority of follicles throughout life, so of the roughly two million present at birth only about 400 ever ovulate; luteolysis instead means regression of the corpus luteum.",
+      "why": "Follicular atresia is degeneration of ovarian follicles that do not complete development towards ovulation. It can affect follicles at multiple stages and involves regulated loss of oocytes and surrounding follicular supporting cells.",
       "topicId": "e-gameto",
       "subtopic": "Oogenesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Luteolysis describes regression of the corpus luteum following ovulation, rather than degeneration of follicles at multiple stages.",
+        "C": "Ovulation is release of an oocyte from a mature follicle rather than degenerative loss of developing follicles.",
+        "D": "Involution is a broader term for tissue regression, while follicular atresia specifically denotes degenerative follicle loss.",
+        "E": "Menolysis is not the conventional physiological term for degeneration and loss of developing ovarian follicles."
+      }
     },
     {
       "id": "dq-embryo-g-064",
@@ -12294,10 +12486,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Most of the ejaculate volume is seminal-vesicle and prostatic fluid that nourishes and activates the sperm; the testis and epididymis supply the sperm themselves, not the bulk fluid.",
+      "why": "Most seminal fluid originates from seminal vesicles and prostate, which provide nutrients, enzymes and other substances supporting sperm transport and function. Smaller contributions arise from the testes, epididymides and other accessory glands.",
       "topicId": "e-fert",
       "subtopic": "Fertilization",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Testes and epididymides provide sperm and some fluid, but they do not supply most of the ejaculate volume.",
+        "B": "Bulbourethral glands contribute mucus and lubrication, but urinary bladder glands are not a principal source of seminal plasma.",
+        "D": "Seminal vesicles contribute substantially to semen, but the epididymis provides much less fluid than the prostate.",
+        "E": "Prostate contributes substantial fluid, whereas bulbourethral secretions are much smaller than the principal seminal vesicle contribution."
+      }
     },
     {
       "id": "dq-embryo-g-065",
