@@ -654,5 +654,197 @@
       "C": "Glutamate can supply ammonia or amino groups upstream. The immediate nitrogen donors are carbamoyl phosphate and aspartate.",
       "E": "Carbamoyl phosphate supplies one nitrogen. Aspartate, rather than glutamate directly, supplies the second."
     }
+  },
+  "bio-067": {
+    "why": "N-acetylglutamate is the obligatory allosteric activator of mitochondrial carbamoyl phosphate synthetase I. It increases the liver's ability to incorporate ammonia nitrogen into the urea cycle.",
+    "notes": {
+      "B": "AMP is a nucleotide, rather than the enzyme activated by N-acetylglutamate in ureogenesis.",
+      "C": "Ornithine transcarbamylase uses carbamoyl phosphate in the next reaction. Carbamoyl phosphate synthetase I is the direct target of N-acetylglutamate."
+    }
+  },
+  "bio-068": {
+    "why": "Carbamoyl phosphate synthetase I catalyses the first committed reaction of ureogenesis in liver mitochondria. It uses ammonia, bicarbonate and two ATP, and its activity depends on the allosteric activator N-acetylglutamate.",
+    "notes": {
+      "B": "Ornithine transcarbamylase transfers the carbamoyl group to ornithine after carbamoyl phosphate has been made.",
+      "C": "Argininosuccinate synthetase uses aspartate to supply the second nitrogen in the cytosolic portion of the cycle.",
+      "D": "Argininosuccinate lyase forms arginine and fumarate downstream of the major regulatory reaction.",
+      "E": "Arginase releases urea in the final reaction and regenerates ornithine. It is not the principal entry-point regulator."
+    }
+  },
+  "bio-069": {
+    "why": "The two nitrogen atoms of urea enter through the mitochondrial ammonia–ammonium pool and through the amino group of aspartate. The first is incorporated into carbamoyl phosphate, and aspartate donates the other nitrogen during argininosuccinate synthesis.",
+    "notes": {
+      "A": "Glutamine can carry nitrogen to the liver and release it as ammonia. It is not the immediate amino-group donor in argininosuccinate synthesis.",
+      "C": "Glutamate can supply nitrogen through deamination or transamination, but aspartate is the second direct donor to the cycle.",
+      "D": "Glutamate is an important upstream nitrogen source. The two immediate inputs are the ammonia–ammonium pool and aspartate."
+    }
+  },
+  "bio-070": {
+    "why": "Hepatic alanine aminotransferase transfers alanine's amino group to alpha-ketoglutarate, forming glutamate and pyruvate. The liver can use the pyruvate for gluconeogenesis and dispose of the transferred nitrogen through the urea cycle.",
+    "notes": {
+      "A": "Glutamate is the product formed when alpha-ketoglutarate accepts the amino group from alanine.",
+      "B": "Glutamine can carry nitrogen between tissues, but it is not the keto acid that accepts nitrogen in the hepatic alanine aminotransferase reaction.",
+      "D": "Aspartate is an important nitrogen donor in the urea cycle. It is not the immediate acceptor used by alanine aminotransferase in this reaction."
+    }
+  },
+  "bio-071": {
+    "why": "Aspartate aminotransferase interconverts aspartate and oxaloacetate. Fumarate produced in the urea cycle can feed into malate and oxaloacetate, which can regenerate the aspartate required by the cycle.",
+    "notes": {
+      "A": "Glutamate and alpha-ketoglutarate also participate in nitrogen transfer, but the fumarate-to-aspartate link specifically uses oxaloacetate.",
+      "C": "Alanine and pyruvate are central to the glucose–alanine cycle between muscle and liver. They are not the pair used in the fumarate–aspartate link.",
+      "D": "The aspartate–oxaloacetate pair provides a direct way to connect urea cycle nitrogen donation with TCA-linked carbon intermediates."
+    }
+  },
+  "bio-072": {
+    "why": "Argininosuccinate lyase produces fumarate during the urea cycle. Fumarate is a tricarboxylic acid cycle intermediate and can be converted to malate and oxaloacetate, linking the pathways.",
+    "notes": {
+      "A": "The urea cycle does not directly supply a standard glycolytic intermediate. Its direct carbon link in this comparison is fumarate.",
+      "B": "The hexose monophosphate shunt uses sugar phosphates, starting with glucose 6-phosphate. Fumarate is not an intermediate of that pathway.",
+      "D": "Fumarate-derived carbon can eventually support glucose synthesis, but fumarate itself is directly recognised as a TCA cycle intermediate."
+    }
+  },
+  "bio-073": {
+    "why": "Arginase hydrolyses arginine to urea and ornithine. Ornithine then re-enters mitochondria to take part in another turn of the urea cycle.",
+    "notes": {
+      "A": "Citrulline is an earlier intermediate that combines with aspartate to make argininosuccinate.",
+      "B": "Argininosuccinate is split into arginine and fumarate. The arginine produced is the immediate substrate for urea release.",
+      "D": "Ornithine is the other product of the arginase reaction and is recycled, rather than being hydrolysed to release urea."
+    }
+  },
+  "bio-074": {
+    "why": "Methionine is an essential amino acid because humans cannot synthesise enough to meet normal requirements. It must be obtained from the diet and can supply methyl groups through S-adenosylmethionine.",
+    "notes": {
+      "A": "Aspartate can be produced by transamination of oxaloacetate and therefore is not an essential dietary amino acid in ordinary conditions.",
+      "B": "Tyrosine can be made from the essential amino acid phenylalanine when phenylalanine hydroxylase functions normally.",
+      "D": "Serine can be synthesised from a glycolytic intermediate through a pathway beginning with 3-phosphoglycerate."
+    }
+  },
+  "bio-075": {
+    "why": "Arginine is conditionally essential. Endogenous synthesis can meet the needs of many healthy adults, but dietary supply can become important in growth or other circumstances when requirements exceed production.",
+    "notes": {
+      "A": "Valine is a branched-chain essential amino acid that normally has to be supplied in the diet.",
+      "C": "Lysine is an essential amino acid rather than one ordinarily synthesised in sufficient amounts by humans.",
+      "D": "Threonine is an essential amino acid and is normally obtained from dietary protein."
+    }
+  },
+  "bio-077": {
+    "why": "Valine has a branched hydrocarbon side chain, so it is hydrophobic and nonpolar. The other listed side chains contain hydroxyl or amide groups that can interact with water.",
+    "notes": {
+      "A": "Serine has a hydroxyl group in its side chain, making it polar and able to form hydrogen bonds.",
+      "C": "Asparagine has an uncharged amide side chain that can hydrogen-bond with water or neighbouring groups.",
+      "D": "Threonine contains a hydroxyl group. Despite its methyl group, it is usually classified as polar uncharged."
+    }
+  },
+  "bio-078": {
+    "why": "Isoleucine is both ketogenic and glucogenic. Its breakdown yields acetyl-CoA, which can contribute to ketone formation, and propionyl-CoA, which can contribute to glucose production through succinyl-CoA.",
+    "notes": {
+      "A": "Valine is glucogenic because its carbon is channelled toward succinyl-CoA, rather than yielding a ketogenic product.",
+      "B": "Cysteine can be degraded to pyruvate, so it is classified as glucogenic in the standard nutritional scheme.",
+      "D": "Glycine can contribute to gluconeogenesis, for example after conversion to serine. It is not the ketogenic amino acid in this list."
+    }
+  },
+  "bio-079": {
+    "why": "Threonine has an oxygen-containing hydroxyl group and no sulphur in its side chain. Cysteine and methionine contain sulphur. Cystine is an oxidised pair of cysteine residues joined by a disulphide bond.",
+    "notes": {
+      "A": "Cysteine contains a thiol group, which can form disulphide bonds with another cysteine residue.",
+      "B": "Cystine contains two sulphur atoms in its disulphide linkage and can occur within folded proteins.",
+      "C": "Methionine has a sulphur atom in its thioether side chain."
+    }
+  },
+  "bio-080": {
+    "why": "Tyrosine contains a phenolic aromatic ring. This places it with aromatic amino acids, while the hydroxyl group also confers polarity and can participate in hydrogen bonding.",
+    "notes": {
+      "A": "Lysine has an aliphatic chain ending in a basic amino group. It does not contain an aromatic ring.",
+      "C": "Taurine is an amino sulfonic acid without an aromatic ring and is not a standard residue in proteins.",
+      "D": "Arginine has a basic guanidinium side chain rather than an aromatic ring."
+    }
+  },
+  "bio-081": {
+    "why": "Most nitrogen released from amino acid breakdown is converted by the liver into urea. Urea is water soluble and is excreted by the kidneys, making it the main nitrogenous product of protein metabolism in urine.",
+    "notes": {
+      "B": "Glutamine transports nitrogen safely between tissues and can support renal ammonium production. It is not the major form excreted.",
+      "C": "Ammonium excretion is important in acid–base regulation. Urea normally accounts for a larger share of urinary nitrogen.",
+      "D": "Uric acid mainly comes from purine breakdown rather than being the major product of amino acid nitrogen disposal."
+    }
+  },
+  "bio-082": {
+    "why": "Glutamate decarboxylase removes carbon dioxide from glutamate to form gamma-aminobutyric acid, or GABA. The enzyme uses pyridoxal phosphate, and GABA is a major inhibitory neurotransmitter in the central nervous system.",
+    "notes": {
+      "B": "Glutathione is a tripeptide formed by joining glutamate, cysteine and glycine. It is not the decarboxylation product of glutamate.",
+      "C": "Histamine is made by decarboxylation of histidine rather than glutamate.",
+      "D": "Serotonin is synthesised from tryptophan through hydroxylation followed by decarboxylation."
+    }
+  },
+  "bio-083": {
+    "why": "Transdeamination couples transamination to oxidative deamination. Amino groups are first transferred to alpha-ketoglutarate to make glutamate, and glutamate dehydrogenase can then release the nitrogen as ammonia.",
+    "notes": {
+      "A": "The assertion is correct, but the reason names decarboxylation instead of the initial transamination step.",
+      "B": "The first step is amino-group transfer, not loss of carbon dioxide. The reason is therefore not a true description of the sequence.",
+      "D": "Transdeamination does generate ammonia, so the assertion is true even though the reason states the wrong first step.",
+      "E": "The reason is inaccurate, but the assertion correctly identifies a route for generating ammonia through more than one reaction."
+    }
+  },
+  "bio-085": {
+    "why": "The urea cycle consumes three ATP molecules per urea, equivalent to four high-energy phosphate bonds. Two ATP are used to make carbamoyl phosphate and another is converted to AMP during argininosuccinate synthesis.",
+    "notes": {
+      "A": "Ureogenesis is energy demanding, but the reason omits the ATP used during argininosuccinate synthesis.",
+      "B": "Both statements cannot be accepted because the whole cycle consumes more than the two ATP used at its entry step.",
+      "D": "The assertion is true. The stated cost is incomplete because a further ATP is cleaved to AMP.",
+      "E": "Three ATP molecules are consumed overall, so the reason is inaccurate but the assertion about energy cost is correct."
+    }
+  },
+  "bio-086": {
+    "why": "The urea cycle spans two compartments. Carbamoyl phosphate synthesis and formation of citrulline occur in mitochondria. The later three reactions that convert citrulline to urea and regenerate ornithine occur in the cytosol.",
+    "notes": {
+      "A": "Only two of the usual five reactions occur in mitochondria. They do not make up the majority of the steps.",
+      "B": "The mitochondrial count is two, not four, and the later reactions occur in the cytosol.",
+      "C": "The assertion about predominant mitochondrial location is incorrect because most of the standard reactions are cytosolic.",
+      "D": "The proposed count is incorrect. Carbamoyl phosphate synthesis and citrulline formation are the two mitochondrial reactions."
+    }
+  },
+  "bio-087": {
+    "why": "Oxaloacetate can condense with acetyl-CoA to form citrate, provide gluconeogenic carbon after conversion to phosphoenolpyruvate, or accept an amino group to form aspartate. Its fate depends on tissue and metabolic state.",
+    "notes": {
+      "A": "Citrate formation is one fate, but oxaloacetate can also support glucose synthesis or be transaminated to aspartate.",
+      "B": "Condensation and gluconeogenesis are valid. Aspartate aminotransferase also converts oxaloacetate to aspartate.",
+      "C": "Glucose synthesis and aspartate formation are possible, and citrate synthase also uses oxaloacetate as a substrate.",
+      "D": "Citrate and aspartate are valid products. Oxaloacetate can also supply carbon for gluconeogenesis."
+    }
+  },
+  "bio-088": {
+    "why": "Glutamate dehydrogenase can use NAD⁺ or NADP⁺ in oxidative deamination, releasing ammonia and forming alpha-ketoglutarate. The reaction is reversible. High energy signals such as GTP generally inhibit oxidative deamination, while ADP can activate the enzyme.",
+    "notes": {
+      "A": "A pyridine nucleotide is used for oxidation, and the enzyme can also catalyse the reverse reaction under suitable conditions.",
+      "C": "The reaction is reversible, but a high-energy state does not generally stimulate oxidative deamination. The nucleotide acceptor is also required.",
+      "D": "NAD⁺ or NADP⁺ can support oxidative deamination. High GTP inhibits the enzyme rather than providing the proposed stimulation.",
+      "E": "The first two statements describe cofactor use and reversibility. The claim about stimulation by a high ATP or GTP state is the error."
+    }
+  },
+  "bio-089": {
+    "why": "Excess ammonia can disrupt mitochondrial energy production and neurotransmission. In settings such as cirrhosis, hyperammonaemia can also impair skeletal muscle protein synthesis. The effects depend on the affected tissue and severity.",
+    "notes": {
+      "A": "Protein synthesis can be impaired, but energy metabolism and nervous system function can also be affected.",
+      "B": "Ammonia can alter protein synthesis and ATP metabolism, and disturbed neurotransmission is also an important feature of toxicity.",
+      "C": "Impaired energy production and neural signalling are recognised effects. Hyperammonaemia can also interfere with muscle protein synthesis.",
+      "D": "Ammonia can impair protein synthesis and neural function. It can additionally disrupt pathways that support ATP production."
+    }
+  },
+  "bio-090": {
+    "why": "Cysteine catabolism can yield pyruvate, and oxidative pathways through cysteinesulfinate can yield taurine. Glutathione also contains cysteine, but synthesis incorporates the intact amino acid rather than degrading its carbon skeleton.",
+    "notes": {
+      "A": "Pyruvate is one product of cysteine degradation. Cysteine can also provide the carbon backbone for taurine.",
+      "C": "Taurine can be made from cysteine. Glutathione synthesis uses intact cysteine, rather than catabolising the skeleton to glutathione.",
+      "D": "Pyruvate can result from cysteine catabolism, whereas glutathione is assembled from intact amino acid residues. Taurine is also a valid fate.",
+      "E": "This group mixes products of cysteine catabolism with a peptide formed by incorporation of intact cysteine."
+    }
+  },
+  "bio-091": {
+    "why": "Folic acid contains a substituted pteridine ring joined to para-aminobenzoic acid and a glutamate residue. The amino acid component is glutamic acid rather than glutamine.",
+    "notes": {
+      "A": "Para-aminobenzoic acid is a component, but folic acid also contains a substituted pteridine ring.",
+      "C": "The pteridine component is present. The attached amino acid is glutamate, not its amide glutamine.",
+      "D": "Para-aminobenzoic acid is present, but glutamine is not the amino acid component. This combination also omits the pteridine ring.",
+      "E": "The ring and para-aminobenzoic acid are correct components. Adding glutamine makes the combination inaccurate."
+    }
   }
 }
