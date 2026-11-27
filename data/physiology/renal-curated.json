@@ -30,7 +30,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The kidneys sit behind the peritoneum against the posterior abdominal wall on either side of the vertebral column.",
+      "why": "Retroperitoneal organs lie outside the peritoneal cavity, posterior to the parietal peritoneum. The kidneys lie against the posterior abdominal wall on either side of the vertebral column, surrounded by fat and renal fascia.",
+      "notes": {
+        "B": "Intraperitoneal organs such as the jejunum are largely covered by visceral peritoneum, unlike kidneys lying behind the parietal peritoneum.",
+        "C": "The bladder occupies the pelvis when empty, whereas the kidneys lie higher on the posterior abdominal wall.",
+        "D": "The thoracic cavity contains the lungs and mediastinal structures; the kidneys are abdominal organs below the diaphragm.",
+        "E": "The greater omentum hangs from the stomach and covers abdominal viscera; the kidneys are not suspended within it."
+      },
       "topicId": "ren-general",
       "subtopic": "Gross anatomy",
       "difficulty": "easy"
@@ -62,7 +68,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The bulk of the liver on the right displaces the right kidney a little caudally.",
+      "why": "The large right lobe of the liver occupies space superior to the right kidney, accounting for its slightly lower position. Both kidneys lie retroperitoneally, with their levels varying somewhat during respiration.",
+      "notes": {
+        "A": "The abdominal aorta lies anterior to the vertebral column and does not normally push the left kidney upwards.",
+        "C": "The spleen relates to the upper left kidney, but the usual asymmetry is explained by the larger right hepatic lobe.",
+        "D": "The right renal artery is longer because the aorta lies left of the midline, not because it determines kidney height.",
+        "E": "Kidney size varies among individuals; the normal difference in position is primarily related to neighbouring organs rather than weight."
+      },
       "topicId": "ren-general",
       "subtopic": "Gross anatomy",
       "difficulty": "easy"
@@ -94,7 +106,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "From a pyramid's apex, urine passes minor calyx to major calyx to renal pelvis, then into the ureter.",
+      "why": "Papillary ducts discharge urine at the renal papilla into a minor calyx. Minor calyces unite into major calyces, which drain into the renal pelvis and then the ureter for transport to the bladder.",
+      "notes": {
+        "A": "Collecting ducts precede the calyces and renal pelvis; the ureter receives urine only after it passes through the pelvis.",
+        "B": "The renal pelvis drains into the ureter, but major calyces are upstream of the pelvis, not between the ureter and bladder.",
+        "D": "Minor and major calyces collect urine before it reaches the renal pelvis, rather than receiving urine after pelvic drainage.",
+        "E": "Minor calyces receive urine directly from renal papillae and unite into major calyces, so their proposed order is reversed."
+      },
       "topicId": "ren-general",
       "subtopic": "Gross anatomy",
       "difficulty": "medium"
@@ -126,7 +144,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "There are roughly 1.25 million nephrons per kidney.",
+      "why": "Each human kidney contains roughly one million nephrons, with 1.25 million a conventional teaching estimate. Nephron number varies widely among individuals; each nephron includes a renal corpuscle and its associated tubule.",
+      "notes": {
+        "A": "A count of 125 million is approximately two orders of magnitude above the usual nephron number in one human kidney.",
+        "B": "Twelve thousand is far below the usual approximately million-nephron complement of an adult kidney.",
+        "C": "Two hundred and fifty nephrons would provide only a tiny fraction of the normal complement of functioning renal filtration units.",
+        "E": "Twenty-five thousand is substantially below the typical human nephron count, even allowing for considerable individual variation."
+      },
       "topicId": "ren-general",
       "subtopic": "Nephron",
       "difficulty": "medium"
@@ -158,7 +182,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Juxtamedullary nephrons have long loops extending into the pyramids, essential for concentrating urine; cortical nephrons (≈85%) have short loops.",
+      "why": "Juxtamedullary nephrons have renal corpuscles near the corticomedullary junction and long loops extending deep into the medulla. Their loops and associated vasa recta help establish and preserve the medullary osmotic gradient needed to concentrate urine.",
+      "notes": {
+        "A": "Short loops extending only into the outer medulla are typical of many cortical nephrons, rather than the long-looped juxtamedullary population.",
+        "B": "Juxtamedullary nephrons possess loops of Henle; their extensive medullary penetration is particularly important for urinary concentration.",
+        "C": "Glomeruli in the superficial cortex are characteristic of cortical nephrons, whereas juxtamedullary glomeruli lie close to the medulla.",
+        "D": "Both cortical and juxtamedullary nephrons possess juxtaglomerular apparatuses for regulation of renin secretion and glomerular filtration."
+      },
       "topicId": "ren-general",
       "subtopic": "Nephron",
       "difficulty": "hard"
@@ -190,7 +220,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Vasa recta come specifically from juxtamedullary efferent arterioles and serve the countercurrent exchanger.",
+      "why": "Efferent arterioles of juxtamedullary glomeruli give rise to descending vasa recta, which form medullary capillary networks and ascending return vessels. Their countercurrent arrangement supplies the medulla while limiting washout of its osmotic gradient.",
+      "notes": {
+        "B": "Cortical efferent arterioles predominantly form peritubular capillary networks around cortical tubules rather than the long medullary vasa recta.",
+        "C": "Afferent arterioles deliver blood into glomeruli; medullary vasa recta arise downstream of the glomerular capillary bed.",
+        "D": "Arcuate veins collect venous blood near the corticomedullary junction and are not the arterial source of descending vasa recta.",
+        "E": "Peritubular venules collect blood from capillary networks; vasa recta receive their arterial inflow from juxtamedullary efferent arterioles."
+      },
       "topicId": "ren-general",
       "subtopic": "Renal circulation",
       "difficulty": "hard"
@@ -222,7 +258,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Granular cells are modified smooth muscle in the afferent arteriole wall and secrete renin.",
+      "why": "Juxtaglomerular granular cells are modified vascular smooth-muscle cells located mainly in the afferent arteriolar wall near the glomerulus. They synthesise, store and release renin in response to signals such as reduced perfusion pressure.",
+      "notes": {
+        "A": "Collecting-duct principal cells regulate sodium, potassium and water transport under hormonal control rather than synthesising circulating renin.",
+        "C": "Macula densa cells detect tubular sodium chloride and signal nearby granular cells, but are not the principal renin-producing cells.",
+        "D": "Extraglomerular mesangial cells participate in signalling and structural organisation of the juxtaglomerular apparatus, rather than serving as its main renin source.",
+        "E": "Podocytes form the visceral epithelium of the renal corpuscle and contribute to filtration selectivity rather than producing renin."
+      },
       "topicId": "ren-general",
       "subtopic": "JGA",
       "difficulty": "hard"
@@ -254,7 +296,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Macula densa cells in the distal tubule wall monitor luminal NaCl and drive tubuloglomerular feedback.",
+      "why": "Macula densa cells at the end of the thick ascending limb detect luminal sodium chloride delivery through NKCC2. Their signals influence afferent arteriolar tone and granular-cell renin release, linking tubular delivery to glomerular filtration.",
+      "notes": {
+        "A": "Proximal tubular epithelial cells reabsorb filtered glucose using sodium–glucose cotransporters; macula densa cells instead monitor distal sodium chloride delivery.",
+        "B": "Renal erythropoietin is produced mainly by specialised interstitial fibroblast-like cells responding to hypoxia, rather than macula densa cells.",
+        "D": "Granular cells in the juxtaglomerular arteriolar wall secrete renin; the macula densa regulates them through local signals.",
+        "E": "The glomerular endothelial, basement membrane and podocyte barrier filters plasma; macula densa cells monitor tubular fluid after filtration."
+      },
       "topicId": "ren-general",
       "subtopic": "JGA",
       "difficulty": "hard"
@@ -286,7 +334,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The kidney performs the final hydroxylation that activates vitamin D (to calcitriol).",
+      "why": "Renal proximal tubular cells express 1-alpha-hydroxylase, which converts 25-hydroxyvitamin D into active 1,25-dihydroxyvitamin D (calcitriol). This hormone promotes intestinal calcium and phosphate absorption and contributes to regulation of mineral balance.",
+      "notes": {
+        "A": "Calcitonin is produced by thyroid parafollicular cells, rather than being the major renal hormone involved in calcium metabolism.",
+        "B": "Medullary calcium deposition is not a normal endocrine mechanism; the kidney regulates mineral balance through transport and calcitriol synthesis.",
+        "C": "Thyroid follicular cells synthesise thyroid hormones, which regulate metabolism, rather than the kidney producing them to control calcium.",
+        "E": "Parathyroid glands produce parathyroid hormone, which stimulates renal calcitriol synthesis; the kidney itself is not its principal source."
+      },
       "topicId": "ren-general",
       "subtopic": "Kidney functions",
       "difficulty": "medium"
@@ -318,7 +372,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Urochrome/urobilin, a product of haemoglobin destruction, gives urine its yellow colour.",
+      "why": "The characteristic yellow colour of normal urine is largely attributable to urochrome pigments, including urobilin derived from bilirubin metabolism. Urinary concentration influences the intensity of the colour, producing darker urine when water conservation increases.",
+      "notes": {
+        "A": "Conjugated bilirubin can darken urine in hepatobiliary disease, but it is not the principal pigment giving normal urine its yellow colour.",
+        "B": "Biliverdin is a green intermediate of haem degradation, rather than the usual yellow urinary pigment derived downstream of bilirubin metabolism.",
+        "C": "Melanin contributes to pigmentation of skin and other tissues, rather than producing the usual yellow colour of normal urine.",
+        "D": "Carotenoids contribute to yellow-orange pigmentation in certain tissues, but normal urinary yellow colour is principally attributed to urochrome pigments."
+      },
       "topicId": "ren-general",
       "subtopic": "Urine",
       "difficulty": "medium"
@@ -350,7 +410,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Bacterial metabolism of urea on standing releases ammonia.",
+      "why": "When urine stands, urease-producing microorganisms can hydrolyse urea into ammonia and carbon dioxide. Ammonia gives the specimen a pungent odour and can increase its pH, particularly when storage permits bacterial growth.",
+      "notes": {
+        "B": "Volatile ketones can contribute a fruity odour in ketosis, rather than producing the characteristic ammoniacal smell of aged urine.",
+        "C": "Oxidation of urinary pigments may change colour, but ammonia generation requires breakdown of nitrogen-containing compounds such as urea.",
+        "D": "Urea hydrolysis generates ammonia and tends to increase urine pH, rather than causing a rapid fall below pH 4.",
+        "E": "Carbon dioxide escape may influence acid–base balance of the sample, but does not itself produce the characteristic ammonia odour."
+      },
       "topicId": "ren-general",
       "subtopic": "Urine",
       "difficulty": "medium"
@@ -382,7 +448,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Ketone bodies in diabetic ketoacidosis give urine a sweet, fruity smell.",
+      "why": "Ketosis increases ketone-body production, and volatile acetone can contribute a sweet or fruity smell to urine. This may occur in uncontrolled diabetes or fasting, but odour alone cannot establish the cause or diagnose ketoacidosis.",
+      "notes": {
+        "A": "Urinary infections may produce unpleasant or ammoniacal odours, whereas a fruity smell is more suggestive of volatile ketone compounds.",
+        "C": "Increased urea excretion can contribute to ammonia formation after bacterial breakdown, rather than directly generating a characteristic fruity odour.",
+        "D": "Blood in urine may change its colour and indicate urinary tract pathology, but haematuria does not specifically cause a ketone-like fruity smell.",
+        "E": "Bile pigments may produce dark urine in conjugated hyperbilirubinaemia, rather than the characteristic sweet smell associated with ketone production."
+      },
       "topicId": "ren-general",
       "subtopic": "Urine",
       "difficulty": "medium"
@@ -414,7 +486,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Urea (~9.3 g/L) is the most concentrated normal urinary solute, ahead of chloride, sodium, potassium and creatinine.",
+      "why": "Urea is usually the most abundant individual nitrogenous urinary solute and is commonly the largest individual solute by mass in typical urine. Its concentration depends on dietary protein, renal handling and urine water content.",
+      "notes": {
+        "A": "Potassium excretion varies with intake and distal nephron regulation, but its typical mass concentration is below that of urea.",
+        "B": "Chloride is a major urinary electrolyte and contributes substantially to osmolality, but typical urinary urea concentration by mass is greater.",
+        "D": "Creatinine is excreted from muscle creatine metabolism and is useful for clearance estimates, but its urinary mass concentration is usually lower than urea.",
+        "E": "Sodium excretion varies substantially with dietary salt and hormonal regulation, whereas urea is generally the largest individual urinary solute by mass."
+      },
       "topicId": "ren-general",
       "subtopic": "Urine",
       "difficulty": "medium"
@@ -446,7 +524,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Normal urine specific gravity lies between about 1.001 and 1.035, reflecting its solute load.",
+      "why": "Urine specific gravity compares urine density with that of water and reflects the concentration and molecular mass of dissolved substances. A broad physiological range is approximately 1.001–1.035, depending on hydration and measurement conditions.",
+      "notes": {
+        "A": "A specific gravity of 1.100–1.200 is well above ordinary physiological urine concentration and suggests an unusual measurement or sample composition.",
+        "B": "Values of 0.800–0.950 indicate a density substantially below water, which is not expected for ordinary aqueous urine containing dissolved solutes.",
+        "C": "Values of 1.300–1.400 greatly exceed the usual concentrating capacity of the kidney and are not a normal urinary range.",
+        "E": "A value near 1.000 approaches water density, while values substantially below it do not represent the usual range of normal urine."
+      },
       "topicId": "ren-general",
       "subtopic": "Urine",
       "difficulty": "medium"
@@ -478,7 +562,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The detrusor is the smooth muscle of the bladder wall whose contraction empties the bladder.",
+      "why": "The detrusor is the smooth-muscle coat of the urinary bladder. Parasympathetic activation contracts this muscle during micturition, raising intravesical pressure while coordinated reduction of outlet resistance permits urine to flow through the urethra.",
+      "notes": {
+        "A": "The psoas is a posterior abdominal wall skeletal muscle involved in hip flexion, rather than generating bladder emptying pressure.",
+        "B": "The cremaster elevates the testis through skeletal-muscle contraction and is not a component of the urinary bladder wall.",
+        "C": "Levator ani supports the pelvic organs and contributes to continence, but does not constitute the bladder's main contractile wall.",
+        "D": "The trigone is a smooth region of bladder mucosa between ureteric and urethral openings, rather than the principal expelling muscle."
+      },
       "topicId": "ren-general",
       "subtopic": "Micturition",
       "difficulty": "easy"
@@ -510,7 +600,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The external sphincter is skeletal muscle controlled voluntarily through the pudendal nerve (motor neurons in Onuf's nucleus).",
+      "why": "The external urethral sphincter consists of striated skeletal muscle supplied by somatic motor pathways, predominantly through the pudendal nerve from sacral segments. Its voluntary activity supports continence and relaxes during coordinated voiding.",
+      "notes": {
+        "B": "Sympathetically regulated smooth muscle contributes to bladder-neck closure, whereas the external sphincter is a somatically controlled striated muscle.",
+        "C": "Pelvic parasympathetic nerves regulate detrusor activity and urethral relaxation, but the external sphincter is controlled principally through somatic motor pathways.",
+        "D": "Cardiac muscle is confined to the heart; the urethral sphincter is striated skeletal muscle, not vagally supplied cardiac tissue.",
+        "E": "The detrusor is bladder wall smooth muscle, anatomically and functionally distinct from the external striated urethral sphincter."
+      },
       "topicId": "ren-general",
       "subtopic": "Micturition",
       "difficulty": "hard"
@@ -542,7 +638,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Parasympathetic activity empties the bladder: detrusor contraction with sphincter relaxation.",
+      "why": "Sacral parasympathetic fibres promote voiding by releasing acetylcholine onto detrusor muscarinic receptors and facilitating smooth-muscle urethral relaxation through inhibitory pathways. Coordinated withdrawal of sympathetic and somatic outlet activity further reduces resistance to urine flow.",
+      "notes": {
+        "A": "External sphincter contraction is mediated primarily by somatic pudendal motor pathways and promotes continence rather than parasympathetic bladder emptying.",
+        "C": "Detrusor relaxation and bladder-neck contraction favour urine storage and are characteristic of sympathetic rather than parasympathetic voiding responses.",
+        "D": "Contraction of the bladder outlet would oppose urine expulsion; normal voiding coordinates detrusor contraction with reduced urethral resistance.",
+        "E": "Relaxation of the detrusor would fail to generate effective voiding pressure even if the bladder outlet were relaxed."
+      },
       "topicId": "ren-general",
       "subtopic": "Micturition",
       "difficulty": "hard"
@@ -574,7 +676,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Sympathetic outflow relaxes the detrusor (β) and contracts the internal sphincter (α), favouring filling and storage.",
+      "why": "During bladder filling, sympathetic hypogastric pathways promote detrusor relaxation largely through beta-3 adrenergic receptors and increase bladder-neck smooth-muscle tone through alpha-1 receptors. These responses allow urine storage at relatively low bladder pressure.",
+      "notes": {
+        "A": "The micturition reflex activates sacral parasympathetic pathways and coordinated outlet relaxation, rather than being the primary sympathetic storage response.",
+        "B": "Relaxing bladder-neck smooth muscle would reduce outlet resistance; sympathetic storage activity generally maintains or increases its closure tone.",
+        "D": "Detrusor contraction with outlet relaxation describes coordinated voiding, which is principally associated with parasympathetic activation and withdrawal of storage pathways.",
+        "E": "The external urethral sphincter is primarily controlled by somatic pudendal motor neurons rather than direct hypogastric sympathetic innervation."
+      },
       "topicId": "ren-general",
       "subtopic": "Micturition",
       "difficulty": "hard"
@@ -606,7 +714,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The pontine micturition centre (Barrington's centre) coordinates voiding via the sacral cord.",
+      "why": "The pontine micturition centre coordinates the transition from storage to voiding by organising sacral parasympathetic activation and inhibition of sympathetic and somatic outlet pathways. Higher brain regions influence when this coordinated reflex is permitted.",
+      "notes": {
+        "A": "The sacral cord contains the spinal reflex circuits for bladder activity, but coordinated supraspinal control depends particularly on pontine pathways.",
+        "B": "The hypothalamus influences autonomic homeostasis but is not the principal centre coordinating detrusor contraction with urethral sphincter relaxation.",
+        "C": "The cerebellum contributes to motor coordination but does not serve as the conventional central switch coordinating bladder emptying.",
+        "E": "Medullary autonomic networks regulate several visceral functions, whereas the classic supraspinal voiding centre is located within the pons."
+      },
       "topicId": "ren-general",
       "subtopic": "Micturition",
       "difficulty": "hard"
@@ -670,7 +784,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Filtrate crosses the fenestrated capillary endothelium, the glomerular basement membrane, and the filtration slits between podocyte pedicels.",
+      "why": "Glomerular filtrate crosses fenestrated capillary endothelium and its glycocalyx, the glomerular basement membrane, and slit diaphragms between podocyte foot processes. Together these layers permit high water and small-solute permeability while restricting blood cells and most plasma proteins.",
+      "notes": {
+        "B": "Transitional epithelium lines urinary passages and is adapted to distension, rather than forming the specialised glomerular capillary filtration barrier.",
+        "C": "Endothelium, smooth muscle and adventitia describe layers of larger blood vessels; glomerular capillaries lack a continuous muscular coat.",
+        "D": "Macula densa, mesangial and granular cells participate in juxtaglomerular regulation, but do not form the three serial filtration layers.",
+        "E": "Brush borders and basolateral transport membranes characterise tubular epithelial reabsorption, downstream of the glomerular filtration barrier."
+      },
       "topicId": "ren-gfr",
       "subtopic": "Filtration barrier",
       "difficulty": "hard"
@@ -734,7 +854,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "NFP = GBHP - (BCOP + CHP) = 55 - (30 + 15) = 10 mmHg.",
+      "why": "With negligible oncotic pressure in normal Bowman space, net filtration pressure equals glomerular capillary hydrostatic pressure minus capsular hydrostatic and glomerular plasma oncotic pressures. The stated example gives 55 minus 15 minus 30, or 10 mmHg.",
+      "notes": {
+        "A": "The assumed oncotic and capsular pressures of 10 mmHg each underestimate the conventional opposing forces used in this teaching example.",
+        "B": "Although the arithmetic gives 10 mmHg, the proposed values are not the stated conventional example and are not specifically restricted to standing.",
+        "D": "The opposing pressures of 15 and 30 mmHg total 45 mmHg, so subtracting them from 55 gives 10, not 20 mmHg.",
+        "E": "This calculation incorrectly uses a low value for glomerular driving pressure and produces negative filtration pressure rather than the conventional positive value."
+      },
       "topicId": "ren-gfr",
       "subtopic": "Net filtration pressure",
       "difficulty": "hard"
@@ -798,7 +924,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "About 125 ml/min comes to roughly 180 L/day, of which ~99% is reabsorbed.",
+      "why": "A filtration rate of 125 mL/min multiplied by 1,440 minutes per day yields 180,000 mL, or 180 litres daily. Extensive tubular reabsorption returns almost all of this filtrate to blood, leaving a much smaller urine volume.",
+      "notes": {
+        "A": "Eighteen litres would correspond to only one-tenth of the daily filtrate generated at the stated 125 mL/min rate.",
+        "B": "Approximately 1.8 litres is a plausible daily final urine volume after reabsorption, rather than the volume originally filtered by glomeruli.",
+        "C": "A daily filtrate of 1,800 litres is ten times the calculated volume and would require a filtration rate of 1,250 mL/min.",
+        "D": "Sixty litres per day corresponds to roughly 42 mL/min, substantially below the filtration rate specified in the question."
+      },
       "topicId": "ren-gfr",
       "subtopic": "GFR",
       "difficulty": "medium"
@@ -830,7 +962,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Autoregulation holds GFR steady between roughly 80 and 180 mmHg.",
+      "why": "Renal myogenic responses and tubuloglomerular feedback maintain relatively stable renal blood flow and filtration across a conventional mean arterial pressure range of roughly 80–180 mmHg. The exact autoregulatory limits vary with physiological and disease conditions.",
+      "notes": {
+        "B": "Pressures of 40–80 mmHg extend below the usual lower autoregulatory limit, where renal perfusion and GFR can fall markedly.",
+        "C": "The range extending to 300 mmHg exceeds the conventional upper autoregulatory limit and may expose glomeruli to excessive pressure.",
+        "D": "Mean arterial pressures of 20–60 mmHg are generally too low to sustain normal renal filtration through autoregulation alone.",
+        "E": "Pressures of 180–260 mmHg extend above the usual autoregulatory range and cannot generally be compensated for by normal renal vascular responses."
+      },
       "topicId": "ren-gfr",
       "subtopic": "Autoregulation",
       "difficulty": "hard"
@@ -862,7 +1000,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Stretch of the afferent arteriole triggers reflex smooth-muscle contraction, offsetting the pressure rise.",
+      "why": "Increased arterial pressure stretches afferent arteriolar smooth muscle, activating an intrinsic myogenic contraction through membrane depolarisation and calcium entry. The increased preglomerular resistance buffers transmission of elevated pressure to glomerular capillaries and stabilises filtration.",
+      "notes": {
+        "A": "Reduced rather than increased afferent arteriolar perfusion pressure generally stimulates renin release through the renal vascular pressure-sensing mechanism.",
+        "C": "Afferent dilatation would increase pressure transmission and blood flow, opposing the protective constriction elicited by increased vascular stretch.",
+        "D": "Efferent dilation can reduce glomerular pressure, but the primary renal myogenic response to increased pressure occurs in the afferent arteriole.",
+        "E": "Macula densa feedback is a separate tubular salt-sensing autoregulatory mechanism rather than the immediate intrinsic response of stretched smooth muscle."
+      },
       "topicId": "ren-gfr",
       "subtopic": "Autoregulation",
       "difficulty": "hard"
@@ -894,7 +1038,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "High luminal NaCl makes the macula densa release ATP/adenosine, constricting the afferent arteriole and returning GFR toward normal.",
+      "why": "Increased sodium chloride delivery activates macula densa NKCC2 transport and promotes local ATP and adenosine signalling. Afferent arteriolar constriction reduces glomerular capillary pressure and filtration, providing negative feedback when distal tubular salt delivery rises.",
+      "notes": {
+        "A": "High macula densa sodium chloride delivery generally suppresses renin release rather than stimulating a systemic renin-mediated rise in pressure.",
+        "B": "Aldosterone acts through slower hormonal regulation of distal sodium transport, rather than providing the immediate afferent arteriolar response to increased salt delivery.",
+        "D": "Afferent dilatation would increase glomerular perfusion and tend to aggravate the increased tubular delivery, rather than providing negative feedback.",
+        "E": "Efferent constriction can increase glomerular pressure under some conditions, but high macula densa sodium chloride generally suppresses renin and promotes afferent constriction."
+      },
       "topicId": "ren-gfr",
       "subtopic": "Autoregulation",
       "difficulty": "hard"
@@ -926,7 +1076,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Clearance (RC = UV/P) is the plasma volume cleared of a substance per minute.",
+      "why": "Renal clearance is the hypothetical volume of plasma completely cleared of a substance by the kidneys per unit time. It equals urinary concentration multiplied by urine flow rate and divided by the substance's plasma concentration.",
+      "notes": {
+        "A": "The reabsorbed fraction describes the proportion of filtered substance reclaimed by tubules, rather than the hypothetical plasma volume cleared per minute.",
+        "B": "Glomerular filtration rate describes the volume of filtrate formed per unit time; clearance is substance-specific and depends on its renal handling.",
+        "C": "Urinary concentration is one component of the clearance equation, but alone cannot determine the plasma volume cleared per unit time.",
+        "E": "Filtered mass per minute equals GFR multiplied by filterable plasma concentration, whereas clearance is expressed as a volume per unit time."
+      },
       "topicId": "ren-gfr",
       "subtopic": "Clearance",
       "difficulty": "medium"
@@ -958,7 +1114,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Inulin's clearance equals GFR because it is filtered and then neither reabsorbed nor secreted.",
+      "why": "Inulin is freely filtered through glomeruli and undergoes negligible tubular reabsorption, secretion or renal metabolism. Its urinary excretion therefore equals its filtered load, making its renal clearance a reference measure of glomerular filtration rate.",
+      "notes": {
+        "A": "A nearly completely reabsorbed marker has urinary excretion below its filtered load and would underestimate filtration rate rather than equal it.",
+        "B": "Extensive tubular secretion adds substance beyond its filtered load and would cause clearance to exceed GFR, rather than isolate glomerular filtration.",
+        "C": "Strong plasma protein binding prevents free glomerular filtration, so clearance of such a marker cannot directly represent the total filtered plasma volume.",
+        "D": "Endogenous production is a useful practical property of creatinine, whereas inulin is an administered marker whose accuracy depends on its renal handling."
+      },
       "topicId": "ren-gfr",
       "subtopic": "Clearance",
       "difficulty": "medium"
@@ -990,7 +1152,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "A clearance above inulin's means net tubular secretion adds the substance to the filtrate.",
+      "why": "For an ordinarily filterable substance under steady-state conditions, clearance greater than inulin clearance means urinary excretion exceeds the amount that filtration alone could provide. Net tubular secretion therefore contributes additional substance to the tubular fluid.",
+      "notes": {
+        "B": "Complete tubular reabsorption would leave negligible substance in final urine and produce a clearance near zero, not greater than GFR.",
+        "C": "A freely filtered substance with neither secretion nor reabsorption has clearance approximately equal to inulin, rather than exceeding it.",
+        "D": "Albumin binding restricts the freely filterable fraction of a substance and does not by itself explain urinary clearance exceeding glomerular filtration rate.",
+        "E": "Intracellular metabolism can alter the amount of substance available for excretion, but does not establish the net tubular addition required by the conventional clearance interpretation."
+      },
       "topicId": "ren-gfr",
       "subtopic": "Clearance",
       "difficulty": "hard"
@@ -1022,7 +1190,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "PAH is filtered (~20%) and secreted (~80%), so nearly all is removed in one pass, approximating renal plasma flow.",
+      "why": "At low plasma concentrations, para-aminohippurate is filtered and efficiently secreted by proximal tubules, removing most of the PAH delivered to functioning renal tissue in one pass. Its clearance therefore estimates effective renal plasma flow, rather than exact total flow.",
+      "notes": {
+        "A": "PAH clearance is calculated from its plasma concentration and urinary excretion; preferential red-cell binding is not the basis of its high extraction.",
+        "C": "Complete reabsorption would prevent urinary elimination and yield negligible clearance, rather than allowing estimation of renal plasma delivery.",
+        "D": "Filtration alone would make clearance approximate GFR, whereas substantial proximal tubular secretion allows PAH clearance to approach effective renal plasma flow.",
+        "E": "Creatinine arises endogenously from muscle creatine metabolism; PAH is an administered organic anion used for estimating renal plasma flow."
+      },
       "topicId": "ren-gfr",
       "subtopic": "Clearance",
       "difficulty": "hard"
@@ -1054,7 +1228,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Endogenous creatinine is freely filtered and only slightly secreted (~10% excess), giving a convenient GFR estimate.",
+      "why": "Creatinine is produced endogenously from creatine metabolism and is freely filtered, with a variable small additional contribution from tubular secretion. Creatinine clearance therefore provides a practical estimate of GFR, although it tends to overestimate true filtration.",
+      "notes": {
+        "A": "Creatinine enters tubular fluid substantially through glomerular filtration, with some secretion, rather than being entirely secreted by distal tubular cells.",
+        "B": "Creatinine is largely freely filterable and does not depend on strong plasma protein binding for its clinical use as a filtration marker.",
+        "D": "Creatinine is continuously generated in the body, which avoids the need for an infusion required by some exogenous filtration markers.",
+        "E": "Substantial proximal reabsorption would cause clearance to underestimate GFR, whereas creatinine usually undergoes modest net tubular secretion."
+      },
       "topicId": "ren-gfr",
       "subtopic": "Clearance",
       "difficulty": "medium"
@@ -1086,7 +1266,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Plasma is the fraction (1 - Hct) of blood, so RBF = RPF / (1 - Hct).",
+      "why": "Renal plasma flow represents the plasma fraction of total renal blood flow. Since the fractional haematocrit represents the cellular volume fraction, dividing renal plasma flow by one minus haematocrit converts plasma flow into total blood flow.",
+      "notes": {
+        "A": "Haematocrit represents the erythrocyte volume fraction, not the plasma fraction needed to convert renal plasma flow into whole-blood flow.",
+        "B": "Multiplying plasma flow by the red-cell fraction would produce a smaller quantity, rather than recovering total blood flow from its plasma component.",
+        "C": "Renal plasma flow has units of volume per time, whereas haematocrit is dimensionless; adding them does not yield a meaningful flow.",
+        "E": "Multiplying by the plasma fraction converts whole-blood flow to plasma flow, but the reverse calculation requires division by that fraction."
+      },
       "topicId": "ren-gfr",
       "subtopic": "Renal blood flow",
       "difficulty": "hard"
@@ -1118,7 +1304,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Around 99% of the ~180 L filtered daily is reabsorbed, leaving about 1-2 L of urine.",
+      "why": "Approximately 180 litres of filtrate are formed daily at a typical adult GFR, but only about one to two litres are excreted as urine. Thus roughly 99% of filtered water is reclaimed along the nephron.",
+      "notes": {
+        "A": "Reabsorbing only half of the filtrate would leave approximately 90 litres of urine per day, far above the normal daily output.",
+        "B": "Approximately 65% of filtered sodium and water is reabsorbed in the proximal tubule alone; subsequent nephron segments reclaim much more.",
+        "C": "Reabsorbing one-quarter of the filtrate would leave most filtered water in urine and is incompatible with normal renal water conservation.",
+        "D": "Ten per cent reabsorption would leave approximately 162 litres daily at a 180-litre filtration rate, rather than the normal small urine volume."
+      },
       "topicId": "ren-tubule",
       "subtopic": "Reabsorption overview",
       "difficulty": "medium"
