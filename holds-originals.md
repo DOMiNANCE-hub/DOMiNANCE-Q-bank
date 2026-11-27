@@ -797,3 +797,27 @@
 - Key: B — 5 months of fetal life.
 - Concern: The peak around midgestation refers to total fetal germ cell/oocyte numbers, not necessarily the maximum number of assembled primordial follicles. Follicle assembly begins during fetal development and the two populations should be distinguished. Original explanation and key untouched.
 - Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-genital-022 — Key or premise review
+- Stem: The external genitalia develop from primordia that are indifferent until about week
+- Key: B — 12.
+- Concern: External genital primordia are morphologically indifferent early, with differentiation beginning around week 7–9 and usually recognisable by week 12. The stem conflates onset of differentiation with reliable external distinction, making the keyed week 12 questionable. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-genital-028 — Key or premise review
+- Stem: The fibromuscular cord that guides descent of the gonad to the scrotum or labia is the
+- Key: C — gubernaculum.
+- Concern: The gubernaculum guides testicular descent towards the scrotum, but ovaries normally descend only into the pelvis. Its distal female derivative (round ligament) extends towards the labium majus; the gonad itself does not descend there. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-genital-029 — Key or premise review
+- Stem: Indirect inguinal hernias are commoner on the right side because
+- Key: D — the left testis descends first.
+- Concern: Later right testicular descent and later right processus vaginalis closure are related proposed explanations for right-sided predominance. Both the keyed option and another option describe plausible linked processes; exact causation needs source verification. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-cns-003 — Key or premise review
+- Stem: Formation of the neural plate is induced by signals from the notochord and
+- Key: C — paraxial mesoderm.
+- Concern: Classical neural induction is attributed to organiser-derived axial mesoderm, including notochord and prechordal mesoderm, with complex interactions involving nearby tissues. The keyed paraxial mesoderm is not the conventional paired inducer, and the expected option is absent. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
