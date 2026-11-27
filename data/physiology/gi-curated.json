@@ -1532,7 +1532,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The intestinal phase, driven by secretin and CCK, accounts for the bulk (50-80%) of pancreatic secretion.",
+      "why": "The intestinal phase accounts for most meal-stimulated pancreatic secretion because acid and nutrients entering the duodenum trigger secretin and cholecystokinin release. These hormones and enteropancreatic neural reflexes promote ductal bicarbonate and acinar enzyme secretion.",
+      "notes": {
+        "B": "The cephalic phase uses vagal pathways activated by anticipation, sight and taste of food, but contributes less than the intestinal phase.",
+        "C": "Gastric distension stimulates vagovagal reflexes and some pancreatic secretion, but the strongest sustained pancreatic response follows entry of chyme into the duodenum.",
+        "D": "Interdigestive pancreatic secretion occurs during fasting in association with cyclic motor activity, rather than accounting for most meal-stimulated secretion.",
+        "E": "Oral sensory stimulation contributes to the cephalic response through neural pathways, but does not constitute the dominant phase of pancreatic secretion."
+      },
       "topicId": "gi-pancreas",
       "subtopic": "Pancreatic control",
       "difficulty": "hard"
@@ -1564,7 +1570,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Kupffer cells in the hepatic sinusoids are macrophages that phagocytose aged red cells.",
+      "why": "Kupffer cells are resident macrophages associated with hepatic sinusoids, where they engulf microorganisms, cellular debris and damaged or aged erythrocytes. Their phagocytic activity contributes to iron recycling and clearance of material entering the liver from portal blood.",
+      "notes": {
+        "A": "Paneth cells reside at intestinal crypt bases and secrete antimicrobial substances, rather than acting as hepatic sinusoidal macrophages.",
+        "C": "Hepatocytes perform most hepatic metabolic, synthetic and secretory functions, while specialised macrophages provide much of the sinusoidal phagocytic activity.",
+        "D": "Hepatic stellate cells store vitamin A in the space of Disse and can produce fibrous matrix after injury, rather than serving as resident macrophages.",
+        "E": "Centroacinar cells form the initial portion of pancreatic intercalated ducts and contribute to ductal secretion, rather than performing hepatic erythrocyte clearance."
+      },
       "topicId": "gi-pancreas",
       "subtopic": "Liver",
       "difficulty": "medium"
@@ -1596,7 +1608,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Sinusoids mix oxygenated blood from the hepatic artery with nutrient-laden blood from the portal vein.",
+      "why": "Hepatic arterial branches supply relatively oxygen-rich blood, while portal venous branches deliver nutrient-rich blood draining the digestive tract. Both streams enter hepatic sinusoids, where their mixture provides hepatocytes with substrates and oxygen before draining towards central veins.",
+      "notes": {
+        "A": "Central veins collect sinusoidal blood at lobular centres, while the cystic duct conducts bile to and from the gallbladder rather than supplying hepatocytes.",
+        "B": "The splenic artery supplies the spleen and adjacent organs, while the superior mesenteric vein contributes indirectly to hepatic portal inflow through the portal vein.",
+        "D": "The portal vein is the principal nutrient-rich inflow and the hepatic artery provides relatively oxygen-rich blood, so the proposed order reverses the requested sources.",
+        "E": "Hepatic veins drain blood from the liver into the inferior vena cava, whereas bile ducts carry bile rather than delivering a blood supply."
+      },
       "topicId": "gi-pancreas",
       "subtopic": "Liver",
       "difficulty": "hard"
@@ -1628,7 +1646,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Cholic and chenodeoxycholic acids are the primary bile acids; conjugation with glycine or taurine forms bile salts.",
+      "why": "The human liver synthesises cholic acid and chenodeoxycholic acid from cholesterol. These are primary bile acids because they originate in hepatocytes, whereas intestinal bacterial metabolism produces secondary derivatives such as deoxycholic and lithocholic acids.",
+      "notes": {
+        "A": "Deoxycholic acid and lithocholic acid are secondary bile acids produced by bacterial modification of cholic and chenodeoxycholic acids, respectively.",
+        "B": "Palmitic and stearic acids are saturated long-chain fatty acids, not the steroid-derived primary bile acids synthesised from cholesterol.",
+        "C": "Cholesterol is the precursor of bile acids and lecithin is a biliary phospholipid, but neither is itself one of the primary bile acids.",
+        "E": "Glycocholic and taurocholic acids are conjugated derivatives of cholic acid, rather than the two distinct unconjugated primary bile acids."
+      },
       "topicId": "gi-pancreas",
       "subtopic": "Bile",
       "difficulty": "hard"
@@ -1660,7 +1684,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Conjugation with glycine and taurine yields bile salts, which act as detergents to emulsify lipids.",
+      "why": "Hepatocytes conjugate bile acids with glycine or taurine through amide bond formation, reducing their pKa and increasing ionisation at intestinal pH. The resulting bile salts facilitate lipid emulsification and mixed micelle formation.",
+      "notes": {
+        "A": "Glutamine and alanine participate in nitrogen and carbon metabolism, but are not the normal conjugating substrates used to form human bile salts.",
+        "B": "Glycine is a normal bile acid conjugating substrate, whereas lysine is not the other physiological conjugating partner used by hepatocytes.",
+        "C": "Taurine participates in bile acid conjugation, but arginine is chiefly associated with pathways including the urea cycle and nitric oxide synthesis.",
+        "D": "Serine and cysteine contribute to several metabolic pathways, including taurine synthesis from cysteine, but neither is a standard direct bile acid conjugating substrate."
+      },
       "topicId": "gi-pancreas",
       "subtopic": "Bile",
       "difficulty": "hard"
@@ -1692,7 +1722,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The gallbladder absorbs water and small ions, concentrating bile about five-fold while retaining organic molecules.",
+      "why": "During storage, gallbladder epithelium absorbs sodium chloride and other electrolytes, with water following osmotically. Most bile salts and other organic constituents remain in the lumen, allowing stored bile to become several times more concentrated, commonly around fivefold.",
+      "notes": {
+        "B": "Bile acids are secreted principally by hepatocytes, whereas gallbladder concentration results mainly from removal of water and electrolytes rather than additional bile acid secretion.",
+        "C": "Adding bicarbonate would not account for the usual concentration mechanism, which involves net absorption of electrolytes and water from stored bile.",
+        "D": "Active removal of bile salts from the gallbladder lumen would reduce the retained solute load rather than explaining concentration through water absorption.",
+        "E": "The gallbladder modifies stored bile substantially through epithelial fluid and electrolyte transport, so its role is not limited to passive storage."
+      },
       "topicId": "gi-pancreas",
       "subtopic": "Bile",
       "difficulty": "hard"
@@ -1724,7 +1760,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "CCK contracts gallbladder smooth muscle and relaxes the sphincter of Oddi, releasing bile.",
+      "why": "Cholecystokinin released after fat and protein enter the small intestine promotes contraction of gallbladder smooth muscle and coordinated relaxation of the sphincter of Oddi. This raises gallbladder pressure while reducing outlet resistance, facilitating bile delivery into the duodenum.",
+      "notes": {
+        "A": "Closing the common bile duct would obstruct bile transport and increase upstream pressure rather than promoting delivery of stored bile to the intestine.",
+        "C": "Gallbladder relaxation with sphincter contraction favours retention of bile, opposing the coordinated emptying response normally stimulated by cholecystokinin after a meal.",
+        "D": "Secretin chiefly stimulates bicarbonate-rich secretion from biliary duct epithelial cells, whereas cholecystokinin principally promotes the mechanical emptying of stored gallbladder bile.",
+        "E": "Hepatic bile acid synthesis is regulated strongly by enterohepatic feedback pathways; increasing synthesis is not the immediate mechanism of cholecystokinin-induced gallbladder emptying."
+      },
       "topicId": "gi-pancreas",
       "subtopic": "Bile",
       "difficulty": "hard"
@@ -1756,7 +1798,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Haemolysis overwhelms conjugation, raising unconjugated bilirubin; obstruction raises conjugated bilirubin.",
+      "why": "Excessive erythrocyte breakdown increases haem degradation and bilirubin production before hepatic processing. When bilirubin delivery exceeds hepatic clearance capacity, circulating unconjugated bilirubin rises, producing the characteristic predominantly indirect hyperbilirubinaemia of haemolytic jaundice.",
+      "notes": {
+        "A": "Urinary urobilinogen can increase during haemolysis because more bilirubin reaches the intestine, but established haemolytic jaundice also involves increased circulating bilirubin.",
+        "B": "Bile acid concentrations can change with hepatobiliary disease, but isolated bile acid elevation does not explain the pigment accumulation caused by excessive erythrocyte breakdown.",
+        "D": "Biliary obstruction impairs excretion of conjugated bilirubin and typically produces predominantly direct hyperbilirubinaemia, rather than the characteristic pre-hepatic bilirubin pattern.",
+        "E": "Hepatocellular injury can impair bilirubin handling and produce mixed hyperbilirubinaemia, whereas haemolysis initially increases the unconjugated bilirubin load delivered to the liver."
+      },
       "topicId": "gi-pancreas",
       "subtopic": "Jaundice",
       "difficulty": "hard"
@@ -1788,7 +1836,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Jaundice becomes apparent at a bilirubin of roughly 2.5-3 mg/dL.",
+      "why": "Jaundice becomes clinically apparent when bilirubin accumulates sufficiently in tissues, typically at serum concentrations around 2.5–3 mg/dL. Scleral icterus may be recognised first, although visibility depends on lighting, examination and individual factors.",
+      "notes": {
+        "A": "Bilirubin concentrations of 10–12 mg/dL generally produce readily visible jaundice and are substantially above the usual clinical detection threshold.",
+        "B": "A bilirubin concentration near 1 mg/dL falls within or near the normal adult reference range and ordinarily does not produce visible jaundice.",
+        "C": "A serum bilirubin of 20 mg/dL represents marked hyperbilirubinaemia, rather than the approximate concentration at which clinical jaundice first becomes apparent.",
+        "E": "A concentration of 0.5 mg/dL is ordinarily within the normal adult range and is insufficient to produce visible bilirubin deposition."
+      },
       "topicId": "gi-pancreas",
       "subtopic": "Jaundice",
       "difficulty": "medium"
@@ -1820,7 +1874,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Unabsorbed bilirubin concentrates up to 10-fold and precipitates with calcium as calcium bilirubinate — pigment stones.",
+      "why": "Pigment gallstones contain calcium bilirubinate, formed when poorly soluble unconjugated bilirubin combines with calcium in bile. Increased bilirubin load, deconjugation of bilirubin and biliary stasis can promote precipitation; gallbladder concentration alone does not explain every pigment stone.",
+      "notes": {
+        "A": "Cholesterol monohydrate crystallisation produces cholesterol-rich gallstones, whereas calcium bilirubinate precipitation characterises the pigment component of gallstones.",
+        "B": "Calcium oxalate is a common component of urinary calculi, rather than the principal bilirubin-derived material found in pigment gallstones.",
+        "C": "Uric acid crystals occur in conditions such as gout and certain urinary stones, but are not the precipitated bilirubin salt characteristic of pigment gallstones.",
+        "D": "Calcium phosphate can occur in mineral deposits and some stones, but the characteristic bilirubin-derived pigment is formed by calcium binding to bilirubinate."
+      },
       "topicId": "gi-pancreas",
       "subtopic": "Bile",
       "difficulty": "hard"
@@ -1852,7 +1912,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "SGLT1 drives Na+-coupled secondary active uptake of glucose and galactose; fructose uses GLUT5, and exit is via GLUT2.",
+      "why": "Apical sodium–glucose cotransporter 1 (SGLT1) uses the sodium electrochemical gradient to drive glucose and galactose uptake into enterocytes. Basolateral sodium–potassium ATPase maintains that gradient, while monosaccharides usually leave towards blood through GLUT2.",
+      "notes": {
+        "B": "GLUT5 primarily transports fructose by facilitated diffusion across the intestinal brush border rather than performing sodium-coupled glucose and galactose uptake.",
+        "C": "GLUT2 normally mediates facilitated monosaccharide exit at the basolateral membrane; the classical apical sodium-dependent glucose and galactose entry pathway uses SGLT1.",
+        "D": "Glucose and galactose are hydrophilic molecules that do not cross lipid membranes efficiently by simple diffusion and therefore require specific transport proteins.",
+        "E": "Receptor-mediated endocytosis internalises selected macromolecules or ligand complexes, whereas glucose and galactose enter through membrane transporters rather than vesicular uptake."
+      },
       "topicId": "gi-intestine",
       "subtopic": "Carbohydrate absorption",
       "difficulty": "hard"
@@ -1884,7 +1950,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Fructose uses the facilitated transporter GLUT5, independent of sodium.",
+      "why": "Apical GLUT5 mediates fructose uptake through facilitated diffusion down its concentration gradient, without directly coupling transport to sodium or ATP hydrolysis. Fructose subsequently leaves the enterocyte towards portal blood mainly through basolateral GLUT2.",
+      "notes": {
+        "A": "Fructose is a polar monosaccharide and crosses the brush-border membrane principally through a carrier, rather than through unrestricted simple lipid diffusion.",
+        "C": "SGLT1 couples sodium movement to glucose and galactose uptake, but it does not serve as the principal intestinal fructose transporter.",
+        "D": "GLUT2 mediates facilitated diffusion rather than active transport and is classically associated with basolateral monosaccharide exit from enterocytes.",
+        "E": "Proton-coupled carriers such as PEPT1 transport small peptides; dietary fructose instead uses a sodium-independent facilitative hexose transporter."
+      },
       "topicId": "gi-intestine",
       "subtopic": "Carbohydrate absorption",
       "difficulty": "hard"
@@ -1948,7 +2020,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Lactase, a brush-border oligosaccharidase, hydrolyses lactose to glucose and galactose.",
+      "why": "Lactase is an enzyme located at the small-intestinal brush border that hydrolyses the beta-1,4 glycosidic bond of lactose, releasing glucose and galactose. Reduced lactase activity leaves lactose available for osmotic water retention and bacterial fermentation.",
+      "notes": {
+        "A": "Maltase hydrolyses maltose and related alpha-linked glucose substrates, rather than cleaving the beta-linked glucose–galactose disaccharide lactose.",
+        "B": "Alpha-dextrinase, associated with isomaltase activity, hydrolyses alpha-1,6 branch linkages in starch digestion products rather than the linkage in lactose.",
+        "C": "Pancreatic amylase hydrolyses internal alpha-1,4 bonds in starch, but cannot cleave the beta-1,4 linkage connecting glucose and galactose in lactose.",
+        "E": "Sucrase hydrolyses sucrose into glucose and fructose, whereas lactose requires the distinct brush-border enzyme lactase to release galactose."
+      },
       "topicId": "gi-intestine",
       "subtopic": "Carbohydrate digestion",
       "difficulty": "medium"
@@ -1980,7 +2058,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Pepsin, formed from pepsinogen by acid, is most active at pH 1.5-2.5 and is inactivated by the alkaline duodenum.",
+      "why": "Pepsin is an acid-active gastric endopeptidase generated from pepsinogen in the acidic gastric lumen. Its activity is greatest at approximately pH 1.5–2.5, allowing initial protein digestion before pancreatic proteases take over in the small intestine.",
+      "notes": {
+        "A": "A pH of 6.5–7.0 is near neutral and better suits many intestinal enzymes; gastric pepsin has little activity under these conditions.",
+        "B": "A pH of 5.0–6.0 is less acidic than the optimum for pepsin, so its proteolytic activity is considerably reduced.",
+        "C": "A pH of 8.0–9.0 is alkaline and favours several pancreatic digestive enzymes rather than the acid-dependent gastric protease pepsin.",
+        "D": "A pH of 4.0–4.5 may permit some pepsin activity, but it lies above the usual optimal strongly acidic range."
+      },
       "topicId": "gi-intestine",
       "subtopic": "Protein digestion",
       "difficulty": "medium"
@@ -2012,7 +2096,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Small peptides are taken up by an H+-coupled secondary active transporter, then hydrolysed inside the cell.",
+      "why": "The brush-border transporter PEPT1 couples uptake of dipeptides and tripeptides to an inward hydrogen ion gradient. This gradient is supported indirectly by sodium–hydrogen exchange and basolateral sodium–potassium ATPase, while intracellular peptidases hydrolyse most absorbed peptides.",
+      "notes": {
+        "B": "Many free amino acid transporters use sodium gradients directly, but PEPT1 couples small peptide entry directly to hydrogen ions.",
+        "C": "The apical peptide transporter does not hydrolyse ATP itself; it uses a pre-existing proton electrochemical gradient as a secondary active transport mechanism.",
+        "D": "Chloride gradients support several epithelial electrolyte transport pathways but do not directly drive the principal brush-border uptake of dipeptides and tripeptides.",
+        "E": "Facilitated diffusion uses an existing substrate gradient without ion coupling, whereas PEPT1 uses proton cotransport to support peptide accumulation."
+      },
       "topicId": "gi-intestine",
       "subtopic": "Protein absorption",
       "difficulty": "hard"
@@ -2044,7 +2134,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Bile acids emulsify fat into tiny droplets, greatly increasing the surface area for lipase action.",
+      "why": "Amphipathic bile salts help stabilise small fat droplets formed during intestinal mixing, preventing their coalescence and increasing the lipid–water interface available to pancreatic lipase. They also form mixed micelles with products of lipid digestion.",
+      "notes": {
+        "A": "Intrinsic factor binds vitamin B12 for receptor-mediated ileal absorption and does not function as a detergent at the lipid–water interface.",
+        "C": "Dietary triglycerides are hydrolysed mainly to fatty acids and monoacylglycerols, rather than being converted into water-soluble sugars to permit digestion.",
+        "D": "Salivary amylase digests starch by cleaving alpha-linked glucose chains and does not emulsify triglycerides or perform their hydrolysis.",
+        "E": "Calcium soaps arise when fatty acids associate with calcium and may reduce absorption, rather than increasing lipid surface area for effective lipase action."
+      },
       "topicId": "gi-intestine",
       "subtopic": "Lipid digestion",
       "difficulty": "hard"
@@ -2076,7 +2172,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Colipase anchors pancreatic lipase to the oil-droplet surface so it can hydrolyse triglycerides.",
+      "why": "Colipase binds pancreatic lipase and the lipid–water interface, helping lipase remain attached to bile salt-coated droplets. It enables efficient triglyceride hydrolysis despite the tendency of bile salts to interfere with lipase binding to the interface.",
+      "notes": {
+        "A": "Calmodulin is an intracellular calcium-binding regulatory protein involved in signalling, rather than an extracellular cofactor anchoring pancreatic lipase to dietary fat.",
+        "B": "Transferrin transports ferric iron in plasma and does not participate in the interaction between pancreatic lipase and emulsified lipid droplets.",
+        "D": "Enteropeptidase activates trypsinogen at the intestinal brush border; trypsin can activate procolipase, but enteropeptidase itself is not the required lipase-binding cofactor.",
+        "E": "Intrinsic factor supports vitamin B12 absorption in the terminal ileum and has no principal role in anchoring pancreatic lipase to lipid droplets."
+      },
       "topicId": "gi-intestine",
       "subtopic": "Lipid digestion",
       "difficulty": "hard"
@@ -2108,7 +2210,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Chylomicrons are too large for the capillary basement membrane, so they enter the lacteals and travel in lymph.",
+      "why": "Enterocytes re-esterify absorbed long-chain fatty acids and monoacylglycerols into triglycerides and package them with apolipoprotein B-48 into chylomicrons. These large particles enter intestinal lacteals and reach systemic venous blood through the lymphatic ducts.",
+      "notes": {
+        "A": "Shorter-chain fatty acids can enter portal blood more directly, but newly assembled chylomicrons predominantly follow the intestinal lymphatic route.",
+        "B": "Bile canaliculi carry bile between adjacent hepatocytes and are not channels through which intestinal enterocytes export newly assembled chylomicrons.",
+        "C": "The intestinal lumen is the site of lipid digestion and micelle delivery, whereas chylomicrons are normally exported from the basolateral side of enterocytes.",
+        "E": "Most newly formed chylomicrons are too large to readily enter ordinary mucosal blood capillaries and therefore enter the more permissive initial lymphatics."
+      },
       "topicId": "gi-intestine",
       "subtopic": "Lipid absorption",
       "difficulty": "hard"
@@ -2140,7 +2248,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Mixed micelles of bile salts, fatty acids, monoglycerides, cholesterol and phospholipids shuttle lipids to the absorptive surface.",
+      "why": "Mixed micelles contain bile salts and poorly water-soluble digestion products, including long-chain fatty acids, monoacylglycerols and cholesterol. They carry these lipids across the unstirred aqueous layer to the brush border, where lipids leave the micelles for absorption.",
+      "notes": {
+        "A": "Chylomicrons are lipoprotein particles assembled inside enterocytes after lipid absorption, rather than luminal carriers delivering digestion products to the brush border.",
+        "B": "Very-low-density lipoproteins are secreted predominantly by the liver to transport endogenous triglyceride through blood, rather than serving as intestinal luminal lipid carriers.",
+        "C": "Casein is a milk protein that can form colloidal particles, but does not provide the normal bile-dependent delivery mechanism for intestinal lipid digestion products.",
+        "D": "Albumin transports non-esterified fatty acids in blood, whereas poorly soluble intestinal lipid digestion products are delivered to the absorptive surface in mixed micelles."
+      },
       "topicId": "gi-intestine",
       "subtopic": "Lipid absorption",
       "difficulty": "hard"
@@ -2172,7 +2286,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Water follows osmotically once Na+ and nutrients are actively absorbed; there is no active water pump.",
+      "why": "Intestinal water absorption is primarily passive and follows osmotic gradients generated by net electrolyte and nutrient absorption. Sodium transport, supported by basolateral sodium–potassium ATPase, is particularly important in promoting movement of water across epithelial and paracellular pathways.",
+      "notes": {
+        "B": "Aquaporins provide passive water channels and do not hydrolyse ATP to pump water independently against its osmotic gradient.",
+        "C": "Hydrostatic pressure can influence fluid movement, but net intestinal water absorption normally depends chiefly on osmotic gradients generated by solute transport.",
+        "D": "Bile delivers digestive substances and water to the intestinal lumen, rather than providing the main driving force for subsequent transepithelial water absorption.",
+        "E": "Apical CFTR-mediated chloride secretion generally draws sodium and water towards the intestinal lumen, rather than explaining most net water absorption."
+      },
       "topicId": "gi-intestine",
       "subtopic": "Water and electrolytes",
       "difficulty": "medium"
@@ -2204,7 +2324,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Na+-glucose cotransport (SGLT1) drives sodium and therefore water absorption, the basis of oral rehydration salts.",
+      "why": "Oral rehydration solution exploits preserved sodium–glucose cotransport through apical SGLT1, promoting sodium and glucose absorption even during many secretory diarrhoeal illnesses. Water follows net solute absorption osmotically, helping replace fluid and electrolyte losses.",
+      "notes": {
+        "A": "GLUT5 transports fructose without directly coupling its uptake to sodium, so fructose absorption does not provide the specific sodium–glucose cotransport mechanism exploited by rehydration solutions.",
+        "C": "Potassium and chloride replacement can be important during diarrhoea, but their uptake is not the principal glucose-dependent mechanism driving oral rehydration.",
+        "D": "Calcium and phosphate are absorbed through mineral-specific pathways, rather than the sodium–glucose cotransport mechanism that enhances water absorption during oral rehydration.",
+        "E": "Bicarbonate and hydrogen ions participate in epithelial acid–base transport, but oral rehydration depends primarily on maintained coupled sodium and glucose entry."
+      },
       "topicId": "gi-intestine",
       "subtopic": "Water and electrolytes",
       "difficulty": "hard"
@@ -2236,7 +2362,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The brush-border calcium channel (TRPV6/CaT1) and calbindin are vitamin D-dependent, so transcellular Ca2+ uptake needs active vitamin D.",
+      "why": "Calcitriol, the active form of vitamin D, increases expression of proteins supporting transcellular calcium absorption, including apical TRPV6 channels and intracellular calbindin. This pathway is particularly important in the duodenum when calcium intake is limited.",
+      "notes": {
+        "A": "Parathyroid hormone stimulates renal calcitriol production, thereby increasing intestinal calcium absorption indirectly rather than acting as the principal direct regulator of intestinal calbindin expression.",
+        "B": "Vitamin C promotes non-haem iron absorption through reducing and solubilising iron, but is not the principal hormonal regulator of intestinal calcium transport proteins.",
+        "D": "Vitamin K supports gamma-carboxylation of selected proteins, including clotting and bone-associated proteins, rather than directly inducing the major intestinal calcium absorption pathway.",
+        "E": "Intrinsic factor is a gastric glycoprotein needed for efficient terminal ileal vitamin B12 uptake, rather than regulating calcium transport across duodenal enterocytes."
+      },
       "topicId": "gi-intestine",
       "subtopic": "Mineral absorption",
       "difficulty": "hard"
@@ -2268,7 +2400,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "A brush-border ferrireductase reduces Fe3+ to Fe2+, which DMT-1 carries into the duodenal enterocyte.",
+      "why": "Most absorbable non-haem iron enters duodenal enterocytes as ferrous iron. Ferric iron can be reduced at the brush border by ferrireductases and dietary reducing agents, after which divalent metal transporter 1 (DMT1) mediates apical uptake.",
+      "notes": {
+        "A": "Transferrin binds ferric iron in plasma and delivers it to tissues through transferrin receptors, rather than mediating direct apical dietary iron uptake.",
+        "B": "Hephaestin is a ferroxidase associated with basolateral iron export, oxidising ferrous iron for transferrin binding rather than carrying it through the brush border.",
+        "C": "SGLT1 couples sodium entry to glucose and galactose uptake and does not transport ferrous iron into enterocytes.",
+        "E": "Ferroportin exports iron through the basolateral membrane towards the circulation, rather than transporting dietary ferrous iron across the apical brush border."
+      },
       "topicId": "gi-intestine",
       "subtopic": "Mineral absorption",
       "difficulty": "hard"
@@ -2300,7 +2438,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Ferroportin 1 exports ferrous iron, which hephaestin then oxidises for binding to plasma transferrin.",
+      "why": "Ferroportin is the principal cellular iron exporter and transfers ferrous iron across the basolateral membrane of enterocytes. Ferroxidases including hephaestin facilitate oxidation to ferric iron, enabling its binding to circulating transferrin for systemic transport.",
+      "notes": {
+        "A": "DMT1 mediates uptake of divalent iron at the intestinal brush border rather than its principal basolateral export into the circulation.",
+        "B": "Calbindin is an intracellular calcium-binding protein that supports vitamin D-dependent calcium transport, rather than mediating the export of absorbed iron.",
+        "C": "Intrinsic factor forms a complex with vitamin B12 for ileal uptake and does not transport iron across the enterocyte basolateral membrane.",
+        "D": "GLUT2 transports monosaccharides by facilitated diffusion and has no principal role in exporting ferrous iron from the intestinal epithelium."
+      },
       "topicId": "gi-intestine",
       "subtopic": "Mineral absorption",
       "difficulty": "hard"
@@ -2332,7 +2476,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Hepcidin lowers iron availability by inhibiting intestinal absorption and release from stores.",
+      "why": "Hepcidin is a peptide hormone produced predominantly by hepatocytes that binds the iron exporter ferroportin, promoting its internalisation and degradation. Increased hepcidin therefore reduces iron transfer from enterocytes and iron release from macrophages and other storage cells.",
+      "notes": {
+        "B": "Transferrin binds and transports ferric iron through plasma, rather than hormonally suppressing cellular iron export by regulating ferroportin.",
+        "C": "Ferritin stores iron in a relatively safe intracellular form and reflects iron reserves, but is not the principal circulating regulator of ferroportin degradation.",
+        "D": "Erythropoietin stimulates erythrocyte production and can indirectly suppress hepcidin through erythroid signalling, rather than directly blocking intestinal iron export.",
+        "E": "Hephaestin oxidises exported ferrous iron to facilitate transferrin loading and therefore supports iron transfer rather than functioning as the inhibitory liver-derived hormone."
+      },
       "topicId": "gi-intestine",
       "subtopic": "Mineral absorption",
       "difficulty": "hard"
@@ -2364,7 +2514,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "B12 binds intrinsic factor (from parietal cells) and is absorbed by receptor-mediated endocytosis in the lower ileum.",
+      "why": "Vitamin B12 binds intrinsic factor after pancreatic enzymes degrade its initial binding protein in the duodenum. The intrinsic factor–B12 complex binds specialised receptors on terminal ileal enterocytes, permitting efficient receptor-mediated uptake of the vitamin.",
+      "notes": {
+        "A": "Calbindin facilitates intracellular calcium handling during transcellular absorption and is unrelated to the receptor-mediated intestinal uptake pathway for vitamin B12.",
+        "C": "Transferrin transports ferric iron in blood, whereas vitamin B12 relies on gastric intrinsic factor for efficient receptor-mediated uptake in the terminal ileum.",
+        "D": "Bile salts facilitate absorption of dietary lipids and fat-soluble vitamins, but vitamin B12 is water-soluble and follows a distinct binding-protein pathway.",
+        "E": "R-protein, or haptocorrin, initially binds vitamin B12 in the upper gastrointestinal tract, but efficient terminal ileal uptake requires transfer to intrinsic factor."
+      },
       "topicId": "gi-intestine",
       "subtopic": "Vitamin absorption",
       "difficulty": "hard"
@@ -2396,7 +2552,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Fat-soluble vitamins follow the lipid-absorption route, carried in micelles.",
+      "why": "Vitamins A, D, E and K are lipid-soluble and depend substantially on normal fat digestion and bile salt micelle formation for efficient intestinal absorption. After uptake, they are commonly incorporated into chylomicrons for lymphatic transport.",
+      "notes": {
+        "A": "The stomach is not the principal site of absorption of fat-soluble vitamins; efficient uptake occurs mainly in the small intestine alongside lipid digestion.",
+        "B": "Transferrin carries iron in plasma and is not the luminal binding protein responsible for delivery of fat-soluble vitamins to intestinal absorptive cells.",
+        "D": "Sodium-coupled transport is important for several water-soluble nutrients, whereas fat-soluble vitamin absorption generally follows intestinal lipid-handling mechanisms.",
+        "E": "Intrinsic factor-dependent terminal ileal absorption is characteristic of vitamin B12, rather than the shared absorption pathway of vitamins A, D, E and K."
+      },
       "topicId": "gi-intestine",
       "subtopic": "Vitamin absorption",
       "difficulty": "medium"
@@ -2460,7 +2622,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Brunner's glands produce mucus that shields the duodenal mucosa from acidic chyme.",
+      "why": "Brunner's glands are submucosal glands concentrated in the proximal duodenum. Their alkaline mucous secretion helps lubricate the mucosa and protect it against acidic gastric chyme, complementing pancreatic and biliary bicarbonate secretion.",
+      "notes": {
+        "A": "Most major digestive enzymes entering the duodenal lumen originate from pancreatic acinar cells, while Brunner's glands chiefly provide protective mucus.",
+        "B": "Bile salts are produced by the liver and delivered through the biliary tract; Brunner's glands do not synthesise these lipid-emulsifying detergents.",
+        "C": "Intrinsic factor is produced by gastric parietal cells and supports vitamin B12 absorption rather than providing the principal protective secretion of duodenal submucosal glands.",
+        "D": "Hydrochloric acid is secreted by gastric parietal cells, whereas the alkaline secretion of Brunner's glands helps protect the duodenum from incoming gastric acid."
+      },
       "topicId": "gi-intestine",
       "subtopic": "Intestinal secretion",
       "difficulty": "medium"
@@ -2492,7 +2660,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The teniae coli are three longitudinal muscle bands; their shortening sacculates the colon into haustra.",
+      "why": "The taeniae coli are three longitudinal bands of smooth muscle representing concentrated portions of the outer longitudinal muscular layer of the colon. Their arrangement contributes to the characteristic sacculation of the colonic wall into haustra.",
+      "notes": {
+        "B": "Haustra are sacculations or pouches of the colonic wall, not the three longitudinal smooth-muscle bands contributing to their formation.",
+        "C": "Epiploic appendages are fat-filled peritoneal projections attached to the colon and are anatomically distinct from its longitudinal muscular bands.",
+        "D": "Plicae circulares are mucosal and submucosal folds characteristic of the small intestine that increase absorptive surface area, rather than bands of colonic muscle.",
+        "E": "Rugae are folds of the gastric mucosa and submucosa that flatten with distension, rather than the longitudinal smooth-muscle arrangement of the colon."
+      },
       "topicId": "gi-intestine",
       "subtopic": "Large intestine",
       "difficulty": "medium"
@@ -2524,7 +2698,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Mass movements, unique to the colon, occur three or four times daily, often after meals.",
+      "why": "Colonic mass movements are strong, long-distance propulsive contractions that move substantial amounts of colonic contents towards the rectum. They occur intermittently, often after meals through gastrocolic responses, rather than continuously mixing contents within individual haustra.",
+      "notes": {
+        "A": "Receptive relaxation allows the proximal stomach to accommodate ingested food and does not describe strong distal propulsion of colonic contents.",
+        "C": "Haustral contractions principally mix colonic contents and expose them to the absorptive mucosa, rather than producing the characteristic long-distance mass propulsion.",
+        "D": "Segmentation redistributes luminal contents through local mixing contractions, whereas colonic mass movements produce substantial net movement towards the rectum.",
+        "E": "The migrating motor complex is a cyclic fasting motor pattern mainly associated with the stomach and small intestine, rather than postprandial colonic mass propulsion."
+      },
       "topicId": "gi-intestine",
       "subtopic": "Large intestine",
       "difficulty": "medium"
@@ -2556,7 +2736,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The gastrocolic reflex links gastric filling to increased colonic activity (duodenal distension drives the duodenocolic reflex).",
+      "why": "Gastric distension and meal-related neural and hormonal signalling increase colonic motor activity through the gastrocolic response. This may stimulate powerful propagating contractions towards the rectum, helping explain an urge to defaecate after eating.",
+      "notes": {
+        "A": "The cough reflex is a protective respiratory response involving coordinated airway and respiratory muscle activity, rather than a meal-related increase in colonic propulsion.",
+        "B": "Myenteric circuits coordinate local gastrointestinal motor activity, but the stomach-to-colon response is specifically the gastrocolic reflex and involves broader regulatory signalling.",
+        "D": "The enterogastric reflex provides inhibitory feedback from the small intestine to the stomach, whereas the gastrocolic reflex increases colonic activity following gastric filling.",
+        "E": "The Hering–Breuer inflation reflex involves pulmonary stretch receptor feedback regulating inspiration, rather than communication between gastric filling and colonic motility."
+      },
       "topicId": "gi-intestine",
       "subtopic": "Large intestine",
       "difficulty": "medium"
@@ -2588,7 +2774,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The internal sphincter is smooth muscle (myenteric control); the external sphincter is skeletal muscle under voluntary pudendal control.",
+      "why": "The internal anal sphincter is a thickening of involuntary circular smooth muscle and is regulated by intrinsic myogenic, enteric and autonomic mechanisms. Rectal distension triggers its relaxation through the rectoanal inhibitory reflex, while the external sphincter provides voluntary skeletal-muscle control.",
+      "notes": {
+        "A": "Skeletal muscle supplied by the pudendal nerve characterises the external anal sphincter, rather than the involuntary internal smooth-muscle sphincter.",
+        "B": "Cardiac muscle is specialised striated muscle of the heart; the internal anal sphincter is formed by gastrointestinal circular smooth muscle.",
+        "C": "Sympathetic input can support internal sphincter tone, but intrinsic myogenic activity and enteric inhibitory pathways also regulate it, so control is not exclusively sympathetic.",
+        "E": "Voluntary skeletal-muscle control belongs principally to the external anal sphincter and pelvic floor, rather than the involuntary internal anal sphincter."
+      },
       "topicId": "gi-intestine",
       "subtopic": "Defecation",
       "difficulty": "hard"
@@ -2620,7 +2812,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Rectal distension triggers a sacral spinal reflex carried by pelvic parasympathetic nerves, reinforced by voluntary control of the external sphincter.",
+      "why": "Rectal distension activates an intrinsic enteric defaecation reflex and a stronger parasympathetic spinal reflex integrated at sacral segments S2–S4. Pelvic splanchnic pathways reinforce rectal contraction and coordinate evacuation, while supraspinal control helps regulate voluntary continence.",
+      "notes": {
+        "A": "Medullary emetic circuits coordinate vomiting and upper gastrointestinal expulsion, rather than the sacral parasympathetic component of rectal evacuation.",
+        "B": "Thoracolumbar sympathetic pathways influence pelvic organ tone and continence, but the major parasympathetic defaecation reflex is integrated in the sacral spinal cord.",
+        "C": "The pontine micturition centre coordinates urinary bladder emptying and urethral sphincter activity, rather than the principal spinal defaecation reflex.",
+        "D": "Cortical control enables voluntary postponement or facilitation of defaecation, but reflex rectal motor responses also involve enteric and sacral spinal circuits."
+      },
       "topicId": "gi-intestine",
       "subtopic": "Defecation",
       "difficulty": "hard"
@@ -2652,7 +2850,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The CTZ sits in the area postrema at the floor of the fourth ventricle and signals the medullary vomiting centre.",
+      "why": "The chemoreceptor trigger zone is associated with the area postrema on the dorsal medulla near the floor of the fourth ventricle. Its relatively permeable blood–brain barrier allows detection of circulating emetic substances that activate brainstem vomiting networks.",
+      "notes": {
+        "B": "Pontine reticular circuits participate in several motor and autonomic functions, but the classic blood-borne emetic chemosensory region is the medullary area postrema.",
+        "C": "The nucleus tractus solitarius integrates visceral afferent and emetic signals, but the classical chemoreceptor trigger zone is located in the adjacent area postrema.",
+        "D": "Hypothalamic satiety circuits regulate feeding and energy homeostasis, rather than forming the specialised circumventricular chemosensory site associated with vomiting.",
+        "E": "The dorsal motor nucleus of the vagus supplies parasympathetic output to visceral organs, rather than being the principal blood-borne emetic chemoreceptor trigger zone."
+      },
       "topicId": "gi-intestine",
       "subtopic": "Vomiting",
       "difficulty": "hard"
@@ -2684,7 +2888,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The liver converts ammonium to urea through the urea cycle; the kidney then excretes it.",
+      "why": "Hepatocytes convert potentially toxic ammonia into urea through the urea cycle, whose reactions occur in both mitochondria and cytosol. Urea enters blood and is eliminated principally by the kidneys, providing a major pathway for nitrogen disposal.",
+      "notes": {
+        "A": "The spleen filters blood and participates in erythrocyte clearance and immunity, rather than performing the principal complete urea cycle for nitrogen disposal.",
+        "C": "The kidneys filter and excrete urea and produce ammonium for acid–base regulation, but most circulating urea is synthesised in the liver.",
+        "D": "Intestinal mucosal cells participate in amino acid metabolism and supply nitrogen-containing metabolites, but do not account for the principal whole-body urea synthesis pathway.",
+        "E": "Pancreatic acinar cells synthesise and secrete digestive enzymes, rather than serving as the main site of ammonia detoxification through the urea cycle."
+      },
       "topicId": "gi-metab",
       "subtopic": "Liver metabolism",
       "difficulty": "medium"
@@ -2716,7 +2926,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The liver synthesises and secretes albumin and the clotting proteins prothrombin and fibrinogen.",
+      "why": "Hepatocytes synthesise albumin and many plasma coagulation proteins, including fibrinogen and prothrombin. Albumin contributes to plasma oncotic pressure and solute transport, while fibrinogen and prothrombin participate in haemostasis; hepatic dysfunction can therefore impair these functions.",
+      "notes": {
+        "A": "The spleen contributes to immune surveillance and clearance of blood cells, rather than synthesising most circulating albumin and hepatic coagulation proteins.",
+        "B": "The pancreas produces digestive enzymes and endocrine hormones, rather than supplying the principal circulating albumin, prothrombin and fibrinogen pool.",
+        "D": "The kidneys produce regulatory substances such as renin and erythropoietin, but most of the specified plasma proteins are synthesised by hepatocytes.",
+        "E": "Bone marrow produces blood cells and contains antibody-producing plasma cells, but the listed albumin and coagulation proteins are predominantly hepatic products."
+      },
       "topicId": "gi-metab",
       "subtopic": "Liver metabolism",
       "difficulty": "medium"
@@ -2748,7 +2964,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Bile salts reabsorbed in the terminal ileum return to the liver via the portal vein — the enterohepatic circulation — and are re-secreted.",
+      "why": "Enterohepatic circulation recycles bile salts secreted by the liver into the intestine, most of which are reabsorbed in the terminal ileum. Portal venous blood returns them to hepatocytes for uptake and resecretion, conserving the bile acid pool.",
+      "notes": {
+        "A": "Splanchnic circulation encompasses blood flow through abdominal digestive organs, but does not specifically name the repeated intestinal absorption and hepatic resecretion of bile salts.",
+        "B": "Lymphatic circulation transports lymph and absorbed chylomicrons towards systemic veins, whereas most reabsorbed bile salts return to the liver through portal blood.",
+        "C": "Countercurrent exchange describes transfer between closely associated flows moving in opposite directions, rather than the recycling loop linking intestinal absorption and biliary secretion.",
+        "E": "Portal circulation provides the venous return pathway for absorbed bile salts, but enterohepatic circulation specifically includes both that return and subsequent biliary resecretion."
+      },
       "topicId": "gi-metab",
       "subtopic": "Liver metabolism",
       "difficulty": "hard"
