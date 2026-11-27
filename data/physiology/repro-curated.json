@@ -1626,7 +1626,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The LH surge promotes ovulation and oocyte maturation.",
+      "why": "The preovulatory LH surge triggers proteolytic and inflammatory-like changes in the mature follicle wall, alongside oocyte maturation and luteinisation. These coordinated events promote follicular rupture and release of the secondary oocyte.",
+      "notes": {
+        "A": "Prolactin primarily supports lactation and can suppress reproductive gonadotropin signalling when elevated, rather than triggering ovulation.",
+        "B": "ACTH stimulates adrenal cortical steroid synthesis and does not provide the principal pituitary trigger for follicular rupture.",
+        "D": "TSH stimulates thyroid follicular function, rather than initiating the ovarian events responsible for release of a mature oocyte.",
+        "E": "Growth hormone supports growth and metabolism and may modulate ovarian function, but is not the immediate ovulatory pituitary signal."
+      },
       "topicId": "repro-female",
       "subtopic": "Ovarian cycle",
       "difficulty": "easy"
@@ -1658,7 +1664,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Trophoblastic hCG rescues the corpus luteum from regression.",
+      "why": "Syncytiotrophoblast-derived human chorionic gonadotropin activates LH receptors on luteal cells, preventing early corpus luteum regression. Continued progesterone secretion maintains the receptive endometrium until placental steroid production becomes sufficient to support pregnancy.",
+      "notes": {
+        "A": "Prolactin contributes to reproductive and mammary physiology, but is not the principal luteotrophic signal rescuing the human corpus luteum.",
+        "B": "FSH supports follicular development, whereas early pregnancy maintenance of luteal steroidogenesis depends primarily on hCG activation of LH receptors.",
+        "C": "Oxytocin affects uterine and mammary smooth-muscle-related responses, rather than providing the trophoblastic signal that maintains the corpus luteum.",
+        "E": "Growth hormone affects maternal metabolism but does not replace the early pregnancy luteotrophic action of human chorionic gonadotropin."
+      },
       "topicId": "repro-female",
       "subtopic": "Ovarian cycle",
       "difficulty": "hard"
@@ -1690,7 +1702,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Loss of luteal hormones precipitates endometrial breakdown and menstruation.",
+      "why": "Without implantation and trophoblastic hCG signalling, the corpus luteum undergoes regression near the end of the luteal phase. Progesterone and estradiol fall, initiating endometrial inflammatory and vascular changes that culminate in menstruation.",
+      "notes": {
+        "A": "Sustained progesterone secretion requires continued luteal function, whereas regression decreases the steroid output needed to maintain secretory endometrium.",
+        "B": "The LH surge occurs before ovulation; corpus luteum regression does not normally produce a prolonged repeat of that midcycle surge.",
+        "C": "Placental hCG requires developing trophoblastic tissue, which is absent in a non-conception cycle undergoing ordinary luteal regression.",
+        "D": "Luteal regression removes steroid negative feedback and permits renewed follicular recruitment, rather than causing permanent inhibition of ovarian activity."
+      },
       "topicId": "repro-female",
       "subtopic": "Ovarian cycle",
       "difficulty": "medium"
@@ -1722,7 +1740,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Most of the functional endometrial layer is shed; the basal layer remains.",
+      "why": "Menstruation predominantly removes the superficial functional layer of the endometrium following withdrawal of luteal steroids. The deeper stratum basalis remains and provides glands and stromal cells that regenerate the lining during the next proliferative phase.",
+      "notes": {
+        "B": "The stratum basalis normally remains attached and provides the cellular source for regeneration of the superficial functional layer.",
+        "C": "The myometrium is the thick uterine smooth-muscle wall and is not normally shed during cyclical endometrial menstruation.",
+        "D": "The perimetrium forms the outer uterine covering, anatomically distant from the superficial endometrium undergoing cyclical breakdown and shedding.",
+        "E": "Cervical stroma supports the uterine cervix and does not constitute the endometrial layer normally shed during menstruation."
+      },
       "topicId": "repro-female",
       "subtopic": "Uterine cycle",
       "difficulty": "easy"
@@ -1754,7 +1778,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Constriction of spiral arteries supplying the functionalis contributes to menstruation.",
+      "why": "Spiral arteries supply the functional endometrial layer and respond to progesterone withdrawal with changes in vascular tone and local inflammatory signalling. Transient hypoxia and tissue-remodelling pathways contribute to breakdown and shedding of the functionalis.",
+      "notes": {
+        "A": "Basilar or straight endometrial arteries supply the retained basal layer, rather than the spiral vessels predominantly associated with functional-layer shedding.",
+        "C": "Uterine veins drain uterine blood but are not the characteristic endometrial arteries undergoing cyclical changes during menstrual breakdown.",
+        "D": "Ovarian venules drain the ovary rather than directly supplying the superficial endometrium with its characteristic spiral arterial circulation.",
+        "E": "Internal iliac veins drain pelvic regions and are not the local endometrial resistance vessels implicated in cyclical menstrual ischaemia."
+      },
       "topicId": "repro-female",
       "subtopic": "Uterine cycle",
       "difficulty": "hard"
@@ -1786,7 +1816,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Estradiol promotes endometrial repair and proliferation in the follicular phase.",
+      "why": "Estradiol produced by growing ovarian follicles activates endometrial oestrogen receptors, stimulating proliferation of glandular epithelium and stroma after menstruation. This rebuilds the functional layer before postovulatory progesterone induces secretory differentiation.",
+      "notes": {
+        "A": "Progesterone predominates after ovulation and promotes differentiation of an oestrogen-primed endometrium, rather than driving its principal preovulatory proliferation.",
+        "B": "Relaxin contributes to reproductive tissue remodelling, especially during pregnancy, rather than being the principal hormone driving follicular-phase endometrial growth.",
+        "D": "Inhibin primarily regulates pituitary FSH secretion and does not provide the major steroid signal stimulating endometrial proliferation.",
+        "E": "Oxytocin promotes uterine contractile responses and milk ejection, rather than being the principal driver of preovulatory endometrial epithelial growth."
+      },
       "topicId": "repro-female",
       "subtopic": "Uterine cycle",
       "difficulty": "easy"
@@ -1818,7 +1854,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Luteal progesterone converts proliferative endometrium into a secretory lining.",
+      "why": "After ovulation, the corpus luteum secretes progesterone, which acts on the previously oestrogen-primed endometrium. Glands become tortuous and secretory, and stromal changes establish conditions supporting potential implantation and early embryonic development.",
+      "notes": {
+        "A": "Estradiol remains present during the luteal phase; secretory gland differentiation principally requires increased progesterone rather than complete disappearance of oestrogen.",
+        "B": "FSH supports follicular development, but the characteristic postovulatory endometrial secretory transformation depends primarily on ovarian progesterone.",
+        "C": "A fall in prolactin does not directly produce the secretory endometrial pattern, which follows corpus luteum steroid secretion.",
+        "E": "Oxytocin stimulates contractile responses in reproductive tissues, rather than being the main hormone inducing endometrial gland secretory differentiation."
+      },
       "topicId": "repro-female",
       "subtopic": "Uterine cycle",
       "difficulty": "medium"
@@ -1850,7 +1892,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Endometrial fibrinolytic activity breaks down fibrin in menstrual discharge.",
+      "why": "Menstrual endometrium and discharge contain fibrinolytic activity, including plasmin generated from plasminogen. Local fibrin breakdown often prevents persistent clot formation, although clots can occur when menstrual bleeding is heavy or exceeds local fibrinolytic capacity.",
+      "notes": {
+        "A": "Platelets remain present in menstrual blood and contribute to haemostasis; local fibrinolysis explains why much discharge remains relatively unclotted.",
+        "B": "Coagulation factors are not entirely absent from menstrual blood, but fibrin formed locally may be broken down by fibrinolytic enzymes.",
+        "C": "Systemic heparin secretion is not a normal requirement of menstruation; local endometrial fibrinolytic activity accounts for the characteristic finding.",
+        "D": "Vitamin K deficiency would impair coagulation systemically and is not the normal physiological explanation for relatively unclotted menstrual discharge."
+      },
       "topicId": "repro-female",
       "subtopic": "Uterine cycle",
       "difficulty": "medium"
@@ -1882,7 +1930,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Oestrogen produces abundant thin elastic cervical mucus around ovulation.",
+      "why": "High preovulatory estradiol increases cervical mucus hydration and changes its glycoprotein organisation, producing clear, elastic mucus with increased penetrability. This facilitates sperm passage through the cervix during the fertile portion of the menstrual cycle.",
+      "notes": {
+        "B": "Thick pasty mucus is characteristic of progesterone-dominant conditions and generally provides a less favourable pathway for sperm penetration.",
+        "C": "Cervical glands continue secreting around ovulation; hydrated mucus rather than complete absence of secretion supports sperm transport.",
+        "D": "Increased cervical leukocytes may accompany local inflammation and do not explain the characteristic oestrogen-mediated fertile mucus pattern.",
+        "E": "Reduced mucus water content increases viscosity, whereas the preovulatory oestrogen response produces relatively hydrated and penetrable cervical secretions."
+      },
       "topicId": "repro-female",
       "subtopic": "Cervical mucus",
       "difficulty": "easy"
@@ -1914,7 +1968,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Progesterone makes cervical mucus thick and less favorable to sperm transport.",
+      "why": "Postovulatory progesterone changes cervical mucus composition, increasing viscosity and reducing its penetrability to sperm. This contrasts with the hydrated, stretchable mucus produced under predominant estradiol stimulation before ovulation.",
+      "notes": {
+        "A": "Watery mucus with characteristic ferning is associated mainly with preovulatory oestrogen dominance rather than postovulatory progesterone action.",
+        "C": "Increased elasticity and hydration characterise fertile cervical mucus, whereas progesterone generally produces a more viscous, less penetrable barrier.",
+        "D": "Abundant thin fluid is typical of the oestrogen-dominant fertile interval and is not the characteristic luteal progesterone response.",
+        "E": "Cervical glands remain present and functional; progesterone modifies their secretion rather than eliminating the glandular structures."
+      },
       "topicId": "repro-female",
       "subtopic": "Cervical mucus",
       "difficulty": "hard"
@@ -1946,7 +2006,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Progesterone exerts a thermogenic effect in the luteal phase.",
+      "why": "Progesterone released by the corpus luteum has a thermogenic effect through central thermoregulatory mechanisms. Basal body temperature typically rises modestly after ovulation and remains elevated during the luteal phase until progesterone falls.",
+      "notes": {
+        "A": "Estradiol rises before ovulation, but the sustained postovulatory basal temperature increase is associated principally with the luteal progesterone rise.",
+        "B": "Inhibin regulates FSH secretion and is not the main ovarian hormone responsible for the postovulatory thermogenic response.",
+        "D": "Oxytocin participates in uterine contraction and milk ejection rather than producing the characteristic sustained luteal temperature elevation.",
+        "E": "Prolactin regulates mammary milk synthesis and can influence gonadotropin secretion, but is not the main postovulatory thermogenic hormone."
+      },
       "topicId": "repro-female",
       "subtopic": "Fertility signs",
       "difficulty": "medium"
@@ -1978,7 +2044,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Estrogens promote ductal development, while progesterone supports lobuloalveolar differentiation.",
+      "why": "Oestrogen stimulates mammary ductal epithelial growth and branching during puberty, together with growth hormone and local growth-factor signalling. Progesterone contributes particularly to lobuloalveolar development later, alongside prolactin and other reproductive hormones.",
+      "notes": {
+        "A": "Progesterone principally supports lobuloalveolar differentiation in an oestrogen-primed breast, rather than being the major ovarian driver of pubertal ductal growth.",
+        "B": "Androgens are not the principal physiological stimulators of female pubertal mammary ductal development, which depends strongly on oestrogen signalling.",
+        "C": "Cortisol has permissive metabolic and mammary differentiation roles, but is not the ovarian steroid chiefly initiating pubertal ductal expansion.",
+        "E": "Aldosterone regulates renal sodium and potassium handling, rather than providing the main endocrine stimulus for mammary ductal growth at puberty."
+      },
       "topicId": "repro-female",
       "subtopic": "Ovarian hormones",
       "difficulty": "easy"
@@ -2010,7 +2082,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Progesterone promotes lobuloalveolar maturation during the reproductive cycle and pregnancy.",
+      "why": "Progesterone acts with oestrogen, prolactin and other hormones to promote mammary lobuloalveolar development. It supports expansion and differentiation of milk-producing structures, although high placental progesterone restrains copious milk secretion until after delivery.",
+      "notes": {
+        "A": "Estradiol strongly promotes ductal growth and contributes to mammary development, but progesterone is particularly associated with lobuloalveolar maturation.",
+        "B": "Testosterone regulates androgen-dependent tissues and is not the principal physiological hormone promoting female mammary alveolar development during pregnancy.",
+        "C": "Calcitonin inhibits osteoclast-mediated bone resorption and does not provide the major hormonal signal inducing mammary lobuloalveolar differentiation.",
+        "D": "Thyroxine supports general metabolism and development but is not the specific reproductive steroid especially associated with mammary alveolar maturation."
+      },
       "topicId": "repro-female",
       "subtopic": "Ovarian hormones",
       "difficulty": "easy"
@@ -2042,7 +2120,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Granulosa-derived inhibin selectively suppresses FSH secretion.",
+      "why": "Inhibin B is produced by ovarian granulosa cells, especially during follicular development, and selectively suppresses pituitary FSH synthesis and secretion. Inhibin A also provides FSH feedback, particularly during the luteal phase.",
+      "notes": {
+        "B": "Relaxin participates in reproductive tissue remodelling and pregnancy-related adaptations, rather than being the principal selective ovarian inhibitor of pituitary FSH.",
+        "C": "Oxytocin promotes uterine contractions and mammary milk ejection, rather than providing the characteristic granulosa-derived selective feedback on FSH.",
+        "D": "Prolactin originates primarily from the anterior pituitary and can suppress GnRH, rather than acting as the specific ovarian inhibin signal.",
+        "E": "Melatonin is a pineal hormone involved in circadian regulation, not the granulosa-derived peptide selectively suppressing pituitary FSH secretion."
+      },
       "topicId": "repro-female",
       "subtopic": "Ovarian hormones",
       "difficulty": "hard"
@@ -2074,7 +2158,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Energy deficit and stress can suppress GnRH pulsatility and produce hypothalamic amenorrhoea.",
+      "why": "Low energy availability and intensive training-related stress can reduce hypothalamic GnRH pulsatility, impairing pituitary LH and FSH secretion. Inadequate gonadotropin support disrupts follicular development and ovulation, producing functional hypothalamic amenorrhoea.",
+      "notes": {
+        "A": "Excessive midcycle LH activity would not explain low gonadotropins; impaired pulsatile hypothalamic stimulation is more consistent with the findings.",
+        "C": "Increased ovarian oestrogen synthesis does not characteristically accompany suppressed gonadotropin drive in functional hypothalamic amenorrhoea associated with energy deficiency.",
+        "D": "A luteal progesterone rise requires ovulation and corpus luteum formation, both of which may be impaired by reduced GnRH stimulation.",
+        "E": "TSH regulates the thyroid axis; altered thyroid function can affect cycles, but reduced GnRH pulsatility best explains this exercise-associated pattern."
+      },
       "topicId": "repro-female",
       "subtopic": "Menstrual disorders",
       "difficulty": "medium"
@@ -2106,7 +2196,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Elevated prolactin suppresses GnRH and ovulatory gonadotropin secretion.",
+      "why": "Excess prolactin inhibits hypothalamic reproductive signalling, including kisspeptin-dependent regulation of pulsatile GnRH release. Reduced gonadotropin stimulation impairs follicular maturation and ovulation, potentially causing infertility despite structurally normal ovarian tissue.",
+      "notes": {
+        "A": "Enhanced ovarian LH sensitivity would not explain the principal reproductive defect, which involves reduced central gonadotropin drive during hyperprolactinaemia.",
+        "B": "Excessive uterine contractions are not the main mechanism of prolactin-related infertility, which commonly involves disruption of follicular development and ovulation.",
+        "D": "Cervical mucus ferning reflects oestrogen-associated secretion and is not the principal cause of reproductive-axis suppression by excessive prolactin.",
+        "E": "Persistent follicular oestrogen elevation is not the usual result of hyperprolactinaemia, which can reduce ovarian steroid production through gonadotropin suppression."
+      },
       "topicId": "repro-female",
       "subtopic": "Menstrual disorders",
       "difficulty": "medium"
@@ -2138,7 +2234,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Endometrial prostaglandins promote myometrial contractions and menstrual pain.",
+      "why": "Endometrial prostaglandins, especially PGF2alpha, increase myometrial contractility and can promote uterine vasoconstriction during menstruation. Excessive contractile activity and associated local ischaemia contribute to the cramping pain characteristic of primary dysmenorrhoea.",
+      "notes": {
+        "A": "Histamine participates in inflammatory signalling, but uterine prostaglandins are more directly implicated in the characteristic contractile mechanism of primary dysmenorrhoea.",
+        "B": "Thyroxine regulates metabolic activity and can affect menstrual cycles, rather than directly mediating the typical painful uterine contractions of menstruation.",
+        "C": "Glucagon regulates hepatic glucose production during fasting and is not the characteristic local mediator promoting menstrual myometrial contractions.",
+        "E": "Calcitonin influences osteoclast activity and calcium homeostasis, rather than being the principal uterine mediator responsible for menstrual cramping."
+      },
       "topicId": "repro-female",
       "subtopic": "Menstrual disorders",
       "difficulty": "medium"
@@ -2170,7 +2272,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Follicle depletion reduces estrogen and inhibin feedback, permitting increased FSH secretion.",
+      "why": "Menopause follows depletion of functional ovarian follicles, reducing estradiol and inhibin production. Loss of negative feedback increases pituitary gonadotropin secretion, with FSH often rising particularly markedly because of reduced inhibin-mediated suppression.",
+      "notes": {
+        "A": "Increased inhibin would preferentially suppress FSH secretion; declining ovarian inhibin production contributes to the elevated postmenopausal gonadotropin concentration.",
+        "B": "Placental hCG is associated with pregnancy rather than menopause, and does not explain the characteristic loss of ovarian feedback.",
+        "C": "Luteal progesterone production generally falls as ovulatory cycles cease, rather than increasing to produce the postmenopausal FSH elevation.",
+        "D": "A persistent follicular estradiol rise would generally restore negative feedback; menopause instead involves loss of normal follicular hormone production."
+      },
       "topicId": "repro-female",
       "subtopic": "Menopause",
       "difficulty": "hard"
@@ -2202,7 +2310,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The acrosome reaction releases enzymes that facilitate penetration of the zona pellucida.",
+      "why": "The acrosome reaction reorganises sperm head membranes and exposes or releases acrosomal components needed for effective interaction with and traversal of the zona pellucida. Failure of this reaction can therefore prevent the sperm from reaching the oocyte membrane.",
+      "notes": {
+        "B": "Tubal transport depends on sperm motility and female tract mechanisms and may occur before the fertilisation-related acrosomal response.",
+        "C": "Pronuclear formation and union occur after successful sperm–oocyte interaction, so zona penetration is the earlier step impaired by acrosomal failure.",
+        "D": "Closure of fetal circulatory shunts occurs around birth and is unrelated to the immediate sperm–zona pellucida interaction during fertilisation.",
+        "E": "Blastocyst implantation occurs days after fertilisation and cleavage, whereas failed acrosomal function first impairs sperm passage through egg investments."
+      },
       "topicId": "repro-preg",
       "subtopic": "Fertilization",
       "difficulty": "hard"
@@ -2234,7 +2348,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Capacitated sperm display vigorous hyperactivated motility for penetration of egg investments.",
+      "why": "Hyperactivation produces vigorous, asymmetric flagellar beating during capacitation, helping sperm generate force to traverse the viscoelastic cumulus cell matrix and other egg investments. Acrosomal enzymes and interactions with the surrounding matrix may also contribute.",
+      "notes": {
+        "A": "Sperm meiosis is completed during testicular development; it does not provide the motility change required to penetrate the cumulus matrix.",
+        "C": "Acrosomal remodelling contributes to fertilisation competence, but loss of the cap alone does not generate the vigorous mechanical propulsion described.",
+        "D": "Oocyte electrical and calcium responses occur in relation to activation, rather than providing the sperm motility needed before contact.",
+        "E": "The mature sperm nucleus does not divide while traversing cumulus cells; forceful flagellar movement supports passage through the surrounding matrix."
+      },
       "topicId": "repro-preg",
       "subtopic": "Fertilization",
       "difficulty": "easy"
@@ -2266,7 +2386,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The cortical reaction modifies the zona pellucida and prevents polyspermy.",
+      "why": "Sperm-induced oocyte calcium signalling triggers exocytosis of cortical granules beneath the oocyte membrane. Their contents modify zona pellucida components and contribute to blocking further sperm interactions, thereby reducing the risk of polyspermy.",
+      "notes": {
+        "A": "Female pronuclear formation normally follows completion of meiosis II; the cortical reaction does not prevent this essential maturation process.",
+        "B": "The calcium signal promotes rather than prevents completion of meiosis II while independently triggering cortical granule release.",
+        "D": "Blastocyst implantation follows several days of cleavage and development; cortical granules instead modify egg investments immediately after activation.",
+        "E": "The first polar body forms during meiosis I before ovulation, rather than being the target of post-fertilisation cortical granule exocytosis."
+      },
       "topicId": "repro-preg",
       "subtopic": "Fertilization",
       "difficulty": "medium"
@@ -2298,7 +2424,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Sperm entry triggers calcium oscillations that promote oocyte activation and meiosis completion.",
+      "why": "Sperm–oocyte fusion delivers factors including phospholipase C zeta that stimulate intracellular calcium release and repetitive cytosolic calcium oscillations. These signals initiate oocyte activation, cortical granule exocytosis and completion of the arrested second meiotic division.",
+      "notes": {
+        "A": "Oocyte activation depends on a rise or oscillation in cytosolic calcium rather than a reduction in the activating calcium signal.",
+        "B": "Potassium gradients influence membrane electrophysiology, but a rise in cytosolic potassium is not the established principal fertilisation activation signal.",
+        "C": "Mitochondrial oxygen availability supports metabolism, but falling oxygen does not constitute the characteristic sperm-triggered intracellular oocyte activation pathway.",
+        "E": "TSH regulates thyroid function and is unrelated to the rapid calcium-dependent intracellular signalling initiated by sperm–oocyte fusion."
+      },
       "topicId": "repro-preg",
       "subtopic": "Fertilization",
       "difficulty": "easy"
@@ -2330,7 +2462,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The morula is a solid mass of cells that develops before the fluid-filled blastocyst.",
+      "why": "Cleavage produces progressively smaller blastomeres without major overall growth of the early conceptus. Compaction creates the solid morula, which subsequently develops a fluid-filled blastocoel and differentiates into a blastocyst with inner and outer cell populations.",
+      "notes": {
+        "A": "A blastocyst contains a fluid-filled blastocoel and therefore follows the compact solid-cell morula stage in early embryonic development.",
+        "B": "Gastrulation establishes the embryonic germ layers after implantation, rather than describing the early compact mass produced by cleavage.",
+        "C": "Neurulation forms the neural plate and tube during later embryogenesis, rather than the preimplantation solid ball of blastomeres.",
+        "D": "Implantation generally begins at the blastocyst stage, after the morula has developed a cavity and differentiated trophoblastic cells."
+      },
       "topicId": "repro-preg",
       "subtopic": "Early development",
       "difficulty": "easy"
@@ -2362,7 +2500,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The embryoblast or inner cell mass develops into the embryo.",
+      "why": "The inner cell mass, or embryoblast, differentiates into epiblast and hypoblast after blastocyst formation. Epiblast ultimately supplies the embryonic germ layers, while trophoblast predominantly contributes to extraembryonic structures involved in implantation and placentation.",
+      "notes": {
+        "B": "Syncytiotrophoblast is an invasive trophoblastic derivative involved in placental establishment rather than the principal cellular source of the embryo proper.",
+        "C": "Cytotrophoblast provides proliferating trophoblastic cells contributing to placental development, rather than giving rise to most embryonic somatic tissues.",
+        "D": "Maternal decidua is transformed uterine endometrial tissue and is not genetically derived from the developing embryonic cell mass.",
+        "E": "Uterine endometrium provides the maternal implantation environment, whereas embryonic tissues develop from descendants of the fertilised oocyte."
+      },
       "topicId": "repro-preg",
       "subtopic": "Early development",
       "difficulty": "medium"
@@ -2394,7 +2538,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Invasive syncytiotrophoblast penetrates decidual tissue to establish implantation.",
+      "why": "Syncytiotrophoblast forms an invasive multinucleated trophoblastic layer during implantation, penetrating the maternal endometrial epithelium and underlying stroma. Its activity establishes early maternal–conceptus interactions and contributes to formation of placental exchange structures.",
+      "notes": {
+        "A": "The inner cell mass develops into embryonic and selected extraembryonic tissues, rather than forming the invasive outer trophoblastic implantation layer.",
+        "C": "Epiblast gives rise to the embryonic germ layers and is located within the developing embryoblast, not at the invasive trophoblastic interface.",
+        "D": "Amniotic epithelium contributes to formation of the amniotic cavity and is not the principal tissue penetrating maternal endometrium during implantation.",
+        "E": "Ovarian granulosa cells support follicular development and steroidogenesis, rather than becoming the invading trophoblast of an implanted conceptus."
+      },
       "topicId": "repro-preg",
       "subtopic": "Implantation",
       "difficulty": "hard"
@@ -2426,7 +2576,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Developing fetal capillaries approach maternal blood spaces across the placental barrier.",
+      "why": "Tertiary chorionic villi develop fetal capillaries within their mesenchymal cores. These vessels bring fetal blood close to maternal blood in intervillous spaces, increasing exchange effectiveness as villi branch and the intervening placental barrier becomes thinner.",
+      "notes": {
+        "A": "Maternal arteries discharge blood into intervillous spaces, but do not normally connect directly with the fetal circulation inside chorionic villi.",
+        "B": "Trophoblastic layers undergo remodelling and thinning, rather than the placenta simply losing all trophoblast to establish effective exchange.",
+        "D": "Oocytes are not incorporated into developing placental villi; fetal vascular development supplies the internal blood pathway supporting placental exchange.",
+        "E": "Uterine gland secretion contributes to early conceptus nutrition, but its cessation alone does not explain improved fetal–maternal vascular exchange."
+      },
       "topicId": "repro-preg",
       "subtopic": "Implantation",
       "difficulty": "medium"
@@ -2458,7 +2614,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Glucose enters fetal circulation largely through placental glucose transporters such as GLUT1.",
+      "why": "Glucose crosses placental trophoblastic membranes predominantly by facilitated diffusion through transporters including GLUT1. Transfer follows the maternal–fetal concentration gradient and provides an important fetal metabolic substrate without requiring direct mixing of maternal and fetal blood.",
+      "notes": {
+        "A": "Oxygen traverses the placental barrier principally by diffusion down its partial-pressure gradient, rather than requiring a glucose-like carrier mechanism.",
+        "B": "Carbon dioxide diffuses across the placenta from fetal towards maternal blood, driven by differences in its partial pressure and blood chemistry.",
+        "C": "Many steroid hormones are sufficiently lipophilic to cross membranes by diffusion, although placental metabolism can modify their net transfer.",
+        "E": "Lipid-soluble respiratory gases generally diffuse across placental membranes, whereas glucose depends substantially on membrane glucose transport proteins."
+      },
       "topicId": "repro-preg",
       "subtopic": "Placenta",
       "difficulty": "hard"
@@ -2490,7 +2652,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Fc receptor-mediated transfer of IgG provides passive fetal immunity.",
+      "why": "Maternal IgG undergoes receptor-mediated transcytosis across placental trophoblast, involving the neonatal Fc receptor. This transfer increases particularly later in gestation and provides the fetus with passive antibody-mediated protection that persists transiently after birth.",
+      "notes": {
+        "A": "IgM is a large predominantly pentameric antibody and does not normally undergo efficient placental transfer through the IgG-specific Fc receptor pathway.",
+        "B": "IgA contributes importantly to mucosal protection through breast milk after birth, rather than being the principal efficiently transferred placental antibody.",
+        "C": "IgD is mainly associated with B-cell antigen receptor function and is not the major maternal antibody class transported across placenta.",
+        "D": "IgE participates in allergic and antiparasitic responses but does not normally cross the placenta as efficiently as receptor-transported IgG."
+      },
       "topicId": "repro-preg",
       "subtopic": "Placenta",
       "difficulty": "easy"
@@ -2522,7 +2690,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Maternal blood bathes villi while fetal blood remains within villous capillaries.",
+      "why": "Maternal blood circulates around chorionic villi within intervillous spaces, while fetal blood remains inside villous capillaries. Trophoblastic and fetal vascular layers separate the circulations, permitting selective exchange without normal direct mixing of their blood.",
+      "notes": {
+        "B": "Maternal and fetal blood normally occupy separate compartments rather than sharing the same capillary lumen within chorionic villi.",
+        "C": "Fetal venous valves do not connect the maternal and fetal circulations; exchange occurs across the specialised placental tissue barrier.",
+        "D": "Decidua is maternal uterine tissue and does not normally provide a site where fetal and maternal vascular lumina merge.",
+        "E": "The separation is maintained by cellular and extracellular tissue layers, not merely by circulating plasma proteins between otherwise shared blood spaces."
+      },
       "topicId": "repro-preg",
       "subtopic": "Placenta",
       "difficulty": "medium"
@@ -2554,7 +2728,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Syncytiotrophoblast secretes hCG into maternal blood.",
+      "why": "Syncytiotrophoblast secretes human chorionic gonadotropin into maternal circulation, particularly during early pregnancy. This hormone maintains luteal steroid secretion through LH-receptor activation and provides the biochemical basis of conventional pregnancy testing.",
+      "notes": {
+        "A": "Cytotrophoblast contributes proliferating cells to the trophoblastic layers, but syncytiotrophoblast is the principal source of circulating maternal hCG.",
+        "C": "Endometrial glands provide local secretions supporting the early conceptus, rather than synthesising most maternal circulating human chorionic gonadotropin.",
+        "D": "Granulosa-derived luteal cells respond to gonadotropin stimulation and produce ovarian steroids, rather than providing the main placental hCG source.",
+        "E": "Decidual stromal cells form specialised maternal implantation tissue, but they are not the principal trophoblastic endocrine source of circulating hCG."
+      },
       "topicId": "repro-preg",
       "subtopic": "Placenta",
       "difficulty": "easy"
@@ -2586,7 +2766,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Human placental lactogen promotes maternal insulin resistance and mobilization of fat.",
+      "why": "Human placental lactogen contributes to the insulin-resistant metabolic state of later pregnancy and promotes mobilisation of maternal lipid stores. Reduced insulin-mediated maternal glucose utilisation can help preserve circulating glucose availability for placental transfer to the fetus.",
+      "notes": {
+        "A": "Increasing maternal insulin-dependent glucose utilisation would consume more circulating glucose rather than preferentially preserving substrate availability for fetal transfer.",
+        "B": "Placental lactogen can promote lipolysis, allowing maternal tissues to use fatty acids rather than suppressing alternative fuel mobilisation.",
+        "D": "Placental glucose transport is essential for fetal nutrition and is not normally blocked as the means of sparing glucose for fetal use.",
+        "E": "Placental lactogen promotes maternal lipid mobilisation and altered fuel partitioning, rather than primarily suppressing the availability of fatty acid substrates."
+      },
       "topicId": "repro-preg",
       "subtopic": "Pregnancy hormones",
       "difficulty": "hard"
@@ -2618,7 +2804,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Progesterone reduces myometrial excitability during much of gestation.",
+      "why": "Progesterone supports uterine quiescence during pregnancy by reducing excitability and expression of contraction-associated pathways within the myometrium. Its actions also support decidual maintenance, while changes in progesterone signalling near term contribute to preparation for labour.",
+      "notes": {
+        "A": "Estradiol supports uterine growth and can increase expression of contraction-associated proteins near term, rather than being the principal quiescence-maintaining steroid.",
+        "B": "Testosterone regulates androgen-dependent tissues and is not the primary placental steroid responsible for maintaining myometrial quiescence during gestation.",
+        "C": "Cortisol has important metabolic and fetal maturation roles, but progesterone provides the characteristic sustained inhibitory influence on uterine contractility.",
+        "E": "Aldosterone contributes to maternal electrolyte and volume regulation, rather than being the major placental steroid maintaining uterine smooth-muscle quiescence."
+      },
       "topicId": "repro-preg",
       "subtopic": "Pregnancy hormones",
       "difficulty": "easy"
@@ -2650,7 +2842,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "More oxytocin receptors and gap junctions promote coordinated strong uterine contractions.",
+      "why": "Near term, increased myometrial oxytocin receptor expression enhances responsiveness to oxytocin-mediated calcium signalling and contraction. Increased gap junction coupling and prostaglandin activity also help the uterine muscle generate coordinated, effective contractions during labour.",
+      "notes": {
+        "A": "Reduced gap junction formation would impair electrical coordination between myometrial cells, rather than supporting the development of strong synchronised labour contractions.",
+        "B": "Oestrogen-associated signalling can promote expression of contraction-related proteins, including oxytocin receptors, rather than reduced receptor activity being the main preparation mechanism.",
+        "C": "Uterine stretch can contribute to contractile activation, so complete loss of stretch sensitivity would oppose important physiological influences promoting labour.",
+        "D": "Human labour involves functional progesterone withdrawal and altered responsiveness, rather than requiring complete disappearance of circulating progesterone before contractions begin."
+      },
       "topicId": "repro-preg",
       "subtopic": "Pregnancy hormones",
       "difficulty": "hard"
@@ -2682,7 +2880,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Maternal beta cells compensate for placental-hormone-induced insulin resistance.",
+      "why": "Placental hormones and other pregnancy-associated signals reduce maternal insulin sensitivity during later gestation. Pancreatic beta cells normally increase insulin secretion to compensate, maintaining glucose homeostasis; insufficient compensation can contribute to gestational diabetes.",
+      "notes": {
+        "B": "Maternal and fetal insulin do not normally cross the placenta freely enough to explain increased maternal circulating insulin as direct fetal transfer.",
+        "C": "Placental lactogen contributes to pregnancy-associated insulin resistance, rather than its complete suppression being the reason maternal insulin concentrations rise.",
+        "D": "Loss of maternal beta cells would reduce insulin-secretory capacity and impair compensation, rather than explain the physiological rise in insulin secretion.",
+        "E": "Normal pregnancy involves dynamic glucose regulation; permanently reduced maternal glucose alone would not stimulate compensatory hyperinsulinaemia in the stated manner."
+      },
       "topicId": "repro-preg",
       "subtopic": "Pregnancy hormones",
       "difficulty": "medium"
@@ -2714,7 +2918,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Progesterone increases respiratory drive, producing mild compensated respiratory alkalosis.",
+      "why": "Progesterone increases maternal ventilatory drive during pregnancy, chiefly increasing tidal volume and alveolar ventilation. Carbon dioxide elimination therefore increases, lowering arterial PaCO2 and producing mild respiratory alkalosis with compensatory renal bicarbonate reduction.",
+      "notes": {
+        "A": "Progesterone stimulates rather than suppresses maternal ventilation, so its physiological effect tends to lower arterial carbon dioxide tension.",
+        "C": "The placenta permits fetal carbon dioxide transfer into maternal blood; it does not block maternal pulmonary carbon dioxide elimination.",
+        "D": "Maternal lung volumes change with pregnancy, but pulmonary ventilation remains functional and increased alveolar ventilation accounts for the lower PaCO2.",
+        "E": "Maternal haemoglobin continues participating in carbon dioxide transport and buffering, rather than losing its capacity to carry carbon dioxide-related compounds."
+      },
       "topicId": "repro-preg",
       "subtopic": "Maternal changes",
       "difficulty": "medium"
@@ -2746,7 +2956,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Plasma volume, heart rate and stroke volume rise to meet uteroplacental demands.",
+      "why": "Pregnancy increases maternal blood volume, stroke volume and heart rate, while systemic vascular resistance generally falls. Increased cardiac output supports uteroplacental perfusion and the greater metabolic demands of maternal tissues and the developing conceptus.",
+      "notes": {
+        "A": "Maternal plasma volume and heart rate generally increase, rather than jointly falling to produce the normal rise in cardiac output.",
+        "B": "Uteroplacental blood flow requirements increase during pregnancy, adding to the circulatory demands rather than reducing the need for maternal cardiac output.",
+        "D": "Systemic vascular resistance commonly decreases through vasodilatory adaptations, rather than loss of all peripheral vasodilatation accounting for increased flow.",
+        "E": "Renal sodium and water retention contributes to plasma volume expansion; its complete absence would oppose important circulatory adaptations of pregnancy."
+      },
       "topicId": "repro-preg",
       "subtopic": "Maternal changes",
       "difficulty": "medium"
@@ -2778,7 +2994,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Maternal plasma volume expands more than red-cell mass, producing physiological haemodilution.",
+      "why": "Maternal erythrocyte mass rises during pregnancy, but plasma volume usually expands by a greater proportion. This disproportionate expansion dilutes circulating cells and lowers haematocrit, producing physiological haemodilution without necessarily indicating a reduction in total red-cell mass.",
+      "notes": {
+        "A": "Maternal erythropoietic activity generally increases to support red-cell mass expansion, rather than reduced erythropoietin explaining normal pregnancy-related haemodilution.",
+        "B": "Excessive erythrocyte destruction can cause pathological anaemia, but physiological pregnancy-related haematocrit reduction primarily reflects greater plasma expansion.",
+        "C": "Fetal erythrocyte survival concerns the separate fetal circulation and does not explain dilution of maternal red-cell concentration.",
+        "E": "Red-cell sequestration is not required to explain the normal fall in haematocrit when maternal plasma volume increases disproportionately."
+      },
       "topicId": "repro-preg",
       "subtopic": "Maternal changes",
       "difficulty": "hard"
@@ -2810,7 +3032,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Cervical stretch increases oxytocin release through the Ferguson positive feedback reflex.",
+      "why": "Pressure of the presenting fetal part stretches the cervix and activates sensory afferents that promote hypothalamic oxytocin release. Oxytocin strengthens uterine contraction, causing additional cervical stretch and reinforcing the Ferguson positive-feedback reflex during labour.",
+      "notes": {
+        "A": "The baroreceptor reflex stabilises arterial pressure through responses to vascular stretch, rather than amplifying contractions in response to cervical pressure.",
+        "B": "The pupillary light reflex coordinates iris constriction following retinal illumination, rather than linking cervical sensory input to oxytocin release.",
+        "C": "The micturition reflex coordinates bladder emptying after urinary bladder distension, rather than producing uterine positive feedback during labour.",
+        "D": "The vestibulo-ocular reflex stabilises gaze during head movement and is unrelated to cervical stretch-induced uterine contraction."
+      },
       "topicId": "repro-preg",
       "subtopic": "Labour physiology",
       "difficulty": "medium"
@@ -2842,7 +3070,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Prostaglandin E2 promotes cervical remodeling and participates in labour.",
+      "why": "Prostaglandin E2 promotes cervical ripening through local extracellular matrix remodelling, altered collagen organisation and increased tissue hydration. These changes soften the cervix and facilitate dilation; prostaglandin signalling also participates in uterine contractile activation during labour.",
+      "notes": {
+        "B": "TSH stimulates thyroid hormone production and does not directly mediate the local cervical matrix remodelling characteristic of labour preparation.",
+        "C": "Glucagon supports circulating glucose availability through hepatic metabolic effects rather than promoting cervical softening and extracellular matrix reorganisation.",
+        "D": "Parathyroid hormone regulates calcium and phosphate balance, rather than serving as the characteristic mediator of cervical ripening near term.",
+        "E": "Vasopressin regulates water conservation and vascular tone, rather than providing the principal prostaglandin-mediated cervical remodelling signal."
+      },
       "topicId": "repro-preg",
       "subtopic": "Labour physiology",
       "difficulty": "hard"
@@ -2874,7 +3108,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Gap junctions electrically couple myometrial cells to promote synchronized labour.",
+      "why": "Increased myometrial gap junction formation, particularly involving connexin 43, allows ionic current to pass between adjacent smooth-muscle cells. Electrical coupling promotes spread of depolarisation and coordinated uterine contractions instead of independent local muscle activity.",
+      "notes": {
+        "A": "Greater intercellular electrical coupling favours synchronisation rather than increasing the isolation of individual myometrial cell contractions.",
+        "C": "Gap junction channels provide direct electrical communication between neighbouring cells, so increased expression enhances rather than abolishes electrical coupling.",
+        "D": "Coordinated depolarisation supports calcium-dependent contraction; increased gap junction formation does not directly suppress all intracellular calcium elevation.",
+        "E": "Oxytocin can stimulate myometrial contraction alongside gap junction-mediated coordination; enhanced coupling does not completely block its receptor-mediated action."
+      },
       "topicId": "repro-preg",
       "subtopic": "Labour physiology",
       "difficulty": "medium"
@@ -2906,7 +3146,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Stretch and cervical pressure increase contractility and oxytocin-related feedback.",
+      "why": "Uterine enlargement and mechanical stretch can increase myometrial excitability and expression of contraction-associated proteins. Cervical distension from the presenting fetal part additionally recruits neuroendocrine feedback that helps reinforce labour, alongside hormonal and inflammatory signals.",
+      "notes": {
+        "A": "Reduced uterine stretch would remove a mechanical stimulus rather than explain increased contraction-associated signalling near the onset of labour.",
+        "B": "Decreased pressure on the cervix reduces stimulation of stretch-sensitive afferents, rather than reinforcing the Ferguson reflex during labour.",
+        "D": "Suppression of cervical sensory input would weaken the positive-feedback pathway linking cervical stretch to increased oxytocin-mediated uterine contractions.",
+        "E": "Calcium availability is essential for myometrial smooth-muscle contraction; complete loss of intracellular calcium would impair rather than initiate labour contractions."
+      },
       "topicId": "repro-preg",
       "subtopic": "Labour physiology",
       "difficulty": "medium"
@@ -2938,7 +3184,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Prolactin drives milk production, while oxytocin drives ejection.",
+      "why": "Prolactin acts on mammary secretory epithelial cells to support synthesis of milk components, whereas oxytocin contracts surrounding myoepithelial cells to expel stored milk. These distinct endocrine responses coordinate production and transfer of milk during suckling.",
+      "notes": {
+        "A": "This reverses the two hormone functions: prolactin promotes milk synthesis, while oxytocin produces myoepithelial contraction and milk ejection.",
+        "B": "Ductal growth and contraction are not the principal contrast; the key distinction concerns milk production versus mechanical release of existing milk.",
+        "C": "Colostrum digestion and uptake occur in the infant rather than defining the respective maternal endocrine actions of prolactin and oxytocin.",
+        "E": "Oocyte maturation and release depend principally on ovarian gonadotropin signalling, rather than the two hormones coordinating lactation."
+      },
       "topicId": "repro-preg",
       "subtopic": "Lactation",
       "difficulty": "easy"
@@ -2970,7 +3222,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Milk accumulation locally inhibits continued milk production; regular removal helps sustain supply.",
+      "why": "Milk accumulation increases local intramammary pressure and engages autocrine and paracrine inhibitory mechanisms that reduce milk synthesis. Therefore, adequate prolactin alone cannot sustain maximal supply if milk is repeatedly retained rather than effectively removed.",
+      "notes": {
+        "A": "Persistent milk retention generally inhibits further synthesis rather than continuously accelerating secretion despite increasing fullness of the breast.",
+        "B": "Reduced milk removal can suppress synthesis locally without requiring complete loss of mammary progesterone receptors.",
+        "C": "Milk stasis results from inadequate drainage and does not automatically resolve simply because prolactin concentrations are adequate.",
+        "D": "Continued inefficient removal tends to downregulate milk production, rather than producing a permanent increase in supply regardless of demand."
+      },
       "topicId": "repro-preg",
       "subtopic": "Lactation",
       "difficulty": "hard"
@@ -3002,7 +3260,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "After the onset of copious secretion, established milk production depends on continued emptying and local milk-demand signals.",
+      "why": "Galactopoiesis describes maintenance of established milk secretion after secretory activation. Continued effective milk removal, local feedback mechanisms and adequate endocrine support sustain production, adapting supply to the amount of milk regularly transferred or expressed.",
+      "notes": {
+        "B": "Lactogenesis I describes secretory differentiation during pregnancy, before the established demand-responsive phase of copious milk production after birth.",
+        "C": "Implantation and decidualisation prepare the uterine environment for pregnancy, rather than describing the maintenance of mammary milk secretion.",
+        "D": "Follicular recruitment involves ovarian follicle development during reproductive cycles, not local regulation of established mammary milk production.",
+        "E": "Luteolysis denotes regression of the corpus luteum, rather than the maintenance phase of lactation following its initial secretory activation."
+      },
       "topicId": "repro-preg",
       "subtopic": "Lactation",
       "difficulty": "easy"
@@ -3034,7 +3298,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Placental progesterone withdrawal permits the onset of copious lactogenesis.",
+      "why": "Delivery of the placenta rapidly removes a major source of progesterone, relieving its inhibition of copious mammary milk secretion. In the presence of prolactin and other supportive hormones, this triggers postpartum secretory activation and increasing milk volume.",
+      "notes": {
+        "A": "Placental hCG declines after delivery as trophoblastic tissue is removed, rather than rising to trigger copious postpartum milk production.",
+        "C": "Prolactin remains essential for milk synthesis, so its disappearance would impair rather than explain the activation of abundant milk secretion.",
+        "D": "Oxytocin supports milk ejection during suckling and is not absent after delivery; progesterone withdrawal chiefly enables increased synthesis.",
+        "E": "Inhibin regulates pituitary FSH and does not provide the main endocrine trigger of secretory activation after placental delivery."
+      },
       "topicId": "repro-preg",
       "subtopic": "Lactation",
       "difficulty": "medium"
@@ -3066,7 +3336,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Lactational amenorrhoea involves suppression of GnRH pulsatility and gonadotropin release.",
+      "why": "Frequent suckling modifies hypothalamic reproductive signalling and suppresses pulsatile GnRH release, partly through prolactin-related pathways. Reduced gonadotropin support can delay follicular maturation and ovulation, although the duration and contraceptive reliability of lactational amenorrhoea vary.",
+      "notes": {
+        "A": "TRH regulates thyroid-stimulating hormone and can influence prolactin, but suppression of pulsatile GnRH is the central reproductive mechanism described.",
+        "B": "CRH participates in the stress axis regulating ACTH secretion, rather than being the principal hypothalamic signal whose suppression delays ovulation during lactation.",
+        "D": "GHRH stimulates growth hormone secretion and does not directly provide the essential pulsatile gonadotropin drive required for normal ovarian ovulation.",
+        "E": "Vasopressin regulates water balance through posterior pituitary release, rather than controlling follicular maturation through the hypothalamic–pituitary–gonadal axis."
+      },
       "topicId": "repro-preg",
       "subtopic": "Lactation",
       "difficulty": "hard"
@@ -3098,7 +3374,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Suckling activates nipple afferents that drive hypothalamic oxytocin release.",
+      "why": "Mechanical stimulation of the nipple during suckling activates sensory afferents projecting through spinal and hypothalamic pathways. Magnocellular oxytocin neurons increase hormone release from the posterior pituitary, causing mammary myoepithelial contraction and milk ejection.",
+      "notes": {
+        "A": "Follicular rupture releases an ovarian oocyte and does not provide the sensory input initiating the mammary milk-ejection reflex.",
+        "B": "Carotid sinus stretch activates cardiovascular baroreflex pathways, rather than the nipple-associated sensory signals responsible for oxytocin-mediated milk let-down.",
+        "C": "Intestinal nutrient absorption supplies maternal metabolic substrates but does not constitute the immediate sensory trigger of milk ejection during suckling.",
+        "E": "Renal sodium transport regulates electrolyte and fluid balance, rather than providing afferent signals that initiate the mammary neuroendocrine reflex."
+      },
       "topicId": "repro-preg",
       "subtopic": "Lactation",
       "difficulty": "easy"
@@ -3130,7 +3412,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Stress can impair the centrally mediated oxytocin let-down reflex even when milk is present.",
+      "why": "Acute stress can interfere with hypothalamic oxytocin release or the coordinated milk-ejection response. Consequently, milk may already be present within mammary alveoli but fail to flow effectively until the neuroendocrine let-down response is restored.",
+      "notes": {
+        "A": "Increased prolactin receptor availability generally supports mammary responsiveness for milk synthesis rather than acutely interrupting oxytocin-mediated ejection.",
+        "B": "Increased milk synthesis may increase available milk volume, but does not itself explain failure of the neuroendocrine milk-ejection response.",
+        "C": "Hepatic glucose production supports metabolic fuel availability and is not the specific central mechanism blocking milk let-down despite adequate supply.",
+        "D": "Ovarian inhibin regulates pituitary FSH secretion and is not the principal acute inhibitor of the mammary oxytocin reflex."
+      },
       "topicId": "repro-preg",
       "subtopic": "Lactation",
       "difficulty": "medium"
@@ -3162,7 +3450,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Estrogen supports ducts, and progesterone supports lobuloalveolar development.",
+      "why": "Oestrogen promotes mammary ductal expansion, while progesterone particularly supports lobular and alveolar growth during pregnancy. Together with prolactin, placental lactogen and other endocrine signals, these ovarian and placental steroids prepare mammary tissue for postpartum milk production.",
+      "notes": {
+        "B": "Prolactin supports secretory differentiation and oxytocin mediates ejection, but oestrogen and progesterone are the principal steroid pair driving extensive structural development.",
+        "C": "Cortisol provides permissive metabolic support, while aldosterone regulates fluid and electrolytes; neither pair principally explains pregnancy-associated mammary structural expansion.",
+        "D": "Thyroxine and calcitriol support systemic metabolic and mineral physiology, rather than forming the major reproductive steroid combination driving mammary development.",
+        "E": "Gonadotropins regulate gonadal activity and inhibin feedback, rather than directly replacing the pregnancy-associated oestrogen and progesterone effects on mammary tissue."
+      },
       "topicId": "repro-preg",
       "subtopic": "Lactation",
       "difficulty": "medium"
@@ -3194,7 +3488,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The trophoblastic placental barrier separates maternal intervillous blood from fetal villous capillaries.",
+      "why": "Fetal capillaries run inside chorionic villi projecting into maternal blood-filled intervillous spaces. Maternal blood bathes the trophoblastic surface rather than directly contacting fetal endothelium, permitting exchange across the intervening placental barrier.",
+      "notes": {
+        "A": "Maternal spiral arteries deliver maternal blood into intervillous spaces and are not the fetal vessels lying within chorionic villous cores.",
+        "C": "Maternal venous channels drain intervillous blood, rather than carrying fetal blood within placental exchange villi.",
+        "D": "The umbilical vein carries oxygenated fetal blood away from the placenta but lies outside the intervillous exchange region described.",
+        "E": "Maternal uterine lymphatic vessels drain tissue fluid and do not constitute the fetal capillary circulation within placental chorionic villi."
+      },
       "topicId": "repro-preg",
       "subtopic": "Placenta",
       "difficulty": "hard"
