@@ -5,7 +5,7 @@
   "drafts": 49,
   "holds": 12,
   "drafts_pushed": true,
-  "applied_to_data": false,
+  "applied_to_data": true,
   "source_blob": "9c679a23860df249b2ac304344fe441d1ae1aad3",
   "next_id": null,
   "remaining_ids": [],
@@ -39,5 +39,7 @@
     "https://www.ncbi.nlm.nih.gov/books/NBK11158/",
     "https://pubmed.ncbi.nlm.nih.gov/19303891/",
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC7355004/"
-  ]
+  ],
+  "data_blob": "587bff6f86d2a3123c4790cda06f912de23a0b2e",
+  "next_file": "data/physiology/repro-past.json"
 }
