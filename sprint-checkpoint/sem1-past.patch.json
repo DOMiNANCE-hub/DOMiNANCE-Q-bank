@@ -1,0 +1,207 @@
+{
+  "bio-001": {
+    "why": "Statins occupy the substrate-binding site of 3-hydroxy-3-methylglutaryl-CoA (HMG-CoA) reductase. By competing with HMG-CoA, they reduce mevalonate production and slow cholesterol synthesis in the liver.",
+    "notes": {
+      "B": "AMP-activated protein kinase can phosphorylate and inhibit the reductase when cellular energy is scarce.",
+      "C": "An upstream kinase activates AMP-activated protein kinase, placing it a step removed from the enzyme that binds statins.",
+      "D": "The phosphatase removes an inhibitory phosphate from the reductase, restoring its activity independently of statin binding.",
+      "E": "Protein kinase A transmits signals from cyclic AMP, whereas statins bind the enzyme that produces mevalonate."
+    }
+  },
+  "bio-002": {
+    "why": "When cellular energy is scarce, AMP-activated protein kinase phosphorylates HMG-CoA reductase. This reduces the production of mevalonate and slows the energy-consuming synthesis of cholesterol.",
+    "notes": {
+      "A": "The reductase converts HMG-CoA into mevalonate and receives its inhibitory phosphate from a separate kinase.",
+      "C": "An upstream kinase activates AMP-activated protein kinase, which then directly phosphorylates the reductase.",
+      "D": "The phosphatase removes the inhibitory phosphate from HMG-CoA reductase, allowing cholesterol synthesis to resume.",
+      "E": "Protein kinase A responds to cyclic AMP, whereas the enzyme that directly senses energy status and inhibits the reductase is AMP-activated protein kinase."
+    }
+  },
+  "bio-003": {
+    "why": "An upstream kinase phosphorylates a threonine in the catalytic subunit of AMP-activated protein kinase. This phosphorylation allows the energy sensor to inhibit biosynthetic pathways when energy is scarce.",
+    "notes": {
+      "A": "HMG-CoA reductase makes mevalonate and is a downstream target of the activated energy sensor.",
+      "B": "AMP-activated protein kinase is the enzyme receiving the activating phosphate in this signalling step.",
+      "D": "The reductase phosphatase restores the activity of the cholesterol-synthesis enzyme by removing its inhibitory phosphate.",
+      "E": "Protein kinase A responds to cyclic AMP, whereas a distinct upstream kinase phosphorylates the activation loop of the energy sensor."
+    }
+  },
+  "bio-005": {
+    "why": "Acetyl-CoA carboxylase uses ATP, bicarbonate and the cofactor biotin to convert acetyl-CoA to malonyl-CoA. This commits carbon to fatty acid synthesis and controls the supply of two-carbon units for elongation.",
+    "notes": {
+      "A": "Condensation takes place on fatty acid synthase once the carboxylase has supplied the malonyl group.",
+      "B": "Acetate can be activated to acetyl-CoA, but this also supplies pathways other than fatty acid synthesis.",
+      "C": "The carboxylase adds bicarbonate-derived carbon to acetyl-CoA, so free malonate is not its starting material.",
+      "E": "The first reduction on fatty acid synthase consumes NADPH after the chain has already undergone condensation."
+    }
+  },
+  "bio-006": {
+    "why": "A sustained carbohydrate surplus can provide acetyl-CoA for new fatty acids and glycerol 3-phosphate for their storage as triacylglycerol. Insulin promotes fatty acid synthesis and esterification in the fed state.",
+    "notes": {
+      "A": "Plants also synthesise triacylglycerols, which are an important energy reserve in many seeds.",
+      "C": "Low carbohydrate availability generally favours oxidation of fatty acids and reduces the use of carbohydrate carbon for new fatty acids.",
+      "D": "Animals synthesise triacylglycerols in the fed state, including in the liver and adipose tissue.",
+      "E": "A sustained carbohydrate surplus supplies both carbon and an insulin signal for fat storage in humans."
+    }
+  },
+  "bio-007": {
+    "why": "Insulin favours storage after a carbohydrate-rich meal. Glucose supplies glycerol 3-phosphate for the triacylglycerol backbone and can supply acetyl-CoA for synthesis of the attached fatty acids.",
+    "notes": {
+      "A": "Fat is stored with little water and yields more energy per gram than hydrated glycogen.",
+      "C": "Insulin promotes fatty acid synthesis and storage after feeding, while low insulin favours release of fatty acids from adipose tissue.",
+      "D": "Mammalian liver can convert surplus glucose into fatty acids and esterify these to form triacylglycerols.",
+      "E": "Phosphatidate loses its phosphate to form diacylglycerol, which receives a third fatty acyl group."
+    }
+  },
+  "bio-008": {
+    "why": "In the cytidine diphosphate (CDP) routes, one partner is activated and the other supplies a free hydroxyl group. Linking two CDP-activated partners is unnecessary for forming the phosphodiester bond.",
+    "notes": {
+      "A": "CDP-choline transfers its phosphocholine group to diacylglycerol during the formation of phosphatidylcholine.",
+      "B": "Free inositol reacts with activated CDP-diacylglycerol in the pathway that forms phosphatidylinositol.",
+      "D": "Mammalian cells can exchange serine for the ethanolamine head group of phosphatidylethanolamine to make phosphatidylserine.",
+      "E": "The liver can synthesise phosphatidylcholine by adding three methyl groups to the head group of phosphatidylethanolamine."
+    }
+  },
+  "bio-009": {
+    "why": "Low-density lipoprotein carries much of the cholesterol in plasma as cholesteryl esters. Cells can bind its apolipoprotein B-100 through LDL receptors and take up the particle by endocytosis.",
+    "notes": {
+      "A": "Intermediate-density lipoprotein is a remnant that can return to the liver or give rise to low-density lipoprotein.",
+      "C": "High-density lipoprotein accepts excess cholesterol from peripheral cells and participates in its return to the liver.",
+      "D": "Chylomicrons chiefly deliver dietary triacylglycerol, and their cholesterol-rich remnants are taken up by the liver.",
+      "E": "Very-low-density lipoprotein chiefly exports hepatic triacylglycerol and gives rise to cholesterol-enriched particles as it loses fat."
+    }
+  },
+  "bio-010": {
+    "why": "The liver packages triacylglycerol into very-low-density lipoprotein for export. Lipoprotein lipase then hydrolyses the particle's triacylglycerol in capillaries, making fatty acids available to muscle and adipose tissue.",
+    "notes": {
+      "A": "Chylomicrons are rich in triacylglycerol too, but the intestine produces them to transport fat absorbed from a meal.",
+      "B": "Low-density lipoprotein has already lost much of its precursor's triacylglycerol and is enriched in cholesteryl esters.",
+      "D": "High-density lipoprotein participates mainly in cholesterol transport and carries a relatively small amount of triacylglycerol.",
+      "E": "Intermediate-density lipoprotein is the remnant formed after lipoprotein lipase has removed some triacylglycerol from the hepatic particle."
+    }
+  },
+  "bio-011": {
+    "why": "Acetyl-CoA supplies all the carbon atoms retained in cholesterol. Its two-carbon units first form acetoacetyl-CoA and then HMG-CoA, which is reduced to mevalonate in the sterol pathway.",
+    "notes": {
+      "A": "Free acetate must first be activated with coenzyme A before it can enter cholesterol synthesis.",
+      "C": "Oxaloacetate can help export acetyl units as citrate, but is regenerated when cytosolic citrate is cleaved.",
+      "D": "Malate participates in the citrate shuttle and can help supply reducing power for biosynthesis.",
+      "E": "Pyruvate can yield acetyl-CoA through oxidative decarboxylation, placing it upstream of the direct building block."
+    }
+  },
+  "bio-012": {
+    "why": "Cholecystokinin is made by intestinal endocrine cells from a peptide precursor, preprocholecystokinin. The other choices are sterols or products of sterol metabolism.",
+    "notes": {
+      "A": "The liver oxidises and shortens the side chain of cholesterol to form primary bile acids, including chenodeoxycholic acid.",
+      "B": "Glycocholic acid forms when the liver conjugates the cholesterol-derived bile acid cholic acid with glycine.",
+      "C": "Steroid-producing cells convert cholesterol to pregnenolone, from which they can synthesise testosterone.",
+      "D": "In skin, ultraviolet B light acts on the sterol precursor 7-dehydrocholesterol to initiate vitamin D₃ synthesis."
+    }
+  },
+  "bio-015": {
+    "why": "Type IIa hyperlipoproteinaemia is an isolated elevation of LDL with relatively normal triglycerides. Reduced receptor-mediated LDL clearance is a classic cause, as in familial hypercholesterolaemia due to an impaired LDL receptor pathway.",
+    "notes": {
+      "A": "Increased hepatic production of VLDL would usually raise plasma triglycerides rather than producing an isolated increase in LDL cholesterol.",
+      "C": "High HDL does not explain an isolated accumulation of LDL particles in type IIa hyperlipoproteinaemia.",
+      "D": "Impaired processing of VLDL would retain more triglyceride-rich particles. It is not the expected mechanism for an isolated LDL elevation."
+    }
+  },
+  "bio-016": {
+    "why": "Lovastatin inhibits HMG-CoA reductase and decreases hepatic cholesterol synthesis. Lower intracellular cholesterol can increase expression of functioning LDL receptors, increasing LDL clearance and lowering blood cholesterol. The response is smaller when receptor activity is nearly absent.",
+    "notes": {
+      "A": "Lower hepatic cholesterol generally increases expression of residual functional LDL receptors through sterol-sensitive regulation.",
+      "B": "Lovastatin decreases de novo cholesterol synthesis by competitively inhibiting HMG-CoA reductase, even though feedback can increase enzyme expression.",
+      "C": "ACAT esterifies intracellular cholesterol for storage. Increased esterification is not the principal action of lovastatin.",
+      "E": "Statins usually lower LDL and can also modestly decrease circulating triglyceride concentrations rather than raising them."
+    }
+  },
+  "bio-017": {
+    "why": "Lipoprotein density increases as the fraction of protein relative to lipid increases. The order from lowest to highest is chylomicrons, VLDL, IDL, LDL and HDL. The proposed sequences do not follow that order.",
+    "notes": {
+      "A": "Chylomicrons are the least dense, but VLDL is less dense than LDL and must come before LDL.",
+      "B": "HDL has the highest density in this group and follows LDL in the order of increasing density.",
+      "C": "VLDL is less dense than IDL, because IDL is a smaller remnant left after some triglyceride has been removed.",
+      "D": "HDL, LDL and VLDL are listed in descending rather than ascending order of density."
+    }
+  },
+  "bio-020": {
+    "why": "The malonyl/acetyltransferase domain of mammalian fatty acid synthase transfers malonyl from malonyl-CoA to the terminal thiol of ACP's phosphopantetheine arm. The loaded malonyl–ACP supplies a two-carbon unit during condensation.",
+    "notes": {
+      "A": "NADPH supplies reducing equivalents for later steps. It does not transfer the malonyl group from CoA.",
+      "B": "An acyl carrier protein holds the malonyl group as a thioester. The transfer reaction is catalysed by the transferase domain.",
+      "C": "The mobile ACP arm carries substrates between enzyme sites. Catalysis of malonyl loading requires the distinct transacylase activity.",
+      "D": "The beta-ketoacyl reductase uses NADPH after condensation to reduce a carbonyl group. It does not load malonyl onto ACP."
+    }
+  },
+  "bio-022": {
+    "why": "After condensation, beta-ketoacyl–ACP reductase uses NADPH to reduce the beta-keto group to a hydroxyl group. This is the first reduction in the fatty acid synthase elongation cycle.",
+    "notes": {
+      "A": "NADPH supplies reducing equivalents, but the reduction also requires beta-ketoacyl–ACP reductase to catalyse hydride transfer.",
+      "C": "Enoyl–ACP reductase acts later on the carbon–carbon double bond. The keto group requires beta-ketoacyl–ACP reductase.",
+      "D": "ACP carries the intermediate but is neither the reductase nor the reducing cofactor for the keto group.",
+      "E": "The cycle has two reduction reactions. The later enoyl reductase is not needed for the initial conversion of the keto group to an alcohol."
+    }
+  },
+  "bio-023": {
+    "why": "After dehydration makes a trans-enoyl–ACP intermediate, enoyl–ACP reductase uses NADPH to reduce its carbon–carbon double bond. This yields a saturated acyl–ACP ready for another elongation cycle.",
+    "notes": {
+      "A": "NADPH donates reducing equivalents, but the enoyl reductase is required to transfer them to the double bond.",
+      "B": "Beta-ketoacyl–ACP reductase acts earlier on the carbonyl group, before dehydration produces the enoyl intermediate.",
+      "D": "ACP can hold the enoyl intermediate, but it does not supply reducing equivalents or replace enoyl–ACP reductase.",
+      "E": "Both reductases use NADPH in the overall cycle. Beta-ketoacyl–ACP reductase acts at a separate earlier step."
+    }
+  },
+  "bio-024": {
+    "why": "NADPH provides the reducing equivalents for both reductive steps of mammalian fatty acid synthesis. One NADPH reduces the beta-keto group and another reduces the double bond in each elongation cycle.",
+    "notes": {
+      "B": "An acyl carrier protein binds and carries growing intermediates. It does not donate the electrons required for reduction.",
+      "C": "An ACP domain is a carrier with a phosphopantetheine arm, rather than the source of reducing equivalents.",
+      "D": "The beta-ketoacyl reductase catalyses reduction but obtains the reducing equivalents it transfers from NADPH.",
+      "E": "The transacylase loads acetyl and malonyl groups. It is not the source of reducing equivalents."
+    }
+  },
+  "bio-027": {
+    "why": "Type III hyperlipoproteinaemia is caused by defective clearance of cholesterol-rich remnants, often associated with an apoE variant such as apoE2. The accumulated remnant particles carry both triglyceride and cholesterol, so both can be elevated.",
+    "notes": {
+      "A": "The intestine can still make chylomicrons after eating. The defect involves clearance of remnant particles rather than absence of chylomicron production.",
+      "B": "Remnants derived from VLDL can accumulate, so normal VLDL-related lipid handling is not typical of the disorder.",
+      "C": "Retained triglyceride-rich remnants contribute to elevated triglyceride levels rather than an isolated normal triglyceride result.",
+      "D": "Cholesterol carried in accumulating remnant particles is often elevated, along with triglycerides."
+    }
+  },
+  "bio-028": {
+    "why": "In the principal endoplasmic-reticulum elongation system, malonyl-CoA is the immediate donor of the two carbons added to the acyl chain. Acetyl-CoA is upstream as a source of malonyl-CoA, rather than the immediate donor in the elongase reaction.",
+    "notes": {
+      "A": "Each elongation round uses condensation, reduction, dehydration and a second reduction, analogous to the sequence of fatty acid synthase.",
+      "B": "The major elongase system for long-chain acyl-CoAs is associated with the endoplasmic reticulum.",
+      "C": "One elongation round can convert a 16-carbon palmitoyl-CoA to an 18-carbon product, stearoyl-CoA.",
+      "D": "Malonyl-CoA is a substrate for the endoplasmic-reticulum elongase and supplies the added carbons after decarboxylation."
+    }
+  },
+  "bio-030": {
+    "why": "A large meal supplies triglyceride that enterocytes package into chylomicrons. At about three hours after eating, these triglyceride-rich particles can increase circulating triglycerides. LDL and HDL cholesterol usually change less acutely.",
+    "notes": {
+      "B": "Postprandial dietary lipid is carried mainly in chylomicrons. A sharp immediate rise in LDL cholesterol is not the characteristic effect.",
+      "C": "HDL cholesterol usually does not fall sharply after a single meal in a healthy person. Triglyceride-rich particles change more.",
+      "D": "VLDL is produced in the liver, while the new postprandial particles come from the intestine. A sharp fall in VLDL is not the expected change."
+    }
+  },
+  "bio-304": {
+    "why": "The Friedewald equation has long been used to estimate LDL cholesterol and can work reasonably in appropriate samples. Its simplifying assumptions can cause error at high triglyceride concentrations or very low LDL. Those limitations do not explain its widespread use.",
+    "notes": {
+      "A": "Both statements can be true, but the unmodelled factors explain potential error rather than why the calculation is useful.",
+      "C": "The equation has practical limitations because the triglyceride-to-cholesterol ratio in VLDL is not constant across samples.",
+      "D": "The long-standing use of the estimate in appropriate settings is real, even though newer equations can improve accuracy.",
+      "E": "The estimate is widely used historically, and the concern about unaccounted sources of error is also valid."
+    }
+  },
+  "bio-305": {
+    "why": "Very high triglycerides can cause acute pancreatitis. A proposed mechanism is that chylomicron-rich blood impairs pancreatic microcirculation and lipases release locally injurious free fatty acids. Ischaemia and local acidosis can reinforce the injury.",
+    "notes": {
+      "B": "The reason provides a recognised mechanism that can connect severe triglyceride elevation to pancreatic tissue injury.",
+      "C": "Capillary flow changes and free-fatty-acid toxicity are plausible contributors to the link, even though they may not account for every case.",
+      "D": "Severe hypertriglyceridaemia is an established cause of acute pancreatitis, so the assertion is not false.",
+      "E": "Both the association and the proposed microvascular and lipotoxic explanation have physiological support."
+    }
+  }
+}
