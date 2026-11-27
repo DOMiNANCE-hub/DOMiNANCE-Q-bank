@@ -1170,15 +1170,15 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "It loses CO₂ as it is converted to isopentenyl pyrophosphate.",
+      "why": "HMG-CoA reductase reduces HMG-CoA to six-carbon mevalonate using NADPH. Mevalonate is phosphorylated and decarboxylated to form five-carbon isopentenyl pyrophosphate, the building block for larger isoprenoids.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "B": "A 15-carbon isoprenoid.",
-        "C": "A 30-carbon chain.",
-        "D": "The first sterol.",
-        "E": "A 10-carbon isoprenoid."
+        "B": "Farnesyl pyrophosphate contains 15 carbons and forms after three five-carbon isoprenoid units combine.",
+        "C": "Squalene contains 30 carbons and forms by reductive condensation of two farnesyl pyrophosphate molecules.",
+        "D": "Lanosterol is the first cyclic sterol, formed from squalene after epoxidation and cyclisation.",
+        "E": "Geranyl pyrophosphate contains ten carbons and is formed from two five-carbon isoprenoid units."
       }
     },
     {
@@ -1208,15 +1208,15 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "It is then converted to cholesterol.",
+      "why": "Squalene monooxygenase converts squalene to 2,3-oxidosqualene, which lanosterol synthase cyclises into lanosterol. Subsequent demethylation, reduction and double-bond rearrangements produce cholesterol.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "A much earlier intermediate.",
-        "C": "Precedes squalene.",
-        "D": "The final product.",
-        "E": "Precedes squalene."
+        "A": "Mevalonate is an early six-carbon precursor formed before the five-carbon isoprenoid building blocks.",
+        "C": "Farnesyl pyrophosphate is a 15-carbon precursor that combines with another molecule to form squalene.",
+        "D": "Cholesterol forms after several modifications of lanosterol, rather than directly from squalene cyclisation.",
+        "E": "Geranyl pyrophosphate is a ten-carbon intermediate used to make farnesyl pyrophosphate before squalene formation."
       }
     },
     {
@@ -1246,15 +1246,15 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "These are branch products of the pathway.",
+      "why": "Farnesyl pyrophosphate supplies the hydroxyethylfarnesyl side chain of haem O, which is subsequently oxidised to haem A. Haem A is a prosthetic group of mitochondrial cytochrome c oxidase.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "A product of cholesterol.",
-        "B": "A product of cholesterol.",
-        "D": "Made from cholesterol.",
-        "E": "Not from this pathway."
+        "A": "Bile acids form by hydroxylation and modification of cholesterol rather than as a separate farnesyl pyrophosphate branch.",
+        "B": "Steroid hormones arise from cholesterol through pregnenolone formation and subsequent tissue-specific enzymatic reactions.",
+        "D": "Vitamin D3 originates from 7-dehydrocholesterol by ultraviolet irradiation rather than direct utilisation of farnesyl pyrophosphate.",
+        "E": "Sphingosine derives from the condensation of serine with palmitoyl-CoA, followed by reduction and desaturation."
       }
     },
     {
@@ -1284,15 +1284,15 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Acyl-CoA:cholesterol acyltransferase.",
+      "why": "Acyl-CoA:cholesterol acyltransferase, also called sterol O-acyltransferase, transfers a fatty acyl group from acyl-CoA to free cholesterol in the endoplasmic reticulum. The resulting cholesteryl esters can accumulate in lipid droplets.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "Esterifies cholesterol in plasma, not the cell interior as taught here.",
-        "B": "A synthesis enzyme.",
-        "C": "Starts bile-acid synthesis.",
-        "E": "Hydrolyses triglyceride."
+        "A": "Lecithin:cholesterol acyltransferase esterifies cholesterol on circulating lipoproteins, especially HDL, using phosphatidylcholine as the acyl donor.",
+        "B": "HMG-CoA reductase produces mevalonate during cholesterol synthesis rather than esterifying existing intracellular cholesterol for storage.",
+        "C": "Cholesterol 7α-hydroxylase initiates the classical bile acid pathway by hydroxylating cholesterol rather than storing it.",
+        "E": "Lipoprotein lipase hydrolyses triacylglycerols in circulating chylomicrons and VLDL, rather than esterifying intracellular cholesterol."
       }
     },
     {
@@ -1322,15 +1322,15 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "HDL carries cholesterol back from tissues.",
+      "why": "LDL receptors recognise apolipoprotein B-100 on LDL and internalise the particle by receptor-mediated endocytosis. Lysosomal hydrolysis of LDL cholesteryl esters releases free cholesterol for cellular use.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "Moves cholesterol away from tissues.",
-        "B": "An intracellular reaction.",
-        "C": "Not the main route.",
-        "D": "Delivers dietary fat."
+        "A": "HDL participates in reverse cholesterol transport by accepting cholesterol from peripheral cells rather than primarily delivering LDL cholesterol into them.",
+        "B": "ACAT esterifies free cholesterol already inside cells and does not transport circulating lipoproteins across cell membranes.",
+        "C": "Free cholesterol can exchange between membranes and lipoproteins, but passive diffusion does not account for the principal regulated uptake of LDL.",
+        "D": "Chylomicron remnants deliver dietary cholesterol mainly to the liver, rather than providing the principal route of LDL cholesterol uptake."
       }
     },
     {
@@ -1360,15 +1360,15 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Four distinct mechanisms in all.",
+      "why": "Sterols accelerate HMG-CoA reductase ubiquitination and proteasomal degradation through its endoplasmic reticulum membrane domain. Changing enzyme abundance complements transcriptional regulation and reversible phosphorylation in controlling cholesterol synthesis.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "B": "That controls acetyl-CoA carboxylase.",
-        "C": "Not a mechanism here.",
-        "D": "Not as taught.",
-        "E": "Not as taught."
+        "B": "Citrate activates acetyl-CoA carboxylase in fatty acid synthesis; it is not the characteristic allosteric regulator of HMG-CoA reductase.",
+        "C": "Covalently attached biotin transfers activated carbon dioxide in carboxylases; HMG-CoA reductase instead uses NADPH for reduction.",
+        "D": "Substrate channelling transfers intermediates between active sites but is not an established major regulatory mechanism of HMG-CoA reductase.",
+        "E": "Zymogen activation requires conversion of an inactive enzyme precursor; HMG-CoA reductase is regulated without proteolytic activation."
       }
     },
     {
@@ -1398,15 +1398,15 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Phosphorylation decreases its activity.",
+      "why": "HMG-CoA reductase is active in its dephosphorylated state. AMP-activated protein kinase phosphorylates and inhibits it during energy stress, reducing the ATP- and NADPH-demanding synthesis of cholesterol.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "Less active.",
-        "C": "Marked for degradation.",
-        "D": "Feedback-inhibited.",
-        "E": "Not as taught."
+        "A": "Phosphorylation by AMP-activated protein kinase suppresses HMG-CoA reductase catalytic activity rather than stimulating mevalonate formation.",
+        "C": "Ubiquitination targets the enzyme for proteasomal degradation, lowering its abundance instead of activating its catalytic site.",
+        "D": "Sterol accumulation promotes feedback regulation and enzyme degradation, rather than serving as an activating signal for cholesterol synthesis.",
+        "E": "Glycosylation is not the established reversible regulatory switch that determines HMG-CoA reductase activity in this pathway."
       }
     },
     {
@@ -1436,15 +1436,15 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Formerly called HMGR kinase.",
+      "why": "AMP-activated protein kinase responds to cellular energy stress and phosphorylates HMG-CoA reductase, decreasing its catalytic activity. This conserves energy by limiting cholesterol biosynthesis when ATP availability is low.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "Not the named kinase.",
-        "B": "Not as taught.",
-        "D": "Not as taught.",
-        "E": "Not as taught."
+        "A": "Protein kinase A mediates many cyclic AMP-dependent hormonal responses, but AMPK directly phosphorylates the established inhibitory regulatory site.",
+        "B": "Protein kinase C participates in diacylglycerol-dependent signalling and is not the principal direct energy-sensing kinase for HMG-CoA reductase.",
+        "D": "Cyclin-dependent kinases control cell-cycle progression rather than mediating the canonical energy-dependent inhibition of HMG-CoA reductase.",
+        "E": "Casein kinases phosphorylate numerous cellular proteins, but the established inhibitory phosphorylation of HMG-CoA reductase is mediated by AMPK."
       }
     },
     {
@@ -1474,15 +1474,15 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The enzyme has a sterol-sensing domain; cholesterol drives its polyubiquitination.",
+      "why": "High sterol levels promote association of HMG-CoA reductase with Insig proteins in the endoplasmic reticulum, leading to ubiquitination and proteasomal degradation. This reduces the amount of enzyme available to synthesise mevalonate.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "The opposite occurs.",
-        "B": "Not as taught.",
-        "C": "Transcription falls.",
-        "E": "Not as taught."
+        "A": "Increased sterol availability reduces the need for endogenous cholesterol synthesis and does not stimulate production of HMG-CoA reductase.",
+        "B": "Phosphatase-mediated dephosphorylation would activate the reductase, whereas excess sterols principally promote negative feedback and degradation.",
+        "C": "High sterol levels retain the SREBP–SCAP complex in the endoplasmic reticulum, suppressing transcription of cholesterol synthesis genes.",
+        "E": "Sterol feedback lowers reductase abundance through reduced expression and accelerated degradation rather than increasing its translation."
       }
     },
     {
@@ -1512,15 +1512,15 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Glucagon and epinephrine act oppositely.",
+      "why": "Insulin favours the active, dephosphorylated form of HMG-CoA reductase in the fed state. This supports cholesterol synthesis when nutrients and energy are available, alongside longer-term regulation of enzyme expression.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "Would decrease activity.",
-        "B": "Marks for degradation.",
-        "C": "Lowers activity.",
-        "D": "Not as taught."
+        "A": "Phosphorylation of HMG-CoA reductase by AMPK inhibits its catalytic activity rather than promoting cholesterol synthesis after feeding.",
+        "B": "Ubiquitination targets HMG-CoA reductase for degradation, reducing the enzyme pool rather than mediating its acute activation.",
+        "C": "Accelerated proteasomal degradation reduces the amount of active reductase and therefore opposes increased cholesterol biosynthesis.",
+        "D": "HMG-CoA reductase is an endoplasmic reticulum membrane enzyme; nuclear export is not its established acute activation mechanism."
       }
     },
     {
@@ -1550,15 +1550,15 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "It forms 7-hydroxycholesterol using NADPH and O₂.",
+      "why": "Cholesterol 7α-hydroxylase (CYP7A1) catalyses the first and rate-limiting step of the classical hepatic bile acid pathway, introducing a 7α-hydroxyl group using oxygen and NADPH.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "B": "Rate-limiting for cholesterol synthesis.",
-        "C": "Esterifies cholesterol.",
-        "D": "A steroidogenesis enzyme.",
-        "E": "A cholesterol-synthesis step."
+        "B": "HMG-CoA reductase produces mevalonate and controls cholesterol synthesis rather than initiating conversion of cholesterol to bile acids.",
+        "C": "ACAT transfers fatty acyl groups to cholesterol for intracellular storage rather than hydroxylating it for bile acid synthesis.",
+        "D": "3β-hydroxysteroid dehydrogenase participates in steroid metabolism, but it does not catalyse the initial 7α-hydroxylation of cholesterol.",
+        "E": "Squalene epoxidase produces oxidosqualene during sterol biosynthesis, upstream of cholesterol formation rather than initiating bile acid synthesis."
       }
     },
     {
@@ -1588,15 +1588,15 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Secondary bile acids are made by gut bacteria.",
+      "why": "Hepatocytes synthesise cholic acid and chenodeoxycholic acid from cholesterol. These primary bile acids differ in hydroxylation pattern and can subsequently undergo bacterial modification in the intestine.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "A secondary bile acid.",
-        "C": "A secondary bile acid.",
-        "D": "A conjugated form.",
-        "E": "A conjugated form."
+        "A": "Deoxycholic acid is a secondary bile acid formed by bacterial removal of the 7α-hydroxyl group from cholic acid.",
+        "C": "Lithocholic acid is a secondary bile acid produced by bacterial 7α-dehydroxylation of chenodeoxycholic acid.",
+        "D": "Taurochenodeoxycholic acid is the taurine conjugate of chenodeoxycholic acid rather than a distinct unconjugated primary bile acid.",
+        "E": "Glycocholic acid is cholic acid conjugated with glycine, rather than the other unconjugated primary bile acid."
       }
     },
     {
@@ -1626,15 +1626,15 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "They are made from the primary bile acids in the gut.",
+      "why": "Intestinal bacteria convert primary bile acids to secondary bile acids through 7α-dehydroxylation: cholic acid yields deoxycholic acid, whereas chenodeoxycholic acid yields lithocholic acid.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "Make the primary bile acids.",
-        "B": "Stores bile.",
-        "D": "Not as taught.",
-        "E": "Not involved."
+        "A": "Hepatocytes synthesise the primary bile acids from cholesterol and can reconjugate absorbed secondary bile acids, but bacterial modification generates them.",
+        "B": "Gallbladder epithelium concentrates stored bile by absorbing water and electrolytes rather than producing secondary bile acids.",
+        "D": "Pancreatic enzymes hydrolyse dietary macromolecules, whereas bacterial bile acid enzymes carry out the required dehydroxylation.",
+        "E": "Renal tubular cells regulate urinary solute handling and are not the intestinal site of secondary bile acid formation."
       }
     },
     {
@@ -1664,15 +1664,15 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Giving glycocholic and taurocholic acids.",
+      "why": "Hepatic bile acid-CoA:amino acid N-acyltransferase links activated bile acids to glycine or taurine. Conjugation lowers their effective pKa and promotes ionisation and detergent activity at intestinal pH.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "Not the conjugate here.",
-        "B": "Not the conjugate here.",
-        "C": "Not as taught.",
-        "E": "Not as taught."
+        "A": "Glucuronidation can facilitate elimination of certain bile acids and other compounds, but is not the main physiological amidation with glycine or taurine.",
+        "B": "Sulphation provides an alternative detoxification route for some bile acids rather than forming the usual conjugated bile salts.",
+        "C": "Glutamate participates in amino acid metabolism and is not one of the two principal amino-containing bile acid conjugation substrates.",
+        "E": "Cysteine is a metabolic precursor of taurine, but taurine itself is the usual conjugation substrate in bile acid amidation."
       }
     },
     {
@@ -1702,15 +1702,15 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "This is one of four physiological roles of bile acids.",
+      "why": "Net elimination of cholesterol occurs mainly through faecal loss of biliary sterols and bile acids, including cholesterol converted to bile acids in the liver. Enterohepatic recycling recovers most bile acids, so only the fraction lost in faeces represents net disposal.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "Not a significant route.",
-        "B": "Uses only a small amount.",
-        "C": "Not a route.",
-        "D": "Storage, not elimination."
+        "A": "Free cholesterol is poorly water-soluble and is not normally excreted in urine in quantities sufficient for cholesterol homeostasis.",
+        "B": "Steroid hormone production consumes cholesterol but uses only a small fraction compared with biliary and faecal sterol elimination.",
+        "C": "Humans cannot completely degrade the cholesterol steroid nucleus to carbon dioxide as a major disposal pathway.",
+        "D": "Adipose deposition retains cholesterol within the body rather than removing it through an excretory route."
       }
     },
     {
@@ -1740,15 +1740,15 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "They render fats accessible to pancreatic lipase.",
+      "why": "Bile acids are amphipathic detergents that stabilise small lipid droplets and facilitate mixed micelle formation. Emulsification increases the lipid–water interface available to pancreatic lipase, while micelles assist absorption of digestion products.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "B": "They assist enzymes, they are not enzymes.",
-        "C": "Not their role.",
-        "D": "Not their role.",
-        "E": "They form micelles."
+        "B": "Pancreatic lipase catalyses triacylglycerol hydrolysis, whereas bile acids facilitate access to substrate without acting as hydrolytic enzymes.",
+        "C": "Proton pumps transport hydrogen ions across membranes; bile acids disperse lipids through their amphipathic molecular structure.",
+        "D": "Transport proteins bind or carry substrates, whereas bile acids are small amphipathic molecules acting as biological detergents.",
+        "E": "Bile acids promote formation of mixed micelles containing lipids and fat-soluble vitamins rather than preventing their assembly."
       }
     },
     {
@@ -1778,15 +1778,15 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "They also aid absorption of fat-soluble vitamins.",
+      "why": "Amphipathic bile salts and phosphatidylcholine form mixed micelles and other lipid aggregates that keep poorly water-soluble cholesterol dispersed in bile. Cholesterol supersaturation relative to these components favours cholesterol gallstone formation.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "Not possible.",
-        "C": "Not as taught.",
-        "D": "Occurs in cells, not bile here.",
-        "E": "The opposite of what is wanted."
+        "A": "Conversion to carbon dioxide is not the physiological mechanism for keeping cholesterol soluble within stored gallbladder bile.",
+        "C": "Cholesterol solubility depends on biliary lipid composition rather than active transfer of the stored cholesterol into blood.",
+        "D": "Intracellular cholesterol esterification facilitates lipid storage, but biliary cholesterol is maintained in solution mainly by bile salts and phospholipids.",
+        "E": "Crystallisation removes cholesterol from solution and can initiate gallstone formation, the opposite of biliary solubilisation."
       }
     },
     {
@@ -1816,15 +1816,15 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Its R group is a hydrogen, so the molecule is not optically active.",
+      "why": "Glycine has hydrogen as its side chain, so its α-carbon is bonded to two identical hydrogen atoms. It therefore lacks the four different substituents required for chirality at that carbon.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "easy",
       "notes": {
-        "B": "Has a methyl side chain.",
-        "C": "Has a secondary amino group.",
-        "D": "Has a thiol side chain.",
-        "E": "Has a hydroxymethyl side chain."
+        "B": "Alanine has a methyl side chain distinct from hydrogen, giving its α-carbon four different substituents.",
+        "C": "Proline has a cyclic side chain attached to nitrogen, but its α-carbon still has four distinct substituents.",
+        "D": "Cysteine has a thiol-containing side chain distinct from hydrogen, so its α-carbon is stereogenic.",
+        "E": "Serine has a hydroxymethyl side chain distinct from hydrogen and therefore possesses a chiral α-carbon."
       }
     },
     {
@@ -1854,15 +1854,15 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "It carries both a positive and a negative charge.",
+      "why": "At physiological pH, the α-carboxyl group of a typical free amino acid is predominantly deprotonated and the α-amino group protonated. This produces a zwitterionic structure, with net charge also depending on ionisable side chains.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "easy",
       "notes": {
-        "A": "Favoured at low pH.",
-        "C": "Favoured at high pH.",
-        "D": "Not at pH 7.",
-        "E": "Not a charge state."
+        "A": "A net cationic form is favoured at low pH for amino acids without an additional ionisable side chain.",
+        "C": "An anionic form predominates at sufficiently alkaline pH for a typical amino acid when the α-amino group loses its proton.",
+        "D": "The unionised form with both α-carboxyl and α-amino groups uncharged is not the predominant aqueous species near physiological pH.",
+        "E": "A free radical contains an unpaired electron, whereas zwitterion formation reflects acid–base proton transfer without creating a radical."
       }
     },
     {
@@ -1892,15 +1892,15 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The carboxyl is the stronger acid.",
+      "why": "The α-carboxyl group typically has a pKa near 2 and readily loses a proton; the protonated α-amino group has a pKa near 9–10. Exact values vary with the amino acid and its molecular environment.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "medium",
       "notes": {
-        "A": "Not as taught.",
-        "B": "Not as taught.",
-        "D": "Not as taught.",
-        "E": "Not as taught."
+        "A": "A pKa near 4 is more characteristic of acidic side-chain carboxyl groups than the usual α-carboxyl group; the α-amino group is closer to 9–10.",
+        "B": "A pKa near 6 resembles the histidine imidazole side chain rather than the more acidic α-carboxyl group.",
+        "D": "A pKa of 7 is substantially above the usual α-carboxyl pKa, and 11 is higher than most free α-amino group values.",
+        "E": "A pKa near 5 is too low for the protonated α-amino group, which generally deprotonates near pH 9–10."
       }
     },
     {
