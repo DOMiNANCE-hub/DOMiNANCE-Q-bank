@@ -313,5 +313,221 @@
       "D": "Clearance can vary with plasma concentration for multiple reasons, including saturation. That pattern alone does not establish an active mechanism.",
       "E": "Total osmolality describes the collective concentration of dissolved particles. It does not identify the driving force for the particular solute."
     }
+  },
+  "phy-renal-369": {
+    "why": "In the proximal tubule, water is reabsorbed more rapidly than urea, even though some urea is also reabsorbed. Removing a larger fraction of water raises the concentration of urea in the fluid remaining relative to the original glomerular filtrate.",
+    "notes": {
+      "B": "Proximal bicarbonate reabsorption lowers tubular pH, but the ability to produce very acid urine depends principally on the distal nephron.",
+      "C": "Glucose is reabsorbed avidly in the proximal tubule. In normal conditions its filtered concentration falls markedly along this segment.",
+      "D": "Proximal water reabsorption largely follows solute. The tubular fluid is approximately iso-osmotic with plasma.",
+      "E": "The proximal tubule reclaims most filtered bicarbonate. The remaining luminal bicarbonate concentration is generally lower than at filtration."
+    }
+  },
+  "phy-renal-371": {
+    "why": "Vasopressin increases water permeability of the collecting duct. As tubular fluid passes through the hypertonic renal medulla, water leaves and the osmolality of the remaining fluid rises.",
+    "notes": {
+      "A": "The tip of a long loop of Henle lies in hypertonic medulla. Its fluid is ordinarily more concentrated than plasma during antidiuresis.",
+      "B": "Bowman’s space contains filtrate close to plasma osmolality. Fluid arriving at the early distal tubule is usually more dilute after salt reabsorption without water.",
+      "D": "The proximal tubule reabsorbs solute and water together. Its tubular fluid does not show a large progressive rise in osmolality.",
+      "E": "Proximal fluid is approximately iso-osmotic with plasma, even though individual solutes change concentration."
+    }
+  },
+  "phy-renal-376": {
+    "why": "Urea in the tubular lumen acts as an osmole. When an increase in plasma urea leads to a high filtered and excreted urea load, some water remains in the lumen and urine output can rise through osmotic diuresis.",
+    "notes": {
+      "A": "The normal molar ranges for urea and glucose overlap. Their measured concentrations depend on feeding, protein turnover and kidney handling.",
+      "B": "Urea is reabsorbed in parts of the nephron. Its clearance is usually below that of creatinine.",
+      "C": "Urea recycling is largely mediated by passive urea transporters. Movement into selected thin limbs is not generally described as active secretion.",
+      "D": "A high-protein meal can increase urea production, but a tenfold rise in blood urea is not the usual response."
+    }
+  },
+  "phy-renal-382": {
+    "why": "Central diabetes insipidus reduces vasopressin delivery to the collecting ducts. Less aquaporin-2 is inserted, so less water is reabsorbed and a large volume of dilute, low-osmolality urine is produced.",
+    "notes": {
+      "B": "Proximal water reabsorption largely follows solute. The principal variable vasopressin-sensitive step is farther downstream.",
+      "C": "Unreplaced free-water loss can raise extracellular osmolality and pull water out of cells. Both fluid compartments may contract.",
+      "D": "Extracellular fluid osmolality can rise if free-water loss is not matched by intake, sometimes producing hypernatraemia.",
+      "E": "Cells lose water when the surrounding fluid becomes hypertonic. Their solutes become more concentrated rather than diluted."
+    }
+  },
+  "phy-renal-386": {
+    "why": "Interfering with proximal sodium reabsorption leaves more sodium and accompanying anions in the tubular lumen. This limits water reabsorption and tends to increase downstream delivery and urine flow, although distal segments can partly compensate.",
+    "notes": {
+      "B": "The effect on plasma osmolality depends on relative water and electrolyte losses and subsequent intake. Increased tubular flow is the more direct effect.",
+      "C": "Reduced sodium transport usually also reduces some proximal chloride reabsorption. It does not directly increase chloride recovery there.",
+      "D": "If sodium and water losses persist, extracellular fluid volume tends to fall, including the interstitial compartment.",
+      "E": "Plasma volume generally falls if a loss of extracellular sodium and water is sustained."
+    }
+  },
+  "phy-renal-393": {
+    "why": "Proximal tubular cells use several amino acid transport systems with different affinities for neutral, acidic, basic and other groups of amino acids. Substrates with similar structures may share and compete for the same carrier.",
+    "notes": {
+      "A": "Amino acids are individual solutes, not folded proteins that need transporters to avoid denaturation.",
+      "B": "Amino acids can compete for shared transporters. Competition and selectivity help explain why several systems are used.",
+      "C": "There are twenty standard protein-forming amino acids, and specialised transporter systems handle groups with similar properties.",
+      "E": "Glucose has separate sodium-linked transporters. This does not explain the variety of amino acid carriers."
+    }
+  },
+  "phy-renal-394": {
+    "why": "Sodium and glucose enter the proximal tubular cell from the lumen in the same direction through SGLT proteins. The basolateral sodium pump creates the sodium gradient that powers this secondary active symport.",
+    "notes": {
+      "A": "Facilitated diffusion moves a solute down its gradient without energetic coupling. SGLT can move glucose uphill by coupling it to sodium entry.",
+      "B": "The sodium gradient provides usable energy for uphill glucose uptake. This is conventionally classified as secondary active transport.",
+      "C": "The apical cotransporter uses the sodium gradient without hydrolysing ATP. Direct ATP use occurs at the basolateral sodium pump.",
+      "D": "Antiport moves the coupled solutes in opposite directions. Sodium and glucose move together from lumen into cell."
+    }
+  },
+  "phy-renal-412": {
+    "why": "The characteristic renal action of vasopressin is to increase water reabsorption in the late distal nephron and collecting ducts through V2 receptors and aquaporin-2. Increased tubular potassium reabsorption is not its defining action.",
+    "notes": {
+      "A": "The posterior pituitary releases vasopressin into blood after the hormone travels there from hypothalamic neurons.",
+      "B": "Hypothalamic osmoreceptors respond to plasma tonicity. Reduced effective circulating volume can also stimulate vasopressin release.",
+      "D": "Vasopressin increases apical aquaporin-2 in principal cells, raising water permeability in the late distal nephron and collecting system.",
+      "E": "Vasopressin is synthesised in hypothalamic nuclei and then carried along axons to the posterior pituitary."
+    }
+  },
+  "phy-renal-422": {
+    "why": "The glucose transport maximum is the maximum rate at which both kidneys can reabsorb filtered glucose once transporters are saturated. The usual teaching estimate is about 300–375 milligrams per minute, with variation among individuals.",
+    "notes": {
+      "A": "A value of about 125 millilitres per minute describes GFR. A glucose transport maximum is measured as mass per time.",
+      "C": "Millimoles per litre are units of glucose concentration. The transport maximum represents mass of glucose reabsorbed per time.",
+      "D": "A plasma concentration of this order is closer to a threshold for glucosuria. The transport maximum describes the total mass reabsorbed per minute.",
+      "E": "The range expressed in milligrams per minute has the correct units and is near the conventional maximum reabsorptive rate."
+    }
+  },
+  "phy-renal-425": {
+    "why": "Under strong vasopressin stimulation, human kidneys can produce urine near 1,200 milliosmoles per kilogram of water. Collecting-duct water reabsorption and the medullary osmotic gradient allow the final urine to concentrate. The option uses the approximate litre-based equivalent.",
+    "notes": {
+      "A": "An osmolality near 100 milliosmoles per kilogram describes dilute urine with little vasopressin effect.",
+      "B": "A value near 120 milliosmoles per kilogram is also below plasma osmolality and represents dilute rather than concentrated urine.",
+      "C": "About 295 milliosmoles per kilogram is close to plasma osmolality. Concentrated urine can reach several times this value.",
+      "D": "The numerical range near 7.4 is familiar as blood pH. It is not a measurement of urine concentration."
+    }
+  },
+  "phy-renal-429": {
+    "why": "Vasopressin regulates the facultative portion of water reabsorption in the late distal nephron and collecting ducts. A value around 15 percent of the original filtered water is a rough teaching estimate of the adjustable fraction. The amount actually reabsorbed varies with vasopressin and solute handling.",
+    "notes": {
+      "A": "Much of the filtered water is recovered before the vasopressin-sensitive segments, so the hormone does not directly govern all reabsorption.",
+      "B": "A large proportion of water follows solute in relatively fixed-permeability segments. That portion is largely independent of vasopressin.",
+      "C": "More than half the filtered water is already reabsorbed in the proximal tubule. The facultative fraction farther downstream is substantially smaller.",
+      "E": "Vasopressin can make a substantial difference to collecting-duct water uptake. The adjustable fraction is therefore not zero."
+    }
+  },
+  "phy-renal-430": {
+    "why": "The proximal tubule reabsorbs almost all filtered glucose and amino acids under normal conditions. It uses glucose-specific and amino-acid-specific transport systems, many driven by the inward sodium gradient.",
+    "notes": {
+      "B": "The distal tubule principally adjusts electrolyte handling. Most filtered glucose and amino acids have already been reclaimed upstream.",
+      "C": "Collecting tubules adjust water, sodium, potassium and acid–base balance. They are not the main site of nutrient recovery.",
+      "D": "The loop of Henle helps build the medullary gradient through its segmental salt and water transport.",
+      "E": "Filtered glucose is normally recovered efficiently by proximal sodium–glucose cotransporters."
+    }
+  },
+  "phy-renal-433": {
+    "why": "When vasopressin is low, the collecting duct remains relatively impermeable to water. Sodium chloride is removed upstream without water, so urine can be diluted to roughly 50–100 milliosmoles per kilogram of water. The listed value near 100 represents dilute urine.",
+    "notes": {
+      "A": "Millilitres per minute are units of fluid flow. Dilution is assessed by measuring the concentration of solutes in urine.",
+      "C": "Around 295 milliosmoles per kilogram is close to plasma osmolality and is substantially above the attainable dilute urine range.",
+      "D": "The values 7.36–7.44 are expressed as pH. They do not describe urine osmolality.",
+      "E": "About 1,200 milliosmoles per kilogram is near maximal concentration of human urine, reached in strong antidiuresis."
+    }
+  },
+  "phy-renal-435": {
+    "why": "In the thick ascending limb, NKCC2 transports sodium, potassium and chloride from the lumen into epithelial cells. Some potassium recycles into the lumen, but the segment reabsorbs these solutes overall with very little accompanying water.",
+    "notes": {
+      "A": "Sodium is reabsorbed through apical NKCC2, driven indirectly by the basolateral sodium–potassium ATPase.",
+      "B": "Potassium enters cells via NKCC2. Some is returned to the lumen through ROMK, helping sustain cotransport and the lumen-positive voltage.",
+      "C": "Chloride enters through NKCC2 and leaves across the basolateral membrane, contributing to net salt removal from the lumen.",
+      "D": "The ascending limb is relatively impermeable to water. Removing salt without water dilutes the tubular fluid."
+    }
+  },
+  "phy-renal-436": {
+    "why": "The water-permeable thin descending limb allows water to move into the hypertonic medullary interstitium. This concentrates the descending tubular fluid. The major active recovery of sodium chloride occurs in the thick ascending limb instead.",
+    "notes": {
+      "A": "The thin descending limb is not the principal active sodium-reabsorbing segment. Net sodium chloride removal is characteristic of the ascending limb.",
+      "B": "Active chloride recovery via NKCC2 occurs in the thick ascending limb. Water removal characterises the usual descending-limb model.",
+      "C": "Most loop calcium reabsorption occurs paracellularly in the thick ascending limb, driven by the lumen-positive voltage.",
+      "D": "Potassium is handled prominently in the proximal tubule and thick ascending limb. Water movement is the distinctive descending-limb function."
+    }
+  },
+  "phy-renal-437": {
+    "why": "The thick ascending limb transports sodium, potassium and chloride through NKCC2 and is relatively impermeable to water. Net ion removal without water dilutes the filtrate and helps establish a concentrated medullary interstitium.",
+    "notes": {
+      "A": "The loop has different properties in its descending and ascending limbs. The entire loop does not share a single low water permeability.",
+      "B": "The classic distinction is that the thin descending limb is more permeable to water, whereas active salt transport is prominent in the ascending limb.",
+      "D": "The ascending limb is relatively impermeable to water and removes salt from the lumen.",
+      "E": "Water permeability is a defining property of much of the thin descending limb. Its handling of salts differs from active transport by the thick ascending limb."
+    }
+  },
+  "phy-renal-438": {
+    "why": "The loop of Henle multiplies the medullary osmotic gradient, the vasa recta limit washout by countercurrent exchange, and vasopressin increases collecting-duct water permeability. Together these mechanisms permit concentrated final urine. Medullary urea recycling also helps maintain the gradient.",
+    "notes": {
+      "A": "Salt reabsorption without water in the thick ascending limb helps build the medullary gradient used to concentrate urine.",
+      "B": "The vasa recta exchange water and solutes as blood passes through the medulla. This helps preserve the established gradient.",
+      "C": "Vasopressin increases collecting-duct aquaporin-2. Water then moves down its osmotic gradient into the interstitium.",
+      "D": "Hydrostatic and oncotic pressures affect peritubular capillary uptake. They do not substitute for the medullary gradient and regulated duct permeability."
+    }
+  },
+  "phy-renal-341": {
+    "why": "Renin is secreted by juxtaglomerular granular cells, specialised vascular smooth muscle cells located mainly in the afferent arteriole near the glomerulus. Reduced perfusion, beta-1 stimulation and low macula densa salt delivery can drive release.",
+    "notes": {
+      "A": "Macula densa cells sense distal tubular sodium chloride and signal to adjacent granular cells. The granular cells are the usual renin source.",
+      "B": "The proximal tubule performs bulk reabsorption and contributes to local renin–angiotensin pathways. Circulating renin chiefly comes from granular cells.",
+      "C": "Distal tubular cells help regulate electrolyte delivery. The specialised renin-secreting cells are in the neighbouring arteriolar wall.",
+      "E": "Peritubular capillaries collect reabsorbed fluid. Renin is released from granular cells primarily on the afferent arteriolar side."
+    }
+  },
+  "phy-renal-342": {
+    "why": "Reduced stretch of the afferent arteriolar wall stimulates granular cells to release renin. The resulting angiotensin II and aldosterone responses promote sodium and water retention, which can expand or restore plasma volume.",
+    "notes": {
+      "A": "Juxtaglomerular cells sense reduced stretch in the afferent arteriole near the glomerulus and increase renin release.",
+      "B": "Increased renal perfusion tends to suppress renin release through the arteriolar pressure-sensing mechanism.",
+      "C": "Renin cleaves angiotensinogen to form angiotensin I. Angiotensin-converting enzyme then acts on angiotensin I independently.",
+      "D": "Angiotensin II and aldosterone increase renal sodium retention, and water follows. This helps restore effective circulating volume."
+    }
+  },
+  "phy-renal-378": {
+    "why": "Aldosterone acts in the aldosterone-sensitive distal nephron to increase sodium reabsorption and promote potassium secretion. Sodium retention tends to expand extracellular and plasma volume, although compensatory mechanisms limit sustained retention.",
+    "notes": {
+      "A": "Aldosterone is a steroid of the adrenal cortex, produced in the zona glomerulosa. The adrenal medulla produces catecholamines.",
+      "B": "Renal renin is a major stimulus through angiotensin II, but extracellular potassium can directly stimulate aldosterone production in the adrenal cortex.",
+      "C": "ACE inhibition lowers angiotensin II and usually reduces its stimulus to aldosterone secretion, especially early after starting treatment.",
+      "D": "Aldosterone generally increases distal potassium secretion into urine when sodium delivery and other conditions permit."
+    }
+  },
+  "phy-renal-381": {
+    "why": "Reduced extracellular volume can decrease renal perfusion and increase sympathetic drive. Juxtaglomerular cells respond by releasing renin, which increases formation of angiotensin I and consequently angiotensin II.",
+    "notes": {
+      "A": "Renin is a renal protease in the angiotensin pathway. The historical milk-coagulating enzyme rennin is chymosin and is a different enzyme.",
+      "B": "Angiotensin I is a product of renin activity. Angiotensin II generally provides negative feedback on renin release.",
+      "D": "Renin supports formation of angiotensin II, which stimulates aldosterone release from the adrenal cortex.",
+      "E": "The main effect of renin is activation of the angiotensin pathway. Pituitary ACTH release is regulated primarily by hypothalamic and glucocorticoid feedback."
+    }
+  },
+  "phy-renal-432": {
+    "why": "Aldosterone increases sodium reabsorption in the late distal nephron and collecting ducts. The resulting electrical gradient, together with direct effects on transport proteins, generally increases potassium secretion rather than potassium recovery.",
+    "notes": {
+      "A": "Aldosterone is secreted by the adrenal cortex, specifically by its outer zona glomerulosa.",
+      "B": "The aldosterone-sensitive distal nephron comprises late distal segments and the collecting system.",
+      "C": "Aldosterone increases epithelial sodium channel activity and basolateral sodium pump activity in principal cells, promoting sodium reabsorption.",
+      "E": "Angiotensin II stimulates aldosterone production when effective volume is low. Elevated plasma potassium also stimulates it directly."
+    }
+  },
+  "phy-renal-439": {
+    "why": "Increased renal sympathetic activity activates beta-1 receptors on juxtaglomerular granular cells and promotes renin release. This supports the renin–angiotensin response during states such as decreased effective circulating volume.",
+    "notes": {
+      "A": "Sympathetic beta-1 stimulation is the relevant direct neural trigger. Increased parasympathetic tone is not the usual renin signal.",
+      "C": "Expansion of extracellular volume usually suppresses renin by increasing perfusion and reducing the need for sodium retention.",
+      "D": "Decreased adrenaline does not provide the usual beta-adrenergic stimulus. Renal sympathetic nerves mainly release noradrenaline locally.",
+      "E": "Increased sodium chloride delivery to the macula densa generally suppresses renin. Reduced delivery stimulates it."
+    }
+  },
+  "phy-renal-440": {
+    "why": "Atrial natriuretic peptide is released with atrial stretch. It promotes urinary sodium and water excretion by altering renal haemodynamics and tubular sodium handling and by restraining renin and aldosterone. It can also relax vascular smooth muscle.",
+    "notes": {
+      "A": "The principal renal response is natriuresis, with water following the excreted sodium. Increased reabsorption is the opposite effect.",
+      "B": "Atrial natriuretic peptide increases sodium excretion and can increase water output, helping relieve atrial stretch.",
+      "C": "Atrial natriuretic peptide can relax systemic vascular smooth muscle through cyclic GMP. Individual renal vascular segments can respond differently.",
+      "E": "This group includes increased sodium and water reabsorption, which conflicts with the principal natriuretic action."
+    }
   }
 }
