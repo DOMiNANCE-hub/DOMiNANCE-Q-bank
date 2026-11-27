@@ -40,13 +40,13 @@
         "E": "T"
       },
       "notes": {
-        "A": "The endocardial endothelium is simple squamous.",
-        "B": "Purkinje fibres run in the subendocardial layer.",
-        "C": "Myocardial cells wind spirally around the chambers.",
-        "D": "The epicardium is the visceral layer of serous pericardium; the parietal layer lines the fibrous pericardium.",
-        "E": "Coronary vessels and fat lie in the subepicardial connective tissue."
+        "A": "Endothelium is a simple squamous lining that provides a smooth interface with blood in cardiac chambers.",
+        "B": "Large glycogen-rich Purkinje cells conduct impulses rapidly through connective tissue beneath ventricular endocardium.",
+        "C": "Helical myocardial fibre organisation helps coordinate ventricular shortening, wall thickening and twisting during contraction.",
+        "D": "Epicardium is the visceral serous pericardium; parietal serous pericardium lines the fibrous pericardial sac.",
+        "E": "Coronary arteries, veins and variable adipose deposits occupy connective tissue beneath the epicardial mesothelium."
       },
-      "why": "The heart wall is endocardium (endothelium, with Purkinje fibres beneath), myocardium and epicardium, the visceral layer of serous pericardium that carries the coronary vessels in fat."
+      "why": "The endocardium lines cardiac chambers, myocardium generates contractile force, and epicardium covers the external surface. Subendocardial conduction fibres and subepicardial coronary vessels occupy distinct connective-tissue compartments."
     },
     {
       "id": "dq-m-mc2",
@@ -85,13 +85,13 @@
         "E": "F"
       },
       "notes": {
-        "A": "Tricuspid.",
-        "B": "Both semilunar valves have three cusps.",
-        "C": "The SA node lies in the right atrial wall near the SVC opening.",
-        "D": "The bundle of His runs from the AV node into the interventricular septum.",
-        "E": "Purkinje fibres are large, pale, glycogen-rich modified cardiac muscle cells."
+        "A": "The right atrioventricular valve normally comprises anterior, posterior and septal leaflets attached to the fibrous skeleton.",
+        "B": "Each semilunar valve normally has three cusps; a bicuspid aortic valve is a congenital variant.",
+        "C": "The sinoatrial node occupies the right atrial region close to the superior vena caval junction.",
+        "D": "The atrioventricular bundle penetrates the fibrous skeleton and divides into branches within the interventricular septal region.",
+        "E": "Purkinje cells are enlarged specialised cardiomyocytes with glycogen-rich cytoplasm and relatively few peripheral contractile myofibrils."
       },
-      "why": "Both semilunar valves and the tricuspid valve have three cusps, and impulses spread SA node → AV node → bundle of His → large, pale Purkinje fibres."
+      "why": "Heart valves direct flow passively according to pressure differences, whereas specialised cardiomyocytes generate and conduct electrical impulses. Purkinje cells are conspicuously large and pale because of abundant glycogen and relatively sparse myofibrils."
     },
     {
       "id": "dq-m-mc3",
@@ -123,12 +123,12 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The heartbeat starts in the SA node; sympathetic (upper thoracic) and vagal fibres only change the rate.",
+      "why": "Sinoatrial pacemaker cells generate spontaneous depolarisations independently of extrinsic nerves. Sympathetic and parasympathetic inputs modify pacemaker rate and conduction, while sympathetic activity also influences myocardial contractility.",
       "notes": {
-        "B": "The SA node initiates the beat.",
-        "C": "Sympathetic fibres come from UPPER thoracic segments.",
-        "D": "Vagal (parasympathetic) fibres are present.",
-        "E": "Both supply the nodal tissue."
+        "B": "Vagal activity slows sinoatrial firing and atrioventricular conduction; it does not normally initiate each heartbeat.",
+        "C": "Cardiac sympathetic preganglionic neurons arise mainly from upper thoracic spinal segments and relay through sympathetic ganglia.",
+        "D": "Parasympathetic fibres reach the heart through vagal branches alongside sympathetic fibres in the cardiac plexus.",
+        "E": "Both autonomic divisions innervate nodal tissue and atrial myocardium, allowing modulation of rhythm and conduction."
       }
     },
     {
@@ -168,13 +168,13 @@
         "E": "F"
       },
       "notes": {
-        "A": "Most named arteries (e.g. radial, femoral) are muscular arteries.",
-        "B": "They have more smooth muscle and less elastin than elastic arteries.",
-        "C": "A prominent, wavy internal elastic lamina is typical.",
-        "D": "In the larger ones.",
-        "E": "Their adventitia contains vasa vasorum."
+        "A": "Many named peripheral distributing arteries, including radial and femoral arteries, belong to the muscular category.",
+        "B": "Their media contains proportionally more smooth muscle and fewer elastic lamellae than elastic conducting arteries.",
+        "C": "The internal elastic lamina typically appears as a distinct wavy sheet bordering the innermost medial smooth muscle.",
+        "D": "Larger muscular arteries may have an external elastic lamina separating the media from surrounding adventitia.",
+        "E": "Walls of sufficiently large muscular arteries receive adventitial and outer medial nourishment from vasa vasorum."
       },
-      "why": "Muscular arteries have a media mainly of smooth muscle between a prominent internal elastic lamina and, in larger ones, an external elastic lamina."
+      "why": "Muscular arteries distribute blood through a predominantly smooth-muscle tunica media, permitting adjustment of vessel calibre. A prominent internal elastic lamina separates intima from media, and larger examples may possess an external elastic lamina."
     },
     {
       "id": "dq-m-mc6",
@@ -206,12 +206,12 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Thick concentric fenestrated elastic membranes fill the media of elastic arteries.",
+      "why": "Elastic arteries contain numerous concentric fenestrated elastic lamellae throughout their tunica media. These sheets stretch during systole and recoil during diastole, helping maintain blood flow between ventricular ejections.",
       "notes": {
-        "A": "Mainly smooth muscle.",
-        "C": "Only 1–2 smooth muscle layers.",
-        "D": "Thin media with collagen.",
-        "E": "Incomplete smooth muscle rings."
+        "A": "Muscular arteries have predominantly smooth-muscle media bounded by distinct elastic laminae rather than numerous medial elastic sheets.",
+        "C": "Arterioles possess only a few smooth-muscle layers and lack the repeated medial elastic lamellae characteristic of the aorta.",
+        "D": "Medium veins have relatively thin smooth-muscle media with connective tissue rather than numerous concentric elastic lamellae.",
+        "E": "Metarterioles in classical microvascular models have discontinuous smooth-muscle coverage, not thick repeated elastic sheets."
       }
     },
     {
@@ -244,12 +244,12 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Arterioles (10–100 µm) have up to two muscle layers and a lumen about equal to wall thickness.",
+      "why": "Arterioles typically have one or two circumferential smooth-muscle layers surrounding a narrow endothelial lumen. Their high wall-to-lumen ratio and ability to change calibre support regulation of resistance and local capillary perfusion.",
       "notes": {
-        "A": "Up to eight muscle layers.",
-        "B": "Incomplete muscle rings, about 8 µm.",
-        "D": "No smooth muscle, only pericytes.",
-        "E": "Scattered muscle, thin wall, wide lumen."
+        "A": "Small arteries generally possess several concentric smooth-muscle layers rather than the one or two specified in this section.",
+        "B": "Classical metarterioles have discontinuous smooth-muscle coverage instead of the continuous circumferential coat typical of arterioles.",
+        "D": "Capillaries consist chiefly of endothelium and basal lamina, with possible pericytes rather than a continuous muscular coat.",
+        "E": "Postcapillary venules have thin endothelial walls with pericytes and relatively wide lumina, rather than concentric smooth-muscle layers."
       }
     },
     {
@@ -282,12 +282,12 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Continuous, fenestrated and sinusoidal types differ in endothelium and basal lamina.",
+      "why": "Capillary classification depends chiefly on endothelial continuity, fenestrations and basal lamina organisation. Continuous, fenestrated and discontinuous capillaries have different permeability properties suited to the exchange requirements of their tissues.",
       "notes": {
-        "A": "All are similar in size.",
-        "B": "Pericytes vary but do not define the types.",
-        "C": "Location follows the type, not the reverse.",
-        "E": "Capillaries have no adventitia."
+        "A": "Diameter and length vary with tissue and preparation, but endothelial architecture provides the principal histological classification.",
+        "B": "Pericyte coverage varies between microvascular beds but does not define the three conventional endothelial capillary categories.",
+        "C": "Organ distribution helps predict capillary type, but structural classification depends on the endothelial and basal lamina characteristics.",
+        "E": "Capillaries lack the separate thick adventitial coat of larger vessels, so adventitial thickness cannot distinguish these categories."
       }
     },
     {
@@ -396,12 +396,12 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The adventitia, with collagen, elastic fibres and longitudinal smooth muscle, is thickest.",
+      "why": "Large veins such as the vena cava have a relatively thin tunica media and a prominent adventitia containing collagen and longitudinal smooth-muscle bundles. This outer coat provides mechanical support to a large, compliant lumen.",
       "notes": {
-        "A": "Thin endothelium and connective tissue.",
-        "C": "Relatively thin in large veins.",
-        "D": "Poorly developed in veins.",
-        "E": "Part of the thin intima."
+        "A": "The intima forms the endothelial and subendothelial lining but is considerably thinner than the prominent outer coat.",
+        "C": "Large veins possess relatively little circumferential medial muscle compared with the longitudinal bundles in their thick adventitia.",
+        "D": "An internal elastic lamina is generally inconspicuous in large veins and does not constitute their thickest wall layer.",
+        "E": "Subendothelial connective tissue belongs to the intima and does not provide the extensive longitudinal muscular outer coat."
       }
     },
     {
@@ -476,12 +476,12 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Coronary atherosclerosis that limits myocardial oxygen supply produces ischaemic heart disease (angina and myocardial infarction).",
+      "why": "Coronary atherosclerotic plaques can restrict coronary blood flow or precipitate thrombosis, reducing oxygen delivery relative to myocardial demand. This produces ischaemic heart disease, including angina or myocardial infarction depending on severity and duration.",
       "notes": {
-        "A": "Cerebral venous problem.",
-        "B": "Venous disease of the lower limb.",
-        "D": "Lymphatic obstruction.",
-        "E": "Lung vascular disease."
+        "A": "Dural sinus thrombosis obstructs cerebral venous drainage rather than directly restricting arterial oxygen delivery to cardiac muscle.",
+        "B": "Varicose veins arise from abnormalities of superficial venous walls and valves, rather than atherosclerotic narrowing of coronary arteries.",
+        "D": "Lymphoedema results from impaired lymphatic drainage and interstitial fluid accumulation, rather than coronary arterial insufficiency.",
+        "E": "Pulmonary hypertension affects pressure within the pulmonary circulation, whereas coronary atherosclerosis primarily compromises blood supply to myocardium."
       }
     },
     {
@@ -514,12 +514,12 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "From the comparison table: small arteries (0.1–1 mm).",
+      "why": "Small arteries commonly have several circumferential smooth-muscle layers, more than typical arterioles, but relatively thin walls nourished by diffusion. They regulate distribution and resistance before blood enters the arteriolar microcirculation.",
       "notes": {
-        "A": "Many elastic lamellae; vasa vasorum.",
-        "B": "Many muscle layers; vasa vasorum may be present.",
-        "C": "Over 5 muscle layers with collagen.",
-        "E": "Only 1–3 layers."
+        "A": "Elastic arteries contain numerous medial elastic lamellae and require vasa vasorum to nourish their thick outer walls.",
+        "B": "Larger distributing muscular arteries often possess many more medial smooth-muscle layers and may contain vasa vasorum.",
+        "C": "Large veins have a prominent adventitia and may contain vasa vasorum, rather than the specified small muscular arterial architecture.",
+        "E": "Typical arterioles contain one or two smooth-muscle layers, fewer than the three to ten described in this question."
       }
     },
     {
@@ -552,12 +552,12 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Arterioles resist and control flow into capillary beds.",
+      "why": "Arterioles are major adjustable resistance vessels because their small luminal radius changes substantially with smooth-muscle contraction or relaxation. Altering arteriolar resistance helps regulate systemic arterial pressure and distribution of tissue blood flow.",
       "notes": {
-        "A": "Conducts and smooths pressure.",
-        "B": "Distributes blood.",
-        "C": "Exchange vessel.",
-        "D": "Capacitance and return."
+        "A": "Elastic arteries primarily buffer pulsatile ventricular ejection through elastic expansion and recoil, rather than providing the main adjustable peripheral resistance.",
+        "B": "Muscular distributing arteries can regulate flow but smaller resistance vessels exert especially important control over systemic vascular resistance.",
+        "C": "Capillaries provide extensive exchange area and lack continuous smooth-muscle coats capable of active arteriolar calibre regulation.",
+        "D": "Medium veins function mainly as capacitance and return vessels, rather than being the principal adjustable systemic resistance site."
       }
     },
     {
@@ -590,12 +590,12 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Purkinje fibres run in the subendocardial connective tissue, just under the endothelium.",
+      "why": "Purkinje fibres form specialised ventricular conducting networks chiefly within subendocardial connective tissue. Their large glycogen-rich cells contain sparse peripheral myofibrils and rapidly distribute electrical activation to neighbouring contractile ventricular myocardium.",
       "notes": {
-        "B": "Holds coronary vessels and fat.",
-        "C": "Contractile cardiac muscle.",
-        "D": "Dense connective tissue for valve attachment.",
-        "E": "This is the epicardium itself."
+        "B": "The subepicardial layer contains coronary vessels, nerves and adipose tissue rather than the principal ventricular Purkinje network.",
+        "C": "The middle myocardium predominantly consists of contractile cardiomyocytes, although terminal conducting fibres communicate with deeper myocardial cells.",
+        "D": "The fibrous skeleton supports valves and electrically separates atrial and ventricular myocardium, rather than housing most Purkinje fibres.",
+        "E": "Visceral serous pericardium forms the epicardium on the external cardiac surface, opposite the principal subendocardial conduction network."
       }
     },
     {
@@ -628,12 +628,12 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "They lie under the mesothelium of the epicardium.",
+      "why": "The epicardium consists of mesothelium and underlying connective tissue that often contains substantial fat. Major coronary vessels travel within this subepicardial compartment before distributing smaller branches into the underlying myocardium.",
       "notes": {
-        "A": "Holds the Purkinje fibres.",
-        "C": "A single cell layer.",
-        "D": "Muscle, with only capillaries.",
-        "E": "Outside the serous sac."
+        "A": "Subendocardial connective tissue contains ventricular Purkinje fibres and smaller vessels rather than most epicardial coronary vessels and fat.",
+        "C": "Endocardial endothelium is a thin luminal cell layer and does not accommodate large coronary vessels or adipose deposits.",
+        "D": "Contractile myocardium contains an extensive capillary network, while major surface coronary vessels and fat chiefly occupy the epicardium.",
+        "E": "Fibrous pericardium forms the external protective sac rather than the connective tissue directly associated with epicardial coronary vessels."
       }
     },
     {
@@ -666,12 +666,12 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "They are large, glycogen-rich cells with sparse peripheral myofibrils.",
+      "why": "Purkinje fibres are modified cardiomyocytes specialised for rapid impulse conduction rather than force generation. Their abundant glycogen and relatively sparse peripheral myofibrils produce a characteristic large, pale appearance in routine histological sections.",
       "notes": {
-        "A": "Opposite of the truth.",
-        "B": "Not their appearance.",
-        "D": "They do connect by junctions.",
-        "E": "They are cardiac muscle."
+        "A": "Ordinary contractile cardiomyocytes contain abundant myofibrils and stain more intensely than the larger glycogen-rich Purkinje cells.",
+        "B": "Purkinje cells are relatively large and may contain central nuclei, rather than forming slender multinucleated rows of ordinary fibres.",
+        "D": "Purkinje cells maintain intercellular junctions supporting rapid electrical coupling, rather than lacking junctional connections between conducting cells.",
+        "E": "Purkinje fibres retain a modified cardiac muscle identity and are not spindle-shaped cells resembling ordinary smooth muscle."
       }
     },
     {
@@ -704,12 +704,12 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The media of the aorta is filled with fenestrated elastic membranes.",
+      "why": "Multiple concentric fenestrated elastic lamellae throughout a thick tunica media identify an elastic conducting artery. These lamellae store energy during systolic expansion and return it through recoil during diastole.",
       "notes": {
-        "A": "Muscular artery.",
-        "B": "Large vein.",
-        "C": "Large vein.",
-        "E": "Medium vein."
+        "A": "A single conspicuous internal elastic lamina is particularly characteristic of a muscular artery with a smooth-muscle-dominant media.",
+        "B": "An adventitia substantially thicker than the media is characteristic of many large veins, rather than a typical elastic artery.",
+        "C": "Prominent longitudinal adventitial smooth-muscle bundles suggest large veins such as the vena cava rather than an elastic arterial wall.",
+        "E": "Intimal valves are typical of many medium veins and do not identify an elastic artery such as the aorta."
       }
     },
     {
@@ -742,12 +742,12 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "It shows as a wavy, refractile line between intima and media.",
+      "why": "The internal elastic lamina forms a distinct elastic sheet between the intima and smooth-muscle media of muscular arteries. Its wavy appearance in sections reflects the elastic architecture and contraction or preparation of the vessel wall.",
       "notes": {
-        "A": "Present only in larger ones and thinner.",
-        "B": "Elastic arteries.",
-        "C": "Sparse.",
-        "D": "Not a distinct layer."
+        "A": "An external elastic lamina may be visible in larger muscular arteries, but the internal lamina is typically more conspicuous.",
+        "B": "Numerous repeated fenestrated elastic lamellae throughout the media characterise elastic arteries rather than typical muscular distributing arteries.",
+        "C": "Adventitial elastic fibres contribute to connective-tissue support but do not usually form the prominent boundary separating intima and media.",
+        "D": "Subendothelial connective tissue may contain elastic components, but the distinct internal elastic lamina forms the characteristic visible medial boundary."
       }
     },
     {
@@ -780,12 +780,12 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Large vessel walls are too thick to be nourished from the lumen alone.",
+      "why": "Vasa vasorum are small vessels that nourish the adventitia and outer media of sufficiently large blood vessels. Their presence compensates for limited diffusion of oxygen and nutrients from the main vessel lumen through a thick wall.",
       "notes": {
-        "B": "Fed from their own lumen.",
-        "C": "Too thin to need them.",
-        "D": "Avascular folds of intima.",
-        "E": "Small arteries lack vasa vasorum."
+        "B": "Capillary endothelial cells obtain nutrients directly from luminal blood and surrounding tissue, without a separate network of wall vessels.",
+        "C": "Arteriolar walls are sufficiently thin for diffusion from blood and neighbouring tissue, rather than requiring a separate intimal blood supply.",
+        "D": "Venous valves are thin endothelial-covered connective-tissue folds and do not generally require their own extensive vasa vasorum network.",
+        "E": "Small arterial walls can receive nutrients by diffusion; vasa vasorum become especially important in thicker walls of large vessels."
       }
     },
     {
@@ -818,12 +818,12 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Closed sphincters send flow straight from the metarteriole to the venule.",
+      "why": "In the classical metarteriole model, precapillary sphincter contraction restricts entry into individual capillaries. Blood can then continue through a thoroughfare pathway towards a venule, although real microvascular architecture varies substantially between tissues.",
       "notes": {
-        "A": "Pericytes do not route flow this way.",
-        "C": "Would raise capillary pressure.",
-        "D": "A separate route.",
-        "E": "Endothelium is not the valve."
+        "A": "Pericytes can influence microvascular function, but the classical routing mechanism described depends on contraction of precapillary sphincters.",
+        "C": "Postcapillary venular constriction increases downstream resistance and may raise capillary pressure rather than selectively closing precapillary entrances.",
+        "D": "Closing an arteriovenous shunt restricts that alternative pathway; the classical thoroughfare mechanism instead bypasses capillaries through upstream sphincter closure.",
+        "E": "Capillary endothelium lacks a conventional circular sphincter muscle coat and does not itself provide the classic precapillary valve mechanism."
       }
     },
     {
@@ -894,12 +894,12 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "This underlies the blood–brain barrier.",
+      "why": "Brain continuous capillaries possess highly restrictive endothelial tight junctions, very low nonspecific transcytosis and a continuous basal lamina. These features, supported by pericytes and astrocytic signals, contribute to selective blood–brain barrier permeability.",
       "notes": {
-        "A": "Glomerular type.",
-        "B": "Sinusoids.",
-        "C": "They have one.",
-        "E": "Liver sinusoids."
+        "A": "Diaphragm-free fenestrations characterise glomerular capillary endothelium, not the usual restrictive endothelial structure of brain capillaries.",
+        "B": "Wide endothelial gaps would increase uncontrolled permeability, whereas brain capillary junctions strongly restrict paracellular passage.",
+        "C": "Brain capillaries possess basal laminae associated with endothelial cells and pericytes rather than completely lacking extracellular matrix support.",
+        "E": "Kupffer cells are resident hepatic macrophages associated with sinusoids, not characteristic structural cells of the brain endothelial barrier."
       }
     },
     {
@@ -932,12 +932,12 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Glomerular fenestrations lack diaphragms, but the basal lamina is thick.",
+      "why": "Glomerular endothelial cells contain numerous fenestrations that generally lack diaphragms. The endothelial glycocalyx, thick shared glomerular basement membrane and podocyte filtration slit structures together permit rapid plasma filtration while restricting cells and most proteins.",
       "notes": {
-        "A": "Somatic type.",
-        "B": "Liver.",
-        "C": "The glomerular basal lamina is thick.",
-        "D": "Not glomerular."
+        "A": "Continuous nonfenestrated endothelium is characteristic of many other tissues and does not provide the typical glomerular filtration architecture.",
+        "B": "Kupffer cells are hepatic macrophages associated with liver sinusoids, rather than components of the normal glomerular capillary wall.",
+        "C": "Glomerular capillaries have a prominent specialised basement membrane despite endothelial fenestrations, unlike discontinuous sinusoidal vascular arrangements.",
+        "D": "Glomerular capillary endothelium is fenestrated, and mesangial cells provide specialised support rather than making it a continuous capillary bed."
       }
     },
     {
@@ -970,12 +970,12 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Resident macrophages of the liver sinusoids.",
+      "why": "Kupffer cells are resident macrophages positioned along hepatic sinusoidal lumina. They phagocytose blood-borne particles, microorganisms and cellular debris, supporting immune surveillance of blood arriving through the hepatic portal and arterial circulations.",
       "notes": {
-        "B": "Spleen has stave-like endothelium.",
-        "C": "No Kupffer cells.",
-        "D": "No Kupffer cells.",
-        "E": "Fenestrated capillaries."
+        "B": "Splenic red pulp contains macrophages that remove damaged erythrocytes, but these are not conventionally named Kupffer cells.",
+        "C": "Bone marrow contains macrophages associated with haematopoietic cells and sinusoids, rather than the liver-specific resident Kupffer population.",
+        "D": "Adrenal medullary vascular spaces deliver secreted catecholamines, but their associated immune cells are not specifically termed Kupffer cells.",
+        "E": "Pituitary endocrine tissue has fenestrated capillaries facilitating hormone exchange, rather than hepatic sinusoids containing Kupffer cells."
       }
     },
     {
@@ -1008,12 +1008,12 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "They lie in the space of Disse.",
+      "why": "Hepatic stellate cells occupy the space of Disse between hepatocytes and sinusoidal endothelium. In their quiescent state they store retinoids in lipid droplets; after injury they can become matrix-producing cells contributing to hepatic fibrosis.",
       "notes": {
-        "A": "Kupffer cells and spleen.",
-        "C": "Hepatocytes.",
-        "D": "Hepatocytes.",
-        "E": "Endothelial cells."
+        "A": "Kupffer cells and splenic macrophages remove cellular debris and erythrocytes, whereas quiescent hepatic stellate cells specialise in retinoid storage.",
+        "C": "Hepatocytes synthesise bile acids from cholesterol, rather than hepatic stellate cells providing the principal bile acid biosynthetic pathway.",
+        "D": "Albumin is synthesised primarily by hepatocytes and secreted into blood, rather than being the characteristic product of quiescent stellate cells.",
+        "E": "Sinusoidal endothelial cells form the vascular lining; stellate cells occupy the adjacent perisinusoidal space of Disse."
       }
     },
     {
@@ -1046,12 +1046,12 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Their junctions are the loosest and open further under histamine.",
+      "why": "Postcapillary venules are important sites of acute inflammatory permeability changes and leukocyte extravasation. Mediators such as histamine alter endothelial junctions, increasing protein-rich fluid escape into interstitial tissue and contributing to oedema.",
       "notes": {
-        "A": "Resistance vessels.",
-        "B": "Route flow, little leak.",
-        "D": "Thick-walled.",
-        "E": "They remove fluid."
+        "A": "Arterioles dilate to increase local perfusion during inflammation, but postcapillary venules are characteristic sites of mediator-induced permeability increases.",
+        "B": "Metarterioles in classical models regulate microvascular distribution, rather than providing the primary site of acute inflammatory plasma leakage.",
+        "D": "Muscular arteries have thicker walls and are not the usual site of rapid histamine-associated endothelial gap formation.",
+        "E": "Lymphatic capillaries remove excess interstitial fluid and proteins; their limited drainage may worsen oedema but is not the specified leakage source."
       }
     },
     {
@@ -1084,12 +1084,12 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Endothelium-covered folds of intima with a little connective tissue.",
+      "why": "Venous valves consist of paired folds of tunica intima containing connective-tissue cores covered by endothelium. Their orientation permits forward venous flow while limiting retrograde movement, particularly in limb veins exposed to gravitational pressure.",
       "notes": {
-        "A": "Muscle layer.",
-        "B": "Outer coat.",
-        "C": "Not in veins.",
-        "E": "Small vessels in the wall."
+        "A": "The tunica media contains smooth muscle, whereas venous valve leaflets arise as endothelial-covered folds of the intimal layer.",
+        "B": "Adventitia provides external connective-tissue support and does not project into the lumen as the characteristic valve leaflets.",
+        "C": "A distinct external elastic lamina is generally inconspicuous in veins and is not the tissue layer forming venous valves.",
+        "E": "Vasa vasorum nourish thicker vessel walls, rather than forming the intraluminal endothelial folds preventing retrograde venous flow."
       }
     },
     {
@@ -1122,12 +1122,12 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Veins have thin walls and wide lumens.",
+      "why": "Medium veins generally have wider lumina and thinner walls relative to lumen diameter than corresponding arteries. Their lower intravascular pressures permit a relatively thin media and compliant architecture suited to blood storage and return.",
       "notes": {
-        "A": "Thick muscular wall.",
-        "B": "Wall ≈ lumen.",
-        "C": "Thick elastic wall.",
-        "D": "Thick for its size."
+        "A": "Muscular arteries have prominent circumferential smooth-muscle media adapted to arterial pressures and therefore relatively thick walls.",
+        "B": "Arterioles have narrow lumina surrounded by smooth muscle, making their wall thickness relatively substantial compared with lumen diameter.",
+        "C": "Elastic arteries possess thick media containing multiple elastic lamellae, unlike the relatively thin walls of comparable venous vessels.",
+        "D": "Small arteries possess several medial smooth-muscle layers that are relatively thick compared with their smaller luminal diameter."
       }
     },
     {
@@ -1160,12 +1160,12 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Large veins: adventitia thickest, with longitudinal smooth muscle.",
+      "why": "The inferior vena cava is a large vein with a prominent adventitia containing longitudinal smooth-muscle bundles. Its wide lumen and relatively thin media contrast with the thick elastic or muscular media of arteries.",
       "notes": {
-        "B": "Media is thickest.",
-        "C": "Muscular media.",
-        "D": "Medium vein, thinner adventitia.",
-        "E": "Thick circular muscle."
+        "B": "The aorta is an elastic artery whose thick media contains many concentric elastic lamellae, rather than prominent venous adventitial muscle.",
+        "C": "The femoral artery has a substantial circumferential smooth-muscle media and prominent elastic boundaries, unlike the described large venous architecture.",
+        "D": "The popliteal vein is a medium vein with a less characteristic longitudinal muscular adventitia than the inferior vena cava.",
+        "E": "Coronary arteries are muscular arteries with prominent medial smooth muscle, rather than the characteristic longitudinal bundles of large venous adventitia."
       }
     },
     {
@@ -1198,12 +1198,12 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Suited to high pressure in a dependent vein; useful as a bypass graft.",
+      "why": "The great saphenous vein commonly exhibits a relatively substantial circumferential smooth-muscle media compared with many veins. Its muscular wall contributes to regulation of calibre and adaptation to haemodynamic loading in the dependent lower limb.",
       "notes": {
-        "A": "Elastic arteries.",
-        "C": "It is thin and poorly developed.",
-        "D": "It is lined by endothelium.",
-        "E": "Collagen is present."
+        "A": "Numerous fenestrated medial elastic lamellae are characteristic of elastic arteries, not the usual muscular architecture of the great saphenous vein.",
+        "C": "The internal elastic lamina of veins is generally less distinct than that of muscular arteries, rather than the defining unusual feature here.",
+        "D": "The great saphenous vein retains an endothelial luminal lining, as do other normal blood vessels in the systemic circulation.",
+        "E": "Its adventitia contains collagenous connective tissue providing structural support, rather than being devoid of the principal extracellular matrix fibre."
       }
     },
     {
@@ -1236,12 +1236,12 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "They lie between layers of dura.",
+      "why": "Dural venous sinuses are endothelial-lined channels formed between layers of cranial dura mater. Their rigid connective-tissue boundaries lack a typical muscular venous wall and valves, permitting drainage of cerebral venous blood.",
       "notes": {
-        "A": "They have no valves.",
-        "B": "No muscle.",
-        "D": "Venous, not lymphatic.",
-        "E": "Large channels, not capillaries."
+        "A": "Dural sinuses lack ordinary venous valves and do not possess the thick muscular walls described in this alternative.",
+        "B": "Their walls are formed by dural connective tissue lined by endothelium rather than a conventional smooth-muscle media and elastic lamina.",
+        "D": "Dural venous sinuses carry venous blood; meningeal lymphatic vessels are distinct structures involved in lymphatic drainage.",
+        "E": "The sinuses are relatively large venous collecting channels, rather than microscopic networks mediating capillary exchange within meningeal tissue."
       }
     },
     {
@@ -1274,12 +1274,12 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "They are very permeable and take up protein-rich fluid.",
+      "why": "Initial lymphatic capillaries begin blindly and contain overlapping endothelial cells with discontinuous or poorly developed basal lamina. Anchoring filaments help maintain openings for uptake of excess interstitial fluid, proteins and other material.",
       "notes": {
-        "A": "Opposite.",
-        "B": "Lymph has no red cells normally.",
-        "C": "Simple endothelium.",
-        "E": "Visceral blood capillaries."
+        "A": "Initial lymphatic capillaries generally lack continuous basal lamina and pericyte coverage, facilitating entry of interstitial fluid and macromolecules.",
+        "B": "Normal lymph contains immune cells but few erythrocytes or platelets, rather than carrying the usual cellular composition of blood.",
+        "C": "Lymphatic capillaries are lined by a single endothelial layer with specialised overlapping junctions, not stratified epithelium.",
+        "E": "Diaphragm-covered fenestrations characterise certain blood capillaries; initial lymphatics instead admit fluid through specialised overlapping endothelial junctions."
       }
     },
     {
@@ -1312,12 +1312,12 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "From the AV node it enters the septum and divides into right and left branches.",
+      "why": "The atrioventricular bundle penetrates the central fibrous body from the AV node and reaches the upper interventricular septum. It divides into right and left bundle branches that distribute impulses towards ventricular Purkinje networks.",
       "notes": {
-        "A": "Holds the AV node.",
-        "B": "Right atrial ridge.",
-        "C": "Venous structure.",
-        "D": "Purkinje fibres reach them later."
+        "A": "The atrioventricular node lies near the inferior interatrial septal region, but its conducting bundle proceeds into the interventricular septum.",
+        "B": "The crista terminalis is a right atrial muscular ridge rather than the principal pathway of the atrioventricular bundle.",
+        "C": "The coronary sinus drains cardiac veins and lies near the AV nodal region, rather than housing the descending ventricular conduction bundle.",
+        "D": "Purkinje networks distribute impulses to papillary muscles and ventricular myocardium downstream of the bundle's division within the septum."
       }
     },
     {
@@ -1350,12 +1350,12 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "It also carries O₂ and nutrients to tissues and CO₂ and waste away.",
+      "why": "Blood vessels distribute hormones from endocrine sources to distant responsive tissues, alongside transporting respiratory gases, nutrients and metabolic wastes. Circulation thus integrates organ functions through both substance delivery and chemical signalling.",
       "notes": {
-        "B": "Bone marrow.",
-        "C": "Lymph nodes.",
-        "D": "Ito cells of the liver.",
-        "E": "Liver, into the gut."
+        "B": "Adult erythrocyte production occurs chiefly in red bone marrow, not within the walls of ordinary blood vessels.",
+        "C": "Lymph nodes filter lymph before it returns to the bloodstream, rather than the blood vascular system performing this specialised function.",
+        "D": "Hepatic stellate cells store vitamin A in lipid droplets, rather than vascular walls serving as the principal retinoid reservoir.",
+        "E": "Hepatocytes secrete bile into canaliculi and the biliary tract, rather than normally releasing bile into circulating blood."
       }
     },
     {
