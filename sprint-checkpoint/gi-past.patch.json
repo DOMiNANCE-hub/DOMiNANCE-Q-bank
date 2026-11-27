@@ -646,5 +646,212 @@
       "D": "The stomach grinds and propels chyme with antral peristalsis. Its emptying is regulated at the pylorus.",
       "E": "The oesophagus uses peristaltic waves to move a swallowed bolus to the stomach. Long colonic mass movements serve stool transport."
     }
+  },
+  "phy-gi-319": {
+    "why": "Dietary protein is digested to free amino acids and small peptides. Enterocytes take up dipeptides and tripeptides through PepT1 and usually hydrolyse them intracellularly, so amino acids enter portal blood.",
+    "notes": {
+      "A": "Dipeptides are normal absorptive substrates, but larger polypeptides generally require further hydrolysis before uptake.",
+      "C": "Pepsinogen is a human enzyme precursor secreted into the stomach. It is not a normal absorbed product of dietary protein.",
+      "D": "Chylomicrons carry absorbed lipids in lymph. Products of dietary protein digestion mainly enter portal blood as amino acids.",
+      "E": "Luminal proteases digest dietary proteins. Intact digestive enzymes are not a main route of nutritional protein absorption."
+    }
+  },
+  "phy-gi-320": {
+    "why": "Digestible carbohydrates are converted to monosaccharides before normal intestinal absorption. Glucose and galactose use sodium-coupled SGLT1 at the apical membrane, while fructose enters principally through GLUT5.",
+    "notes": {
+      "A": "Disaccharides are cleaved by brush-border enzymes. The resulting monosaccharides are the normal absorptive substrates.",
+      "B": "Glucose is absorbed, but dietary glycogen is too large for normal uptake and requires digestion to glucose.",
+      "C": "Glycosaminoglycans are polymers made of repeating sugar units. They are not the usual products absorbed from dietary carbohydrate.",
+      "D": "Glycogen is a glucose polymer. Digestive enzymes hydrolyse it before its glucose units are taken up."
+    }
+  },
+  "phy-gi-327": {
+    "why": "Intestinal distension evokes an enteric peristaltic reflex. Circular muscle contracts on the oral side of the bolus and relaxes on the aboral side, producing a pressure difference that propels the contents distally.",
+    "notes": {
+      "A": "Segmentation mainly mixes intestinal contents. Propulsive peristalsis produces net movement away from the oral side.",
+      "B": "The enteric nervous system can coordinate the local reflex. The central nervous system can modulate it but does not have to generate each wave.",
+      "C": "The aboral segment is relaxed as the oral segment contracts. Contraction on both sides would impede the usual propulsion pattern.",
+      "E": "Coordinated contraction contributes the force behind the bolus. Relaxation throughout the segment would not provide this propulsive pressure."
+    }
+  },
+  "phy-gi-328": {
+    "why": "Steatorrhoea is excess fat in stool caused by impaired fat digestion or absorption. Loss of bile delivery can impair mixed-micelle formation, and deficiencies of pancreatic enzymes or intestinal absorption can also produce fatty stools.",
+    "notes": {
+      "A": "Low dietary fat decreases the lipid load delivered to the bowel. Steatorrhoea represents abnormal loss of fat from the available load.",
+      "B": "Missing bile pigments can make stools pale in cholestasis, but pigment loss itself is not what prevents intestinal fat absorption.",
+      "C": "Obstructed bile flow deprives the duodenum of bile salts needed for efficient mixed-micelle formation and lipid uptake.",
+      "D": "Impaired hydrolysis leaves fat unprocessed, while impaired mucosal absorption leaves digestion products in the intestine. Either can increase stool fat."
+    }
+  },
+  "phy-gi-331": {
+    "why": "Segmentation is produced mainly by local contractions of the circular smooth muscle layer. Alternating constrictions divide and recombine the luminal contents, improving mixing with digestive secretions and contact with the mucosa.",
+    "notes": {
+      "B": "Longitudinal muscle shortens the bowel wall. The narrow rings characteristic of segmentation are generated chiefly by circular muscle.",
+      "C": "A coordinated contraction behind a bolus and relaxation ahead describes propulsive peristalsis. Segmentation mainly alternates local constrictions.",
+      "D": "The characteristic segmenting constrictions come principally from circular muscle. Longitudinal shortening is not the defining mechanism.",
+      "E": "This group adds longitudinal muscle and a leading relaxation pattern. Neither is the defining mechanism for the segmenting constriction."
+    }
+  },
+  "phy-gi-202": {
+    "why": "Adipose triglyceride is the largest energy reserve in a typical human body. Fat is energy dense and is stored with little associated water. Glycogen supplies a smaller reserve that can be mobilised quickly.",
+    "notes": {
+      "A": "ATP is the immediate energy currency for cells. The standing ATP pool is small and continually regenerated.",
+      "B": "Free glucose in blood is a relatively small pool, and the amount stored as glycogen is limited compared with adipose triglyceride.",
+      "D": "Body proteins can be catabolised for energy in some conditions, but they mainly serve structural and functional roles rather than dedicated energy storage.",
+      "E": "DNA stores genetic information and is not a significant fuel depot."
+    }
+  },
+  "phy-gi-207": {
+    "why": "Carbohydrate normally provides the largest share of energy in a mixed human diet. Digestible starches and sugars supply monosaccharides that can be oxidised or stored, although the proportion varies with diet.",
+    "notes": {
+      "A": "Protein can supply energy but is also needed for amino acids. It usually provides a smaller share of energy than carbohydrate in a mixed diet.",
+      "B": "Vitamins support metabolic reactions, often as coenzyme precursors. They do not provide appreciable dietary energy.",
+      "C": "Dietary nucleic acids can be digested, but they are not a major source of dietary energy.",
+      "E": "Lipids provide more energy per gram than carbohydrates. The question concerns total intake in a typical diet, which depends on how much is eaten."
+    }
+  },
+  "phy-gi-215": {
+    "why": "Under ordinary fed conditions, the brain depends heavily on glucose delivered by blood and has limited energy reserves. In prolonged fasting, ketone bodies replace part of its glucose requirement, but some glucose is still needed.",
+    "notes": {
+      "A": "The liver stores glycogen, can release glucose into the blood and can meet much of its own energy demand through fatty acid oxidation.",
+      "C": "Adipose tissue can use glucose, but its principal role is storing and releasing metabolic fuel. It is less immediately dependent on circulating glucose than the brain.",
+      "D": "Skeletal muscle has glycogen and can oxidise fatty acids as well as glucose, depending on activity and nutritional state.",
+      "E": "The heart normally obtains much of its energy from fatty acids and can also use lactate, ketones and glucose."
+    }
+  },
+  "phy-gi-250": {
+    "why": "Insulin promotes glucose uptake and storage, whereas glucagon and catecholamines support glucose availability during fasting or stress. Growth hormone, glucocorticoids and thyroid hormones also influence glucose turnover. ACTH and TSH regulate relevant endocrine glands upstream.",
+    "notes": {
+      "A": "Sex steroids can affect substrate metabolism, but this group omits the main opposing regulators of circulating glucose.",
+      "C": "Somatostatin can alter insulin and glucagon release. Gastrin, histamine and the other listed mediators do not form the main systemic glucose-regulating group.",
+      "D": "Glucagon and catecholamines are important counter-regulators, but this group omits insulin, the main hormone that lowers blood glucose after meals.",
+      "E": "Catecholamines, glucagon and growth hormone can affect glucose, but the group leaves out insulin and the major contribution of glucocorticoids."
+    }
+  },
+  "phy-gi-253": {
+    "why": "Basal metabolic rate is measured while awake, physically and mentally resting, postabsorptive and in a thermoneutral environment. An overnight fast helps remove the effect of a recent meal. Thermoneutrality depends on clothing and measurement conditions.",
+    "notes": {
+      "A": "Adequate nutrition supports normal metabolism. Vitamin intake is not itself a condition that defines basal energy measurement.",
+      "B": "Endocrine function affects the measured value, but the basal measurement is defined by fasting, rest and a thermoneutral environment.",
+      "D": "Physical activity increases muscular energy use above the basal level and is excluded from the measurement.",
+      "E": "Sleep can lower expenditure relative to quiet wakefulness. Pregnancy and lactation alter energy needs and are not defining measurement conditions."
+    }
+  },
+  "phy-gi-256": {
+    "why": "Parathyroid hormone, calcitriol derived from vitamin D3, and calcitonin all participate in calcium regulation. Parathyroid hormone and calcitriol have major roles in adult homeostasis. FGF23 also regulates phosphate, though it is not listed.",
+    "notes": {
+      "A": "Parathyroid hormone is a key calcium and phosphate regulator. Thyroxine can alter bone turnover but is not the principal complementary hormone in this set.",
+      "C": "Calcitonin can reduce osteoclast activity. Epinephrine chiefly mediates acute sympathetic responses rather than routine calcium–phosphate balance.",
+      "D": "Aldosterone promotes renal sodium retention and potassium secretion. It is not a principal partner of calcitonin in calcium regulation.",
+      "E": "These hormones have effects on water balance, vascular tone or reproductive function. They are not the standard calcium and phosphate regulatory group."
+    }
+  },
+  "phy-gi-258": {
+    "why": "Salivary and pancreatic alpha-amylases hydrolyse internal alpha-1,4 glycosidic bonds in starch. They release shorter carbohydrates such as maltose, maltotriose and limit dextrins for further processing at the brush border.",
+    "notes": {
+      "A": "Proteases hydrolyse peptide bonds in proteins. Starch contains glycosidic bonds between glucose residues.",
+      "C": "Lipases hydrolyse ester bonds in dietary lipids and do not break the glucose linkages in starch.",
+      "D": "Sucrase acts on sucrose at the intestinal brush border. Amylase acts on the internal bonds of starch polymers.",
+      "E": "Peptidases release amino acids or smaller peptides from protein digestion products. They do not hydrolyse starch."
+    }
+  },
+  "phy-gi-259": {
+    "why": "Hepatocytes store glucose units as glycogen, a highly branched polysaccharide. They can break it down and release glucose into blood between meals, which helps maintain plasma glucose.",
+    "notes": {
+      "B": "Glucagon is a pancreatic hormone that stimulates hepatic glycogen breakdown and gluconeogenesis. It is not the stored carbohydrate.",
+      "C": "A disaccharide has two monosaccharide units. Hepatic glycogen contains many branched chains of glucose residues.",
+      "D": "Lactate can be used by the liver for gluconeogenesis. It is not the principal storage form of glucose.",
+      "E": "Carbonic acid is involved in acid–base chemistry and carbon dioxide transport, not storage of carbohydrate energy."
+    }
+  },
+  "phy-gi-263": {
+    "why": "Cold exposure can increase thermoregulatory energy expenditure and can increase hunger. The effect varies with exposure and individual response. Gastric distension and cholecystokinin typically signal meal termination.",
+    "notes": {
+      "A": "Cholecystokinin is released in response to fat and protein digestion products and contributes to post-meal satiation.",
+      "B": "Calcitonin acts mainly in calcium and bone physiology. It is not a usual physiological trigger for hunger.",
+      "C": "Gastric distension activates stretch signals that usually increase fullness and limit meal size.",
+      "D": "Denervation can disrupt fullness signals and gastric motility. It has no predictable general effect of increasing appetite."
+    }
+  },
+  "phy-gi-271": {
+    "why": "Respiratory quotient is carbon dioxide produced divided by oxygen consumed. Complete glucose oxidation uses six molecules of oxygen and produces six molecules of carbon dioxide, so glucose has an RQ of 1.0.",
+    "notes": {
+      "A": "This ratio is inverted. The numerator of the respiratory quotient is carbon dioxide production.",
+      "C": "Acid–base disturbances can alter measured gas exchange at the lungs. They do not set the cellular substrate RQ to 1.0.",
+      "D": "Prolonged fasting increases reliance on fatty acids and ketones. The respiratory quotient generally shifts downward rather than staying near the carbohydrate value.",
+      "E": "Predominant fatty acid oxidation typically produces an RQ near 0.7. Values nearer or above 0.8 suggest a larger contribution from other fuels."
+    }
+  },
+  "phy-gi-272": {
+    "why": "Oxygen consumption generally rises as tissue metabolism increases with higher body temperature. A cold environment can also increase oxygen demand through shivering and non-shivering thermogenesis when it is below the thermoneutral range.",
+    "notes": {
+      "A": "Higher inspired oxygen does not usually increase resting oxygen use in a healthy person. Tissue energy demand is the main determinant.",
+      "B": "A lower metabolic rate generally decreases oxygen consumption because less oxidative ATP production is needed.",
+      "D": "Warming a cold person toward thermoneutrality decreases the need for heat production. Extreme heat can raise demands through other mechanisms.",
+      "E": "Eating generally increases energy expenditure through the thermic effect of food. The resting postabsorptive state lacks most of that effect."
+    }
+  },
+  "phy-gi-273": {
+    "why": "Brown adipose cells have many mitochondria and rich sympathetic innervation. Noradrenaline can activate thermogenesis, in which UCP1 allows proton leak across the inner mitochondrial membrane and promotes heat production.",
+    "notes": {
+      "A": "Brown adipose tissue is especially important in newborns, although adults retain deposits that can be metabolically active.",
+      "C": "UCP1 decreases the coupling of oxidation to ATP synthesis, so a greater share of the energy is released as heat.",
+      "D": "Cold-induced brown fat thermogenesis is driven largely by sympathetic noradrenergic activity rather than parasympathetic stimulation.",
+      "E": "Non-shivering thermogenesis in brown fat is important in newborns because their capacity for effective shivering is limited."
+    }
+  },
+  "phy-gi-274": {
+    "why": "Nitrogen balance is nitrogen intake minus nitrogen loss. Since proteins supply most dietary nitrogen, a positive value generally reflects net protein accretion, while a negative value reflects loss of body protein.",
+    "notes": {
+      "B": "Healthy growing children usually have positive nitrogen balance because growing tissues retain protein.",
+      "C": "Reducing protein intake generally lowers nitrogen input. Unless losses decline enough to compensate, balance becomes less positive or negative.",
+      "D": "An essential amino acid must be supplied by the diet. Its omission limits protein synthesis and can make nitrogen balance negative.",
+      "E": "Protein is relatively spared during adapted fasting, but in advanced starvation protein breakdown can rise as fat stores are depleted."
+    }
+  },
+  "phy-gi-278": {
+    "why": "The specific dynamic action of food is the increase in energy expenditure after eating. Protein has the greatest thermic effect, commonly about 20–30 percent of its energy, because processing amino acids and forming urea are metabolically costly.",
+    "notes": {
+      "A": "Energy expenditure increases after a meal because digestion, absorption and subsequent nutrient handling require energy.",
+      "B": "The response can last several hours. Its duration depends on meal size and composition.",
+      "C": "Digestion and absorption contribute, but further nutrient processing, storage and nitrogen disposal are also part of the thermic effect.",
+      "E": "Fat generally has a small thermic effect, and carbohydrate has an intermediate one. Their usual fractions are below that of dietary protein."
+    }
+  },
+  "phy-gi-283": {
+    "why": "Metabolisable energy is approximately 4 kilocalories per gram for both dietary carbohydrate and protein. A gram of fat provides about 9 kilocalories. Gross combustion values, particularly for protein, differ from usable energy in the body.",
+    "notes": {
+      "A": "Most available carbohydrate yields broadly similar gross and physiological energy values. The gap is more important for protein because of nitrogenous waste.",
+      "B": "One gram of fat provides about 9 kilocalories, which is more than twice the energy from one gram of carbohydrate.",
+      "C": "A bomb calorimeter measures the full heat of protein combustion. The body excretes some energy in nitrogenous products, making the physiological yield lower.",
+      "E": "One gram of protein per kilogram of body weight is generally adequate for a healthy sedentary adult. Exact requirements depend on age and circumstances."
+    }
+  },
+  "phy-gi-285": {
+    "why": "Non-esterified fatty acids are poorly soluble in plasma and bind to albumin for transport. They can be released from adipose triglyceride and delivered to oxidative tissues such as heart and skeletal muscle.",
+    "notes": {
+      "A": "Chylomicrons mainly carry esterified fatty acids in triglycerides. Albumin carries most circulating non-esterified fatty acids.",
+      "C": "Adrenaline can stimulate adipose lipolysis and increase release of non-esterified fatty acids, especially during stress or exercise.",
+      "D": "Cardiac muscle readily oxidises fatty acids and commonly uses them as an important aerobic fuel.",
+      "E": "Adipocytes can make fatty acids and can release free fatty acids by hydrolysing stored triglycerides."
+    }
+  },
+  "phy-gi-313": {
+    "why": "Carbonic anhydrase accelerates formation of hydrogen ions and bicarbonate from carbon dioxide and water. In parietal cells it supports gastric acid secretion. In the choroid plexus it supports bicarbonate-dependent ion and fluid secretion into the cerebrospinal fluid.",
+    "notes": {
+      "A": "Hydrogen ions generated in parietal cells are delivered to the gastric lumen by the hydrogen–potassium ATPase.",
+      "B": "Carbaminohaemoglobin forms when carbon dioxide binds directly to amino groups on globin. That reaction is distinct from carbonic anhydrase-mediated bicarbonate formation.",
+      "C": "Choroid plexus ion transport uses bicarbonate and contributes to cerebrospinal fluid production. Carbonic anhydrase inhibition can decrease this secretion.",
+      "D": "Bile salts are derived from cholesterol in hepatocytes. Biliary bicarbonate secretion is a separate process."
+    }
+  },
+  "phy-gi-330": {
+    "why": "The energy equivalent of oxygen is the energy released when one litre of oxygen is consumed during substrate oxidation. It varies with the fuel. Carbohydrate yields more energy per litre of oxygen than fat, despite fat yielding more per gram.",
+    "notes": {
+      "A": "The value depends mainly on the fuel being oxidised and its stoichiometry. It is not a common fixed value set by body temperature.",
+      "C": "Fat provides more energy per gram but requires proportionally more oxygen. Its energy yield per litre of oxygen is lower than that of carbohydrate.",
+      "D": "Carbon dioxide production divided by oxygen consumption gives the respiratory quotient. That ratio helps identify the appropriate caloric equivalent.",
+      "E": "Resting energy use over a day is an expenditure measured over time. The energy equivalent of oxygen is expressed per litre of oxygen."
+    }
   }
 }
