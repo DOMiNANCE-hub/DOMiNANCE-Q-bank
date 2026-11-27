@@ -30,7 +30,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Pacinian corpuscles are rapidly adapting receptors for vibration and deep pressure.",
+      "why": "Pacinian corpuscles contain concentric connective-tissue lamellae surrounding a sensory ending. Mechanical deformation generates a transient receptor potential, making these rapidly adapting receptors especially sensitive to high-frequency vibration and changing deep pressure.",
+      "notes": {
+        "B": "Meissner corpuscles lie superficially in dermal papillae and preferentially detect low-frequency flutter and light moving touch.",
+        "C": "Merkel complexes adapt slowly and detect sustained indentation and fine spatial details, rather than high-frequency deep vibration.",
+        "D": "Ruffini endings are slowly adapting mechanoreceptors associated with skin stretch, not onion-shaped receptors specialised for vibration.",
+        "E": "Free nerve endings lack the characteristic concentric capsule and commonly detect temperature, nociceptive stimuli or other cutaneous sensations."
+      },
       "topicId": "sen-somatic",
       "subtopic": "Skin receptors",
       "difficulty": "medium"
@@ -62,7 +68,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Meissner's corpuscles in the dermal papillae of glabrous skin sense light touch and flutter.",
+      "why": "Meissner corpuscles lie in dermal papillae of glabrous skin and respond rapidly to changing light touch and low-frequency flutter. Their superficial location supports fine tactile exploration, alongside other receptors such as Merkel complexes.",
+      "notes": {
+        "A": "Free nerve endings can detect temperature, pain and some touch, but lack the specialised corpuscular structure associated with flutter.",
+        "C": "Pacinian corpuscles lie deeper and respond best to relatively high-frequency vibration, rather than low-frequency superficial flutter.",
+        "D": "Ruffini endings respond preferentially to sustained skin stretch, providing different information from rapidly adapting superficial touch receptors.",
+        "E": "Golgi tendon organs monitor musculotendinous tension, rather than detecting discriminative tactile stimuli on the surface of glabrous skin."
+      },
       "topicId": "sen-somatic",
       "subtopic": "Skin receptors",
       "difficulty": "medium"
@@ -94,7 +106,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Fast A-delta fibres carry sharp, localised first pain; slow C fibres carry dull, aching second pain.",
+      "why": "Thinly myelinated A-delta nociceptors conduct impulses relatively rapidly, generating the early sharp, comparatively well-localised pain after injury. Slower C-fibre activity contributes to the subsequent diffuse aching or burning sensation.",
+      "notes": {
+        "A": "B fibres are small myelinated autonomic preganglionic axons rather than the principal afferents mediating first pain.",
+        "B": "Postganglionic sympathetic fibres primarily convey autonomic efferent signals, rather than transmitting the initial sharp nociceptive sensation centrally.",
+        "D": "Unmyelinated C fibres conduct slowly and characteristically contribute to delayed, diffuse burning or aching second pain.",
+        "E": "Large A-alpha fibres principally serve motor and proprioceptive functions rather than the normal transmission of sharp nociceptive pain."
+      },
       "topicId": "sen-somatic",
       "subtopic": "Pain",
       "difficulty": "hard"
@@ -126,7 +144,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Slow, unmyelinated C fibres carry the diffuse, aching second pain.",
+      "why": "Unmyelinated C nociceptive fibres conduct slowly because they lack saltatory conduction. Their activity contributes to delayed, relatively diffuse aching or burning pain, contrasting with the rapid sharp sensation carried mainly by A-delta fibres.",
+      "notes": {
+        "A": "A-beta fibres usually convey low-threshold mechanical sensations such as touch and pressure, rather than ordinary slow nociceptive pain.",
+        "B": "A-alpha fibres have large myelinated axons serving motor or proprioceptive functions, rather than delayed diffuse nociceptive signalling.",
+        "C": "Group Ia afferents originate principally in muscle spindles and rapidly signal stretch, not the aching second pain sensation.",
+        "E": "A-delta fibres conduct relatively rapidly through thin myelin and usually mediate the earlier sharp component of pain."
+      },
       "topicId": "sen-somatic",
       "subtopic": "Pain",
       "difficulty": "hard"
@@ -158,7 +182,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Referred pain is perceived in a somatic area sharing spinal segments with the affected viscus.",
+      "why": "Referred pain occurs when visceral and somatic sensory inputs converge on shared central neurons, leading the nervous system to localise visceral input to a familiar somatic region. The painful organ and perceived site may therefore differ.",
+      "notes": {
+        "A": "Phantom pain is perceived in an absent or deafferented body part rather than a somatic territory receiving convergent visceral input.",
+        "B": "Fast pain describes the early sharp temporal component of nociception rather than the apparent displacement of its source.",
+        "C": "Neuropathic pain results from a lesion or disease of somatosensory pathways, whereas visceral referred pain need not involve neural damage.",
+        "D": "Hyperalgesia describes an exaggerated response to a normally painful stimulus, not perception of pain at a distant site."
+      },
       "topicId": "sen-somatic",
       "subtopic": "Pain",
       "difficulty": "medium"
@@ -190,7 +220,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Input from large A-beta touch fibres 'closes the gate' in the dorsal horn, damping pain transmission.",
+      "why": "Large-diameter low-threshold tactile afferents can activate inhibitory interneurons within the spinal dorsal horn, reducing nociceptive transmission from the same region. This segmental gating explains why rubbing an injured area can temporarily diminish pain.",
+      "notes": {
+        "B": "C fibres commonly transmit slow nociceptive information and do not provide the characteristic low-threshold tactile input used to close the gate.",
+        "C": "Gamma motor neurons regulate muscle spindle sensitivity rather than directly conveying the tactile afferent signals involved in pain gating.",
+        "D": "Postganglionic sympathetic fibres regulate autonomic targets and are not the principal large-diameter sensory input described by gate-control theory.",
+        "E": "Corticospinal pathways convey descending motor commands; tactile gating specifically involves local spinal processing of large sensory afferent input."
+      },
       "topicId": "sen-somatic",
       "subtopic": "Pain",
       "difficulty": "hard"
@@ -222,7 +258,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Hollow viscera are insensitive to cutting but respond to stretch, distension, ischaemia and spasm.",
+      "why": "Distension and excessive stretch activate mechanosensitive visceral nociceptive endings in the gastrointestinal wall. Ischaemia, inflammation and strong smooth-muscle spasm can also provoke visceral pain, whereas ordinary superficial cutting often produces little visceral sensation.",
+      "notes": {
+        "A": "A small clean incision may cause relatively little visceral pain compared with substantial stretching or ischaemia of a hollow organ.",
+        "C": "Superficial mucosal cutting does not usually activate visceral nociceptors as effectively as distension of the gastrointestinal wall.",
+        "D": "Ordinary local cooling is not the characteristic potent visceral pain stimulus, unlike excessive distension and associated mechanical stress.",
+        "E": "Gentle brushing provides low-intensity surface stimulation and generally activates visceral nociceptive endings less effectively than excessive wall stretch."
+      },
       "topicId": "sen-somatic",
       "subtopic": "Pain",
       "difficulty": "medium"
@@ -254,7 +296,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The back and calf have sparse receptors and poor two-point discrimination; fingertips and lips are the most sensitive.",
+      "why": "Two-point discrimination depends on receptive-field size, innervation density and central spatial processing. The back and calf generally have larger receptive fields and less precise tactile discrimination than regions such as fingertips and lips.",
+      "notes": {
+        "A": "The tongue and fingertips have relatively dense tactile innervation and small receptive fields, allowing unusually fine spatial discrimination.",
+        "B": "The face and hand occupy substantial somatosensory cortical representation and generally discriminate nearby tactile stimuli more effectively than the back.",
+        "D": "Fingertips and lips are particularly sensitive to spatial detail, so they are poor examples of regions with low tactile acuity.",
+        "E": "The palm and sole have specialised cutaneous mechanoreceptors and generally offer better spatial discrimination than relatively sparsely innervated back skin."
+      },
       "topicId": "sen-somatic",
       "subtopic": "Skin receptors",
       "difficulty": "medium"
@@ -318,7 +366,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Aqueous drains via the trabecular meshwork into the canal of Schlemm at the filtration angle; imbalance raises intraocular pressure (glaucoma).",
+      "why": "Aqueous humour flows from the anterior chamber through trabecular meshwork into Schlemm's canal, then through collector channels towards episcleral veins. Resistance along this conventional outflow pathway helps determine intraocular pressure.",
+      "notes": {
+        "A": "The nasolacrimal duct drains tears from the ocular surface into the nasal cavity, rather than draining intraocular aqueous humour.",
+        "B": "The vitreous cavity lies behind the lens and contains vitreous gel; conventional aqueous outflow occurs at the anterior chamber angle.",
+        "C": "The central retinal vein drains retinal blood, rather than directly receiving aqueous humour from the trabecular meshwork.",
+        "D": "The optic canal transmits the optic nerve and ophthalmic artery, rather than forming the conventional drainage channel for aqueous humour."
+      },
       "topicId": "sen-eye",
       "subtopic": "Aqueous humour",
       "difficulty": "hard"
@@ -350,7 +404,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Ciliary contraction slackens the zonules, letting the elastic lens round up to increase refractive power for near vision.",
+      "why": "Parasympathetic stimulation contracts ciliary muscle during near accommodation, reducing zonular tension. The elastic lens becomes more convex, increasing its refractive power so light from a nearby object can focus on the retina.",
+      "notes": {
+        "B": "Ciliary relaxation tightens zonular fibres and flattens the lens, favouring distance vision rather than accommodation for near objects.",
+        "C": "Ciliary contraction reduces rather than increases zonular tension, permitting the lens to become more convex for near focusing.",
+        "D": "Ciliary relaxation normally increases zonular tension, rather than slackening the fibres sufficiently to round the lens.",
+        "E": "Near accommodation normally accompanies pupillary constriction, which improves depth of focus, rather than widespread pupillary dilation."
+      },
       "topicId": "sen-eye",
       "subtopic": "Accommodation",
       "difficulty": "hard"
@@ -414,7 +474,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The near triad is accommodation, convergence and pupillary constriction.",
+      "why": "The near response coordinates three actions: increased lens curvature for accommodation, pupillary constriction to improve depth of focus, and convergence of both eyes. Convergence aligns the visual axes on a nearby target to maintain binocular fixation.",
+      "notes": {
+        "A": "Pupillary dilation reduces depth of focus and is not the usual pupillary component of the near response.",
+        "B": "Ciliary contraction rather than relaxation increases lens curvature and optical power during accommodation for nearby objects.",
+        "D": "Divergence moves the visual axes apart and is generally required when shifting fixation from a near target to a distant target.",
+        "E": "Eye elevation changes vertical gaze rather than providing the coordinated inward rotation needed to fixate a nearby object."
+      },
       "topicId": "sen-eye",
       "subtopic": "Accommodation",
       "difficulty": "medium"
@@ -446,7 +512,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "A concave diverging lens moves the focal point back onto the retina in myopia.",
+      "why": "In myopia, the relaxed eye focuses parallel light anterior to the retina because optical power is excessive relative to axial length. A negative-power diverging lens reduces effective convergence, shifting the focal plane backwards onto the retina.",
+      "notes": {
+        "A": "Cylindrical correction addresses unequal optical power in different meridians, rather than being the principal correction for simple spherical myopia.",
+        "B": "Prisms redirect light and can compensate for selected ocular alignment problems, rather than directly correcting spherical myopic defocus.",
+        "C": "A plano lens has no spherical refractive power and therefore does not move the myopic focal plane onto the retina.",
+        "E": "A positive converging lens increases optical convergence and would generally worsen distance defocus in an unaccommodated myopic eye."
+      },
       "topicId": "sen-eye",
       "subtopic": "Refractive errors",
       "difficulty": "medium"
@@ -478,7 +550,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "A convex converging lens brings the focal point forward onto the retina in hypermetropia.",
+      "why": "In hypermetropia, the unaccommodated eye has insufficient optical power relative to its axial length, so parallel light would focus behind the retina. A positive converging lens increases effective power and shifts the focus forwards.",
+      "notes": {
+        "A": "A negative diverging lens reduces effective optical power and would generally shift the hypermetropic focal plane farther behind the retina.",
+        "B": "Cylindrical lenses correct meridional differences in optical power, rather than providing the principal correction for simple spherical hypermetropia.",
+        "C": "Tinted lenses reduce transmitted light or alter spectral transmission but do not inherently provide the positive refractive power required.",
+        "D": "Prisms redirect the direction of light rays and may address ocular misalignment, rather than correcting simple hypermetropic spherical defocus."
+      },
       "topicId": "sen-eye",
       "subtopic": "Refractive errors",
       "difficulty": "medium"
@@ -510,7 +588,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Uneven corneal/lens curvature focuses light at more than one point; spherocylindrical lenses correct it.",
+      "why": "Astigmatism results when optical power differs across ocular meridians, commonly because corneal curvature is not rotationally symmetric. A cylindrical component provides meridian-specific correction and may be combined with spherical power in a spherocylindrical lens.",
+      "notes": {
+        "B": "A simple concave spherical lens changes optical power equally across meridians, so it cannot fully correct unequal meridional refraction.",
+        "C": "A simple convex spherical lens corrects hypermetropic spherical defocus but does not selectively compensate for unequal optical meridional power.",
+        "D": "A pinhole reduces blur by restricting peripheral rays, but does not provide the standard refractive correction of regular astigmatism.",
+        "E": "Bifocal lenses provide different powers for near and distance vision; they require a separate cylindrical correction when astigmatism is present."
+      },
       "topicId": "sen-eye",
       "subtopic": "Refractive errors",
       "difficulty": "hard"
@@ -542,7 +626,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The fovea is packed with cones, lacks overlying vessels and gives the highest acuity.",
+      "why": "The fovea centralis contains densely packed cones with minimal overlying retinal tissue and a central avascular zone. Its specialised neural sampling and optical arrangement support the highest spatial acuity during well-lit central fixation.",
+      "notes": {
+        "A": "The blind spot corresponds to the optic disc, where ganglion cell axons leave and photoreceptors are absent.",
+        "C": "The optic disc contains exiting axons and retinal vessels rather than densely packed cones specialised for high-acuity vision.",
+        "D": "The ora serrata marks the anterior termination of photosensitive retina and is not the specialised central region of greatest acuity.",
+        "E": "The surrounding macula supports central vision, but maximal spatial resolution occurs in its specialised central foveal region."
+      },
       "topicId": "sen-eye",
       "subtopic": "Retina",
       "difficulty": "medium"
@@ -574,7 +664,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Rods are dim-light, non-colour (scotopic) receptors; cones are higher-threshold colour (photopic) receptors.",
+      "why": "Rods have high sensitivity and substantial neural convergence, allowing detection of very low light levels during scotopic vision. Cones require more illumination and support colour discrimination and finer spatial resolution, especially in the fovea.",
+      "notes": {
+        "A": "Cones provide the greatest spatial acuity because of specialised foveal sampling, whereas rod convergence sacrifices spatial precision for sensitivity.",
+        "B": "Rods number tens of millions in the human retina and substantially outnumber cones, which number only several million.",
+        "D": "Rods have a lower light threshold and support largely achromatic dim-light vision, whereas cones mediate photopic colour vision.",
+        "E": "The central foveola is dominated by cones and lacks rods, which become abundant in more peripheral retinal regions."
+      },
       "topicId": "sen-eye",
       "subtopic": "Photoreceptors",
       "difficulty": "medium"
@@ -606,7 +702,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Rhodopsin is scotopsin plus the chromophore 11-cis retinal, which light isomerises to all-trans retinal.",
+      "why": "Rhodopsin consists of the opsin protein scotopsin bound to 11-cis retinal, a vitamin A-derived chromophore. Photon absorption converts retinal to its all-trans configuration, initiating the molecular cascade of rod phototransduction.",
+      "notes": {
+        "A": "Retinoic acid regulates gene transcription through nuclear receptors and does not serve as the light-sensitive chromophore in rhodopsin.",
+        "B": "Beta-carotene can serve as a dietary vitamin A precursor, but is not directly bound as the rhodopsin chromophore.",
+        "C": "Retinyl palmitate is a storage ester of vitamin A, rather than the aldehyde chromophore attached to rod opsin.",
+        "E": "All-trans retinal forms following photoisomerisation and must be recycled to the 11-cis form to regenerate light-sensitive rhodopsin."
+      },
       "topicId": "sen-eye",
       "subtopic": "Phototransduction",
       "difficulty": "hard"
@@ -638,7 +740,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "High cGMP keeps cyclic-nucleotide-gated channels open (the dark current), depolarising the cell and releasing glutamate.",
+      "why": "In darkness, guanylyl cyclase maintains relatively high cGMP concentrations within rod outer segments. cGMP binds cyclic nucleotide-gated channels, permitting inward sodium and calcium current that depolarises photoreceptors and supports tonic glutamate release.",
+      "notes": {
+        "A": "Cyclic AMP is an important second messenger in other pathways, but rod outer-segment dark current is primarily controlled by cGMP.",
+        "B": "Inositol trisphosphate mobilises intracellular calcium in many cells, rather than directly maintaining the rod's cyclic nucleotide-gated dark current.",
+        "C": "Calmodulin regulates calcium-sensitive proteins, but it is not the cyclic nucleotide directly keeping photoreceptor channels open in darkness.",
+        "D": "All-trans retinal is generated by light-induced chromophore isomerisation and does not directly maintain the open dark-current channels."
+      },
       "topicId": "sen-eye",
       "subtopic": "Phototransduction",
       "difficulty": "hard"
@@ -670,7 +778,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "PDE breaks down cGMP, the CNG channels close, Na+ influx stops and the photoreceptor hyperpolarises, reducing glutamate release.",
+      "why": "Activated rhodopsin stimulates transducin, which activates phosphodiesterase 6 to hydrolyse cGMP. Falling cGMP closes outer-segment cation channels, hyperpolarising the photoreceptor and decreasing glutamate release onto downstream retinal neurons.",
+      "notes": {
+        "B": "Guanylyl cyclase synthesises cGMP during recovery, whereas activated phosphodiesterase reduces its concentration during the phototransduction response.",
+        "C": "Light-induced hyperpolarisation reduces tonic glutamate release rather than increasing it as the immediate consequence of phosphodiesterase activation.",
+        "D": "Regeneration of 11-cis retinal involves visual-cycle enzymes, rather than the immediate cGMP-hydrolysing action of photoreceptor phosphodiesterase.",
+        "E": "Rod light responses mainly involve closure of cyclic nucleotide-gated cation channels, not opening conventional voltage-gated sodium channels."
+      },
       "topicId": "sen-eye",
       "subtopic": "Phototransduction",
       "difficulty": "hard"
@@ -702,7 +816,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Light hyperpolarises the photoreceptor (from about -30 to -90 mV), decreasing its tonic glutamate release.",
+      "why": "Light activates a phototransduction cascade that reduces cGMP and closes outer-segment cation channels. The resulting graded hyperpolarisation reduces calcium-dependent glutamate release, reversing the depolarising response commonly expected of stimulated sensory receptors.",
+      "notes": {
+        "A": "Photoreceptors principally signal through graded membrane potentials and hyperpolarise in response to light rather than generating a single depolarising spike.",
+        "C": "Illumination reduces outer-segment inward current and glutamate secretion, rather than causing further depolarisation and increased transmitter release.",
+        "D": "Retinal ganglion cells encode visual information with action potentials, whereas rods and cones principally use graded electrical and secretory responses.",
+        "E": "Glutamate is the principal neurotransmitter released by photoreceptors onto bipolar and horizontal cells, rather than acetylcholine."
+      },
       "topicId": "sen-eye",
       "subtopic": "Phototransduction",
       "difficulty": "hard"
@@ -734,7 +854,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Pooling many rods boosts sensitivity in dim light at the cost of spatial resolution (acuity).",
+      "why": "Convergence pools signals from multiple rods onto shared downstream retinal neurons, improving the chance of detecting weak light. However, the pooled response provides less information about precisely which receptor was stimulated, decreasing spatial acuity.",
+      "notes": {
+        "A": "Dark adaptation depends on photopigment recovery and neural sensitivity changes; rod convergence does not prevent this recovery in darkness.",
+        "B": "Pooling weak receptor signals generally lowers the detectable light threshold, rather than requiring brighter stimulation for a downstream response.",
+        "D": "Greater convergence sacrifices spatial localisation because several receptors share downstream pathways, rather than increasing the precision of visual acuity.",
+        "E": "Scotopic vision lacks normal colour discrimination chiefly because rods use one photopigment class, not because rod convergence abolishes cone-mediated colour vision."
+      },
       "topicId": "sen-eye",
       "subtopic": "Retinal processing",
       "difficulty": "hard"
@@ -766,7 +892,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Three cone photopsins tuned to long (red), medium (green) and short (blue) wavelengths underlie trichromatic vision.",
+      "why": "Human trichromatic vision compares responses of short-, medium- and long-wavelength-sensitive cones expressing different opsins. Their overlapping sensitivity curves encode colour through relative activation, conventionally described as blue, green and red cone classes.",
+      "notes": {
+        "A": "Normal human cones are not specialised for ultraviolet detection; the three classes principally sample overlapping regions of visible wavelengths.",
+        "B": "Infrared radiation lies outside ordinary human visual sensitivity, whereas long-wavelength-sensitive cones respond within the visible spectrum.",
+        "C": "Yellow, cyan and magenta are colour combinations used in subtractive colour systems, rather than the three physiological cone opsin classes.",
+        "E": "Yellow perception arises through combined cone responses and is not mediated by a separate yellow-sensitive cone class in normal trichromacy."
+      },
       "topicId": "sen-eye",
       "subtopic": "Colour vision",
       "difficulty": "medium"
@@ -798,7 +930,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The red and green opsin genes are X-linked, so males (one X) are affected far more often than females.",
+      "why": "The genes encoding long- and medium-wavelength-sensitive cone opsins lie on the X chromosome. A pathogenic variant in the single X chromosome of a typical male can therefore produce red–green deficiency more readily than in individuals with two X chromosomes.",
+      "notes": {
+        "A": "The Y chromosome does not contain the principal red and green cone opsin gene array responsible for common inherited red–green colour deficiency.",
+        "B": "Common inherited red–green colour deficiency is usually X-linked rather than following a simple autosomal dominant inheritance pattern.",
+        "C": "Mitochondrial inheritance can cause selected optic neuropathies, but it does not explain the usual sex distribution of red–green colour deficiency.",
+        "D": "Chromosome 21 does not carry the principal long- and medium-wavelength cone opsin genes responsible for common red–green deficiency."
+      },
       "topicId": "sen-eye",
       "subtopic": "Colour vision",
       "difficulty": "hard"
@@ -830,7 +968,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Absence of the green cone is deuteranopia; absent red is protanopia; absent blue is tritanopia.",
+      "why": "Deuteranopia is dichromatic colour vision resulting from absence of functional medium-wavelength-sensitive cone pigment. It impairs red–green discrimination because normal comparison between medium- and long-wavelength cone responses cannot occur.",
+      "notes": {
+        "B": "Protanopia involves absence of functional long-wavelength-sensitive cone pigment rather than the medium-wavelength pigment lost in deuteranopia.",
+        "C": "Tritanopia involves impaired or absent short-wavelength cone function and primarily affects blue–yellow rather than ordinary red–green discrimination.",
+        "D": "Monochromacy describes vision supported by only one effective photopigment class, whereas loss of one cone class typically produces dichromacy.",
+        "E": "Normal trichromacy requires functional short-, medium- and long-wavelength-sensitive cone classes, rather than absence of the medium-wavelength pigment."
+      },
       "topicId": "sen-eye",
       "subtopic": "Colour vision",
       "difficulty": "hard"
@@ -894,7 +1038,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Vitamin A is needed to regenerate rhodopsin; its lack impairs dark adaptation, causing night blindness.",
+      "why": "Vitamin A supplies retinal needed for visual pigment regeneration. Deficiency reduces availability of 11-cis retinal and impairs rod sensitivity after bleaching, causing difficulty seeing in dim light before more advanced ocular surface manifestations may develop.",
+      "notes": {
+        "A": "Vitamin B12 deficiency can cause neurological or optic nerve dysfunction, but it does not directly deplete the retinal chromophore of rhodopsin.",
+        "B": "Vitamin C supports collagen synthesis and antioxidant functions, rather than providing the vitamin-derived chromophore required for rod photopigment regeneration.",
+        "D": "Vitamin D regulates calcium and phosphate balance, rather than serving as the biochemical precursor of the light-sensitive visual pigment chromophore.",
+        "E": "Vitamin K supports gamma-carboxylation of clotting proteins, rather than providing the retinal derivative necessary for normal dark adaptation."
+      },
       "topicId": "sen-eye",
       "subtopic": "Adaptation",
       "difficulty": "medium"
@@ -926,7 +1076,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Parasympathetic activity contracts the circular sphincter pupillae to constrict the pupil; sympathetic radial fibres dilate it.",
+      "why": "Parasympathetic fibres activate muscarinic receptors in the circular sphincter pupillae, contracting the iris around its aperture. This reduces pupil diameter in bright light, whereas sympathetic activation of radial dilator fibres enlarges it.",
+      "notes": {
+        "A": "The ciliary muscle changes zonular tension and lens curvature during accommodation, rather than directly constricting the iris aperture.",
+        "B": "The superior tarsal muscle supports upper eyelid elevation under sympathetic control, rather than producing parasympathetic pupillary constriction.",
+        "C": "Levator palpebrae superioris elevates the upper eyelid through somatic oculomotor innervation, not by altering pupil diameter.",
+        "E": "Radial dilator pupillae fibres receive sympathetic innervation and enlarge the pupil rather than constricting it in bright light."
+      },
       "topicId": "sen-eye",
       "subtopic": "Pupil",
       "difficulty": "medium"
@@ -958,7 +1114,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Light reflex: optic tract to pretectum, then the Edinger-Westphal nucleus, whose preganglionic fibres run in CN III to the ciliary ganglion.",
+      "why": "Preganglionic parasympathetic neurons in the Edinger–Westphal region send fibres through the oculomotor nerve to the ciliary ganglion. Postganglionic short ciliary nerves activate the sphincter pupillae during the light reflex.",
+      "notes": {
+        "A": "Pretectal nuclei receive retinal light-related input and project to both Edinger–Westphal regions, rather than directly supplying the ciliary ganglion.",
+        "B": "The lateral geniculate nucleus relays visual information to cerebral cortex and is not the source of pupillary preganglionic parasympathetic fibres.",
+        "C": "The superior colliculus participates in visual orienting and gaze control, rather than providing the principal parasympathetic constrictor motor outflow.",
+        "D": "The superior cervical ganglion supplies sympathetic fibres involved in pupil dilation, rather than the parasympathetic pathway producing constriction."
+      },
       "topicId": "sen-eye",
       "subtopic": "Pupil",
       "difficulty": "hard"
@@ -990,7 +1152,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The consensual reflex constricts the opposite pupil because of bilateral projections to both Edinger-Westphal nuclei.",
+      "why": "Retinal light signals reach pretectal nuclei, which project bilaterally to Edinger–Westphal parasympathetic neurons. Thus unilateral illumination normally activates constrictor pathways in both eyes, producing a direct response ipsilaterally and a consensual response contralaterally.",
+      "notes": {
+        "B": "Accommodation changes lens curvature during near focusing and is not the specific response of the opposite pupil to unilateral illumination.",
+        "C": "The corneal reflex produces blinking after corneal stimulation through trigeminal and facial pathways, rather than consensual pupillary constriction.",
+        "D": "The vestibulo-ocular reflex stabilises gaze during head movements by coordinating eye rotations, rather than responding to unilateral retinal illumination.",
+        "E": "The near response couples convergence, accommodation and miosis during near fixation, rather than specifically describing the opposite pupil's light response."
+      },
       "topicId": "sen-eye",
       "subtopic": "Pupil",
       "difficulty": "medium"
@@ -1022,7 +1190,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Nasal retinal fibres decussate at the chiasm; temporal fibres stay uncrossed.",
+      "why": "Nasal retinal ganglion cell axons cross at the optic chiasm, while temporal retinal axons remain ipsilateral. Because ocular optics reverse horizontal visual fields, each optic tract consequently carries information from the opposite visual hemifield.",
+      "notes": {
+        "A": "Only the nasal portion of the right retina crosses; temporal fibres from that eye continue ipsilaterally in the optic pathway.",
+        "C": "Temporal retinal fibres remain predominantly uncrossed at the chiasm, unlike fibres carrying information from the nasal retinal halves.",
+        "D": "Superior and inferior retinal territories represent lower and upper visual fields respectively; this vertical division does not determine chiasmal crossing.",
+        "E": "Foveal information is divided between pathways according to retinal hemifield organisation, rather than all foveal cone signals crossing exclusively."
+      },
       "topicId": "sen-eye",
       "subtopic": "Visual pathway",
       "difficulty": "hard"
@@ -1054,7 +1228,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Chiasmal damage interrupts the crossing nasal fibres, causing loss of both temporal visual fields (bitemporal hemianopia).",
+      "why": "A central optic chiasmal lesion preferentially damages crossing nasal retinal fibres from both eyes. These fibres represent the temporal visual fields, so their bilateral interruption produces the classical bitemporal hemianopic pattern.",
+      "notes": {
+        "A": "Superior quadrantanopia can result from selected optic radiation lesions, rather than the typical bilateral temporal field loss of central chiasmal compression.",
+        "B": "A central scotoma commonly reflects macular or optic nerve dysfunction, rather than selective interruption of both crossing nasal retinal fibre populations.",
+        "D": "Homonymous hemianopia commonly follows a retrochiasmal lesion affecting the same visual hemifield in both eyes, rather than central chiasmal injury.",
+        "E": "Complete monocular blindness usually results from severe prechiasmal optic nerve or retinal damage, rather than the classical central chiasmal pattern."
+      },
       "topicId": "sen-eye",
       "subtopic": "Visual pathway",
       "difficulty": "hard"
@@ -1086,7 +1266,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The LGN of the thalamus relays visual information via the optic radiations to the primary visual cortex.",
+      "why": "Most optic tract axons terminate in the lateral geniculate nucleus of the thalamus, where visual information is organised and relayed through optic radiations. These projections reach primary visual cortex around the calcarine sulcus.",
+      "notes": {
+        "A": "Pretectal nuclei receive a subset of retinal projections involved in pupillary reflexes, rather than providing the major relay to visual cortex.",
+        "B": "The inferior colliculus processes auditory information in the midbrain, rather than serving as the principal thalamic relay for visual signals.",
+        "C": "Ventral posterior thalamic nuclei relay somatic sensory information, rather than being the principal destination of visual optic tract fibres.",
+        "E": "The medial geniculate nucleus is the principal thalamic auditory relay, whereas visual cortical input is relayed predominantly by the lateral geniculate nucleus."
+      },
       "topicId": "sen-eye",
       "subtopic": "Visual pathway",
       "difficulty": "hard"
@@ -1118,7 +1304,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The eye's optics form a real, inverted, left-right-reversed, smaller image; the brain re-interprets it as upright.",
+      "why": "The cornea and lens converge incoming light to form a real retinal image. Optical inversion reverses both vertical and horizontal spatial relationships, while subsequent neural processing represents objects in their perceived external locations.",
+      "notes": {
+        "A": "A virtual image cannot be projected directly onto a screen, whereas converging ocular optics form a real image on the retina.",
+        "B": "Although the retinal image is real and usually reduced relative to the viewed object, its spatial orientation is inverted rather than upright.",
+        "C": "The retinal image is inverted but real, because incident rays physically converge on the photosensitive retinal surface.",
+        "D": "Ocular optics generally produce an inverted image whose size depends on viewing geometry, rather than an upright magnified retinal projection."
+      },
       "topicId": "sen-eye",
       "subtopic": "Image formation",
       "difficulty": "medium"
@@ -1150,7 +1342,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The lateral rectus abducts the eye; the medial rectus adducts it.",
+      "why": "The lateral rectus pulls the anterior globe laterally, producing abduction away from the nose. It receives motor innervation from the abducens nerve, cranial nerve VI, in contrast to the medially pulling medial rectus.",
+      "notes": {
+        "B": "The medial rectus produces adduction towards the nose, whereas the lateral rectus pulls the visual axis in the opposite horizontal direction.",
+        "C": "Elevation is produced by muscles including superior rectus and inferior oblique, rather than the primary horizontal action of lateral rectus.",
+        "D": "Depression involves inferior rectus and superior oblique actions, rather than the outward horizontal movement generated by lateral rectus contraction.",
+        "E": "Intorsion involves muscles such as superior oblique and superior rectus; lateral rectus primarily abducts the globe."
+      },
       "topicId": "sen-eye",
       "subtopic": "Eye movements",
       "difficulty": "medium"
@@ -1182,7 +1380,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Saccades are the fast jumps between fixation points; smooth pursuit tracks a moving target.",
+      "why": "Saccades are rapid conjugate eye movements that shift the foveae from one fixation target to another. Brainstem and cortical gaze circuits generate their brief high-velocity trajectories, contrasting with continuous tracking of a moving object.",
+      "notes": {
+        "A": "Nystagmus slow phases usually involve drifting eye movements; corrective fast phases may be saccadic but are not the general term for deliberate fixation shifts.",
+        "C": "Smooth pursuit maintains fixation on a moving target through relatively continuous velocity-matched eye movement rather than abrupt jumps.",
+        "D": "Vergence changes the angle between the visual axes to accommodate targets at different depths, rather than rapidly shifting conjugate fixation.",
+        "E": "Vestibulo-ocular movements compensate for head rotation to stabilise the retinal image, rather than primarily redirecting fixation to a new target."
+      },
       "topicId": "sen-eye",
       "subtopic": "Eye movements",
       "difficulty": "medium"
@@ -1214,7 +1418,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "A cataract is lens opacity from clumped crystallins; it is treated by replacing the lens.",
+      "why": "Cataract is loss of transparency of the crystalline lens, often associated with age-related modification and aggregation of lens proteins. Light scattering and reduced transmission impair visual clarity even when retinal sensory pathways remain intact.",
+      "notes": {
+        "A": "Retinal detachment separates the neurosensory retina from underlying supporting tissue, rather than producing opacity within the crystalline lens.",
+        "B": "Keratitis is inflammation of the cornea and may impair corneal transparency, but it is anatomically distinct from lens protein opacification.",
+        "D": "Glaucoma is a progressive optic neuropathy associated with factors including intraocular pressure, rather than the specific loss of crystalline lens transparency.",
+        "E": "Macular degeneration damages the central retinal region and impairs central vision, rather than causing the primary lens opacity of cataract."
+      },
       "topicId": "sen-eye",
       "subtopic": "Lens",
       "difficulty": "easy"
@@ -1278,7 +1488,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The Eustachian tube equalises middle-ear pressure with atmospheric pressure across the tympanic membrane.",
+      "why": "The pharyngotympanic tube connects the middle-ear cavity to the nasopharynx and opens intermittently during actions such as swallowing. This permits pressure equilibration across the tympanic membrane and supports effective vibration and middle-ear ventilation.",
+      "notes": {
+        "A": "Endolymph belongs to the membranous labyrinth of the inner ear and is not normally drained through the pharyngotympanic tube.",
+        "B": "Sound-induced vibration reaches the oval window through the ossicular chain, rather than being transmitted principally through the pharyngotympanic tube.",
+        "C": "Blood reaches the ossicles through local arterial branches, not through the air-containing passage connecting middle ear and nasopharynx.",
+        "D": "Cerumen is produced by glands in the external auditory canal, rather than being secreted into it by the pharyngotympanic tube."
+      },
       "topicId": "sen-ear",
       "subtopic": "Middle ear",
       "difficulty": "medium"
@@ -1310,7 +1526,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Vibration passes eardrum to malleus (hammer), incus (anvil), then stapes (stirrup) at the oval window.",
+      "why": "The malleus attaches to the tympanic membrane and transmits vibration to the incus, which articulates with the stapes. The stapes footplate moves at the oval window, conveying mechanical energy into cochlear fluid.",
+      "notes": {
+        "B": "The stapes lies at the oval window and is the final ossicle in the transmission sequence, not the first attached to the eardrum.",
+        "C": "The incus forms the intermediate ossicle between malleus and stapes, rather than being the first bone receiving tympanic membrane movement.",
+        "D": "The incus connects malleus to stapes, so placing the stapes before the incus reverses the final part of the chain.",
+        "E": "The malleus is attached to the tympanic membrane and precedes the incus, not the reverse order given here."
+      },
       "topicId": "sen-ear",
       "subtopic": "Middle ear",
       "difficulty": "easy"
