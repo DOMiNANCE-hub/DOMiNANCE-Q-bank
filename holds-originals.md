@@ -527,3 +527,51 @@
 - Key: E
 - Concern: Epiglottic connective tissue varies by surface and depth, including loose superficial and denser deeper regions. The unqualified description as dense irregular connective tissue needs the lecture context. Original explanation and key untouched.
 - Reference: standard respiratory histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mrh23 — Tertiary bronchus epithelial type
+- Stem: According to the summary table, a tertiary bronchus is lined by:
+- Key: A
+- Concern: Segmental bronchi commonly have pseudostratified ciliated columnar epithelium, becoming simpler distally. The keyed simple columnar lining is tied to an unavailable summary table. Original explanation and key untouched.
+- Reference: standard histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mrh24 — Relative bronchial muscle development
+- Stem: The smooth muscle layer is most developed (+++) in the:
+- Key: B
+- Concern: The +++ notation is source-specific; smooth-muscle thickness and relative prominence depend on airway calibre and measurement. The comparison table needs verification. Original explanation and key untouched.
+- Reference: standard histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mrh25 — Largest bronchiole epithelial type
+- Stem: In the largest bronchioles the epithelium is:
+- Key: C
+- Concern: Large bronchioles can have ciliated simple columnar or locally pseudostratified epithelium, depending on calibre and nomenclature. The options omit simple columnar, so the intended lecture convention requires review. Original explanation and key untouched.
+- Reference: standard histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mrh29 — Alveolar macrophage origin
+- Stem: Alveolar macrophages are derived from:
+- Key: B
+- Concern: Resident alveolar macrophages are established predominantly from fetal monocyte precursors and can self-renew; circulating monocytes also replenish populations after injury. The stem and explanation imply that ongoing adult monocyte migration is their sole origin. Original explanation and key untouched.
+- Reference: standard histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mrh30 — Macrophage apoptosis in emphysema
+- Stem: Apoptosis of macrophages in the alveolar septa contributes to:
+- Key: C
+- Concern: Emphysema is associated with protease–antiprotease imbalance, oxidative injury and apoptosis of alveolar structural cells. The specific claim that macrophage apoptosis in septa contributes to emphysema requires source verification. Original explanation and key untouched.
+- Reference: standard histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mo4 — Lining mucosa and alveolar papillae
+- Stem: Lining mucosa:
+- Key: {"A":"T","B":"T","C":"F","D":"F","E":"T"}
+- Concern: Connective-tissue papillae vary with oral site. The keyed false statement about numerous deep papillae in alveolar mucosa conflicts with the previous explanation/lecture-derived material flagged in the brief; verify against the original slide. Original explanation and key untouched.
+- Reference: standard histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mo14 — Foliate taste-bud regression
+- Stem: Which papillae have taste buds that degenerate shortly after the 2nd year of life?
+- Key: E
+- Concern: Foliate papillae are more prominent in childhood but may retain functional taste buds in adults. The exact claim of degeneration shortly after the second year is not a universal developmental finding. Original explanation and key untouched.
+- Reference: standard histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mo16 — Taste-cell synaptic terminology
+- Stem: Which taste bud cells do NOT synapse with nerve fibres?
+- Key: A
+- Concern: Type II receptor cells signal to afferents through ATP release channels rather than conventional vesicular synapses; type III cells form conventional synapses. The broad supporting-versus-gustatory options do not reliably distinguish these mechanisms. Original explanation and key untouched.
+- Reference: standard histology; exact edition/page and lecture source not independently checked.
