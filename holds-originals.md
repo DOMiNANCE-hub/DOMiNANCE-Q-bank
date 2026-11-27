@@ -83,3 +83,15 @@
 - Key: A — G cells of the gastric pits.
 - Concern: G cells are indeed the principal source of gastrin, predominantly within the pyloric/antral glands, especially their deeper portions; gastric pits are epithelial invaginations distinct from the glandular compartments. The keyed cell identity is correct but its stated location is imprecise. Recommend changing "gastric pits" to "pyloric/antral glands" during independent review. Original explanation and key untouched.
 - Reference: Ross & Pawlina and Junqueira, gastric mucosa histology (exact edition/page not independently checked).
+
+## dq-phys-gi-053 — contribution of salivary amylase to starch digestion
+- Stem: Salivary amylase contributes little to overall starch digestion because it is
+- Key: C — inactivated by gastric acid.
+- Concern: Acid eventually inhibits salivary amylase, but food buffering allows it to remain active in the gastric contents for some time; a substantial fraction of starch can be hydrolysed before acid penetrates the bolus. The premise that its contribution is necessarily small is not universally valid. Confirm the intended lecture convention and qualify the claim before revising. Original explanation and key untouched.
+- Reference: Guyton & Hall, digestion and absorption of carbohydrates; exact edition/page not independently checked.
+
+## dq-phys-gi-069 — chloride secretion via CFTR
+- Stem: The driving force for fluid secretion by intestinal crypt enterocytes is active movement of
+- Key: D — chloride into the lumen via the CFTR channel.
+- Concern: Net chloride secretion depends indirectly on active transport, but chloride crosses the apical CFTR channel passively down its electrochemical gradient. Basolateral NKCC1 uses the sodium gradient maintained by Na+/K+-ATPase to accumulate intracellular chloride. The wording implies active transport through CFTR itself. Recommend distinguishing secondary active chloride accumulation from passive apical efflux. Original explanation and key untouched.
+- Reference: standard epithelial ion transport physiology (Ganong/Guyton & Hall; exact edition/page not independently checked).
