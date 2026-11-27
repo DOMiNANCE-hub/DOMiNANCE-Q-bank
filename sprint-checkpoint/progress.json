@@ -5,7 +5,7 @@
   "drafts": 79,
   "holds": 29,
   "drafts_pushed": true,
-  "applied_to_data": false,
+  "applied_to_data": true,
   "source_blob": "037e1b58af64c3883a50107f0665ff76259b1f11",
   "next_id": null,
   "remaining_ids": [],
@@ -54,5 +54,7 @@
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC7769018/",
     "https://pubmed.ncbi.nlm.nih.gov/33963548/",
     "https://openstax.org/books/anatomy-and-physiology/pages/26-5-disorders-of-acid-base-balance"
-  ]
+  ],
+  "data_blob": "8b1bfbbe78059a05658a6defdfac84974e623bbb",
+  "next_file": "data/physiology/resp-past.json"
 }
