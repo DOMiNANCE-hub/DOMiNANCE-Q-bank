@@ -701,3 +701,27 @@
 - Key: D — holoprosencephaly.
 - Concern: Holoprosencephaly reflects failed forebrain midline patterning and has heterogeneous genetic and environmental causes, including SHH pathway defects. Insufficient migration around the oropharyngeal membrane alone is an oversimplified causal explanation. Original explanation and key untouched.
 - Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-cvs-011 — Key or premise review
+- Stem: The crista terminalis of the adult right atrium is the persistent
+- Key: A — septum spurium.
+- Concern: Crista terminalis is conventionally related to incorporation of the right sinus horn and persistence of the right venous valve; the septum spurium contribution is described differently in texts. Verify the exact lecture attribution. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-cvs-023 — Key or premise review
+- Stem: A heart that loops to the right as a mirror image, with its apex pointing right, is
+- Key: C — dextrocardia.
+- Concern: Normal cardiac looping is rightward (D-loop). Mirror-image looping is usually leftward; dextrocardia refers to rightward cardiac orientation, not ordinary rightward looping. The premise is internally misleading. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-cvs-028 — Key or premise review
+- Stem: In utero the ductus arteriosus carries approximately what proportion of right-ventricular output to the descending aorta?
+- Key: C — 80 to 90%.
+- Concern: The fraction of right ventricular output traversing the ductus varies with gestation and pulmonary flow, particularly late in pregnancy. The fixed 80–90% range requires lecture-specific verification. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-cvs-031 — Key or premise review
+- Stem: Closure of the ductus venosus after birth is promoted by
+- Key: A — a fall in prostaglandins after cord clamping.
+- Concern: Ductus venosus closure primarily follows cessation of umbilical venous flow and haemodynamic changes after cord clamping. Prostaglandin withdrawal is better established for ductus arteriosus closure; verify the keyed mechanism. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
