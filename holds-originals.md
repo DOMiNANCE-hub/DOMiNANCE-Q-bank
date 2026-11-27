@@ -821,3 +821,15 @@
 - Key: C — paraxial mesoderm.
 - Concern: Classical neural induction is attributed to organiser-derived axial mesoderm, including notochord and prechordal mesoderm, with complex interactions involving nearby tissues. The keyed paraxial mesoderm is not the conventional paired inducer, and the expected option is absent. Original explanation and key untouched.
 - Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-limbs-018 — Key or premise review
+- Stem: The upper limb buds lie opposite which spinal segments?
+- Key: C — C5 to T2.
+- Concern: The exact axial levels of early upper limb buds vary with developmental stage and reference. C5–T1 is the usual brachial plexus root range, whereas descriptions of bud position may span different somite levels. Verify the lecture-specific C5–T2 value. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-g-057 — Key or premise review
+- Stem: At puberty, spermatogenesis in the seminiferous tubules is directly initiated by
+- Key: A — FSH from the anterior pituitary.
+- Concern: Pubertal spermatogenesis requires coordinated FSH action on Sertoli cells and high intratesticular testosterone generated under LH stimulation. The stem asks for a single direct initiator despite listing both FSH and testosterone; neither alone adequately explains initiation. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
