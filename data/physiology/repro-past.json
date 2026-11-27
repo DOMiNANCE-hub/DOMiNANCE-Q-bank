@@ -69,12 +69,12 @@
       }
      ],
      "correctAnswer": "A",
-     "why": "Oxytocin stimulates uterine smooth muscle contractions during labor.",
+     "why": "Oxytocin binds receptors on uterine smooth muscle and increases intracellular calcium, stimulating contractions. Near term, the uterus expresses more oxytocin receptors and becomes more responsive to this signal.",
      "notes": {
-      "B": "FSH drives follicle growth.",
-      "C": "LH triggers ovulation.",
-      "D": "Prolactin drives milk production.",
-      "E": "Oestrogen makes the uterus more responsive but is not the contraction trigger."
+      "B": "FSH promotes ovarian follicle development. Its principal action is not acute contraction of uterine smooth muscle.",
+      "C": "LH triggers ovulation and supports the corpus luteum. It is not the direct uterotonic signal in labour.",
+      "D": "Prolactin supports mammary milk production. Uterine contraction is a characteristic action of oxytocin.",
+      "E": "Oestrogen can increase myometrial responsiveness and oxytocin receptor expression near term. Oxytocin directly stimulates the contraction reflex."
      },
      "topicId": "repro-preg",
      "subtopic": "",
@@ -107,12 +107,12 @@
       }
      ],
      "correctAnswer": "C",
-     "why": "Sertoli cells in the seminiferous tubules produce androgen-binding protein (ABP) under FSH stimulation to maintain high testosterone levels for spermatogenesis.",
+     "why": "Sertoli cells produce androgen-binding protein in the seminiferous tubules, especially under FSH stimulation. It helps maintain a high local androgen concentration required for normal spermatogenesis.",
      "notes": {
-      "A": "The adrenals do not make ABP.",
-      "B": "The hypothalamus makes GnRH.",
-      "D": "Leydig cells make testosterone.",
-      "E": "ABP is a testicular protein."
+      "A": "The adrenal cortex produces adrenal androgens. It is not the source of the Sertoli-cell binding protein in seminiferous tubules.",
+      "B": "The hypothalamus releases GnRH to regulate pituitary gonadotropins. It does not supply androgen-binding protein to the tubule lumen.",
+      "D": "Leydig cells make testosterone in response to LH. Sertoli cells supply the binding protein within the seminiferous environment.",
+      "E": "Ovarian cells produce reproductive steroids, but the testicular androgen-binding protein in this question comes from Sertoli cells."
      },
      "topicId": "repro-male",
      "subtopic": "",
@@ -145,12 +145,12 @@
       }
      ],
      "correctAnswer": "D",
-     "why": "Human chorionic gonadotropin (hCG) is the basis for standard urine and blood pregnancy tests.",
+     "why": "Early pregnancy tests measure hCG in blood or urine. Trophoblast starts producing hCG around implantation, and the hormone helps maintain the corpus luteum and progesterone secretion early in gestation.",
      "notes": {
-      "A": "FSH is not a pregnancy marker.",
-      "B": "Progesterone also rises in the luteal phase of every cycle.",
-      "C": "LH cross-reacts but is not the test target.",
-      "E": "Oestrogen rises in every cycle."
+      "A": "FSH regulates follicle development and is present in nonpregnant cycles. It is not the marker used for a pregnancy test.",
+      "B": "Progesterone supports the endometrium and also rises after ovulation in nonpregnant cycles, so it is less specific for early detection.",
+      "C": "LH surges before ovulation and is structurally related to hCG. Pregnancy assays are designed to detect hCG rather than LH.",
+      "E": "Oestrogen varies during ordinary menstrual cycles and is not the distinctive early trophoblast marker."
      },
      "topicId": "repro-preg",
      "subtopic": "",
@@ -183,12 +183,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "These are all classic physiological changes during the menstrual cycle.",
+     "why": "Oestradiol from developing follicles promotes endometrial proliferation and makes cervical mucus more fluid before ovulation. The LH surge triggers ovulation. Progesterone from the corpus luteum then raises basal body temperature slightly.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "Oestradiol stimulates growth of the endometrium during the proliferative phase.",
+      "B": "The relatively high oestradiol around ovulation increases the water content of cervical mucus and facilitates sperm passage.",
+      "C": "The mid-cycle LH surge triggers the events that culminate in release of the oocyte.",
+      "D": "Progesterone has a thermogenic effect, so basal body temperature rises slightly during the luteal phase."
      },
      "topicId": "repro-female",
      "subtopic": "",
@@ -222,12 +222,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "Fertilization occurs in the fallopian tube, triggers the cortical reaction (preventing polyspermy), and the resulting zygote secretes hCG after implantation.",
+     "why": "Fertilisation usually occurs in the ampulla of the uterine tube. Entry of the first sperm triggers changes that limit polyspermy. The developing embryo typically begins implantation about a week later, and trophoblastic hCG becomes detectable during the following days.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "The ampulla of the uterine tube is the usual site where sperm and oocyte meet.",
+      "B": "Fusion triggers cortical granule release and changes in the zona pellucida, which help block further sperm entry.",
+      "C": "Cleavage and transport through the tube take several days. Implantation occurs about six to seven days after fertilisation.",
+      "D": "Trophoblast produces hCG as implantation begins, and sensitive assays can detect it within roughly two weeks of fertilisation."
      },
      "topicId": "repro-preg",
      "subtopic": "",
@@ -261,12 +261,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "Testosterone provides negative feedback to the pituitary (LH), causes epiphyseal closure, promotes protein synthesis (positive nitrogen balance), and drives male secondary sex characteristics.",
+     "why": "Testosterone participates in negative feedback on LH, promotes protein anabolism and stimulates androgen-dependent body hair. Conversion of testosterone to oestradiol makes an important contribution to growth plate closure at the end of puberty.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "Testosterone and its aromatised product oestradiol provide feedback to the hypothalamic–pituitary axis, reducing LH drive when androgen levels are sufficient.",
+      "B": "Oestradiol derived from testosterone promotes fusion of the growth plates in long bones during late puberty.",
+      "C": "Androgen action favours protein synthesis and can produce positive nitrogen balance, especially during growth.",
+      "D": "Testosterone and dihydrotestosterone increase terminal hair growth in androgen-sensitive areas of the body."
      },
      "topicId": "repro-male",
      "subtopic": "",
@@ -338,12 +338,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "Newborns have immature liver function (jaundice), immature thermoregulation, an immature immune system, and immature kidneys.",
+     "why": "Several systems continue to mature after birth. Newborns have less efficient bilirubin clearance and renal water handling, less reserve for temperature control, and less mature antibody responses than adults.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "Hepatic bilirubin uptake and conjugation are less efficient after birth, helping explain the common rise in unconjugated bilirubin.",
+      "B": "A relatively large surface area and limited cold-defence reserve make temperature harder to maintain, even with brown fat thermogenesis.",
+      "C": "Newborns can make antibodies, but some responses are less mature. Placental transfer of maternal IgG provides early passive protection.",
+      "D": "Immature renal filtration and tubular function limit the ability to handle water loads and produce maximally concentrated urine."
      },
      "topicId": "repro-fetal",
      "subtopic": "",
@@ -377,12 +377,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "Androgens are produced by the fetal testes, the female ovaries (and adrenal glands), and male adrenal glands, and decline gradually with age.",
+     "why": "Androgens are produced in both sexes. The fetal testis is active during male development and androgen output is low through much of childhood. Ovaries and adrenal cortices contribute to circulating androgens, and average testosterone in men tends to decline with age.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "Male fetal testosterone rises during genital development. Testicular androgen output is much lower during most of the prepubertal interval.",
+      "B": "Ovarian theca cells produce androgens, some of which are converted to oestrogens by granulosa cells.",
+      "C": "The adrenal zona reticularis produces androgens such as DHEA in males as well as in females.",
+      "D": "Average testosterone can decline after early adulthood. The rate and timing vary considerably between men."
      },
      "topicId": "repro-male",
      "subtopic": "",
@@ -416,12 +416,12 @@
       }
      ],
      "correctAnswer": "D",
-     "why": "Cryptorchidism is the failure of one or both testes to descend into the scrotum.",
+     "why": "Cryptorchidism means that one or both testes have not descended into the scrotum. An undescended testis may be located along the normal path of descent, for example in the inguinal canal.",
      "notes": {
-      "A": "Normal descent is not cryptorchidism.",
-      "B": "Hypogonadism is reduced gonadal function.",
-      "C": "Hyperfunction is not the meaning.",
-      "E": "Priapism is a persistent erection."
+      "A": "Normal descent brings the testes into the scrotum. Cryptorchidism describes a failure of that process.",
+      "B": "Hypogonadism means deficient gonadal hormone action or function. It is not the anatomical definition of an undescended testis.",
+      "C": "Excess testicular function does not describe the position of the testes. Cryptorchidism is defined by failure of descent.",
+      "E": "Priapism is a prolonged penile erection and is unrelated to the testicular position described here."
      },
      "topicId": "repro-male",
      "subtopic": "",
@@ -454,12 +454,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "Fetal hemoglobin (HbF) has a higher affinity for oxygen, allowing it to extract oxygen from maternal blood across the placenta.",
+     "why": "Fetal haemoglobin binds 2,3-bisphosphoglycerate less strongly than adult haemoglobin. Its oxygen dissociation curve is shifted left, helping fetal blood load oxygen from maternal blood at the placenta.",
      "notes": {
-      "A": "Some HbA is present in fetal blood.",
-      "B": "HbF falls to low levels by about 6 months.",
-      "C": "Carrying capacity per gram is the same.",
-      "D": "HbF binds 2,3-DPG LESS avidly."
+      "A": "Fetal blood contains predominantly haemoglobin F, but other haemoglobin types can be present, including some adult haemoglobin later in gestation.",
+      "B": "Haemoglobin F decreases after birth as haemoglobin A production rises. It does not normally remain the majority throughout the first year.",
+      "C": "Haemoglobin F has higher oxygen affinity. Each fully saturated tetramer still carries up to four oxygen molecules, as does adult haemoglobin.",
+      "D": "Fetal gamma chains reduce binding of 2,3-bisphosphoglycerate, which contributes to higher oxygen affinity."
      },
      "topicId": "repro-fetal",
      "subtopic": "",
@@ -492,12 +492,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "Spermatogenesis requires the hormonal support of LH and FSH, high local testosterone levels, and a cooler scrotal temperature.",
+     "why": "Normal spermatogenesis is supported by high intratesticular testosterone, LH stimulation of Leydig cells and FSH action on Sertoli cells. The scrotum helps maintain a testicular temperature below core temperature, which favours germ cell development.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "Testosterone supports meiotic and postmeiotic germ cell development and is normally present at high concentrations within the testis.",
+      "B": "LH activates Leydig cells and promotes testosterone synthesis, supporting the intratesticular androgen supply.",
+      "C": "FSH acts on Sertoli cells, helping them support germ cell development and normal sperm output.",
+      "D": "Testicular temperature is normally a few degrees below core temperature. Sustained heating can impair sperm production."
      },
      "topicId": "repro-male",
      "subtopic": "",
@@ -531,12 +531,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "Prolactin (anterior pituitary) drives milk production, while oxytocin (posterior pituitary) drives milk ejection. Both are maintained by suckling reflexes.",
+     "why": "Milk production depends on prolactin from the anterior pituitary and on regular milk removal. Suckling promotes prolactin release and triggers oxytocin release from the posterior pituitary, which contracts mammary myoepithelial cells for milk ejection.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "Hypothalamic dopamine inhibits prolactin release from lactotrophs and can therefore suppress milk production.",
+      "B": "Suckling provides neuroendocrine stimulation as well as repeated milk removal, both important for maintaining supply.",
+      "C": "Loss of anterior pituitary prolactin removes a key stimulus for milk synthesis and can cause lactation failure.",
+      "D": "Loss of the usual neurohypophyseal oxytocin release pathway can impair or abolish the normal suckling-triggered milk ejection reflex."
      },
      "topicId": "repro-preg",
      "subtopic": "",
@@ -609,12 +609,12 @@
       }
      ],
      "correctAnswer": "C",
-     "why": "Leydig (interstitial) cells are stimulated by LH to secrete testosterone.",
+     "why": "Testicular interstitial cells are Leydig cells. LH acts on these cells to promote steroidogenesis and testosterone release. FSH primarily acts on adjacent Sertoli cells within the seminiferous tubules.",
      "notes": {
-      "A": "Seminal fluid comes from the glands and tubules.",
-      "B": "Inhibin comes from Sertoli cells.",
-      "D": "FSH acts on Sertoli cells.",
-      "E": "Leydig cells function in the fetus before descent."
+      "A": "Most seminal fluid volume comes from accessory glands, especially the seminal vesicles and prostate. Leydig cells chiefly secrete testosterone.",
+      "B": "Inhibin B is produced by Sertoli cells and contributes to feedback on pituitary FSH secretion.",
+      "D": "FSH acts mainly on Sertoli cells. Leydig steroid production responds primarily to LH.",
+      "E": "An undescended testis can retain Leydig cell function even when a higher temperature impairs germ cell development and fertility."
      },
      "topicId": "repro-male",
      "subtopic": "",
@@ -647,12 +647,12 @@
       }
      ],
      "correctAnswer": "D",
-     "why": "Leydig cells in the testes secrete testosterone.",
+     "why": "Leydig cells in testicular interstitial tissue are the main source of testosterone in males. LH stimulates their conversion of cholesterol into steroid hormones.",
      "notes": {
-      "A": "Sertoli cells make ABP and inhibin.",
-      "B": "The adrenal medulla makes catecholamines.",
-      "C": "The hypothalamus makes GnRH.",
-      "E": "Pancreatic B cells make insulin."
+      "A": "Sertoli cells support spermatogenesis and secrete products such as inhibin B and androgen-binding protein. They are not the principal source of circulating testosterone.",
+      "B": "The adrenal medulla releases catecholamines. Adrenal androgen precursors come from the cortex.",
+      "C": "The hypothalamus controls testicular activity indirectly by releasing GnRH, which stimulates pituitary gonadotropins.",
+      "E": "Pancreatic beta cells secrete insulin. They are not steroid-producing testicular cells."
      },
      "topicId": "repro-male",
      "subtopic": "",
@@ -685,12 +685,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "Emission (sympathetic, L1–L2) moves semen into the urethra by smooth muscle contraction. Ejaculation proper is a spinal reflex with rhythmic contraction of the bulbospongiosus and ischiocavernosus (striated) muscles.",
+     "why": "Ejaculation is coordinated by spinal circuits. Sympathetic activity drives emission by contracting smooth muscle in the reproductive ducts and glands. Rhythmic contractions of striated pelvic muscles then help expel semen.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "Ejaculation is coordinated by spinal reflex circuitry that integrates autonomic and somatic motor output.",
+      "B": "Sympathetic fibres promote emission of semen into the posterior urethra by activating reproductive tract smooth muscle.",
+      "C": "Rhythmic contractions of the bulbospongiosus and other perineal muscles help propel semen out of the urethra.",
+      "D": "Contraction of the vas deferens and seminal vesicles helps move sperm and glandular secretions into the urethra."
      },
      "topicId": "repro-male",
      "subtopic": "",
@@ -724,12 +724,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "Stress, weight loss, and continuous hormonal administration disrupt the normal pulsatile HPG axis, leading to amenorrhea.",
+     "why": "Stress and severe energy deficit can suppress hypothalamic GnRH pulses. Continuous exposure to a GnRH agonist can desensitise pituitary receptors, and sustained exogenous sex steroid exposure can suppress normal cycling in some settings. Any of these can lead to amenorrhoea.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "Psychological stress can disrupt hypothalamic GnRH pulsatility and impair ovulation.",
+      "B": "Severe weight loss or low energy availability can suppress reproductive signalling and cause functional hypothalamic amenorrhoea.",
+      "C": "Sustained oestrogen exposure can alter gonadotropin feedback and disrupt ovulatory cycling. Bleeding effects depend on the dose and endometrial exposure.",
+      "D": "Continuous GnRH receptor stimulation can downregulate pituitary responsiveness. Physiological pulsatile stimulation normally maintains gonadotropin release."
      },
      "topicId": "repro-female",
      "subtopic": "",
@@ -763,12 +763,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "Combined oral contraceptives prevent ovulation by suppressing FSH/LH via negative feedback, can cause fluid retention, and prevent regular menstruation.",
+     "why": "Continuous combined oestrogen and progestogen can suppress pituitary gonadotropins and ovulation and can reduce or eliminate scheduled bleeding. Some people still have unscheduled spotting. Oestrogen can also contribute to fluid retention.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "Continuous use suppresses scheduled withdrawal bleeding by avoiding a hormone-free interval, though complete amenorrhoea is not guaranteed.",
+      "B": "Oestrogen can affect hepatic angiotensinogen and fluid balance. The degree of salt and water retention varies with the regimen.",
+      "C": "The hormones provide negative feedback to the hypothalamic–pituitary axis, decreasing normal gonadotropin stimulation.",
+      "D": "The developing follicle normally requires gonadotropin stimulation and an LH surge for ovulation. The combined hormones can suppress both."
      },
      "topicId": "repro-preg",
      "subtopic": "",
@@ -841,12 +841,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "Excess androgens in females (e.g., in PCOS or adrenal tumors) cause virilization, hirsutism, and amenorrhea.",
+     "why": "Sustained severe androgen excess in an adult woman can cause virilisation, including clitoral enlargement, voice deepening and more terminal facial hair. It can also disrupt normal ovarian cycling and cause amenorrhoea.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "Marked or prolonged androgen excess can stimulate clitoral growth.",
+      "B": "Androgen effects on the larynx and vocal folds can deepen the voice during virilisation.",
+      "C": "Androgen-sensitive facial hair follicles can produce more terminal hair, causing hirsutism.",
+      "D": "Excess androgen can accompany impaired ovulation and lead to irregular cycles or amenorrhoea."
      },
      "topicId": "repro-female",
      "subtopic": "",
