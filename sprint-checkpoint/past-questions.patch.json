@@ -786,5 +786,239 @@
       "D": "Rapid filling requires open atrioventricular valves and falling ventricular pressure. Neither condition describes early systolic contraction.",
       "E": "Slow filling occurs later in diastole before atrial contraction. Ventricular pressure generation with closed valves is a separate phase."
     }
+  },
+  "set-03-A-037": {
+    "why": "Asynchronous contraction is the early part of ventricular systole, when different ventricular regions develop tension as activation spreads. Coordinated pressure rise then leads into isovolumetric contraction.",
+    "notes": {
+      "B": "The ventricles are beginning to contract, so this is an early systolic event rather than a filling or relaxation phase.",
+      "C": "Semilunar closure occurs at the end of ejection and begins isovolumetric relaxation, much later than initial activation.",
+      "D": "By semilunar opening the ventricles have already completed isovolumetric pressure development and are ready to eject.",
+      "E": "Atrioventricular opening marks the start of filling in diastole. Early ventricular contraction occurs later."
+    }
+  },
+  "set-03-A-038": {
+    "why": "Standard bipolar limb leads I, II and III each record a voltage difference between two limb electrodes. Their orientations view the heart in the frontal plane.",
+    "notes": {
+      "A": "The augmented limb leads use a limb electrode compared with a composite reference, so they are conventionally called unipolar leads.",
+      "C": "The precordial leads use chest electrodes and a composite reference. They view activation mainly in the horizontal plane.",
+      "D": "The standard limb combination is valid. Adding the augmented leads would include recordings outside the standard bipolar set.",
+      "E": "Neither the augmented limb leads nor the precordial leads form the standard bipolar limb group."
+    }
+  },
+  "set-03-A-040": {
+    "why": "Arterial baroreceptors adjust autonomic output in both directions. Falling pressure evokes a pressor response, while rising pressure evokes a depressor response that buffers the change.",
+    "notes": {
+      "B": "Reduced baroreceptor firing favours a pressor response. Increased firing activates the opposite reflex direction.",
+      "C": "The arterial baroreflex is especially important for rapid pressure buffering. Sustained regulation also involves renal and endocrine mechanisms.",
+      "D": "Increased firing produces a depressor response, but falling firing can increase sympathetic tone and evoke a pressor response.",
+      "E": "The Bainbridge response is associated with atrial stretch during increased venous return. The arterial pressure reflex uses separate receptors."
+    }
+  },
+  "set-03-A-041": {
+    "why": "Cardiac sympathetic fibres directly accelerate the sinoatrial pacemaker. Noradrenaline stimulates beta-1 receptors, increasing the rate at which pacemaker cells reach threshold between beats.",
+    "notes": {
+      "B": "Parasympathetic stimulation releases acetylcholine and usually slows the sinoatrial node through muscarinic signalling.",
+      "C": "A fall in pressure can raise heart rate through the baroreflex. The direct cardiac effector is altered autonomic input.",
+      "D": "Lower pressure acts indirectly through a reflex, and increased vagal stimulation tends to slow rather than accelerate the heart.",
+      "E": "Sympathetic input has a direct positive chronotropic effect and is included among the choices."
+    }
+  },
+  "set-03-A-042": {
+    "why": "Longer-term arterial pressure control depends strongly on renal sodium and water balance and on hormonal signals such as the renin–angiotensin–aldosterone system. These alter extracellular and circulating volume.",
+    "notes": {
+      "A": "Neural reflexes rapidly buffer changes in pressure, but durable regulation also requires adjustment of fluid and sodium balance.",
+      "B": "Arterial baroreflexes can reset during sustained pressure changes. They mainly supply rapid pressor and depressor buffering.",
+      "D": "Chemoreceptor reflexes respond to changes in gases and acidity. They do not provide the main long-term blood-volume correction.",
+      "E": "The hypothalamus participates in autonomic and fluid regulation. The principal long-term mechanism here includes renal and hormonal volume control."
+    }
+  },
+  "set-03-A-043": {
+    "why": "The sinoatrial node generates spontaneous impulses faster than other cardiac pacemaker tissues under ordinary conditions. Its impulses initiate normal sinus rhythm and entrain downstream conducting cells.",
+    "notes": {
+      "A": "The atrioventricular node conducts impulses from atria to ventricles and can contribute to a slower junctional escape rhythm.",
+      "B": "Purkinje fibres distribute excitation in the ventricles. Their intrinsic escape rate is usually much slower than sinoatrial firing.",
+      "C": "The atrioventricular bundle conducts impulses into the ventricular conduction system and is ordinarily activated by the upstream pacemaker.",
+      "E": "The sinoatrial node is explicitly listed and normally initiates the heart’s rhythm."
+    }
+  },
+  "set-03-A-044": {
+    "why": "The T wave reflects ventricular repolarisation. Differences in the timing of electrical recovery across the ventricular wall generate a measurable signal after the ST segment.",
+    "notes": {
+      "A": "Resting membrane potential is a cellular electrical state. The T wave is generated by changes during ventricular recovery.",
+      "B": "The P wave represents atrial depolarisation. It occurs before the ventricular QRS complex and T wave.",
+      "C": "Sinoatrial excitation initiates the beat, but its small signal is not separately identifiable on the routine surface ECG.",
+      "E": "Purkinje activation helps produce rapid ventricular excitation before the T wave. The T wave reflects recovery of ventricular myocardium."
+    }
+  },
+  "set-03-A-045": {
+    "why": "Ejection fraction is stroke volume divided by end-diastolic volume. Dividing 70 millilitres by 0.55 gives approximately 127 millilitres, closest to 130 millilitres.",
+    "notes": {
+      "A": "An end-diastolic volume of 50 millilitres cannot supply a stroke volume of 70 millilitres from that chamber.",
+      "B": "If 70 millilitres were both the filling volume and the ejected volume, the ejection fraction would be 100 percent.",
+      "C": "A 100-millilitre end-diastolic volume and 70-millilitre stroke volume would give an ejection fraction of 70 percent.",
+      "E": "With a 200-millilitre filling volume and a 70-millilitre stroke volume, the ejection fraction would be 35 percent."
+    }
+  },
+  "set-03-A-046": {
+    "why": "Greater vagal tone slows spontaneous depolarisation of sinoatrial nodal cells via muscarinic receptors. The longer interval between beats produces bradycardia and may also slow atrioventricular conduction.",
+    "notes": {
+      "A": "A slower rate can lower cardiac output if stroke volume is unchanged. Hypertension is not a direct effect of cardiac vagal stimulation.",
+      "B": "Tachycardia is an increase in heart rate. Vagal acetylcholine generally produces the opposite pacemaker response.",
+      "D": "Slowing of heart rate can lower output unless stroke volume changes sufficiently to compensate.",
+      "E": "A longer filling time could influence stroke volume indirectly. The characteristic direct effect is slowing of pacemaker discharge."
+    }
+  },
+  "set-03-A-047": {
+    "why": "The dicrotic notch appears near aortic valve closure at the end of ventricular ejection. Brief reversal of flow and elastic recoil produce a notch on the aortic pressure trace.",
+    "notes": {
+      "A": "Mitral closure occurs before ejection and contributes to the first heart sound. The notch follows ejection.",
+      "B": "Tricuspid closure is an early systolic event on the right. It does not generate the systemic arterial notch.",
+      "D": "Pulmonary valve closure relates to events in the pulmonary artery. The aortic notch reflects the left ventricular outflow valve.",
+      "E": "Atrioventricular opening occurs after isovolumetric relaxation begins. The aortic valve has already closed at the notch."
+    }
+  },
+  "set-03-A-048": {
+    "why": "Vessel radius has a large effect on regional vascular resistance. Under a simple laminar-flow model resistance varies with the inverse fourth power of radius, making arteriolar tone important.",
+    "notes": {
+      "A": "Higher viscosity increases resistance linearly in the ideal laminar-flow relationship. Radius has a fourth-power effect.",
+      "B": "Resistance increases with vessel length. Acute regional control mostly changes calibre rather than vessel length.",
+      "C": "Laminar flow is an assumption used to describe the radius–resistance relation. It is not the geometric variable the region adjusts.",
+      "E": "Venous valves help prevent backflow. Most rapid regional resistance changes result from altered arteriolar calibre."
+    }
+  },
+  "set-03-A-050": {
+    "why": "A typical resting adult sinus rate lies near 60 to 90 beats per minute. Clinical reference ranges can extend to 100, and trained individuals can have lower resting rates.",
+    "notes": {
+      "A": "Rates well above 100 beats per minute in a resting adult represent tachycardia unless the clinical context changes the interpretation.",
+      "B": "Forty to sixty is often quoted as the intrinsic junctional escape range. It can also occur with low resting sinus rates in trained adults.",
+      "C": "A resting rate around 50 can be physiological in some individuals. It is below the usual range intended by this question.",
+      "E": "Twenty to forty is more typical of a distal ventricular escape pacemaker than normal resting sinus rhythm."
+    }
+  },
+  "set-03-A-051": {
+    "why": "A premature ventricular beat often leaves the sinus-node timing unchanged. The next conducted beat then occurs on the original sinus schedule, producing a full compensatory pause.",
+    "notes": {
+      "A": "A premature atrial impulse commonly reaches and resets the sinoatrial node. The resulting pause is usually incomplete.",
+      "B": "Premature ventricular and atrial beats often differ in whether sinus timing is reset, so a full pause is not typical of both.",
+      "D": "Atrial fibrillation has irregular ventricular timing. It does not normally provide the stable sinus cycle needed to identify a classical full pause.",
+      "E": "Flutter timing and atrioventricular conduction can vary. The standard full compensatory pause is described relative to sinus rhythm."
+    }
+  },
+  "set-03-A-053": {
+    "why": "Under normal conditions, the sinoatrial node discharges before other latent pacemakers and determines heart rhythm. A slower escape focus can take over if sinus impulses fail.",
+    "notes": {
+      "A": "The His bundle transmits impulses to the bundle branches. It is ordinarily activated by the upstream sinus impulse.",
+      "B": "The atrioventricular node influences conduction delay and can contribute to escape rhythm. It does not normally set sinus rhythm.",
+      "D": "Purkinje fibres rapidly carry ventricular impulses and can generate slow escape activity if higher pacemakers fail.",
+      "E": "The bundle branches distribute activation to the ventricles. In normal rhythm they follow the impulse initiated in the atria."
+    }
+  },
+  "set-03-A-054": {
+    "why": "Tachycardia is a heart rate above the expected range for the setting, conventionally above 100 beats per minute in a resting adult. Its mechanism can vary.",
+    "notes": {
+      "A": "Tachypnoea means an increased respiratory rate. It concerns breathing rather than heart rate.",
+      "B": "Bradycardia refers to a low heart rate, which is the reverse of the finding asked about.",
+      "C": "Atrial fibrillation is a particular rhythm with disorganised atrial activity. Its ventricular rate can be fast, normal or slow.",
+      "D": "Atrial flutter is a specific atrial tachyarrhythmia. The general term for a fast heart rate does not specify that rhythm."
+    }
+  },
+  "set-03-A-055": {
+    "why": "A junctional escape rhythm commonly runs at about 40 to 60 beats per minute. The atrioventricular junction takes over when faster impulses from the sinoatrial node stop reaching it.",
+    "notes": {
+      "A": "This range is typical of resting sinus rhythm. A junctional escape focus normally fires more slowly.",
+      "B": "Twenty to forty beats per minute is more typical of a distal ventricular escape rhythm.",
+      "C": "A junctional rhythm around 75 may be accelerated. It exceeds the classic range for a passive junctional escape.",
+      "E": "This wide range mixes several possible rates. A usual junctional escape is confined to a much narrower interval."
+    }
+  },
+  "set-03-A-056": {
+    "why": "Automaticity is spontaneous electrical activity without an external stimulus. It occurs in cardiac pacemaker tissue and also in some spontaneously active neurons and smooth muscle cells.",
+    "notes": {
+      "A": "Cardiac conducting cells can fire spontaneously, but automaticity also occurs in some neuronal and smooth muscle populations.",
+      "B": "Typical skeletal muscle fibres require motor neuron activation. Striation does not establish whether a tissue fires spontaneously.",
+      "D": "Excitability is the ability to respond to a stimulus. Only some excitable cells can initiate impulses spontaneously.",
+      "E": "Some smooth muscle is spontaneously active, but cardiac pacemaker cells and certain neurons also show automaticity."
+    }
+  },
+  "set-03-A-057": {
+    "why": "Working myocardial cells have a rapid sodium-dependent upstroke followed by a plateau and delayed repolarisation. This long action potential differs from the shorter one in skeletal muscle.",
+    "notes": {
+      "A": "A slow upstroke can occur in nodal cells. Working ventricular cells depolarise rapidly and have a prolonged action potential.",
+      "C": "The ventricular upstroke is rapid, but the plateau makes the total repolarisation process prolonged compared with skeletal muscle.",
+      "D": "A slow initial upstroke is not typical of working atrial or ventricular myocardium, which has fast sodium channels.",
+      "E": "Slow waves plus superimposed spikes describe some smooth muscle activity. Working cardiomyocytes have a distinct plateau potential."
+    }
+  },
+  "set-03-A-058": {
+    "why": "The P wave represents depolarisation spreading through right and left atrial muscle. It occurs before ventricular activation, which produces the QRS complex.",
+    "notes": {
+      "A": "Atrial repolarisation occurs later and is usually obscured by the much larger QRS complex.",
+      "B": "Ventricular depolarisation generates the QRS complex. The preceding P wave comes from atrial activation.",
+      "D": "The P wave reflects activation, when atrial membrane potentials become less negative. It does not represent hyperpolarisation.",
+      "E": "The interval up to ventricular activation includes atrioventricular and conducting-system transit. The P wave itself covers atrial depolarisation."
+    }
+  },
+  "set-03-A-059": {
+    "why": "Asynchronous ventricular contraction occurs at the start of systole as activation spreads through the ventricular muscle. Inflow and outflow valve transitions occur during later pressure changes.",
+    "notes": {
+      "B": "Ventricular diastole consists of relaxation and filling. Asynchronous contraction is part of early active systole.",
+      "C": "Semilunar valves close at the end of ejection, and isovolumetric relaxation begins with both sets of valves closed.",
+      "D": "Opening of semilunar valves starts ventricular ejection. Initial contraction and pressure development precede it.",
+      "E": "Atrioventricular valves open when ventricular pressure falls below atrial pressure. This occurs in diastole before the next contraction."
+    }
+  },
+  "set-03-A-060": {
+    "why": "In complete atrioventricular block, atrial impulses fail to conduct to the ventricles. The atria follow their own rhythm while a junctional or ventricular escape focus produces independent QRS complexes.",
+    "notes": {
+      "A": "A consistently prolonged PR interval with every P wave conducted describes first-degree atrioventricular delay.",
+      "B": "Progressive PR lengthening followed by a dropped beat characterises second-degree Mobitz type I block.",
+      "C": "Intermittent dropped QRS complexes with an otherwise fixed PR interval fit second-degree Mobitz type II block.",
+      "D": "Absent distinct P waves and an irregularly irregular ventricular rhythm suggest atrial fibrillation rather than the stated pattern of complete block."
+    }
+  },
+  "set-03-A-061": {
+    "why": "Stroke volume is blood ejected by one ventricle per beat, calculated as end-diastolic volume minus end-systolic volume. Around 70 millilitres is a typical resting adult estimate.",
+    "notes": {
+      "A": "Beats per minute measure heart rate. Stroke volume is measured in millilitres per beat.",
+      "C": "About five litres is close to a typical resting cardiac output over one minute, not the volume ejected in one beat.",
+      "D": "Half a litre is several times a typical resting stroke volume. The usual estimate is tens of millilitres per beat.",
+      "E": "Millimetres of mercury measure pressure, such as systolic arterial pressure. They are not units of volume."
+    }
+  },
+  "set-03-A-062": {
+    "why": "The usual electrical axis is the mean frontal-plane direction of ventricular depolarisation. Net QRS deflections in limb leads, including leads I and aVF, can estimate it.",
+    "notes": {
+      "A": "Precordial leads view activation mainly in the horizontal plane. They are not used alone for the standard frontal QRS axis.",
+      "C": "P-wave deflections can define an atrial axis. The standard electrical axis here concerns ventricular depolarisation.",
+      "D": "T-wave deflections reflect ventricular repolarisation and can define a separate T-wave axis.",
+      "E": "Chest leads V1 and V2 provide local precordial information. The frontal-plane axis uses limb-lead projections."
+    }
+  },
+  "set-03-A-063": {
+    "why": "The augmented limb leads aVR, aVL and aVF each compare a limb electrode with a reference formed from the other limb electrodes. They sample frontal-plane electrical activity.",
+    "notes": {
+      "A": "Leads I, II and III are standard bipolar limb leads. Each compares potentials between a selected pair of limbs.",
+      "C": "The augmented limb leads are correct, but adding the standard bipolar leads makes the group too broad.",
+      "D": "The chest leads are unipolar precordial leads, but ‘augmented’ identifies the three limb leads in this classification.",
+      "E": "The augmented set excludes the precordial chest leads, even though those also use a composite reference."
+    }
+  },
+  "set-03-A-064": {
+    "why": "Mitral sounds are best heard at the cardiac apex, usually in the left fifth intercostal space near the midclavicular line. The precise position varies between individuals.",
+    "notes": {
+      "A": "The right second intercostal space next to the sternum is the usual aortic auscultation area.",
+      "C": "A right parasternal fourth-space point is not the usual apical projection for mitral sounds.",
+      "D": "The left second intercostal space at the sternal border is the usual pulmonary auscultation area.",
+      "E": "The left third parasternal space is an additional listening area for some murmurs. The mitral area lies lower and more lateral."
+    }
+  },
+  "set-03-A-065": {
+    "why": "The ventricular plateau is sustained by slow inward calcium current through L-type channels balanced by outward potassium current. This prolongs depolarisation and helps trigger contraction.",
+    "notes": {
+      "A": "Potassium efflux provides outward current during the plateau and helps repolarise the cell when inward calcium current declines.",
+      "B": "Fast sodium influx produces the rapid upstroke. Those channels inactivate well before the plateau ends.",
+      "C": "The important potassium current during the plateau is outward, which counterbalances inward movement of positively charged calcium ions.",
+      "E": "Outward potassium current matters, but the major sustained inward current that defines the plateau is carried by calcium."
+    }
   }
 }
