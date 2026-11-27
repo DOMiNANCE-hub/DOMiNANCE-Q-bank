@@ -2206,10 +2206,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The cephalic bulbus cordis elongates into the truncus arteriosus; from cranial to caudal the tube is bulbus cordis, ventricle, atrium, sinus venosus.",
+      "why": "The arterial end of the developing heart tube includes the truncus arteriosus, continuous proximally with the conus cordis. Subsequent outflow tract remodelling and septation produce the proximal great arterial pathways.",
       "topicId": "e-cvs",
       "subtopic": "Heart tube",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The primitive atrium develops near the venous inflow region rather than the cephalic arterial end.",
+        "B": "The conus cordis is the more proximal outflow component, rather than the distal truncal arterial segment.",
+        "C": "The aortic sac lies beyond the truncus arteriosus and supplies developing pharyngeal arch arteries.",
+        "E": "The sinus venosus receives embryonic systemic veins at the opposite, venous end of the cardiac tube."
+      }
     },
     {
       "id": "dq-embryo-cvs-005",
@@ -2238,10 +2244,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The tube folds right to form the bulboventricular (heart) loop.",
+      "why": "Rapid cardiac tube elongation within the pericardial cavity produces looping, normally with rightward bending of the ventricular region. This bulboventricular loop establishes spatial relationships necessary for subsequent chamber formation and septation.",
       "topicId": "e-cvs",
       "subtopic": "Heart loop",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Sinus venarum denotes the smooth adult right atrial wall formed by incorporation of systemic venous tissue.",
+        "B": "Septum spurium is associated with embryonic venous valve development rather than elongation and looping of ventricles.",
+        "C": "Crista terminalis separates smooth and trabeculated right atrial regions rather than describing the early cardiac loop.",
+        "D": "Septum intermedium arises from fused atrioventricular endocardial cushions, not the bending of the elongated heart tube."
+      }
     },
     {
       "id": "dq-embryo-cvs-006",
@@ -2270,10 +2282,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "AV cushion fusion (septum intermedium) divides the AV canal into right and left channels.",
+      "why": "Superior and inferior atrioventricular endocardial cushions grow and fuse to form the septum intermedium. This partitions the initially common atrioventricular canal into right and left openings and contributes to subsequent septation.",
       "topicId": "e-cvs",
       "subtopic": "AV canal",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Septum primum grows from the atrial roof towards the cushions, rather than forming directly from their fusion.",
+        "C": "Septum secundum develops as an atrial septal fold rather than the partition produced by atrioventricular cushion fusion.",
+        "D": "Septum spurium arises in association with sinus venosus valve folds rather than the common atrioventricular canal.",
+        "E": "The aorticopulmonary septum partitions the arterial outflow tract, not the common atrioventricular opening between chambers."
+      }
     },
     {
       "id": "dq-embryo-cvs-007",
@@ -2302,10 +2320,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The ostium primum is the gap below the advancing septum primum; it closes as the septum reaches the cushions.",
+      "why": "Ostium primum is the transient opening beneath the advancing septum primum and above the atrioventricular endocardial cushions. It permits atrial communication until the septum reaches and fuses with the cushions.",
       "topicId": "e-cvs",
       "subtopic": "Atrial septation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The coronary sinus drains cardiac venous blood and does not represent a transient opening beneath septum primum.",
+        "C": "Ostium secundum develops through perforation of the upper septum primum as ostium primum approaches closure.",
+        "D": "Foramen ovale is associated with the later septum secundum and flap-valve arrangement rather than this initial gap.",
+        "E": "The sinoatrial orifice connects sinus venosus and primitive atrium, rather than the two developing atrial compartments."
+      }
     },
     {
       "id": "dq-embryo-cvs-008",
@@ -2334,10 +2358,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Breakdown in the upper septum primum creates the ostium secundum, keeping a right-to-left path open.",
+      "why": "Programmed cell loss and remodelling produce perforations in the superior septum primum that merge as ostium secundum. This preserves fetal interatrial communication when the inferior ostium primum closes against the cushions.",
       "topicId": "e-cvs",
       "subtopic": "Atrial septation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Sinus venarum is the smooth venous portion of the right atrium, not a perforation within septum primum.",
+        "B": "Septum spurium forms near the embryonic venous valves, rather than from perforations in the primary atrial septum.",
+        "D": "Foramen ovale is the later opening associated with septum secundum, overlapping the ostium secundum region.",
+        "E": "Ostium primum is the original inferior opening beneath septum primum, rather than its later superior perforation."
+      }
     },
     {
       "id": "dq-embryo-cvs-009",
@@ -2366,10 +2396,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The rigid septum secundum overlaps the free edge of the flap-like septum primum, converting ostium secundum into the oblique foramen ovale.",
+      "why": "Septum secundum forms a thicker muscular fold to the right of septum primum and incompletely overlaps ostium secundum. Its inferior opening forms the foramen ovale, with the thinner septum primum acting as a flap.",
       "topicId": "e-cvs",
       "subtopic": "Atrial septation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Endocardial cushions contribute to closure of the inferior atrial opening, rather than generating the entire septum secundum.",
+        "B": "Sinus venosus contributes to venous atrial structures, whereas septum secundum develops within the atrial septal region.",
+        "C": "The coronary sinus develops from left sinus horn derivatives, not from the thicker secondary atrial septum.",
+        "E": "The thin mobile flap is septum primum, whereas septum secundum provides the relatively firm overlapping rim."
+      }
     },
     {
       "id": "dq-embryo-cvs-010",
@@ -2398,10 +2434,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The septum primum is a flap valve permitting right-to-left atrial shunting in the fetus but not the reverse.",
+      "why": "Septum primum forms a flexible flap on the left side of the foramen ovale. Higher fetal right atrial pressure usually permits right-to-left passage, while reversed pressure presses the flap against its rim.",
       "topicId": "e-cvs",
       "subtopic": "Atrial septation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "A rigid fixed partition would prevent the pressure-dependent flap movement required for fetal interatrial blood flow.",
+        "B": "The usual fetal pressure gradient favours right-to-left flow, rather than the reversed direction stated in this option.",
+        "C": "The septum primum functions through passive flap displacement rather than active contraction of a muscular sphincter.",
+        "D": "Coronary sinus derives mainly from the left sinus horn, not from the mobile primary atrial septum."
+      }
     },
     {
       "id": "dq-embryo-cvs-011",
@@ -2462,10 +2504,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The right sinus horn is absorbed into the smooth sinus venarum; the diminished left horn becomes the coronary sinus.",
+      "why": "The right horn of the sinus venosus becomes incorporated into the right atrial wall, creating the smooth-walled sinus venarum. This contrasts with the trabeculated primitive atrial portion containing pectinate muscles.",
       "topicId": "e-cvs",
       "subtopic": "Sinus venosus",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Pulmonary venous incorporation contributes to the smooth left atrial wall rather than the right sinus horn derivative.",
+        "C": "The left atrium forms from primitive atrial and pulmonary venous components rather than right sinus horn incorporation.",
+        "D": "Coronary sinus develops principally from the left horn of the sinus venosus, not its enlarged right horn.",
+        "E": "The right auricle retains trabeculated primitive atrial tissue rather than the incorporated smooth systemic venous component."
+      }
     },
     {
       "id": "dq-embryo-cvs-013",
@@ -2494,10 +2542,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The small left sinus horn becomes the coronary sinus, opening below the sinoatrial orifice.",
+      "why": "The left horn of the sinus venosus becomes reduced as systemic venous return shifts rightward, persisting principally as the coronary sinus. Associated left-sided venous remnants also contribute to the oblique vein of the left atrium.",
       "topicId": "e-cvs",
       "subtopic": "Sinus venosus",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Septum primum contributes to atrial septation and the foramen ovale flap rather than coronary venous drainage.",
+        "B": "Left common cardinal venous tissue contributes associated structures, but the coronary sinus principally represents the left sinus horn.",
+        "D": "The right sinus horn is incorporated into the smooth right atrial wall rather than becoming the coronary sinus.",
+        "E": "Pulmonary veins contribute to left atrial development and do not form the major coronary venous collecting channel."
+      }
     },
     {
       "id": "dq-embryo-cvs-014",
@@ -2526,10 +2580,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "A single pulmonary vein with four branches is absorbed into the left atrial wall, forming its smooth part; trabeculated tissue becomes the auricle.",
+      "why": "Incorporation of the common pulmonary vein and its branches into the developing left atrium creates much of its smooth posterior wall. The trabeculated left auricle retains tissue derived from the primitive atrium.",
       "topicId": "e-cvs",
       "subtopic": "Left atrium",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The coronary sinus drains cardiac veins into the right atrium rather than forming the smooth left atrial wall.",
+        "B": "Left venous valve remnants participate in atrial septal development, not incorporation of pulmonary venous drainage.",
+        "C": "Truncus arteriosus contributes to great arterial outflow structures rather than the pulmonary venous portion of the atrium.",
+        "E": "The right sinus horn forms the smooth systemic venous region of the right atrium, not left atrium."
+      }
     },
     {
       "id": "dq-embryo-cvs-015",
@@ -2558,10 +2618,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The crista dividens (lower septum secundum edge) becomes the annulus ovalis, the rim of the fossa ovalis.",
+      "why": "The muscular rim surrounding the adult fossa ovalis is conventionally termed the limbus or annulus ovalis. It corresponds largely to the secondary septal fold, whereas the fossa floor derives from septum primum.",
       "topicId": "e-cvs",
       "subtopic": "Atrial septation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Crista terminalis marks the boundary between smooth and trabeculated portions of the right atrium, not the fossa rim.",
+        "B": "The coronary sinus valve derives from the right venous valve, rather than the rim of septum secundum.",
+        "C": "Septum spurium is an embryonic structure associated with venous valves, not the mature fossa ovalis rim.",
+        "D": "Sinus venarum denotes the smooth right atrial region incorporated from systemic venous tissue rather than the septal rim."
+      }
     },
     {
       "id": "dq-embryo-cvs-016",
@@ -2590,10 +2656,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Secundum ASD results from too much septum-primum resorption or a septum secundum that cannot cover the ostium secundum, leaving a patent foramen ovale.",
+      "why": "An ostium secundum atrial septal defect may result from excessive loss of septum primum tissue or insufficient development of the secondary septal fold. Either mechanism leaves inadequate overlap to close the interatrial communication.",
       "topicId": "e-cvs",
       "subtopic": "Anomalies",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Endocardial cushion fusion failure is associated with ostium primum defects and atrioventricular septal abnormalities rather than typical secundum defects.",
+        "C": "Deficient conal swellings affect ventricular outflow tract separation rather than the overlap of developing atrial septa.",
+        "D": "Normal spiral outflow tract septation separates the great arteries and does not directly produce a secundum atrial defect.",
+        "E": "Sinus venosus abnormalities may cause distinct atrial septal defects, rather than the classic mechanism of ostium secundum defects."
+      }
     },
     {
       "id": "dq-embryo-cvs-017",
@@ -2622,10 +2694,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The muscular IV septum comes from the primary interventricular septum; the membranous part comes from endocardial cushions and bulbar ridges.",
+      "why": "The primary muscular interventricular septum grows between the expanding ventricular chambers. It forms most of the definitive ventricular partition, while the remaining superior communication is closed through contributions from cushion and outflow tissues.",
       "topicId": "e-cvs",
       "subtopic": "Ventricular septation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The aorticopulmonary septum separates developing arterial outflow channels rather than forming most of the muscular ventricular septum.",
+        "C": "Endocardial cushions contribute to the membranous septal region, rather than supplying the bulk of muscular septal tissue.",
+        "D": "Bulbar ridges participate in outflow tract partitioning and membranous septal closure, rather than the primary muscular septum.",
+        "E": "Septum secundum participates in atrial separation and does not form the muscular partition between the ventricles."
+      }
     },
     {
       "id": "dq-embryo-cvs-018",
@@ -2654,10 +2732,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Membranous IV septum closure is by the fused endocardial cushions and the proximal truncoconal (bulbar/conus) ridges.",
+      "why": "The membranous interventricular septum forms where atrioventricular cushion tissue and conal septal structures unite with the muscular septum. Failure of this coordinated closure can leave a perimembranous ventricular septal defect.",
       "topicId": "e-cvs",
       "subtopic": "Ventricular septation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Crista terminalis is a right atrial landmark rather than a component of the membranous ventricular septum.",
+        "B": "Venous valves form or contribute to atrial inflow structures, rather than closing the superior interventricular communication.",
+        "D": "The primary muscular septum provides the attachment boundary but does not itself supply the specified conal tissue contribution.",
+        "E": "Septum primum participates in atrial septation, rather than forming the membranous ventricular partition."
+      }
     },
     {
       "id": "dq-embryo-cvs-019",
@@ -2686,10 +2770,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Neural-crest-derived truncoconal (bulbar) ridges form the spiral aorticopulmonary septum.",
+      "why": "Cardiac neural crest cells migrate into the developing outflow tract and contribute importantly to its septation, alongside mesodermal populations. Coordinated remodelling separates the aortic and pulmonary channels and aligns them with the ventricles.",
       "topicId": "e-cvs",
       "subtopic": "Outflow septation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Endoderm provides inductive signals during development but is not the principal migratory population specified for outflow septation.",
+        "B": "Sinus venosus contributes to cardiac venous inflow structures rather than the neural crest-associated arterial outflow partition.",
+        "C": "Septum primum divides the developing atria and does not supply the cell population responsible for arterial septation.",
+        "E": "Paraxial mesoderm forms somites, while cardiac neural crest is especially important for the specified outflow tract septation."
+      }
     },
     {
       "id": "dq-embryo-cvs-020",
@@ -2718,10 +2808,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Persistent truncus arteriosus is a single artery arising from both ventricles above a VSD, mixing pulmonary and systemic blood.",
+      "why": "Persistent truncus arteriosus, also called common arterial trunk, results from failure to separate the embryonic outflow tract adequately. One arterial vessel supplies systemic, pulmonary and coronary circulations, typically overriding a ventricular septal defect.",
       "topicId": "e-cvs",
       "subtopic": "Anomalies",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Transposition involves separate great arteries with abnormal ventricular connections, rather than persistence of one common arterial trunk.",
+        "B": "Tetralogy of Fallot involves outflow septal malalignment and obstruction, but usually retains separate aortic and pulmonary outlets.",
+        "C": "Coarctation describes narrowing of the aorta rather than failure of the common embryonic arterial outlet to divide.",
+        "D": "Dextrocardia describes rightward cardiac orientation and does not itself establish persistence of an undivided arterial trunk."
+      }
     },
     {
       "id": "dq-embryo-cvs-021",
@@ -2750,10 +2846,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Non-spiral (straight) outflow septation gives TGA, with aorta from the right ventricle and pulmonary trunk from the left.",
+      "why": "In the classical embryological model, abnormal spiralling and alignment of the outflow tract lead to transposition of the great arteries. The aorta connects to the right ventricle and pulmonary artery to the left.",
       "topicId": "e-cvs",
       "subtopic": "Anomalies",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Endocardial cushion abnormalities can disrupt atrioventricular septation, rather than defining the reversed great arterial connections of transposition.",
+        "C": "Sinus venosus incorporation forms parts of the atrial inflow structures rather than determining normal great arterial alignment.",
+        "D": "Septum primum contributes to atrial partitioning and its fusion is not the specific outflow alignment mechanism.",
+        "E": "Division of the common atrioventricular canal establishes separate inflow openings rather than the ventricular connections of great arteries."
+      }
     },
     {
       "id": "dq-embryo-cvs-022",
@@ -2782,10 +2884,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "An anteriorly displaced conus septum yields a large overriding aorta, stenotic pulmonary trunk, VSD and right ventricular hypertrophy.",
+      "why": "Anterosuperior deviation of the outlet septum is the classical anatomical basis of tetralogy of Fallot. It produces right ventricular outflow obstruction, a malalignment ventricular septal defect and overriding aorta, with secondary right ventricular hypertrophy.",
       "topicId": "e-cvs",
       "subtopic": "Anomalies",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Sinus venosus forms venous inflow structures and does not explain displacement of the ventricular outlet septum.",
+        "C": "Posterior deviation does not describe the characteristic anterosuperior outlet septal displacement associated with tetralogy of Fallot.",
+        "D": "Neural crest abnormalities can contribute to outflow defects, but total absence is not the specific anatomical malalignment described.",
+        "E": "The defect involves abnormal outlet septal position rather than a normal septum developing two separate spiral turns."
+      }
     },
     {
       "id": "dq-embryo-cvs-023",
@@ -2846,10 +2954,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Ectopia cordis is an externally located heart due to failed sternal fusion.",
+      "why": "Ectopia cordis describes partial or complete displacement of the heart outside the thoracic cavity, usually through a ventral body-wall defect. Abnormal development or fusion of sternal and adjacent structures can contribute.",
       "topicId": "e-cvs",
       "subtopic": "Anomalies",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "A common ventricle is an internal chamber malformation rather than external displacement of the developing heart.",
+        "B": "Persistent truncus arteriosus involves an undivided arterial outlet, not a defect exposing the heart outside the thorax.",
+        "C": "Tetralogy of Fallot combines characteristic intracardiac and outflow abnormalities rather than external cardiac displacement.",
+        "E": "Dextrocardia describes rightward cardiac orientation and can occur with the heart remaining entirely within the thorax."
+      }
     },
     {
       "id": "dq-embryo-cvs-025",
@@ -2878,10 +2992,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The umbilical vein carries the highest-oxygen blood (~80%) from the placenta; the umbilical arteries carry the most deoxygenated.",
+      "why": "Placental oxygen exchange supplies fetal blood returning through the umbilical vein, which has the highest oxygen saturation among major fetal vessels. Subsequent mixing with systemic venous blood progressively lowers saturation.",
       "topicId": "e-cvs",
       "subtopic": "Fetal circulation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Umbilical arteries convey relatively oxygen-poor fetal blood towards the placenta for gas and nutrient exchange.",
+        "B": "The descending aorta receives mixed ventricular output, including blood entering through the ductus arteriosus, with lower saturation.",
+        "C": "Inferior caval blood includes oxygenated placental return mixed with lower-body systemic venous blood, reducing its saturation.",
+        "D": "The pulmonary trunk receives right ventricular output containing considerable systemic venous blood rather than the richest placental return."
+      }
     },
     {
       "id": "dq-embryo-cvs-026",
@@ -2910,10 +3030,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The ductus venosus is a high-velocity shunt from the umbilical vein to the IVC, bypassing the hepatic sinusoids.",
+      "why": "The ductus venosus channels a portion of oxygen-rich umbilical venous blood from the hepatic portal region towards the inferior vena cava. This bypasses hepatic sinusoids and facilitates rapid delivery to the heart.",
       "topicId": "e-cvs",
       "subtopic": "Fetal circulation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "The ductus venosus originates near the portal region, but its downstream drainage is towards the inferior vena cava.",
+        "C": "Blood reaches the right atrium through the inferior vena cava rather than directly from the ductus venosus.",
+        "D": "Pulmonary trunk receives ventricular output downstream of the heart, rather than the hepatic venous bypass itself.",
+        "E": "The coronary sinus drains myocardial veins into the right atrium and does not receive the ductus venosus."
+      }
     },
     {
       "id": "dq-embryo-cvs-027",
@@ -2942,10 +3068,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The crista dividens (lower septum secundum) and IVC valve direct the oxygenated IVC stream through the foramen ovale.",
+      "why": "Preferential fetal streaming directs relatively oxygen-rich inferior caval blood towards the foramen ovale. The inferior caval valve and atrial septal geometry, including the crista dividens, help separate this stream from superior caval return.",
       "topicId": "e-cvs",
       "subtopic": "Fetal circulation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Superior caval blood preferentially enters the right ventricular pathway rather than providing the specified oxygen-rich inferior caval stream.",
+        "C": "Crista terminalis separates smooth and trabeculated right atrial regions and is not the main streaming structure described.",
+        "D": "Septum spurium is associated with embryonic venous valves but is not the specified principal fetal streaming apparatus.",
+        "E": "Coronary sinus carries myocardial venous blood rather than directing oxygen-rich placental blood across the foramen ovale."
+      }
     },
     {
       "id": "dq-embryo-cvs-028",
@@ -3006,10 +3138,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The left recurrent laryngeal nerve hooks under the arch of the aorta around the ductus arteriosus/ligamentum arteriosum.",
+      "why": "The left recurrent laryngeal nerve passes beneath the aortic arch near the ductus arteriosus and its later ligamentous remnant. Its recurrent course reflects descent of the heart and remodelling of embryonic arch arteries.",
       "topicId": "e-cvs",
       "subtopic": "Fetal circulation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The vagus gives rise to the recurrent branch, but its main trunk does not form the specified loop.",
+        "B": "The right recurrent laryngeal nerve loops around the right subclavian artery rather than the left ductal region.",
+        "C": "The sympathetic chain lies paravertebrally and does not form the recurrent loop around the ligamentum arteriosum.",
+        "E": "The phrenic nerve descends anterior to the lung root towards the diaphragm rather than looping beneath the arch."
+      }
     },
     {
       "id": "dq-embryo-cvs-030",
@@ -3038,10 +3176,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The ductus arteriosus constricts and closes within 24-48 hours, becoming the ligamentum arteriosum.",
+      "why": "In healthy term newborns, rising oxygen tension and reduced prostaglandin-mediated dilation usually produce functional ductus arteriosus closure within the first day or two. Anatomical obliteration takes considerably longer and varies with maturity.",
       "topicId": "e-cvs",
       "subtopic": "Changes at birth",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "One to two weeks better approximates later remodelling in some descriptions than the typical initial functional closure interval.",
+        "B": "Ductal constriction begins after birth but complete functional closure does not routinely occur within just a few minutes.",
+        "C": "Three months is much later than the usual functional closure of the ductus in healthy term newborns.",
+        "D": "One hour may be sufficient for substantial constriction, but is too early as a general functional closure estimate."
+      }
     },
     {
       "id": "dq-embryo-cvs-031",
@@ -3102,10 +3246,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Lung inflation drops right atrial pressure and raises left atrial pressure, pushing the septum primum shut against the septum secundum (later the fossa ovalis).",
+      "why": "Lung aeration reduces pulmonary vascular resistance and increases pulmonary venous return to the left atrium. Interruption of placental venous return reduces right atrial filling, allowing higher left atrial pressure to close the foramen ovale flap.",
       "topicId": "e-cvs",
       "subtopic": "Changes at birth",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The umbilical vein ceases carrying placental blood after cord interruption rather than dilating to close the interatrial flap.",
+        "C": "Higher right atrial pressure would favour opening the fetal flap rather than pressing it closed from the left.",
+        "D": "Ductal patency affects arterial shunting but does not directly generate the atrial pressure gradient that closes the flap.",
+        "E": "Pulmonary resistance normally falls with lung aeration, increasing left atrial filling rather than sustaining fetal shunting."
+      }
     },
     {
       "id": "dq-embryo-cvs-033",
@@ -3134,10 +3284,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The obliterated ductus venosus persists as the ligamentum venosum; the umbilical vein becomes the ligamentum teres.",
+      "why": "Following interruption of umbilical venous flow, the ductus venosus closes and undergoes fibrous obliteration. Its adult remnant is the ligamentum venosum in the liver, marking the former hepatic bypass.",
       "topicId": "e-cvs",
       "subtopic": "Changes at birth",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Medial umbilical ligaments derive from obliterated distal umbilical arteries rather than the fetal hepatic venous channel.",
+        "B": "Fossa ovalis represents the former interatrial foramen ovale, not the remnant of the ductus venosus.",
+        "D": "Ligamentum teres hepatis derives from the left umbilical vein, which previously supplied the ductus venosus region.",
+        "E": "Ligamentum arteriosum derives from the ductus arteriosus connecting pulmonary and systemic arterial circulations before birth."
+      }
     },
     {
       "id": "dq-embryo-face-001",
@@ -3166,10 +3322,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Five pairs of pharyngeal arches appear as ridges on the ventrolateral head and neck in week 4.",
+      "why": "Pharyngeal arches become externally evident during the fourth embryonic week as paired mesenchymal swellings in the head and neck. Their coordinated development contributes to craniofacial skeletal, muscular, vascular and neural structures.",
       "topicId": "e-face",
       "subtopic": "Pharyngeal apparatus",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "The second week principally establishes the bilaminar embryonic disc before pharyngeal arch morphogenesis becomes apparent.",
+        "C": "By the eighth week substantial differentiation of pharyngeal arch derivatives has occurred rather than their first appearance.",
+        "D": "The twelfth week is within the fetal period, well after the arches initially develop in the embryo.",
+        "E": "During the sixth week the arches are already undergoing remodelling, rather than appearing for the first time."
+      }
     },
     {
       "id": "dq-embryo-face-002",
@@ -3198,10 +3360,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Arch mesenchyme is mostly neural crest, with a contribution from paraxial mesoderm filling the remaining space.",
+      "why": "Pharyngeal arch mesenchyme contains substantial neural crest-derived populations alongside mesodermal cells. Neural crest contributes prominently to skeletal and connective tissues, while mesoderm supplies much of the arch musculature and vascular endothelium.",
       "topicId": "e-face",
       "subtopic": "Pharyngeal apparatus",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Endoderm lines internal pharyngeal pouches and provides signals rather than forming most of the arch mesenchymal core.",
+        "C": "Paraxial mesoderm contributes to muscular populations, but neural crest also supplies extensive arch skeletal and connective tissue.",
+        "D": "Lateral plate mesoderm contributes selected arch components rather than being the principal source of all arch mesenchyme.",
+        "E": "Surface ectoderm covers arches externally, rather than forming their predominant internal mesenchymal cell population."
+      }
     },
     {
       "id": "dq-embryo-face-003",
@@ -3230,10 +3398,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Clefts (grooves) are external and ectoderm-lined; pouches are internal and endoderm-lined.",
+      "why": "Pharyngeal clefts or grooves are ectoderm-lined external depressions between adjacent arches. The first cleft contributes to the external acoustic meatus, while the more caudal clefts are normally covered and largely disappear.",
       "topicId": "e-face",
       "subtopic": "Pharyngeal apparatus",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Arches are mesenchymal swellings themselves rather than the external ectodermal grooves separating successive swellings.",
+        "B": "Placodes are specialised ectodermal thickenings contributing sensory structures, rather than the grooves between pharyngeal arches.",
+        "D": "Pouches are endoderm-lined internal outgrowths from the primitive pharynx, opposite the external pharyngeal clefts.",
+        "E": "Membranes occur where cleft ectoderm and pouch endoderm approach one another, rather than describing external grooves alone."
+      }
     },
     {
       "id": "dq-embryo-face-004",
@@ -3262,10 +3436,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Pharyngeal pouches are endoderm-lined evaginations of the pharynx, opposite the ectodermal clefts.",
+      "why": "Pharyngeal pouches are endoderm-lined outgrowths of the primitive pharynx between adjacent arch regions. Their epithelial derivatives contribute to structures including the middle ear cavity, tonsillar epithelium, thymus and parathyroid glands.",
       "topicId": "e-face",
       "subtopic": "Pharyngeal apparatus",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Grooves are external ectoderm-lined depressions rather than the internal endodermal outpocketings of the embryonic pharynx.",
+        "B": "Pharyngeal membranes develop where pouch endoderm and cleft ectoderm approach, rather than constituting the internal outgrowths themselves.",
+        "C": "The cervical sinus arises from overgrowth of external clefts rather than being the collective name for internal endodermal pouches.",
+        "E": "Clefts are external ectoderm-lined spaces, while pouches project internally from the endodermal pharyngeal lining."
+      }
     },
     {
       "id": "dq-embryo-face-005",
@@ -3294,10 +3474,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The fifth arch is rudimentary and transient, so the arches are numbered 1,2,3,4 and 6.",
+      "why": "The traditional numbering of human pharyngeal arches skips the fifth because it is absent or very rudimentary and transient in standard descriptions. The recognisable functional arch groups are numbered one, two, three, four and six.",
       "topicId": "e-face",
       "subtopic": "Pharyngeal apparatus",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The first arch produces major mandibular and maxillary derivatives and is not the skipped rudimentary arch.",
+        "B": "The second arch forms characteristic hyoid and facial musculature derivatives, rather than disappearing without identifiable contributions.",
+        "C": "The sixth arch contributes important laryngeal and arterial derivatives and therefore remains represented in standard numbering.",
+        "D": "The third arch contributes stylopharyngeus and skeletal derivatives, rather than accounting for the irregular arch numbering."
+      }
     },
     {
       "id": "dq-embryo-face-006",
@@ -3326,10 +3512,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Every arch has its own cartilage, muscle, artery and a specific cranial nerve that supplies all of its derivatives.",
+      "why": "Each pharyngeal arch contains a characteristic skeletal or cartilaginous component, muscle precursor population, arterial channel and cranial nerve association. These relationships help trace adult structures even when derivatives migrate during development.",
       "topicId": "e-face",
       "subtopic": "Pharyngeal apparatus",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Somites are segmented paraxial mesodermal structures and are not the characteristic nerve component of individual arches.",
+        "C": "Lymphatic vessels develop within many tissues but do not replace the characteristic cranial nerve associated with each arch.",
+        "D": "Placodes contribute selected sensory structures but are not the specified innervation component of a pharyngeal arch.",
+        "E": "Dermatomes represent segmental cutaneous sensory territories rather than the characteristic cranial nerve association of pharyngeal arch derivatives."
+      }
     },
     {
       "id": "dq-embryo-face-007",
@@ -3358,10 +3550,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The first arch is supplied by CN V (maxillary and mandibular divisions).",
+      "why": "The trigeminal nerve is associated with the first pharyngeal arch, with its mandibular division supplying the arch-derived muscles of mastication. Maxillary and mandibular sensory branches serve territories related to first arch prominences.",
       "topicId": "e-face",
       "subtopic": "Arch nerves",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The hypoglossal nerve supplies most tongue muscles derived from occipital somites rather than first arch musculature.",
+        "C": "The facial nerve supplies second arch-derived facial expression muscles, rather than the first arch muscles of mastication.",
+        "D": "The glossopharyngeal nerve supplies the third arch-derived stylopharyngeus muscle rather than first arch muscular derivatives.",
+        "E": "The vagus supplies fourth and sixth arch-related musculature through pharyngeal and laryngeal branches rather than first arch muscles."
+      }
     },
     {
       "id": "dq-embryo-face-008",
@@ -3390,10 +3588,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The second (hyoid) arch is supplied by CN VII.",
+      "why": "The facial nerve is the characteristic nerve of the second pharyngeal arch. It supplies derivatives including muscles of facial expression, stapedius, stylohyoid and the posterior belly of digastric despite their varied adult locations.",
       "topicId": "e-face",
       "subtopic": "Arch nerves",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The vagus supplies musculature associated primarily with fourth and sixth pharyngeal arches rather than second arch derivatives.",
+        "B": "The accessory nerve supplies sternocleidomastoid and trapezius, rather than the characteristic second arch facial muscle population.",
+        "D": "The trigeminal mandibular division supplies first arch muscles, notably muscles of mastication, rather than second arch musculature.",
+        "E": "The glossopharyngeal nerve is associated with the third arch and innervates stylopharyngeus rather than facial expression muscles."
+      }
     },
     {
       "id": "dq-embryo-face-009",
@@ -3422,10 +3626,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The third arch is supplied by CN IX.",
+      "why": "The glossopharyngeal nerve is associated with the third pharyngeal arch and provides motor innervation to stylopharyngeus. Its relationship to posterior tongue and pharyngeal territories reflects the development of this arch region.",
       "topicId": "e-face",
       "subtopic": "Arch nerves",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The trigeminal nerve is associated primarily with first arch derivatives rather than the third arch stylopharyngeus.",
+        "B": "The vagus supplies fourth and sixth arch-associated musculature, rather than the characteristic third arch motor derivative.",
+        "C": "Hypoglossal fibres supply most tongue muscles derived from occipital somites, not third arch stylopharyngeus.",
+        "E": "The facial nerve is associated with second arch musculature rather than the third pharyngeal arch."
+      }
     },
     {
       "id": "dq-embryo-face-010",
@@ -3454,10 +3664,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The 4th arch carries the superior laryngeal branch of CN X; the 6th arch carries the recurrent laryngeal branch.",
+      "why": "The superior laryngeal branch of the vagus is conventionally associated with fourth arch derivatives, particularly cricothyroid through its external branch. The recurrent laryngeal nerve supplies most intrinsic laryngeal muscles associated with the sixth arch.",
       "topicId": "e-face",
       "subtopic": "Arch nerves",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Recurrent laryngeal innervation is associated chiefly with sixth arch-derived intrinsic laryngeal muscles, not the conventional fourth arch branch.",
+        "B": "The pharyngeal plexus contributes innervation to several fourth arch muscles, but the classic named laryngeal branch is superior laryngeal.",
+        "C": "The auricular vagal branch supplies selected external ear sensory territories, rather than the characteristic fourth arch muscular derivative.",
+        "D": "Chorda tympani belongs to the facial nerve and carries taste and parasympathetic fibres, not fourth arch vagal innervation."
+      }
     },
     {
       "id": "dq-embryo-face-011",
