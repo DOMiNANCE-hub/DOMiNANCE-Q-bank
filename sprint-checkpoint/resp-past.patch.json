@@ -241,5 +241,230 @@
       "C": "Expiratory airway collapse tends to increase residual volume through air trapping.",
       "E": "Pleural pressure varies with respiratory phase and force. The consistent mechanical change is loss of lung elastic recoil."
     }
+  },
+  "phy-resp-617": {
+    "why": "Once a bronchus is completely obstructed, fresh gas cannot reach its alveoli. Gas already there is gradually absorbed into blood, reducing alveolar volume and causing resorption atelectasis.",
+    "notes": {
+      "B": "Bronchial obstruction does not directly admit air into the pleural cavity or raise pleural pressure as a primary event.",
+      "C": "The obstructed region is perfused but poorly ventilated, which causes shunt or low ventilation–perfusion matching rather than dead space.",
+      "D": "Low alveolar oxygen triggers pulmonary arteriolar constriction and tends to divert blood away from the affected region.",
+      "E": "Cyanosis can occur with severe hypoxaemia, but regional collapse is the more direct and usual consequence."
+    }
+  },
+  "phy-resp-626": {
+    "why": "Air flows from higher to lower pressure. During inspiration, thoracic expansion lowers alveolar pressure slightly below atmospheric pressure, drawing air into the lungs.",
+    "notes": {
+      "A": "Alveolar pressure above atmospheric pressure drives air out, as during expiration.",
+      "C": "Equal alveolar and atmospheric pressures provide no pressure gradient for net airflow.",
+      "D": "The diaphragm normally contracts and descends, increasing thoracic volume and lowering alveolar pressure.",
+      "E": "External intercostal contraction can assist inspiration by elevating the ribs. Relaxation is not required to draw air in."
+    }
+  },
+  "phy-resp-629": {
+    "why": "If the manoeuvre starts at the end of a normal expiration, the extra air that can be exhaled by maximal effort is expiratory reserve volume. Residual volume is what remains afterwards.",
+    "notes": {
+      "A": "Tidal volume is the air moved during the normal breath itself, without the additional forced expiration.",
+      "C": "Peak expiratory flow is a rate, measured as volume per unit time. The amount expelled here is a volume.",
+      "D": "Eupnoea is quiet breathing at rest and does not include the additional forced manoeuvre.",
+      "E": "Inspiratory reserve volume is the extra air that can be inhaled after a normal inspiration."
+    }
+  },
+  "phy-resp-631": {
+    "why": "Cohesive forces at the alveolar air–liquid interface create surface tension that tends to shrink the surface. This adds to inward elastic recoil. Surfactant lowers this tension and stabilises alveoli at small volumes.",
+    "notes": {
+      "A": "Surface tension increases the tendency of an alveolus to shrink or collapse, particularly when surfactant is deficient.",
+      "B": "Untreated surface tension increases the pressure needed to expand the lung and therefore decreases compliance.",
+      "D": "Surface tension acts inward as the lung recoils. It is the inflation of the lung that must overcome this force.",
+      "E": "Surface tension is a mechanical property, not a direct barrier to diffusion. Severe collapse due to high tension can secondarily reduce gas exchange."
+    }
+  },
+  "phy-resp-635": {
+    "why": "An adult often exhales about four fifths of forced vital capacity in the first second. FEV1/FVC varies with age and should be compared with an appropriate lower limit of normal for clinical interpretation.",
+    "notes": {
+      "A": "A ratio of 95 percent can occur, but it is above the usual teaching estimate for a healthy adult.",
+      "C": "A ratio of 65 percent may be low, particularly in younger adults, and is not the typical adult estimate.",
+      "D": "Expelling only half the forced vital capacity in one second is well below the usual healthy adult ratio.",
+      "E": "A ratio of 40 percent indicates a much smaller early expired fraction and is not a typical healthy value."
+    }
+  },
+  "phy-resp-637": {
+    "why": "During normal quiet inspiration, pleural pressure is below atmospheric pressure and becomes more negative as the thorax expands. The resulting rise in transpulmonary pressure helps inflate the lungs.",
+    "notes": {
+      "A": "Positive pleural pressure can occur with forceful expiration or applied positive pressure. It is not usual during spontaneous quiet inspiration.",
+      "C": "Pleural pressure remains subatmospheric throughout quiet breathing, including the usual pauses when alveolar pressure equals atmospheric pressure.",
+      "D": "Alveolar surface tension contributes to lung recoil, which helps determine pleural pressure together with chest wall mechanics.",
+      "E": "A break in the pleural seal can admit air and allow pleural pressure to approach atmospheric pressure."
+    }
+  },
+  "phy-resp-639": {
+    "why": "Type II pneumocytes synthesise and store surfactant in lamellar bodies before secreting it into the alveolar lining. The surfactant film lowers surface tension and helps stabilise alveoli.",
+    "notes": {
+      "B": "Type I pneumocytes form the thin surface specialised for gas diffusion. They are not the main source of alveolar surfactant.",
+      "C": "Airway goblet cells secrete mucins into the conducting airways. They do not produce the main alveolar surfactant film.",
+      "D": "Pulmonary vessels carry blood to the gas exchange surface. The surfactant is produced by alveolar epithelial cells.",
+      "E": "Bronchial smooth muscle changes airway calibre. It does not secrete the alveolar surfactant film."
+    }
+  },
+  "phy-resp-641": {
+    "why": "Asthma increases airway resistance through bronchial smooth muscle contraction, mucosal swelling and mucus. These changes narrow the airway lumen and particularly limit expiratory flow.",
+    "notes": {
+      "B": "Emphysema reduces airway tethering and can increase expiratory resistance or flow limitation as small airways narrow.",
+      "C": "Paraplegia can weaken the muscles of forced expiration and coughing. This does not by itself imply increased airway resistance.",
+      "D": "More resistance requires a larger pressure difference to produce the same airflow, increasing the work of breathing.",
+      "E": "Airway resistance rises when asthma narrows airway calibre and falls when the obstruction improves."
+    }
+  },
+  "phy-resp-643": {
+    "why": "At the end of a quiet expiration, inward lung recoil is balanced by outward chest wall recoil. The sealed pleural space is typically about 5 centimetres of water below atmosphere, equivalent to roughly −4 mm Hg.",
+    "notes": {
+      "B": "Positive four millimetres of mercury is inconsistent with the usual subatmospheric pleural pressure at rest.",
+      "C": "A value around minus six millimetres of mercury is closer to the more negative pressure reached during ordinary inspiration.",
+      "D": "Positive six millimetres of mercury can only reflect different mechanics, such as an active expiratory effort, rather than quiet resting conditions.",
+      "E": "A pleural pressure near minus ten millimetres of mercury may occur with deeper inspiration but is below the usual quiet end-expiratory level."
+    }
+  },
+  "phy-resp-650": {
+    "why": "Pulmonary ventilation is bulk movement of air between the atmosphere and lungs. Inspiration brings air in and expiration moves it out. The gases subsequently diffuse across the alveolar–capillary interface.",
+    "notes": {
+      "A": "Expiration moves air out, but it is only one part of the complete ventilatory cycle.",
+      "B": "Inspiration moves air into the lungs and is followed by the outward flow of expiration.",
+      "D": "Transfer across the alveolar–capillary membrane is gas exchange by diffusion rather than ventilation.",
+      "E": "Circulation transports gases in blood between the lungs and tissues. This is distinct from moving air through the airways."
+    }
+  },
+  "phy-resp-651": {
+    "why": "As inspiratory muscles expand the thorax, intrapleural pressure becomes more negative. This increases transpulmonary pressure, expanding the lungs and briefly reducing alveolar pressure below atmospheric pressure.",
+    "notes": {
+      "A": "Stretching the alveolar film generally spreads the surfactant and can increase surface tension as the alveolus expands.",
+      "B": "The chest volume rises as the diaphragm contracts and moves downward.",
+      "C": "Tidal volume is the amount of air exchanged per breath. Its change depends on ventilatory effort, not on inspiration itself.",
+      "D": "Alveolar pressure decreases at the onset of quiet inspiration and returns toward atmospheric pressure at the end."
+    }
+  },
+  "phy-resp-069": {
+    "why": "Epinephrine activates beta-2 receptors and relaxes airway smooth muscle. Atropine blocks muscarinic receptors and can relieve bronchoconstriction sustained by vagal acetylcholine. Both mechanisms increase airway calibre.",
+    "notes": {
+      "A": "Epinephrine activates beta-2 signalling, which promotes airway relaxation. The paired option also includes muscarinic blockade.",
+      "B": "Atropine prevents acetylcholine from maintaining muscarinic bronchoconstrictor tone. The paired option also includes a beta-2 agonist.",
+      "D": "Histamine and bradykinin can cause bronchoconstriction in susceptible airways rather than producing the relaxation sought here.",
+      "E": "Acetylcholine increases airway smooth muscle tone through muscarinic M3 receptors."
+    }
+  },
+  "phy-resp-072": {
+    "why": "Circulating epinephrine can activate beta-2 receptors on airway smooth muscle. The resulting rise in cyclic AMP favours relaxation and increases bronchial calibre.",
+    "notes": {
+      "B": "Lower catecholamine activity reduces the opportunity for beta-2-mediated bronchial relaxation rather than increasing it.",
+      "C": "Acetylcholine promotes muscarinic contraction, and serotonin can constrict airways under some conditions.",
+      "D": "Histamine and bradykinin can support bronchoconstrictor responses, especially in hyperresponsive airways.",
+      "E": "This list includes mediators that can contract bronchial smooth muscle alongside the beta-2-mediated dilator stimulus."
+    }
+  },
+  "phy-resp-075": {
+    "why": "Bronchodilation from adrenergic stimulation is mediated mainly by beta-2 receptors on airway smooth muscle. In humans, circulating epinephrine is important because direct sympathetic innervation of that muscle is limited.",
+    "notes": {
+      "A": "Alpha receptors have important vascular actions. Airway smooth muscle relaxation is predominantly a beta-2 response.",
+      "C": "Muscarinic receptors mediate the parasympathetic airway response, including contraction through the M3 subtype.",
+      "D": "Nicotinic receptors mediate ganglionic transmission but are not the main adrenergic receptors on bronchial smooth muscle.",
+      "E": "H2 is a histamine receptor, not an adrenergic receptor. It does not mediate the standard sympathetic bronchodilator response."
+    }
+  },
+  "phy-resp-592": {
+    "why": "Atropine blocks muscarinic receptors. Blocking acetylcholine signalling at M3 receptors on airway smooth muscle reduces vagal bronchoconstrictor tone, so airway calibre can increase.",
+    "notes": {
+      "A": "Nicotinic receptors are important for autonomic ganglionic transmission. Atropine blocks muscarinic receptors instead.",
+      "C": "Alpha-adrenergic receptors respond to catecholamines and are not the target of atropine.",
+      "D": "Beta-2 receptor stimulation can dilate airways, but atropine's effect comes from blockade of a cholinergic receptor.",
+      "E": "H1 receptors mediate histamine-induced bronchoconstriction. Atropine does not act as an H1 antagonist."
+    }
+  },
+  "phy-resp-597": {
+    "why": "Atropine can relax airways by preventing acetylcholine from activating smooth muscle muscarinic receptors. Its effect is greatest when existing bronchoconstrictor tone depends on vagal activity.",
+    "notes": {
+      "A": "Greater parasympathetic activity increases acetylcholine release and tends to narrow the bronchi.",
+      "B": "Acetylcholine stimulates muscarinic M3 receptors on airway smooth muscle and promotes contraction.",
+      "C": "Histamine can contract airway smooth muscle through H1 receptors, especially in susceptible airways.",
+      "E": "Atropine provides a mechanism for bronchodilation by removing muscarinic constrictor tone."
+    }
+  },
+  "phy-resp-599": {
+    "why": "Irritants at the bronchial mucosa can activate sensory afferents and a vagal reflex. Acetylcholine released by parasympathetic efferents stimulates airway smooth muscle contraction.",
+    "notes": {
+      "B": "Beta-2 adrenoceptor stimulation raises cyclic AMP and favours relaxation of airway smooth muscle.",
+      "C": "Low alveolar oxygen classically constricts nearby pulmonary arterioles. That vascular response is distinct from the irritant reflex in bronchi.",
+      "D": "Warming inspired air to near body temperature is not a usual direct trigger for reflex bronchial constriction.",
+      "E": "Noradrenaline is less effective than epinephrine at bronchial beta-2 receptors and is not the usual trigger for irritant-induced bronchoconstriction."
+    }
+  },
+  "phy-resp-614": {
+    "why": "Beta-2 receptor stimulation relaxes bronchial smooth muscle and can relieve the reversible bronchoconstriction of asthma. It acts on airflow limitation, which is distinct from controlling the underlying airway inflammation.",
+    "notes": {
+      "A": "Muscarinic cholinergic stimulation can increase airway smooth muscle contraction and aggravate airflow limitation.",
+      "C": "Inhaled histamine can provoke airway narrowing in people with airway hyperresponsiveness.",
+      "D": "NSAIDs do not provide direct bronchodilation and can provoke symptoms in aspirin-exacerbated respiratory disease.",
+      "E": "Mineralocorticoids chiefly regulate electrolyte balance. The anti-inflammatory steroids used in asthma act through glucocorticoid pathways."
+    }
+  },
+  "phy-resp-621": {
+    "why": "Histamine contracts bronchial smooth muscle chiefly by stimulating H1 receptors. This can narrow airways, particularly when bronchial responsiveness is increased.",
+    "notes": {
+      "B": "H2 receptors participate in other histamine actions, such as gastric acid secretion, but do not mediate the usual bronchial contraction.",
+      "C": "Muscarinic receptors are activated by acetylcholine, which also constricts airways through a separate pathway.",
+      "D": "Nicotinic receptors mediate neuronal or neuromuscular signalling and are not bronchial smooth muscle histamine receptors.",
+      "E": "Alpha-adrenergic receptors respond to catecholamines. Histamine does not act through them to contract bronchi."
+    }
+  },
+  "phy-resp-623": {
+    "why": "Beta-2 adrenergic activation increases cyclic AMP in airway smooth muscle and promotes bronchodilation. Circulating epinephrine is an important physiological source of this signal in humans.",
+    "notes": {
+      "B": "Alpha-2 receptors are involved in other adrenergic effects, including regulation of transmitter release. They are not the main bronchial relaxant receptor.",
+      "C": "M1 is a muscarinic cholinergic receptor. The standard adrenergic bronchodilator effect is mediated by beta-2 receptors.",
+      "D": "Nicotinic receptors are important for transmission in autonomic ganglia. They do not mediate direct adrenergic relaxation of bronchial smooth muscle.",
+      "E": "Beta-2 receptors provide the relevant link between adrenergic stimulation and smooth muscle relaxation."
+    }
+  },
+  "phy-resp-648": {
+    "why": "Histamine can increase bronchial smooth muscle tone through H1 receptors, especially in hyperresponsive airways. This narrows the airway lumen and can increase resistance.",
+    "notes": {
+      "A": "Adrenaline activates beta-2 receptors and usually favours bronchodilation.",
+      "B": "Noradrenaline is a weaker beta-2 agonist than adrenaline. It is not the classic mediator of histamine-like bronchial contraction.",
+      "D": "Atropine blocks muscarinic bronchoconstrictor tone and can therefore favour airway dilation.",
+      "E": "Curare blocks nicotinic neuromuscular transmission in skeletal muscle. It is not a normal mediator of bronchial smooth muscle contraction."
+    }
+  },
+  "phy-resp-649": {
+    "why": "Catecholamines, particularly epinephrine, can enlarge bronchial calibre through beta-2 receptors on airway smooth muscle. This relaxant pathway acts through cyclic AMP.",
+    "notes": {
+      "B": "Acetylcholine increases bronchial smooth muscle tone primarily through muscarinic M3 receptors.",
+      "C": "Histamine can raise bronchial smooth muscle tone via H1 receptors and narrow airways.",
+      "D": "Bradykinin can trigger airway irritation and bronchoconstriction in susceptible individuals.",
+      "E": "Serotonin can contribute to airway constriction in some settings. It is not the usual catecholamine-mediated bronchodilator."
+    }
+  },
+  "phy-resp-053": {
+    "why": "Most transported carbon dioxide is converted to bicarbonate. Red-cell carbonic anhydrase accelerates the reaction of carbon dioxide with water, and much of the resulting bicarbonate enters plasma in exchange for chloride.",
+    "notes": {
+      "A": "Dissolved carbon dioxide determines its partial pressure and is transported in blood, but it accounts for a minority of total carriage.",
+      "B": "Some carbon dioxide binds to globin to form carbaminohaemoglobin. This is a smaller fraction than bicarbonate transport.",
+      "C": "Carbonic acid is a short-lived intermediate that mainly dissociates to bicarbonate and hydrogen ions.",
+      "E": "Carbonic anhydrase catalyses carbon dioxide hydration. The enzyme is not a substantial form of carbon dioxide carriage."
+    }
+  },
+  "phy-resp-054": {
+    "why": "Low alveolar oxygen constricts nearby pulmonary resistance vessels, diverting blood toward better ventilated alveoli. Systemic tissues usually respond to local hypoxia with vasodilation to increase oxygen delivery.",
+    "notes": {
+      "A": "Coronary vessels generally dilate when local oxygen delivery is inadequate relative to myocardial demand.",
+      "C": "Local hypoxia generally increases cerebral blood flow by dilating resistance vessels when severe enough.",
+      "D": "In active muscle, local metabolic signals including low oxygen favour vasodilation to increase delivery.",
+      "E": "Skin blood flow has strong thermal and autonomic regulation. It is not the classic example of local hypoxic vasoconstriction."
+    }
+  },
+  "phy-resp-056": {
+    "why": "The pulmonary and systemic circulations carry essentially the same average flow because they are arranged in series. Pulmonary arterial pressure is lower because the pulmonary vascular bed has much lower resistance.",
+    "notes": {
+      "A": "The average flow pumped by the right and left sides of the heart is approximately the same over time.",
+      "C": "Pulmonary arterial pressure is normally substantially below systemic arterial pressure.",
+      "D": "The pulmonary capillary bed is normally a low-pressure system, which helps limit fluid movement into alveolar tissue.",
+      "E": "Cardiac output through the pulmonary circulation is approximately the same as systemic cardiac output at steady state."
+    }
   }
 }
