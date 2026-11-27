@@ -466,5 +466,221 @@
       "D": "The pulmonary capillary bed is normally a low-pressure system, which helps limit fluid movement into alveolar tissue.",
       "E": "Cardiac output through the pulmonary circulation is approximately the same as systemic cardiac output at steady state."
     }
+  },
+  "phy-resp-057": {
+    "why": "When alveolar ventilation falls relative to metabolism, the lungs remove less carbon dioxide and alveolar PCO₂ rises. Alveolar oxygen then falls, which can cause both arterial hypercapnia and tissue hypoxia.",
+    "notes": {
+      "A": "Inadequate alveolar ventilation reduces carbon dioxide clearance and increases arterial PCO₂.",
+      "B": "Anoxia means nearly complete absence of oxygen. Hypoventilation can reduce oxygen substantially without eliminating it.",
+      "C": "As alveolar oxygen decreases, arterial oxygen can decrease and compromise tissue oxygen delivery.",
+      "D": "Hypocapnia is more typical of excessive alveolar ventilation relative to carbon dioxide production."
+    }
+  },
+  "phy-resp-058": {
+    "why": "Increased tissue PCO₂ favours carbon dioxide hydration and hydrogen ion formation, lowering local pH. Both the higher carbon dioxide and lower pH reduce haemoglobin's oxygen affinity and promote unloading through the Bohr effect.",
+    "notes": {
+      "A": "Hydration of carbon dioxide generates hydrogen ions, so higher local PCO₂ usually lowers pH.",
+      "B": "Haemoglobin has lower oxygen affinity in acid, carbon dioxide-rich tissues, so more oxygen can unload at the same PO₂.",
+      "C": "Excess tissue carbon dioxide can be hydrated to bicarbonate and hydrogen ions, lowering local pH.",
+      "D": "High carbon dioxide often dilates systemic vessels, notably in the brain. The Bohr effect concerns oxygen binding rather than a general constrictor response."
+    }
+  },
+  "phy-resp-062": {
+    "why": "The core respiratory functions of the lung are to move air into and out of alveoli and to allow oxygen and carbon dioxide to diffuse between alveolar air and pulmonary capillary blood.",
+    "notes": {
+      "A": "Pulmonary vascular tone affects perfusion and matching to ventilation. It is distinct from moving air and transferring gases across the membrane.",
+      "B": "Ventilation is the renewal of alveolar gas that maintains the gradients for oxygen and carbon dioxide transfer.",
+      "C": "Diffusion is the process that transfers oxygen to blood and carbon dioxide into alveolar gas.",
+      "D": "The lung handles lipids in functions such as surfactant production. Lipid metabolism is distinct from respiratory gas exchange."
+    }
+  },
+  "phy-resp-063": {
+    "why": "By Fick's law, gas transfer increases with surface area and decreases as the membrane gets thicker. The gas diffusion coefficient and the partial-pressure difference across the barrier also affect transfer.",
+    "notes": {
+      "A": "A thicker barrier increases the diffusion distance and decreases transfer at a fixed partial-pressure difference.",
+      "B": "A larger exchange area provides more parallel routes for diffusion and increases transfer.",
+      "C": "Tidal volume affects ventilation and can change alveolar partial pressures indirectly. It is not itself a dimension of the membrane.",
+      "D": "Residual volume is the gas left after maximal expiration, not a direct determinant of membrane diffusion in Fick's law."
+    }
+  },
+  "phy-resp-064": {
+    "why": "Most gas exchange takes place across thin alveolar walls and the adjacent pulmonary capillaries. Oxygen diffuses into the blood and carbon dioxide diffuses into the alveoli down their respective partial-pressure gradients.",
+    "notes": {
+      "A": "The trachea is a conducting airway and does not provide a substantial gas exchange surface.",
+      "B": "Bronchi conduct and distribute air. Their walls are not the main blood–gas barrier.",
+      "C": "Terminal bronchioles are conducting airways. Respiratory bronchioles have alveolar outpouchings that allow gas exchange.",
+      "E": "The larynx helps regulate airflow and phonation and does not provide an alveolar exchange surface."
+    }
+  },
+  "phy-resp-065": {
+    "why": "In an upright lung, ventilation and perfusion both increase toward the base, but perfusion increases more steeply. Thus V/Q is higher at the apex. In prone positioning, the gravitational gradient is mainly ventral to dorsal and matching tends to be more uniform.",
+    "notes": {
+      "A": "The upright gradient in perfusion is steeper than the gradient in ventilation, so the ratio is higher at the apex.",
+      "B": "Regional ventilation generally increases toward the base of the upright lung, where resting alveoli have more room to expand.",
+      "C": "Perfusion is greater toward the dependent base in an upright person rather than increasing toward the apex.",
+      "D": "In a prone person, the main gravity-dependent axis is ventral to dorsal. An upright apex-to-base rule cannot simply be applied."
+    }
+  },
+  "phy-resp-067": {
+    "why": "Conversion to bicarbonate accounts for most carbon dioxide transport, commonly estimated at about 70 percent of the total carried from tissues. Carbonic anhydrase in red cells accelerates hydration, and bicarbonate is exchanged for chloride across the red-cell membrane.",
+    "notes": {
+      "A": "Dissolved carbon dioxide accounts for a relatively small fraction of total carriage. It determines the measured partial pressure.",
+      "B": "Some carbon dioxide forms carbamino compounds, especially with haemoglobin, but this is less than the bicarbonate fraction.",
+      "D": "Bicarbonate is the predominant transport form, so an estimate of only ten percent is too low.",
+      "E": "Oxygenation decreases blood carbon dioxide carriage at a given PCO₂ through the Haldane effect."
+    }
+  },
+  "phy-resp-071": {
+    "why": "The blood–gas barrier includes thin alveolar epithelial cells, capillary endothelial cells and their basement membranes, which are often fused. Oxygen and carbon dioxide cross this barrier by diffusion.",
+    "notes": {
+      "A": "The epithelial and endothelial layers and their associated basement membranes constitute the thin structural barrier.",
+      "B": "Oxygen and carbon dioxide move in opposite directions along their own partial-pressure gradients.",
+      "C": "Carbon dioxide is much more soluble in tissue fluid and has greater membrane diffusivity than oxygen at an equal pressure gradient.",
+      "E": "The stated structural layers and the capacity for oxygen and carbon dioxide diffusion are both features of the barrier."
+    }
+  },
+  "phy-resp-080": {
+    "why": "Increased carbon dioxide and the resulting fall in pH lower haemoglobin's affinity for oxygen. The curve shifts right, meaning more oxygen is released at a given tissue PO₂.",
+    "notes": {
+      "B": "Lower carbon dioxide tends to increase haemoglobin oxygen affinity and shift the curve left.",
+      "C": "A fall in PO₂ changes saturation by moving along a given curve. It does not by itself shift the curve.",
+      "D": "Increasing PO₂ increases saturation along the existing curve when other conditions are fixed.",
+      "E": "Higher pH increases oxygen affinity and tends to produce a left shift."
+    }
+  },
+  "phy-resp-580": {
+    "why": "Carboxyhaemoglobin forms when carbon monoxide binds to haem iron. Carbon dioxide is carried primarily as bicarbonate, partly dissolved, and partly as carbamino groups attached to proteins such as haemoglobin.",
+    "notes": {
+      "A": "Carbaminohaemoglobin is formed when carbon dioxide binds to amino groups on globin.",
+      "C": "Bicarbonate is the principal form of carbon dioxide carriage in blood, mostly dissolved in plasma.",
+      "D": "Some carbon dioxide is carried in physical solution. This fraction determines the partial pressure that drives exchange.",
+      "E": "Both carbamino compounds and physically dissolved carbon dioxide make real contributions to transport."
+    }
+  },
+  "phy-resp-585": {
+    "why": "Oxygen crosses cell membranes by simple diffusion, moving from higher to lower oxygen partial pressure. Cellular consumption maintains the gradient from the extracellular fluid toward the mitochondria.",
+    "notes": {
+      "B": "Filtration is driven by a pressure difference that moves fluid and some solutes through a barrier. It is not the usual route for cellular oxygen entry.",
+      "C": "Osmosis refers to net water movement driven by solute differences. Oxygen itself diffuses down its partial-pressure gradient.",
+      "D": "Oxygen entry does not require ATP-dependent pumps. It follows a gradient maintained by oxygen utilisation.",
+      "E": "Oxygen can pass through the lipid bilayer without requiring a specific membrane carrier."
+    }
+  },
+  "phy-resp-586": {
+    "why": "Most tissue carbon dioxide is converted to bicarbonate inside red cells. Bicarbonate then moves into plasma in exchange for chloride, so most carbon dioxide reaches the lungs in this ionic form.",
+    "notes": {
+      "A": "Carbon dioxide can be dissolved molecularly in plasma, but it is not carried as bubbles during normal circulation.",
+      "B": "Carbon dioxide bound to haemoglobin forms carbaminohaemoglobin, a minority of the total carried.",
+      "D": "Plasma proteins can carry a small amount of carbon dioxide, but this is not the main transport mechanism.",
+      "E": "Circulating blood is the principal transport system for carbon dioxide going to the lungs."
+    }
+  },
+  "phy-resp-588": {
+    "why": "Pulmonary gas exchange occurs across the interface between alveolar air and blood in pulmonary capillaries. The capillary network lies close to the alveolar wall and provides a large surface for diffusion.",
+    "notes": {
+      "A": "Terminal bronchioles are conducting airways. Respiratory bronchioles can exchange gas through alveoli opening from their walls.",
+      "B": "The bronchi conduct air to smaller airways but do not normally provide the thin alveolar–capillary exchange surface.",
+      "D": "The lung roots transmit bronchi, vessels and nerves. The gas exchange interface is distributed throughout the alveolar tissue.",
+      "E": "The trachea carries air toward the lungs, where exchange occurs at the alveolar surface."
+    }
+  },
+  "phy-resp-590": {
+    "why": "Lower pH reduces haemoglobin's affinity for oxygen through the Bohr effect. At a given tissue PO₂, acidic conditions therefore favour oxygen unloading.",
+    "notes": {
+      "B": "Higher pH increases haemoglobin oxygen affinity and makes it less likely to release oxygen at the same PO₂.",
+      "C": "Cooling generally increases oxygen affinity. It tends to oppose, rather than promote, unloading.",
+      "D": "Openness is not a physiological determinant of haemoglobin affinity. Local pH and PCO₂ are directly relevant.",
+      "E": "Acidity provides a specific mechanism by which metabolising tissue can increase oxygen delivery."
+    }
+  },
+  "phy-resp-598": {
+    "why": "Both ventilation and perfusion decrease toward the apex of an upright lung. Because perfusion falls relatively more, ventilation per unit of perfusion is higher at the apex than at the base.",
+    "notes": {
+      "A": "Typical resting alveolar ventilation is about four litres per minute and pulmonary blood flow is about five, giving a ratio below one.",
+      "B": "Alveolar ventilation and perfusion both rise during exercise. A ratio below 0.6 is not the usual general result of maximal exercise.",
+      "D": "Oxygen moves passively across the alveolar–capillary barrier down its partial-pressure gradient.",
+      "E": "Conducting airways can expand during inspiration. A decrease in anatomical dead space is not a general feature of inspiration."
+    }
+  },
+  "phy-resp-601": {
+    "why": "Most carbon dioxide is transported as bicarbonate. In tissue capillaries, red-cell carbonic anhydrase accelerates bicarbonate formation. The reaction runs in reverse in the lungs so carbon dioxide can be exhaled.",
+    "notes": {
+      "B": "Carbaminohaemoglobin carries a minority of carbon dioxide by binding it to globin amino groups.",
+      "C": "The physically dissolved gas accounts for a small fraction and establishes the partial pressure.",
+      "D": "Plasma proteins can form carbamino compounds, but the bulk of carbon dioxide is carried as bicarbonate.",
+      "E": "Carbon dioxide can bind to globin amino groups. Haem iron is the site for oxygen binding."
+    }
+  },
+  "phy-resp-606": {
+    "why": "Resting mean pulmonary arterial pressure is commonly about 15 mm Hg versus a systemic mean near 90 mm Hg. The pulmonary circulation carries roughly the same flow at lower pressure because it has far lower vascular resistance.",
+    "notes": {
+      "B": "Both circuits are in series and have nearly equal minute blood flow at steady state.",
+      "C": "Pulmonary vascular resistance is typically much less than half systemic resistance. The pressure drop is low despite similar flow.",
+      "D": "The systemic vascular bed, especially its veins, contains a much larger fraction of total blood volume.",
+      "E": "During increased flow, pulmonary vessels can recruit and distend, limiting the rise in pressure compared with the increase in cardiac output."
+    }
+  },
+  "phy-resp-607": {
+    "why": "The largest share of blood carbon dioxide is carried as bicarbonate. Red cells catalyse bicarbonate formation, and much of it then moves into plasma through the chloride exchange mechanism.",
+    "notes": {
+      "A": "Myoglobin is chiefly an intracellular oxygen-binding protein in muscle and is not a major circulating carbon dioxide carrier.",
+      "B": "Plasma proteins can carry some carbamino carbon dioxide, but this is a small fraction of total carriage.",
+      "C": "Some gas is physically dissolved in red cells and plasma. Dissolved carbon dioxide is a minority of the total.",
+      "D": "Much bicarbonate formed inside red cells is exchanged into plasma, which carries most of the bicarbonate fraction."
+    }
+  },
+  "phy-resp-608": {
+    "why": "A right shift reduces haemoglobin oxygen affinity and raises the PO₂ needed for half saturation. At a given tissue PO₂, haemoglobin therefore releases more oxygen.",
+    "notes": {
+      "A": "In pulmonary capillaries, removal of carbon dioxide helps increase affinity and supports oxygen loading. A right shift is more characteristic of metabolically active tissues.",
+      "B": "Cooling increases haemoglobin affinity and usually shifts the curve left instead of right.",
+      "D": "A right shift lowers saturation at the same PO₂ and favours unloading. It does not itself enhance binding in the lungs.",
+      "E": "Higher pH increases oxygen affinity and produces a left shift through the Bohr relationship."
+    }
+  },
+  "phy-resp-611": {
+    "why": "Carbon dioxide diffuses across the blood–gas barrier about 20 times more readily than oxygen for the same partial-pressure gradient. Its much greater solubility more than offsets its greater molecular mass.",
+    "notes": {
+      "A": "The gases have different membrane diffusivities, primarily because carbon dioxide is much more soluble.",
+      "B": "The comparison is reversed. Carbon dioxide has the higher diffusion coefficient across the respiratory membrane.",
+      "D": "Raising the oxygen gradient increases its actual flux, but that does not change oxygen's diffusion coefficient relative to carbon dioxide.",
+      "E": "Membrane permeability is one determinant of gas transfer, along with area, thickness and the partial-pressure gradient."
+    }
+  },
+  "phy-resp-613": {
+    "why": "At a given PCO₂, oxygenated blood carries less total carbon dioxide than deoxygenated blood. Oxygenation reduces carbamino binding and reduces haemoglobin's capacity to buffer hydrogen ions, which favours carbon dioxide release in the lungs.",
+    "notes": {
+      "A": "The whole-blood carbon dioxide content curve is relatively close to linear over the physiological range. The familiar sigmoid curve describes oxygen saturation.",
+      "B": "Carbon dioxide content continues to increase as PCO₂ rises in the usual physiological range. There is no nearby saturation plateau.",
+      "C": "At equilibrium, a PCO₂ approaching zero greatly reduces the dissolved carbon dioxide and the carbon dioxide-dependent forms of carriage.",
+      "E": "Added carbon dioxide can reduce oxygen affinity through the Bohr effect. The carbon dioxide dissociation curve directly illustrates the effect of oxygenation on carbon dioxide content."
+    }
+  },
+  "phy-resp-618": {
+    "why": "A left shift increases haemoglobin oxygen affinity. At the same tissue PO₂, more oxygen remains bound to haemoglobin and less is unloaded.",
+    "notes": {
+      "A": "Increased affinity means the oxygen content is generally higher at the same PO₂, assuming the same haemoglobin concentration.",
+      "C": "Higher temperature decreases haemoglobin oxygen affinity and generally shifts the curve to the right.",
+      "D": "A lower pH favours oxygen release and shifts the curve right through the Bohr effect.",
+      "E": "Fetal haemoglobin has higher oxygen affinity than adult haemoglobin, so its curve is the one shifted left."
+    }
+  },
+  "phy-resp-624": {
+    "why": "Lowering V/Q throughout both lungs reduces alveolar oxygen relative to perfusion and generally lowers arterial oxygen content. It can also impair carbon dioxide clearance if total alveolar ventilation is reduced.",
+    "notes": {
+      "B": "Lower alveolar PO₂ reduces end-capillary oxygen saturation, making unchanged systemic oxygen content unlikely without other compensation.",
+      "C": "Low V/Q means perfusion exceeds relative ventilation. Dead space is associated with ventilation of poorly perfused regions instead.",
+      "D": "Widespread hypoventilation increases arterial PCO₂ if carbon dioxide production remains constant.",
+      "E": "Both lungs are affected in the stem, so there is no unaffected contralateral lung with a high ratio to compensate."
+    }
+  },
+  "phy-resp-625": {
+    "why": "Oxygen delivery is arterial oxygen content multiplied by cardiac output. Normally well over 95 percent of the arterial oxygen content is bound to haemoglobin, while only a small amount is dissolved.",
+    "notes": {
+      "A": "Tissue oxygen consumption is only the portion extracted from delivered blood. Unused oxygen returns in venous blood.",
+      "C": "Halving haemoglobin lowers oxygen content if saturation is unchanged, but delivery may be partly maintained by increased cardiac output.",
+      "D": "Oxygen content depends strongly on haemoglobin concentration and saturation. PO₂ chiefly determines the small dissolved fraction and helps set saturation.",
+      "E": "Increased consumption can be met by increasing oxygen extraction as well as delivery, so delivery need not increase in exact proportion."
+    }
   }
 }
