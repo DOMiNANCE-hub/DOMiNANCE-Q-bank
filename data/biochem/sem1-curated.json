@@ -30,15 +30,15 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "NADPH is a more powerful reductant than FADH₂.",
+      "why": "Fatty acid synthase uses NADPH for both reduction reactions of each elongation cycle. Carboxylation of acetyl-CoA provides malonyl-CoA, whose decarboxylation drives carbon–carbon bond formation.",
       "topicId": "lipids",
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "B": "Not the reductant here.",
-        "C": "A carrier for CO₂, not electrons.",
-        "D": "FADH₂ is used in degradation.",
-        "E": "Not involved."
+        "B": "GTP supplies energy in some metabolic pathways, but the carboxylation step here consumes ATP.",
+        "C": "Biotin transfers activated carbon dioxide during carboxylation; it does not supply the electrons needed for chain reduction.",
+        "D": "FAD accepts electrons during fatty acid oxidation, whereas biosynthesis uses NADPH as its reductant.",
+        "E": "Thiamine pyrophosphate supports oxidative decarboxylation reactions but is not the reducing cofactor of fatty acid synthase."
       }
     },
     {
@@ -68,15 +68,15 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "It adds CO₂ to acetyl-CoA to form malonyl-CoA.",
+      "why": "Acetyl-CoA carboxylase catalyses the regulated conversion of acetyl-CoA and bicarbonate into malonyl-CoA, using ATP and biotin. This commits carbon to the fatty acid synthesis pathway.",
       "topicId": "lipids",
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "A": "Carries out the elongation cycle.",
-        "C": "The condensing enzyme.",
-        "D": "Supplies cytosolic acetyl-CoA.",
-        "E": "Supplies NADPH."
+        "A": "Fatty acid synthase performs repeated chain elongation using malonyl-CoA after the regulated carboxylation step.",
+        "C": "Ketoacyl-ACP synthase catalyses condensation within the synthase cycle rather than forming the committed malonyl-CoA substrate.",
+        "D": "ATP-citrate lyase makes cytosolic acetyl-CoA available for lipogenesis but does not catalyse its committed carboxylation.",
+        "E": "Malic enzyme produces NADPH for reductive biosynthesis but does not convert acetyl-CoA into malonyl-CoA."
       }
     },
     {
@@ -106,15 +106,15 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "It carries the activated CO₂.",
+      "why": "Biotin is covalently attached to acetyl-CoA carboxylase and transiently carries activated carbon dioxide. The carboxyl group is transferred to acetyl-CoA to produce malonyl-CoA.",
       "topicId": "lipids",
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "A": "Used in transamination.",
-        "B": "Used in oxidative decarboxylation.",
-        "D": "Used in the PDH complex.",
-        "E": "Carries one-carbon units."
+        "A": "Pyridoxal phosphate assists amino acid reactions such as transamination rather than bicarbonate-dependent acetyl-CoA carboxylation.",
+        "B": "Thiamine pyrophosphate stabilises carbanion intermediates in oxidative decarboxylation and transketolase reactions, not this carboxylation.",
+        "D": "Lipoic acid transfers acyl groups and electrons in oxidative dehydrogenase complexes rather than activated carbon dioxide.",
+        "E": "Tetrahydrofolate carries one-carbon units at various oxidation states but does not mediate acetyl-CoA carboxylation."
       }
     },
     {
@@ -182,15 +182,15 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The electrons from the lost CO₂ attack the acyl group.",
+      "why": "Ketoacyl-ACP synthase couples decarboxylation of malonyl-ACP to condensation with the acyl group held on its catalytic cysteine. The resulting β-ketoacyl-ACP contains two additional carbons.",
       "topicId": "lipids",
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "A": "Loads the acetyl primer.",
-        "B": "Loads malonyl onto ACP.",
-        "C": "Reduces the enoyl group.",
-        "D": "Releases the finished chain."
+        "A": "Acetyl-CoA:ACP transacylase transfers the acetyl primer to the synthase machinery before carbon–carbon condensation occurs.",
+        "B": "Malonyl-CoA:ACP transacylase loads the malonyl extender onto ACP but does not catalyse its decarboxylative condensation.",
+        "C": "Enoyl-ACP reductase consumes NADPH to reduce the double bond later in the elongation cycle.",
+        "D": "Thioesterase hydrolyses the completed acyl chain from ACP rather than joining the two carbon substrates."
       }
     },
     {
@@ -220,15 +220,15 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The two reductions use NADPH.",
+      "why": "Fatty acid synthesis reverses the sequence of hydration and oxidation reactions seen in β-oxidation, but uses different enzymes, ACP-bound intermediates and NADPH for reduction.",
       "topicId": "lipids",
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "B": "A glucose pathway.",
-        "C": "Not reversed here.",
-        "D": "Supplies NADPH, not the steps.",
-        "E": "A glucose pathway."
+        "B": "Glycolysis converts glucose into pyruvate through sugar phosphate reactions rather than cycling through fatty acyl intermediates.",
+        "C": "The citric acid cycle oxidises acetyl-CoA and regenerates oxaloacetate rather than shortening fatty acyl chains.",
+        "D": "The pentose phosphate pathway supplies NADPH for lipogenesis but is not the reverse sequence of fatty acid elongation.",
+        "E": "Gluconeogenesis produces glucose from non-carbohydrate precursors and does not contain the repeated fatty acyl reaction sequence."
       }
     },
     {
@@ -258,15 +258,15 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "β-oxidation occurs in the mitochondrial matrix.",
+      "why": "In human cells, de novo synthesis of long-chain fatty acids occurs mainly in the cytosol, where acetyl-CoA carboxylase and fatty acid synthase use cytosolic substrates.",
       "topicId": "lipids",
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "A": "Site of degradation.",
-        "C": "Site of elongation only.",
-        "D": "Not the main site.",
-        "E": "Not involved."
+        "A": "The mitochondrial matrix is the major site of fatty acid β-oxidation, rather than cytosolic de novo lipogenesis.",
+        "C": "The endoplasmic reticulum participates in elongation and desaturation, but its lumen does not house cytosolic fatty acid synthase.",
+        "D": "Peroxisomes shorten very-long-chain fatty acids by oxidation rather than serving as the principal site of lipogenesis.",
+        "E": "The nucleus regulates expression of lipogenic genes but is not the major site of the synthesis reactions."
       }
     },
     {
@@ -296,15 +296,15 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Fatty acid synthase is one complex.",
+      "why": "Mammalian fatty acid synthase is a multifunctional enzyme complex whose catalytic domains carry out successive reactions. Its ACP domain transfers the growing chain between active sites.",
       "topicId": "lipids",
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "A": "That describes degradation.",
-        "B": "Not transporters.",
-        "D": "That is the degradation arrangement.",
-        "E": "Not ribosomal."
+        "A": "Individual catalytic activities are organised within mammalian fatty acid synthase rather than operating solely as separate soluble enzymes.",
+        "B": "Transport proteins move substrates between compartments but do not execute the successive reactions of fatty acid synthase.",
+        "D": "Mitochondrial β-oxidation enzymes act on CoA-bound intermediates, whereas de novo fatty acid synthesis occurs in the cytosol.",
+        "E": "Ribosomal subunits synthesise proteins from amino acids and do not perform repeated fatty acid elongation reactions."
       }
     },
     {
@@ -334,15 +334,15 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Beta-oxidation removes two-carbon acetyl-CoA units from the carboxyl end of the fatty acid, whereas synthesis adds them starting from the methyl end.",
+      "why": "β-oxidation cleaves successive two-carbon acetyl-CoA units from the carboxyl end of a fatty acyl-CoA. The original methyl end remains until the terminal rounds of degradation.",
       "topicId": "lipids",
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "A": "That is the synthesis direction.",
-        "B": "Not as taught.",
-        "C": "Not as taught.",
-        "E": "Not as taught."
+        "A": "The methyl end is the distal end of the fatty acyl chain and is retained during successive β-oxidation rounds.",
+        "B": "The middle of the chain is not the normal site of cleavage during sequential β-oxidation of fatty acyl-CoA.",
+        "C": "Double bonds in unsaturated fatty acids may require auxiliary enzymes, but they do not define where acetyl-CoA is released.",
+        "E": "A terminal hydroxyl is relevant to some other oxidation pathways, whereas β-oxidation operates on the activated carboxyl end."
       }
     },
     {
@@ -372,15 +372,15 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Longer fatty acids need the elongation system.",
+      "why": "Palmitate, a saturated sixteen-carbon fatty acid, is the characteristic end product of mammalian fatty acid synthase. Its release normally occurs after seven elongation cycles.",
       "topicId": "lipids",
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "A": "Made by elongation.",
-        "B": "Needs desaturation.",
-        "C": "Made from an essential fatty acid.",
-        "D": "An essential fatty acid."
+        "A": "Stearate is an eighteen-carbon saturated fatty acid produced mainly by elongating palmitate after its release from synthase.",
+        "B": "Oleate is produced through elongation and desaturation reactions rather than being the characteristic product of fatty acid synthase.",
+        "C": "Arachidonate is a twenty-carbon polyunsaturated fatty acid generally formed from dietary linoleate through elongation and desaturation.",
+        "D": "Linoleate is an essential fatty acid because mammals lack the desaturase required to synthesise its omega-six double bond."
       }
     },
     {
@@ -410,15 +410,15 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Synthesis uses NADP⁺/NADPH.",
+      "why": "Each standard β-oxidation round includes an FAD-dependent acyl-CoA dehydrogenase reaction and an NAD⁺-dependent hydroxyacyl-CoA dehydrogenase reaction. Their electrons ultimately support mitochondrial ATP production.",
       "topicId": "lipids",
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "B": "Used in synthesis.",
-        "C": "NAD is also used.",
-        "D": "NADP is for synthesis.",
-        "E": "Not as taught."
+        "B": "NADPH supplies reducing equivalents for fatty acid synthesis, rather than serving as the sole redox cofactor of β-oxidation.",
+        "C": "FAD accepts electrons in the first oxidation reaction, but NAD⁺ is also required later in the cycle.",
+        "D": "NADP⁺ is not the usual electron acceptor of hydroxyacyl-CoA dehydrogenase in the standard β-oxidation cycle.",
+        "E": "GTP participates in substrate-level phosphorylation and signalling, not the flavin-dependent first oxidation of fatty acyl-CoA."
       }
     },
     {
@@ -448,15 +448,15 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Degradation predominates in starvation.",
+      "why": "After a carbohydrate-rich meal, insulin rises and promotes glucose uptake, cytosolic acetyl-CoA supply and acetyl-CoA carboxylase activity. Excess carbohydrate can therefore be converted into fatty acids.",
       "topicId": "lipids",
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "A": "Favours oxidation.",
-        "C": "Favours oxidation.",
-        "D": "Favours oxidation.",
-        "E": "Favours oxidation."
+        "A": "During prolonged starvation, low insulin and high glucagon favour fatty acid mobilisation, oxidation and hepatic ketone production.",
+        "C": "Acute infection often stimulates stress-mediated catabolism rather than providing the characteristic insulin-rich state that promotes lipogenesis.",
+        "D": "A low-carbohydrate intake generally reduces the insulin-driven stimulus for converting excess carbohydrate into newly synthesised fatty acids.",
+        "E": "Vigorous exercise activates energy-sensing pathways such as AMPK, which restrain ATP-consuming fatty acid synthesis."
       }
     },
     {
@@ -486,15 +486,15 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Insulin stimulates biosynthesis.",
+      "why": "A high insulin-to-glucagon ratio indicates the fed state and promotes fatty acid synthesis through activation of acetyl-CoA carboxylase and increased expression of lipogenic enzymes.",
       "topicId": "lipids",
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "A": "Favours oxidation.",
-        "B": "Favours oxidation.",
-        "D": "Favours oxidation.",
-        "E": "Not as taught."
+        "A": "A high glucagon-to-insulin ratio signals fasting and favours hepatic oxidation rather than storage through fatty acid synthesis.",
+        "B": "Epinephrine promotes mobilisation of energy stores during stress, whereas insulin supports substrate availability and lipogenic enzyme activity.",
+        "D": "Cortisol supports metabolic adaptation to stress and is not the characteristic fed-state signal for activating acetyl-CoA carboxylase.",
+        "E": "Glucagon and cortisol are counter-regulatory hormones; their ratio does not represent the fed-state insulin signal driving lipogenesis."
       }
     },
     {
@@ -524,15 +524,15 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "It signals abundant building blocks.",
+      "why": "Citrate activates acetyl-CoA carboxylase allosterically, favouring its active polymeric state. Elevated cytosolic citrate signals that carbon and energy are available for fatty acid synthesis.",
       "topicId": "lipids",
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "A": "Inhibits the enzyme.",
-        "B": "Signals low energy.",
-        "C": "The product.",
-        "E": "Not an activator."
+        "A": "Palmitoyl-CoA provides feedback inhibition of acetyl-CoA carboxylase when sufficient long-chain fatty acyl groups have accumulated.",
+        "B": "AMP signals low energy availability and activates AMPK, which phosphorylates and inhibits acetyl-CoA carboxylase.",
+        "C": "Malonyl-CoA is the product of acetyl-CoA carboxylase and inhibits CPT I rather than being its classic activator.",
+        "E": "Long-chain acylcarnitine facilitates mitochondrial fatty acid transport and is not the classic allosteric activator of acetyl-CoA carboxylase."
       }
     },
     {
@@ -562,15 +562,15 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The end product feeds back; it also inhibits the citrate shuttle.",
+      "why": "Long-chain fatty acyl-CoA, particularly palmitoyl-CoA, inhibits acetyl-CoA carboxylase by feedback. This limits malonyl-CoA formation when fatty acid products are already abundant.",
       "topicId": "lipids",
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "A": "Activates the enzyme.",
-        "B": "The substrate.",
-        "C": "A cosubstrate of synthesis.",
-        "D": "Part of the citrate shuttle."
+        "A": "Citrate promotes the active state of acetyl-CoA carboxylase rather than providing the characteristic long-chain feedback inhibition.",
+        "B": "Acetyl-CoA is the carbon substrate of acetyl-CoA carboxylase rather than its characteristic end-product feedback inhibitor.",
+        "C": "NADPH donates electrons to fatty acid synthase and is not the classic allosteric inhibitor of acetyl-CoA carboxylase.",
+        "D": "Oxaloacetate combines with acetyl-CoA to form citrate and is not the characteristic feedback signal from fatty acid products."
       }
     },
     {
@@ -600,15 +600,15 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "AMP-activated protein kinase phosphorylates it.",
+      "why": "Phosphorylation of acetyl-CoA carboxylase by AMP-activated protein kinase decreases its catalytic activity. This conserves ATP and reduces lipogenesis when cellular energy is limited.",
       "topicId": "lipids",
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "B": "Not as taught.",
-        "C": "Not as taught.",
-        "D": "Not for this enzyme.",
-        "E": "Not as taught."
+        "B": "Acetylation modifies many metabolic proteins, but the classic reversible energy-sensitive regulation of this enzyme is phosphorylation.",
+        "C": "Methylation regulates diverse proteins and nucleic acids but is not the standard acute inhibitory modification of acetyl-CoA carboxylase.",
+        "D": "Ubiquitination may regulate protein stability, whereas the rapid inhibitory switch here changes catalytic activity through phosphorylation.",
+        "E": "Glycosylation commonly affects protein processing and trafficking; it is not the classic AMPK-mediated switch for acetyl-CoA carboxylase."
       }
     },
     {
@@ -643,10 +643,10 @@
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "A": "An inhibitor.",
-        "C": "The product.",
-        "D": "Not the allosteric activator.",
-        "E": "Activates the kinase."
+        "A": "Palmitoyl-CoA inhibits acetyl-CoA carboxylase by end-product feedback rather than counteracting the inhibitory effect of phosphorylation.",
+        "C": "Malonyl-CoA is formed by acetyl-CoA carboxylase and regulates mitochondrial entry of fatty acids through CPT I inhibition.",
+        "D": "ATP supplies energy for carboxylation, but substrate availability does not substitute for citrate's characteristic allosteric activation.",
+        "E": "AMP activates the energy sensor AMPK, which favours inhibitory phosphorylation rather than allosteric rescue of the enzyme."
       }
     },
     {
@@ -676,15 +676,15 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "It responds to a low energy charge.",
+      "why": "AMP-activated protein kinase responds to energy stress by phosphorylating acetyl-CoA carboxylase. The consequent decline in malonyl-CoA limits fatty acid synthesis and facilitates oxidation.",
       "topicId": "lipids",
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "A": "Not the named kinase here.",
-        "B": "Not as taught.",
-        "D": "A glycolytic enzyme.",
-        "E": "Acts in glycogenolysis."
+        "A": "cAMP-dependent protein kinase mediates hormonal signalling, whereas AMPK is the principal energy-sensitive kinase directly responsible here.",
+        "B": "Protein kinase C is activated by lipid-derived signals in many pathways but is not the classic energy sensor regulating ACC.",
+        "D": "Pyruvate kinase is a glycolytic enzyme that transfers phosphate from phosphoenolpyruvate to ADP, not a regulatory protein kinase.",
+        "E": "Phosphorylase kinase activates glycogen phosphorylase during glycogen breakdown rather than serving as the principal inhibitory ACC kinase."
       }
     },
     {
@@ -714,15 +714,15 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "This stops acyl-CoA entering mitochondria.",
+      "why": "Malonyl-CoA inhibits carnitine palmitoyltransferase I on the outer mitochondrial membrane, decreasing transport of long-chain fatty acyl groups into the matrix and preventing simultaneous synthesis and oxidation.",
       "topicId": "lipids",
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "A": "Inhibited by acetyl-CoA.",
-        "B": "Makes malonyl-CoA.",
-        "C": "Builds fatty acids.",
-        "E": "Not the control point here."
+        "A": "3-ketoacyl thiolase cleaves β-ketoacyl-CoA within the oxidation cycle rather than controlling entry through the carnitine shuttle.",
+        "B": "Acetyl-CoA carboxylase produces malonyl-CoA, but the inhibition of mitochondrial fatty acid entry occurs at CPT I.",
+        "C": "Fatty acid synthase consumes malonyl-CoA as an extender substrate rather than mediating mitochondrial transport for oxidation.",
+        "E": "Long-chain acyl-CoA dehydrogenase performs the first matrix oxidation step, after long-chain substrate has entered the mitochondrion."
       }
     },
     {
@@ -752,15 +752,15 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "ATP and NADH also inhibit β-oxidation.",
+      "why": "Acetyl-CoA is a product of the thiolase reaction, which cleaves β-ketoacyl-CoA using CoA. A high acetyl-CoA concentration can oppose the reaction and restrain β-oxidation.",
       "topicId": "lipids",
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "A": "Inhibits carnitine acyltransferase I.",
-        "B": "Acts on carboxylase.",
-        "C": "Not an inhibitor here.",
-        "D": "Not the inhibitor."
+        "A": "Malonyl-CoA inhibits CPT I at mitochondrial entry rather than directly providing product inhibition of the thiolase reaction.",
+        "B": "Citrate reflects carbon and energy abundance and activates lipogenesis, but it is not the thiolase reaction product.",
+        "C": "NADP⁺ participates in NADPH-dependent reactions rather than providing the characteristic product inhibition of β-oxidation thiolase.",
+        "D": "Palmitate is a potential fatty acid oxidation substrate after activation to palmitoyl-CoA, not the direct thiolase product."
       }
     },
     {
@@ -790,15 +790,15 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The major product is stearoyl-CoA.",
+      "why": "Microsomal elongation enzymes in the endoplasmic reticulum extend palmitoyl-CoA and other fatty acyl-CoAs by two-carbon units, generally using malonyl-CoA and NADPH.",
       "topicId": "lipids",
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "B": "A second, minor system.",
-        "C": "Not the site.",
-        "D": "Not as taught.",
-        "E": "Not as taught."
+        "B": "Mitochondria have specialised fatty acid synthesis and elongation activity, but the major long-chain elongation system is microsomal.",
+        "C": "Ribosomes translate proteins, including elongation enzymes, but do not themselves catalyse addition of carbon units to fatty acids.",
+        "D": "Peroxisomes mainly shorten very-long-chain fatty acids through oxidation rather than housing the major microsomal elongation system.",
+        "E": "The Golgi processes and sorts lipids and proteins, whereas the characteristic fatty acid elongases reside in the endoplasmic reticulum."
       }
     },
     {
@@ -828,15 +828,15 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "So linoleate and linolenate must come from the diet.",
+      "why": "Mammals cannot introduce the Δ12 and Δ15 double bonds required to synthesise linoleic and α-linolenic acids from oleate. They therefore require these fatty acids in the diet.",
       "topicId": "lipids",
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "A": "Not the limit.",
-        "C": "Position of a bond in linoleate.",
-        "D": "A bond in linolenate.",
-        "E": "Not the limit."
+        "A": "Mammalian desaturases can introduce double bonds further from the carboxyl group than carbon three, including the Δ9 position.",
+        "C": "Carbon twelve is itself a position mammals cannot introduce into oleate, so it is not the limiting Δ9 position.",
+        "D": "Carbon fifteen is another unavailable desaturation position and does not define the first missing desaturase beyond Δ9.",
+        "E": "Mammals possess Δ6 desaturase activity and can further modify dietary essential fatty acids using that enzyme."
       }
     },
     {
@@ -866,15 +866,15 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Arachidonate is derived from them.",
+      "why": "Linoleic acid (omega-6) and α-linolenic acid (omega-3) must be obtained from food because humans cannot create their characteristic double-bond patterns by de novo synthesis.",
       "topicId": "lipids",
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "A": "Both are synthesised.",
-        "B": "Both are synthesised.",
-        "D": "Arachidonate is derived, not essential-listed.",
-        "E": "Stearate is synthesised."
+        "A": "Palmitate can be made by fatty acid synthase and subsequently elongated to stearate, so neither requires dietary supply.",
+        "B": "Oleate and palmitoleate can be made by Δ9 desaturation of their corresponding saturated fatty acyl chains.",
+        "D": "Arachidonate can be produced from linoleate in healthy adults, and oleate can be synthesised from stearate.",
+        "E": "Linoleate is essential, but stearate can be produced through elongation of palmitate and is not an essential fatty acid."
       }
     },
     {
@@ -904,15 +904,15 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "A 20-carbon polyunsaturated fatty acid.",
+      "why": "Arachidonic acid is a twenty-carbon polyunsaturated fatty acid released from membrane phospholipids. Cyclooxygenases generate prostaglandins and thromboxanes, while lipoxygenases generate leukotrienes from it.",
       "topicId": "lipids",
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "A": "A saturated fatty acid.",
-        "B": "Source of steroids.",
-        "C": "A precursor further back.",
-        "E": "A monounsaturated fatty acid."
+        "A": "Palmitic acid is a sixteen-carbon saturated fatty acid and lacks the unsaturation required for the classic arachidonate-derived mediators.",
+        "B": "Cholesterol is a sterol precursor of steroid hormones and bile acids, rather than the standard eicosanoid precursor.",
+        "C": "α-Linolenic acid can yield other omega-3 mediators after conversion, but arachidonate is the classic immediate precursor here.",
+        "E": "Oleic acid is a monounsaturated eighteen-carbon fatty acid and is not the usual precursor of these classic eicosanoids."
       }
     },
     {
@@ -942,15 +942,15 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Citrate is cleaved back to acetyl-CoA in the cytosol.",
+      "why": "Acetyl-CoA cannot directly cross the inner mitochondrial membrane. It combines with oxaloacetate to form citrate, which exits and is cleaved to regenerate cytosolic acetyl-CoA.",
       "topicId": "lipids",
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "A": "Regenerates oxaloacetate.",
-        "B": "Re-enters the mitochondrion.",
-        "C": "Carries acyl groups, not acetyl here.",
-        "D": "Cannot cross as such."
+        "A": "Malate participates in the shuttle's return reactions and NADPH generation, but it does not directly carry the exported acetyl group.",
+        "B": "Pyruvate can enter mitochondria and produce acetyl-CoA through pyruvate dehydrogenase, but is not its lipogenic export form.",
+        "C": "Acetylcarnitine participates in buffering acetyl groups, but citrate is the characteristic mitochondrial export intermediate for lipogenesis.",
+        "D": "Oxaloacetate cannot directly cross the inner membrane and combines with acetyl-CoA to form the exportable citrate molecule."
       }
     },
     {
@@ -980,15 +980,15 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "It requires ATP.",
+      "why": "ATP-citrate lyase cleaves citrate in the cytosol using CoA and ATP, generating acetyl-CoA for lipogenesis and oxaloacetate for the shuttle's subsequent reactions.",
       "topicId": "lipids",
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "B": "Forms citrate in the mitochondrion.",
-        "C": "Makes pyruvate and NADPH.",
-        "D": "Interconverts OAA and malate.",
-        "E": "Makes oxaloacetate."
+        "B": "Citrate synthase combines acetyl-CoA and oxaloacetate within mitochondria, performing the opposite carbon-assembly step rather than cytosolic cleavage.",
+        "C": "Malic enzyme converts malate into pyruvate with NADPH production, not citrate into the two lipogenic intermediates.",
+        "D": "Malate dehydrogenase interconverts oxaloacetate and malate using the NAD⁺/NADH redox pair without cleaving citrate.",
+        "E": "Pyruvate carboxylase replenishes mitochondrial oxaloacetate using pyruvate and ATP rather than releasing cytosolic acetyl-CoA from citrate."
       }
     },
     {
@@ -1018,15 +1018,15 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "This couples fatty-acid synthesis to glycolysis.",
+      "why": "The cytosolic NADP⁺-dependent malic enzyme converts malate into pyruvate and carbon dioxide, reducing NADP⁺ to NADPH for the reduction reactions of fatty acid synthesis.",
       "topicId": "lipids",
       "subtopic": "Fatty acid synthesis",
       "difficulty": "medium",
       "notes": {
-        "A": "Makes malate using NADH.",
-        "C": "Cleaves citrate.",
-        "D": "A citric-acid-cycle enzyme.",
-        "E": "Makes acetyl-CoA."
+        "A": "Malate dehydrogenase interconverts malate and oxaloacetate with NAD⁺/NADH, without producing pyruvate through oxidative decarboxylation.",
+        "C": "ATP-citrate lyase releases cytosolic acetyl-CoA from citrate but does not generate NADPH from malate.",
+        "D": "NADP-dependent isocitrate dehydrogenase can generate NADPH from isocitrate, but its substrate in that reaction is not malate.",
+        "E": "Pyruvate dehydrogenase converts mitochondrial pyruvate into acetyl-CoA and generates NADH rather than cytosolic NADPH from malate."
       }
     },
     {
@@ -1056,15 +1056,15 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "It is the primary regulatory enzyme and the target of statins.",
+      "why": "HMG-CoA reductase reduces HMG-CoA to mevalonate in the major regulated step of cholesterol synthesis. Statins inhibit this enzyme, decreasing endogenous cholesterol production.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "Makes HMG-CoA.",
-        "B": "A later step.",
-        "D": "Acts after HMG-CoA.",
-        "E": "An early condensation."
+        "A": "HMG-CoA synthase forms the HMG-CoA substrate before the major regulated reduction to mevalonate takes place.",
+        "B": "Squalene synthase joins two farnesyl diphosphate molecules downstream of mevalonate rather than catalysing the primary rate-limiting reduction.",
+        "D": "Mevalonate kinase phosphorylates mevalonate after the reductase step and does not catalyse the major regulated reaction.",
+        "E": "Acetoacetyl-CoA thiolase condenses two acetyl-CoA molecules early in the pathway, before formation and reduction of HMG-CoA."
       }
     },
     {
@@ -1094,15 +1094,15 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The step consumes two NADPH.",
+      "why": "HMG-CoA reductase reduces the thioester group of HMG-CoA to the alcohol group of mevalonate. The reaction consumes two NADPH molecules and releases free CoA.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "Several steps later.",
-        "B": "Near the end.",
-        "C": "An earlier intermediate.",
-        "E": "Formed from mevalonate."
+        "A": "Squalene is made much later from two farnesyl diphosphate molecules, after formation of the isoprenoid intermediates.",
+        "B": "Lanosterol forms by cyclisation of squalene epoxide downstream of mevalonate, not directly by reduction of HMG-CoA.",
+        "C": "Acetoacetyl-CoA is an earlier precursor used by HMG-CoA synthase rather than the product of HMG-CoA reductase.",
+        "E": "Isopentenyl diphosphate forms after successive phosphorylation and decarboxylation reactions of mevalonate rather than directly from HMG-CoA."
       }
     },
     {
@@ -1132,15 +1132,15 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Two molecules are used.",
+      "why": "HMG-CoA reductase uses two NADPH molecules to reduce HMG-CoA to mevalonate. NADPH is the characteristic electron donor in this reductive stage of sterol biosynthesis.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "Not the reductant.",
-        "B": "Not used here.",
-        "C": "Not used here.",
-        "D": "Not a reductant."
+        "A": "NADH commonly transfers electrons from catabolic pathways to the respiratory chain, whereas HMG-CoA reductase specifically uses NADPH.",
+        "B": "FADH₂ participates in flavin-mediated redox reactions but is not the direct reducing cofactor of HMG-CoA reductase.",
+        "C": "FMNH₂ transfers electrons in certain flavoproteins, but HMG-CoA reductase obtains its reducing equivalents from NADPH.",
+        "D": "GTP supplies energy for some reactions and signalling events but does not donate hydride to HMG-CoA reductase."
       }
     },
     {
