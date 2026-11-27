@@ -5,7 +5,7 @@
   "drafts": 165,
   "holds": 28,
   "drafts_pushed": true,
-  "applied_to_data": false,
+  "applied_to_data": true,
   "source_blob": "9c9191a68da7863840c40c9c690cfe1a67b1923a",
   "next_id": null,
   "remaining_ids": [],
@@ -44,5 +44,7 @@
     "https://cvphysiology.com/cardiac-function/cf008",
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC4587661/",
     "https://journals.physiology.org/doi/10.1152/ajpheart.00705.2022"
-  ]
+  ],
+  "data_blob": "86a367306c36c5410a47bc4864414d7d7e7fb4f3",
+  "next_file": "data/physiology/gi-past.json"
 }
