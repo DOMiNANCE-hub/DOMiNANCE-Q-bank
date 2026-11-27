@@ -876,3 +876,9 @@
 - Key: D — ACP2 (live; archive letters differ).
 - Concern: Standard mammalian fatty acid synthase nomenclature distinguishes the ACP phosphopantetheine thiol and ketoacyl-synthase cysteine thiol, not universally labelled ACP1 and ACP2. Confirm the course's exact naming convention before explaining the numbered carriers. Key and explanation untouched.
 - Reference: https://bio.libretexts.org/Bookshelves/Biochemistry/Fundamentals_of_Biochemistry_%28Jakubowski_and_Flatt%29/02%253A_Unit_II-_Bioenergetics_and_Metabolism/21%253A_Lipid_Biosynthesis/21.01%253A_Biosynthesis_of_Fatty_Acids_and_Eicosanoids (general mechanism; course nomenclature not verified).
+
+## dq-bio-aa21 — Course-specific essential amino acid count
+- Stem: How many of the twenty amino acids are essential in the human diet, as taught?
+- Key: A — Ten (live; archive labels may differ).
+- Concern: Standard adult nutrition identifies nine indispensable amino acids. Arginine may be conditionally essential; the stem explicitly references course teaching, so confirm whether the digest counts arginine or uses a different age group. Nine is absent from the options. Key and explanation unchanged.
+- Reference: https://www.ncbi.nlm.nih.gov/books/NBK557845/ ; https://pubmed.ncbi.nlm.nih.gov/30060014/
