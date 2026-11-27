@@ -359,3 +359,27 @@
 - Key: A — among the shortest-lived cells (~10 days).
 - Concern: Taste cells undergo continual renewal, but lifetimes vary substantially by subtype; roughly ten days is a conventional average for some cells, not a universal lifespan. Many other cell populations turn over more rapidly, so the superlative among the shortest-lived cells needs qualification. Original explanation and key untouched.
 - Reference: standard sensory physiology and clinical ophthalmology/audiology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mc14 — Origin of fenestral diaphragms
+- Stem: The diaphragm across a capillary fenestration is thought to derive from:
+- Key: E
+- Concern: The proposed glycocalyx origin is an older speculative model; PLVAP (plasmalemma vesicle-associated protein) is the principal structural component of most endothelial fenestral diaphragms. The options do not offer this mechanism. Original explanation and key untouched.
+- Reference: standard vascular histology, Ross & Pawlina/Junqueira; exact edition/page and lecture source not independently checked.
+
+## dq-m-mc16 — Pericyte regulation
+- Stem: Pericytes are regulated mainly by:
+- Key: A
+- Concern: Pericyte contractility and signalling depend on tissue, subtype and multiple mediators, including nitric oxide, endothelin and other signals. A universal main regulator cannot be inferred from the stem. Original explanation and key untouched.
+- Reference: standard vascular histology, Ross & Pawlina/Junqueira; exact edition/page and lecture source not independently checked.
+
+## dq-m-mc22 — Atypical vessel comparisons
+- Stem: Atypical blood vessels:
+- Key: {"A":"T","B":"F","C":"T","D":"T","E":"F"}
+- Concern: The relative wall thickness of coronary and comparable limb arteries depends on vessel size, location and measurement. The categorical false key and its explanation need a lecture-specific source; saphenous vein architecture also varies. Original explanation and key untouched.
+- Reference: standard vascular histology, Ross & Pawlina/Junqueira; exact edition/page and lecture source not independently checked.
+
+## dq-m-mcs8 — Continuous capillary transport
+- Stem: Which capillary type allows only small molecules to pass, mainly by pinocytotic transport?
+- Key: C
+- Concern: Continuous capillaries allow water and small solutes by paracellular pathways and diffusion as well as transcellular transport; pinocytosis is not the principal route for all small molecules. Brain continuous capillaries have especially restricted transcytosis. The keyed category is plausible but the premise is misleading. Original explanation and key untouched.
+- Reference: standard vascular histology, Ross & Pawlina/Junqueira; exact edition/page and lecture source not independently checked.
