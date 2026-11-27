@@ -187,5 +187,217 @@
       "B": "Polymerase beta is best known for base excision repair, rather than as the principal mitochondrial replicative polymerase.",
       "D": "Polymerase delta is a major nuclear replicative polymerase and is not the principal enzyme duplicating mitochondrial DNA."
     }
+  },
+  "bio-233": {
+    "why": "DNA polymerase always extends a strand in the 5′-to-3′ direction. On the lagging strand, this makes each Okazaki fragment grow away from the moving fork, even though new fragments begin near the fork.",
+    "notes": {
+      "A": "The leading strand is usually copied continuously in the direction of fork movement. It does not normally consist of Okazaki fragments.",
+      "B": "New lagging-strand fragments start near the fork, but each is extended away from it.",
+      "C": "The leading strand extends toward the fork, while discontinuous synthesis occurs on the lagging strand."
+    }
+  },
+  "bio-234": {
+    "why": "A benign tumour is a localised neoplasm that does not invade nearby tissue or metastasise. Many benign tumours are circumscribed or encapsulated, though a capsule is not required for the diagnosis.",
+    "notes": {
+      "A": "Neoplasia is abnormal new growth and can be benign or malignant. The lack of invasion identifies the more specific term here.",
+      "C": "Anaplasia describes loss of differentiation and is often associated with aggressive malignancy, rather than a localised benign mass.",
+      "D": "Cancer refers to a malignant neoplasm with the capacity for invasion, which the stem excludes.",
+      "E": "Angiogenesis is formation of new blood vessels. It can occur around growths but does not name a type of mass."
+    }
+  },
+  "bio-236": {
+    "why": "In the standard lac operon model, plentiful glucose keeps bacterial cAMP low. The cAMP–CAP activator complex then forms less readily, so recruitment of RNA polymerase and expression of the operon are reduced.",
+    "notes": {
+      "A": "Insulin is an animal hormone and is not the carbohydrate signal acting on the bacterial lac system.",
+      "B": "Glucagon is a vertebrate hormone regulating nutrient metabolism. It is not the bacterial signal that lowers cAMP in this model.",
+      "C": "Glycogen is a carbohydrate store. The classic catabolite repression signal here is readily available glucose.",
+      "E": "Lactose can give rise to allolactose, which relieves repression by LacI. Glucose can still reduce expression through the cAMP–CAP pathway."
+    }
+  },
+  "bio-237": {
+    "why": "At high tryptophan availability, charged tryptophan tRNA allows rapid translation of the bacterial leader peptide. This favours an RNA terminator and premature cessation of transcription, decreasing expression of the tryptophan synthesis genes.",
+    "notes": {
+      "B": "High tryptophan favours attenuation, but attenuation decreases expression and therefore acts as negative control.",
+      "C": "At low tryptophan, translation can stall at the leader's tryptophan codons. This favours transcription continuing rather than terminating early.",
+      "D": "Low tryptophan relieves attenuation. The attenuation mechanism itself reduces transcription when tryptophan is abundant.",
+      "E": "Availability of tryptophan changes the response through charged tRNA and leader translation. The standard comparison is between high and low availability."
+    }
+  },
+  "bio-238": {
+    "why": "Control of RNA polymerase recruitment and preinitiation complex assembly regulates whether transcription begins. Changes at a core promoter such as a TATA-containing promoter therefore occur at the transcriptional level.",
+    "notes": {
+      "B": "Post-transcriptional regulation acts on RNA after it is made, for example by changing processing or stability.",
+      "C": "Translational regulation controls production of protein from an existing mRNA, often by affecting ribosome recruitment.",
+      "D": "Post-translational control acts on a protein after synthesis, for example through a chemical modification that changes activity."
+    }
+  },
+  "bio-239": {
+    "why": "The HbS variant replaces glutamate with valine at the sixth amino acid of the mature beta-globin chain. A substitution that changes the amino acid encoded by a codon is a missense mutation.",
+    "notes": {
+      "A": "A silent mutation changes the DNA sequence without changing the amino acid encoded. HbS has an amino acid replacement.",
+      "C": "A nonsense mutation creates a premature stop codon. This variant instead produces a full-length chain with one residue changed.",
+      "D": "No extra nucleotide is inserted in the classic HbS mutation. One nucleotide substitution changes the codon.",
+      "E": "The mutation does not remove a nucleotide or beta-globin residue. It changes the identity of one amino acid."
+    }
+  },
+  "bio-240": {
+    "why": "Complementary DNA is made from an RNA template by reverse transcriptase, not by RNA polymerase. RNA polymerase produces RNA, so it is not the enzyme required to copy the RNA into DNA in the standard comparison.",
+    "notes": {
+      "B": "Reverse transcriptase is an RNA-dependent DNA polymerase and can make a DNA copy of the RNA.",
+      "C": "Some traditional cloning designs use restriction endonucleases to cut DNA at defined sites. Other designs can use different assembly methods.",
+      "D": "DNA ligase can join compatible DNA ends in traditional cloning. Its role is distinct from copying an RNA template.",
+      "E": "DNA polymerase activity can be used during completion of a double-stranded cDNA molecule."
+    }
+  },
+  "bio-241": {
+    "why": "Reverse transcription is synthesis of DNA using RNA as a template. When the starting material is mRNA, the resulting complementary DNA represents the RNA sequence.",
+    "notes": {
+      "A": "Ordinary transcription uses DNA as the template and produces RNA, the opposite direction of information transfer.",
+      "C": "Translation reads messenger RNA to make a polypeptide. It does not make a DNA copy.",
+      "D": "Replication uses DNA as a template to produce DNA. Reverse transcription instead starts with RNA.",
+      "E": "Splicing joins RNA segments after removal of introns. The product remains RNA rather than becoming DNA."
+    }
+  },
+  "bio-242": {
+    "why": "An expression vector is designed to allow a carried gene to be expressed in a host. The purpose in this question is to produce the encoded protein, rather than simply to store a copy of the DNA sequence.",
+    "notes": {
+      "B": "The stated objective is expression of the protein. A vector used to reduce expression serves a different purpose.",
+      "C": "A genomic-library vector is used primarily to maintain DNA fragments as a collection, which does not by itself ensure protein expression.",
+      "D": "A vector designed to produce the protein from an inserted gene has a recognised name, an expression vector."
+    }
+  },
+  "bio-243": {
+    "why": "In both bacteria and eukaryotes, transcription is initiated by RNA polymerase at a promoter. Promoter recognition uses different accessory factors in the two systems, but it positions the polymerase for initiation.",
+    "notes": {
+      "A": "A 5′ cap and a 3′ poly(A) tail are typical features of many eukaryotic mRNAs. Bacterial mRNAs do not routinely receive the same processing.",
+      "B": "Transcription and translation can be coupled in bacteria. In eukaryotic cells, nuclear transcription and cytoplasmic translation are generally separated.",
+      "C": "RNA polymerase synthesises RNA in the 5′-to-3′ direction while reading its template in the opposite direction.",
+      "E": "Eukaryotic RNA splicing can remove introns, so mature mRNA need not correspond continuously to the genomic sequence."
+    }
+  },
+  "bio-244": {
+    "why": "Somatostatin was reported in 1977 as an early demonstration of a human hormone produced through recombinant DNA technology. Recombinant insulin followed and became the first recombinant DNA-derived drug approved in the United States.",
+    "notes": {
+      "A": "Insulin was the landmark first approved recombinant DNA-derived therapeutic. The somatostatin research demonstration came earlier.",
+      "B": "Recombinant erythropoietin was developed later as a therapeutic protein and was not the first demonstration.",
+      "C": "Recombinant interferons were developed after the early somatostatin demonstration.",
+      "E": "Recombinant human growth hormone entered therapeutic use later and was not the earliest reported human protein in this comparison."
+    }
+  },
+  "bio-245": {
+    "why": "The conceptual sequence in the question is to identify the gene of interest and have it carried by a vector before the host can express it. The expressed product must exist before it can be recovered.",
+    "notes": {
+      "A": "Expression in a host cannot precede the host's receipt of the gene-bearing vector in this description.",
+      "C": "The gene of interest must already have been identified or obtained before it can be carried by the vector.",
+      "D": "A vector cannot be called recombinant in this sequence until the gene of interest is part of it."
+    }
+  },
+  "bio-246": {
+    "why": "Classical peptide fingerprinting can compare digested proteins by separating their peptide fragments in two independent dimensions. A changed amino acid can alter one peptide's position, allowing maps of variants such as HbA and HbS to be compared.",
+    "notes": {
+      "A": "Classical two-dimensional peptide maps provide two axes of separation. The description limited to one direction is incomplete.",
+      "B": "Comparing digests of protein variants is a valid use. A two-dimensional fingerprint is not limited to a single electrophoretic direction.",
+      "D": "Separation in two dimensions is correct, but the first statement limits the process to one dimension and the comparison of peptide mixtures is also valid.",
+      "E": "The comparison and two-direction separation are appropriate. The assertion that there is only one separation direction does not fit the method."
+    }
+  },
+  "bio-247": {
+    "why": "Eukaryotic transcription initiation requires an RNA polymerase and a promoter context that can recruit the initiation machinery. The polymerase begins the RNA chain on its DNA template without needing a pre-existing RNA primer.",
+    "notes": {
+      "A": "Transcription does not require an existing RNA strand to start synthesis. The initiating nucleotides are joined by RNA polymerase.",
+      "B": "RNA polymerase is required, but the first statement incorrectly implies that an RNA primer must already be present.",
+      "D": "Core promoter elements help position the machinery. They do not imply a requirement for a pre-existing RNA strand.",
+      "E": "The polymerase and promoter statements fit initiation. The assertion that an RNA strand must already be present does not."
+    }
+  },
+  "bio-248": {
+    "why": "In the DNA double helix, two sugar–phosphate backbones wind about a common helical axis and are exposed to the aqueous environment. The bases pair and stack inside, where stacking interactions help stabilise the duplex.",
+    "notes": {
+      "A": "A common axis describes the shape, but the external backbones and internal stacking are also characteristic.",
+      "B": "The common axis and external backbones are correct. The alignment also places the stacked bases toward the inside.",
+      "C": "The positions of backbone and bases are correct. The two strands also share a common helical axis.",
+      "D": "The common axis and internal bases are correct. The polar sugar–phosphate backbones face outward."
+    }
+  },
+  "bio-249": {
+    "why": "Telomerase is a reverse transcriptase containing an RNA template. It extends a chromosome's DNA 3′ end with telomeric sequence, then realigns with the extended end so another repeat can be added.",
+    "notes": {
+      "A": "Reverse transcriptase activity is necessary, but the intrinsic RNA template and repeat-to-repeat realignment also define telomerase.",
+      "B": "The RNA template explains where the repeat information comes from. Moving or realigning to the extended end allows repeated rounds.",
+      "C": "The template and realignment are correct. The synthesis is carried out by an RNA-dependent DNA polymerase.",
+      "D": "Telomerase moves relative to the extended DNA end. The RNA within the enzyme is an essential part of this cycle."
+    }
+  },
+  "bio-250": {
+    "why": "Chromosomal DNA replication uses parental DNA as the template and generally begins from short RNA-containing primers. Accurate base selection, polymerase proofreading and subsequent repair help make the overall process highly faithful.",
+    "notes": {
+      "A": "Template use is fundamental, but primer initiation and fidelity mechanisms are additional features.",
+      "B": "The template and primers explain how copying begins. Fidelity is also a characteristic of chromosomal replication.",
+      "C": "Primers and high accuracy are important, and the sequence is determined by a parental DNA template.",
+      "D": "Template-directed synthesis and high fidelity are correct. Replicative polymerases also need a primed end to extend."
+    }
+  },
+  "bio-251": {
+    "why": "DNA replication is semiconservative because each daughter duplex receives one parental strand and one newly synthesised strand. At a typical fork it is semidiscontinuous, with a largely continuous leading strand and short fragments on the lagging strand.",
+    "notes": {
+      "A": "Lagging-strand synthesis is discontinuous. The distribution of parental strands into daughter duplexes is also a defining feature.",
+      "B": "Nonconservative copying is not the standard term. One original strand is retained in each daughter duplex.",
+      "D": "The process is semiconservative and includes discontinuous lagging-strand synthesis. Nonconservative does not describe the strand arrangement.",
+      "E": "Fragmented lagging-strand synthesis and semiconservative inheritance are correct. Adding nonconservative gives the wrong classification."
+    }
+  },
+  "bio-252": {
+    "why": "For typical eukaryotic RNA polymerase II transcription, general transcription factors assemble at the core promoter and recruit and position the polymerase. Sigma factors perform an analogous promoter-recognition role in many bacteria rather than in this eukaryotic system.",
+    "notes": {
+      "A": "Polymerase II ordinarily needs the general factors for efficient promoter recognition rather than binding and initiating there by itself.",
+      "B": "Sigma factors are associated with bacterial RNA polymerase, while eukaryotic polymerase II uses general transcription factors.",
+      "D": "This pairing gives the bacterial factor and omits the need for eukaryotic general transcription factors.",
+      "E": "General factors are needed in the standard model. Direct unaided promoter binding and use of a sigma factor do not fit that model."
+    }
+  },
+  "bio-254": {
+    "why": "In the classical E. coli model, aspartate transcarbamylase is activated by ATP and inhibited by CTP. In human cells the comparable entry-point control is through the carbamoyl phosphate synthetase II domain of CAD, which is inhibited by UTP.",
+    "notes": {
+      "A": "ATP is a bacterial activator in the usual teaching model. CTP also inhibits the bacterial enzyme, and a distinct inhibitor acts in humans.",
+      "B": "ATP activates and CTP inhibits the classic bacterial enzyme, while UTP inhibits the entry step in human cells.",
+      "C": "CTP and UTP illustrate feedback in different systems. ATP is also an activator of the model bacterial enzyme.",
+      "D": "ATP activation in the bacterial model and UTP inhibition in humans are correct. The bacterial CTP feedback is also relevant."
+    }
+  },
+  "bio-255": {
+    "why": "A tRNA carries an amino acid to the ribosome and uses its anticodon to recognise an mRNA codon. Aminoacyl-tRNA synthetases establish which amino acid is attached, and fidelity mechanisms check charging and codon pairing.",
+    "notes": {
+      "B": "Carrying amino acids is the adaptor function. Proofreading is chiefly performed by the charging enzymes and ribosomal selection machinery.",
+      "C": "Proofreading is a separate fidelity process, and inhibition is not the normal purpose of aminoacyl-tRNA.",
+      "D": "Transfer RNA supports elongation by supplying amino acids. It is not normally an inhibitor of protein synthesis.",
+      "E": "The adaptor function is correct. Proofreading and inhibition are not its principal biological roles."
+    }
+  },
+  "bio-337": {
+    "why": "Gene therapy can be limited by delivery, durability, immune responses, safety and access. The other choices describe conceptual ways a DNA construct may be checked or the broader role of biotechnology.",
+    "notes": {
+      "A": "A PCR-based check can indicate whether a colony carries a DNA region of interest. It does not remove the limitations of gene therapy.",
+      "B": "A restriction digest can provide an expected size pattern for a DNA construct, which is a standard concept in verifying its structure.",
+      "C": "Sequence information can verify the identity of an insert and its boundaries. This is a valid form of construct verification.",
+      "D": "Biotechnology has applications in medicine, agriculture and manufacturing, so its industrial importance is not the false claim."
+    }
+  },
+  "bio-346": {
+    "why": "Primary structure is the amino acid sequence of a polypeptide. Secondary structure describes recurrent local backbone conformations such as the alpha helix. Proteins with more than one chain still have primary sequences for their subunits.",
+    "notes": {
+      "A": "The number of chains concerns quaternary organisation. It does not define primary structure.",
+      "B": "An alpha helix is a valid secondary structure example, but the statement restricting primary structure to single-chain proteins is incorrect.",
+      "D": "Amino acid sequence defines primary structure. The claim that primary structure requires just one chain is incorrect.",
+      "E": "The sequence and alpha-helix statements are accurate. Adding the single-chain restriction makes the grouping false."
+    }
+  },
+  "bio-401": {
+    "why": "An increase in serum alanine aminotransferase most often points to hepatocellular injury. ALT is not a standard marker of kidney damage. Kidney assessment usually draws on measures such as creatinine-based filtration estimates and urine findings.",
+    "notes": {
+      "A": "Both statements assign ALT to the wrong diagnostic context. Its standard use is to help evaluate liver-cell injury.",
+      "B": "There are not two true claims here. Elevated ALT is not a characteristic indicator of renal injury.",
+      "C": "The assertion is false because ALT is principally used in the evaluation of hepatocellular damage.",
+      "D": "Kidney damage is not the usual reason for a raised ALT, making the stated explanation inaccurate."
+    }
   }
 }
