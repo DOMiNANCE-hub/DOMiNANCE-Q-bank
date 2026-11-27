@@ -160,5 +160,158 @@
       "D": "Anuria describes almost no urine output. Its threshold is far lower than the range generally termed oliguria.",
       "E": "Glucosuria is the presence of glucose in urine. It does not describe a low urine volume."
     }
+  },
+  "phy-renal-351": {
+    "why": "Strong renal sympathetic stimulation constricts renal arterioles, especially the afferent arteriole. This can lower glomerular capillary pressure and filtration. Sympathetic promotion of tubular sodium reabsorption can also contribute to lower urine output.",
+    "notes": {
+      "A": "Renal sympathetic activation can lower urine output by reducing filtration and favouring sodium and water retention.",
+      "B": "Strong afferent constriction reduces pressure transmitted to the glomerular capillaries, decreasing the net filtration pressure.",
+      "C": "Glucosuria primarily reflects filtered glucose exceeding reabsorptive capacity or impaired proximal transport. It is not an obligatory sympathetic response.",
+      "D": "A decrease in urine glucose is not an expected general effect of renal sympathetic activation. Urine glucose is normally minimal."
+    }
+  },
+  "phy-renal-356": {
+    "why": "At a low plasma concentration, para-aminohippurate is filtered and also avidly secreted by proximal tubules. This removes most PAH from plasma that perfuses the functioning kidney, so its clearance approaches effective renal plasma flow and exceeds GFR.",
+    "notes": {
+      "B": "Glucose clearance is normally near zero because the proximal tubule reabsorbs almost all filtered glucose below the transport threshold.",
+      "C": "Some filtered urea is reabsorbed, so urea clearance is generally below glomerular filtration rate and therefore well below PAH clearance.",
+      "D": "Most filtered water is reabsorbed along the nephron. Urine flow is much lower than the effective renal plasma flow.",
+      "E": "Inulin is freely filtered and neither reabsorbed nor secreted. Its clearance measures GFR, which is only part of the effective renal plasma flow."
+    }
+  },
+  "phy-renal-358": {
+    "why": "GFR depends on glomerular pressure, which responds to afferent and efferent arteriolar resistance. The juxtaglomerular apparatus includes the macula densa, which senses tubular sodium chloride uptake and feeds back on afferent tone and renin release.",
+    "notes": {
+      "A": "The juxtaglomerular apparatus links distal tubular sensing with arteriolar responses and renin release.",
+      "B": "Afferent dilation tends to increase glomerular capillary pressure, whereas afferent constriction decreases it.",
+      "C": "Moderate efferent constriction can maintain or raise glomerular pressure. Marked constriction may ultimately lower filtration by reducing flow.",
+      "D": "The macula densa uses NKCC2 to sense luminal sodium chloride. This contributes to feedback regulation of glomerular filtration."
+    }
+  },
+  "phy-renal-361": {
+    "why": "Plasma proteins create oncotic pressure in glomerular capillaries, opposing filtration. A fall in their concentration decreases this opposing force and tends to raise GFR when the other determinants stay constant.",
+    "notes": {
+      "A": "Strong sympathetic stimulation decreases renal perfusion through vasoconstriction and generally lowers filtration.",
+      "B": "Reduced renal blood flow can lower filtration or increase the rise of oncotic pressure along the capillary. Decreased flow alone does not explain a rise in GFR.",
+      "D": "Ureteric obstruction raises pressure upstream in the nephron, which opposes filtration into Bowman’s space.",
+      "E": "Hypoproteinaemia provides a mechanism for increased filtration by reducing the pressure that draws water back toward the capillary."
+    }
+  },
+  "phy-renal-368": {
+    "why": "Renal clearance is urine concentration multiplied by urine flow and divided by plasma concentration. It has units of volume per time. At fixed urine and plasma concentrations, higher urine flow gives higher calculated clearance.",
+    "notes": {
+      "A": "With urine flow and plasma concentration fixed, clearance increases as the urine concentration rises.",
+      "C": "With the urinary excretion rate fixed, a higher plasma concentration decreases the calculated clearance.",
+      "D": "Millimetres of mercury are units of pressure. Renal clearance is normally expressed in millilitres per minute.",
+      "E": "Metabolic inhibition can reduce active secretion or reabsorption. The direction of clearance change depends on how the substance is handled."
+    }
+  },
+  "phy-renal-373": {
+    "why": "A sudden fall of mean arterial pressure to half its usual value commonly takes renal perfusion below the autoregulatory range. The systemic baroreflex then increases sympathetic tone and can cause renal vasoconstriction, while filtration and urine output usually fall.",
+    "notes": {
+      "A": "With severe hypotension, low perfusion pressure and sympathetic vasoconstriction usually decrease renal blood flow.",
+      "B": "Below the autoregulatory range, glomerular capillary hydrostatic pressure and GFR tend to decrease.",
+      "C": "Low renal perfusion usually stimulates renin release. Angiotensin II then promotes rather than suppresses aldosterone secretion.",
+      "E": "Reduced filtration and enhanced salt and water conservation generally decrease urine output during severe hypotension."
+    }
+  },
+  "phy-renal-421": {
+    "why": "Inulin is freely filtered and is neither reabsorbed nor secreted, so its clearance measures GFR. Creatinine clearance approximates GFR in routine use, with some overestimation because proximal tubules secrete a small amount.",
+    "notes": {
+      "A": "Clearance of para-aminohippurate at low levels approximates effective renal plasma flow because PAH is both filtered and secreted.",
+      "B": "Most filtered glucose is normally reabsorbed, so its clearance is close to zero under usual plasma concentrations.",
+      "C": "Urea is variably reabsorbed along the nephron. Its clearance is not a direct measure of filtered volume.",
+      "E": "Most filtered sodium is reabsorbed, and its excretion is tightly regulated. Sodium clearance does not measure GFR."
+    }
+  },
+  "phy-renal-423": {
+    "why": "Inulin clearance represents GFR. For a freely filtered substance handled by filtration and tubular transport, a clearance greater than GFR means excretion exceeds the filtered load, so there is net addition by tubular secretion.",
+    "notes": {
+      "A": "Net reabsorption decreases excretion relative to the filtered load and tends to lower clearance below inulin clearance.",
+      "C": "The higher clearance specifies net secretion under the usual assumptions. Net reabsorption would shift the clearance in the opposite direction.",
+      "D": "Clearance is a comparison of excretion and plasma concentration. It does not identify protein binding or the molecular transport mechanism.",
+      "E": "Higher clearance shows net secretion but does not locate its site. Separate segmental data are needed to identify the secreting tubule."
+    }
+  },
+  "phy-renal-424": {
+    "why": "For a freely filtered substance, a clearance below inulin clearance means that urinary excretion is below the filtered load, consistent with net tubular reabsorption. If filtration is restricted by protein binding or size, low clearance alone does not establish reabsorption.",
+    "notes": {
+      "B": "A freely filtered substance with neither reabsorption nor secretion has the same clearance as inulin.",
+      "C": "Net secretion increases urinary excretion above the filtered load and raises clearance relative to GFR, assuming free filtration.",
+      "D": "A whole-kidney clearance comparison does not identify the membrane transport mechanism or whether a protein is involved.",
+      "E": "A clearance value does not identify which nephron segment handles a substance or prove that secretion predominates in one segment."
+    }
+  },
+  "phy-renal-426": {
+    "why": "Filtration depends on the glomerular capillary hydrostatic pressure driving fluid outward and the opposing plasma oncotic and Bowman’s space hydrostatic pressures. GFR also depends on the filtration coefficient, which reflects capillary surface area and permeability.",
+    "notes": {
+      "A": "Capillary pressure and plasma oncotic pressure are important, but the list omits hydrostatic pressure in Bowman’s space.",
+      "B": "Tubular reabsorption is a process downstream of glomerular filtration. It is not one of the Starling pressure terms.",
+      "D": "Intraabdominal pressure can affect renal haemodynamics in some conditions. It is not the same as the pressure within Bowman’s space.",
+      "E": "Filtration and reabsorption are processes of urine formation rather than the pressures that determine net filtration."
+    }
+  },
+  "phy-renal-428": {
+    "why": "Constriction of the afferent arteriole increases resistance before the glomerular capillaries and lowers their hydrostatic pressure. This decreases the driving force for filtration and therefore tends to lower GFR.",
+    "notes": {
+      "A": "Above the autoregulatory range, a rise in pressure can be transmitted to glomerular capillaries. It does not ordinarily decrease filtration acutely.",
+      "B": "A decrease in plasma proteins lowers the oncotic pressure opposing filtration and tends to increase GFR when other factors are fixed.",
+      "D": "Moderate efferent constriction raises pressure in the glomerular capillaries and can help maintain or increase GFR.",
+      "E": "Afferent dilation decreases upstream resistance and tends to increase both glomerular capillary pressure and GFR."
+    }
+  },
+  "phy-renal-431": {
+    "why": "A standard teaching estimate of adult GFR is about 125 millilitres per minute, corresponding to 180 litres of glomerular filtrate per day. The exact rate varies with age, body size and kidney function.",
+    "notes": {
+      "B": "A flow of roughly 600 millilitres per minute is closer to renal plasma flow. The kidneys filter only a fraction of that plasma.",
+      "C": "About 1.2 litres per minute is closer to total renal blood flow, which includes blood cells and plasma.",
+      "D": "Five litres per minute is near the total resting cardiac output of an adult and is far above GFR.",
+      "E": "About 170 litres can be a daily filtrate volume. It is not a plausible volume filtered in one minute."
+    }
+  },
+  "phy-renal-340": {
+    "why": "Filtered glucose is reabsorbed in the proximal tubule. SGLT2 takes up most of it in early segments, and SGLT1 recovers much of the remainder downstream within the proximal tubule.",
+    "notes": {
+      "B": "The loop of Henle adjusts salt and water handling and creates the medullary gradient. Glucose is normally already reclaimed before this segment.",
+      "C": "The distal tubule mainly adjusts ion transport. It does not carry out bulk recovery of filtered glucose.",
+      "D": "The cortical collecting duct adjusts sodium, potassium and water handling. It is not the main site of sodium–glucose cotransport.",
+      "E": "The medullary collecting duct responds to vasopressin and participates in concentration of urine. It does not reclaim appreciable filtered glucose."
+    }
+  },
+  "phy-renal-346": {
+    "why": "In normal conditions, the proximal tubule reabsorbs essentially all filtered glucose and about two thirds of filtered sodium and water. Sodium transport is driven by the basolateral sodium–potassium pump, and water follows the osmotic gradient.",
+    "notes": {
+      "A": "SGLT2 and SGLT1 normally recover almost all filtered glucose. Glucosuria occurs if the filtered load exceeds transport capacity or transport is impaired.",
+      "B": "A large fraction of water is reabsorbed in the proximal tubule, largely following solute across a highly water-permeable epithelium.",
+      "C": "The basolateral sodium–potassium ATPase maintains an inward sodium gradient, allowing active transepithelial sodium reabsorption.",
+      "D": "Most filtered bicarbonate is reclaimed in this segment. Apical hydrogen ion secretion helps recover it rather than producing net bicarbonate secretion."
+    }
+  },
+  "phy-renal-350": {
+    "why": "Filtered glucose enters proximal tubular cells through sodium–glucose cotransport. The basolateral sodium–potassium ATPase provides the sodium gradient, making apical uptake secondary active transport. Glucose normally exits the cells by facilitated diffusion.",
+    "notes": {
+      "A": "Apical uptake is secondary active because sodium moving downhill provides the energy to transport glucose.",
+      "B": "The basolateral step is facilitated diffusion. Passive transport alone does not account for the uphill apical uptake step.",
+      "C": "SGLT2 and SGLT1 are sodium–glucose cotransporters that use sodium entry from the lumen to drive glucose uptake.",
+      "D": "Hydrogen ion exchange supports acid–base transport in the proximal tubule. Filtered glucose is reclaimed by sodium-linked cotransport."
+    }
+  },
+  "phy-renal-357": {
+    "why": "The thick ascending limb reabsorbs chloride through the apical sodium–potassium–2 chloride cotransporter NKCC2. The basolateral sodium pump powers this indirectly, and chloride exits the cell basolaterally. The segment is relatively impermeable to water, so tubular fluid becomes dilute.",
+    "notes": {
+      "A": "Sodium can cross the epithelium and is reabsorbed with potassium and chloride in the thick ascending limb.",
+      "B": "Some potassium returns to the tubular lumen through ROMK channels. This recycling is through a channel and is not active pumping of potassium into the lumen.",
+      "D": "Net sodium transport in the thick ascending limb is out of the lumen, in part via apical NKCC2 uptake.",
+      "E": "Salt is reabsorbed without accompanying water, making fluid at the end of the thick ascending limb relatively dilute."
+    }
+  },
+  "phy-renal-367": {
+    "why": "If reabsorption moves a solute from a lower luminal concentration to a higher blood concentration, the uphill chemical gradient suggests an energy-dependent step. The electrical gradient or coupling to another solute can also influence the transport mechanism.",
+    "notes": {
+      "B": "Simple diffusion is passive and moves a substance down its electrochemical gradient without a direct energy input.",
+      "C": "A clearance below inulin suggests net reabsorption of a freely filtered solute. It does not identify whether transport is active or passive.",
+      "D": "Clearance can vary with plasma concentration for multiple reasons, including saturation. That pattern alone does not establish an active mechanism.",
+      "E": "Total osmolality describes the collective concentration of dissolved particles. It does not identify the driving force for the particular solute."
+    }
   }
 }
