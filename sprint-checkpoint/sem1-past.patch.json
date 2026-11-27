@@ -1540,5 +1540,140 @@
       "D": "HbSC is a distinct compound heterozygous genotype. It is not the same as homozygous HbSS.",
       "E": "All three can cause sickle cell disease, but they are not interchangeable genotype names."
     }
+  },
+  "bio-366": {
+    "why": "Historical studies examined carbamylation of globin amino termini as a way to increase haemoglobin S oxygen affinity. At the same oxygen pressure this can reduce the deoxygenated fraction available for polymerisation. This is an experimental mechanism rather than standard therapy.",
+    "notes": {
+      "A": "A higher oxygenated fraction is a possible consequence, and the change in oxygen affinity and chemical modification also explain it.",
+      "B": "Increased affinity and oxygenation are related outcomes. Carbamylation of terminal amino groups is the underlying chemical modification.",
+      "C": "Affinity and carbamylation describe the mechanism. At a given oxygen pressure the higher affinity can increase oxygen saturation.",
+      "D": "Terminal carbamylation is part of the mechanism. The increased oxygenated fraction follows from the associated increase in affinity."
+    }
+  },
+  "bio-367": {
+    "why": "Thalassaemia is primarily a quantitative disorder of globin synthesis. Reduced production of one chain type leaves an excess of its partner, which can damage developing red cells. A structural amino acid substitution is a different basic mechanism.",
+    "notes": {
+      "A": "An abnormal sequence alone describes a structural haemoglobin variant. The defining feature here is inadequate production of a globin chain.",
+      "B": "Structural defects and point mutations can affect haemoglobin, but thalassaemia is classified by reduced synthesis of a chain.",
+      "C": "Reduced production is the defining feature. A single amino acid substitution is not required for a thalassaemia phenotype.",
+      "D": "Some variants change both structure and expression, but an abnormal polypeptide is not the defining defect of all thalassaemias."
+    }
+  },
+  "bio-368": {
+    "why": "In thalassaemia, reduced synthesis of one globin chain class produces an imbalance between alpha and beta-type chains. Excess unpaired globin can precipitate and damage erythroid cells. This differs from deoxyhaemoglobin S polymerisation.",
+    "notes": {
+      "B": "Polymerisation of deoxyhaemoglobin is characteristic of sickle haemoglobin. The imbalance in globin synthesis is the thalassaemic defect.",
+      "C": "Neither deoxyhaemoglobin polymerisation nor precipitation of free haem defines thalassaemia. Unpaired globin chains are the important precipitating material.",
+      "D": "Chain imbalance is correct, but the precipitates contain excess unpaired globin rather than free haem as the primary lesion.",
+      "E": "The synthesis mismatch is correct. The other statements confuse it with HbS polymerisation or with precipitation of haem rather than globin."
+    }
+  },
+  "bio-369": {
+    "why": "The usual alpha-globin complement is four genes. Each copy of chromosome 16 normally carries HBA1 and HBA2, so two chromosomes provide four functioning copies in the ordinary genotype.",
+    "notes": {
+      "B": "Gene deletions or duplications can change the number, but a typical diploid alpha-globin genotype has four copies."
+    }
+  },
+  "bio-370": {
+    "why": "A silent alpha-thalassaemia carrier commonly has one nonfunctioning alpha-globin gene and three functional copies. This is conventionally represented as −α/αα.",
+    "notes": {
+      "B": "The displayed genotype represents loss of one gene on one chromosome, leaving three functional alpha-globin genes."
+    }
+  },
+  "bio-371": {
+    "why": "Alpha-thalassaemia trait typically involves two affected alpha-globin genes. The changes may be in trans, one on each chromosome, or in cis, both on the same chromosome.",
+    "notes": {
+      "B": "The two usual deletion patterns are −α/−α and −−/αα, so the shorthand describes two ways to lose two functional copies."
+    }
+  },
+  "bio-372": {
+    "why": "Haemoglobin H disease usually involves loss or inactivation of three alpha-globin genes. The usual deletion genotype is −−/−α. Excess beta chains can associate into beta-four tetramers, called HbH.",
+    "notes": {
+      "B": "When the dash stands for an alpha-zero chromosome, the displayed combination leaves only one functional alpha-globin gene."
+    }
+  },
+  "bio-373": {
+    "why": "The classic haemoglobin Bart hydrops fetalis syndrome results from loss of all four alpha-globin genes, conventionally written −−/−−. Excess fetal gamma chains form gamma-four tetramers with very high oxygen affinity.",
+    "notes": {
+      "B": "The shorthand refers to both chromosomes lacking functional alpha-globin genes, rather than to a one-gene deletion on each."
+    }
+  },
+  "bio-409": {
+    "why": "Myoglobin has a largely hydrophobic core that encloses haem, while many charged or polar groups face the solvent. The core still contains important polar residues, notably the histidines associated with the haem pocket.",
+    "notes": {
+      "A": "The core is not wholly nonpolar. Histidines associated with the ligand-binding pocket have polar side chains.",
+      "B": "Hydrophobic packing predominates, but the haem pocket includes polar residues needed for function.",
+      "C": "Leucine, valine, methionine and phenylalanine are examples of residues that can contribute to hydrophobic packing within a globin fold.",
+      "D": "Many charged or strongly polar side chains are exposed to solvent, rather than abundant in the buried core.",
+      "E": "Amphipathic side chains can pack nonpolar portions inward while exposing their polar groups, depending on their local environment."
+    }
+  },
+  "bio-410": {
+    "why": "Oxygen binds directly to ferrous haem iron at its sixth coordination position. The proximal histidine coordinates the fifth position, while the distal histidine helps shape the ligand pocket. Oxidation to ferric iron prevents normal reversible oxygen binding.",
+    "notes": {
+      "A": "The distal histidine lies near the ligand but does not occupy the oxygen-binding coordination position.",
+      "B": "The proximal histidine binds the fifth position of iron, on the side opposite the oxygen ligand.",
+      "C": "Ferrous iron is the oxidation state required for normal reversible oxygen binding.",
+      "D": "Ferric iron gives methaemoglobin, which cannot carry oxygen normally at the affected haem site.",
+      "E": "Carbon dioxide can form carbamates with globin amino groups. It does not use the oxygen-binding coordination position of iron."
+    }
+  },
+  "bio-411": {
+    "why": "Oxygen interacts with ferrous haem iron. In unprotected aqueous systems, free haem can auto-oxidise rapidly and form bridged products. Globin restrains these reactions and makes oxygen binding reliably reversible in haemoglobin.",
+    "notes": {
+      "A": "The oxygen ligand coordinates the ferrous iron atom in the haem group.",
+      "B": "Free ferrous haem can interact transiently with oxygen, but rapid oxidation limits sustained reversible binding in aqueous solution.",
+      "C": "Removal of the protective globin environment makes ferric haem formation much more likely on exposure to oxygen.",
+      "D": "Ferric haem cannot bind and release oxygen in the normal reversible way used by ferrous haemoglobin.",
+      "E": "In classical models of free-haem auto-oxidation, oxygen-derived bridges can form between haem groups before ferric products accumulate."
+    }
+  },
+  "bio-426": {
+    "why": "Sickle cell disease includes genotypes in which HbS is inherited with another beta-globin allele that produces a disease phenotype. Common examples include HbSS, HbSC and HbS–beta-thalassaemia. HbAS usually denotes trait.",
+    "notes": {
+      "A": "HbSC disease arises when an HbS allele is inherited with an HbC allele and can produce sickling complications.",
+      "B": "Combining HbS with a beta-thalassaemia allele can cause sickle cell disease, with severity depending on the partner allele.",
+      "C": "In HbSS, a person inherits two HbS alleles. This is the classic genotype of sickle cell anaemia.",
+      "D": "HbAS usually denotes sickle cell trait, with one normal beta-globin allele alongside HbS.",
+      "E": "HbAC commonly denotes HbC trait and does not include the HbS allele required for a sickling disorder."
+    }
+  },
+  "bio-427": {
+    "why": "Deoxygenation favours HbS polymer formation and distortion of red cells. Rigid cells can obstruct small vessels, reducing local oxygen delivery and promoting further polymerisation. Repeated cellular injury also causes haemolysis.",
+    "notes": {
+      "A": "Intracellular HbS fibres deform red cells and make them less flexible.",
+      "B": "Less deformable cells, endothelial adhesion and other vascular factors can obstruct small blood vessels.",
+      "C": "Obstruction reduces local perfusion and oxygen delivery, making the local environment more favourable to sickling.",
+      "D": "Lower oxygen tension favours more deoxy-HbS polymerisation, reinforcing the obstruction–hypoxia cycle.",
+      "E": "Repeated deformation damages the membrane and shortens red-cell survival, contributing to haemolysis alongside vaso-occlusion."
+    }
+  },
+  "bio-429": {
+    "why": "Historical cyanate studies used terminal carbamylation of haemoglobin to increase oxygen affinity. At a given oxygen tension, that leaves less deoxygenated HbS available to polymerise. This mechanism did not establish cyanate as routine treatment.",
+    "notes": {
+      "A": "Increasing affinity can lower the deoxygenated fraction at the same oxygen pressure, reducing the form that polymerises.",
+      "B": "Terminal carbamylation changes haemoglobin's oxygen-binding behaviour and can favour oxygenated states.",
+      "C": "Cyanate can carbamylate terminal alpha-amino groups, forming a stable covalent modification that affects oxygen affinity."
+    }
+  },
+  "bio-430": {
+    "why": "Red-cell dehydration increases intracellular HbS concentration and promotes polymerisation. Ion transport interventions can try to preserve cell water and lower HbS concentration by dilution, without changing the amount of globin made.",
+    "notes": {
+      "A": "Preserving water can reduce the intracellular concentration of HbS, even though the number of HbS molecules in the cell need not change.",
+      "B": "Raising HbF is a different therapeutic mechanism involving globin expression. It is not the direct result of inhibiting a dehydration pathway.",
+      "C": "Preserving or increasing cell water relative to a dehydrated state lowers the concentration of haemoglobin inside the cell.",
+      "D": "Losing cell water concentrates HbS and favours polymerisation, rather than producing the desired dilution.",
+      "E": "Red-cell ion channels and transporters influence water balance, so they can be studied as targets for reducing dehydration."
+    }
+  },
+  "bio-432": {
+    "why": "Thalassaemia is defined by reduced production of selected globin chains. The resulting imbalance can leave unpaired chains that precipitate in erythroid precursors and contribute to ineffective erythropoiesis. Precipitation is a downstream mechanism of injury.",
+    "notes": {
+      "A": "A structurally abnormal globin can cause a haemoglobinopathy, but thalassaemia is primarily defined by reduced chain output.",
+      "B": "A single amino acid change can produce a structural variant. It is not a necessary feature of thalassaemia.",
+      "C": "Lower production of a specific chain class is the primary defect in alpha- or beta-thalassaemia.",
+      "D": "The affected chain is produced more slowly or not at all, so its partner can accumulate in excess.",
+      "E": "Some excess unpaired chains precipitate in developing red cells, damaging those cells and contributing to ineffective erythropoiesis."
+    }
   }
 }
