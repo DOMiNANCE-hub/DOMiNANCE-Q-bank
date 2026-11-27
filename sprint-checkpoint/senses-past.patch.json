@@ -349,5 +349,95 @@
       "D": "A 90-decibel sound can be hazardous with prolonged exposure, but it is usually below the threshold of pain.",
       "E": "An octave is a twofold increase in frequency. An eightfold increase corresponds to three octaves."
     }
+  },
+  "phy-senses-535": {
+    "why": "An audiogram plots hearing thresholds in decibels against sound frequency. Comparing air and bone conduction helps distinguish impaired transmission through the outer or middle ear from cochlear or neural hearing loss.",
+    "notes": {
+      "B": "In sensorineural loss, both air and bone thresholds are elevated without a significant air–bone gap.",
+      "C": "An air-conduction loss alone does not localise the lesion to the tympanic membrane. Bone thresholds and middle-ear findings are also needed.",
+      "D": "When both air and bone thresholds are elevated at a high frequency, a sensorineural component is likely.",
+      "E": "Typical age-related hearing loss affects high frequencies first, although hearing patterns vary."
+    }
+  },
+  "phy-senses-539": {
+    "why": "The Eustachian tube intermittently opens to equalise pressure between the middle ear and the nasopharynx. At normal equilibrium, middle-ear air pressure is therefore close to atmospheric pressure.",
+    "notes": {
+      "A": "Ossicular disruption causes conductive hearing loss. Bone conduction can still stimulate the cochlea, so hearing is not necessarily abolished.",
+      "B": "The middle-ear muscles can attenuate transmission of intense sound. Losing this action does not generally make sound fainter.",
+      "C": "Stapes fixation and ossicular loss both cause conductive impairment. The degree depends on the exact mechanical defect.",
+      "E": "Movement of the oval window displaces cochlear fluid, and the round window usually moves reciprocally to accommodate that displacement."
+    }
+  },
+  "phy-senses-543": {
+    "why": "Cerebellar disorders can disrupt gaze stability and produce nystagmus. Warming one external ear canal can also produce caloric nystagmus by stimulating the vestibular apparatus. These mechanisms are distinct but both affect eye movements.",
+    "notes": {
+      "A": "Physiological nystagmus can occur in healthy people during rotation, caloric stimulation or optokinetic testing.",
+      "B": "The cochlea serves hearing, whereas vestibular dysfunction drives vestibular nystagmus. Disorders can affect both structures, but isolated cochlear disease is not the typical mechanism.",
+      "D": "Fluid at body temperature produces little thermal gradient and does not normally elicit a substantial caloric response.",
+      "E": "Persistent nystagmus can blur vision or decrease acuity by making it difficult to hold an image on the fovea."
+    }
+  },
+  "phy-senses-495": {
+    "why": "Taste receptor cells are chemoreceptors that respond to dissolved substances reaching the taste pore. Their activity stimulates afferent fibres in cranial nerves VII, IX and X.",
+    "notes": {
+      "A": "Multiple taste qualities can be detected in different parts of the tongue. There is no strict spatial map assigning each taste to one region.",
+      "B": "A taste bud is a group of specialised cells, including several receptor and support cell types. A receptor cell is one part of the bud.",
+      "D": "The trigeminal nerve carries touch, temperature and irritation from much of the mouth. Standard taste afferents travel mainly in VII, IX and X.",
+      "E": "The strict tongue map is inaccurate, and trigeminal fibres are not standard primary taste afferents."
+    }
+  },
+  "phy-senses-499": {
+    "why": "Sweet-sensitive receptor cells are present in taste buds across multiple oral regions. Fungiform, foliate and circumvallate papillae can all contribute, and taste buds on the soft palate can also signal sweetness.",
+    "notes": {
+      "A": "Fungiform papillae on the anterior tongue contain taste buds that can detect sweet substances.",
+      "B": "Soft-palate taste buds can respond to sweet stimuli, contributing to taste outside the tongue.",
+      "C": "Foliate folds at the posterolateral tongue contain taste buds that can respond to several qualities, including sweetness.",
+      "D": "Circumvallate papillae at the back of the tongue contain taste buds. They are not restricted to bitter stimuli."
+    }
+  },
+  "phy-senses-501": {
+    "why": "The savoury taste elicited by glutamate in monosodium glutamate is umami. Glutamate can activate the T1R1–T1R3 taste receptor complex, and certain nucleotides enhance the response.",
+    "notes": {
+      "A": "MSG contains sodium, but glutamate gives it the characteristic savoury taste rather than a purely salty one.",
+      "B": "Sour taste is principally a response to acids and hydrogen ions. Glutamate is the defining stimulus in this comparison.",
+      "C": "Bitter compounds are detected through a separate family of receptors, rather than the main glutamate-sensitive receptor complex.",
+      "D": "The sweet receptor uses T1R2 with T1R3. The main umami receptor pairs T1R1 with T1R3."
+    }
+  },
+  "phy-senses-505": {
+    "why": "The olfactory tract carries output from the olfactory bulb toward primary olfactory regions. Damage can reduce or abolish the sense of smell on the affected side.",
+    "notes": {
+      "A": "Vision depends on the retina and optic pathways. It is not the primary sensory function of the olfactory tract.",
+      "B": "Hearing uses cochlear and central auditory pathways rather than the axons of the olfactory tract.",
+      "C": "Pain sensation is conveyed through nociceptive pathways. Nasal irritation can be detected separately by trigeminal fibres even when smell is impaired.",
+      "E": "Speech is supported by language and motor networks. The olfactory tract carries signals about odours."
+    }
+  },
+  "phy-senses-506": {
+    "why": "Taste buds lie in several lingual papillae and in some sites outside the tongue, including the soft palate. The anterior and posterior tongue can both detect more than one taste quality.",
+    "notes": {
+      "A": "The anterior tongue contains taste buds mainly within fungiform papillae.",
+      "B": "Posterior taste buds are present in circumvallate and foliate papillae and contribute to several taste qualities.",
+      "C": "The soft palate has a smaller but recognised population of taste buds.",
+      "D": "The lips provide tactile and other somatic sensation. They are not a standard normal site of taste buds."
+    }
+  },
+  "phy-senses-512": {
+    "why": "Olfactory receptor cells are sensory neurons that respond chemically to airborne molecules dissolved in nasal mucus. Odorant binding at their cilia changes membrane activity and can generate action potentials that travel to the olfactory bulb.",
+    "notes": {
+      "A": "Olfactory receptor cells are neurons within the epithelium. Their own axons form olfactory nerve fibres and synapse within the bulb.",
+      "B": "The first synapse is in the olfactory bulb. Primary olfactory cortex can receive bulb output without an initial obligatory thalamic relay.",
+      "D": "Olfactory intensity can fade with sustained exposure through adaptation of peripheral and central responses.",
+      "E": "Retronasal smell is a major contributor to food flavour, interacting with taste and oral sensations."
+    }
+  },
+  "phy-senses-516": {
+    "why": "Increasing salt concentration within a responsive range can produce a larger taste-cell receptor potential. This can increase transmitter release and the frequency of spikes in taste afferents, whose signals eventually reach the thalamus.",
+    "notes": {
+      "A": "A stronger response to a stronger stimulus does not necessarily mean the receptor has become more sensitive.",
+      "C": "Action potentials are all-or-none. Stimulus intensity is represented mainly by spike frequency and recruitment rather than spike size.",
+      "D": "Gustatory pathways relay through the brainstem to the thalamus and cortex. The anterior pituitary is not the primary relay.",
+      "E": "The adrenal medulla is a sympathetic effector. Taste information reaches central gustatory pathways rather than being conveyed to it as the main relay."
+    }
   }
 }
