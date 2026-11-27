@@ -12524,10 +12524,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Normal semen carries on the order of 100 million sperm per millilitre; fertility generally needs at least ~15 million/mL with adequate motility and morphology.",
+      "why": "Sperm concentration varies widely among healthy individuals, and approximately 100 million per millilitre is a conventional teaching estimate rather than a diagnostic requirement. Semen analysis evaluates concentration alongside total count, motility and morphology.",
       "topicId": "e-fert",
       "subtopic": "Fertilization",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "One million per millilitre is substantially below the usual reference distribution and represents a low sperm concentration.",
+        "B": "Ten million per millilitre falls below commonly used lower reference values, rather than representing the conventional approximate concentration.",
+        "C": "One billion per millilitre is considerably above typical sperm concentrations and is not the ordinary teaching estimate.",
+        "E": "Five hundred thousand per millilitre is a very low concentration, rather than a representative value for normal semen."
+      }
     },
     {
       "id": "dq-embryo-g-066",
@@ -12556,10 +12562,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Capacitation strips a glycoprotein coat from the sperm plasmalemma, exposing receptors so the sperm can later undergo the acrosome reaction; it precedes and is distinct from acrosomal enzyme release.",
+      "why": "Capacitation involves removal or redistribution of sperm surface-associated seminal factors, cholesterol efflux and altered intracellular signalling. These changes increase sperm responsiveness and hyperactivated motility, preparing the sperm for fertilisation and acrosomal exocytosis.",
       "topicId": "e-fert",
       "subtopic": "Fertilization",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Release of acrosomal contents characterises the acrosome reaction rather than the preceding membrane changes of capacitation.",
+        "B": "Fusion of sperm and oocyte membranes occurs after sperm has traversed the surrounding investments and undergone functional preparation.",
+        "C": "Nuclear condensation occurs during spermiogenesis within the testis rather than during post-ejaculatory capacitation in the female tract.",
+        "D": "The sperm flagellum remains essential for motility during capacitation and is not normally shed before zona penetration."
+      }
     },
     {
       "id": "dq-embryo-g-067",
@@ -12620,10 +12632,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Cortical granules discharged on sperm contact modify the zona (the zona reaction), making it impermeable to further sperm — the slow block to polyspermy.",
+      "why": "Following sperm–oocyte fusion, intracellular calcium signalling triggers cortical granule exocytosis. Released substances modify zona pellucida components and reduce further sperm interaction, contributing to the sustained block against polyspermy in mammals.",
       "topicId": "e-fert",
       "subtopic": "Fertilization",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "A rapid electrical block is described in certain non-mammalian species but is not the established sustained human polyspermy mechanism.",
+        "C": "The zona pellucida undergoes biochemical modification, rather than the corona radiata providing the principal hardened polyspermy barrier.",
+        "D": "The sperm tail provides propulsion and is not the structure whose binding sites establish the oocyte's polyspermy block.",
+        "E": "Oviduct contraction assists gamete transport but does not directly establish the cortical granule-mediated block within the fertilised oocyte."
+      }
     },
     {
       "id": "dq-embryo-g-069",
@@ -12652,10 +12670,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The oocyte always carries an X, so the sperm’s sex chromosome — X (female) or Y (male) — sets the zygote’s genetic sex.",
+      "why": "In typical human fertilisation, the oocyte supplies an X chromosome while the sperm contributes either X or Y. The resulting chromosome complement establishes chromosomal sex, with later gene expression directing gonadal and reproductive differentiation.",
       "topicId": "e-fert",
       "subtopic": "Fertilization",
-      "difficulty": "easy"
+      "difficulty": "easy",
+      "notes": {
+        "A": "Normal oocytes contain an X chromosome; variation between X-bearing and Y-bearing sperm determines the usual sex chromosome complement.",
+        "B": "Polar body extrusion accompanies oocyte meiotic division and does not determine whether the fertilising sperm contributes X or Y.",
+        "D": "Timing of intercourse relative to ovulation does not establish chromosomal sex independently of the fertilising sperm's chromosome complement.",
+        "E": "Testosterone concentration in semen does not determine the sex chromosome combination established when sperm and oocyte nuclei unite."
+      }
     },
     {
       "id": "dq-embryo-g-070",
@@ -12684,10 +12708,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Sperm penetration releases the metaphase-II arrest, so the oocyte finishes meiosis II and extrudes the second polar body, leaving the haploid female pronucleus.",
+      "why": "Sperm–oocyte fusion initiates intracellular calcium oscillations that release the secondary oocyte from metaphase II arrest. Completion of the second meiotic division separates sister chromatids and permits extrusion of the second polar body.",
       "topicId": "e-fert",
       "subtopic": "Fertilization",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Meiosis I normally completes before ovulation, so fertilisation does not require the oocyte to restart that division.",
+        "B": "The first polar body normally forms after meiosis I, whereas fertilisation triggers extrusion of the second polar body.",
+        "C": "Dictyotene describes the prolonged prophase I arrest of primary oocytes rather than the response of activated secondary oocytes.",
+        "E": "The secondary oocyte completes chromosome segregation without another premeiotic round of DNA replication before the second division."
+      }
     },
     {
       "id": "dq-embryo-g-071",
@@ -12716,10 +12746,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The ovulated oocyte is viable for roughly 24 hours; if no sperm reaches it in that window it degenerates and is shed with menstruation.",
+      "why": "The ovulated secondary oocyte usually remains capable of fertilisation for approximately twelve to twenty-four hours. Its viability declines after ovulation if sperm–oocyte fusion does not occur, limiting the available fertilisation interval.",
       "topicId": "e-fert",
       "subtopic": "Fertilization",
-      "difficulty": "easy"
+      "difficulty": "easy",
+      "notes": {
+        "A": "Seventy-two hours exceeds the usual functional lifespan of the unfertilised ovulated human secondary oocyte in the reproductive tract.",
+        "B": "Six hours falls within the viable interval but underestimates the conventional upper duration of postovulatory fertilisability.",
+        "C": "One week substantially exceeds the usual lifespan of an unfertilised human oocyte after its release from the follicle.",
+        "D": "Three hours represents only part of the ordinary fertilisation window and is shorter than the conventional upper estimate."
+      }
     },
     {
       "id": "dq-embryo-g-072",
@@ -12780,10 +12816,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Sperm and oocyte usually meet in the ampulla, the widest part of the uterine tube; the zygote then cleaves as it travels to the uterus for implantation.",
+      "why": "Human fertilisation most commonly occurs in the ampullary region of the uterine tube, where capacitated sperm encounter the ovulated secondary oocyte. The developing conceptus subsequently travels towards the uterine cavity during cleavage.",
       "topicId": "e-fert",
       "subtopic": "Fertilization",
-      "difficulty": "easy"
+      "difficulty": "easy",
+      "notes": {
+        "A": "The uterine cavity is the normal implantation destination rather than the usual anatomical site of initial gamete fusion.",
+        "C": "The fundus is a common region for subsequent uterine implantation, not the usual site of human fertilisation.",
+        "D": "The cervical canal provides a passage for sperm entering the uterus rather than the typical site of oocyte fertilisation.",
+        "E": "The isthmus lies closer to the uterus and participates in sperm transport, while fertilisation typically occurs in the ampulla."
+      }
     },
     {
       "id": "dq-embryo-g-074",
@@ -12812,10 +12854,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The large oocyte supplies essentially all the cytoplasm, mitochondria and organelles; the sperm contributes little more than its haploid nucleus and a centriole.",
+      "why": "The secondary oocyte contributes nearly all zygotic cytoplasm, maternal mitochondria, stored RNA and proteins supporting early embryonic development. The sperm provides paternal genetic material and selected cellular components, including structures involved in centrosome formation.",
       "topicId": "e-fert",
       "subtopic": "Fertilization",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The sperm delivers the paternal genome and selected components but contributes relatively little cytoplasm compared with the oocyte.",
+        "B": "Corona radiata cells surround the oocyte and support its environment rather than becoming the principal zygotic cytoplasmic contents.",
+        "D": "The zona pellucida is an extracellular glycoprotein coat and does not supply the zygote's intracellular organelles.",
+        "E": "The first polar body contains segregated chromosomes and little cytoplasm, rather than providing the main cellular resources for embryogenesis."
+      }
     },
     {
       "id": "dq-embryo-g-075",
@@ -12876,10 +12924,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "At roughly the 16-cell stage the compacted ball of blastomeres is the morula; a fluid-filled cavity later converts it into a blastocyst.",
+      "why": "The morula is a compact solid cluster of approximately sixteen to thirty-two blastomeres produced through early cleavage. Subsequent formation of an internal fluid-filled cavity and differentiation of cell populations converts it into a blastocyst.",
       "topicId": "e-cleave",
       "subtopic": "Cleavage",
-      "difficulty": "easy"
+      "difficulty": "easy",
+      "notes": {
+        "A": "The blastocyst contains a fluid-filled blastocoel and distinct inner and outer cell populations rather than remaining a solid ball.",
+        "C": "Gastrulation occurs after implantation and establishes the embryonic germ layers rather than producing the initial solid cleavage-stage cluster.",
+        "D": "The embryoblast is the inner cell mass within the blastocyst, rather than the entire solid morula-stage conceptus.",
+        "E": "A zygote is the fertilised single-cell stage before repeated cleavage generates the multicellular morula."
+      }
     },
     {
       "id": "dq-embryo-g-077",
@@ -12908,10 +12962,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The blastocoel appears around day 5 as trophoblast cells pump fluid into the morula; the blastocyst then hatches from the zona and implants.",
+      "why": "Around days four to five after fertilisation, fluid accumulates inside the developing morula to create the blastocoel. This produces a blastocyst with outer trophectoderm and an inner cell mass, preparing for subsequent implantation.",
       "topicId": "e-cleave",
       "subtopic": "Cleavage",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Day one corresponds approximately to fertilisation and early cleavage rather than formation of a developed blastocyst cavity.",
+        "B": "By day ten implantation is underway, substantially later than the usual initial formation of the blastocoel.",
+        "D": "Day fourteen approaches establishment of the bilaminar embryonic disc rather than the initial preimplantation blastocyst cavity.",
+        "E": "Day twenty-one falls during gastrulation and early neurulation, well after the blastocyst has formed and implanted."
+      }
     },
     {
       "id": "dq-embryo-g-078",
@@ -12940,10 +13000,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The corpus luteum, stimulated by LH, secretes progesterone that converts the proliferative endometrium into the receptive secretory phase.",
+      "why": "After ovulation, the corpus luteum secretes progesterone, acting on an oestrogen-primed endometrium to induce secretory gland differentiation and stromal changes. This establishes the receptive environment required for blastocyst attachment and early implantation.",
       "topicId": "e-cleave",
       "subtopic": "Implantation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Follicular oestrogen primarily promotes endometrial proliferation before ovulation rather than the characteristic postovulatory secretory transformation.",
+        "B": "Trophoblastic hCG maintains luteal progesterone production after implantation begins, rather than establishing the initial receptive endometrium independently.",
+        "C": "FSH promotes ovarian follicular development and indirectly affects steroid production but does not directly induce secretory endometrial differentiation.",
+        "E": "Prolactin has reproductive and decidual roles, but luteal progesterone is the principal hormone establishing secretory endometrial receptivity."
+      }
     },
     {
       "id": "dq-embryo-g-079",
@@ -13004,10 +13070,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The decidua basalis lies deep to the conceptus toward the myometrium and forms the maternal part of the placenta; the capsularis overlies it toward the uterine cavity.",
+      "why": "Decidua basalis is the modified maternal endometrium underlying the implanted conceptus between it and the myometrium. It contributes the maternal placental component, while decidua capsularis covers the conceptus towards the uterine cavity.",
       "topicId": "e-cleave",
       "subtopic": "Implantation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Decidua capsularis lies over the conceptus towards the uterine lumen rather than beneath it against the myometrium.",
+        "C": "Decidua parietalis lines uterine regions away from the implantation site, rather than forming the underlying maternal placental component.",
+        "D": "Decidua marginalis is not the conventional name for the principal decidual region directly beneath the implanted conceptus.",
+        "E": "Functionalis describes the superficial endometrial layer in the menstrual cycle, rather than specifically identifying the basal implantation-site decidua."
+      }
     },
     {
       "id": "dq-embryo-g-081",
@@ -13036,10 +13108,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Ectopic implantation (most often tubal) occurs outside the uterine body; tubal sites are dangerous because rupture causes severe internal bleeding.",
+      "why": "An ectopic pregnancy occurs when implantation takes place outside the normal uterine endometrial cavity, most commonly within a uterine tube. Other sites include the cervix, ovary and abdominal cavity, requiring distinction from low intrauterine placentation.",
       "topicId": "e-cleave",
       "subtopic": "Implantation",
-      "difficulty": "easy"
+      "difficulty": "easy",
+      "notes": {
+        "A": "A molar pregnancy involves abnormal trophoblastic proliferation and conceptus genetics rather than defining an abnormal implantation location.",
+        "C": "Placental abruption involves premature separation of an implanted placenta, rather than implantation outside the normal endometrial cavity.",
+        "D": "Placenta praevia involves placental tissue overlying or near the internal cervical os, rather than necessarily representing an ectopic implantation.",
+        "E": "Superfetation describes conception during an existing pregnancy rather than abnormal implantation of an embryo outside the endometrial cavity."
+      }
     },
     {
       "id": "dq-embryo-g-082",
@@ -13100,10 +13178,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "A shared placenta allows unbalanced blood flow between the twins through placental vascular anastomoses, causing twin-to-twin transfusion syndrome.",
+      "why": "Monochorionic placentas may contain vascular anastomoses connecting the two fetal circulations. Unequal net blood transfer through these connections can produce twin-to-twin transfusion syndrome, particularly in monochorionic diamniotic twin pregnancies.",
       "topicId": "e-cleave",
       "subtopic": "Twinning",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Haemolytic disease of the newborn results principally from maternal antibodies against fetal erythrocyte antigens rather than placental intertwin vascular connections.",
+        "B": "Gestational trophoblastic disease involves abnormal trophoblastic growth and is not the distinctive complication of monochorionic vascular anastomoses.",
+        "C": "A complete hydatidiform mole reflects abnormal conceptus genetics rather than unequal blood transfer through a shared twin placenta.",
+        "E": "Placenta praevia concerns the placental relationship to the cervical os and is not specific to monochorionic twin circulation."
+      }
     },
     {
       "id": "dq-embryo-g-084",
@@ -13164,10 +13248,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The notochordal process extends cranially from the primitive (Hensen’s) node at the cranial end of the streak, laying down the embryonic midline.",
+      "why": "Axial mesodermal cells ingress through the primitive node and migrate cranially along the embryonic midline towards the prechordal region. They establish the notochordal process, which subsequently remodels into the definitive notochord.",
       "topicId": "e-disc",
       "subtopic": "Germ disc",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "The prechordal plate marks a cranial destination for migrating axial cells rather than the principal origin of the notochordal process.",
+        "C": "The cloacal membrane lies at the caudal end of the embryonic disc rather than serving as the notochordal process origin.",
+        "D": "The connecting stalk links embryonic and chorionic structures and does not generate the axial mesodermal notochordal process.",
+        "E": "The primitive groove permits broader gastrulation-associated ingression, but the primitive node is the specific axial process origin."
+      }
     },
     {
       "id": "dq-embryo-g-086",
@@ -13196,10 +13286,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Once the ingressing cells have formed endoderm and mesoderm, the epiblast cells left on the surface become ectoderm, which forms the nervous system and epidermis.",
+      "why": "During gastrulation, ingressing epiblast cells contribute definitive endoderm and intraembryonic mesoderm. Epiblast cells remaining at the surface become embryonic ectoderm, subsequently differentiating into neural and non-neural ectodermal derivatives.",
       "topicId": "e-disc",
       "subtopic": "Germ disc",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Definitive endoderm forms through ingressing epiblast cells replacing hypoblast within the embryonic disc rather than remaining at its surface.",
+        "C": "Intraembryonic mesoderm forms from cells migrating through the primitive streak into the space between ectoderm and endoderm.",
+        "D": "Hypoblast is an earlier extraembryonic lineage and is not the germ layer produced by surface epiblast during gastrulation.",
+        "E": "The notochord develops from axial mesodermal cells migrating through the primitive node rather than epiblast remaining at the surface."
+      }
     },
     {
       "id": "dq-embryo-g-087",
@@ -13228,10 +13324,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "During gastrulation the epiblast generates ectoderm, mesoderm and endoderm; the hypoblast is displaced and contributes only to extraembryonic structures.",
+      "why": "All three definitive embryonic germ layers arise from epiblast during gastrulation. Ingressing cells form endoderm and mesoderm, while remaining surface cells form ectoderm, establishing the cellular foundations for subsequent organogenesis.",
       "topicId": "e-disc",
       "subtopic": "Germ disc",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Hypoblast contributes mainly extraembryonic endodermal structures and does not generate all three definitive embryonic germ layers.",
+        "B": "Trophoblast contributes placental and associated extraembryonic tissues rather than the definitive embryonic germ layers.",
+        "D": "Cytotrophoblast supplies proliferating trophoblastic cells and does not form the three embryonic germ layers during gastrulation.",
+        "E": "Extraembryonic mesoderm supports fetal membranes and associated structures rather than generating the entire trilaminar embryonic disc."
+      }
     },
     {
       "id": "dq-embryo-g-088",
@@ -13260,10 +13362,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Paraxial mesoderm segments into somites, which give rise to the axial skeleton, skeletal muscle and dermis.",
+      "why": "Paraxial mesoderm lies beside the axial notochord and undergoes sequential segmentation to form paired somites. Somitic subdivisions subsequently contribute vertebral and rib structures, skeletal musculature and portions of the dermis.",
       "topicId": "e-disc",
       "subtopic": "Germ disc",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Nephrons arise from intermediate mesoderm-derived metanephric progenitors rather than from segmentation of paraxial mesoderm.",
+        "B": "Heart tubes develop within cardiogenic splanchnic mesoderm, not the paired segmental units of paraxial mesoderm.",
+        "C": "Blood islands develop from vascular and haematopoietic mesodermal populations rather than representing the characteristic paraxial mesoderm segmentation product.",
+        "E": "Gut tube epithelium arises from incorporated endoderm rather than from paraxial mesoderm differentiating into segmented structures."
+      }
     },
     {
       "id": "dq-embryo-g-089",
@@ -13292,10 +13400,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Intermediate mesoderm forms the urogenital system — the kidneys and the gonads; the heart and body wall arise from lateral plate mesoderm.",
+      "why": "Intermediate mesoderm forms the nephrogenic cord and contributes extensively to development of kidneys, ureters and gonadal somatic structures. It occupies an embryonic position between paraxial mesoderm and lateral plate mesoderm.",
       "topicId": "e-disc",
       "subtopic": "Germ disc",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The heart and much of the great vascular system develop from cardiogenic and other mesodermal populations rather than intermediate mesoderm.",
+        "B": "Vertebrae and ribs arise principally from somitic sclerotome derived from paraxial mesoderm rather than the nephrogenic region.",
+        "C": "Limb skeleton and much body wall connective tissue derive from somatic lateral plate mesoderm rather than intermediate mesoderm.",
+        "D": "The brain and spinal cord develop from neural tube neuroectoderm rather than the mesodermal urogenital primordia."
+      }
     },
     {
       "id": "dq-embryo-g-090",
@@ -13324,10 +13438,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Somites appear in a strict craniocaudal sequence from about days 20-31, which is why somite number is used to age young embryos.",
+      "why": "Somites form sequentially from presomitic paraxial mesoderm in a cranial-to-caudal direction. As the embryonic axis elongates, new paired somites appear posterior to previously formed segments through coordinated oscillatory and positional signalling.",
       "topicId": "e-disc",
       "subtopic": "Germ disc",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "A caudal-to-cranial sequence reverses the normal order in which the more anterior somites appear before posterior ones.",
+        "C": "Somites are generated progressively over time, rather than all forming simultaneously along the entire embryonic axis.",
+        "D": "Somites are paired lateral to the notochord, but their sequential addition proceeds along the longitudinal rather than transverse axis.",
+        "E": "Somite segmentation follows a regulated axial sequence rather than occurring randomly without consistent spatial or temporal organisation."
+      }
     },
     {
       "id": "dq-embryo-g-091",
@@ -13356,10 +13476,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The notochord largely regresses; its sole adult remnant is the nucleus pulposus at the centre of each intervertebral disc.",
+      "why": "The nucleus pulposus of the intervertebral disc is the classical major adult derivative of the embryonic notochord. Notochordal tissue largely regresses within developing vertebral bodies, while its cells contribute to the gelatinous disc centre.",
       "topicId": "e-disc",
       "subtopic": "Germ disc",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The anterior longitudinal ligament is a connective tissue band associated with the vertebral column rather than a notochordal derivative.",
+        "C": "Ligamentum flavum connects adjacent vertebral laminae through elastic connective tissue rather than persisting from the axial notochord.",
+        "D": "Denticulate ligaments arise from spinal pia mater and stabilise the cord rather than deriving from residual notochordal tissue.",
+        "E": "The filum terminale is a pial and fibrous extension anchoring the distal spinal cord rather than a notochordal remnant."
+      }
     },
     {
       "id": "dq-embryo-g-092",
@@ -13388,10 +13514,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The notochord (through SHH and BMP inhibition) induces the overlying ectoderm to become neuroectoderm — the neural plate that folds into the neural tube.",
+      "why": "Axial mesoderm and organiser-associated BMP antagonists reduce BMP signalling in adjacent ectoderm, supporting neural induction. This promotes formation of the neural plate rather than epidermal differentiation, with additional signals controlling regional neural identities.",
       "topicId": "e-disc",
       "subtopic": "Germ disc",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "High BMP activity generally favours non-neural ectodermal differentiation, whereas its inhibition supports formation of neural ectoderm.",
+        "B": "Somites arise from segmentation of paraxial mesoderm rather than differentiation of ectoderm under neural inductive signalling.",
+        "D": "Definitive endoderm arises through gastrulation-associated epiblast ingression, rather than from the overlying dorsal ectoderm.",
+        "E": "The primitive streak initiates gastrulation before notochordal development and is not the neural ectodermal product of BMP inhibition."
+      }
     },
     {
       "id": "dq-embryo-g-093",
@@ -13420,10 +13552,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Before gastrulation the inner cell mass forms a bilaminar disc of epiblast (columnar, future embryo) and hypoblast (cuboidal); gastrulation then makes it trilaminar.",
+      "why": "During the second developmental week, the embryoblast differentiates into epiblast and hypoblast, forming the bilaminar embryonic disc. Epiblast borders the amniotic cavity, while hypoblast contributes to the yolk sac-associated endodermal lining.",
       "topicId": "e-disc",
       "subtopic": "Germ disc",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Definitive ectoderm and endoderm arise during gastrulation, after establishment of the earlier epiblast–hypoblast bilaminar disc.",
+        "B": "Amnion and yolk sac are associated extraembryonic structures rather than the two cellular layers of the embryonic disc.",
+        "C": "Trophoblast lies external to the embryoblast and does not constitute one of the two bilaminar embryonic disc layers.",
+        "E": "Cytotrophoblast and syncytiotrophoblast are differentiated trophoblastic layers associated with implantation rather than the bilaminar embryonic disc."
+      }
     },
     {
       "id": "dq-embryo-g-094",
@@ -13452,10 +13590,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "At the streak, Snail represses E-cadherin so epiblast cells lose epithelial adhesion and migrate inward as mesenchyme (epithelial-to-mesenchymal transition).",
+      "why": "Epiblast ingression through the primitive streak requires epithelial-to-mesenchymal transition, during which regulators including SNAIL reduce E-cadherin-mediated intercellular adhesion. Loss of epithelial cohesion permits cells to migrate and establish mesendodermal germ-layer populations.",
       "topicId": "e-disc",
       "subtopic": "Germ disc",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Integrins mediate cell attachment to extracellular matrix and participate in migration, rather than providing the principal epithelial adhesion target specified.",
+        "B": "Fibronectin is an extracellular matrix glycoprotein supporting cellular attachment and migration rather than the characteristic repressed epithelial junctional protein.",
+        "C": "Laminin contributes basement membrane organisation, while the specified loss of cell-to-cell cohesion involves reduced E-cadherin expression.",
+        "D": "N-CAM mediates cell adhesion particularly in neural contexts, rather than being the classical repressed epithelial cadherin during streak ingression."
+      }
     }
   ]
 }
