@@ -635,3 +635,45 @@
 - Key: D
 - Concern: Sublingual glands are predominantly mucous with some mixed and serous components. Calling units purely mucous while also describing serous demilunes is internally inconsistent; conventional demilunes may also reflect fixation artefacts. Original explanation and key untouched.
 - Reference: standard oral histology; exact edition/page and lecture source not independently checked.
+
+## dq-embryo-g-004 — Puberty and immune tolerance of meiotic products
+- Stem: Meiosis in the male occurs only after puberty, which is important because meiotic products
+- Key: D — they would trigger autoimmunity.
+- Concern: The onset of male meiosis at puberty is driven by endocrine activation of the hypothalamic–pituitary–gonadal axis, not by the threat of autoimmunity. The blood–testis barrier contributes to immune protection of meiotic and postmeiotic antigens, but the stem conflates these mechanisms. Original explanation and key untouched.
+- Reference: standard embryology and reproductive physiology; exact textbook edition/page and original lecture not independently checked.
+
+## dq-embryo-g-007 — Mechanism of oocyte meiotic arrest
+- Stem: Meiotic arrest of the primary oocyte is maintained by oocyte maturation inhibitor secreted by the
+- Key: B — follicular cells.
+- Concern: The older concept of a single oocyte maturation inhibitor is an oversimplification. Granulosa-cell NPPC/NPR2 signalling generates cGMP that maintains oocyte cAMP and prophase arrest; LH alters this signalling. The cell source is plausible but the molecular premise requires updating. Original explanation and key untouched.
+- Reference: standard embryology and reproductive physiology; exact textbook edition/page and original lecture not independently checked.
+
+## dq-embryo-g-009 — Sperm motility and fertility threshold
+- Stem: For fertility, at least what fraction of spermatozoa should be motile with progressive forward movement?
+- Key: D — about 40%.
+- Concern: The stated 40% progressive motility threshold conflates progressive and total motility reference values and is not a definitive fertility cutoff. WHO sixth-edition reference distributions give approximately 30% progressive and 42% total motility; confirm course convention and distinguish reference limits from fertility diagnosis. Original explanation and key untouched.
+- Reference: standard embryology and reproductive physiology; exact textbook edition/page and original lecture not independently checked.
+
+## dq-embryo-g-010 — Immotile sperm terminology
+- Stem: Immotile sperm flagella due to a ciliary (dynein) defect, as in Kartagener's syndrome, is
+- Key: E — Kartagener syndrome.
+- Concern: Reduced sperm motility is termed asthenozoospermia; primary ciliary dyskinesia can cause severe sperm immotility, and Kartagener syndrome is a subset. The keyed answer repeats the named example rather than correctly identifying the sperm abnormality. Original explanation and key untouched.
+- Reference: standard embryology and reproductive physiology; exact textbook edition/page and original lecture not independently checked.
+
+## dq-embryo-g-012 — Hyaluronidase substrate
+- Stem: During the acrosome reaction, the enzyme that digests the cumulus/corona cells around the oocyte is
+- Key: B — hyaluronidase.
+- Concern: Hyaluronidase helps disperse cumulus cells by hydrolysing hyaluronic acid in their extracellular matrix, not by digesting the cumulus cells themselves. Sperm surface-associated hyaluronidase and motility also contribute before or during acrosomal exocytosis; correct the premise. Original explanation and key untouched.
+- Reference: standard embryology and reproductive physiology; exact textbook edition/page and original lecture not independently checked.
+
+## dq-embryo-g-014 — Polyspermic embryo developmental outcome
+- Stem: Polyspermic fertilization in the human characteristically
+- Key: D — dies at or after the 8-cell stage.
+- Concern: Polyspermy commonly disrupts chromosomal organisation and development, but arrest at a specific eight-cell stage is not universal. Triploid conceptions may implant and survive beyond early cleavage, particularly in partial molar pregnancies. The exact developmental claim is unreliable. Original explanation and key untouched.
+- Reference: standard embryology and reproductive physiology; exact textbook edition/page and original lecture not independently checked.
+
+## dq-embryo-g-015 — Genetic origin of hydatidiform mole
+- Stem: A hydatidiform mole, with masses of trophoblast secreting large amounts of hCG and no viable fetus, may arise from
+- Key: E — expulsion of a pronucleus.
+- Concern: Complete moles are typically androgenetic diploid conceptions, often resulting from fertilisation of an ovum lacking a functional maternal nuclear genome followed by paternal genome duplication or dispermy. Partial moles are generally diandric triploid. Expulsion of a pronucleus is not an adequate general causal mechanism. Original explanation and key untouched.
+- Reference: standard embryology and reproductive physiology; exact textbook edition/page and original lecture not independently checked.
