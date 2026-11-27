@@ -375,5 +375,227 @@
       "C": "His-bundle signals can be measured with intracardiac electrodes. Ordinary surface ECG does not show a distinct His depolarisation wave.",
       "D": "Bachmann’s bundle helps spread excitation between the atria. Its activity contributes to atrial activation without a separate visible surface wave."
     }
+  },
+  "set-02-A-021": {
+    "why": "At matched heart rate and afterload, a more contractile ventricle ejects more from the same end-diastolic volume. A higher output at comparable filling therefore supports increased inotropy.",
+    "notes": {
+      "A": "An end-systolic volume alone does not control for starting volume or heart rate. Comparison should begin at comparable end-diastolic filling.",
+      "C": "Lower output at a given residual volume does not support enhanced ejection. Initial filling and heart rate may also differ.",
+      "D": "At the same filling, lower output tends to indicate poorer pumping if rate and afterload are held constant.",
+      "E": "Ventricular refractoriness reflects action-potential timing. It does not identify an increase in contractile performance."
+    }
+  },
+  "set-02-A-022": {
+    "why": "The PR interval covers atrial activation and conduction toward the ventricles before the QRS complex. The QRS, ST and QT portions all include ventricular activation or its aftermath.",
+    "notes": {
+      "A": "The QRS complex represents ventricular depolarisation, with activation travelling through the ventricular myocardium.",
+      "B": "The QT interval runs from the onset of the QRS complex to the end of the T wave and includes depolarisation and repolarisation.",
+      "C": "During the ST segment most ventricular myocardium remains depolarised, with little net voltage gradient across it."
+    }
+  },
+  "set-02-A-023": {
+    "why": "Raised venous pressure is transmitted upstream to capillaries, increasing the pressure that drives filtration. Oedema can develop when excess filtration exceeds the capacity for lymphatic return.",
+    "notes": {
+      "A": "Arteriolar constriction decreases downstream capillary pressure and usually limits the hydrostatic drive to filtration.",
+      "C": "An increase in plasma proteins raises intravascular oncotic pressure, which tends to oppose filtration across the microvascular barrier.",
+      "D": "Dehydration usually lowers vascular volume and can concentrate plasma proteins. Those changes do not generally favour hydrostatic oedema."
+    }
+  },
+  "set-02-A-024": {
+    "why": "The systolic rise in cytosolic calcium activates cardiac myofilaments by binding to troponin. A greater calcium transient usually increases developed force at a given muscle length.",
+    "notes": {
+      "A": "Intracellular sodium influences calcium handling through the sodium–calcium exchanger. Calcium is the immediate activating ion for contraction.",
+      "B": "Potassium contributes to membrane potential and repolarisation. It does not directly activate cardiac myofilaments.",
+      "D": "Chloride contributes to some membrane currents and cell volume regulation. It is not the principal link to contractile force.",
+      "E": "Magnesium supports enzyme and ATP functions. It does not substitute for calcium binding to troponin during activation."
+    }
+  },
+  "set-02-A-025": {
+    "why": "The pulmonary and systemic circuits operate in series. Over time right and left ventricular outputs are approximately equal, otherwise blood would accumulate in one circuit.",
+    "notes": {
+      "A": "With a persistent output of one-quarter of left ventricular flow, the pulmonary circuit would lose blood faster than it receives it.",
+      "B": "A sustained one-half ratio is incompatible with steady volumes in circuits that receive and pass on the same blood.",
+      "C": "A transient mismatch can occur during breathing or posture changes. It cannot be sustained at a three-quarter ratio.",
+      "E": "A persistent right-sided output greater than left-sided output would congest the pulmonary circuit rather than maintain steady flow."
+    }
+  },
+  "set-02-A-026": {
+    "why": "Rapid cardiovascular reflexes chiefly defend arterial pressure by adjusting heart rate, cardiac contractility and vascular tone. These adjustments preserve perfusion despite changes in posture or circulating volume.",
+    "notes": {
+      "A": "Local metabolic control helps match oxygen delivery to tissue need. The arterial baroreflex directly senses vessel stretch related to pressure.",
+      "B": "Resistance can vary widely because arterioles are effectors of cardiovascular reflexes rather than a fixed target.",
+      "D": "Cardiac output changes with demand and contributes to regulation. Reflex regulation does not require that output stay constant."
+    }
+  },
+  "set-02-A-027": {
+    "why": "Slow conduction through the atrioventricular node delays ventricular activation after the atria depolarise. This gives atrial contraction time to finish contributing to ventricular filling.",
+    "notes": {
+      "A": "Aortic runoff is driven by the arterial pressure gradient during diastole. It is not the primary purpose of the nodal delay.",
+      "B": "Systemic and pulmonary venous return reach the atria during much of the cycle. The delay specifically allows atria to empty into ventricles.",
+      "D": "Ventricular contraction follows transmission of the impulse beyond the node. The delay postpones contraction so filling can finish first.",
+      "E": "Ventricular repolarisation occurs after ventricular activation, well after the atrioventricular delay has ended."
+    }
+  },
+  "set-02-A-028": {
+    "why": "Preload reflects ventricular muscle stretch before contraction. Left ventricular end-diastolic volume is a useful estimate because it reflects chamber filling more directly than upstream pressure measurements.",
+    "notes": {
+      "A": "Total blood volume influences venous return but does not specify the volume or stretch in a particular ventricle.",
+      "B": "Central venous pressure is a right-sided filling pressure. It does not directly measure left ventricular end-diastolic size.",
+      "C": "Wedge pressure approximates left atrial pressure in appropriate circumstances. It does not directly measure ventricular volume or fibre stretch.",
+      "E": "End-diastolic pressure depends on compliance as well as filling. The same pressure can occur at different ventricular volumes."
+    }
+  },
+  "set-02-A-029": {
+    "why": "Inspiration increases right-sided venous return and can prolong right ventricular ejection. The pulmonary valve closes later, widening the physiological separation between the two components of the second sound.",
+    "notes": {
+      "A": "Inspiration may make aortic closure slightly earlier as left ventricular filling falls. Delayed aortic closure would tend to narrow the split.",
+      "B": "Opening of the mitral valve begins ventricular filling. It does not produce either normal semilunar closure component of the second sound.",
+      "D": "Right ventricular filling rises during inspiration, while left ventricular filling can fall transiently. A rise in left stroke volume is not the main mechanism.",
+      "E": "Heart rate may change with breathing, but the split reflects the relative timing of aortic and pulmonary valve closure."
+    }
+  },
+  "set-02-A-030": {
+    "why": "Anaemia reduces the oxygen carried in each unit of blood. Lower viscosity and compensatory changes in vascular resistance and cardiac flow can produce a sustained high-output state.",
+    "notes": {
+      "A": "Hypertension is elevated pressure and often reflects increased vascular resistance. It does not by itself imply sustained high output.",
+      "B": "Aortic stenosis obstructs left ventricular ejection and can limit increases in output, especially during exercise.",
+      "D": "Complete heart block can leave a slow ventricular escape rhythm. The reduced rate often limits cardiac output.",
+      "E": "Cardiac tamponade limits diastolic filling, reducing stroke volume and usually lowering cardiac output."
+    }
+  },
+  "set-02-A-031": {
+    "why": "Markedly raised intracranial pressure can evoke the Cushing response. Sympathetic vasoconstriction raises arterial pressure to defend cerebral perfusion, and the arterial pressure rise can trigger reflex bradycardia.",
+    "notes": {
+      "A": "Dynamic exercise typically raises systolic pressure and heart rate together. A fall in rate is not the usual exertional response.",
+      "B": "Increased body temperature often produces tachycardia and increased skin flow. It does not characteristically cause hypertension with reflex bradycardia.",
+      "C": "Acute altitude exposure often increases sympathetic drive and heart rate as oxygen availability falls.",
+      "E": "Haemorrhage reduces circulating volume and usually causes tachycardia as arterial pressure or filling falls."
+    }
+  },
+  "set-02-A-032": {
+    "why": "Increased resistance downstream of capillaries raises pressure upstream within them. The higher capillary hydrostatic pressure increases the outward driving force for fluid filtration.",
+    "notes": {
+      "A": "Precapillary constriction reduces pressure in the capillary bed supplied by that vessel and generally reduces filtration there.",
+      "B": "Lower arterial pressure generally decreases capillary hydrostatic pressure unless compensatory changes maintain it.",
+      "C": "More plasma protein raises intravascular oncotic pressure and strengthens the opposing effect on outward filtration.",
+      "D": "Reduced hydraulic permeability lowers fluid movement for a given driving pressure. It does not by itself increase filtration."
+    }
+  },
+  "set-02-A-033": {
+    "why": "Systemic venules and veins hold the largest fraction of blood volume at rest. Their high compliance allows considerable storage at low pressure and supports redistribution when demand changes.",
+    "notes": {
+      "A": "The cardiac chambers contain blood during filling and ejection. Their combined volume is much smaller than the systemic venous reservoir.",
+      "B": "The aorta carries high pressure and supplies major arteries. Its lumen stores only a small fraction of total blood volume.",
+      "C": "Arteries and arterioles distribute blood and regulate resistance. They are less compliant and contain less blood than systemic veins.",
+      "D": "Capillaries provide a vast exchange area. Their small luminal volumes add up to less than the venous compartment."
+    }
+  },
+  "set-02-A-034": {
+    "why": "Higher flow velocity increases the Reynolds number, favouring turbulence. For a given geometry, the Reynolds number rises when inertial forces increase relative to viscous damping.",
+    "notes": {
+      "B": "Higher viscosity damps disturbances and lowers Reynolds number, making turbulence less likely if other variables are unchanged.",
+      "C": "At fixed velocity, a smaller diameter lowers Reynolds number. A real stenosis can raise local velocity, so its effects interact.",
+      "D": "Lower density decreases fluid inertia at a given velocity and diameter and therefore decreases Reynolds number.",
+      "E": "Length increases resistance in a straight tube, but it is not a term in the standard Reynolds number relation."
+    }
+  },
+  "set-02-A-036": {
+    "why": "Flow in many peripheral veins is relatively smooth because upstream resistance dampens arterial pulsations. Venous flow can still vary with breathing, muscle contraction and proximity to the heart.",
+    "notes": {
+      "A": "Central venous flow can be phasic, but prominent pressure waves from ventricular ejection are characteristic of arteries.",
+      "C": "Most systemic veins return relatively deoxygenated blood toward the heart. They do not deliver oxygen directly to systemic capillaries.",
+      "D": "Velocity depends on flow and total cross-sectional area. Veins are not generally faster than corresponding arteries.",
+      "E": "Pressure gradients and valves normally support net flow toward the heart. Sustained bidirectional flow is not the usual pattern."
+    }
+  },
+  "set-02-A-037": {
+    "why": "Pulmonary and systemic circuits are connected in series, so their net flows are closely matched in steady state. Pulmonary vascular resistance is substantially lower than systemic resistance.",
+    "notes": {
+      "B": "The pulmonary circuit carries comparable flow at a much lower pressure difference, implying lower vascular resistance.",
+      "C": "Pulmonary venous blood has given up carbon dioxide in the lungs. It normally contains less carbon dioxide than pulmonary arterial blood.",
+      "D": "Pulmonary hypertension increases pressure load on the right ventricle and can cause right ventricular hypertrophy.",
+      "E": "Pulmonary veins carry oxygenated blood into the left atrium. Systemic veins supply blood to the right atrium."
+    }
+  },
+  "set-02-A-041": {
+    "why": "Resting working myocardial cells are most permeable to potassium, so membrane potential lies near the potassium equilibrium potential. Other ion permeabilities and the sodium–potassium pump help sustain it.",
+    "notes": {
+      "A": "Sodium permeability rises when fast sodium channels open during ventricular depolarisation. Resting sodium conductance is comparatively low.",
+      "C": "Calcium channels contribute to the action-potential plateau and contraction. Resting potential mainly reflects potassium conductance.",
+      "D": "Chloride currents can affect electrical behaviour, but they do not normally dominate the resting potential of contractile myocytes.",
+      "E": "The sodium–potassium pump maintains the gradients and has a small electrogenic effect. Resting potassium permeability is the immediate determinant."
+    }
+  },
+  "set-03-A-001": {
+    "why": "The sinoatrial node usually reaches firing threshold before the heart’s other automatic tissues. Its impulses activate the atria and entrain slower pacemakers during normal sinus rhythm.",
+    "notes": {
+      "B": "The atrioventricular node conducts atrial impulses and can generate a slower escape rhythm if sinoatrial drive fails.",
+      "C": "The His bundle conducts impulses to ventricular branches. Its latent automaticity does not normally set heart rate.",
+      "D": "The mitral valve is a mechanical structure regulating flow. It does not generate the normal pacemaker impulse.",
+      "E": "Ventricular escape rhythms can occur when higher pacemakers fail. Normal impulses originate before they reach the ventricles."
+    }
+  },
+  "set-03-A-002": {
+    "why": "The QRS complex is the surface ECG expression of ventricular myocardial depolarisation. Atrial repolarisation usually occurs around the same time but is obscured by the larger signal.",
+    "notes": {
+      "A": "Atrial depolarisation generates the P wave, which ordinarily precedes the QRS complex.",
+      "B": "Atrial repolarisation may overlap the QRS complex in time. Ventricular activation is the dominant source of that complex.",
+      "D": "Ventricular repolarisation is represented mainly by the T wave, which follows the QRS complex.",
+      "E": "Atrioventricular conduction delay contributes to the PR interval and occurs before the ventricles produce the QRS complex."
+    }
+  },
+  "set-03-A-003": {
+    "why": "An ECG can show whether atrial electrical activity reaches the ventricles. Comparing P waves with QRS complexes and assessing the PR interval helps identify atrioventricular conduction abnormalities.",
+    "notes": {
+      "A": "A murmur is a mechanical sound usually detected by auscultation. An ECG does not directly record heart sounds.",
+      "B": "Stroke volume is blood volume ejected per beat. It requires a haemodynamic or imaging measurement rather than electrical timing alone.",
+      "C": "An ECG can provide heart rate, but calculating cardiac output also requires stroke volume or an independent flow measurement.",
+      "E": "Atrioventricular conduction can be assessed from timing and relationships on an ECG, so a relevant use is listed."
+    }
+  },
+  "set-03-A-004": {
+    "why": "Cardiac output is the amount ejected by one ventricle per minute and equals heart rate multiplied by stroke volume. In steady state it approximates systemic blood flow.",
+    "notes": {
+      "A": "Either ventricular output can represent cardiac output in a steady circulation. The outputs are measured separately rather than added.",
+      "B": "Systemic flow per minute is what the left ventricle supplies in steady state, so this is another expression of cardiac output.",
+      "C": "Multiplying beats per minute by volume per beat gives volume per minute, the units of cardiac output.",
+      "D": "Ventricular flow and the rate–stroke volume relation are valid. The selection omits the equivalent steady-state systemic flow description."
+    }
+  },
+  "set-03-A-005": {
+    "why": "Increased venous return raises ventricular filling and stretches myocardial fibres. Within physiological limits, the resulting increase in force raises stroke volume through the Frank–Starling mechanism.",
+    "notes": {
+      "A": "Both ventricles generally eject comparable volumes over time. The mechanism helps match output to filling rather than giving the left ventricle a persistent excess.",
+      "B": "Intrinsic pacemaker rate is a property of automatic cells. The Starling mechanism concerns ventricular filling and ejection.",
+      "C": "Heart rate is a factor in cardiac output. The specific Starling response links initial fibre length to stroke volume.",
+      "E": "The timing of ventricular contraction reflects the conduction system. The Starling relation addresses mechanical force and output."
+    }
+  },
+  "set-03-A-006": {
+    "why": "Protodiastole refers to the short transition from late ejection to semilunar valve closure as ventricular pressure falls. Atrioventricular valves remain closed until ventricular pressure falls below atrial pressure.",
+    "notes": {
+      "A": "Open atrioventricular valves indicate the subsequent filling phase. They remain shut at the end of ventricular ejection.",
+      "B": "Both sets are closed during isovolumetric relaxation after semilunar closure. Protodiastole includes the transition toward that closure.",
+      "C": "Atrioventricular valves are closed before ejection ends. The semilunar valves are moving toward closure rather than both sets remaining open.",
+      "E": "There is a valid description in which the semilunar valves close while atrioventricular valves are still closed."
+    }
+  },
+  "set-03-A-008": {
+    "why": "Isovolumetric contraction starts after atrioventricular valves close and ends when semilunar valves open. Both sets are closed between those events, so ventricular pressure rises at constant volume.",
+    "notes": {
+      "A": "Open inflow and outflow valves would allow chamber volume to change. Neither set is open during normal isovolumetric contraction.",
+      "B": "Closed atrioventricular valves with open semilunar valves indicate ejection, when ventricular volume decreases.",
+      "C": "Open atrioventricular valves with closed semilunar valves characterise ventricular filling, when the ventricles gain volume.",
+      "E": "Both sets are closed during the pressure rise before ejection. That configuration is represented among the choices."
+    }
+  },
+  "set-03-A-009": {
+    "why": "The aortic valve closes when left ventricular pressure falls below aortic pressure at the end of ejection. Its closed leaflets prevent aortic blood returning to the ventricle.",
+    "notes": {
+      "A": "During diastole the higher pressure is in the aorta. The valve prevents flow out of the aorta back toward the ventricle.",
+      "C": "During forward ejection the valve is open and ventricular pressure drives flow into the aorta. The backflow-preventing closure occurs later.",
+      "D": "Ejection is forward flow into the aorta. The valve does not block that normal direction when the ventricle is ejecting.",
+      "E": "Aortic valve closure supplies one component of the second sound. The first sound is associated with atrioventricular valve closure."
+    }
   }
 }
