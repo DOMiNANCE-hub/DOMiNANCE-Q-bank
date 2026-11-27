@@ -345,5 +345,151 @@
       "D": "Lower plasma LDL reflects increased hepatic clearance through LDL receptors. Direct blockade of LDL particle synthesis is not the main mechanism.",
       "E": "Some statins modestly change HDL cholesterol, but inhibition of HMG-CoA reductase is the defining drug action."
     }
+  },
+  "bio-031": {
+    "why": "Antioxidants inhibit oxidation by removing reactive species, interrupting radical chain reactions or preventing reactive species from forming. The exact mechanism depends on the particular antioxidant.",
+    "notes": {
+      "A": "A substance that promotes radical formation is acting as a pro-oxidant under those conditions."
+    }
+  },
+  "bio-032": {
+    "why": "Antioxidant activity depends on a compound's structure and on conditions around it. The local redox state, oxygen availability and transition metals can change which reactions occur and whether the compound has a net antioxidant effect.",
+    "notes": {
+      "A": "Molecular structure affects how readily a compound can donate electrons, stabilise a radical or enter a particular cellular compartment.",
+      "B": "The local redox state can affect whether the compound is available in a form that scavenges reactive species or is regenerated after reacting.",
+      "C": "Oxygen and transition metals influence radical formation and can change the net effect of a compound in a particular environment."
+    }
+  },
+  "bio-033": {
+    "why": "Free radicals can damage many classes of cell molecules. They initiate lipid peroxidation, oxidise proteins and carbohydrates, and modify DNA bases or the sugar–phosphate backbone.",
+    "notes": {
+      "A": "Radicals can attack polyunsaturated fatty acids and initiate a chain reaction of membrane lipid peroxidation.",
+      "B": "Oxidative attack can modify carbohydrates, including the deoxyribose backbone in DNA and sugars in other cell structures.",
+      "C": "Oxidation can modify amino acid side chains and alter the structure, stability or activity of proteins.",
+      "D": "Reactive species can modify DNA bases and contribute to strand breaks or other lesions."
+    }
+  },
+  "bio-034": {
+    "why": "Carotenoids have extended systems of conjugated double bonds. These allow them to accept excitation energy from singlet oxygen and dissipate it, usually as heat, returning oxygen toward its ground state.",
+    "notes": {
+      "A": "How widely a pigment occurs in nature does not explain its molecular capacity to quench singlet oxygen.",
+      "C": "Methyl groups can influence overall structure, but the extended conjugated system is the key feature for efficient energy transfer.",
+      "D": "The conjugated electron system provides a recognised mechanism for singlet oxygen quenching."
+    }
+  },
+  "bio-035": {
+    "why": "Antioxidant systems limit damage by removing reactive oxygen species or interrupting the reactions they start. This can protect cell components without blocking the ordinary use of oxygen in aerobic metabolism.",
+    "notes": {
+      "A": "Antioxidants do not generally block aerobic pathways by binding molecular oxygen. They target specific reactive intermediates or their reactions.",
+      "B": "Deliberately increasing radical formation is a pro-oxidant effect. It is not the usual protective action of antioxidants.",
+      "D": "Some vitamins themselves participate in antioxidant systems. Generating reactive oxygen species by complexing with vitamins is not the general mechanism."
+    }
+  },
+  "bio-037": {
+    "why": "Superoxide dismutase converts superoxide to hydrogen peroxide and molecular oxygen. Catalase and peroxidases then remove hydrogen peroxide, so water is not the direct product of superoxide dismutase.",
+    "notes": {
+      "A": "Mitochondrial electron transfer can reduce oxygen one electron at a time and produce superoxide.",
+      "B": "Superoxide has an unpaired electron and is classified as a radical reactive oxygen species.",
+      "D": "Superoxide can participate in metal-catalysed production of hydroxyl radical from hydrogen peroxide. The direct uncatalysed reaction is very slow."
+    }
+  },
+  "bio-039": {
+    "why": "Red cells use G6PD to generate NADPH and maintain reduced glutathione. Certain oxidant antimalarials can trigger haemolysis in people with G6PD deficiency, causing dark urine from free haemoglobin. Malaria itself can also cause haemolysis.",
+    "notes": {
+      "A": "Acute nephritis can cause dark urine from red cells in the urine. The timing after an oxidant exposure raises concern for haemolysis in this vignette.",
+      "C": "Hepatitis can darken urine through conjugated bilirubin, but that differs mechanistically from the possible haemoglobinuria after oxidative red-cell injury.",
+      "D": "Haematuria means intact red cells are present in urine. Intravascular haemolysis can instead release free haemoglobin into urine."
+    }
+  },
+  "bio-042": {
+    "why": "Glutathione reductase uses NADPH to reduce the disulphide bond of oxidised glutathione. This regenerates two reduced glutathione molecules for use in antioxidant reactions.",
+    "notes": {
+      "A": "Glutathione peroxidase uses reduced glutathione to remove peroxides, forming oxidised glutathione in the process.",
+      "B": "The standard enzyme that regenerates reduced glutathione from its disulphide is glutathione reductase. This reaction uses NADPH.",
+      "D": "Glutathione synthetase forms glutathione by adding glycine during biosynthesis. It does not reduce oxidised glutathione."
+    }
+  },
+  "bio-043": {
+    "why": "Myeloperoxidase uses hydrogen peroxide and chloride to produce hypochlorous acid in phagocytes. Its characteristic role is to generate a reactive antimicrobial oxidant, unlike antioxidant systems that remove superoxide or peroxides.",
+    "notes": {
+      "A": "Glutathione peroxidase uses reduced glutathione to remove hydrogen peroxide or lipid hydroperoxides.",
+      "B": "Catalase converts hydrogen peroxide to water and oxygen, limiting peroxide accumulation.",
+      "C": "Superoxide dismutase converts the superoxide radical to hydrogen peroxide and oxygen so other enzymes can handle the peroxide."
+    }
+  },
+  "bio-044": {
+    "why": "Glutathione is a reducing substrate rather than the catalyst. Glutathione peroxidase catalyses peroxide reduction using reduced glutathione, which is oxidised in the process.",
+    "notes": {
+      "A": "Different superoxide dismutase forms occur in the cytosol and mitochondria, protecting those cellular compartments.",
+      "B": "Dismutation of superoxide produces hydrogen peroxide and molecular oxygen.",
+      "C": "Catalase removes hydrogen peroxide through a reaction that produces water and molecular oxygen."
+    }
+  },
+  "bio-045": {
+    "why": "DNA can be damaged by reactive oxygen species. Oxidation can generate modified bases such as 8-oxoguanine and contribute to strand breaks, so antioxidant defences and DNA repair are important.",
+    "notes": {
+      "A": "Healthy cells have systems that balance the production and removal of reactive species and maintain a suitable redox environment.",
+      "B": "Mitochondrial metabolism can generate hydrogen peroxide, some of which can reach the cytosol and participate in redox signalling.",
+      "C": "The KEAP1–NRF2 system senses changes in oxidative and electrophilic stress and regulates expression of protective genes."
+    }
+  },
+  "bio-046": {
+    "why": "The hydroxyl radical reacts extremely rapidly with many nearby molecules, including lipids, proteins and DNA. It often causes damage near the site where it forms because its lifetime is so short.",
+    "notes": {
+      "B": "Superoxide is a radical that participates in redox reactions, but it is generally less reactive toward many targets than hydroxyl radical.",
+      "C": "Hydrogen peroxide is a reactive oxygen species but not a free radical because it has no unpaired electron.",
+      "D": "Organic oxygen-centred radicals can participate in oxidative reactions. Hydroxyl radical is usually the most rapidly reacting species among these choices."
+    }
+  },
+  "bio-047": {
+    "why": "Different antioxidants protect different compartments or act at different stages of oxidation. Some remove peroxides, while others interrupt lipid radical chains or regenerate the active form of another antioxidant.",
+    "notes": {
+      "B": "A single antioxidant does not protect equally against all oxidants or in every cellular compartment."
+    }
+  },
+  "bio-048": {
+    "why": "Oxidative stress can damage proteins, nucleic acids or other targets without producing detectable lipid peroxidation. The absence of one marker therefore does not rule out redox imbalance.",
+    "notes": {
+      "B": "Lipid peroxidation is only one potential result of oxidative stress. Other targets can be damaged even when this marker is absent."
+    }
+  },
+  "bio-050": {
+    "why": "Lipid peroxidation can produce reactive aldehydes that form DNA adducts or alter signalling. These effects can contribute to mutations or processes associated with tumour development, although peroxidation alone does not determine whether cancer occurs.",
+    "notes": {
+      "B": "Lipid peroxidation can have effects beyond the membrane. Its reactive products can modify DNA and participate in processes that contribute to oncogenesis."
+    }
+  },
+  "bio-052": {
+    "why": "DNA injury can activate cellular stress pathways that change mitochondrial or enzyme activity and lead to additional reactive oxygen species. Oxidative species can also cause DNA damage, so the association can operate in both directions.",
+    "notes": {
+      "B": "DNA damage is not only an outcome of oxidative stress. A damage response can also increase oxidant generation in some settings."
+    }
+  },
+  "bio-053": {
+    "why": "Reactive oxygen species can arise during normal metabolism, including mitochondrial electron transfer. Disease and tissue injury can increase their formation through inflammatory or metal-catalysed reactions, including reactions involving hydrogen peroxide.",
+    "notes": {
+      "A": "Normal metabolism is a source, but disease and tissue injury can also change oxidant production.",
+      "B": "Endogenous metabolism and peroxide-related reactions are relevant, and damaged tissue can also contribute to reactive species formation.",
+      "C": "A focus on disease and damage omits the low-level oxidant production that occurs in normal cellular metabolism.",
+      "D": "Normal metabolism and injured tissue are sources. Hydrogen peroxide can also give rise to more reactive species through metal-catalysed reactions."
+    }
+  },
+  "bio-054": {
+    "why": "Reactive oxygen species can originate in several cellular compartments. Mitochondrial electron transfer is a common source, while oxidant-generating enzymes and redox reactions can contribute in the cytoplasm and nuclear region.",
+    "notes": {
+      "A": "The nucleus can experience local generation of oxidants, but mitochondria and cytosolic reactions can also contribute.",
+      "B": "Mitochondria are a major source, but reactive oxygen species are not generated exclusively in mitochondria.",
+      "C": "Nuclear and mitochondrial sources are possible. Cytoplasmic enzyme reactions can also contribute to oxidant formation.",
+      "D": "Cytoplasmic and mitochondrial sources are well recognised. Redox-active processes in the nuclear region can also generate reactive species."
+    }
+  },
+  "bio-055": {
+    "why": "Coffee contains phenolic compounds, almonds provide vitamin E, and many mushrooms contain compounds such as ergothioneine. Each can supply substances with antioxidant properties, although amounts and biological effects differ.",
+    "notes": {
+      "A": "Coffee contributes compounds such as chlorogenic acids. Almonds and mushrooms also contain compounds with antioxidant properties.",
+      "B": "Coffee and almonds both contribute antioxidant compounds, and some mushrooms are a dietary source of ergothioneine.",
+      "C": "Almonds and mushrooms supply antioxidant compounds. Coffee also contains phenolic substances rather than supplying caffeine alone.",
+      "D": "Coffee and mushrooms contribute antioxidant compounds. Almonds are also a source of vitamin E and other dietary antioxidants."
+    }
   }
 }
