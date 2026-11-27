@@ -177,5 +177,203 @@
       "D": "Four cells across would require a substantially wider vessel. A typical capillary accommodates erythrocytes in single file.",
       "E": "Five erythrocytes abreast are incompatible with the narrow lumen of a typical exchange capillary."
     }
+  },
+  "set-01-B-015": {
+    "why": "Initial lymphatic vessels begin as blind-ended channels in tissue. Overlapping endothelial edges can open when interstitial pressure rises, admitting fluid and macromolecules into the lymphatic network.",
+    "notes": {
+      "A": "Blood capillaries usually form a connected exchange network between arterioles and venules. They do not collect interstitial fluid through blind ends.",
+      "B": "Sinusoids are specialised wider blood channels, such as those linking inflow to central veins in the liver.",
+      "C": "Venules receive blood from capillaries and carry it toward veins. They are part of a continuous blood circuit.",
+      "E": "Coronary arteries arise from the aorta and branch toward myocardial exchange vessels. They do not begin in the interstitium."
+    }
+  },
+  "set-01-B-016": {
+    "why": "Mitral stenosis obstructs flow from the left atrium into the left ventricle. It imposes a diastolic pressure gradient across the valve and slows ventricular filling.",
+    "notes": {
+      "A": "Aortic stenosis obstructs systolic outflow. Later ventricular hypertrophy can affect relaxation, but the valve lesion does not directly obstruct mitral inflow.",
+      "B": "Tricuspid regurgitation permits backward flow from the right ventricle during systole. It does not directly narrow left ventricular inflow.",
+      "D": "Pulmonary stenosis impedes flow from the right ventricle into the pulmonary artery. It is downstream of the tricuspid valve.",
+      "E": "A faster rate shortens diastole and may limit total filling time. It does not produce the direct inflow obstruction of mitral stenosis."
+    }
+  },
+  "set-01-B-017": {
+    "why": "If one ventricle ejects more blood, the other receives more filling over subsequent beats. The Frank–Starling response increases stroke volume with preload and helps restore balance.",
+    "notes": {
+      "A": "Sympathetic input changes contractility and heart rate and can adjust overall flow. The intrinsic matching response to increased filling does not require it.",
+      "B": "Parasympathetic input mainly adjusts nodal activity and heart rate. It is not the intrinsic link between filling and ventricular output.",
+      "C": "Circulating adrenaline can increase ventricular contractility. Matching of each ventricle’s output to its own filling does not depend on an adrenaline change.",
+      "E": "The named intrinsic filling–output relation accounts for the matching. Autonomic and adrenal influences can modify performance but are not all required."
+    }
+  },
+  "set-01-B-018": {
+    "why": "Rapid ejection starts when left ventricular pressure exceeds aortic pressure and opens the aortic valve. Aortic inflow initially exceeds peripheral runoff, so aortic pressure rises.",
+    "notes": {
+      "A": "The mitral valve remains closed while left ventricular pressure exceeds left atrial pressure. It opens later when the ventricle relaxes.",
+      "C": "The aortic valve is open during ventricular ejection, allowing blood to enter the aorta from the ventricle.",
+      "D": "Ventricular volume falls during rapid and then reduced ejection. It reaches its lowest value at end-systole.",
+      "E": "The first heart sound begins around atrioventricular valve closure, during isovolumetric contraction before aortic ejection starts."
+    }
+  },
+  "set-01-B-019": {
+    "why": "In the classical Starling model, raising interstitial protein raises its oncotic pressure and favours filtration. The revised model distinguishes bulk interstitial protein from conditions beneath the endothelial glycocalyx.",
+    "notes": {
+      "A": "Additional filtered fluid can raise interstitial pressure and increase lymphatic drainage while lymphatic transport capacity remains available.",
+      "B": "Protein raises the colloid osmotic pressure of interstitial fluid through its osmotic effect across a protein-restricting barrier.",
+      "D": "If lymphatic return cannot clear the extra filtered fluid, interstitial volume increases and oedema can develop.",
+      "E": "A rise in interstitial oncotic pressure narrows the plasma-to-interstitium difference in the classical model if plasma protein is unchanged."
+    }
+  },
+  "set-01-B-020": {
+    "why": "Left ventricular electrical activation begins slightly earlier, but right ventricular ejection can start first because the pulmonary valve opens against a lower downstream arterial pressure.",
+    "notes": {
+      "A": "The left ventricle has a thicker muscular wall to generate pressure for the systemic circulation. Its muscle mass is normally greater.",
+      "B": "The earliest sites of ventricular activation lie on the left endocardial surface. Right ventricular activation follows shortly.",
+      "C": "The left ventricle generates higher pressure to drive systemic flow. The right ventricle pumps into the lower-pressure pulmonary circuit.",
+      "D": "With comparable stroke volumes, the higher pressure of left ventricular ejection requires more external stroke work."
+    }
+  },
+  "set-02-A-001": {
+    "why": "For steady laminar flow of a Newtonian fluid through a rigid tube, Poiseuille resistance varies inversely with the fourth power of radius. Doubling diameter doubles radius.",
+    "notes": {
+      "A": "A one-half multiplier would fit simple inverse proportionality. Tube radius has a fourth-power effect under these assumptions.",
+      "C": "Widening the tube lowers resistance for the same fluid and length. A multiplier greater than one reverses that change.",
+      "D": "Sixteenfold is the increase for halving radius. Doubling it changes resistance by the reciprocal factor.",
+      "E": "Resistance depends strongly on lumen size even when tube length and fluid viscosity are held constant."
+    }
+  },
+  "set-02-A-002": {
+    "why": "Korotkoff sounds weaken and usually disappear as cuff pressure falls below diastolic pressure. The artery remains open throughout the cycle, changing the pulse-induced tissue vibrations.",
+    "notes": {
+      "A": "Intermittent reopening under cuff compression accompanies the audible phase. The sounds fade as the artery remains open between pulses.",
+      "B": "Atrioventricular valve opening is a cardiac event. The sounds heard over the cuffed arm arise locally in and around the artery.",
+      "C": "The relevant pressure change is deflation of the cuff to the diastolic range, not a sudden fall in the person’s blood pressure.",
+      "E": "At the systolic threshold, the first tapping sounds appear as the artery begins to open transiently with each pulse."
+    }
+  },
+  "set-02-A-003": {
+    "why": "The Fick method divides whole-body oxygen consumption by the arteriovenous oxygen content difference. The venous sample must represent mixed systemic venous return for a whole-body estimate.",
+    "notes": {
+      "B": "An oxygen balance uses oxygen consumption and oxygen content on the two sides. Carbon dioxide measurements are not required.",
+      "C": "Coronary sinus blood reflects myocardial oxygen extraction. The whole-body estimate needs systemic arterial and mixed venous oxygen contents.",
+      "D": "In steady circulation without a significant shunt the same net flow passes through both circuits. Separate contributions are not required.",
+      "E": "Sex can affect population reference values but is not a term in the oxygen mass-balance equation."
+    }
+  },
+  "set-02-A-004": {
+    "why": "Acute blood loss reduces venous return and can lower arterial pressure. Reduced baroreceptor firing leads to vagal withdrawal and increased sympathetic stimulation, which raise heart rate.",
+    "notes": {
+      "A": "The smaller volume reduces filling and stroke volume. The rise in rate is mediated by a reflex response to reduced pressure.",
+      "B": "Increased vagal activity would slow sinoatrial firing. Blood loss normally reduces vagal efferent activity in the compensatory reflex.",
+      "D": "Compensation commonly includes sympathetic vasoconstriction in less immediately essential beds. Skeletal muscle vasodilatation does not explain the tachycardia.",
+      "E": "Vagal activity falls in the usual compensatory response. Sympathetic activation also accelerates firing of the sinoatrial node."
+    }
+  },
+  "set-02-A-006": {
+    "why": "Most oxygen in blood is bound to haemoglobin inside erythrocytes. Only a small fraction is dissolved in plasma, which mainly carries other soluble or suspended substances.",
+    "notes": {
+      "A": "Many hormones circulate in plasma, either freely dissolved or bound to carrier proteins, before reaching their target tissues.",
+      "B": "Plasma tonicity helps maintain erythrocyte volume because water moves across the cell membrane in response to osmotic gradients.",
+      "C": "Chylomicrons enter the circulation after lymphatic transport from the intestine and carry dietary lipids in plasma.",
+      "D": "Antibodies such as immunoglobulins are plasma proteins that circulate to support immune defence after secretion by plasma cells."
+    }
+  },
+  "set-02-A-007": {
+    "why": "Haematocrit is the fraction of whole-blood volume occupied by red cells. A value of 41 percent means erythrocytes occupy roughly two-fifths of the sampled blood volume.",
+    "notes": {
+      "A": "Haemoglobin is normally contained within red cells. Haematocrit does not measure plasma-free haemoglobin or haemolysis.",
+      "B": "The plasma fraction occupies most of the remainder after subtracting erythrocyte volume and the small buffy coat.",
+      "D": "The denominator includes plasma as well as formed elements. Haematocrit is not the fraction of blood cells that are erythrocytes.",
+      "E": "Plasma proteins form a dissolved component of plasma. Their concentration is separate from the red-cell volume fraction."
+    }
+  },
+  "set-02-A-008": {
+    "why": "Normal cardiac excitation starts in spontaneously depolarising sinoatrial pacemaker cells. Intrinsic conduction spreads it through the heart, while autonomic nerves modify rate, conduction and contractile force.",
+    "notes": {
+      "B": "Gap junctions connect neighbouring myocytes and let local depolarising current pass between them.",
+      "C": "Pacemaker cells have spontaneous phase-four depolarisation, so their membrane potential does not remain stable between action potentials.",
+      "D": "Working atrial and ventricular myocytes normally have a relatively stable resting membrane potential until activated.",
+      "E": "The ventricular action-potential plateau prolongs the refractory period, preventing re-excitation through much of contraction."
+    }
+  },
+  "set-02-A-009": {
+    "why": "Sinoatrial pacemaker cells normally reach threshold faster than other automatic cardiac cells. Their impulses activate the heart and suppress slower latent pacemakers before those cells discharge.",
+    "notes": {
+      "A": "Autonomic nerves modulate sinoatrial rate. Pacemaker dominance depends on intrinsic automaticity and persists in a denervated heart.",
+      "B": "Other conducting cells and working myocytes also generate action potentials. Latent pacemakers can discharge if sinoatrial drive is lost.",
+      "D": "A pacemaker cell has a changing diastolic membrane potential that drifts toward threshold, rather than a stable resting potential.",
+      "E": "Catecholamines can accelerate sinoatrial firing through beta-adrenergic signalling. Low catecholamine sensitivity is not why it is the usual pacemaker."
+    }
+  },
+  "set-02-A-011": {
+    "why": "A physiological rise in ventricular end-diastolic volume increases initial fibre length. This augments force at a given inotropic state and typically raises the volume ejected.",
+    "notes": {
+      "B": "At an unchanged heart rate, a higher stroke volume tends to increase cardiac output rather than decrease it.",
+      "C": "The finding is greater ventricular filling. Venous pressure depends on how that increase occurred and need not fall.",
+      "D": "Within the physiological range, increased initial fibre length augments active force through length-dependent activation.",
+      "E": "Both ventricles respond to filling, which helps match their outputs over time. Increased end-diastolic volumes do not establish a left-to-right output difference."
+    }
+  },
+  "set-02-A-012": {
+    "why": "Initial ventricular muscle fibre length helps determine how much force develops. Filling stretches the fibres before systole and increases their force through the Frank–Starling mechanism.",
+    "notes": {
+      "B": "Intercalated discs mechanically and electrically link cardiac cells. Their number is not the main beat-to-beat determinant of developed force.",
+      "C": "Gap junctions permit electrical coupling and coordinated activation. Changes in preload alter force without requiring an altered number of junctions.",
+      "D": "Sinoatrial depolarisation sets the rhythm. The force of working myocardial contraction also depends on initial fibre length.",
+      "E": "The His bundle conducts impulses toward the ventricles. Its length does not supply the preload-dependent force adjustment."
+    }
+  },
+  "set-02-A-013": {
+    "why": "Positive inotropy means increased myocardial contractility. At a given initial fibre length and comparable loading conditions, the ventricle can develop more force or eject more effectively.",
+    "notes": {
+      "A": "Stroke volume can change with preload and afterload. A decrease in volume is not the definition of positive inotropy.",
+      "B": "Movement along a chemical gradient concerns transport or diffusion. Inotropy describes myocardial contractile strength.",
+      "C": "Repolarisation is the electrical recovery of pacemaker cells. It does not define a change in ventricular contractility.",
+      "E": "End-diastolic volume is an index of ventricular filling. Positive inotropy is defined independently of that initial filling."
+    }
+  },
+  "set-02-A-014": {
+    "why": "Higher carotid sinus pressure increases baroreceptor firing. The reflex decreases sympathetic vasoconstrictor activity and raises cardiac vagal activity, producing vasodilatation and slowing the heart.",
+    "notes": {
+      "A": "Baroreceptor input inhibits sympathetic outflow to resistance vessels. Their smooth muscle relaxes because less adrenergic drive is present.",
+      "B": "Reduced vascular resistance and slower cardiac rate can lower systemic arterial pressure, including pressure in the aorta.",
+      "C": "Increased vagal activity slows the sinoatrial pacemaker and produces reflex bradycardia.",
+      "D": "Withdrawal of sympathetic vasoconstrictor tone causes arteriolar dilatation and lowers systemic vascular resistance."
+    }
+  },
+  "set-02-A-015": {
+    "why": "Vagal acetylcholine activates cardiac muscarinic receptors and slows sinoatrial pacemaker depolarisation. It also slows conduction through the atrioventricular node, helping reduce the heart rate.",
+    "notes": {
+      "B": "Parasympathetic input decreases sinoatrial firing rather than accelerating it. Acetylcholine increases potassium conductance and reduces pacemaker cyclic AMP.",
+      "C": "The atrioventricular node conducts more slowly under vagal stimulation and may transmit fewer impulses if stimulation is strong.",
+      "D": "Vagal stimulation does not give a general increase in contractile force. It can reduce atrial contraction, with less direct ventricular effect.",
+      "E": "Slowing of the heart is the expected response. The listed increases in nodal activity and force do not accompany normal vagal stimulation."
+    }
+  },
+  "set-02-A-016": {
+    "why": "Contracting skeletal muscle generates local signals that relax its resistance vessels. The resulting active hyperaemia increases perfusion in proportion to demand despite heightened systemic sympathetic activity.",
+    "notes": {
+      "A": "A higher pressure can contribute to flow, but local reduction in resistance is the main determinant of increased perfusion of active fibres.",
+      "B": "Alpha-adrenergic stimulation generally increases vascular smooth muscle tone. Local metabolic signals can attenuate its effect in active muscle.",
+      "C": "Beta-adrenergic effects can influence perfusion. Locally generated signals best explain matching of flow to the muscles actually contracting.",
+      "D": "Splanchnic and renal vasoconstriction can redistribute cardiac output. It does not directly lower resistance in the exercising muscle bed."
+    }
+  },
+  "set-02-A-017": {
+    "why": "In many organs local blood flow adapts to metabolic activity. Increased substrate use and changes in interstitial signals relax resistance vessels and raise tissue perfusion.",
+    "notes": {
+      "A": "Transmural pressure can trigger a myogenic response and help stabilise flow. Metabolic control matches delivery to the tissue’s demand.",
+      "C": "Local transmitter release can affect vessel tone, but metabolic vasodilator signals provide a major link between cellular activity and perfusion.",
+      "D": "Circulating mediators can alter overall vascular tone. They do not usually provide the most precise feedback for an individual active tissue.",
+      "E": "Cardiac output is the total systemic flow. Local arteriolar resistance helps determine the proportion reaching a particular organ."
+    }
+  },
+  "set-02-A-018": {
+    "why": "The surface electrocardiographic P wave represents summed atrial myocardial depolarisation. Small structures of the specialised conduction system ordinarily have signals too weak to appear separately.",
+    "notes": {
+      "A": "Sinoatrial depolarisation initiates the beat, but the small pacemaker tissue does not produce its own distinct surface deflection.",
+      "B": "Atrioventricular nodal conduction contributes to the PR interval. Nodal depolarisation itself is not displayed as a distinct wave.",
+      "C": "His-bundle signals can be measured with intracardiac electrodes. Ordinary surface ECG does not show a distinct His depolarisation wave.",
+      "D": "Bachmann’s bundle helps spread excitation between the atria. Its activity contributes to atrial activation without a separate visible surface wave."
+    }
   }
 }
