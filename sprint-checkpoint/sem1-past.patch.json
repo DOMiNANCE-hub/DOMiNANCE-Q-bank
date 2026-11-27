@@ -1675,5 +1675,115 @@
       "D": "The affected chain is produced more slowly or not at all, so its partner can accumulate in excess.",
       "E": "Some excess unpaired chains precipitate in developing red cells, damaging those cells and contributing to ineffective erythropoiesis."
     }
+  },
+  "bio-433": {
+    "why": "Alpha- and beta-thalassaemia reduce the output of one globin chain type. Deletions, regulatory variants, abnormal RNA processing and unstable globin products are different ways an affected gene can reduce the amount of usable globin.",
+    "notes": {
+      "A": "The alpha-globin genes are on chromosome 16 and the beta-globin gene is on chromosome 11. Loss or dysfunction can reduce the relevant chain output.",
+      "B": "Variants can impair transcription, RNA processing or translation, leaving less functional globin.",
+      "C": "Some variants produce unstable transcripts or trigger transcript decay, so less globin is made.",
+      "D": "Some unusually unstable globin variants are degraded rapidly and can produce a thalassaemic phenotype. This is not the usual mechanism of every form.",
+      "E": "A decrease in one globin chain type is the defining quantitative change and leaves an imbalance with its partner chain."
+    }
+  },
+  "bio-435": {
+    "why": "A typical person has four functional alpha-globin genes. Alpha-thalassaemia commonly results from deletions, whereas beta-thalassaemia more often involves sequence variants that reduce expression. The shared consequence is unbalanced production of globin chains.",
+    "notes": {
+      "A": "Each chromosome 16 usually carries HBA1 and HBA2, giving four alpha-globin genes in the typical diploid complement.",
+      "B": "Two functional alpha-globin genes can occur in alpha-thalassaemia trait. The usual complement is four.",
+      "C": "Most beta-thalassaemia alleles are point variants or small sequence changes that alter expression or processing. Larger deletions are less common.",
+      "D": "Deletions that remove one or more alpha-globin genes are a common cause of alpha-thalassaemia.",
+      "E": "Reduced synthesis of one chain class leaves excess unpaired partner chains, contributing to red-cell injury."
+    }
+  },
+  "bio-436": {
+    "why": "The usual alpha-globin genotype has four functional copies. One affected copy gives silent carrier status, two give alpha-thalassaemia trait, three usually give HbH disease, and loss of all four gives classic haemoglobin Bart hydrops fetalis.",
+    "notes": {
+      "A": "The displayed pattern lacks one functional alpha-globin gene. The ordinary genotype has two functioning genes on each chromosome.",
+      "B": "Loss of one alpha-globin copy leaves three functional genes and is often clinically silent.",
+      "C": "Two affected genes can be on opposite chromosomes or on the same chromosome. These are the usual trans and cis forms of the trait.",
+      "D": "With three genes affected, excess beta chains can form HbH, a beta-four tetramer.",
+      "E": "Loss of all four genes allows excess fetal gamma chains to form haemoglobin Bart and produces severe fetal disease."
+    }
+  },
+  "bio-437": {
+    "why": "Fetal haemoglobin contains gamma chains in place of adult beta chains. The gamma-chain serine at position 143 contributes to less binding of 2,3-bisphosphoglycerate, which helps give HbF a higher oxygen affinity than HbA.",
+    "notes": {
+      "A": "Myoglobin is a monomer with one haem group. Its oxygen binding is not cooperative.",
+      "B": "HbF binds 2,3-bisphosphoglycerate less strongly than HbA, contributing to its higher oxygen affinity.",
+      "C": "Serine occupies gamma-chain position 143 and does not supply the same positive interaction as adult beta-chain histidine.",
+      "D": "Position 143 of the fetal gamma chain is serine, while histidine is found at the homologous adult beta-chain position.",
+      "E": "Adult beta globin has histidine at position 143, contributing to interactions in the 2,3-bisphosphoglycerate binding pocket."
+    }
+  },
+  "bio-438": {
+    "why": "Haemoglobin's subunits communicate through changes in quaternary structure. Oxygen binding increases affinity at other subunits, while increased protons, carbon dioxide and 2,3-bisphosphoglycerate favour lower-affinity conformations.",
+    "notes": {
+      "A": "Oxygen binding at one site increases the tendency of other subunits to bind oxygen.",
+      "B": "Positive cooperativity gives the haemoglobin saturation curve its sigmoid shape.",
+      "C": "Increased proton concentration favours the low-affinity T state, contributing to the Bohr effect.",
+      "D": "Carbon dioxide can form carbamates and affect the T–R equilibrium. It can also lower pH through hydration reactions.",
+      "E": "The phosphate binds preferentially to the deoxygenated tetramer and reduces its affinity for oxygen."
+    }
+  },
+  "bio-439": {
+    "why": "Myoglobin has a hyperbolic oxygen saturation curve and reaches half saturation at a lower oxygen pressure than haemoglobin. Adult haemoglobin has a sigmoid curve and a P50 around 26–27 torr under standard physiological conditions.",
+    "notes": {
+      "A": "At the same typical physiological oxygen pressure, the higher-affinity myoglobin is generally more saturated.",
+      "B": "The myoglobin curve is displaced toward lower oxygen pressures and therefore lies to the left.",
+      "C": "Communication between haemoglobin subunits during oxygen binding produces a sigmoidal curve.",
+      "D": "A P50 near 26 torr is a standard adult haemoglobin estimate. The value varies with pH, temperature and other factors.",
+      "E": "Myoglobin's P50 is much lower than 16 torr, typically around two to three torr in standard teaching comparisons."
+    }
+  },
+  "bio-440": {
+    "why": "Globin supplies a pocket that protects haem and supports reversible oxygen binding. It reduces the extreme carbon monoxide preference seen with free haem, accepts protons and provides an allosteric binding site for 2,3-bisphosphoglycerate.",
+    "notes": {
+      "A": "The protein environment helps limit auto-oxidation of ferrous haem, although some ferric methaemoglobin can still form.",
+      "B": "The distal environment reduces the relative carbon monoxide preference compared with free haem and supports oxygen binding.",
+      "C": "Ionisable groups in globin can take up hydrogen ions and help buffer the blood.",
+      "D": "Globin positions and protects the haem for oxygen binding. The oxygen molecule directly coordinates the haem iron.",
+      "E": "2,3-Bisphosphoglycerate binds in a cavity between the beta chains, preferentially in the deoxygenated conformation."
+    }
+  },
+  "bio-460": {
+    "why": "A typical diploid genome contains four alpha-globin genes. Each of the two chromosome 16 copies carries HBA1 and HBA2, although variants can alter the number.",
+    "notes": {
+      "A": "Two genes per chromosome does not mean two in total. With two chromosome copies, the usual whole-genome count is four."
+    }
+  },
+  "bio-461": {
+    "why": "Beta-thalassaemia usually results from variants that affect beta-globin transcription, RNA splicing, RNA stability or translation. Gene deletions are possible, but they account for a smaller proportion than nondeletion variants.",
+    "notes": {
+      "A": "Large gene deletions can cause beta-thalassaemia, but most cases are due to other sequence changes that reduce beta-globin production."
+    }
+  },
+  "bio-462": {
+    "why": "Alpha-thalassaemia commonly results when a chromosomal deletion removes one or more alpha-globin genes. Some nondeletion variants also reduce alpha-globin function or output.",
+    "notes": {
+      "B": "Nondeletion forms exist, but loss of alpha-globin genes by deletion is a common mechanism and supports the statement."
+    }
+  },
+  "bio-463": {
+    "why": "In thalassaemia, one class of globin is made in reduced amounts. Unpaired partner chains then accumulate relative to the affected chain, harming erythroid precursors or mature red cells.",
+    "notes": {
+      "B": "The chain imbalance is central to disease even though the particular gene and degree of deficiency differ among forms."
+    }
+  },
+  "bio-464": {
+    "why": "A typical alpha-globin genotype has two functioning genes on each chromosome 16, written αα/αα. The displayed genotype lacks one copy and is usually the silent carrier pattern.",
+    "notes": {
+      "A": "The deletion indicator leaves only three functional genes overall, so the pattern is not the usual four-gene genotype."
+    }
+  },
+  "bio-417": {
+    "why": "Haemophilia A is due to factor VIII deficiency and haemophilia B to factor IX deficiency. Both are usually X-linked recessive and can produce similar bleeding patterns. Haemophilia B is also called Christmas disease.",
+    "notes": {
+      "A": "The common inherited forms result from F8 or F9 variants on the X chromosome, with the usual X-linked recessive pattern.",
+      "B": "The classic inheritance of haemophilia A and B is X-linked, rather than autosomal dominant.",
+      "C": "Deficient factor VIII activity defines haemophilia A. It impairs efficient assembly or function of the intrinsic tenase complex.",
+      "D": "Deficient factor IX activity defines haemophilia B. The resulting bleeding pattern can resemble haemophilia A.",
+      "E": "Christmas factor is factor IX. Patients with its deficiency can have a clinical bleeding pattern similar to that seen in factor VIII deficiency."
+    }
   }
 }

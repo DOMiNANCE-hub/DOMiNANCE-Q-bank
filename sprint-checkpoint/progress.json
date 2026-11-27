@@ -1,32 +1,14 @@
 {
   "file": "data/biochem/sem1-past.json",
-  "done": 255,
+  "done": 272,
   "total": 272,
-  "drafts": 195,
-  "holds": 60,
+  "drafts": 208,
+  "holds": 64,
   "drafts_pushed": true,
   "applied_to_data": false,
   "source_blob": "c6a2f8196e7f2b7416f52b9ca978ecd4ad9df3f8",
-  "next_id": "bio-433",
-  "remaining_ids": [
-    "bio-433",
-    "bio-434",
-    "bio-435",
-    "bio-436",
-    "bio-437",
-    "bio-438",
-    "bio-439",
-    "bio-440",
-    "bio-460",
-    "bio-461",
-    "bio-462",
-    "bio-463",
-    "bio-464",
-    "bio-414",
-    "bio-415",
-    "bio-416",
-    "bio-417"
-  ],
+  "next_id": null,
+  "remaining_ids": [],
   "structural_failures_in_draft_records": 0,
   "references": [
     "https://www.ncbi.nlm.nih.gov/sites/books/NBK395573/",
@@ -108,6 +90,11 @@
     "https://medlineplus.gov/genetics/condition/beta-thalassemia/",
     "https://www.nhlbi.nih.gov/health/sickle-cell-disease/treatment",
     "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease",
-    "https://pubmed.ncbi.nlm.nih.gov/8647854/"
+    "https://pubmed.ncbi.nlm.nih.gov/8647854/",
+    "https://www.nhlbi.nih.gov/health/thalassemia",
+    "https://www.cdc.gov/hemophilia/about/index.html",
+    "https://rest.uniprot.org/uniprotkb/P02675.fasta",
+    "https://www.ebi.ac.uk/chebi/CHEBI:10033",
+    "https://www.ebi.ac.uk/chebi/CHEBI:28794"
   ]
 }
