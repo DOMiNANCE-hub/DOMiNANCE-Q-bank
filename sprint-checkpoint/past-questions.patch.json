@@ -597,5 +597,194 @@
       "D": "Ejection is forward flow into the aorta. The valve does not block that normal direction when the ventricle is ejecting.",
       "E": "Aortic valve closure supplies one component of the second sound. The first sound is associated with atrioventricular valve closure."
     }
+  },
+  "set-03-A-011": {
+    "why": "Heart sounds are mechanical vibrations associated with cardiac events such as valve closure. A stethoscope allows auscultation, while phonocardiography records the acoustic signal for analysis.",
+    "notes": {
+      "A": "Arterial wall fluctuations produce the arterial pulse and can be timed alongside heart sounds. They are not the cardiac sounds themselves.",
+      "B": "Bioelectrical activity is recorded by electrocardiography. Heart sounds reflect mechanical vibration during the cardiac cycle.",
+      "C": "Blood flow per minute defines cardiac output and requires a flow estimate. Acoustic timing alone does not measure it.",
+      "E": "Phlebography evaluates veins or, in older terminology, venous pulsations. Heart sound waveforms are recorded by phonocardiography."
+    }
+  },
+  "set-03-A-012": {
+    "why": "At rest the kidneys receive a large fraction of cardiac output relative to their small mass. This produces the highest perfusion per 100 grams among the listed tissues.",
+    "notes": {
+      "A": "The brain has continuous perfusion to support metabolism. Its resting flow per 100 grams is substantially below renal perfusion.",
+      "B": "The myocardium has high oxygen extraction and a rich blood supply. Resting flow per mass is still below that of the kidneys.",
+      "C": "Skin flow varies with temperature and autonomic tone. Typical resting perfusion per 100 grams is lower than renal perfusion.",
+      "D": "The liver receives substantial total blood flow through two routes. Dividing this by its larger mass gives lower flow per 100 grams."
+    }
+  },
+  "set-03-A-013": {
+    "why": "Cardiac output equals heart rate multiplied by stroke volume. Seventy beats per minute times 75 millilitres per beat gives 5,250 millilitres, or 5.25 litres, per minute.",
+    "notes": {
+      "A": "The specified heart rate and stroke volume yield more than this. Multiplying them gives 5,250 millilitres per minute.",
+      "B": "A flow of 4.55 litres per minute at 70 beats per minute would require a smaller stroke volume of 65 millilitres.",
+      "D": "A cardiac output of eight litres per minute would require more than 110 millilitres per beat at the given rate.",
+      "E": "Nearly ten litres per minute would require about 140 millilitres per beat at 70 beats per minute, above the given volume."
+    }
+  },
+  "set-03-A-014": {
+    "why": "The QRS complex reflects rapid depolarisation of ventricular myocardium. The impulse spreads through the His–Purkinje system and then through ventricular muscle, generating the recorded deflection.",
+    "notes": {
+      "A": "The PQ or PR interval extends from the start of atrial depolarisation to the start of ventricular activation.",
+      "C": "The QT interval includes ventricular depolarisation and repolarisation. The QRS complex is the component representing activation alone.",
+      "D": "The ST segment follows the QRS and corresponds to a period when much of the ventricular myocardium is already depolarised.",
+      "E": "The T wave is the principal surface expression of ventricular repolarisation after the QRS complex."
+    }
+  },
+  "set-03-A-015": {
+    "why": "The right and left ventricles supply two circulations connected in series. Their mean outputs are approximately equal in steady state, although small transient differences can occur.",
+    "notes": {
+      "A": "A sustained right output of only one-quarter of left output would quickly deplete the pulmonary vascular compartment.",
+      "B": "One-half would represent an ongoing imbalance, causing blood to accumulate on the systemic side rather than circulate steadily.",
+      "C": "Brief beat-to-beat mismatches can occur with breathing. A persistent three-quarter ratio is incompatible with stable circuit volumes.",
+      "E": "A prolonged excess of right over left output would raise pulmonary blood volume rather than maintain steady state."
+    }
+  },
+  "set-03-A-016": {
+    "why": "Ventricular filling occurs when atrial pressure exceeds ventricular pressure and opens the atrioventricular valves. The semilunar valves remain closed because arterial pressure exceeds relaxing ventricular pressure.",
+    "notes": {
+      "A": "Open semilunar valves would connect the ventricles to the arteries. The outflow valves remain closed during normal filling.",
+      "B": "Closed atrioventricular valves and open semilunar valves characterise ventricular ejection, which decreases ventricular volume.",
+      "D": "Both sets are closed during isovolumetric phases. Ventricular volume is then constant because no inflow valve is open.",
+      "E": "The normal filling configuration is represented among the options. Inflow valves are open and outflow valves are closed."
+    }
+  },
+  "set-03-A-017": {
+    "why": "Cardiac sympathetic stimulation increases contractile force and speeds conduction, especially through the atrioventricular node. The rise in cardiac work also increases myocardial energy and oxygen demand.",
+    "notes": {
+      "A": "Beta-1 stimulation increases intracellular calcium availability and can strengthen myocardial contraction at a given initial length.",
+      "B": "A faster, more forceful heart performs more work and consumes more oxygen. Cardiac metabolic demand therefore rises.",
+      "C": "Sympathetic stimulation increases atrioventricular nodal conduction velocity, shortening the delay between atrial and ventricular activation.",
+      "D": "The usual cardiac adrenergic response does not decrease excitability. It increases pacemaker activity and can facilitate conduction."
+    }
+  },
+  "set-03-A-018": {
+    "why": "Ventricular myocytes have a long action potential with a plateau sustained in part by inward calcium current. The plateau lengthens refractoriness and prevents summation of contractions.",
+    "notes": {
+      "A": "Skeletal muscle action potentials last only a few milliseconds. Ventricular myocyte repolarisation is delayed by the plateau.",
+      "B": "Ventricular cells have a strongly negative resting potential. Their normal phase-zero upstroke is rapid, rather than a slow drift from zero.",
+      "C": "The ventricular upstroke is driven mainly by fast sodium influx. Calcium contributes strongly to the later plateau and to nodal upstrokes.",
+      "E": "Ventricular myocardium has a long refractory period. This limits re-excitation and prevents normal tetanic summation."
+    }
+  },
+  "set-03-A-020": {
+    "why": "Heart rate counts cycles per minute, so cycle duration is its reciprocal after conversion to seconds. A faster rate shortens the cycle, reducing diastole especially.",
+    "notes": {
+      "A": "Stroke volume measures blood ejected per beat. It does not directly set the time between successive beats.",
+      "B": "Systole is only part of the cycle. The time from one beat to the next also includes diastole.",
+      "C": "Diastole is the filling and relaxation portion. Total cycle duration includes both ventricular relaxation and contraction.",
+      "E": "The cardiac pause describes a period within the cycle. Beat frequency determines the time available for the complete cycle."
+    }
+  },
+  "set-03-A-021": {
+    "why": "Hypokalaemia alters ventricular repolarisation and can produce prominent U waves following flattened T waves. The U wave can merge with the T wave and distort interval measurement.",
+    "notes": {
+      "A": "A shortened PR interval is not characteristic. Significant hypokalaemia can slow conduction and sometimes prolong PR.",
+      "C": "ST depression is more typical than ST elevation in hypokalaemia, often alongside T-wave flattening.",
+      "D": "Tall, narrow, peaked T waves suggest hyperkalaemia. A flatter T wave and prominent U wave favour hypokalaemia.",
+      "E": "T and U waves can merge, giving apparent QT or QU prolongation. A shortened QT is not the typical finding here."
+    }
+  },
+  "set-03-A-022": {
+    "why": "An early recognised ECG effect of hyperkalaemia is a narrow, peaked T wave caused by altered ventricular repolarisation. ECG findings vary and may be absent despite elevated potassium.",
+    "notes": {
+      "B": "Prominent U waves more strongly suggest hypokalaemia, particularly when the preceding T waves are flattened.",
+      "C": "Early hyperkalaemia can shorten ventricular repolarisation. With more severe toxicity, conduction abnormalities such as QRS widening become prominent.",
+      "D": "ST depression and flattened T waves are more typical of low potassium in this comparison.",
+      "E": "More advanced hyperkalaemia can prolong the PR interval and attenuate P waves. A shortened PR is not the characteristic early change."
+    }
+  },
+  "set-03-A-023": {
+    "why": "Left ventricular end-diastolic volume is the amount of blood present just before systole. A value around 100 to 130 millilitres is a common adult teaching estimate.",
+    "notes": {
+      "A": "A total end-diastolic volume of 10 to 30 millilitres is much lower than typical adult filling values.",
+      "B": "Thirty to fifty millilitres is closer to the residual amount that can remain at end-systole in many adults.",
+      "C": "Fifty to seventy millilitres is a common range for stroke volume, which is the amount ejected rather than the whole filled chamber volume.",
+      "D": "Smaller adults can have volumes within this range. The conventional unindexed teaching example of a filled ventricle is nearer 120 millilitres."
+    }
+  },
+  "set-03-A-024": {
+    "why": "Distal His–Purkinje tissue can generate a slow ventricular escape rhythm when higher pacemakers fail. Intrinsic rates of about 20 to 40 impulses per minute are taught for Purkinje cells.",
+    "notes": {
+      "A": "Proximal His tissue is part of the atrioventricular junctional system. Its typical escape rate is higher than the distal ventricular range.",
+      "B": "The atrioventricular junctional escape rate is usually around 40 to 60 impulses per minute.",
+      "C": "The sinoatrial node has the highest normal intrinsic firing rate and usually dominates the slower distal pacemakers.",
+      "E": "The bundle branches mainly distribute the impulse. A slow distal automatic rate is classically assigned to the Purkinje network."
+    }
+  },
+  "set-03-A-026": {
+    "why": "Atrial natriuretic peptide is released when the atria stretch. It promotes renal sodium excretion and can relax vascular smooth muscle, helping counter increased circulating volume.",
+    "notes": {
+      "A": "Noradrenaline stimulates alpha-adrenergic receptors on many resistance vessels, producing vasoconstriction in those beds.",
+      "B": "Vasopressin can constrict vessels through vascular V1 receptors, in addition to its renal water-conserving action.",
+      "C": "Serotonin can constrict certain vessels, including through smooth muscle serotonin receptors. The effect can vary by vascular bed and endothelium.",
+      "D": "Angiotensin II is a potent vasoconstrictor that acts on vascular smooth muscle and helps raise arterial pressure."
+    }
+  },
+  "set-03-A-027": {
+    "why": "Conduction is slowest in the atrioventricular node. Its cellular properties create a delay between atrial and ventricular activation, leaving time for atrial emptying before ventricular contraction.",
+    "notes": {
+      "A": "Activation passes from the sinoatrial region through atrial myocardium faster than through the atrioventricular node.",
+      "C": "The His bundle rapidly carries excitation from the atrioventricular junction toward the bundle branches.",
+      "D": "Purkinje fibres have particularly fast conduction, helping activate widely separated regions of the ventricles nearly together.",
+      "E": "Working ventricular muscle conducts more slowly than Purkinje fibres, but the specialised atrioventricular node supplies the principal slow segment."
+    }
+  },
+  "set-03-A-028": {
+    "why": "Adrenaline activates alpha and beta adrenergic receptors, including alpha-1, beta-1 and beta-2. Its relative cardiovascular effects depend on concentration and the receptor populations present.",
+    "notes": {
+      "A": "Noradrenaline has strong alpha and beta-1 activity but comparatively weak beta-2 activity, so it lacks the same broad profile.",
+      "C": "Isoprenaline strongly activates beta-1 and beta-2 receptors. It has little alpha-1 activity.",
+      "D": "Phenylephrine primarily activates alpha-1 receptors and increases vascular tone. It is not a strong beta agonist.",
+      "E": "Dobutamine acts predominantly through beta-1 receptors, with additional effects that do not match adrenaline’s broad profile."
+    }
+  },
+  "set-03-A-029": {
+    "why": "A narrowed mitral valve obstructs left atrial emptying during diastole. The resulting low-pitched diastolic rumble is usually heard best at the cardiac apex.",
+    "notes": {
+      "A": "A continuous murmur extends across systole and diastole. Flow across the narrowed mitral valve occurs chiefly during ventricular filling.",
+      "B": "A systolic murmur at the base suggests an outflow lesion such as aortic stenosis. Mitral inflow is diastolic.",
+      "D": "A diastolic murmur at the base may reflect semilunar regurgitation. Mitral stenosis is usually best heard at the apex.",
+      "E": "A systolic apical murmur suggests mitral regurgitation. Stenosis produces noise during forward diastolic inflow."
+    }
+  },
+  "set-03-A-030": {
+    "why": "Peripheral chemoreceptors increase their firing when arterial oxygen tension falls. Carotid bodies also respond to raised carbon dioxide and acidity, stimulating ventilation when gas exchange is inadequate.",
+    "notes": {
+      "A": "Higher arterial pressure activates baroreceptors. It is not the usual direct chemical stimulus to peripheral chemoreceptors.",
+      "C": "Lower arterial carbon dioxide generally reduces chemical drive. Increased carbon dioxide instead stimulates peripheral chemoreceptor activity.",
+      "D": "A decrease in hydrogen ion concentration means lower acidity. Increased acidity stimulates carotid-body activity.",
+      "E": "Cooling changes metabolism and ventilation, but low arterial oxygen tension is the direct chemoreceptor stimulus specified here."
+    }
+  },
+  "set-03-A-031": {
+    "why": "Resting myocardium has a high continuous requirement for aerobic ATP production. Per 100 grams it typically consumes more oxygen than the other listed tissues under resting conditions.",
+    "notes": {
+      "A": "The brain has a large total oxygen requirement. Per unit mass, resting myocardium generally consumes more oxygen.",
+      "C": "The liver has a substantial total metabolic demand. Much of that total reflects its larger organ mass.",
+      "D": "Kidneys receive high blood flow, but oxygen extraction is comparatively low. High perfusion does not equate to the highest consumption per mass.",
+      "E": "Resting skeletal muscle uses relatively little oxygen per unit mass. Consumption increases substantially during contraction."
+    }
+  },
+  "set-03-A-032": {
+    "why": "The lower systolic pressure of the right ventricle causes less intramyocardial vascular compression. Right coronary inflow supplying the right ventricle therefore persists through more of systole.",
+    "notes": {
+      "A": "Anatomical dominance depends on the origin of the posterior descending artery. Right dominance is more common than left dominance.",
+      "B": "Left ventricular contraction compresses intramural vessels, especially subendocardially. Left coronary flow commonly falls during systole.",
+      "D": "Diastole is the main period of perfusion of left ventricular muscle because systolic compression has subsided.",
+      "E": "Right ventricular systolic compression is less intense. Right coronary flow to that region can continue during systole."
+    }
+  },
+  "set-03-A-035": {
+    "why": "Isovolumetric contraction is the early pressure-building part of ventricular systole. Both inflow and outflow valves are closed, so ventricular volume cannot fall until ejection begins.",
+    "notes": {
+      "A": "Ejection starts when ventricular pressure opens the semilunar valves. The preceding pressure-building phase has no outflow.",
+      "C": "Ventricular diastole includes relaxation and filling. Isovolumetric contraction belongs to the start of systole.",
+      "D": "Rapid filling requires open atrioventricular valves and falling ventricular pressure. Neither condition describes early systolic contraction.",
+      "E": "Slow filling occurs later in diastole before atrial contraction. Ventricular pressure generation with closed valves is a separate phase."
+    }
   }
 }
