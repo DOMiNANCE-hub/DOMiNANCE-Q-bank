@@ -3260,7 +3260,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Processing proinsulin releases insulin and connecting peptide in equimolar amounts.",
+      "why": "Proinsulin contains insulin's A and B chains linked by C-peptide. Proteolytic processing removes the connecting peptide, leaving the A and B chains joined by disulphide bonds; insulin and C-peptide are normally secreted in equimolar amounts.",
+      "notes": {
+        "B": "The A chain remains part of mature insulin and contributes to the hormone's structure and receptor-binding properties rather than being discarded.",
+        "C": "The B chain remains within mature insulin, linked to the A chain by disulphide bonds after removal of the connecting peptide.",
+        "D": "Glucagon is produced from a separate proglucagon precursor in pancreatic alpha cells, not cleaved from beta-cell proinsulin.",
+        "E": "Somatostatin derives from its own precursor and is secreted by islet delta cells, rather than being a connecting component of proinsulin."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Insulin synthesis",
       "difficulty": "medium"
@@ -3292,7 +3298,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Injected insulin lacks C-peptide whereas endogenous insulin is released with C-peptide.",
+      "why": "Endogenous proinsulin processing releases insulin and C-peptide together. In hypoglycaemia, an inappropriately high measured insulin concentration with suppressed C-peptide therefore suggests exogenous insulin administration, although interpretation also depends on the assay and sampling context.",
+      "notes": {
+        "A": "Endogenous beta-cell overactivity would ordinarily increase both insulin and C-peptide because they originate from the same proinsulin-processing pathway.",
+        "C": "An insulinoma generally produces endogenous insulin with measurable C-peptide and sometimes elevated proinsulin, rather than isolated insulin elevation with suppressed C-peptide.",
+        "D": "Oral glucose stimulates endogenous beta-cell secretion and should increase C-peptide alongside insulin rather than selectively produce the described discrepancy.",
+        "E": "Glucagon counter-regulates hypoglycaemia by increasing hepatic glucose output; its excess does not explain high insulin accompanied by suppressed C-peptide."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Insulin synthesis",
       "difficulty": "hard"
@@ -3324,7 +3336,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Closure of KATP channels depolarizes the cell and opens calcium channels.",
+      "why": "Glucose metabolism increases the beta-cell ATP-to-ADP ratio, closing ATP-sensitive potassium channels. Reduced potassium efflux depolarises the membrane, opens voltage-gated calcium channels and increases intracellular calcium, which triggers insulin granule exocytosis.",
+      "notes": {
+        "A": "Opening ATP-sensitive potassium channels maintains potassium efflux and membrane hyperpolarisation, tending to inhibit the electrical events required for insulin release.",
+        "B": "Voltage-gated calcium channels must open after membrane depolarisation to provide calcium entry, rather than close to initiate insulin granule secretion.",
+        "D": "Blockade of all sodium channels is not the principal glucose-sensing mechanism; reduced ATP-sensitive potassium conductance initiates beta-cell depolarisation.",
+        "E": "The established triggering pathway depends on ATP-sensitive potassium channel closure, not opening an ATP-driven chloride channel in the beta-cell membrane."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Insulin secretion",
       "difficulty": "hard"
@@ -3356,7 +3374,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Sulfonylureas close KATP channels via SUR1 to trigger depolarization.",
+      "why": "Sulfonylureas bind the SUR1 regulatory component of beta-cell ATP-sensitive potassium channels and promote their closure. Reduced potassium efflux depolarises the cell, allowing voltage-gated calcium influx and stimulating insulin granule release.",
+      "notes": {
+        "A": "Opening ATP-sensitive potassium channels would favour membrane hyperpolarisation and inhibit calcium-dependent insulin secretion, opposite to sulfonylurea action.",
+        "B": "Blocking glucose entry would reduce glucose-dependent metabolic signalling and is not the mechanism by which sulfonylureas stimulate insulin release.",
+        "C": "Pancreatic alpha cells produce glucagon; destruction of these cells is neither necessary nor the principal mechanism of sulfonylurea-induced insulin secretion.",
+        "E": "Calcium entry through voltage-gated channels provides the immediate trigger for insulin exocytosis, so blocking it would oppose the drug's secretory effect."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Insulin secretion",
       "difficulty": "medium"
@@ -3388,7 +3412,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Gut incretins amplify glucose-stimulated insulin release.",
+      "why": "Oral glucose stimulates intestinal release of incretins, particularly GIP and GLP-1, which amplify glucose-dependent insulin secretion. Compared with intravenous glucose producing matched glycaemia, this gut-derived hormonal response increases insulin output.",
+      "notes": {
+        "A": "Reduced glucose delivery would not explain an amplified insulin response; intestinal incretin release adds a distinct signal beyond circulating glucose concentration.",
+        "B": "Adrenal catecholamine release is not the primary route-specific amplifier of insulin secretion and alpha-adrenergic signalling can inhibit beta-cell activity.",
+        "C": "Reduced glucose entry into beta cells would tend to weaken metabolic stimulation, rather than account for the greater insulin response after oral glucose.",
+        "D": "Renal glucose retention influences circulating glucose balance but does not explain the hormonal amplification generated by nutrient exposure in the intestine."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Insulin secretion",
       "difficulty": "medium"
@@ -3420,7 +3450,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Alpha-2 sympathetic signalling suppresses beta-cell insulin secretion.",
+      "why": "Alpha-2 adrenergic receptor activation inhibits beta-cell insulin secretion through Gi-dependent signalling and other inhibitory effects on exocytosis. During sympathetic stress, this response helps preserve circulating glucose for tissues with increased metabolic demand.",
+      "notes": {
+        "B": "Beta-2 adrenergic receptor activation can stimulate insulin release, whereas alpha-2 signalling is the predominant direct inhibitory sympathetic influence.",
+        "C": "Muscarinic M3 receptors mediate cholinergic enhancement of beta-cell secretion, particularly during parasympathetic responses associated with feeding.",
+        "D": "GLP-1 receptors increase cAMP-dependent amplification of glucose-stimulated insulin secretion, rather than mediating the characteristic acute sympathetic inhibition.",
+        "E": "GIP receptors are incretin receptors that enhance glucose-dependent insulin release, not the adrenergic receptors responsible for acute sympathetic suppression."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Insulin secretion",
       "difficulty": "easy"
@@ -3452,7 +3488,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Hepatic and renal uptake account for much insulin degradation.",
+      "why": "Circulating insulin has a short half-life because it is rapidly cleared, particularly through hepatic receptor-mediated uptake and degradation. The kidneys also remove and metabolise substantial amounts of insulin, especially insulin entering the systemic circulation.",
+      "notes": {
+        "A": "The heart and lungs can take up circulating insulin, but they are not the principal organs responsible for its rapid systemic clearance.",
+        "C": "Brain and skeletal muscle respond to insulin and can participate in its uptake, but hepatic and renal degradation account for major clearance pathways.",
+        "D": "Thyroid and bone tissues have endocrine and metabolic functions, rather than being the main organs responsible for insulin degradation.",
+        "E": "The intestine and spleen participate in metabolic and immune functions, but neither is a predominant site of circulating insulin clearance."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Insulin metabolism",
       "difficulty": "medium"
@@ -3484,7 +3526,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Insulin translocates GLUT4 in skeletal muscle and adipose tissue.",
+      "why": "In skeletal muscle, insulin receptor signalling through PI3K and Akt promotes movement of GLUT4-containing vesicles to the cell surface. Increased membrane GLUT4 facilitates glucose uptake; adipose tissue uses a similar insulin-responsive transport mechanism.",
+      "notes": {
+        "A": "Most brain glucose uptake uses transporters such as GLUT1 and GLUT3 and is relatively independent of insulin-stimulated GLUT4 recruitment.",
+        "B": "Erythrocytes principally use GLUT1 for glucose uptake, rather than relying on insulin-induced translocation of intracellular GLUT4-containing vesicles.",
+        "D": "Hepatocytes mainly use GLUT2 for bidirectional glucose transport; insulin regulates hepatic metabolism rather than glucose entry through predominant GLUT4 recruitment.",
+        "E": "Intestinal absorptive cells use SGLT1 and GLUT transporters for nutrient absorption, rather than relying chiefly on insulin-dependent GLUT4 translocation."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Insulin action",
       "difficulty": "medium"
@@ -3516,7 +3564,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Insulin suppresses glucose production and promotes glycogen synthesis.",
+      "why": "After carbohydrate ingestion, insulin suppresses hepatic gluconeogenesis by reducing expression and activity of glucose-producing pathways while promoting glycogen synthesis. These coordinated responses decrease hepatic glucose output and help dispose of absorbed glucose.",
+      "notes": {
+        "A": "Hepatic glycogenolysis is stimulated during fasting by glucagon and other counter-regulatory signals, whereas postprandial insulin generally suppresses glycogen breakdown.",
+        "B": "Increased hepatic glucose release would oppose insulin-mediated reduction of blood glucose, which includes inhibition of hepatic glucose production.",
+        "C": "Insulin restrains adipose lipolysis and hepatic ketogenesis, rather than increasing the formation of ketone bodies after a carbohydrate-rich meal.",
+        "E": "Insulin activates pathways supporting hepatic glycogen synthesis, so reduced glycogen storage is not the characteristic fed-state response."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Insulin action",
       "difficulty": "easy"
@@ -3548,7 +3602,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Insulin promotes amino acid uptake and protein anabolism.",
+      "why": "Insulin promotes net protein anabolism by enhancing amino acid uptake in responsive tissues, stimulating translational pathways and suppressing protein breakdown. Together these effects favour maintenance and accumulation of tissue protein, particularly when amino acids are available.",
+      "notes": {
+        "A": "Increased net protein breakdown is more characteristic of insulin deficiency or catabolic stress, rather than the anabolic response to insulin.",
+        "B": "Insulin favours amino acid utilisation for protein synthesis and inhibits proteolysis, rather than generally increasing amino acid release from muscle.",
+        "C": "Insulin facilitates uptake of several amino acids and supports their incorporation into proteins, rather than universally blocking their entry into cells.",
+        "D": "Muscle proteolysis releases amino acids during catabolic states, whereas insulin normally acts to reduce protein degradation and promote net protein retention."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Insulin action",
       "difficulty": "easy"
@@ -3580,7 +3640,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Insulin suppresses hormone-sensitive lipase and enhances lipid storage.",
+      "why": "Postprandial insulin inhibits adipose intracellular lipolysis by suppressing cAMP-dependent activation of triglyceride-degrading enzymes, reducing fatty acid release into blood. It also favours fatty acid uptake and triglyceride storage in adipose tissue.",
+      "notes": {
+        "B": "Enhanced adipose lipolysis would release more non-esterified fatty acids into circulation, opposite to the usual effect of rising postprandial insulin.",
+        "C": "Insulin promotes triglyceride storage through increased glucose utilisation and lipid handling; reduced storage does not explain the normal fed-state decline in fatty acids.",
+        "D": "Insulin generally promotes adipose lipoprotein lipase activity in the fed state, helping store fatty acids delivered in circulating triglyceride-rich lipoproteins.",
+        "E": "Increased hormone-sensitive lipase activity would favour breakdown of stored lipid and increase fatty acid release, whereas insulin suppresses this lipolytic pathway."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Insulin action",
       "difficulty": "easy"
@@ -3612,7 +3678,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Insulin stimulates Na-K ATPase and shifts K into cells; glucose reduces hypoglycaemia risk.",
+      "why": "Insulin rapidly stimulates cellular potassium uptake, partly by increasing sodium–potassium ATPase activity, particularly in skeletal muscle. This temporarily lowers extracellular potassium without removing it from the body; accompanying glucose helps reduce the risk of hypoglycaemia.",
+      "notes": {
+        "A": "Renal potassium excretion removes potassium from the body but is not the immediate mechanism by which insulin lowers extracellular potassium.",
+        "C": "Intestinal potassium-binding treatments can increase gastrointestinal potassium elimination, whereas insulin acts rapidly through redistribution into body cells.",
+        "D": "Potassium movement out of skeletal muscle would increase extracellular potassium concentration, opposite to the desired intracellular redistribution produced by insulin.",
+        "E": "Insulin-mediated potassium uptake occurs in several tissues, particularly skeletal muscle, and is not restricted to erythrocytes."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Insulin action",
       "difficulty": "hard"
@@ -3644,7 +3716,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Exercise recruits GLUT4 through contraction-dependent pathways.",
+      "why": "Muscle contraction activates signalling pathways involving changes in cellular energy status, calcium and other contraction-associated signals. These promote GLUT4 recruitment to the sarcolemma independently of insulin signalling, enhancing glucose uptake during exercise.",
+      "notes": {
+        "A": "Suppressing muscle glucose transporters would limit glucose entry, whereas contraction-dependent recruitment of GLUT4 increases transport capacity at the cell surface.",
+        "B": "Exercise normally increases perfusion of active muscle, improving glucose delivery rather than relying on reduced capillary blood flow to enhance uptake.",
+        "D": "Contracting muscle can recruit GLUT4 independently of insulin receptor activation; complete loss of insulin receptors is not necessary for this mechanism.",
+        "E": "Renal glucose production may contribute to fuel availability during exercise, but it does not directly explain enhanced glucose entry into contracting skeletal muscle."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Insulin action",
       "difficulty": "medium"
@@ -3676,7 +3754,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Enhanced adipose lipolysis supplies fatty acids for hepatic beta-oxidation and ketogenesis.",
+      "why": "Insulin deficiency removes inhibition of adipose lipolysis, increasing delivery of non-esterified fatty acids to the liver. Hepatic beta-oxidation generates acetyl-CoA, which is increasingly directed into ketone-body synthesis when the hormonal state favours ketogenesis.",
+      "notes": {
+        "A": "Skeletal muscle glycogen primarily supplies local metabolism because muscle lacks appreciable glucose-6-phosphatase activity; it is not the main fuel delivered for hepatic ketogenesis.",
+        "B": "Lactate from erythrocytes can support hepatic gluconeogenesis, but fatty acids provide the predominant substrate for excess ketone production during insulin deficiency.",
+        "C": "Brain glycogen stores are limited and localised, rather than providing the principal circulating substrate driving hepatic ketogenesis in diabetes.",
+        "E": "Pancreatic protein breakdown is not the main substrate source; increased mobilisation of adipose triglyceride supplies fatty acids for hepatic ketone production."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Diabetes mellitus",
       "difficulty": "hard"
@@ -3708,7 +3792,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "When the reabsorptive threshold is exceeded, tubular glucose retains water.",
+      "why": "When plasma glucose rises sufficiently, filtered glucose delivery exceeds proximal tubular reabsorptive capacity. Glucose remaining in tubular fluid increases its osmotic load, limiting water reabsorption and causing polyuria with potential water and electrolyte depletion.",
+      "notes": {
+        "A": "Increased collecting-duct ADH action promotes water conservation and may occur compensatorily, rather than explaining glucose-driven loss of water in urine.",
+        "B": "Increased renal sodium uptake generally favours solute and water retention, whereas unreabsorbed luminal glucose promotes osmotic water loss.",
+        "C": "Marked hyperglycaemia increases filtered glucose delivery at a given GFR, rather than reducing the glucose load responsible for glycosuria.",
+        "D": "Increased collecting-duct water permeability promotes water reabsorption when an osmotic gradient exists; excess tubular glucose is the principal diuretic stimulus here."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Diabetes mellitus",
       "difficulty": "medium"
@@ -3740,7 +3830,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The respiratory centre drives hyperventilation to reduce CO2 during metabolic acidosis.",
+      "why": "Diabetic ketoacidosis increases circulating ketoacid production and consumes bicarbonate buffering capacity, causing metabolic acidaemia. Deep, often rapid Kussmaul ventilation reduces arterial carbon dioxide tension, partially compensating for the metabolic disturbance without eliminating its underlying cause.",
+      "notes": {
+        "B": "Primary respiratory alkalosis results from excessive ventilation itself, whereas Kussmaul breathing is a compensatory response to an existing metabolic acid load.",
+        "C": "Sodium disturbances may coexist with diabetic ketoacidosis, but isolated hypernatraemia does not explain the characteristic acid-driven respiratory compensation.",
+        "D": "Impaired oxygen diffusion can stimulate breathing through hypoxaemia, but the deep ventilation of ketoacidosis primarily responds to metabolic acidaemia.",
+        "E": "Pulmonary surfactant stabilises alveoli and supports ventilation mechanics; its elevation is unrelated to the principal chemical stimulus for Kussmaul breathing."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Diabetes mellitus",
       "difficulty": "medium"
@@ -3772,7 +3868,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Retinopathy is a classic microvascular complication, as are nephropathy and neuropathy.",
+      "why": "Diabetic retinopathy develops partly through chronic injury to retinal microvessels, including capillary leakage, closure and ischaemia. Advanced disease can stimulate pathological neovascularisation, making retinopathy a characteristic microvascular complication of longstanding diabetes.",
+      "notes": {
+        "A": "Coronary atherosclerosis affects larger arteries and is classified principally as a macrovascular complication rather than diabetic retinal microvascular injury.",
+        "C": "Acute ketosis results from insufficient effective insulin action and excessive hepatic ketone production, rather than chronic small-vessel structural disease.",
+        "D": "Dehydration can result from osmotic diuresis during hyperglycaemia, but it is an acute fluid-balance consequence rather than a specific microvascular complication.",
+        "E": "Catecholamine-related palpitations can accompany hypoglycaemia or stress and do not represent the characteristic chronic capillary pathology of diabetic retinopathy."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Diabetes mellitus",
       "difficulty": "easy"
@@ -3804,7 +3906,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Early type 2 diabetes often includes insulin resistance with compensatory hyperinsulinaemia.",
+      "why": "In early type 2 diabetes, insulin-responsive tissues show reduced biological responsiveness to insulin. Beta cells may compensate by secreting more insulin, but when this compensation cannot overcome resistance, glucose concentrations rise despite hyperinsulinaemia.",
+      "notes": {
+        "A": "Complete beta-cell destruction causes severe endogenous insulin deficiency, rather than the compensatory high insulin concentration typical of early insulin resistance.",
+        "B": "Glucagon may be inappropriately elevated in type 2 diabetes, but its complete absence is not the principal explanation for hyperglycaemia with hyperinsulinaemia.",
+        "D": "Abnormal insulin structure can cause rare disorders, but reduced tissue insulin sensitivity is the much more typical initial defect in this presentation.",
+        "E": "Hepatic glycogen stores influence glucose buffering, but their absence does not explain the characteristic combination of obesity, hyperglycaemia and compensatory hyperinsulinaemia."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Diabetes mellitus",
       "difficulty": "hard"
@@ -3836,7 +3944,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Severe hypoglycaemia causes adrenergic symptoms and neuroglycopenia.",
+      "why": "Excess insulin lowers circulating glucose by promoting uptake and suppressing hepatic glucose production. Inadequate glucose delivery to the brain causes neuroglycopenic confusion, while autonomic counter-regulatory activation contributes to sweating and other warning symptoms.",
+      "notes": {
+        "A": "Low ionised calcium can cause neuromuscular symptoms, but the classic metabolic consequence of excessive insulin in this presentation is hypoglycaemia.",
+        "B": "Oxygen delivery may be intact during insulin-induced hypoglycaemia; neuronal dysfunction results principally from inadequate availability of glucose as an energy substrate.",
+        "C": "Brain glycogen is limited and can provide some short-term buffering, but falling circulating glucose is the main cause of neuroglycopenia here.",
+        "E": "Circulating cholesterol supports lipid metabolism but is not the immediate metabolic fuel whose depletion causes acute insulin-associated confusion."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Diabetes mellitus",
       "difficulty": "medium"
@@ -3868,7 +3982,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Glucosuria causes osmotic water and electrolyte loss, reducing circulating volume.",
+      "why": "Severe hyperglycaemia can exceed renal glucose reabsorptive capacity, producing glycosuria and osmotic diuresis. Excess urinary water and electrolyte loss reduces effective circulating volume, potentially causing dehydration and hypotension when fluid replacement is insufficient.",
+      "notes": {
+        "A": "Vasopressin-mediated water conservation may increase during dehydration, but it is compensatory rather than the primary cause of hyperglycaemia-associated fluid loss.",
+        "B": "Aldosterone promotes sodium conservation in response to reduced circulating volume; it does not initiate the glucose-dependent osmotic diuresis.",
+        "C": "Filtered glucose delivery generally rises with hyperglycaemia at a given GFR, creating the excess tubular solute responsible for glycosuria.",
+        "D": "Hypercalcaemia can impair urinary concentration, but the specific link between uncontrolled diabetes and dehydration is unreabsorbed glucose-driven osmotic water loss."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Diabetes mellitus",
       "difficulty": "hard"
@@ -3900,7 +4020,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Glucagon increases hepatic glycogen breakdown and new glucose production.",
+      "why": "During fasting, glucagon activates hepatic Gs–cAMP signalling, promoting glycogen breakdown and stimulating gluconeogenic pathways. These mechanisms release glucose into blood and become particularly important as absorption of dietary carbohydrate declines and hepatic glycogen stores are depleted.",
+      "notes": {
+        "B": "Glycogen synthesis and fatty acid storage are characteristic insulin-dominant fed-state pathways rather than the glucose-raising hepatic actions of glucagon during fasting.",
+        "C": "Hepatic glycolysis consumes glucose, whereas glucagon generally favours glucose production and reduces selected glycolytic pathways during fasting.",
+        "D": "Storage of triglyceride is not the principal mechanism raising blood glucose under glucagon stimulation; hepatic glycogenolysis and gluconeogenesis provide glucose.",
+        "E": "Suppression of hepatic glucose output is a major insulin effect, whereas glucagon increases output to support circulating glucose during fasting."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Glucagon",
       "difficulty": "medium"
@@ -3932,7 +4058,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Glucose elevation and local beta-cell signals normally suppress glucagon.",
+      "why": "Rising glucose normally inhibits alpha-cell glucagon release through intrinsic glucose sensing and local islet signals, including insulin and somatostatin. This limits unnecessary hepatic glucose production after nutrient intake and helps prevent excessive postprandial hyperglycaemia.",
+      "notes": {
+        "A": "Falling glucose stimulates glucagon release as a counter-regulatory response, helping increase hepatic glucose production when circulating fuel becomes limited.",
+        "C": "Sympathetic activation during stress can stimulate glucagon release and promote glucose mobilisation rather than consistently suppressing its secretion.",
+        "D": "Overnight fasting reduces the availability of absorbed nutrients and generally supports glucagon-mediated maintenance of circulating glucose rather than inhibiting it.",
+        "E": "Exercise-associated hypoglycaemia activates counter-regulatory responses, including glucagon secretion, to help restore circulating glucose availability."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Glucagon",
       "difficulty": "easy"
@@ -3964,7 +4096,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Somatostatin inhibits somatotroph secretion, whereas GHRH stimulates it.",
+      "why": "Hypothalamic somatostatin reaches anterior pituitary somatotrophs through the hypophyseal portal circulation and inhibits growth hormone secretion through inhibitory receptor signalling. Its interaction with stimulatory GHRH contributes to the pulsatile regulation of circulating growth hormone.",
+      "notes": {
+        "A": "Growth hormone-releasing hormone stimulates somatotrophs to release growth hormone, providing the major hypothalamic stimulatory counterpart to somatostatin.",
+        "B": "Thyrotropin-releasing hormone principally stimulates pituitary TSH and can influence prolactin secretion, rather than serving as the principal direct GH inhibitor.",
+        "D": "Corticotropin-releasing hormone stimulates anterior pituitary ACTH secretion, regulating adrenal cortisol production rather than directly inhibiting normal somatotroph secretion.",
+        "E": "Gonadotropin-releasing hormone stimulates pituitary LH and FSH release, rather than providing the principal inhibitory signal controlling growth hormone."
+      },
       "topicId": "endo-general",
       "subtopic": "Hypothalamic regulation",
       "difficulty": "hard"
@@ -3996,7 +4134,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "V2-receptor signalling promotes apical aquaporin-2 insertion in collecting-duct principal cells.",
+      "why": "Vasopressin activates basolateral V2 receptors on collecting-duct principal cells, increasing cAMP and protein kinase A signalling. Aquaporin-2 is inserted into the apical membrane, increasing water permeability and allowing osmotic water reabsorption when a medullary gradient exists.",
+      "notes": {
+        "A": "Aquaporin-1 contributes to relatively constitutive water permeability in proximal tubules and descending thin limbs, rather than the regulated collecting-duct insertion mechanism.",
+        "B": "GLUT4 transports glucose in insulin-responsive tissues and does not provide the water-selective channel regulated by collecting-duct vasopressin signalling.",
+        "C": "ENaC mediates epithelial sodium uptake and is regulated strongly by aldosterone, whereas aquaporin-2 specifically increases apical water permeability.",
+        "E": "CFTR is an anion channel involved in epithelial chloride and bicarbonate transport, rather than the vasopressin-regulated collecting-duct water channel."
+      },
       "topicId": "endo-general",
       "subtopic": "ADH mechanism",
       "difficulty": "hard"
@@ -4028,7 +4172,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Low GH or IGF-1 during childhood reduces linear skeletal growth.",
+      "why": "Growth hormone deficiency during childhood reduces direct and IGF-1-mediated stimulation of growth-plate cartilage and skeletal development. Before epiphyseal fusion, impaired chondrocyte activity reduces linear growth velocity, potentially causing proportionate short stature.",
+      "notes": {
+        "A": "Increased jaw prominence is associated with growth hormone excess and acromegalic tissue enlargement, rather than childhood growth hormone deficiency.",
+        "B": "Premature muscle hypertrophy is not the characteristic consequence of insufficient growth hormone, which may also reduce lean tissue accumulation.",
+        "C": "Accelerated longitudinal bone growth requires effective growth-promoting signals; deficiency of growth hormone instead reduces growth-plate activity and growth velocity.",
+        "D": "Growth hormone and IGF-1 normally stimulate growth-plate cartilage activity, so their deficiency reduces rather than increases chondrocyte proliferation."
+      },
       "topicId": "endo-general",
       "subtopic": "Growth hormone disorders",
       "difficulty": "medium"
@@ -4060,7 +4210,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Posterior pituitary hormones are released from hypothalamic axon terminals.",
+      "why": "Oxytocin is synthesised in hypothalamic magnocellular neurons and transported through their axons to the neurohypophysis. Action potentials trigger its release into systemic blood from nerve terminals, bypassing the hypophyseal portal route regulating anterior pituitary cells.",
+      "notes": {
+        "B": "ACTH is synthesised by anterior pituitary corticotrophs responding to hypothalamic CRH delivered predominantly through the hypophyseal portal circulation.",
+        "C": "TSH originates from anterior pituitary thyrotrophs regulated by portal TRH, rather than being transported along hypothalamic axons to posterior pituitary terminals.",
+        "D": "FSH is secreted by anterior pituitary gonadotrophs under GnRH and gonadal feedback control, not released from neurohypophyseal nerve endings.",
+        "E": "LH secretion depends on pulsatile GnRH delivery to anterior pituitary gonadotrophs through portal blood, unlike oxytocin release from hypothalamic axons."
+      },
       "topicId": "endo-general",
       "subtopic": "Pituitary control",
       "difficulty": "medium"
@@ -4092,7 +4248,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Low thyroid hormone reduces negative feedback and raises TSH-driven follicular growth.",
+      "why": "Severe iodine deficiency limits synthesis of thyroid hormones, potentially reducing their negative feedback on the hypothalamus and pituitary. Sustained TSH stimulation promotes follicular hypertrophy and hyperplasia, contributing to development of an iodine-deficiency goitre.",
+      "notes": {
+        "A": "Persistent TSH suppression would reduce trophic stimulation of thyroid follicular cells rather than explain compensatory enlargement during inadequate hormone production.",
+        "C": "Reduced follicular growth activity would oppose goitre formation, whereas prolonged trophic stimulation can increase follicular cell size and number.",
+        "D": "Peripheral T3 generation may adapt to iodine availability, but it does not directly explain thyroid enlargement through sustained follicular trophic stimulation.",
+        "E": "Calcitonin is produced by parafollicular cells and is not the principal hormone driving compensatory follicular growth during iodine deficiency."
+      },
       "topicId": "endo-thyroid",
       "subtopic": "Thyroid synthesis",
       "difficulty": "hard"
@@ -4124,7 +4286,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Thyroglobulin provides tyrosyl residues for iodination and coupling.",
+      "why": "Thyroid follicular cells synthesise thyroglobulin and secrete it across their apical surface into colloid. Tyrosine residues within this protein undergo iodination and coupling, allowing formation and extracellular storage of thyroid hormone precursors.",
+      "notes": {
+        "A": "Thyroxine-binding globulin is a circulating transport protein produced mainly by the liver, rather than the follicular colloid scaffold for hormone synthesis.",
+        "B": "Transthyretin binds thyroid hormone in extracellular fluids but does not provide the iodinated tyrosine residues used to synthesise T3 and T4.",
+        "D": "Iodothyronine deiodinases remove iodine from thyroid hormones, rather than serving as the secreted protein scaffold for iodination and coupling.",
+        "E": "Calcitonin derives from a separate peptide precursor in parafollicular cells and does not form the follicular thyroglobulin scaffold."
+      },
       "topicId": "endo-thyroid",
       "subtopic": "Thyroid synthesis",
       "difficulty": "easy"
@@ -4156,7 +4324,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "TSH receptor signalling is mainly Gs-coupled and activates cyclic AMP pathways.",
+      "why": "The thyroid-stimulating hormone receptor principally couples to Gs proteins, activating adenylyl cyclase and increasing intracellular cAMP. Protein kinase A-dependent signalling supports thyroid hormone synthesis, secretion and follicular growth, although additional pathways can also be activated.",
+      "notes": {
+        "A": "Cyclic GMP mediates signalling from nitric oxide and natriuretic peptide receptors, rather than the predominant second-messenger pathway of the TSH receptor.",
+        "B": "The TSH receptor can activate phospholipase C-related pathways, but inositol trisphosphate alone does not represent its principal Gs-dependent second messenger.",
+        "C": "Calcium–calmodulin participates in many cellular responses, but TSH receptor signalling is not mediated solely by this calcium-binding regulatory system.",
+        "E": "Nitric oxide commonly signals through soluble guanylyl cyclase, rather than being the principal intracellular messenger generated by Gs-coupled TSH receptor activation."
+      },
       "topicId": "endo-thyroid",
       "subtopic": "Thyroid control",
       "difficulty": "hard"
@@ -4220,7 +4394,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Thyroid hormone increases intestinal carbohydrate absorption and supports gluconeogenesis.",
+      "why": "Thyroid hormone increases metabolic activity and can enhance intestinal glucose absorption, supporting carbohydrate availability alongside changes in hepatic glucose metabolism. Excess hormone may accelerate intestinal transit and glucose turnover, while the precise response depends on physiological state.",
+      "notes": {
+        "B": "Reduced glucose absorption is not the conventional metabolic effect of thyroid hormone, which can enhance intestinal carbohydrate handling and systemic glucose availability.",
+        "C": "Thyroid hormone excess commonly increases gastrointestinal motility rather than abolishing it, and complete motility inhibition would impede normal nutrient handling.",
+        "D": "Thyroid hormone generally increases metabolic activity in responsive tissues, rather than reducing enterocyte metabolism as the main mechanism supporting carbohydrate availability.",
+        "E": "Suppressing absorptive transport would tend to limit glucose entry from the intestine, rather than promote the carbohydrate availability described in the stem."
+      },
       "topicId": "endo-thyroid",
       "subtopic": "Thyroid metabolism",
       "difficulty": "medium"
@@ -4284,7 +4464,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Osteoblasts express bone alkaline phosphatase during osteoid mineralization.",
+      "why": "Active osteoblasts express tissue-nonspecific alkaline phosphatase on their surfaces and matrix vesicles. The enzyme hydrolyses mineralisation-inhibiting pyrophosphate and supports local phosphate availability, facilitating deposition of hydroxyapatite within newly formed osteoid.",
+      "notes": {
+        "A": "Osteoclasts resorb mineralised bone and characteristically express tartrate-resistant acid phosphatase, rather than being the principal source of bone-forming alkaline phosphatase.",
+        "B": "Resident macrophages participate in immune surveillance and tissue clearance; bone-specific alkaline phosphatase activity principally reflects osteoblast-associated mineralisation.",
+        "D": "Mature erythrocytes lack nuclei and do not participate in secretion or mineralisation of bone matrix, unlike metabolically active osteoblasts.",
+        "E": "Synovial fibroblasts maintain components of joint connective tissue, rather than serving as the principal cells expressing bone alkaline phosphatase during osteoid mineralisation."
+      },
       "topicId": "endo-calcium",
       "subtopic": "Bone physiology",
       "difficulty": "medium"
@@ -4316,7 +4502,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "UVB drives the skin reaction that forms previtamin D3 from 7-dehydrocholesterol.",
+      "why": "Ultraviolet B radiation converts 7-dehydrocholesterol in skin into previtamin D3 through a photochemical reaction. Thermal rearrangement then produces cholecalciferol, which undergoes subsequent hepatic and renal hydroxylation to generate active calcitriol.",
+      "notes": {
+        "A": "The liver mainly converts vitamin D to 25-hydroxyvitamin D; conversion of calcidiol to calcitriol occurs chiefly in the kidney.",
+        "B": "Renal activation proceeds from calcidiol to calcitriol through 1-alpha-hydroxylation, rather than reversing the pathway under ultraviolet light exposure.",
+        "C": "Calcitonin is a peptide hormone secreted by thyroid parafollicular cells and is not synthesised from vitamin D in the intestine.",
+        "E": "Calcium and phosphate are distinct minerals incorporated into bone; ultraviolet radiation does not convert one element into the other."
+      },
       "topicId": "endo-calcium",
       "subtopic": "Vitamin D metabolism",
       "difficulty": "easy"
@@ -4348,7 +4540,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The liver generates 25-hydroxyvitamin D, the major circulating storage marker.",
+      "why": "Hepatic vitamin D 25-hydroxylases convert cholecalciferol and related vitamin D forms into 25-hydroxyvitamin D, or calcidiol. Its relatively long-lived circulating pool makes it the usual biochemical marker used to assess vitamin D status.",
+      "notes": {
+        "A": "Calcitriol is formed mainly by renal 1-alpha-hydroxylation of calcidiol, rather than by the initial hepatic 25-hydroxylation step.",
+        "B": "Parathyroid hormone is a peptide synthesised in parathyroid chief cells and regulates vitamin D activation rather than deriving from hepatic vitamin D metabolism.",
+        "C": "Calcitonin is produced by thyroid parafollicular cells through peptide precursor processing, not by hydroxylation of a vitamin D molecule.",
+        "D": "Cholecalciferol forms in skin following UVB exposure or comes from dietary sources; hepatic 25-hydroxylation converts it into calcidiol."
+      },
       "topicId": "endo-calcium",
       "subtopic": "Vitamin D metabolism",
       "difficulty": "easy"
@@ -4380,7 +4578,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Glucocorticoids suppress immune activation and inflammatory mediator production.",
+      "why": "Glucocorticoid excess suppresses immune-cell activation, cytokine production and inflammatory trafficking, impairing effective host defence. Circulating neutrophil counts may nevertheless rise through demargination and altered cellular movement, so leukocytosis does not necessarily indicate enhanced immune function.",
+      "notes": {
+        "B": "Enhanced cellular immune responsiveness would favour infection defence, whereas prolonged glucocorticoid excess suppresses several important immune-cell functions.",
+        "C": "Increased antibody affinity maturation is not the characteristic explanation for glucocorticoid-related infection risk, which reflects broad suppression of immune and inflammatory responses.",
+        "D": "Glucocorticoids generally reduce macrophage inflammatory cytokine production rather than enhance it, contributing to impaired coordinated host responses.",
+        "E": "Glucocorticoids reduce inflammatory leukocyte recruitment into tissues, even when circulating neutrophils increase, rather than promoting effective inflammatory cell migration."
+      },
       "topicId": "endo-adrenal",
       "subtopic": "Cortisol effects",
       "difficulty": "medium"
@@ -4412,7 +4616,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Aldosterone deficiency reduces distal potassium and hydrogen ion secretion.",
+      "why": "Aldosterone deficiency reduces distal sodium reabsorption and potassium and acid excretion. Associated hyperkalaemia can also suppress renal ammonium production and excretion, contributing to the hyperkalaemic normal-anion-gap metabolic acidosis associated with impaired mineralocorticoid action.",
+      "notes": {
+        "A": "Increased aldosterone-mediated potassium and hydrogen secretion would tend to cause hypokalaemia and alkalosis, opposite to the described adrenal failure pattern.",
+        "C": "Enhanced distal hydrogen ion loss would reduce acid retention, whereas mineralocorticoid deficiency can impair renal net acid excretion.",
+        "D": "Primary aldosterone deficiency reduces distal sodium conservation rather than increasing it; reduced sodium transport also contributes to impaired potassium handling.",
+        "E": "Enhanced renal potassium clearance would oppose hyperkalaemia, whereas reduced mineralocorticoid action decreases the capacity for regulated distal potassium secretion."
+      },
       "topicId": "endo-adrenal",
       "subtopic": "Adrenal disorders",
       "difficulty": "hard"
@@ -4444,7 +4654,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Hypoglycaemia activates the sympathetic-adrenal medullary response.",
+      "why": "Severe hypoglycaemia activates glucose-sensing and central counter-regulatory pathways, increasing sympathetic activity and adrenal medullary catecholamine secretion. Adrenaline promotes glucose mobilisation and produces autonomic warning symptoms, helping counteract the falling circulating glucose concentration.",
+      "notes": {
+        "A": "Mild postprandial fullness predominantly engages digestive and satiety pathways rather than the strong sympathoadrenal counter-regulatory response to severe hypoglycaemia.",
+        "B": "Longer sleep duration does not specifically signal an acute metabolic emergency requiring substantial adrenal catecholamine secretion.",
+        "D": "Reduced arousal during ordinary rest generally decreases sympathetic activation, rather than producing the acute stress response described.",
+        "E": "A mild rise in plasma sodium chiefly influences osmoregulatory pathways, rather than being a characteristic strong stimulus for adrenal medullary catecholamine release."
+      },
       "topicId": "endo-adrenal",
       "subtopic": "Adrenal medulla",
       "difficulty": "easy"
@@ -4508,7 +4724,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Type 1 diabetes involves severe beta-cell loss and absolute insulin deficiency.",
+      "why": "Type 1 diabetes usually results from immune-mediated destruction of pancreatic beta cells, progressively reducing endogenous insulin secretion to severely deficient levels. Loss of insulin action causes hyperglycaemia and increases susceptibility to excessive lipolysis and ketogenesis.",
+      "notes": {
+        "A": "Insulin resistance with compensatory hyperinsulinaemia is more typical of early type 2 diabetes, rather than the predominant beta-cell failure of type 1 diabetes.",
+        "B": "Pancreatic alpha cells produce glucagon, not the principal endogenous insulin supply, which originates from beta cells.",
+        "C": "Persistent insulin hypersecretion would oppose hyperglycaemia, whereas destruction of pancreatic beta cells reduces endogenous insulin production in type 1 diabetes.",
+        "D": "Excess GLUT4 recruitment with normal insulin secretion would facilitate glucose disposal, rather than explain the characteristic hormone deficit of type 1 diabetes."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Diabetes mechanisms",
       "difficulty": "medium"
@@ -4540,7 +4762,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Alpha cells secrete glucagon, while beta cells release insulin.",
+      "why": "Pancreatic alpha cells synthesise glucagon by tissue-specific processing of proglucagon. Released during fasting and other counter-regulatory states, glucagon acts predominantly on the liver to increase glucose output and support circulating fuel availability.",
+      "notes": {
+        "B": "Beta cells produce insulin and amylin, supporting nutrient storage and regulation of postprandial glucose rather than serving as the principal source of glucagon.",
+        "C": "Delta cells produce somatostatin, which inhibits neighbouring islet hormone secretion rather than providing the main circulating glucagon supply.",
+        "D": "Pancreatic PP cells secrete pancreatic polypeptide, which participates in gastrointestinal regulation rather than producing glucagon as their characteristic hormone.",
+        "E": "Pancreatic duct cells mainly secrete bicarbonate-rich fluid into the exocrine duct system, rather than producing the principal islet glucagon response."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Pancreatic islets",
       "difficulty": "medium"
