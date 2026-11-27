@@ -2476,7 +2476,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Reduced flow lets vasodilator metabolites accumulate, dilating vessels and restoring flow.",
+      "why": "Reduced local perfusion decreases the removal of vasodilator metabolites and may reduce oxygen delivery. The resulting arteriolar relaxation lowers resistance and helps restore tissue blood flow through metabolic autoregulation.",
+      "notes": {
+        "B": "Metabolite washout increases when perfusion rises, reducing local vasodilator concentrations and favouring restoration of vascular resistance.",
+        "C": "Myogenic contraction is a response to increased vascular wall stretch, whereas metabolic autoregulation responds to changes in local tissue chemistry.",
+        "D": "Serotonin can influence vascular tone through receptor-dependent effects, but its release is not the principal metabolic response to reduced tissue perfusion.",
+        "E": "Reflex bradycardia changes systemic cardiac output and is not the local mechanism through which an underperfused tissue dilates its arterioles."
+      },
       "topicId": "local-regulation",
       "subtopic": "Autoregulation",
       "difficulty": "medium"
@@ -2508,7 +2514,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Adenosine, CO2, H+, K+, lactate and low O2 dilate; serotonin, angiotensin and cold constrict.",
+      "why": "Adenosine accumulates during ATP breakdown when metabolic activity increases or oxygen supply becomes inadequate. It relaxes vascular smooth muscle in several systemic vascular beds, particularly the coronary circulation, helping match perfusion to demand.",
+      "notes": {
+        "A": "Vasopressin acts on vascular V1 receptors to promote vasoconstriction rather than serving as a typical local vasodilator metabolite.",
+        "C": "Serotonin has receptor-dependent vascular effects, including constriction in several vascular beds, rather than being the classic metabolic dilator associated with ATP breakdown.",
+        "D": "Angiotensin II activates vascular AT1 receptors and generally increases vascular resistance through smooth muscle contraction.",
+        "E": "Cold commonly promotes cutaneous vasoconstriction to conserve body heat; it is a thermal stimulus rather than a locally generated metabolic vasodilator."
+      },
       "topicId": "local-regulation",
       "subtopic": "Vasoactive factors",
       "difficulty": "medium"
@@ -2540,7 +2552,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "EDRF is nitric oxide, produced by endothelium to relax vascular smooth muscle.",
+      "why": "Nitric oxide is synthesised by endothelial nitric oxide synthase in response to stimuli including bradykinin and shear stress. It diffuses into vascular smooth muscle, activates soluble guanylyl cyclase and increases cGMP-dependent relaxation.",
+      "notes": {
+        "A": "Endothelin is an endothelial peptide that usually causes powerful vasoconstriction through smooth muscle endothelin A receptors, unlike the classic relaxing factor.",
+        "B": "Serotonin is a vasoactive monoamine with receptor-dependent effects; it is not the molecule originally identified as endothelium-derived relaxing factor.",
+        "D": "Histamine can stimulate endothelial nitric oxide production and promote vasodilatation, but it is not itself the classic endothelium-derived relaxing factor.",
+        "E": "Angiotensin II is a major renin–angiotensin system effector that usually causes vasoconstriction rather than mediating nitric oxide-dependent smooth muscle relaxation."
+      },
       "topicId": "local-regulation",
       "subtopic": "Vasoactive factors",
       "difficulty": "medium"
@@ -2572,7 +2590,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "By the myogenic theory, raised distending pressure stretches and reflexly contracts the smooth muscle.",
+      "why": "An increase in transmural pressure stretches vascular smooth muscle and activates intrinsic mechanosensitive signalling, including membrane depolarisation and calcium entry. The resulting contraction increases resistance and limits excessive blood flow.",
+      "notes": {
+        "A": "Reduced oxygen tension usually promotes metabolic vasodilatation in systemic tissues, rather than triggering the stretch-dependent myogenic response.",
+        "B": "Increased local temperature can influence vascular tone through thermal and metabolic mechanisms, but it is not the defining myogenic stimulus.",
+        "C": "Parasympathetic discharge can influence selected vascular beds through neural mechanisms; myogenic autoregulation is intrinsic to vascular smooth muscle.",
+        "E": "Accumulating vasodilator metabolites favour relaxation through metabolic autoregulation, rather than defining the contraction induced by increased wall stretch."
+      },
       "topicId": "local-regulation",
       "subtopic": "Autoregulation",
       "difficulty": "hard"
@@ -2604,7 +2628,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Laplace (P = T/r for a cylinder): a smaller radius means a higher pressure is tolerated for the same tension.",
+      "why": "For an ideal thin-walled cylindrical vessel, circumferential wall tension equals transmural pressure multiplied by radius. Rearranging gives pressure as tension divided by radius, so a smaller radius permits a higher pressure at the same tension.",
+      "notes": {
+        "A": "A larger radius requires greater circumferential tension to balance the same transmural pressure, rather than permitting higher pressure at fixed tension.",
+        "B": "An unchanged radius leaves the pressure–tension relationship unchanged when wall tension is fixed, so it does not increase the supported pressure.",
+        "C": "Wall thickness matters when converting wall tension into wall stress, but equality of radius and thickness is not required for the Laplace relationship.",
+        "D": "Maximum stretch generally increases vessel radius, which would reduce the pressure supported at a specified fixed circumferential wall tension."
+      },
       "topicId": "local-regulation",
       "subtopic": "Law of Laplace",
       "difficulty": "hard"
@@ -2636,7 +2666,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Pulse pressure = systolic minus diastolic pressure.",
+      "why": "Pulse pressure is systolic arterial pressure minus diastolic arterial pressure. It represents the amplitude of the arterial pressure oscillation and is influenced particularly by stroke volume and arterial compliance.",
+      "notes": {
+        "B": "The time-averaged arterial pressure over a cardiac cycle is mean arterial pressure, not the difference between its peak and trough.",
+        "C": "Adding a fraction of systolic pressure to diastolic pressure does not define pulse pressure; pulse pressure requires subtracting diastolic pressure from systolic pressure.",
+        "D": "Systolic pressure minus mean pressure measures only the pressure excursion above the mean, rather than the complete peak-to-trough difference.",
+        "E": "Adding systolic and diastolic pressures produces a sum, not the amplitude of the arterial pressure change during a heartbeat."
+      },
       "topicId": "blood-pressure",
       "subtopic": "Arterial pressure",
       "difficulty": "medium"
@@ -2668,7 +2704,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "MAP is approximated as diastolic + 1/3 (pulse pressure) because diastole lasts longer.",
+      "why": "At a normal resting heart rate, mean arterial pressure is approximated by diastolic pressure plus one-third of pulse pressure. The weighting reflects the longer time spent in diastole than systole; it changes at higher heart rates.",
+      "notes": {
+        "A": "Subtracting systolic pressure from twice diastolic pressure incorrectly reduces the estimate as systolic pressure rises at constant diastolic pressure.",
+        "C": "The simple arithmetic average gives equal weighting to systolic and diastolic pressures, overlooking the longer duration of diastole at rest.",
+        "D": "Systolic minus diastolic pressure defines pulse pressure, which measures pressure amplitude rather than the time-averaged arterial pressure.",
+        "E": "Adding the entire pulse pressure to diastolic pressure simply recovers systolic pressure, rather than estimating the mean over the cardiac cycle."
+      },
       "topicId": "blood-pressure",
       "subtopic": "Arterial pressure",
       "difficulty": "medium"
@@ -2700,7 +2742,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The elastic recoil of the aorta sustaining diastolic flow is the Windkessel effect.",
+      "why": "The Windkessel effect reflects the ability of elastic arteries to store part of ventricular stroke volume and elastic energy during systole. Their recoil during diastole maintains arterial pressure and forward flow despite intermittent ventricular ejection.",
+      "notes": {
+        "A": "The Valsalva manoeuvre alters intrathoracic pressure, venous return and reflex cardiovascular responses, rather than describing arterial elastic energy storage.",
+        "B": "The Anrep effect describes a delayed increase in myocardial contractile force after increased loading, not elastic recoil of the arterial tree.",
+        "D": "The Bernoulli principle relates pressure, velocity and elevation in fluid flow; it does not describe the arterial reservoir function during diastole.",
+        "E": "The Bainbridge reflex describes a heart-rate response to increased atrial stretch and venous return, not the maintenance of diastolic arterial pressure."
+      },
       "topicId": "blood-pressure",
       "subtopic": "Arterial pressure",
       "difficulty": "hard"
@@ -2732,7 +2780,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The first Korotkoff (tapping) sound marks systolic pressure; disappearance marks diastolic.",
+      "why": "As cuff pressure falls just below peak arterial pressure, blood begins passing intermittently through the compressed artery during systole. The first audible Korotkoff sounds therefore estimate systolic pressure during auscultatory measurement.",
+      "notes": {
+        "A": "Mean arterial pressure is the time-averaged arterial pressure; oscillometric devices estimate it from cuff oscillations rather than the first Korotkoff sound.",
+        "B": "Pulse pressure requires the difference between separately measured systolic and diastolic pressures, not the pressure at the first audible sound alone.",
+        "C": "Venous pressure is considerably lower than arterial systolic pressure and is not the quantity measured at the onset of Korotkoff sounds.",
+        "E": "Diastolic pressure is generally estimated at disappearance of Korotkoff sounds in adults, rather than at their first appearance."
+      },
       "topicId": "blood-pressure",
       "subtopic": "Measurement",
       "difficulty": "medium"
@@ -2764,7 +2818,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "A too-small cuff reads falsely high; a too-large cuff reads falsely low.",
+      "why": "An undersized blood pressure cuff requires excessive cuff pressure to compress the underlying brachial artery adequately. This commonly overestimates systolic and diastolic pressures, making correct cuff sizing important for accurate measurement.",
+      "notes": {
+        "A": "An excessively large cuff tends to underestimate blood pressure, whereas an undersized cuff generally produces the opposite error.",
+        "B": "Incorrect cuff size changes the relationship between applied cuff pressure and arterial compression, so the reading is not reliably unaffected.",
+        "C": "An undersized cuff commonly still produces measurable sounds or oscillations, but the recorded pressure is biased rather than necessarily absent.",
+        "D": "Although the size of the error varies among individuals, the characteristic direction of bias from an undersized cuff is upward."
+      },
       "topicId": "blood-pressure",
       "subtopic": "Measurement",
       "difficulty": "medium"
@@ -2796,7 +2856,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The cuff should be at heart level, or gravity distorts the reading.",
+      "why": "The upper-arm cuff should be supported at approximately right atrial level to minimise hydrostatic pressure error. A cuff below heart level tends to read too high, whereas one above heart level tends to read too low.",
+      "notes": {
+        "B": "Shoulder height is not the standard reference and may position the cuff above right atrial level, introducing a hydrostatic underestimate.",
+        "C": "Wrist height varies with limb position; even wrist-based measurements require the device to be held at heart level.",
+        "D": "Neck level is generally above the right atrium in an upright individual, so it is not the appropriate hydrostatic reference.",
+        "E": "Mid-thigh level is generally below the right atrium when seated or standing and would introduce a hydrostatic pressure difference."
+      },
       "topicId": "blood-pressure",
       "subtopic": "Measurement",
       "difficulty": "easy"
@@ -2828,7 +2894,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The vasomotor centre of the medulla oblongata is the principal controller of vascular tone and BP.",
+      "why": "Medullary cardiovascular networks integrate baroreceptor and other afferent signals and regulate sympathetic vasomotor activity. In particular, the nucleus tractus solitarius and ventrolateral medullary regions participate in controlling arteriolar resistance and arterial pressure.",
+      "notes": {
+        "A": "The cerebellum primarily coordinates movement and balance, although it can influence autonomic functions indirectly rather than serving as the main vasomotor centre.",
+        "C": "The cerebral cortex can modify cardiovascular responses during emotion and voluntary activity, but basic reflex integration occurs chiefly within the brainstem.",
+        "D": "The hypothalamus coordinates autonomic responses to temperature, stress and homeostatic demands, while the medulla provides major cardiovascular reflex integration.",
+        "E": "The spinal cord contains sympathetic preganglionic neurons that transmit vasomotor commands, but major baroreflex integration occurs in medullary circuits."
+      },
       "topicId": "neural-humoral",
       "subtopic": "Vasomotor centre",
       "difficulty": "medium"
@@ -2860,7 +2932,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "There is tonic sympathetic vasoconstrictor discharge; reducing it causes vasodilatation.",
+      "why": "Most systemic resistance vessels receive tonic sympathetic vasoconstrictor activity. Noradrenaline released from postganglionic fibres activates vascular alpha-adrenergic receptors, allowing changes in sympathetic discharge to increase or decrease basal vascular tone.",
+      "notes": {
+        "A": "Somatic motor fibres activate skeletal muscle at neuromuscular junctions rather than supplying the usual tonic constrictor input to vascular smooth muscle.",
+        "B": "Sensory afferents carry information towards the central nervous system and are not the principal efferent fibres maintaining systemic vascular tone.",
+        "D": "Parasympathetic vasodilator innervation is limited to selected tissues and does not supply the widespread tonic constrictor activity of systemic resistance vessels.",
+        "E": "Sympathetic vasodilator mechanisms exist in selected contexts, but widespread basal neurogenic vascular tone is predominantly maintained by sympathetic vasoconstrictor fibres."
+      },
       "topicId": "neural-humoral",
       "subtopic": "Neural control",
       "difficulty": "medium"
@@ -2924,7 +3002,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Sympathetic activity increases both heart rate (chronotropy) and strength of contraction (inotropy).",
+      "why": "Sympathetic noradrenaline stimulates cardiac beta-1 receptors, increasing cAMP-dependent pacemaker activity and calcium handling. This increases both heart rate through positive chronotropy and myocardial contractility through positive inotropy.",
+      "notes": {
+        "A": "A reduction in rate is characteristic of vagal stimulation, whereas cardiac sympathetic activation normally accelerates sinoatrial firing and increases contraction strength.",
+        "B": "Sympathetic stimulation increases calcium-dependent myocardial force alongside heart rate, rather than producing the combination of tachycardia and reduced contractility.",
+        "C": "Increased contractile force is consistent with sympathetic stimulation, but sinoatrial firing normally accelerates rather than slowing during direct beta-1 activation.",
+        "D": "Cardiac sympathetic input modifies both pacemaker activity and contractile performance, so it does not normally leave both variables unchanged."
+      },
       "topicId": "neural-humoral",
       "subtopic": "Neural control",
       "difficulty": "easy"
@@ -2956,7 +3040,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Tonic vagal tone keeps resting rate below the intrinsic SA rate; vagotomy or atropine raises the rate.",
+      "why": "At rest, tonic parasympathetic activity releases acetylcholine onto sinoatrial M2 receptors and slows spontaneous pacemaker depolarisation. This keeps resting heart rate below the intrinsic sinoatrial rate, which becomes more apparent after autonomic blockade.",
+      "notes": {
+        "B": "Tonic sympathetic discharge accelerates sinoatrial firing through beta-1 receptors and therefore opposes, rather than explains, the resting vagal slowing.",
+        "C": "Circulating adrenaline generally stimulates cardiac beta-adrenergic receptors and increases heart rate, rather than maintaining the resting rate below intrinsic pacemaker frequency.",
+        "D": "The intrinsic sinoatrial rate is generally higher than the usual resting heart rate because autonomic activity, especially vagal tone, modifies it.",
+        "E": "Atrial stretch can increase heart rate through the Bainbridge reflex, but it is not the predominant mechanism restraining resting sinoatrial firing."
+      },
       "topicId": "neural-humoral",
       "subtopic": "Neural control",
       "difficulty": "medium"
@@ -2988,7 +3078,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "ANP is a vasodilator (and promotes sodium/water loss).",
+      "why": "Atrial natriuretic peptide is released in response to atrial stretch and activates natriuretic peptide receptor A, increasing intracellular cGMP. It promotes vascular relaxation and renal sodium excretion, helping reduce circulatory volume and pressure.",
+      "notes": {
+        "A": "Venoconstriction mobilises stored venous blood towards the heart, whereas atrial natriuretic peptide generally favours reduced vascular tone and volume.",
+        "C": "Vasoconstriction increases vascular resistance, while atrial natriuretic peptide typically activates cGMP-mediated smooth muscle relaxation and opposes pressor systems.",
+        "D": "Increased myocardial contractility is chiefly associated with positive inotropic signalling, not the primary vascular action of atrial natriuretic peptide.",
+        "E": "Tachycardia may result from autonomic reflexes, but atrial natriuretic peptide primarily promotes vasodilatation and natriuresis rather than directly accelerating pacemaker firing."
+      },
       "topicId": "neural-humoral",
       "subtopic": "Humoral control",
       "difficulty": "medium"
@@ -3020,7 +3116,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "High-pressure baroreceptors lie in the carotid sinus and the aortic arch.",
+      "why": "High-pressure arterial baroreceptors are stretch-sensitive endings located principally in the carotid sinuses and aortic arch. They detect changes in arterial wall distension and send afferent signals to medullary cardiovascular centres.",
+      "notes": {
+        "A": "The right atrium contains cardiopulmonary receptors responsive to filling and stretch, rather than the principal high-pressure systemic arterial baroreceptors.",
+        "B": "Receptors near the caval–atrial junction can monitor venous filling, but the superior vena cava is not a principal high-pressure arterial baroreceptor site.",
+        "D": "The pulmonary circulation contains cardiopulmonary sensory receptors, but the classic systemic arterial baroreflex arises chiefly from carotid sinus and aortic arch receptors.",
+        "E": "The coronary sinus drains myocardial venous blood into the right atrium and is not a principal high-pressure arterial baroreceptor location."
+      },
       "topicId": "reflexes",
       "subtopic": "Baroreceptor reflex",
       "difficulty": "medium"
@@ -3052,7 +3154,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Carotid sinus afferents run in the carotid sinus nerve, a branch of the glossopharyngeal; aortic afferents run in the vagus.",
+      "why": "Carotid sinus stretch signals travel through the carotid sinus nerve, also called Hering's nerve, which joins the glossopharyngeal nerve. These afferents terminate in the medullary nucleus tractus solitarius.",
+      "notes": {
+        "A": "The phrenic nerve supplies the diaphragm and carries associated sensory signals; it does not transmit carotid sinus baroreceptor afferents.",
+        "B": "The trigeminal nerve carries facial sensation and supplies muscles of mastication, rather than providing the principal carotid sinus afferent pathway.",
+        "C": "The hypoglossal nerve supplies tongue musculature and is not the sensory pathway from carotid sinus baroreceptors.",
+        "E": "The vagus nerve carries aortic arch baroreceptor afferents and other visceral sensory signals, whereas carotid sinus afferents primarily travel through the glossopharyngeal nerve."
+      },
       "topicId": "reflexes",
       "subtopic": "Baroreceptor reflex",
       "difficulty": "hard"
@@ -3084,7 +3192,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Raised pressure increases baroreceptor firing, stimulating the vagus and inhibiting the vasomotor centre, so the heart slows and vessels dilate.",
+      "why": "Increased arterial pressure stretches baroreceptors and increases their afferent firing. Medullary integration enhances cardiac vagal activity and reduces sympathetic activity, slowing the heart and dilating resistance vessels to oppose the pressure rise.",
+      "notes": {
+        "A": "Tachycardia and vasoconstriction are compensatory responses to reduced arterial pressure, rather than the normal baroreflex response to a pressure rise.",
+        "B": "Increased arterial baroreceptor firing inhibits sympathetic vasomotor output, rather than increasing the sympathetic activity that would support a further pressure rise.",
+        "C": "Reduced heart rate and sympathetic cardiac stimulation tend to decrease cardiac output during this reflex, rather than actively increase it.",
+        "D": "Reduced sympathetic activity generally relaxes capacitance veins, whereas venoconstriction is more characteristic of compensation for falling arterial pressure."
+      },
       "topicId": "reflexes",
       "subtopic": "Baroreceptor reflex",
       "difficulty": "medium"
@@ -3116,7 +3230,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Reduced baroreceptor firing raises sympathetic output and reduces vagal tone, giving tachycardia and vasoconstriction.",
+      "why": "A fall in arterial pressure reduces carotid sinus and aortic arch stretch, decreasing baroreceptor firing. The resulting increase in sympathetic activity and withdrawal of vagal activity accelerate the heart and constrict vessels to support pressure.",
+      "notes": {
+        "B": "Bradycardia and vasodilatation are typical compensatory responses to raised arterial pressure and would worsen an existing pressure fall.",
+        "C": "Reduced baroreceptor firing disinhibits sympathetic vasomotor pathways, increasing rather than reducing sympathetic output during an acute pressure fall.",
+        "D": "Slowing the heart would tend to reduce cardiac output; vagal withdrawal normally accelerates sinoatrial firing during baroreflex compensation for hypotension.",
+        "E": "Sympathetic arteriolar constriction raises peripheral resistance during compensation, rather than producing a further fall in vascular resistance."
+      },
       "topicId": "reflexes",
       "subtopic": "Baroreceptor reflex",
       "difficulty": "medium"
@@ -3148,7 +3268,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Raised intracranial pressure causes systemic hypertension, and the baroreceptors then produce reflex bradycardia.",
+      "why": "Markedly raised intracranial pressure can compromise cerebral perfusion, triggering a sympathetic pressor response that increases systemic arterial pressure. The arterial baroreflex then produces bradycardia; irregular respiration completes the classical Cushing triad.",
+      "notes": {
+        "A": "A significant Cushing response changes systemic arterial pressure and heart rate as the body attempts to maintain cerebral perfusion.",
+        "C": "Hypotension with tachycardia is more typical of compensation for reduced systemic circulating volume than the classical Cushing response to raised intracranial pressure.",
+        "D": "The sympathetic pressor response raises arterial pressure, but subsequent baroreceptor activation characteristically slows rather than accelerates the heart.",
+        "E": "Hypotension would further compromise cerebral perfusion, whereas the classic Cushing response includes a compensatory rise in systemic arterial pressure."
+      },
       "topicId": "reflexes",
       "subtopic": "Cushing reflex",
       "difficulty": "hard"
@@ -3212,7 +3338,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The pressure drop above heart level is detected by the carotid sinus and aortic arch baroreceptors, triggering compensation.",
+      "why": "Standing promotes dependent venous pooling and transiently reduces ventricular filling, stroke volume and arterial pressure. Carotid sinus and aortic arch baroreceptors detect the reduction in arterial stretch and initiate rapid compensatory cardiovascular responses.",
+      "notes": {
+        "A": "Pulmonary stretch receptors chiefly monitor lung inflation and participate in respiratory reflexes, rather than directly sensing systemic arterial pressure.",
+        "B": "Peripheral chemoreceptors respond primarily to arterial oxygen, carbon dioxide and hydrogen ion changes, whereas baroreceptors detect arterial wall stretch.",
+        "C": "Joint proprioceptors provide information about limb position and movement, rather than directly monitoring the acute reduction in systemic arterial pressure.",
+        "E": "Atrial low-pressure receptors detect changes in central blood volume and contribute to cardiovascular regulation, but arterial pressure is directly sensed by arterial baroreceptors."
+      },
       "topicId": "gravity",
       "subtopic": "Effects of gravity",
       "difficulty": "medium"
@@ -3244,7 +3376,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "When sympathetic vasoconstriction fails (e.g. autonomic neuropathy, sympatholytic drugs), standing causes a fall in BP.",
+      "why": "Normal standing evokes sympathetic arteriolar and venous constriction that limits pooling and supports arterial pressure. Impaired autonomic vasoconstriction can produce neurogenic orthostatic hypotension, although volume depletion and other non-neurogenic causes are also common.",
+      "notes": {
+        "A": "Parasympathetic withdrawal contributes to compensatory tachycardia, but the major vascular defect in neurogenic orthostatic hypotension involves inadequate sympathetic vasoconstriction.",
+        "B": "The respiratory pump assists venous return, but failure of this mechanism is not the characteristic autonomic abnormality in neurogenic orthostatic hypotension.",
+        "C": "Abnormal pacemaker activity can reduce cardiac output, but impaired sympathetic vascular compensation is the characteristic mechanism of neurogenic postural hypotension.",
+        "D": "Renal sodium handling influences circulating volume over longer periods, whereas rapid postural compensation relies strongly on sympathetic vascular responses."
+      },
       "topicId": "gravity",
       "subtopic": "Orthostatic hypotension",
       "difficulty": "medium"
@@ -3308,7 +3446,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The suit compresses the lower body, reducing venous pooling and improving venous return.",
+      "why": "A positive-acceleration pressure suit compresses the lower limbs and often the abdomen, limiting dependent venous pooling and helping maintain central blood volume. This supports arterial pressure and perfusion of the brain and eyes.",
+      "notes": {
+        "A": "Reducing intracranial pressure is not the primary action of a pressure suit, which chiefly limits acceleration-induced blood redistribution towards the lower body.",
+        "C": "Heart rate may change through compensatory reflexes, but the suit primarily acts mechanically on lower-body circulation rather than directly stimulating the sinoatrial node.",
+        "D": "Cerebral vasodilatation may assist local autoregulation, but the suit preserves perfusion mainly by limiting lower-body pooling and maintaining central arterial pressure.",
+        "E": "Increasing viscosity would raise resistance to blood flow, whereas a pressure suit works by mechanically compressing dependent vascular compartments."
+      },
       "topicId": "gravity",
       "subtopic": "Acceleration",
       "difficulty": "medium"
@@ -3340,7 +3484,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Shock is inadequate tissue perfusion for metabolic/nutritional needs, with a relative or absolute low output.",
+      "why": "Circulatory shock is acute circulatory failure in which tissue perfusion and oxygen delivery or utilisation become inadequate for metabolic requirements. It can result from volume loss, pump failure, obstruction or abnormal distribution of blood flow.",
+      "notes": {
+        "A": "Respiratory failure impairs gas exchange and may worsen tissue oxygen delivery, but does not by itself define acute circulatory failure.",
+        "B": "Loss of consciousness can arise from neurological, metabolic or circulatory causes and is neither necessary nor sufficient to diagnose shock.",
+        "D": "A sustained rise in arterial pressure defines hypertension, whereas shock concerns inadequate tissue perfusion and may occur even before hypotension develops.",
+        "E": "Bradycardia can contribute to reduced cardiac output, but shock also occurs with normal or elevated heart rates and has multiple circulatory mechanisms."
+      },
       "topicId": "shock",
       "subtopic": "Shock",
       "difficulty": "medium"
@@ -3372,7 +3522,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Loss of circulating volume (haemorrhage, burns, fluid loss) gives hypovolaemic shock.",
+      "why": "Haemorrhage reduces circulating blood volume, while burns and severe vomiting can cause substantial intravascular fluid depletion. Reduced venous return and preload lower stroke volume and cardiac output, producing hypovolaemic shock when compensation becomes inadequate.",
+      "notes": {
+        "A": "Distributive shock primarily involves abnormal vascular tone and blood-flow distribution, rather than the primary loss of circulating volume described here.",
+        "B": "Obstructive shock results from mechanical impairment of cardiac filling or blood flow, such as tamponade or massive pulmonary embolism.",
+        "C": "Neurogenic shock results from loss of sympathetic vascular tone, typically after significant spinal cord injury, rather than primary blood or fluid loss.",
+        "E": "Cardiogenic shock primarily results from inadequate myocardial pumping, whereas the listed conditions predominantly reduce the volume available to fill the heart."
+      },
       "topicId": "shock",
       "subtopic": "Shock",
       "difficulty": "medium"
@@ -3404,7 +3560,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "A physical obstruction to flow (tamponade, tension pneumothorax, pulmonary embolism) causes obstructive shock.",
+      "why": "Cardiac tamponade restricts diastolic filling through elevated pericardial pressure, whereas massive pulmonary embolism obstructs pulmonary blood flow and increases right ventricular load. Both mechanically impair effective cardiac output and can produce obstructive shock.",
+      "notes": {
+        "A": "Hypovolaemic shock results primarily from reduced circulating volume rather than a mechanical impediment to cardiac filling or pulmonary blood flow.",
+        "B": "Distributive shock principally involves abnormal vascular tone and maldistribution of perfusion, rather than the mechanical obstruction described by these conditions.",
+        "C": "Cardiogenic shock is primarily due to intrinsic cardiac pump dysfunction; tamponade and pulmonary embolism are conventionally classified as mechanical obstructive causes.",
+        "D": "Anaphylactic shock involves mediator-induced vasodilatation and vascular permeability, rather than direct compression of the heart or obstruction of pulmonary arterial flow."
+      },
       "topicId": "shock",
       "subtopic": "Shock",
       "difficulty": "medium"
@@ -3436,7 +3598,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Baroreceptor-driven sympathetic discharge constricts skin vessels, making the skin pale and cool.",
+      "why": "Acute volume loss decreases arterial baroreceptor firing and increases sympathetic vasoconstrictor activity. Constriction of cutaneous resistance vessels reduces skin perfusion, producing pallor and coolness while helping preserve arterial pressure and vital-organ perfusion.",
+      "notes": {
+        "B": "Cutaneous vasodilatation increases skin blood flow and may produce warm skin, rather than explaining the cool pallor typical of compensated hypovolaemia.",
+        "C": "Cardiac output generally falls as volume loss reduces preload; compensatory mechanisms may partially maintain output but do not directly explain cutaneous pallor.",
+        "D": "Loss of vasomotor tone would favour vasodilatation, whereas the characteristic early compensatory response to hypovolaemia is increased sympathetic vascular tone.",
+        "E": "Histamine promotes local vasodilatation and increased permeability, rather than mediating the baroreceptor-driven cutaneous vasoconstriction of early hypovolaemic shock."
+      },
       "topicId": "shock",
       "subtopic": "Shock",
       "difficulty": "medium"
@@ -3468,7 +3636,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Generalised vasoconstriction spares the coronary and cerebral circulations while diverting blood from skin, kidney and viscera.",
+      "why": "During compensated shock, sympathetic vasoconstriction redistributes blood away from several peripheral and splanchnic beds. Strong local metabolic and autoregulatory mechanisms help preserve myocardial and cerebral perfusion, although severe or prolonged shock eventually compromises these organs.",
+      "notes": {
+        "A": "Skeletal muscle flow may decrease through sympathetic vasoconstriction during resting compensated shock, allowing limited circulating flow to support more immediately vital organs.",
+        "C": "Cutaneous and renal perfusion commonly decrease during compensatory sympathetic activation; cool skin and reduced urine output may reflect this redistribution.",
+        "D": "Splanchnic and skeletal muscle vascular beds can undergo vasoconstriction during compensation, rather than receiving the principal preferential preservation of flow.",
+        "E": "Hepatic and splenic perfusion can decline during circulatory shock as sympathetic responses redistribute available blood towards critical cardiac and cerebral requirements."
+      },
       "topicId": "shock",
       "subtopic": "Shock",
       "difficulty": "medium"
@@ -3500,7 +3674,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Distributive shock has a normal volume but massive vasodilatation and pooling, so perfusion is inadequate.",
+      "why": "Distributive shock involves abnormally low vascular tone and maldistributed tissue perfusion. Widespread vasodilatation increases vascular capacity and reduces effective filling, while capillary leakage may additionally cause actual intravascular volume depletion in sepsis or anaphylaxis.",
+      "notes": {
+        "A": "Primary myocardial pump failure characterises cardiogenic shock, although myocardial dysfunction may coexist with distributive shock in severe sepsis.",
+        "B": "Acute haemorrhage primarily reduces circulating volume and causes hypovolaemic shock, rather than the characteristic widespread loss of vascular tone.",
+        "D": "Reduced intravascular volume can accompany distributive shock through capillary leakage, but vasodilatation and maldistribution are its distinguishing primary mechanisms.",
+        "E": "Mechanical obstruction to cardiac filling or outflow characterises obstructive shock rather than the vascular tone abnormality defining distributive shock."
+      },
       "topicId": "shock",
       "subtopic": "Shock",
       "difficulty": "medium"
@@ -3532,7 +3712,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Fainting follows abrupt vasodilatation and bradycardia after strong emotion, reducing cerebral blood flow.",
+      "why": "Vasovagal syncope results from reflex-mediated hypotension, often involving vasodilatation and inappropriate slowing of the heart. The transient reduction in global cerebral perfusion produces brief loss of consciousness with spontaneous recovery when perfusion returns.",
+      "notes": {
+        "A": "Cerebral haemorrhage causes neurological injury through bleeding and is not the reflex mechanism responsible for uncomplicated vasovagal syncope.",
+        "B": "Airway obstruction impairs ventilation and oxygenation, whereas vasovagal syncope primarily results from transient inadequate cerebral blood flow.",
+        "C": "Hypoglycaemia deprives the brain of glucose and may impair consciousness, but does not define the reflex circulatory mechanism of vasovagal syncope.",
+        "E": "A primary cardiac arrhythmia can cause cardiac syncope by reducing output, whereas vasovagal syncope arises from an abnormal autonomic reflex."
+      },
       "topicId": "shock",
       "subtopic": "Syncope",
       "difficulty": "medium"
@@ -3564,7 +3750,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Capillaries have a wall one endothelial cell thick, allowing exchange.",
+      "why": "A typical capillary wall consists of a single layer of endothelial cells supported by a basal lamina, with pericytes associated with some capillaries. The thin barrier facilitates exchange between blood and surrounding tissues.",
+      "notes": {
+        "A": "Smooth muscle surrounding endothelial cells characterises arterioles and some larger microvessels; typical capillaries do not possess a continuous smooth muscle coat.",
+        "B": "Three distinct tunicae characterise larger arteries and veins, whereas capillaries lack separate muscular and adventitial coats.",
+        "C": "Elastic laminae are structural features of larger arteries and are not present as distinct layers in a typical capillary wall.",
+        "D": "A thick collagenous coat would increase diffusion distance; typical capillaries instead possess a thin endothelial barrier with basal lamina support."
+      },
       "topicId": "microcirculation",
       "subtopic": "Capillaries",
       "difficulty": "easy"
@@ -3596,7 +3788,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Precapillary sphincters (smooth muscle, responding to local substances rather than nerves) regulate capillary flow.",
+      "why": "In the classical microcirculatory model, smooth muscle at precapillary entrances regulates the number of capillaries receiving blood. Local metabolic signals influence this resistance, although terminal arterioles also regulate capillary perfusion and discrete sphincters are not universal.",
+      "notes": {
+        "B": "Venous valves prevent retrograde flow in many veins, rather than directly controlling entry of arterial blood into individual capillary beds.",
+        "C": "Capillary endothelial cells release vasoactive signals, but capillaries do not possess their own motor nerve supply for controlling inlet diameter.",
+        "D": "Arterial baroreceptors detect changes in arterial pressure and coordinate systemic reflexes, rather than directly gating individual capillary entrances.",
+        "E": "Lymphatic pumping returns interstitial fluid to the venous circulation, rather than directly controlling the arterial inflow into a capillary bed."
+      },
       "topicId": "microcirculation",
       "subtopic": "Capillaries",
       "difficulty": "medium"
@@ -3628,7 +3826,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Fenestrated capillaries occur where exchange is high - kidney, intestinal villi and endocrine glands; brain capillaries are non-fenestrated.",
+      "why": "Glomerular and many peritubular capillaries in the kidney have fenestrated endothelium, facilitating rapid filtration or exchange. Glomerular fenestrations permit water and small solutes to pass while the complete filtration barrier largely retains plasma proteins.",
+      "notes": {
+        "A": "Most dermal capillaries have continuous endothelium, rather than the characteristic highly fenestrated endothelium of renal glomeruli.",
+        "C": "Most brain capillaries have continuous endothelium with tight junctions and restricted transcytosis, forming the blood–brain barrier rather than a freely fenestrated surface.",
+        "D": "Cardiac muscle generally contains continuous capillaries that supply oxygen and nutrients without the specialised fenestrated filtration arrangement of renal glomeruli.",
+        "E": "Skeletal muscle typically contains continuous capillaries, whereas fenestrated endothelium is particularly associated with tissues requiring rapid filtration or solute exchange."
+      },
       "topicId": "microcirculation",
       "subtopic": "Capillaries",
       "difficulty": "hard"
@@ -3660,7 +3864,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Capillary hydrostatic pressure drives filtration out; plasma oncotic pressure draws fluid back in.",
+      "why": "Capillary hydrostatic pressure is the principal outward physical pressure favouring fluid filtration across the capillary barrier. Plasma colloid osmotic pressure opposes filtration, while interstitial pressures and the properties of the endothelial glycocalyx influence net fluid movement.",
+      "notes": {
+        "A": "Positive interstitial hydrostatic pressure opposes outward filtration; a negative interstitial hydrostatic pressure can favour filtration but is not the principal capillary driving pressure.",
+        "B": "Oncotic pressure exerted by venous-end plasma proteins favours retention of water within the circulation, rather than driving it outwards.",
+        "D": "Plasma colloid osmotic pressure arises primarily from retained plasma proteins and opposes the outward filtration driven by capillary hydrostatic pressure.",
+        "E": "Interstitial colloid osmotic pressure can favour outward fluid movement in the classical Starling model, but capillary hydrostatic pressure is the principal outward hydrostatic driving force."
+      },
       "topicId": "microcirculation",
       "subtopic": "Starling forces",
       "difficulty": "medium"
@@ -3724,7 +3934,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Oedema is excess fluid in the interstitium, from increased filtration or inadequate reabsorption/drainage.",
+      "why": "Oedema in the usual extracellular sense is excessive fluid accumulation within the interstitial spaces between tissue cells. It develops when microvascular filtration exceeds the capacity for lymphatic drainage and fluid clearance.",
+      "notes": {
+        "A": "The vascular compartment contains circulating plasma; an increase in intravascular volume alone does not establish abnormal interstitial fluid accumulation.",
+        "B": "Intracellular fluid accumulation produces cellular swelling, which is distinct from the usual clinical definition of extracellular interstitial oedema.",
+        "C": "Lymphatic vessels collect and transport interstitial fluid, but lymphoedema refers to excess fluid within tissues rather than merely within lymphatic lumina.",
+        "D": "Fluid accumulation in the pleural cavity is specifically a pleural effusion, whereas oedema generally describes excessive interstitial fluid in tissues."
+      },
       "topicId": "edema",
       "subtopic": "Oedema",
       "difficulty": "easy"
@@ -3756,7 +3972,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Low plasma proteins reduce the oncotic pull back into capillaries, so fluid stays in the interstitium.",
+      "why": "Albumin and other plasma proteins generate colloid osmotic pressure that helps retain water within the circulation. Reduced plasma protein concentration weakens this opposing force, increasing net filtration and potentially overwhelming lymphatic drainage to produce oedema.",
+      "notes": {
+        "B": "Raised capillary hydrostatic pressure promotes filtration in venous congestion, but hypoalbuminaemia primarily alters the plasma oncotic component of the fluid balance.",
+        "C": "Lymphatic obstruction impairs removal of interstitial fluid and proteins, whereas reduced plasma protein concentration primarily decreases the oncotic opposition to filtration.",
+        "D": "Increased venous tone can alter venous pressure and blood distribution, but it is not the direct mechanism linking reduced plasma proteins to oedema.",
+        "E": "Increased positive interstitial hydrostatic pressure generally opposes additional filtration and can act as a protective response against further oedema."
+      },
       "topicId": "edema",
       "subtopic": "Oedema",
       "difficulty": "medium"
@@ -3788,7 +4010,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Lymphatic obstruction (e.g. filarial worms, radical mastectomy) causes protein-rich, non-pitting lymphoedema.",
+      "why": "Lymphatic obstruction impairs clearance of interstitial fluid and macromolecules, causing protein-rich lymphoedema. Chronic inflammation, fibrosis and tissue remodelling can make longstanding lymphoedema non-pitting, although early lymphoedema may still pit.",
+      "notes": {
+        "A": "Increased venous pressure raises capillary hydrostatic pressure and typically produces pitting dependent oedema rather than the characteristic chronic fibrotic lymphoedema.",
+        "C": "Reduced plasma protein concentration lowers plasma oncotic pressure and commonly produces soft pitting oedema, rather than primary lymphatic drainage failure.",
+        "D": "Raised capillary hydrostatic pressure increases outward filtration, but chronic filarial elephantiasis principally reflects damaged or obstructed lymphatic drainage.",
+        "E": "Heart failure commonly causes dependent pitting oedema through venous congestion and fluid retention, rather than the primary lymphatic injury of filarial elephantiasis."
+      },
       "topicId": "edema",
       "subtopic": "Oedema",
       "difficulty": "medium"
@@ -3852,7 +4080,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Lymph is moved by the muscle pump, thoracic pump, wall contractions and valves - not by direct cardiac pumping.",
+      "why": "The heart pumps blood through the cardiovascular system but does not directly pump lymph through lymphatic vessels. Lymph transport instead depends on pressure gradients, skeletal muscle compression, intrinsic lymphatic contractions and one-way valves.",
+      "notes": {
+        "A": "Respiratory pressure changes, including reduced intrathoracic pressure during spontaneous inspiration, can favour lymph movement towards the thorax and central venous circulation.",
+        "B": "Collecting lymphatic vessels contain smooth muscle that contracts rhythmically, generating pressure gradients that propel lymph along successive segments.",
+        "C": "One-way lymphatic valves limit retrograde movement when pressure changes, helping intrinsic contractions and external compression produce net forward flow.",
+        "E": "Skeletal muscle activity externally compresses lymphatic vessels, and their valves help direct the displaced lymph towards central collecting ducts."
+      },
       "topicId": "lymphatics",
       "subtopic": "Lymphatics",
       "difficulty": "hard"
@@ -3884,7 +4118,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Lymphatics return filtered interstitial protein (and absorbed fat) to the blood.",
+      "why": "Lymphatic capillaries take up excess interstitial fluid and escaped plasma proteins that cannot readily return directly through the blood microvascular barrier. Collecting lymphatic vessels return this material to the venous circulation, helping maintain tissue fluid balance.",
+      "notes": {
+        "A": "Arterial pressure is generated by cardiac pumping and influenced by vascular resistance and arterial compliance, rather than directly generated by the lymphatic system.",
+        "B": "Tissue oxygenation primarily depends on pulmonary gas exchange, haemoglobin and blood perfusion, rather than oxygen delivery through lymphatic vessels.",
+        "C": "Red blood cells are produced mainly in red bone marrow after birth; lymphatic organs principally support immune cell functions and lymph filtration.",
+        "D": "Renin is released predominantly by juxtaglomerular cells in the kidney, rather than being a hormone secreted by lymphatic vessels."
+      },
       "topicId": "lymphatics",
       "subtopic": "Lymphatics",
       "difficulty": "medium"
@@ -3916,7 +4156,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The right and left coronary arteries arise from the aortic sinuses behind the aortic valve cusps.",
+      "why": "The right and left coronary arteries originate from ostia within the corresponding right and left aortic sinuses immediately above the aortic valve. These openings receive blood from the aortic root to perfuse the myocardium.",
+      "notes": {
+        "B": "The pulmonary trunk carries right ventricular blood to the lungs and does not normally give rise to the coronary arterial circulation.",
+        "C": "The aortic arch gives rise to major systemic arteries supplying the head, neck and upper limbs, whereas coronary arteries originate in the aortic root.",
+        "D": "The left atrium receives pulmonary venous blood and directs it into the left ventricle, rather than giving rise to the coronary arteries.",
+        "E": "The coronary sinus ostium drains myocardial venous blood into the right atrium and is not an arterial origin."
+      },
       "topicId": "coronary",
       "subtopic": "Coronary circulation",
       "difficulty": "medium"
@@ -3948,7 +4194,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "During systole the intramural vessels are compressed, so left ventricular coronary flow occurs chiefly in diastole.",
+      "why": "During left ventricular systole, myocardial contraction compresses intramural coronary vessels, especially in the subendocardium. Relaxation during diastole relieves this compression, allowing aortic pressure to drive most left ventricular coronary perfusion.",
+      "notes": {
+        "A": "Atrial systole occurs briefly near the end of ventricular diastole, but coronary flow is not restricted primarily to this short interval.",
+        "C": "Left ventricular contraction compresses intramyocardial vessels during systole, reducing perfusion particularly in the deeper myocardial layers despite elevated aortic pressure.",
+        "D": "Isovolumetric contraction raises ventricular and intramyocardial pressure before ejection, increasing compression of coronary microvessels rather than favouring maximal left ventricular perfusion.",
+        "E": "During ventricular ejection, aortic pressure is high but contracting left ventricular muscle still compresses intramural vessels, limiting much of the coronary flow."
+      },
       "topicId": "coronary",
       "subtopic": "Coronary circulation",
       "difficulty": "medium"
@@ -4012,7 +4264,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Adenosine (with O2 lack, K+, H+, CO2, lactate) dilates coronary vessels during increased cardiac work.",
+      "why": "Adenosine is generated during breakdown of adenine nucleotides and can activate vasodilator receptors in coronary resistance vessels. It contributes to metabolic coronary hyperaemia, although several interacting mechanisms match myocardial oxygen supply to demand.",
+      "notes": {
+        "A": "Serotonin can influence coronary vascular tone through multiple receptor pathways, including constriction, rather than being the classic ATP-derived metabolic coronary dilator.",
+        "B": "Angiotensin II generally activates AT1 receptor-mediated vasoconstriction and is not a major local metabolic vasodilator responding to increased myocardial work.",
+        "C": "Endothelin is a potent endogenous vasoconstrictor in many vascular beds, rather than the classic metabolic mediator promoting coronary relaxation.",
+        "E": "Noradrenaline acting on vascular alpha receptors tends to constrict smooth muscle, although increased cardiac work can indirectly trigger metabolic coronary vasodilatation."
+      },
       "topicId": "coronary",
       "subtopic": "Coronary circulation",
       "difficulty": "medium"
@@ -4044,7 +4302,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The circle of Willis links the internal carotid and vertebrobasilar supplies at the brain's base.",
+      "why": "The circle of Willis is an arterial anastomotic ring at the base of the brain connecting the anterior and posterior cerebral circulations. Its communicating arteries can provide collateral pathways when one supplying artery has reduced flow.",
+      "notes": {
+        "A": "Vieussens' arterial ring refers to a coronary collateral connection, not the arterial communicating ring at the base of the brain.",
+        "B": "The basilar venous plexus communicates with cranial and vertebral venous channels, rather than forming the arterial anastomosis of the cerebral circulation.",
+        "C": "The great cerebral vein, or vein of Galen, drains deep cerebral structures and is a venous channel rather than an arterial ring.",
+        "D": "The cavernous sinus is a dural venous sinus located beside the sella turcica, not the arterial connection between cerebral circulations."
+      },
       "topicId": "cerebral",
       "subtopic": "Cerebral circulation",
       "difficulty": "easy"
@@ -4076,7 +4340,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "CSF is secreted mainly by the choroid plexuses of the lateral, third and fourth ventricles.",
+      "why": "Most cerebrospinal fluid is secreted by specialised choroid plexus epithelium within the ventricles. Active transport of ions creates osmotic gradients that drive water movement into ventricular fluid, with tight junctions forming the blood–CSF barrier.",
+      "notes": {
+        "B": "Arachnoid villi and granulations traditionally provide pathways for cerebrospinal fluid absorption into dural venous sinuses rather than its principal secretion.",
+        "C": "The pia mater closely covers the brain and spinal cord and accompanies surface vessels, but is not the main specialised CSF-secreting epithelium.",
+        "D": "Ordinary ependymal cells line the ventricular system and facilitate fluid movement, whereas specialised choroid plexus epithelium accounts for most CSF secretion.",
+        "E": "Dural venous sinuses receive venous blood and cerebrospinal fluid drainage, rather than serving as the principal site of CSF formation."
+      },
       "topicId": "cerebral",
       "subtopic": "CSF",
       "difficulty": "medium"
@@ -4108,7 +4378,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "CSF passes into the subarachnoid space and is absorbed through the arachnoid villi into the dural sinuses.",
+      "why": "Arachnoid villi and granulations project into dural venous sinuses and provide a classical pathway for cerebrospinal fluid to enter venous blood when pressure favours drainage. Additional lymphatic outflow pathways also contribute to CSF clearance.",
+      "notes": {
+        "A": "The pia mater adheres closely to neural tissue and its surface vessels, rather than forming the classical protrusions that drain CSF into venous sinuses.",
+        "C": "The choroid plexus is principally responsible for secreting cerebrospinal fluid into ventricles, rather than providing the classic venous absorption pathway.",
+        "D": "The interventricular foramen of Monro conducts cerebrospinal fluid from each lateral ventricle into the third ventricle, not directly into venous blood.",
+        "E": "The cerebral aqueduct connects the third and fourth ventricles and conducts cerebrospinal fluid internally, rather than absorbing it into dural venous sinuses."
+      },
       "topicId": "cerebral",
       "subtopic": "CSF",
       "difficulty": "medium"
@@ -4140,7 +4416,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The cranial contents - brain, CSF and blood - have a near-constant total volume (Monro-Kellie doctrine).",
+      "why": "In an adult with an intact rigid skull, intracranial volume is approximately fixed and is occupied principally by brain tissue, cerebrospinal fluid and blood. Expansion of one compartment requires compensatory displacement of another or intracranial pressure rises.",
+      "notes": {
+        "A": "Cartilage forms supporting structures in selected anatomical regions but does not constitute a principal adjustable intracranial volume compartment in the Monro–Kellie doctrine.",
+        "B": "Intracranial air is normally negligible; substantial air within the cranial cavity is abnormal rather than a normal component of the doctrine.",
+        "D": "Lymphatic drainage contributes to cranial fluid clearance, but lymph is not one of the three principal intracranial volume compartments in the classical doctrine.",
+        "E": "Interstitial fat is not a major normal component of intracranial volume, unlike brain tissue, cerebrospinal fluid and the intracranial blood supply."
+      },
       "topicId": "cerebral",
       "subtopic": "Cerebral flow",
       "difficulty": "hard"
@@ -4172,7 +4454,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Small, lipid-soluble, non-polar molecules cross easily; proteins and protein-bound substances do not.",
+      "why": "The blood–brain barrier restricts paracellular movement through tight junctions between cerebral endothelial cells. Small non-polar molecules such as oxygen can cross cell membranes readily by diffusion, whereas many polar solutes require selective transport mechanisms.",
+      "notes": {
+        "A": "Drug molecules bound to circulating proteins generally cannot diffuse freely across the barrier; the unbound drug fraction is more relevant to passive penetration.",
+        "B": "Large water-soluble polar molecules cross poorly by passive diffusion and may require specific transport or specialised transcytosis mechanisms.",
+        "C": "Most circulating antibody proteins have limited access to brain tissue because their large size and hydrophilicity prevent ready passive diffusion across endothelial membranes.",
+        "E": "Large plasma proteins are normally strongly restricted by the blood–brain barrier, unlike small non-polar molecules capable of transcellular diffusion."
+      },
       "topicId": "cerebral",
       "subtopic": "Blood-brain barrier",
       "difficulty": "medium"
@@ -4204,7 +4492,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Ischaemic stroke results from arterial occlusion (atherosclerotic thrombus or embolus); haemorrhagic stroke from vessel rupture.",
+      "why": "Most ischaemic strokes result from interruption of arterial blood supply to brain tissue, commonly through local thrombosis or embolic arterial occlusion. Prolonged inadequate perfusion deprives neurons of oxygen and glucose and may cause irreversible infarction.",
+      "notes": {
+        "A": "Rupture of a cerebral aneurysm classically causes subarachnoid haemorrhage, rather than the arterial blockage characteristic of most ischaemic strokes.",
+        "B": "Reduced cerebrospinal fluid pressure can cause intracranial hypotension and related symptoms, but it is not a common direct mechanism of arterial cerebral infarction.",
+        "C": "Obstruction of cranial lymphatic drainage is not the usual cause of acute ischaemic stroke, which most often involves impaired arterial perfusion.",
+        "D": "Increased cerebral venous pressure may accompany venous thrombosis and cause venous infarction, but arterial thromboembolism accounts for most ischaemic strokes."
+      },
       "topicId": "cerebral",
       "subtopic": "Stroke",
       "difficulty": "medium"
@@ -4236,7 +4530,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The pulmonary circulation operates at low pressure (~10 mmHg capillary) and low resistance.",
+      "why": "The pulmonary circulation accommodates essentially the same average cardiac output as the systemic circulation but at much lower perfusion pressure. Its compliant vascular network, recruitment and distension provide low resistance, reducing the workload of the right ventricle.",
+      "notes": {
+        "B": "High pressure and comparatively high resistance characterise the systemic circulation, rather than normal pulmonary vessels receiving right ventricular output.",
+        "C": "Pulmonary vascular resistance is low, but normal pulmonary arterial pressures are also substantially lower than systemic arterial pressures.",
+        "D": "A high-resistance pulmonary circulation would require an increased pressure gradient to sustain cardiac output, whereas normal pulmonary resistance remains relatively low.",
+        "E": "Pulmonary blood flow depends on pressure gradients and vascular resistance; it is not independent of haemodynamic pressure despite its capacity to recruit vessels."
+      },
       "topicId": "pulmonary",
       "subtopic": "Pulmonary circulation",
       "difficulty": "medium"
@@ -4268,7 +4568,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Hypoxic pulmonary vasoconstriction diverts blood from poorly ventilated areas to better-oxygenated ones.",
+      "why": "Low alveolar oxygen tension triggers contraction of nearby pulmonary resistance vessels, increasing their resistance and diverting blood towards better ventilated alveoli. This hypoxic pulmonary vasoconstriction improves local ventilation–perfusion matching, although widespread hypoxia increases pulmonary arterial pressure.",
+      "notes": {
+        "A": "Increased permeability can occur with lung injury, but the characteristic local vascular response to alveolar hypoxia is smooth muscle constriction rather than barrier leakage.",
+        "C": "Many systemic resistance vessels dilate during local hypoxia, whereas pulmonary vessels characteristically constrict to redirect perfusion away from poorly ventilated regions.",
+        "D": "Pulmonary vascular smooth muscle responds actively to low alveolar oxygen tension, so local resistance is not normally unchanged during significant alveolar hypoxia.",
+        "E": "Vascular rupture is not a normal physiological response to alveolar hypoxia; reversible changes in smooth muscle tone regulate regional pulmonary perfusion."
+      },
       "topicId": "pulmonary",
       "subtopic": "Pulmonary circulation",
       "difficulty": "hard"
@@ -4300,7 +4606,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Low pulmonary capillary pressure (below plasma oncotic pressure) keeps the alveoli dry.",
+      "why": "Low pulmonary capillary hydrostatic pressure limits outward fluid filtration into the lung interstitium. Together with endothelial and epithelial barriers, plasma oncotic pressure and lymphatic clearance, this helps keep alveolar airspaces relatively dry for efficient gas exchange.",
+      "notes": {
+        "A": "Airway resistance depends chiefly on airway calibre and airflow conditions, not directly on the normally low hydrostatic pressure within pulmonary capillaries.",
+        "B": "Limiting fluid accumulation preserves the short diffusion distance across the blood–air barrier, supporting rather than reducing gas diffusion.",
+        "D": "Low pulmonary vascular pressures reflect a low-resistance circulation and generally reduce the pressure workload imposed on the right ventricle.",
+        "E": "Rapid fluid filtration into alveoli is favoured by excessive hydrostatic pressure or barrier damage, whereas low capillary pressure limits this tendency."
+      },
       "topicId": "pulmonary",
       "subtopic": "Pulmonary circulation",
       "difficulty": "medium"
@@ -4364,7 +4676,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The gut is supplied by the celiac trunk and the superior and inferior mesenteric arteries.",
+      "why": "The coeliac trunk, superior mesenteric artery and inferior mesenteric artery are three major unpaired anterior branches of the abdominal aorta supplying foregut, midgut and hindgut territories respectively. Their branches form important arterial anastomoses.",
+      "notes": {
+        "A": "The renal arteries are paired lateral branches supplying the kidneys, rather than one of the three principal unpaired gut-supplying arteries.",
+        "B": "The splenic artery is a major branch of the coeliac trunk supplying the spleen and portions of the stomach and pancreas.",
+        "C": "The common hepatic artery normally branches from the coeliac trunk and distributes blood to the liver and associated foregut structures.",
+        "D": "The gastroduodenal artery usually arises from the common hepatic artery and supplies parts of the stomach, duodenum and pancreas rather than originating independently from the aorta."
+      },
       "topicId": "splanchnic",
       "subtopic": "Splanchnic circulation",
       "difficulty": "medium"
@@ -4396,7 +4714,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The splanchnic bed is a large venous reservoir; in shock it constricts and shifts blood to the vital circulations.",
+      "why": "Strong sympathetic activation constricts splanchnic resistance and capacitance vessels. Reduced splanchnic perfusion and mobilisation of blood from its substantial venous reservoir help support central blood volume and arterial pressure during compensated haemorrhage or similar stress.",
+      "notes": {
+        "B": "Further splanchnic venodilatation would increase vascular storage capacity and favour pooling, opposing the compensatory mobilisation of blood during sympathetic activation.",
+        "C": "Splanchnic vessels respond strongly to sympathetic stimulation, so their resistance and capacitance are not generally unchanged during major circulatory stress.",
+        "D": "Splanchnic arteriolar constriction commonly reduces local blood flow during compensation for shock, rather than preferentially increasing regional perfusion.",
+        "E": "Local autoregulation may be overridden by severe circulatory stress, but the characteristic immediate sympathetic response is vascular constriction and mobilisation of stored blood."
+      },
       "topicId": "splanchnic",
       "subtopic": "Splanchnic circulation",
       "difficulty": "medium"
@@ -4428,7 +4752,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Blood flows from the triad through the sinusoids to the central vein; the perivenous zone is least oxygenated.",
+      "why": "Blood enters classical hepatic lobules through branches of the hepatic artery and portal vein at their periphery. These streams mix within hepatic sinusoids and flow towards the central vein, which drains into progressively larger hepatic veins.",
+      "notes": {
+        "A": "The space of Disse is the perisinusoidal exchange compartment between hepatocytes and sinusoidal endothelium, rather than the main downstream channel for lobular blood.",
+        "C": "Bile ductules receive bile flowing from hepatocytes towards portal tracts, generally opposite to the direction of sinusoidal blood flow.",
+        "D": "Hepatic arterial branches supply oxygenated blood at the lobular periphery and therefore contribute inflow rather than serving as the central venous outlet.",
+        "E": "Portal venous branches deliver nutrient-rich blood into peripheral sinusoids, rather than collecting blood after it passes through the classical lobule."
+      },
       "topicId": "splanchnic",
       "subtopic": "Liver blood flow",
       "difficulty": "hard"
@@ -4460,7 +4790,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Sinusoidal pores let protein into the space of Disse; raised hepatic venous pressure then drives protein-rich fluid out as ascites.",
+      "why": "Hepatic sinusoidal endothelial fenestrations and the absence of a continuous basement membrane allow relatively extensive protein exchange with the space of Disse. Elevated sinusoidal hydrostatic pressure can increase hepatic lymph formation and produce protein-rich ascites, particularly in congestive hepatopathy.",
+      "notes": {
+        "A": "Hepatic sinusoids lack a continuous thick basement membrane, facilitating exchange rather than imposing the restrictive barrier described by this option.",
+        "B": "Hepatic sinusoids contain mixed portal venous and hepatic arterial blood, which exchanges substances with hepatocytes as it flows towards central veins.",
+        "D": "Albumin is synthesised and secreted principally by hepatocytes, while the permeability of sinusoidal endothelium permits protein movement into the perisinusoidal space.",
+        "E": "Hepatic sinusoids possess specialised fenestrated endothelial cells, so their permeability does not result from a complete absence of endothelium."
+      },
       "topicId": "splanchnic",
       "subtopic": "Ascites",
       "difficulty": "hard"
@@ -4492,7 +4828,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Skin blood flow, with its many anastomoses, is primarily for heat exchange and thermoregulation.",
+      "why": "Cutaneous blood flow has an important thermoregulatory function beyond meeting the metabolic requirements of the skin. Vasodilatation increases heat transfer towards the surface, while sympathetic vasoconstriction reduces heat loss; arteriovenous anastomoses facilitate regulation in specialised skin regions.",
+      "notes": {
+        "A": "Oxygen is transported primarily by haemoglobin in circulating blood; the skin circulation is not specialised as a major oxygen-storage compartment.",
+        "B": "Cutaneous vessels deliver immune cells and inflammatory mediators, but immune surveillance does not explain the major physiological variation in skin perfusion for heat exchange.",
+        "C": "Changes in cutaneous resistance can contribute to systemic arterial pressure regulation, but temperature-dependent adjustment of skin blood flow is a major specialised role.",
+        "E": "Skin perfusion necessarily supplies nutrients and oxygen, but its wide regulated variation also serves thermoregulation beyond the relatively modest local metabolic requirements."
+      },
       "topicId": "skin",
       "subtopic": "Skin circulation",
       "difficulty": "easy"
@@ -4524,7 +4866,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The flare is arteriolar dilatation spreading by an antidromic axon reflex; the wheal is local oedema from increased permeability.",
+      "why": "The flare of the triple response is spreading erythema caused by dilatation of nearby arterioles through a local sensory axon reflex. Activation of cutaneous sensory fibres promotes release of vasodilator neuropeptides from peripheral branches beyond the injured site.",
+      "notes": {
+        "A": "Local capillary and small-vessel dilatation contributes to the initial red line, whereas the spreading flare depends chiefly on adjacent arteriolar dilatation.",
+        "B": "Increased microvascular permeability allows fluid to enter the interstitium and produces the raised wheal, rather than primarily explaining the surrounding spreading redness.",
+        "C": "Constriction at precapillary entrances reduces local perfusion and tends to produce pallor rather than the increased blood flow responsible for a flare.",
+        "D": "Venous congestion can cause local discoloration, but the characteristic spreading flare is an active neurogenic arteriolar vasodilator response rather than passive venous obstruction."
+      },
       "topicId": "skin",
       "subtopic": "Triple response",
       "difficulty": "hard"
@@ -4556,7 +4904,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Light stroking contracts precapillary sphincters, draining the capillaries and producing pallor for ~15 s.",
+      "why": "The classical white reaction after gentle skin stroking is transient local pallor caused by reduced superficial microvascular perfusion, traditionally attributed to constriction of precapillary resistance vessels. The precise microvascular arrangement varies among skin regions.",
+      "notes": {
+        "B": "Arteriolar dilatation increases local blood flow and tends to produce redness, rather than the transient pallor characteristic of the white reaction.",
+        "C": "Increased microvascular permeability promotes interstitial fluid accumulation and contributes to a wheal, rather than directly producing the initial pale line.",
+        "D": "Histamine typically promotes local vasodilatation and increased vascular permeability in the inflammatory triple response, rather than the initial transient white reaction.",
+        "E": "Venous obstruction tends to cause upstream blood accumulation and congestion, rather than the brief local reduction in superficial perfusion after light stroking."
+      },
       "topicId": "skin",
       "subtopic": "Triple response",
       "difficulty": "medium"
@@ -4588,7 +4942,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "HbF binds 2,3-DPG poorly, so its oxygen affinity is higher than maternal HbA, favouring placental O2 uptake.",
+      "why": "Fetal haemoglobin contains gamma chains instead of adult beta chains and binds 2,3-bisphosphoglycerate (2,3-DPG) less strongly. Reduced stabilisation of the deoxygenated state shifts its oxygen dissociation curve leftwards, favouring oxygen loading from maternal blood across the placenta.",
+      "notes": {
+        "A": "The Bohr effect describes reduced haemoglobin oxygen affinity with increased hydrogen ion concentration and carbon dioxide, rather than the main structural basis of fetal haemoglobin affinity.",
+        "C": "Stronger binding of 2,3-DPG stabilises deoxygenated haemoglobin and reduces oxygen affinity, whereas fetal haemoglobin has relatively weaker binding.",
+        "D": "A higher P50 means a greater oxygen partial pressure is required for half-saturation and therefore indicates lower, rather than higher, oxygen affinity.",
+        "E": "Lower oxygen affinity would shift the oxygen dissociation curve towards the right, whereas fetal haemoglobin binds oxygen more avidly than adult haemoglobin."
+      },
       "topicId": "fetal",
       "subtopic": "Fetal circulation",
       "difficulty": "hard"
@@ -4620,7 +4980,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "HbF usually disappears by around 4 months after birth as HbA predominates.",
+      "why": "After birth, gamma-globin synthesis progressively declines while beta-globin synthesis increases, allowing adult haemoglobin to become predominant during the first few months. The transition is gradual; fetal haemoglobin may remain measurable beyond four months rather than disappearing abruptly.",
+      "notes": {
+        "A": "At birth, fetal haemoglobin still constitutes a substantial proportion of total haemoglobin, because the postnatal globin transition has not yet been completed.",
+        "B": "By two years, adult haemoglobin has long predominated in most healthy children, so this is later than the usual major postnatal transition.",
+        "D": "At four weeks, beta-globin production is increasing, but the transition from fetal to predominantly adult haemoglobin is still in progress.",
+        "E": "By one year, fetal haemoglobin is usually already near its low childhood level, making this later than the approximate time when adult haemoglobin becomes predominant."
+      },
       "topicId": "fetal",
       "subtopic": "Fetal circulation",
       "difficulty": "medium"

@@ -30,7 +30,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Nociceptors respond to physical or chemical tissue damage and signal pain.",
+      "why": "Nociceptors are sensory endings activated by potentially tissue-damaging mechanical, thermal or chemical stimuli. Their activity initiates nociceptive signalling, which may contribute to conscious pain after central nervous system processing.",
+      "notes": {
+        "B": "Mechanoreceptors detect physical deformation, such as touch and stretch, but the specialised receptors for potentially damaging stimuli are nociceptors.",
+        "C": "Thermoreceptors detect temperature changes, whereas extreme temperatures capable of damaging tissue activate specialised thermal nociceptors.",
+        "D": "Chemoreceptors detect chemical conditions such as blood gases; chemical nociceptors specifically signal potentially harmful chemical stimulation.",
+        "E": "Electromagnetic receptors such as retinal photoreceptors detect light rather than mechanical, thermal or chemical threats to tissue."
+      },
       "topicId": "cns-sensory",
       "subtopic": "Receptor types",
       "difficulty": "easy"
@@ -62,7 +68,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Proprioceptors (spindles, Golgi organs, joint receptors) report body position and movement.",
+      "why": "Proprioceptors provide information about body position and movement through signals from muscle spindles, Golgi tendon organs and joint-associated receptors. These afferents support conscious position sense and reflex regulation of posture and movement.",
+      "notes": {
+        "A": "Nociceptors detect potentially harmful stimulation and do not primarily encode ordinary muscle length or joint position.",
+        "C": "Exteroceptors primarily detect stimuli originating outside the body, such as cutaneous touch or environmental temperature, rather than internal limb position.",
+        "D": "Interoceptors monitor internal physiological conditions such as visceral distension and blood pressure, rather than primarily reporting musculoskeletal position.",
+        "E": "Teleceptors detect distant environmental stimuli, such as light or sound, rather than mechanical changes within muscles and joints."
+      },
       "topicId": "cns-sensory",
       "subtopic": "Receptor types",
       "difficulty": "medium"
@@ -94,7 +106,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Sensory adaptation is the decline in afferent firing during a sustained constant stimulus.",
+      "why": "Sensory adaptation is a reduction in receptor or afferent response during continued stimulation of unchanged intensity. It allows sensory systems to emphasise changes in the environment while some slowly adapting receptors continue signalling sustained conditions.",
+      "notes": {
+        "A": "Facilitation increases neuronal responsiveness after preceding activity, rather than describing declining receptor firing during an unchanged stimulus.",
+        "B": "Habituation is reduced behavioural or central neuronal responsiveness after repeated stimulation, rather than specifically the adaptation of a sensory ending.",
+        "D": "Summation combines multiple synaptic or receptor inputs over time or space, rather than describing a progressively declining discharge rate.",
+        "E": "Accommodation refers to reduced excitability during slowly developing depolarisation and is distinct from the general sensory receptor response to sustained stimulation."
+      },
       "topicId": "cns-sensory",
       "subtopic": "Sensory coding",
       "difficulty": "medium"
@@ -158,7 +176,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Muller's doctrine: stimulating a sensory pathway anywhere evokes the sensation of its receptor because of where it projects.",
+      "why": "Müller's law of specific nerve energies states that sensory quality depends chiefly on the activated sensory pathway and its central connections. Electrical or mechanical activation of a visual pathway, for example, can produce a visual sensation.",
+      "notes": {
+        "A": "The Bell–Magendie law distinguishes sensory dorsal roots from motor ventral roots rather than explaining the perceived modality of sensory activity.",
+        "B": "The all-or-none law describes action potential generation once threshold is reached, rather than the identity of the sensation produced.",
+        "C": "Reciprocal innervation coordinates opposing muscle groups through excitation and inhibition, rather than determining the sensory quality associated with an afferent pathway.",
+        "D": "The Weber–Fechner relationship concerns the relationship between stimulus magnitude and perceived intensity, rather than which sensory modality is experienced."
+      },
       "topicId": "cns-sensory",
       "subtopic": "Sensory coding",
       "difficulty": "hard"
@@ -190,7 +214,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Stronger stimuli raise firing frequency and recruit additional receptors; action-potential amplitude is fixed.",
+      "why": "Increasing stimulus intensity generally increases receptor potential and afferent firing frequency while recruiting additional responsive sensory units. These temporal and population codes convey intensity without requiring larger individual action potentials in the same axon.",
+      "notes": {
+        "B": "Individual action potential amplitude is relatively stereotyped once threshold is reached, so stronger stimulation is mainly encoded through firing and recruitment.",
+        "C": "Axonal conduction velocity depends largely on diameter and myelination, rather than changing proportionally with the intensity of each ordinary sensory stimulus.",
+        "D": "Resting membrane potential establishes baseline excitability, but stimulus intensity is more directly represented by discharge frequency and the recruited afferent population.",
+        "E": "Refractory periods constrain the maximum firing frequency but are not the principal independently varied code for ordinary sensory stimulus intensity."
+      },
       "topicId": "cns-sensory",
       "subtopic": "Sensory coding",
       "difficulty": "hard"
@@ -222,7 +252,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Fast myelinated A-delta fibres carry sharp first pain; slow unmyelinated C fibres carry dull second pain.",
+      "why": "Thinly myelinated A-delta nociceptive fibres conduct relatively rapidly and mediate sharp, well-localised first pain. Unmyelinated C fibres conduct more slowly and commonly mediate delayed, diffuse aching or burning second pain.",
+      "notes": {
+        "A": "B fibres are primarily small myelinated autonomic preganglionic axons, rather than the usual afferents carrying sharp first pain.",
+        "C": "C fibres conduct slowly and commonly carry delayed burning pain, whereas A-delta fibres transmit the earlier sharp component.",
+        "D": "A-beta fibres predominantly convey low-threshold touch and pressure; they are not the usual principal carriers of first nociceptive pain.",
+        "E": "A-alpha fibres are large myelinated axons associated with motor and proprioceptive functions rather than ordinary sharp nociceptive signalling."
+      },
       "topicId": "cns-sensory",
       "subtopic": "Pain",
       "difficulty": "hard"
@@ -254,7 +290,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The dorsal columns carry fine (discriminative) touch, proprioception and vibration.",
+      "why": "The dorsal column–medial lemniscus system transmits discriminative touch, vibration and conscious proprioception from the body. Its first-order fibres ascend ipsilaterally to medullary nuclei before second-order fibres cross and project towards the thalamus.",
+      "notes": {
+        "A": "Autonomic efferent signals travel through descending autonomic pathways and peripheral motor fibres, rather than the ascending dorsal column sensory system.",
+        "B": "Itch and tickle involve other sensory pathways, including anterolateral signalling; the dorsal columns principally carry discriminative touch and position-related information.",
+        "D": "Pain and temperature predominantly ascend through anterolateral pathways, whose spinal decussation differs from the dorsal column–medial lemniscus route.",
+        "E": "Voluntary motor commands descend through pathways such as the corticospinal tracts rather than ascending through the dorsal columns."
+      },
       "topicId": "cns-sensory",
       "subtopic": "Ascending pathways",
       "difficulty": "medium"
@@ -286,7 +328,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Dorsal column fibres ascend ipsilaterally and decussate in the medulla; the spinothalamic tract crosses in the cord.",
+      "why": "First-order dorsal column axons ascend ipsilaterally and synapse in the gracile and cuneate nuclei of the caudal medulla. Second-order internal arcuate fibres then cross the midline and form the medial lemniscus.",
+      "notes": {
+        "A": "The medial lemniscus passes through the midbrain after its fibres have already crossed within the caudal medulla.",
+        "B": "Thalamic nuclei receive ascending medial lemniscal information and relay it towards cortex, rather than providing the principal dorsal column decussation.",
+        "C": "The medial lemniscus traverses the pons, but its characteristic sensory decussation occurs lower in the medulla.",
+        "E": "Anterolateral sensory fibres cross within the spinal cord near their entry level; dorsal column fibres ascend before crossing in the medulla."
+      },
       "topicId": "cns-sensory",
       "subtopic": "Ascending pathways",
       "difficulty": "hard"
@@ -318,7 +366,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Spinothalamic fibres cross within a segment or two of entering the cord; dorsal columns cross in the medulla.",
+      "why": "Second-order spinothalamic axons cross through the anterior white commissure, commonly within one or two spinal segments of sensory entry. They then ascend contralaterally, unlike dorsal column information that crosses in the medulla.",
+      "notes": {
+        "A": "Medullary decussation characterises the dorsal column–medial lemniscus pathway rather than the principal crossing of spinothalamic fibres.",
+        "B": "Fine discriminative touch and vibration predominantly travel through dorsal column pathways, whereas spinothalamic signalling includes pain and temperature.",
+        "C": "Spinothalamic fibres project to thalamic and related targets involved in sensory processing; absence of a thalamic relay is not their distinguishing feature.",
+        "D": "The spinothalamic tract is an ascending sensory pathway rather than a descending pathway conveying commands to spinal motor neurons."
+      },
       "topicId": "cns-sensory",
       "subtopic": "Ascending pathways",
       "difficulty": "hard"
@@ -350,7 +404,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The lateral spinothalamic tract carries pain and temperature; the anterior (ventral) tract carries crude touch.",
+      "why": "The lateral spinothalamic tract classically carries pain and temperature information from the contralateral body after spinal decussation. In modern descriptions, these modalities are components of the broader, partly overlapping anterolateral sensory system.",
+      "notes": {
+        "B": "Fine touch and vibration predominantly use the dorsal column–medial lemniscus pathway, rather than the classical lateral spinothalamic division.",
+        "C": "Conscious proprioception ascends mainly in dorsal columns, while unconscious proprioceptive information also travels through spinocerebellar pathways.",
+        "D": "Crude touch is traditionally associated with anterior spinothalamic pathways, although modality representation overlaps within the broader anterolateral system.",
+        "E": "Motor commands descend through corticospinal and brainstem motor pathways rather than travelling upwards in lateral spinothalamic sensory fibres."
+      },
       "topicId": "cns-sensory",
       "subtopic": "Ascending pathways",
       "difficulty": "medium"
@@ -382,7 +442,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Pain is detected by free nerve endings, found superficially and in deep tissues such as periosteum and joint capsules.",
+      "why": "Nociceptors are generally unencapsulated peripheral endings of primary sensory neurons. Their transduction channels respond to potentially damaging mechanical, thermal or chemical stimuli, initiating signals carried predominantly by A-delta and C fibres.",
+      "notes": {
+        "A": "Muscle spindles are specialised stretch-sensitive receptors reporting muscle length and its changes, rather than the principal sensory endings detecting tissue damage.",
+        "C": "Pacinian corpuscles are encapsulated rapidly adapting mechanoreceptors particularly sensitive to vibration, rather than specialised nociceptive endings.",
+        "D": "Meissner corpuscles detect low-threshold dynamic touch in glabrous skin and are not the usual receptors transmitting damaging-stimulus signals.",
+        "E": "Merkel cell–neurite complexes detect sustained pressure and fine spatial detail, rather than acting as the principal unencapsulated pain receptors."
+      },
       "topicId": "cns-sensory",
       "subtopic": "Pain",
       "difficulty": "medium"
@@ -414,7 +480,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Bradykinin (with histamine, K+, prostaglandins and acids) strongly excites nociceptors.",
+      "why": "Bradykinin is generated during tissue injury and inflammation and can activate or sensitise peripheral nociceptors through kinin receptors. It contributes to inflammatory pain alongside other mediators that alter sensory-ending excitability.",
+      "notes": {
+        "A": "Noradrenaline can modulate nociception in several contexts, but bradykinin is the classic potent peripheral inflammatory pain-producing mediator in this question.",
+        "B": "GABA is predominantly an inhibitory neurotransmitter in the central nervous system rather than a characteristic peripheral tissue-injury mediator directly activating nociceptors.",
+        "D": "Acetylcholine participates in autonomic and neuromuscular signalling and can influence sensory endings, but is not the principal inflammatory mediator specified here.",
+        "E": "Dopamine has neuromodulatory roles within central pathways, rather than being the characteristic locally generated kinin that stimulates pain endings after injury."
+      },
       "topicId": "cns-sensory",
       "subtopic": "Pain",
       "difficulty": "medium"
@@ -446,7 +518,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Nociceptors adapt little; prolonged stimulation may even increase their excitation, keeping pain protective.",
+      "why": "Many nociceptors show limited adaptation to persistent potentially damaging stimulation, maintaining protective signalling while injury remains possible. Inflammatory mediators may additionally sensitise their terminals, increasing responsiveness and contributing to sustained pain or hyperalgesia.",
+      "notes": {
+        "A": "Nociceptors can continue responding to ongoing harmful stimulation, rather than necessarily becoming silent after the first action potential.",
+        "B": "Low-threshold touch is principally detected by mechanoreceptors; nociceptors respond to potentially damaging stimuli rather than ordinary gentle contact alone.",
+        "C": "Rapid fatigue would diminish protective signalling during continued injury, whereas many nociceptors remain active or become sensitised.",
+        "E": "Rapid adaptation is characteristic of some touch receptors, while nociceptive signalling can persist throughout a continuing harmful stimulus."
+      },
       "topicId": "cns-sensory",
       "subtopic": "Pain",
       "difficulty": "hard"
@@ -478,7 +556,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Substance P, slow to build up and be destroyed, mediates slow, aching, long-lasting pain.",
+      "why": "Substance P is a neuropeptide released from subsets of nociceptive afferents, particularly during sustained activity. Its slower receptor-mediated effects contribute to prolonged dorsal-horn excitation alongside glutamate, rather than constituting the sole transmitter of slow pain.",
+      "notes": {
+        "A": "Glutamate mediates rapid excitatory transmission from both fast and slow nociceptive afferents, whereas substance P contributes particularly to prolonged peptide-mediated excitation.",
+        "B": "Glycine is predominantly inhibitory in spinal circuits and does not provide the principal prolonged excitatory peptide signal associated with slow nociception.",
+        "C": "Dopamine modulates various central functions, including pain, but is not the characteristic excitatory neuropeptide released by these primary nociceptive afferents.",
+        "D": "Acetylcholine mediates several neural pathways, but the classical slow nociceptive peptide transmitter described in this question is substance P."
+      },
       "topicId": "cns-sensory",
       "subtopic": "Pain",
       "difficulty": "hard"
@@ -510,7 +594,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Referred pain is projected to a somatic area sharing spinal segments with the affected viscus.",
+      "why": "Referred pain is perceived at a site different from its source, commonly because visceral and somatic afferents converge on shared central neurons. The nervous system may interpret visceral input as arising from a familiar somatic territory.",
+      "notes": {
+        "B": "Phantom pain is perceived in a missing or deafferented body part, rather than a somatic region sharing central input with an affected organ.",
+        "C": "Fast pain describes the early sharp temporal component of nociception, not the spatial mislocalisation of pain from a visceral source.",
+        "D": "Neuropathic pain arises from disease or injury of the somatosensory nervous system, rather than necessarily from convergence of visceral and somatic signals.",
+        "E": "Central pain results from pathology affecting central somatosensory pathways; referred visceral pain can occur without a primary central nervous system lesion."
+      },
       "topicId": "cns-sensory",
       "subtopic": "Pain",
       "difficulty": "medium"
@@ -542,7 +632,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Endorphins, enkephalins and dynorphins act at opiate receptors in the periaqueductal grey and dorsal horn to suppress pain.",
+      "why": "Endorphins, enkephalins and dynorphins are endogenous opioid peptides that activate opioid receptors within pain-modulating circuits. They can suppress neurotransmitter release and reduce neuronal excitability, limiting nociceptive transmission at spinal and supraspinal levels.",
+      "notes": {
+        "A": "Adrenaline and noradrenaline are catecholamines; although noradrenergic signalling can modulate pain, these substances are not endogenous opioid peptides.",
+        "C": "Bradykinin, histamine and prostaglandins commonly participate in inflammatory nociception and sensitisation, rather than comprising the body's endogenous opioid peptide families.",
+        "D": "Dopamine, serotonin and GABA can influence nociceptive processing, but they belong to other transmitter classes rather than endogenous opioid peptides.",
+        "E": "Substance P and glutamate commonly support excitatory nociceptive transmission, rather than serving as the characteristic endogenous opioid analgesic peptide families."
+      },
       "topicId": "cns-sensory",
       "subtopic": "Pain control",
       "difficulty": "hard"
@@ -574,7 +670,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The periaqueductal grey (with the raphe magnus and dorsal-horn inhibitory complex) drives descending pain suppression.",
+      "why": "The midbrain periaqueductal grey coordinates descending pain modulation through connections with medullary networks, including the rostral ventromedial medulla. These pathways influence spinal dorsal-horn transmission through inhibitory and other modulatory mechanisms, including endogenous opioid signalling.",
+      "notes": {
+        "A": "The nucleus tractus solitarius integrates visceral sensory information, including cardiovascular and respiratory signals, rather than being the classic midbrain analgesic centre.",
+        "B": "The red nucleus participates primarily in motor coordination and descending motor pathways, rather than constituting the principal periaqueductal pain-modulation region.",
+        "D": "The dentate nucleus is a deep cerebellar nucleus involved in motor planning and coordination, not the characteristic midbrain descending analgesia centre.",
+        "E": "The substantia nigra contributes importantly to basal ganglia motor regulation, rather than being the classic organising centre of descending pain inhibition."
+      },
       "topicId": "cns-sensory",
       "subtopic": "Pain control",
       "difficulty": "hard"
@@ -606,7 +708,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Input from large tactile afferents inhibits transmission of pain from the same region (gate/local suppression).",
+      "why": "Rubbing an injured area activates large-diameter low-threshold tactile afferents, which can recruit inhibitory dorsal-horn circuits and reduce transmission of nociceptive signals. This illustrates segmental gating of pain through interactions between sensory inputs.",
+      "notes": {
+        "A": "C fibres commonly convey slow nociceptive signals; activating additional nociceptive input is not the principal tactile gating mechanism produced by rubbing.",
+        "B": "Dorsal column blockade would impair discriminative sensory transmission, whereas rubbing reduces pain through local spinal interactions driven by intact tactile afferents.",
+        "C": "Rubbing can alter perceived pain without necessarily changing nociceptor activation threshold, because inhibitory processing occurs within central sensory circuits.",
+        "E": "Substance P generally contributes to excitatory nociceptive transmission in the dorsal horn rather than explaining tactile activation of inhibitory gating circuits."
+      },
       "topicId": "cns-sensory",
       "subtopic": "Pain control",
       "difficulty": "hard"
@@ -638,7 +746,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The postcentral gyrus houses the primary somatosensory cortex (S-I).",
+      "why": "Primary somatosensory cortex occupies the postcentral gyrus and adjacent medial parietal cortex, corresponding mainly to Brodmann areas 3, 1 and 2. It receives thalamic sensory input arranged somatotopically, supporting discrimination and localisation of bodily stimuli.",
+      "notes": {
+        "A": "The precentral gyrus houses primary motor cortex and lies anterior to the central sulcus, rather than containing primary somatosensory cortex.",
+        "B": "The occipital lobe contains primary visual cortex around the calcarine sulcus, rather than the principal cortical representation of bodily somatic sensation.",
+        "C": "Primary auditory cortex lies within the superior temporal region, rather than the postcentral cortical strip processing somatosensory information.",
+        "D": "The cingulate gyrus participates in limbic and affective processing, including aspects of pain, but is not the primary somatosensory cortical location."
+      },
       "topicId": "cns-sensory",
       "subtopic": "Sensory cortex",
       "difficulty": "medium"
@@ -670,7 +784,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Cortical representation reflects receptor density, so lips and fingertips occupy large areas.",
+      "why": "The sensory homunculus reflects cortical magnification: body regions with dense sensory innervation and high discriminative requirements occupy disproportionately large cortical areas. Lips and fingertips therefore receive much greater representation than their physical size alone would predict.",
+      "notes": {
+        "B": "Physical body size does not determine cortical area directly; small regions such as fingertips receive extensive representation because of their sensory acuity.",
+        "C": "Peripheral nerve length influences conduction distance, but cortical sensory representation depends more on innervation density and functional processing demands.",
+        "D": "Distance from the spinal cord affects transmission distance, rather than determining the extent of cortical representation assigned to each body region.",
+        "E": "Muscle number is more relevant to aspects of motor function, whereas the sensory homunculus reflects afferent processing and sensory discrimination."
+      },
       "topicId": "cns-sensory",
       "subtopic": "Sensory cortex",
       "difficulty": "hard"
@@ -702,7 +822,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Astereognosis is failure to identify objects by touch when the somatosensory association area is damaged.",
+      "why": "Astereognosis is failure to identify a familiar object through touch despite sufficiently preserved elementary sensation and comprehension. Damage to parietal somatosensory association networks can impair integration of shape, texture and other tactile features into object recognition.",
+      "notes": {
+        "A": "Apraxia is impairment of learned purposeful movement despite adequate basic motor function, rather than specifically loss of tactile object recognition.",
+        "C": "Agraphia is an acquired impairment of writing ability and does not specifically describe inability to recognise an object using intact touch.",
+        "D": "Anomia is difficulty retrieving a word or object name, whereas astereognosis specifically impairs recognition through tactile sensory information.",
+        "E": "Alexia refers to acquired impairment of reading, rather than impaired identification of objects through somatosensory association processing."
+      },
       "topicId": "cns-sensory",
       "subtopic": "Sensory cortex",
       "difficulty": "hard"
@@ -734,7 +860,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Lamina II is the substantia gelatinosa, rich in inhibitory interneurons that gate pain.",
+      "why": "The substantia gelatinosa corresponds to Rexed lamina II in the superficial dorsal horn. It contains interneuronal circuits that receive nociceptive afferent input and regulate onward transmission through excitatory and inhibitory synaptic interactions.",
+      "notes": {
+        "A": "The substantia nigra is a midbrain structure important in basal ganglia motor circuits, not lamina II of the spinal dorsal horn.",
+        "B": "The nucleus ambiguus is a medullary motor nucleus supplying pharyngeal and laryngeal musculature, rather than a superficial dorsal-horn lamina.",
+        "D": "The cuneate nucleus is a caudal medullary relay for upper-body dorsal column information, not the spinal substantia gelatinosa.",
+        "E": "The gracile nucleus relays lower-body dorsal column information in the medulla, rather than forming lamina II of spinal grey matter."
+      },
       "topicId": "cns-sensory",
       "subtopic": "Dorsal horn",
       "difficulty": "hard"
@@ -766,7 +898,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "WDR cells respond across the range from touch to noxious input; NS cells respond only to noxious stimuli.",
+      "why": "Wide dynamic range neurons respond across a range of stimulus intensities, including innocuous tactile stimulation and potentially damaging stimuli. Their graded responses integrate diverse afferent inputs and contribute to spinal processing of sensory intensity and pain.",
+      "notes": {
+        "A": "Low-threshold-only neurons respond chiefly to innocuous stimulation, rather than covering both ordinary tactile and noxious stimulus ranges.",
+        "B": "Motor neurons convey efferent commands to muscles and are not classified as dorsal-horn sensory neurons by their responses to stimulus intensity.",
+        "C": "Renshaw cells are spinal inhibitory interneurons involved in recurrent motor inhibition, rather than the specified broad-response dorsal-horn sensory population.",
+        "E": "Nociceptive-specific neurons respond preferentially to noxious stimulation, whereas wide dynamic range neurons also respond to innocuous stimuli."
+      },
       "topicId": "cns-sensory",
       "subtopic": "Dorsal horn",
       "difficulty": "hard"
@@ -798,7 +936,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "A ganglion is a cluster of cell bodies outside the CNS; a nucleus is the equivalent inside the CNS.",
+      "why": "A ganglion is a collection of neuronal cell bodies in the peripheral nervous system, such as a dorsal root or autonomic ganglion. Comparable organised collections within the central nervous system are generally termed nuclei.",
+      "notes": {
+        "A": "A nucleus generally describes a collection of neuronal cell bodies within the central nervous system rather than a peripheral ganglion.",
+        "B": "A tract is a bundle of axons within the central nervous system, rather than a collection of peripheral neuronal cell bodies.",
+        "C": "A plexus is an interconnecting network of nerves or neural fibres and may contain ganglia, but is not defined by grouped cell bodies alone.",
+        "D": "A lamina is a layer or sheet of tissue, such as a spinal grey-matter layer, rather than the standard term for a peripheral neuronal cluster."
+      },
       "topicId": "cns-spinal",
       "subtopic": "Definitions",
       "difficulty": "medium"
@@ -830,7 +974,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Sensory neuron cell bodies sit in the dorsal (spinal) root ganglion; their axons enter via the dorsal root.",
+      "why": "Primary spinal sensory neurons are usually pseudounipolar cells with their bodies in dorsal root ganglia. Their peripheral processes receive sensory information, while central processes enter the spinal cord through dorsal roots and communicate with central pathways.",
+      "notes": {
+        "B": "The ventral horn contains somatic motor neuron cell bodies that send axons out through ventral roots, rather than primary afferent cell bodies.",
+        "C": "Lateral grey matter contains autonomic preganglionic neurons at relevant levels, rather than the principal cell bodies of incoming primary spinal sensory neurons.",
+        "D": "White matter contains ascending and descending axonal pathways; primary spinal sensory neuron cell bodies lie outside it within dorsal root ganglia.",
+        "E": "Dorsal column nuclei contain second-order sensory neurons in the medulla, rather than the peripheral primary afferent cell bodies entering spinal roots."
+      },
       "topicId": "cns-spinal",
       "subtopic": "Spinal organisation",
       "difficulty": "medium"
@@ -862,7 +1012,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Dorsal roots carry sensory (afferent) fibres; ventral roots carry motor (efferent) fibres.",
+      "why": "The Bell–Magendie law describes the functional separation of spinal nerve roots: dorsal roots carry afferent sensory information into the spinal cord, while ventral roots convey efferent motor and autonomic signals outwards. They subsequently unite into mixed spinal nerves.",
+      "notes": {
+        "A": "Cranial and spinal nerves are anatomical categories that may carry sensory or motor fibres; they do not define the dorsal–ventral functional separation of roots.",
+        "C": "Ventral roots predominantly carry efferent fibres and dorsal roots carry afferents, so this proposed sensory–motor ordering reverses the classical law.",
+        "D": "Lateral and medial are spatial descriptors, not the paired spinal root names used to distinguish incoming sensory from outgoing motor fibres.",
+        "E": "Anterior corresponds to ventral and posterior to dorsal, so the stated ordering incorrectly assigns sensory function to the anterior root."
+      },
       "topicId": "cns-spinal",
       "subtopic": "Spinal organisation",
       "difficulty": "medium"
@@ -894,7 +1050,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The cord runs from the brainstem to roughly L2 in the adult.",
+      "why": "In adults, the spinal cord typically tapers into the conus medullaris around the L1–L2 vertebral level. Below this termination, lumbar and sacral nerve roots descend within the vertebral canal as the cauda equina.",
+      "notes": {
+        "A": "The L5 vertebral level lies well below the usual adult conus medullaris and normally contains descending cauda equina roots rather than spinal cord.",
+        "B": "The first coccygeal vertebra lies far below the normal termination of the cord, although coccygeal nerve fibres originate from spinal segments.",
+        "D": "The S1 vertebral level generally contains sacral roots below the conus rather than the terminal adult spinal cord itself.",
+        "E": "The T12 vertebral level can occur within the anatomical variation of conus position, but L1–L2 is the usual adult reference level."
+      },
       "topicId": "cns-spinal",
       "subtopic": "Spinal organisation",
       "difficulty": "medium"
@@ -926,7 +1088,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "There are 31 pairs: 8 cervical, 12 thoracic, 5 lumbar, 5 sacral and 1 coccygeal.",
+      "why": "Humans normally have 31 pairs of spinal nerves: eight cervical, twelve thoracic, five lumbar, five sacral and one coccygeal. Each mixed spinal nerve forms from the union of its corresponding dorsal and ventral roots.",
+      "notes": {
+        "A": "Eight is the number of cervical spinal nerve pairs, rather than the total including thoracic, lumbar, sacral and coccygeal levels.",
+        "B": "Forty-three does not represent the standard human spinal nerve count; the five regional groups together comprise 31 pairs.",
+        "C": "Twenty-four omits part of the spinal nerve complement; there are 31 pairs distributed across cervical through coccygeal regions.",
+        "E": "Twelve is the number of thoracic spinal nerve pairs, rather than the complete complement of nerves arising from the spinal cord."
+      },
       "topicId": "cns-spinal",
       "subtopic": "Spinal nerves",
       "difficulty": "medium"
@@ -990,7 +1158,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The phrenic nerve (C3-C5) from the cervical plexus innervates the diaphragm.",
+      "why": "The phrenic nerve arises predominantly from the C4 ventral ramus, with contributions from C3 and C5, and descends through the neck and thorax to supply diaphragmatic motor fibres and associated sensory innervation.",
+      "notes": {
+        "B": "The brachial plexus primarily supplies the upper limb; although C5 can contribute to both structures, the phrenic nerve is conventionally cervical plexus-derived.",
+        "C": "The lumbar plexus supplies portions of the abdominal wall and lower limb, rather than providing the principal motor innervation of the diaphragm.",
+        "D": "The sacral plexus supplies pelvic and lower-limb structures and is the origin of major nerves such as the sciatic nerve.",
+        "E": "Thoracic intercostal nerves supply intercostal muscles and related structures; the main diaphragmatic motor pathway instead descends from cervical spinal levels."
+      },
       "topicId": "cns-spinal",
       "subtopic": "Plexuses",
       "difficulty": "hard"
@@ -1022,7 +1196,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The sciatic nerve (tibial + common peroneal) from the sacral plexus is the largest nerve.",
+      "why": "The sciatic nerve arises from the sacral plexus, typically from L4–S3 contributions, and contains tibial and common fibular divisions. It supplies posterior thigh muscles and, through its terminal branches, most structures of the leg and foot.",
+      "notes": {
+        "A": "The phrenic nerve supplies the diaphragm and does not form the large peripheral nerve distributing motor and sensory fibres throughout the lower limb.",
+        "C": "The femoral nerve chiefly supplies anterior thigh muscles and associated sensory territories, rather than forming the largest nerve of the lower limb.",
+        "D": "The obturator nerve principally supplies medial thigh adductors and a limited sensory territory, rather than the extensive sciatic distribution.",
+        "E": "The radial nerve supplies major extensor muscles and sensory territories of the upper limb, rather than the lower limb."
+      },
       "topicId": "cns-spinal",
       "subtopic": "Plexuses",
       "difficulty": "medium"
@@ -1054,7 +1234,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The radial nerve supplies the extensor compartment (elbow, wrist and finger extension, thumb abduction).",
+      "why": "The radial nerve supplies the posterior compartments of the arm and forearm, including muscles responsible for elbow, wrist and finger extension. Damage can impair wrist and digit extension, producing characteristic weakness such as wrist drop.",
+      "notes": {
+        "A": "The deltoid is supplied principally by the axillary nerve, rather than the radial nerve's posterior upper-limb motor distribution.",
+        "B": "Medial thigh adductors receive predominantly obturator nerve innervation, whereas the radial nerve belongs to the upper-limb brachial plexus.",
+        "D": "Most wrist and finger flexors are supplied by median or ulnar nerves, rather than the radial nerve supplying extensor compartments.",
+        "E": "Many intrinsic hand muscles, especially interossei and medial lumbricals, receive ulnar innervation rather than radial nerve motor supply."
+      },
       "topicId": "cns-spinal",
       "subtopic": "Plexuses",
       "difficulty": "hard"
@@ -1086,7 +1272,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Pain/temperature cross in the cord, so hemisection loses them contralaterally; dorsal-column and motor loss are ipsilateral.",
+      "why": "Pain and temperature afferents synapse within the spinal cord and their second-order axons cross before ascending in the anterolateral system. Cord hemisection therefore produces contralateral pain and temperature loss, usually beginning several segments below the lesion.",
+      "notes": {
+        "A": "A pure hemisection interrupts one anterolateral tract preferentially, so below-level pain and temperature deficits are predominantly contralateral rather than equally bilateral.",
+        "B": "Spinal pathway interruption affects signals ascending from below the lesion, rather than selectively eliminating sensation only above the injured level.",
+        "C": "Segmental sensory loss can occur at the injury level, but interruption of ascending anterolateral fibres also causes deficits below it.",
+        "E": "Ipsilateral loss below the lesion characterises dorsal column modalities; spinally crossed pain and temperature fibres ascend on the opposite side."
+      },
       "topicId": "cns-spinal",
       "subtopic": "Cord lesions",
       "difficulty": "hard"
@@ -1118,7 +1310,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Dorsal-column modalities travel ipsilaterally up to the medulla, so hemisection loses them on the same side.",
+      "why": "Dorsal column fibres carrying vibration, discriminative touch and conscious proprioception ascend ipsilaterally within the spinal cord before crossing in the medulla. Hemisection consequently interrupts these modalities on the same side below the spinal lesion.",
+      "notes": {
+        "A": "Contralateral below-level loss is characteristic of spinally crossed pain and temperature pathways, rather than dorsal column information that crosses in the medulla.",
+        "B": "A unilateral hemisection primarily interrupts the dorsal column on the injured side, rather than eliminating dorsal column function equally on both sides.",
+        "C": "Local root or grey-matter injury may cause segmental deficits, but interruption of ascending dorsal columns also impairs sensation below the lesion.",
+        "D": "Sensory fibres entering above the lesion can still ascend towards the brain without crossing the damaged spinal level."
+      },
       "topicId": "cns-spinal",
       "subtopic": "Cord lesions",
       "difficulty": "hard"
@@ -1182,7 +1380,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Muscle-spindle stretch excites Ia afferents that synapse directly on alpha motor neurons, giving a monosynaptic reflex.",
+      "why": "Tapping a tendon briefly stretches the associated muscle and its muscle spindles. Group Ia afferents excite alpha motor neurons of the stretched muscle through a monosynaptic connection, producing contraction and contributing to resistance against sudden changes in length.",
+      "notes": {
+        "A": "Antagonist contraction is not the initial receptor stimulus; the stretch reflex begins when spindles in the stretched muscle increase their afferent discharge.",
+        "C": "Golgi tendon organs monitor muscle tension through group Ib afferents and participate in distinct interneuron-mediated reflex pathways rather than the classic monosynaptic stretch reflex.",
+        "D": "Free nerve endings can detect potentially harmful stimulation and participate in withdrawal reflexes, rather than providing the primary tendon-jerk receptor signal.",
+        "E": "Gamma motor neurons adjust spindle sensitivity, but the monosynaptic stretch reflex is initiated by spindle afferent discharge after mechanical stretch."
+      },
       "topicId": "cns-spinal",
       "subtopic": "Reflexes",
       "difficulty": "hard"
@@ -1214,7 +1418,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Gamma efferents contract the intrafusal fibre ends, keeping the spindle sensitive as the muscle shortens.",
+      "why": "Gamma motor neurons innervate contractile polar regions of intrafusal muscle fibres. Their activation adjusts tension in the central sensory region, maintaining spindle sensitivity during muscle shortening and allowing useful feedback about muscle length and stretch.",
+      "notes": {
+        "A": "Golgi tendon organs sense musculotendinous tension and are not directly controlled by gamma motor neurons supplying intrafusal spindle fibres.",
+        "B": "The tendon jerk depends on Ia afferent activation and alpha motor neuron output; gamma activity adjusts its sensitivity rather than independently producing the reflex.",
+        "D": "Alpha motor neurons innervate extrafusal muscle fibres and generate the principal contractile force, whereas gamma neurons regulate intrafusal spindle fibres.",
+        "E": "Gamma neurons influence sensory feedback from muscle spindles; their primary direct action is not inhibition of alpha motor neurons."
+      },
       "topicId": "cns-spinal",
       "subtopic": "Reflexes",
       "difficulty": "hard"
@@ -1246,7 +1456,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The in-series Golgi tendon organ triggers IPSPs in the motor neuron, relaxing the muscle before damaging tension develops.",
+      "why": "Golgi tendon organs detect muscle tension through group Ib afferents. In the classical inverse stretch reflex, Ib input activates inhibitory interneurons that reduce homonymous alpha motor neuron activity, although their effects vary with movement and behavioural context.",
+      "notes": {
+        "A": "Sustained spasm would increase muscle tension rather than represent the classical inhibitory response to high tension mediated by Golgi tendon organs.",
+        "B": "Ib input can facilitate activity in certain locomotor contexts, but the classical inverse stretch reflex describes inhibition and relaxation of the loaded muscle.",
+        "C": "Spindle sensitivity is adjusted principally through gamma motor neuron activity, rather than being the defining response of the Golgi tendon reflex.",
+        "E": "Contraction in response to muscle stretch describes the spindle-mediated myotatic reflex, rather than the classical tension-sensitive inverse stretch reflex."
+      },
       "topicId": "cns-spinal",
       "subtopic": "Reflexes",
       "difficulty": "hard"
@@ -1278,7 +1494,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Ia afferents excite the agonist's motor neurons and, via interneurons, inhibit the antagonist's.",
+      "why": "Ia muscle spindle afferents excite alpha motor neurons supplying the stretched muscle and activate inhibitory interneurons that reduce antagonist motor neuron activity. Reciprocal inhibition therefore allows the agonist to contract with less opposing resistance from its antagonist.",
+      "notes": {
+        "A": "Antagonist co-contraction can stabilise joints during voluntary movement, but the classical reciprocal stretch-reflex circuit reduces antagonist activation.",
+        "B": "The antagonist is actively influenced through inhibitory spinal interneurons, rather than simply remaining unaffected by the agonist's stretch reflex.",
+        "C": "Increasing antagonist contraction would oppose agonist movement, whereas reciprocal inhibition reduces antagonist motor neuron discharge during the classical reflex.",
+        "D": "The antagonist retains its spinal innervation; transient synaptic inhibition rather than anatomical disconnection reduces its contractile activity."
+      },
       "topicId": "cns-spinal",
       "subtopic": "Reflexes",
       "difficulty": "medium"
@@ -1310,7 +1532,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "All motor commands converge on the alpha motor neuron, the final common pathway to muscle.",
+      "why": "Alpha motor neurons directly innervate extrafusal skeletal muscle fibres and integrate descending commands, reflex inputs and local spinal activity. They form the final common pathway through which these influences produce ordinary skeletal muscle contraction and force.",
+      "notes": {
+        "B": "Gamma motor neurons innervate intrafusal spindle fibres and regulate sensory sensitivity, rather than directly generating the principal force of extrafusal muscle.",
+        "C": "Upper motor neurons influence movement through lower motor neurons and interneurons, rather than providing the final direct innervation of extrafusal skeletal fibres.",
+        "D": "Renshaw cells regulate spinal motor output through recurrent inhibition but do not themselves innervate extrafusal skeletal muscle fibres.",
+        "E": "The corticospinal tract carries descending motor signals, which ultimately influence lower motor neurons rather than directly innervating ordinary skeletal muscle fibres."
+      },
       "topicId": "cns-motor",
       "subtopic": "Motor organisation",
       "difficulty": "medium"
@@ -1342,7 +1570,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The primary motor cortex occupies the precentral gyrus, just anterior to the central sulcus.",
+      "why": "Primary motor cortex occupies the precentral gyrus and adjacent medial frontal surface, corresponding mainly to Brodmann area 4. Its somatotopically arranged neurons contribute to descending motor control, particularly skilled voluntary movement.",
+      "notes": {
+        "A": "The cerebellar vermis participates in posture and coordination, rather than forming the cerebral cortical area initiating primary voluntary motor commands.",
+        "C": "The postcentral gyrus houses primary somatosensory cortex, which processes afferent bodily sensation rather than serving as primary motor cortex.",
+        "D": "The occipital lobe contains primary visual cortex and associated visual areas, rather than the frontal cortical representation of voluntary movement.",
+        "E": "The superior temporal region includes auditory and language-related areas rather than the principal cortical strip controlling voluntary skeletal movement."
+      },
       "topicId": "cns-motor",
       "subtopic": "Motor cortex",
       "difficulty": "medium"
@@ -1374,7 +1608,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The lower limb is represented at the top (medial) surface; representation is of the contralateral body (the face is bilateral).",
+      "why": "Motor cortical representation is predominantly contralateral and somatotopically organised. Lower-limb areas lie near the medial superior surface, while hand and facial regions occupy more lateral portions; individual axial and cranial muscles may receive bilateral control.",
+      "notes": {
+        "A": "The trunk occupies relatively limited motor cortical territory compared with regions requiring refined control, particularly the hands and face.",
+        "B": "Foot and lower-limb representation lies mainly near the medial paracentral region, rather than the more lateral hand and facial regions.",
+        "D": "The face is represented mainly on the inferolateral motor cortex, and limb motor control is predominantly contralateral rather than ipsilateral.",
+        "E": "Hand representation in each primary motor cortex is predominantly contralateral, although coordinated bilateral movement involves interaction between hemispheres."
+      },
       "topicId": "cns-motor",
       "subtopic": "Motor cortex",
       "difficulty": "hard"
@@ -1406,7 +1646,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Broca's area (inferior frontal, usually left) governs speech production; its damage gives expressive (Broca's) aphasia.",
+      "why": "Broca-associated language networks in the dominant inferior frontal region support speech planning and production. Injury can produce nonfluent, effortful expressive aphasia with relatively preserved comprehension of simple language, although broader language deficits may coexist.",
+      "notes": {
+        "A": "Visual loss generally follows damage to visual pathways or occipital cortex rather than primarily affecting dominant frontal speech-production networks.",
+        "B": "Loss of pain sensation reflects injury to nociceptive pathways or related sensory regions, not the characteristic nonfluent language deficit from Broca-area damage.",
+        "C": "Intention tremor and impaired movement accuracy are typical cerebellar manifestations, rather than the characteristic language-production disturbance associated with Broca aphasia.",
+        "E": "Marked receptive language impairment with fluent speech is more characteristic of Wernicke-type aphasia, whereas Broca-type aphasia primarily affects fluent production."
+      },
       "topicId": "cns-motor",
       "subtopic": "Cortical areas",
       "difficulty": "medium"
@@ -1438,7 +1684,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Most corticospinal fibres decussate at the pyramids of the caudal medulla to form the lateral corticospinal tract.",
+      "why": "Most corticospinal axons descend through the medullary pyramids and cross in the pyramidal decussation of the caudal medulla. They then form the lateral corticospinal tract; a smaller component descends without crossing at that level.",
+      "notes": {
+        "A": "The optic chiasm is the site of partial crossing of retinal ganglion cell axons, not the major corticospinal motor decussation.",
+        "B": "Some anterior corticospinal fibres cross near spinal termination levels, but most corticospinal fibres cross earlier in the caudal medulla.",
+        "C": "Corticospinal fibres traverse cerebral peduncles in the midbrain while remaining largely uncrossed until the lower medullary pyramids.",
+        "D": "Descending motor fibres pass through the pons, where their bundles are dispersed, but the major pyramidal decussation lies more caudally."
+      },
       "topicId": "cns-motor",
       "subtopic": "Descending pathways",
       "difficulty": "hard"
@@ -1534,7 +1786,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Denervating the muscle (LMN lesion) causes flaccid paralysis, wasting, fasciculations/fibrillations and lost reflexes.",
+      "why": "Lower motor neuron injury interrupts direct neural activation and trophic support of skeletal muscle fibres. It can cause flaccid weakness, diminished reflexes, neurogenic atrophy and electromyographic fibrillation potentials, with fasciculations occurring in some disorders.",
+      "notes": {
+        "A": "Intention tremor is associated particularly with cerebellar dysfunction and impaired movement coordination, rather than the primary denervation signs of lower motor neuron injury.",
+        "B": "Chorea consists of irregular involuntary movements commonly linked to basal ganglia disorders, rather than the flaccid weakness characteristic of denervated muscle.",
+        "D": "Spastic weakness and increased stretch reflexes develop in many upper motor neuron lesions, rather than the characteristic lower motor neuron pattern.",
+        "E": "Brisk reflexes suggest altered descending control of spinal reflex circuits; lower motor neuron damage typically reduces reflex responses in affected motor units."
+      },
       "topicId": "cns-motor",
       "subtopic": "Motor lesions",
       "difficulty": "medium"
@@ -1566,7 +1824,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The pontine reticular area excites antigravity (extensor) muscles; the medullary area inhibits them.",
+      "why": "In the classical model, pontine reticulospinal pathways facilitate extensor and postural activity, whereas medullary pathways can suppress excessive extensor tone. Modern understanding recognises that both regions contain diverse circuits whose effects depend on behavioural context.",
+      "notes": {
+        "A": "Both regions participate in postural regulation, but the classical model distinguishes pontine facilitation from medullary inhibition rather than assigning identical excitation.",
+        "B": "The classical pontine reticular influence facilitates antigravity muscle activity, whereas medullary influences can reduce extensor tone under appropriate conditions.",
+        "C": "Reticular formations participate in arousal, autonomic regulation and descending postural control, rather than being restricted exclusively to ocular movement.",
+        "E": "This reverses the traditional teaching model, in which pontine pathways facilitate antigravity tone and medullary pathways exert an opposing inhibitory influence."
+      },
       "topicId": "cns-motor",
       "subtopic": "Brainstem control",
       "difficulty": "hard"
@@ -1598,7 +1862,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Vestibulospinal output excites extensor (antigravity) muscles, helping maintain balance.",
+      "why": "The lateral vestibulospinal tract conveys vestibular information into spinal motor circuits and facilitates extensor activity involved in upright posture and balance. Medial vestibulospinal projections particularly coordinate head and neck position during vestibular disturbances.",
+      "notes": {
+        "A": "Vestibulospinal pathways modulate selected motor circuits rather than universally suppressing all spinal reflexes, and their lateral component supports extensor tone.",
+        "B": "Pain and temperature ascend mainly through anterolateral sensory pathways, whereas vestibulospinal tracts convey descending postural motor influences.",
+        "C": "The lateral vestibulospinal tract descends predominantly ipsilaterally, while medial vestibulospinal projections are bilateral; a major medullary decussation is not their defining feature.",
+        "D": "Skilled independent finger movements depend particularly on corticospinal pathways, rather than the vestibulospinal system's principal role in balance and posture."
+      },
       "topicId": "cns-motor",
       "subtopic": "Brainstem control",
       "difficulty": "hard"
@@ -1630,7 +1900,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Because corticospinal fibres cross at the medullary pyramids, one hemisphere controls the contralateral body.",
+      "why": "Most corticospinal fibres cross the midline in the caudal medullary pyramids before descending in the lateral corticospinal tract. Consequently, each cerebral motor cortex predominantly influences voluntary limb movements on the opposite side of the body.",
+      "notes": {
+        "B": "The cerebellum coordinates movement through its own interconnected circuits, rather than the pyramidal crossing directly explaining cerebellar coordination.",
+        "C": "Pain and temperature pathways cross within the spinal cord through a different decussation, unrelated to the major corticospinal crossing.",
+        "D": "Thalamic nuclei relay sensory information and participate in motor circuits, but their relay functions are not explained by pyramidal decussation.",
+        "E": "Basal ganglia circuits regulate movement through thalamocortical and brainstem connections, rather than their function being determined by the corticospinal decussation."
+      },
       "topicId": "cns-motor",
       "subtopic": "Descending pathways",
       "difficulty": "medium"
@@ -1662,7 +1938,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Apraxia is the loss of learned skilled movement, seen with damage to the hand-skills motor area.",
+      "why": "Apraxia is an acquired inability to carry out learned purposeful actions that cannot be adequately explained by weakness, sensory loss or elementary coordination deficits. Dominant parietofrontal networks help represent and organise the motor programmes required for skilled actions.",
+      "notes": {
+        "A": "Athetosis produces slow involuntary writhing movements, rather than a selective inability to organise a previously learned purposeful action.",
+        "C": "Aphasia impairs language comprehension or expression, rather than the execution of learned skilled hand actions when basic motor function is preserved.",
+        "D": "Ataxia describes impaired coordination and accuracy of movement; apraxia concerns the organisation of learned purposeful actions beyond elementary coordination deficits.",
+        "E": "Agnosia is impaired recognition of stimuli despite adequate elementary sensation, rather than primarily a disorder of learned motor action."
+      },
       "topicId": "cns-motor",
       "subtopic": "Cortical areas",
       "difficulty": "hard"
@@ -1694,7 +1976,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Purkinje cells are the cerebellar cortical output neurons, refining movement.",
+      "why": "Purkinje cells provide the principal output from cerebellar cortex through inhibitory GABAergic axons projecting mainly to deep cerebellar nuclei and, in some regions, vestibular nuclei. They integrate parallel-fibre and climbing-fibre signals to shape cerebellar processing.",
+      "notes": {
+        "A": "Renshaw cells are inhibitory spinal interneurons that provide recurrent motor inhibition, rather than forming the output of cerebellar cortex.",
+        "B": "Mitral cells are prominent projection neurons of the olfactory bulb, rather than the principal inhibitory neurons leaving cerebellar cortex.",
+        "D": "Pyramidal cells are major excitatory projection neurons of cerebral cortex and hippocampal regions, not the characteristic cerebellar cortical output neurons.",
+        "E": "Granule cells provide excitatory parallel-fibre input to Purkinje cells within cerebellar cortex, rather than its principal extracortical output."
+      },
       "topicId": "cns-cerebellum",
       "subtopic": "Cerebellar structure",
       "difficulty": "medium"
@@ -1726,7 +2014,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The vermis lies between the hemispheres and governs axial musculature.",
+      "why": "The cerebellar vermis is the narrow midline region joining the two cerebellar hemispheres. It participates in regulation of axial and proximal musculature, posture and gait through connections involving medial deep cerebellar nuclei.",
+      "notes": {
+        "A": "The corpus callosum links the cerebral hemispheres through commissural fibres, rather than forming the midline region of the cerebellum.",
+        "B": "The tentorium cerebelli is a dural fold separating the cerebellum from overlying cerebral structures, not the tissue between cerebellar hemispheres.",
+        "C": "The modiolus forms the central bony axis of the cochlea and is unrelated to the midline organisation of cerebellar cortex.",
+        "E": "The falx cerebri is a dural fold between the cerebral hemispheres, rather than the midline cerebellar structure coordinating axial movement."
+      },
       "topicId": "cns-cerebellum",
       "subtopic": "Cerebellar structure",
       "difficulty": "medium"
@@ -1758,7 +2052,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The flocculonodular lobe receives vestibular input and governs balance and eye movements.",
+      "why": "The flocculonodular lobe forms a major part of the vestibulocerebellum and receives vestibular and visual-related information. Its outputs help regulate equilibrium, posture and coordinated eye movements needed to stabilise gaze during head motion.",
+      "notes": {
+        "A": "Skilled movement planning depends particularly on lateral cerebellar hemispheres and their cerebral connections, rather than being the main flocculonodular function.",
+        "B": "Axial muscle control involves the vermis and other postural circuits; flocculonodular function additionally encompasses equilibrium and vestibulo-ocular coordination.",
+        "C": "Declarative memory formation depends strongly on hippocampal and medial temporal networks, rather than being the principal function of the vestibulocerebellum.",
+        "D": "Body-temperature regulation depends largely on hypothalamic homeostatic circuits, not the flocculonodular lobe's vestibular motor functions."
+      },
       "topicId": "cns-cerebellum",
       "subtopic": "Cerebellar structure",
       "difficulty": "hard"
@@ -1790,7 +2090,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The lateral hemispheres, via the dentate nucleus, help plan and time sequential movements with the motor and premotor cortex.",
+      "why": "The lateral cerebellar hemispheres receive extensive cortical information through pontine pathways and influence motor planning through the dentate nucleus and thalamus. These cerebrocerebellar loops contribute to timing, prediction and coordination of skilled voluntary movements.",
+      "notes": {
+        "B": "Axial and proximal muscle regulation depends particularly on medial cerebellar regions, including the vermis, rather than predominantly the lateral hemispheres.",
+        "C": "Equilibrium and gaze stabilisation are especially associated with vestibulocerebellar circuits involving the flocculonodular lobe, rather than the lateral planning zone.",
+        "D": "Temperature regulation is a major hypothalamic homeostatic function, not the characteristic motor planning contribution of lateral cerebellar hemispheres.",
+        "E": "Pain modulation involves several neural systems including descending brainstem pathways, whereas the lateral cerebellum principally contributes to coordination and planning."
+      },
       "topicId": "cns-cerebellum",
       "subtopic": "Cerebellar zones",
       "difficulty": "hard"
@@ -1822,7 +2128,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The dentate nucleus coordinates skilled voluntary movement; its damage makes movements jerky.",
+      "why": "The dentate nucleus is the largest deep cerebellar nucleus and receives substantial input from lateral cerebellar cortex. Its outputs reach thalamocortical motor networks, contributing to planning, timing and execution of skilled voluntary movement.",
+      "notes": {
+        "A": "The solitary nucleus is a medullary visceral sensory integration centre, rather than a deep cerebellar nucleus involved in skilled movement.",
+        "C": "The red nucleus lies in the midbrain and receives cerebellar output, but is not itself a deep cerebellar nucleus.",
+        "D": "The subthalamic nucleus belongs to basal ganglia motor circuits and is anatomically distinct from the deep nuclei of the cerebellum.",
+        "E": "The caudate nucleus is a component of the striatum and participates in basal ganglia loops, rather than being a cerebellar nucleus."
+      },
       "topicId": "cns-cerebellum",
       "subtopic": "Cerebellar structure",
       "difficulty": "hard"
@@ -1886,7 +2198,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The cerebellum compares the cortex's intended movement with peripheral feedback and coordinates agonists and antagonists.",
+      "why": "The cerebellum integrates information about intended movement, actual sensory feedback and internal predictions of movement consequences. By detecting discrepancies and adjusting ongoing or future motor activity, it contributes to coordination, accuracy, timing and motor learning.",
+      "notes": {
+        "A": "Declarative memory formation relies particularly on hippocampal networks, whereas the cerebellum is strongly involved in motor adaptation and procedural learning.",
+        "B": "The hypothalamus coordinates thermoregulatory responses and fever-related set-point changes, rather than the cerebellum setting normal body temperature.",
+        "C": "Conscious pain involves distributed somatosensory and affective networks, rather than being generated primarily by the cerebellum's movement-comparison circuitry.",
+        "E": "Movement initiation involves cortical and basal ganglia networks; the cerebellum chiefly refines planned and ongoing actions rather than acting as the sole initiating command centre."
+      },
       "topicId": "cns-cerebellum",
       "subtopic": "Cerebellar function",
       "difficulty": "hard"
@@ -1918,7 +2236,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Dysmetria (past-pointing) is inaccurate judgement of movement distance, a classic cerebellar sign.",
+      "why": "Dysmetria is impaired scaling of movement amplitude, causing an intended action to overshoot or undershoot its target. Cerebellar dysfunction disrupts coordination and prediction of the forces needed to reach a desired endpoint accurately.",
+      "notes": {
+        "A": "Dysdiadochokinesia denotes difficulty performing rapid alternating movements, rather than specifically misjudging the amplitude needed to reach a target.",
+        "B": "Dysarthria describes impaired articulation resulting from motor dysfunction of speech muscles, rather than inaccurate distance estimation during limb movements.",
+        "C": "Dystonia involves sustained or intermittent abnormal muscle contractions causing patterned movements or postures, rather than primarily an error in movement scaling.",
+        "D": "Dyskinesia is a broad term for abnormal involuntary movements and does not specifically describe target overshoot or undershoot."
+      },
       "topicId": "cns-cerebellum",
       "subtopic": "Cerebellar signs",
       "difficulty": "hard"
@@ -1950,7 +2274,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Dysdiadochokinesia is impaired rapid alternating movement from cerebellar dysfunction.",
+      "why": "Dysdiadochokinesia is impairment of rapid alternating voluntary movements, such as repeated pronation and supination of the forearm. Cerebellar dysfunction disrupts the timing and coordination of agonist–antagonist activation needed to switch smoothly between movement directions.",
+      "notes": {
+        "B": "Dysmetria describes inaccurate movement amplitude and target overshoot or undershoot, rather than specifically impaired rapid alternating movements.",
+        "C": "Nystagmus consists of involuntary oscillatory eye movements and can accompany cerebellar disease, but it does not name impaired alternating limb movements.",
+        "D": "Chorea consists of irregular, flowing involuntary movements, often associated with basal ganglia dysfunction rather than a specific alternating-movement coordination deficit.",
+        "E": "Athetosis consists of slow involuntary writhing movements, rather than difficulty rapidly switching between intentionally commanded opposing movements."
+      },
       "topicId": "cns-cerebellum",
       "subtopic": "Cerebellar signs",
       "difficulty": "hard"
@@ -1982,7 +2312,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Cerebellar lesions cause an intention (action) tremor that increases near the target; a resting tremor suggests basal-ganglia disease.",
+      "why": "An intention tremor occurs during goal-directed movement and typically increases as the limb approaches its target. Cerebellar pathway dysfunction impairs accurate timing and correction of movement, producing oscillation around the intended trajectory or endpoint.",
+      "notes": {
+        "A": "Flapping tremor, or asterixis, reflects brief lapses of sustained muscle contraction and is often associated with metabolic encephalopathy.",
+        "C": "Resting tremor occurs most prominently when a body part is at rest and often decreases with voluntary movement, unlike intention tremor.",
+        "D": "Essential tremor commonly occurs during posture or action, but target-dependent worsening in the stated cerebellar context specifically describes intention tremor.",
+        "E": "Physiological tremor is normally small and may be enhanced by stress or drugs, rather than characteristically increasing markedly near a movement target."
+      },
       "topicId": "cns-cerebellum",
       "subtopic": "Cerebellar signs",
       "difficulty": "hard"
@@ -2014,7 +2350,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Cerebellar incoordination of the speech muscles produces scanning dysarthria.",
+      "why": "Cerebellar dysfunction can disrupt the timing, force and coordination of muscles used for speech, producing ataxic dysarthria. A classic pattern is scanning speech, with irregular articulation, abnormal pauses and altered stress between syllables.",
+      "notes": {
+        "A": "Dysphonia primarily describes abnormal voice quality or phonation, whereas cerebellar scanning speech reflects impaired coordination of speech articulation and rhythm.",
+        "B": "Mutism means absent speech output; cerebellar dysarthria generally permits speech but makes articulation and prosody abnormal.",
+        "D": "Expressive aphasia impairs language formulation and production, rather than simply disrupting the muscular coordination of speech articulation.",
+        "E": "Receptive aphasia primarily impairs comprehension of language, whereas cerebellar scanning speech is a motor speech coordination disturbance."
+      },
       "topicId": "cns-cerebellum",
       "subtopic": "Cerebellar signs",
       "difficulty": "medium"
@@ -2046,7 +2388,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Cerebellar lesions commonly cause hypotonia along with pendular reflexes.",
+      "why": "Cerebellar lesions can reduce resting muscle tone by altering the regulation of descending motor pathways and spinal reflex excitability. Hypotonia and pendular tendon reflexes are classical findings, although tone abnormalities vary with lesion location and duration.",
+      "notes": {
+        "A": "Muscle tone can be normal in some cerebellar disorders, but consistently normal tone is not the classical finding across all cases.",
+        "B": "Spasticity is a velocity-dependent increase in tone associated particularly with upper motor neuron dysfunction, rather than typical cerebellar hypotonia.",
+        "C": "Cogwheel rigidity is associated especially with parkinsonism and superimposed tremor, rather than the characteristic reduced tone of cerebellar lesions.",
+        "E": "Marked rigidity suggests extrapyramidal or other motor-system disorders, whereas cerebellar dysfunction classically can reduce muscle tone."
+      },
       "topicId": "cns-cerebellum",
       "subtopic": "Cerebellar signs",
       "difficulty": "medium"
@@ -2078,7 +2426,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "By predicting the rate of approach, the cerebellum lets us time actions like crossing a road.",
+      "why": "The cerebellum contributes to predictive processing by estimating the timing and sensory consequences of movement and changing environmental events. Such internal predictions help prepare appropriately timed motor responses, including interception or avoidance of an approaching object.",
+      "notes": {
+        "A": "Deep-tissue pain perception depends on nociceptive pathways and cerebral processing, rather than the cerebellum's predictive timing of motor responses.",
+        "B": "Blood pressure is regulated through autonomic cardiovascular networks and hormonal mechanisms, not primarily through cerebellar prediction of object motion.",
+        "C": "Long-term memory formation involves several brain systems; declarative memory consolidation is particularly hippocampal rather than the predictive motor function described.",
+        "D": "Temperature set-point regulation depends largely on hypothalamic circuits, rather than cerebellar estimation of movement timing and approaching objects."
+      },
       "topicId": "cns-cerebellum",
       "subtopic": "Cerebellar function",
       "difficulty": "medium"
@@ -2110,7 +2464,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Ballistic movements (e.g. typing) run their pre-set course; the cerebellum programmes their extent.",
+      "why": "Ballistic movements are rapid, largely preprogrammed actions whose initial execution is too brief for slower sensory feedback to guide every detail. Feedforward motor planning, supported by cerebellar prediction, helps specify their timing and force before movement begins.",
+      "notes": {
+        "B": "Pendular movements describe swinging or oscillatory motion and do not specifically denote rapid, preprogrammed voluntary actions relying heavily on feedforward control.",
+        "C": "Segmentation movements are commonly discussed in gastrointestinal mixing and do not describe the rapid feedforward actions of skeletal motor control.",
+        "D": "Tonic contractions maintain relatively sustained muscle activity, contrasting with the brief and rapid execution of ballistic voluntary movements.",
+        "E": "Reflex movements are triggered by sensory input through automatic circuits; ballistic actions can instead be voluntarily planned and rapidly executed."
+      },
       "topicId": "cns-cerebellum",
       "subtopic": "Cerebellar function",
       "difficulty": "hard"
@@ -2174,7 +2534,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The lentiform nucleus is the putamen combined with the globus pallidus.",
+      "why": "The lentiform nucleus comprises the putamen laterally and globus pallidus medially, forming a lens-shaped structure on anatomical sections. These components participate in basal ganglia circuitry, although the putamen and pallidum have different principal functional roles.",
+      "notes": {
+        "A": "The caudate and thalamus are separated structures with distinct roles in basal ganglia and thalamic circuitry, not the components of the lentiform nucleus.",
+        "B": "The subthalamic nucleus lies below the thalamus and participates in basal ganglia motor circuits, but is not a lentiform component.",
+        "D": "The caudate and putamen constitute the dorsal striatum, whereas the lentiform nucleus pairs the putamen with the globus pallidus.",
+        "E": "The globus pallidus forms part of the lentiform nucleus, but the substantia nigra lies in the midbrain rather than within it."
+      },
       "topicId": "cns-basal",
       "subtopic": "Basal ganglia anatomy",
       "difficulty": "hard"
@@ -2206,7 +2572,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Cortex projects to the basal ganglia, which project to the thalamus, which projects back to the cortex (the extrapyramidal loop).",
+      "why": "Basal ganglia circuits receive extensive cerebral cortical input and influence cortical activity through output nuclei, particularly the internal globus pallidus and substantia nigra pars reticulata. Their projections reach thalamic motor-related nuclei that relay signals back to cerebral cortex.",
+      "notes": {
+        "A": "Spinal circuits execute descending motor commands, but the principal basal ganglia feedback loop to cerebral cortex passes through thalamic relays.",
+        "B": "The medulla contains vital autonomic and motor pathways, rather than the major relay returning basal ganglia motor signals to cerebral cortex.",
+        "C": "The hippocampus participates in memory-related networks and is not the conventional main relay of the basal ganglia–thalamocortical motor loop.",
+        "E": "The cerebellum has parallel thalamocortical motor loops and interacts with basal ganglia networks, but is not their principal cortical return relay."
+      },
       "topicId": "cns-basal",
       "subtopic": "Basal ganglia circuitry",
       "difficulty": "hard"
@@ -2334,7 +2706,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Loss of nigrostriatal dopamine neurons in the substantia nigra underlies Parkinson's disease.",
+      "why": "Parkinson disease involves progressive degeneration of dopaminergic neurons particularly in the substantia nigra pars compacta. Reduced dopamine delivery to the striatum disrupts direct and indirect basal ganglia pathways, contributing to bradykinesia and other motor manifestations.",
+      "notes": {
+        "A": "The subthalamic nucleus contributes to the indirect basal ganglia pathway, but the characteristic dopaminergic neuronal degeneration originates predominantly in substantia nigra pars compacta.",
+        "B": "The globus pallidus participates in basal ganglia output and intermediary pathways, rather than providing the principal nigrostriatal dopamine-producing neurons.",
+        "D": "The caudate receives dopaminergic input from substantia nigra and degenerates prominently in Huntington disease, rather than being the main dopamine cell-body source in Parkinson disease.",
+        "E": "The putamen is a major striatal target of nigrostriatal dopamine, whereas the characteristic degenerating dopaminergic cell bodies lie within the midbrain."
+      },
       "topicId": "cns-basal",
       "subtopic": "Basal ganglia disorders",
       "difficulty": "hard"
@@ -2366,7 +2744,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Parkinsonism features resting tremor, bradykinesia and cogwheel rigidity.",
+      "why": "The classical motor features of Parkinson disease include bradykinesia, resting tremor and rigidity, which may have a cogwheel quality when tremor accompanies increased tone. Not every patient exhibits all three features, and postural instability may develop later.",
+      "notes": {
+        "A": "Intention tremor worsens near a voluntary movement target and is more characteristic of cerebellar dysfunction than the classical parkinsonian resting tremor.",
+        "B": "Chorea consists of irregular involuntary movements and is characteristic of hyperkinetic disorders rather than the classical parkinsonian motor triad.",
+        "C": "Hemiballismus produces large-amplitude flinging movements on one side, often following disruption of subthalamic pathways, rather than typical Parkinson disease rigidity.",
+        "E": "Flaccid paralysis is associated with lower motor neuron dysfunction or other causes of weakness, rather than the characteristic rigidity accompanying parkinsonism."
+      },
       "topicId": "cns-basal",
       "subtopic": "Basal ganglia disorders",
       "difficulty": "medium"
@@ -2398,7 +2782,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Huntington's degenerates the caudate and putamen, losing striatal cholinergic and GABA neurons and causing chorea.",
+      "why": "Huntington disease causes progressive degeneration of striatal neurons, particularly GABAergic medium spiny projection neurons in the caudate and putamen. Early disruption of indirect-pathway signalling contributes to chorea, while broader neurodegeneration contributes to cognitive and psychiatric manifestations.",
+      "notes": {
+        "A": "Substantia nigra pars compacta degeneration is characteristic of Parkinson disease, whereas Huntington disease prominently affects striatal projection neurons.",
+        "B": "Subthalamic lesions classically cause hemiballismus; the inherited neurodegenerative process in Huntington disease prominently affects the caudate and putamen.",
+        "C": "The globus pallidus is affected functionally by altered striatal input, but the characteristic early neuronal loss occurs within the striatum.",
+        "D": "The dentate nucleus is a deep cerebellar nucleus involved in motor coordination, rather than the major early site of Huntington-related striatal degeneration."
+      },
       "topicId": "cns-basal",
       "subtopic": "Basal ganglia disorders",
       "difficulty": "hard"
@@ -2430,7 +2820,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "A lesion (often a stroke) of the contralateral subthalamic nucleus produces hemiballismus.",
+      "why": "A lesion affecting the subthalamic nucleus or related basal ganglia circuitry can reduce excitatory drive to inhibitory basal ganglia output nuclei. This disinhibition may produce large-amplitude flinging movements, classically contralateral to a subthalamic lesion.",
+      "notes": {
+        "B": "Caudate dysfunction may produce choreic and other movement abnormalities, but the classical focal lesion associated with hemiballismus involves the subthalamic nucleus.",
+        "C": "Substantia nigra dopaminergic degeneration causes parkinsonism, a predominantly hypokinetic syndrome rather than the classical acute hemiballistic movement disorder.",
+        "D": "Dentate nucleus dysfunction can impair cerebellar coordination and produce ataxia or tremor, rather than the classical basal ganglia mechanism of hemiballismus.",
+        "E": "The red nucleus participates in motor coordination pathways, but subthalamic circuitry is the characteristic classical localisation for contralateral hemiballismus."
+      },
       "topicId": "cns-basal",
       "subtopic": "Basal ganglia disorders",
       "difficulty": "hard"
@@ -2462,7 +2858,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Chorea is rapid involuntary movement linked to caudate degeneration (as in Huntington's).",
+      "why": "Chorea consists of irregular, brief, involuntary movements that appear to flow unpredictably between body regions. Degeneration or dysfunction of striatal circuits, including the caudate in Huntington disease, can disrupt suppression and selection of motor programmes.",
+      "notes": {
+        "A": "Ballismus describes particularly large-amplitude flinging movements, often involving proximal limbs, rather than the more varied flowing movements described in ordinary chorea.",
+        "C": "Athetosis denotes slower continuous writhing movements, contrasting with the relatively rapid and irregular movements characteristic of chorea.",
+        "D": "Resting tremor is a relatively rhythmic oscillation occurring at rest, rather than the unpredictable non-rhythmic sequence of choreic movements.",
+        "E": "Rigidity is increased resistance to passive movement and is not itself the rapid involuntary dance-like movement pattern described."
+      },
       "topicId": "cns-basal",
       "subtopic": "Basal ganglia disorders",
       "difficulty": "medium"
@@ -2494,7 +2896,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Athetosis is slow writhing movement associated with lenticular (lentiform) nucleus lesions.",
+      "why": "Athetosis describes slow, continuous, involuntary writhing movements, often affecting distal limbs. It is associated with dysfunction of basal ganglia motor networks, including lentiform-region lesions, although the movement pattern does not uniquely localise a lesion.",
+      "notes": {
+        "A": "Intention tremor is an oscillation during target-directed movement, rather than the continuous slow writhing pattern of athetosis.",
+        "B": "Clonus is rhythmic repetitive muscle contraction associated with exaggerated stretch reflexes, rather than slow irregular writhing movements from basal ganglia dysfunction.",
+        "D": "Chorea typically involves relatively rapid, irregular movements, whereas athetosis describes slower sustained writhing that can coexist with chorea.",
+        "E": "Hemiballismus consists of large-amplitude flinging movements affecting one side, rather than the slower predominantly writhing movement pattern described."
+      },
       "topicId": "cns-basal",
       "subtopic": "Basal ganglia disorders",
       "difficulty": "hard"
@@ -2526,7 +2934,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Parkinson's is hypokinetic (akinesia/bradykinesia); chorea, athetosis and ballismus are hyperkinetic.",
+      "why": "Parkinson disease is predominantly a hypokinetic movement disorder because nigrostriatal dopamine loss alters basal ganglia motor circuitry and impairs initiation and scaling of movement. Bradykinesia is central to its clinical motor syndrome, despite possible accompanying resting tremor.",
+      "notes": {
+        "A": "Sensory symptoms may occur in Parkinson disease, but its defining motor dysfunction cannot be classified as purely loss of sensory input.",
+        "B": "Cerebellar incoordination produces ataxia and dysmetria, whereas Parkinson disease primarily involves basal ganglia dysfunction with impaired movement speed and amplitude.",
+        "C": "Spastic paralysis reflects corticospinal or other upper motor neuron dysfunction, rather than the characteristic bradykinesia and rigidity of parkinsonism.",
+        "E": "Hyperkinetic disorders produce excessive involuntary movement, such as chorea or ballismus; Parkinson disease is predominantly hypokinetic despite possible tremor."
+      },
       "topicId": "cns-basal",
       "subtopic": "Basal ganglia disorders",
       "difficulty": "hard"
@@ -2558,7 +2972,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The corpus callosum is the main commissure linking the hemispheres.",
+      "why": "The corpus callosum is the largest commissural fibre bundle connecting the cerebral hemispheres. Its fibres allow interhemispheric transfer and integration of cortical information, linking many corresponding and non-corresponding regions across the midline.",
+      "notes": {
+        "A": "The internal capsule contains major projection fibres connecting cortex with subcortical structures and brainstem, rather than the largest interhemispheric commissure.",
+        "B": "The fornix carries major hippocampal projection pathways involved in memory circuitry, rather than forming the main broad connection between cerebral hemispheres.",
+        "C": "The corona radiata consists predominantly of projection fibres spreading between cortex and internal capsule, rather than crossing the midline between hemispheres.",
+        "D": "The anterior commissure connects selected regions of the two cerebral hemispheres, but is substantially smaller than the principal corpus callosum."
+      },
       "topicId": "cns-brain",
       "subtopic": "Cerebral hemispheres",
       "difficulty": "medium"
@@ -2590,7 +3010,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "About 87% are right-handed and left-hemisphere dominant for speech and motor control.",
+      "why": "Language networks are lateralised predominantly to the left cerebral hemisphere in most people, including most right-handed individuals and many left-handed individuals. Classical Broca and Wernicke regions are components of a broader distributed dominant-hemisphere language network.",
+      "notes": {
+        "B": "Right-hemisphere language dominance occurs in some individuals, but it is less common than left-hemisphere dominance in the general population.",
+        "C": "Both hemispheres contribute to aspects of communication, but the principal language network is usually asymmetric rather than equally represented in both.",
+        "D": "The cerebellum can contribute to language timing and processing, but the major classical cortical language areas lie in a cerebral hemisphere.",
+        "E": "Brainstem circuits control important speech-related motor functions, but classical Broca and Wernicke language regions are located in cerebral cortex."
+      },
       "topicId": "cns-brain",
       "subtopic": "Cerebral dominance",
       "difficulty": "medium"
@@ -2622,7 +3048,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The occipital lobe is the visual centre; damage causes visual field defects or agnosia.",
+      "why": "The occipital lobe contains primary visual cortex and visual association regions that process information arriving through the optic radiations. These areas support perception and analysis of visual features, with damage potentially causing visual field or recognition deficits.",
+      "notes": {
+        "A": "Emotional processing involves distributed limbic and cortical networks, including the amygdala and prefrontal regions, rather than primarily occipital visual cortex.",
+        "C": "Primary auditory cortex lies in the superior temporal region and processes sound, rather than occupying the principal sensory territory of occipital cortex.",
+        "D": "Language comprehension depends substantially on dominant temporal and related cortical networks, rather than being the primary function of the occipital lobe.",
+        "E": "Voluntary movement depends particularly on frontal motor areas and associated networks, whereas occipital cortex specialises mainly in visual processing."
+      },
       "topicId": "cns-brain",
       "subtopic": "Cerebral lobes",
       "difficulty": "easy"
@@ -2654,7 +3086,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "With only the association area lost, vision remains but recognition of what is seen is impaired (visual agnosia).",
+      "why": "Visual association networks integrate elementary visual features into meaningful representations of objects. Damage to relevant occipitotemporal association regions can produce visual agnosia, in which visual detection is sufficiently preserved but recognition of seen objects is impaired.",
+      "notes": {
+        "A": "Pain sensation depends on somatosensory and nociceptive networks, rather than the higher-order visual processing disrupted by an occipital association lesion.",
+        "B": "Expressive aphasia primarily reflects damage to dominant frontal language networks, not isolated impairment of object recognition through visual information.",
+        "D": "Complete blindness generally requires more extensive bilateral disruption of primary visual pathways or cortex; association damage may preserve elementary vision.",
+        "E": "Hearing depends on auditory pathways and temporal cortical processing, rather than the visual association networks affected in visual agnosia."
+      },
       "topicId": "cns-brain",
       "subtopic": "Cerebral lobes",
       "difficulty": "hard"
@@ -2686,7 +3124,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Wernicke's area handles comprehension; its damage gives fluent but meaningless speech with poor understanding.",
+      "why": "Wernicke-type aphasia involves impaired comprehension of spoken or written language following damage to dominant posterior temporal and related language networks. Speech may remain fluent but contain incorrect words or meaningless content because language processing is disrupted.",
+      "notes": {
+        "A": "Dysarthria is impaired motor articulation of speech, generally with language comprehension relatively intact, rather than the receptive language deficit described.",
+        "B": "Apraxia impairs execution of learned purposeful actions and does not specifically explain difficulty understanding meaningful spoken language.",
+        "C": "Agnosia refers broadly to impaired recognition despite preserved basic sensation; acquired language comprehension impairment is more specifically classified as receptive aphasia.",
+        "E": "Broca-type aphasia primarily produces nonfluent, effortful speech with relatively better comprehension of simple language, contrasting with the classical Wernicke pattern."
+      },
       "topicId": "cns-brain",
       "subtopic": "Cortical areas",
       "difficulty": "hard"
@@ -2718,7 +3162,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The thalamus relays vision, hearing, touch and more to the cortex; olfaction largely bypasses it.",
+      "why": "Most sensory pathways relay through specialised thalamic nuclei before reaching primary sensory cortex. Olfaction is the classical exception because initial projections reach primary olfactory cortical regions without an obligatory preceding thalamic relay, although later olfactory processing involves thalamic connections.",
+      "notes": {
+        "A": "The hypothalamus integrates autonomic, endocrine and homeostatic information, rather than serving as the principal relay for most conscious sensory pathways to cortex.",
+        "B": "Basal ganglia participate in motor, cognitive and motivational circuits rather than providing the main ascending sensory relay to primary cortex.",
+        "C": "The cerebellum integrates sensory feedback for motor coordination but does not constitute the general obligatory relay for sensory information reaching cerebral cortex.",
+        "D": "The medulla contains important sensory relays and autonomic integration centres, but most major sensory cortical pathways pass through thalamic nuclei."
+      },
       "topicId": "cns-brain",
       "subtopic": "Diencephalon",
       "difficulty": "medium"
@@ -2750,7 +3200,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The hypothalamus maintains body set-points for temperature, hunger, thirst, water balance and sleep-wake cycles.",
+      "why": "The hypothalamus integrates neural and circulating information to coordinate autonomic, endocrine and behavioural homeostasis. Different hypothalamic regions regulate temperature, feeding, thirst, water balance and circadian timing, including the suprachiasmatic nucleus as a principal circadian pacemaker.",
+      "notes": {
+        "B": "The thalamus principally relays and modulates information reaching cortex and participates in arousal, rather than coordinating the listed major homeostatic behaviours.",
+        "C": "The cerebellum contributes to coordination, timing and motor learning, rather than being the principal regulator of hunger, thirst and body temperature.",
+        "D": "The pons contains respiratory, arousal and other brainstem circuits, but the central integration of these homeostatic functions occurs chiefly in the hypothalamus.",
+        "E": "The occipital lobe primarily processes visual information and is not the major central coordinator of endocrine and autonomic homeostatic responses."
+      },
       "topicId": "cns-brain",
       "subtopic": "Diencephalon",
       "difficulty": "medium"
@@ -2782,7 +3238,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The hippocampus consolidates new declarative memories; its loss prevents new memory formation.",
+      "why": "The hippocampus and associated medial temporal structures are essential for encoding and consolidating many new declarative memories. Bilateral hippocampal damage can cause severe anterograde amnesia while leaving some older memories, working memory and forms of procedural learning relatively preserved.",
+      "notes": {
+        "A": "The cingulate gyrus participates in limbic processing and memory-related networks, but the hippocampus is particularly essential for new declarative memory consolidation.",
+        "C": "The amygdala assigns emotional significance to experiences and modulates emotional memory, rather than serving as the principal general declarative memory consolidation structure.",
+        "D": "Certain thalamic nuclei participate in memory circuitry and their lesions can cause amnesia, but the hippocampus is the specified medial temporal structure.",
+        "E": "The globus pallidus participates in basal ganglia motor and associative circuits, rather than the principal encoding of new declarative memories."
+      },
       "topicId": "cns-brain",
       "subtopic": "Limbic system",
       "difficulty": "hard"
@@ -2814,7 +3276,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Limbic (amygdala) lesions blunt fear/anger and can raise appetite and sexual behaviour (a Kluver-Bucy-like picture).",
+      "why": "Bilateral damage involving amygdaloid and adjacent anterior temporal limbic structures can produce features of Klüver–Bucy syndrome, including diminished fear responses, behavioural disinhibition and hyperorality or altered eating behaviour. The precise manifestations depend on lesion extent.",
+      "notes": {
+        "A": "Pain and temperature loss is associated with damage to somatosensory pathways, rather than the characteristic emotional and behavioural changes following bilateral limbic injury.",
+        "B": "Resting tremor and rigidity suggest nigrostriatal motor dysfunction, rather than the altered emotional and feeding responses associated with amygdaloid-region damage.",
+        "D": "Spastic limb paralysis suggests injury to upper motor neuron pathways, not the typical behavioural syndrome following bilateral anterior temporal limbic lesions.",
+        "E": "Intention tremor and ataxia reflect cerebellar or related pathway dysfunction, rather than the classical changes in emotional reactivity and oral behaviour."
+      },
       "topicId": "cns-brain",
       "subtopic": "Limbic system",
       "difficulty": "hard"
@@ -2846,7 +3314,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The medulla houses cardiovascular, respiratory and swallowing centres.",
+      "why": "Medullary networks regulate essential autonomic and motor functions, including cardiovascular reflexes, automatic respiratory rhythm and coordination of swallowing. They integrate visceral sensory input and generate outputs through cranial motor nuclei, autonomic pathways and descending spinal connections.",
+      "notes": {
+        "A": "Fine voluntary hand movements depend especially on cerebral motor cortex and corticospinal pathways, rather than being primarily organised by medullary autonomic centres.",
+        "B": "Long-term declarative memory depends substantially on medial temporal and distributed cortical networks, rather than the medulla's vital autonomic control circuits.",
+        "C": "Colour perception relies on retinal and cerebral visual processing, including specialised occipital and occipitotemporal regions, rather than medullary autonomic centres.",
+        "E": "Vision and hearing involve retinal and auditory pathways with important midbrain and thalamocortical processing, rather than defining the medulla's major vital control functions."
+      },
       "topicId": "cns-brain",
       "subtopic": "Brainstem",
       "difficulty": "medium"
@@ -2878,7 +3352,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The reticular activating system, with key fibres in the pons, governs arousal, alertness and the sleep-wake cycle.",
+      "why": "Ascending arousal systems include neurons within brainstem reticular formation and associated pontine, midbrain, hypothalamic and basal forebrain networks. Their projections help maintain wakefulness and cortical responsiveness, while interactions with sleep-promoting circuits regulate transitions between sleep and waking.",
+      "notes": {
+        "A": "Occipital cortex primarily processes vision, although cortical activation changes with arousal; it is not the main brainstem origin of ascending arousal systems.",
+        "B": "The cerebellar vermis contributes principally to postural and axial motor coordination, rather than housing the reticular activating system.",
+        "C": "Dorsal columns carry ascending discriminative touch and proprioceptive information, rather than forming the major distributed neural system maintaining wakefulness.",
+        "D": "Basal ganglia participate in motor and behavioural regulation, but the classic ascending reticular activating system originates in brainstem reticular networks."
+      },
       "topicId": "cns-brain",
       "subtopic": "Brainstem",
       "difficulty": "hard"
@@ -2910,7 +3390,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Alpha waves (about 8-13 Hz) dominate when a person is awake, relaxed with eyes shut.",
+      "why": "Alpha activity is a rhythmic EEG pattern, usually approximately 8–13 Hz, prominent over posterior scalp regions during relaxed wakefulness with eyes closed. It typically diminishes with eye opening, visual attention or increased mental engagement.",
+      "notes": {
+        "B": "Beta activity has a higher frequency and is commonly associated with alertness, active mental processing or certain medication effects, rather than posterior eyes-closed resting alpha.",
+        "C": "Delta activity consists of slow waves prominent during deep non-REM sleep, rather than the characteristic rhythm of relaxed awake adults with closed eyes.",
+        "D": "Theta activity may increase during drowsiness and lighter sleep, rather than being the classic dominant posterior rhythm of relaxed eyes-closed wakefulness.",
+        "E": "Gamma activity occurs at higher frequencies and participates in several aspects of cortical processing, rather than defining the conventional relaxed resting EEG rhythm."
+      },
       "topicId": "cns-brain",
       "subtopic": "EEG and sleep",
       "difficulty": "hard"
@@ -2942,7 +3428,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "REM sleep shows a desynchronised, awake-like EEG, muscle atonia and vivid dreaming.",
+      "why": "REM sleep typically shows low-amplitude, mixed-frequency EEG activity resembling wakefulness, rapid eye movements and markedly reduced skeletal muscle tone. Vivid dreams are common, although dreaming can also occur in non-REM sleep.",
+      "notes": {
+        "A": "Sleepwalking and night terrors are typically non-REM parasomnias associated particularly with deep slow-wave sleep, rather than defining ordinary REM sleep.",
+        "C": "The deepest slow-wave sleep corresponds to non-REM stage N3, whereas REM sleep has a relatively activated cortical EEG pattern.",
+        "D": "High-amplitude delta activity is characteristic of deep non-REM sleep, rather than the usual low-amplitude mixed-frequency EEG during REM.",
+        "E": "The brain remains metabolically and electrically active during REM sleep, despite marked reduction of tone in most skeletal muscles."
+      },
       "topicId": "cns-brain",
       "subtopic": "EEG and sleep",
       "difficulty": "hard"
@@ -2974,7 +3466,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The midbrain mediates visual and auditory reflexes and some motor coordination.",
+      "why": "The superior and inferior colliculi of the midbrain participate in visual orienting and auditory processing or reflexive responses, respectively. These tectal structures integrate sensory information with motor circuits that help orient the eyes and head towards relevant stimuli.",
+      "notes": {
+        "A": "Speech production involves dominant frontal language and distributed motor networks, rather than the principal visual and auditory reflex centres in the midbrain.",
+        "B": "Thermoregulatory set-point control depends predominantly on hypothalamic circuits, rather than the tectal sensory orienting structures of the midbrain.",
+        "D": "Cardiovascular reflex integration occurs chiefly in medullary networks, rather than being the characteristic function of midbrain collicular centres.",
+        "E": "Declarative memory formation relies particularly on hippocampal and associated cortical circuitry, rather than the midbrain's primary visual and auditory reflex functions."
+      },
       "topicId": "cns-brain",
       "subtopic": "Brainstem",
       "difficulty": "medium"
@@ -3038,7 +3536,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "CSF fills the ventricles and central canal and bathes the brain and cord beneath the meninges.",
+      "why": "Cerebrospinal fluid occupies the cerebral ventricular system and circulates through interconnected ventricles into the subarachnoid space surrounding brain and spinal cord. It provides mechanical support and contributes to the extracellular environment and clearance of central nervous system substances.",
+      "notes": {
+        "A": "Basal ganglia nuclei are collections of neural tissue involved in motor and other functions, rather than CSF-filled cavities forming its major circulation pathways.",
+        "B": "White-matter tracts consist principally of neural axons and glial cells, rather than the interconnected fluid-filled spaces carrying cerebrospinal fluid.",
+        "C": "The corpus callosum is a major interhemispheric commissural fibre bundle, rather than part of the ventricular pathway containing cerebrospinal fluid.",
+        "D": "Dorsal root ganglia house peripheral primary sensory neuron cell bodies, rather than forming the central ventricular spaces through which cerebrospinal fluid circulates."
+      },
       "topicId": "cns-brain",
       "subtopic": "CSF",
       "difficulty": "medium"
@@ -3070,7 +3574,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Pyrogens reset the hypothalamic set-point upward, so the body defends a higher temperature (fever).",
+      "why": "Pyrogenic inflammatory signals can increase prostaglandin E2 production and alter hypothalamic thermoregulatory signalling, effectively raising the defended temperature. The body then promotes heat conservation and production until its temperature approaches the higher target, producing fever.",
+      "notes": {
+        "B": "Lowering the defended temperature would favour heat loss and oppose fever development, as occurs when the febrile thermoregulatory signal subsides.",
+        "C": "Fever involves regulated defence of an elevated temperature rather than complete abolition of the body's thermoregulatory target and feedback mechanisms.",
+        "D": "Cutaneous vasoconstriction helps conserve heat during the rising phase of fever, rather than being permanently blocked by the pyrogen-induced response.",
+        "E": "Sweating may decrease while temperature rises towards the elevated target and increase when fever resolves; permanent suppression is not required."
+      },
       "topicId": "cns-thermo",
       "subtopic": "Fever",
       "difficulty": "hard"
@@ -3102,7 +3612,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Brown fat, rich in mitochondria and uncoupling protein, produces heat without shivering in neonates.",
+      "why": "Brown adipose tissue contains abundant mitochondria expressing uncoupling protein 1, which allows proton movement across the inner mitochondrial membrane without equivalent ATP synthesis. Sympathetic activation promotes this heat-producing pathway, particularly important for non-shivering thermogenesis in newborns.",
+      "notes": {
+        "A": "The lungs exchange respiratory gases and lose heat through ventilation, rather than being the principal specialised tissue for neonatal non-shivering thermogenesis.",
+        "C": "Skeletal muscle generates heat through contraction and shivering, but brown adipose tissue is the classic specialised neonatal non-shivering heat source.",
+        "D": "The liver contributes to basal metabolic heat production, but neonatal adaptive non-shivering thermogenesis relies importantly on uncoupling within brown adipose tissue.",
+        "E": "The skin regulates heat exchange with the environment, whereas specialised brown adipocytes generate heat through mitochondrial uncoupling rather than primarily cutaneous mechanisms."
+      },
       "topicId": "cns-thermo",
       "subtopic": "Heat production",
       "difficulty": "hard"
