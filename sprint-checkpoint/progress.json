@@ -5,7 +5,7 @@
   "drafts": 95,
   "holds": 35,
   "drafts_pushed": true,
-  "applied_to_data": false,
+  "applied_to_data": true,
   "source_blob": "82872bdbee4c26c875517bf05c71452fe2240b68",
   "next_id": null,
   "remaining_ids": [],
@@ -69,5 +69,7 @@
     "https://pubmed.ncbi.nlm.nih.gov/20921416/",
     "https://doi.org/10.1152/japplphysiol.00191.2018",
     "https://pubmed.ncbi.nlm.nih.gov/35768824/"
-  ]
+  ],
+  "data_blob": "6b051b26fc56a126dd52e97b1ea2e1afbe528c3a",
+  "next_file": "data/physiology/renal-past.json"
 }
