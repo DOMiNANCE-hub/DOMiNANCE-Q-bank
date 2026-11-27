@@ -617,3 +617,21 @@
 - Key: E
 - Concern: The keyed alveolar mucosa answer directly conflicts with the false key for numerous deep papillae in dq-m-mo4. Oral mucosal papillae vary by site and source; verify both against the original lecture. Original explanation and key untouched.
 - Reference: standard oral histology and clinical anatomy; exact edition/page and lecture source not independently checked.
+
+## dq-m-moh24 — Taste bud cell proportions
+- Stem: The most numerous cells in a taste bud are the:
+- Key: B
+- Concern: Modern classification distinguishes type I supporting cells, type II receptor cells, type III presynaptic cells and basal progenitors. Type I cells frequently constitute the largest population, so the keyed neuroepithelial category is ambiguous and potentially incorrect. Original explanation and key untouched.
+- Reference: standard oral histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-moh37 — ADH regulation of salivary composition
+- Stem: Aldosterone and ADH affect saliva by changing its:
+- Key: E
+- Concern: Aldosterone modifies salivary duct sodium and potassium transport, but a comparable established direct physiological effect of ADH on final saliva composition is not clear. The combined hormone claim needs course-specific verification. Original explanation and key untouched.
+- Reference: standard oral histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-moh51 — Sublingual secretory unit classification
+- Stem: In the sublingual gland, most secretory units are:
+- Key: D
+- Concern: Sublingual glands are predominantly mucous with some mixed and serous components. Calling units purely mucous while also describing serous demilunes is internally inconsistent; conventional demilunes may also reflect fixation artefacts. Original explanation and key untouched.
+- Reference: standard oral histology; exact edition/page and lecture source not independently checked.
