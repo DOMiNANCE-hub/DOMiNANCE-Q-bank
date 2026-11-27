@@ -998,5 +998,199 @@
       "D": "Hyperammonaemia occurs with the carbamoyl phosphate synthetase I defect. The ornithine transcarbamylase pairing remains incorrect.",
       "E": "The final two pairings are valid. The first pairing incorrectly associates ornithine transcarbamylase deficiency with citrulline accumulation."
     }
+  },
+  "bio-107": {
+    "why": "Inborn errors of metabolism are genetic, but their age of presentation varies with residual function and physiological demands. Some present in the newborn period, while others emerge later or become apparent during illness, fasting or a particular dietary exposure.",
+    "notes": {
+      "A": "Some disorders present early, but residual enzyme activity can delay the first symptoms until childhood or adulthood.",
+      "B": "The age at presentation can vary. External stresses such as illness or fasting may also trigger decompensation.",
+      "C": "Later onset and environmental triggers are possible, but severe defects can also cause symptoms shortly after birth.",
+      "D": "Environmental exposures can influence presentation, and inherited disorders can first manifest either early or later in life."
+    }
+  },
+  "bio-108": {
+    "why": "A block usually leads to accumulation of the immediate substrate and reduced production of the expected product. Loss of the product can alter feedback control, and accumulated substrate may be diverted into alternative pathways.",
+    "notes": {
+      "A": "The immediate substrate usually accumulates rather than becoming depleted when the enzyme cannot process it.",
+      "B": "Feedback can be altered, but reduced substrate is not the typical result immediately before the block.",
+      "D": "Product formation may fall, but the substrate immediately upstream of the defect ordinarily rises.",
+      "E": "Reduced product and altered feedback are plausible. The general claim that the immediate substrate decreases reverses the expected effect."
+    }
+  },
+  "bio-110": {
+    "why": "Chorionic villus sampling and amniocentesis can provide fetal or placental material for targeted prenatal assessment of selected inherited metabolic disorders. The choice depends on gestational timing, the familial variant and the proposed assay.",
+    "notes": {
+      "A": "Chorionic villi can provide DNA or cells, and amniotic-fluid sampling can also provide fetal cells or relevant metabolites.",
+      "C": "Amniotic fluid is useful, but liver biopsy is not a standard prenatal specimen for this purpose.",
+      "D": "Chorionic villi can be sampled for targeted diagnosis. Amniotic fluid is another standard option rather than fetal liver tissue.",
+      "E": "The recognised routine options in this comparison are chorionic villi and amniotic fluid. Fetal liver biopsy is not routinely used."
+    }
+  },
+  "bio-111": {
+    "why": "A newborn screening programme weighs disease burden, the benefit of early treatment and the availability of a practical and reliable test. Frequency is considered in the target population, although rare conditions can be included when early detection has substantial benefit.",
+    "notes": {
+      "A": "Frequency and population impact matter, but screening also requires a useful test and a benefit from identifying the condition early.",
+      "B": "Treatability and public-health impact are relevant. A feasible and reliable screening method is another major requirement.",
+      "C": "The value of a practicable test and effective early treatment is assessed together with population burden and programme resources.",
+      "D": "A simple test and a significant population burden alone are insufficient. A useful early intervention or demonstrable benefit also matters."
+    }
+  },
+  "bio-112": {
+    "why": "Inherited metabolic disease can impair growth, damage the liver or affect the developing nervous system. Failure to thrive, persistent jaundice and intellectual disability may therefore emerge over time, depending on the underlying disorder.",
+    "notes": {
+      "A": "Poor growth can occur, but persistent jaundice or later neurodevelopmental difficulties may also be clues.",
+      "B": "Growth failure and jaundice can reflect systemic and hepatic involvement. Some disorders also cause later developmental impairment.",
+      "C": "Persistent jaundice and intellectual disability can occur. Poor weight gain is another possible longer-term finding.",
+      "D": "Growth and developmental difficulties are compatible, but persistent jaundice can also signal hepatic involvement."
+    }
+  },
+  "bio-113": {
+    "why": "A blood gas and bicarbonate help characterise the acid–base disorder. Plasma ammonia is a complementary urgent metabolic test in a suspected inborn error, since hyperammonaemia can occur in urea cycle disorders or secondarily in some organic acidaemias.",
+    "notes": {
+      "A": "Blood gases define pH and the respiratory component. Bicarbonate and ammonia can add information about metabolic disturbance and possible cause.",
+      "B": "Blood gases and bicarbonate characterise the acid–base pattern, while ammonia can identify an important accompanying abnormality.",
+      "C": "Bicarbonate and ammonia are useful, but blood gases help distinguish respiratory from metabolic disturbances.",
+      "D": "Blood gases and ammonia are relevant. The bicarbonate concentration also helps quantify the metabolic component."
+    }
+  },
+  "bio-114": {
+    "why": "Treatment depends on the biochemical defect. Strategies can include reducing intake of a precursor, removing or diverting a toxic accumulated metabolite, and supplying an enzyme when effective replacement exists.",
+    "notes": {
+      "A": "Substrate restriction can reduce flux through a blocked pathway, but other disorders require metabolite removal or enzyme replacement.",
+      "B": "Lowering precursors and accumulated substances are recognised approaches. Some conditions also have approved enzyme replacement therapy.",
+      "C": "Removing accumulated substances and replacing an enzyme can help in selected disorders. Precursor restriction is also used.",
+      "D": "Restricting a precursor or replacing an enzyme can help, but lowering toxic metabolites directly is another recognised strategy."
+    }
+  },
+  "bio-115": {
+    "why": "Classic galactosaemia is caused by deficient galactose-1-phosphate uridylyltransferase, or GALT. Galactose-1-phosphate cannot be metabolised normally and accumulates when affected infants receive dietary galactose.",
+    "notes": {
+      "A": "Galactokinase deficiency causes a different form of galactosaemia and is especially associated with cataracts.",
+      "B": "Galactokinase and UDP-galactose 4-epimerase deficiencies are distinct disorders, rather than the enzyme defect in classical disease.",
+      "C": "GALT is the enzyme deficient in classic galactosaemia. Epimerase deficiency is a separate biochemical diagnosis.",
+      "D": "Adding galactokinase deficiency mixes two distinct disorders. Classic galactosaemia results from the GALT defect alone."
+    }
+  },
+  "bio-116": {
+    "why": "Isoleucine breakdown can yield propionyl-CoA, which normally passes through methylmalonyl-CoA to succinyl-CoA. Leucine is ketogenic and does not provide propionyl-CoA, while serine is usually degraded to pyruvate.",
+    "notes": {
+      "B": "Isoleucine is a precursor, but leucine breakdown yields ketogenic products without contributing propionyl-CoA.",
+      "C": "Neither leucine nor serine is a usual propionyl-CoA precursor. This grouping omits isoleucine.",
+      "D": "Isoleucine can feed the pathway, but serine normally contributes carbon through pyruvate rather than propionyl-CoA.",
+      "E": "Of the listed amino acids, only isoleucine supplies a propionyl-CoA precursor to the methylmalonyl-CoA pathway."
+    }
+  },
+  "bio-117": {
+    "why": "Menkes syndrome involves ATP7A, a copper-transporting ATPase. Cystinosis involves cystinosin, which exports cystine from lysosomes. Thalassaemia results from reduced synthesis of a globin chain rather than a defective membrane transporter.",
+    "notes": {
+      "A": "The Menkes defect is in a copper transporter, and cystinosis also results from abnormal membrane transport.",
+      "C": "Cystinosis is a transport disorder, but thalassaemia affects globin production and does not belong in this pair.",
+      "D": "Menkes syndrome involves ATP7A. Thalassaemia involves globin genes, while the omitted cystinosis option is also a transport disorder.",
+      "E": "Both Menkes syndrome and cystinosis involve transport proteins. Thalassaemia changes the quantity of globin made."
+    }
+  },
+  "bio-119": {
+    "why": "Phenylketonuria, maple syrup urine disease and alkaptonuria can be inherited through pathogenic variants in enzymes involved in amino acid metabolism. The affected pathway explains the metabolic phenotype. The inherited variants explain the familial transmission.",
+    "notes": {
+      "A": "The amino acid pathway defects describe the biochemical class. Inheritance is due to pathogenic genetic variants, rather than being proved by that classification.",
+      "C": "The reason is broadly true when protein metabolism refers to amino acid degradation and processing.",
+      "D": "The assertion is correct because these disorders can be transmitted as inherited metabolic conditions.",
+      "E": "Both statements are broadly correct. Not every acquired disturbance of amino acid metabolism is inherited, so the pathway category alone does not explain transmission."
+    }
+  },
+  "bio-120": {
+    "why": "Histidase normally converts histidine to urocanate. In histidinaemia, deficient activity allows histidine and some metabolites to accumulate while urocanate production falls. The low product and high substrate arise from the same enzyme defect.",
+    "notes": {
+      "A": "Reduced urocanate is a downstream sign of the defect. It does not itself cause histidine to accumulate.",
+      "C": "The reason correctly identifies reduced formation of urocanate, the product of the histidase reaction.",
+      "D": "Histidine accumulation is a recognised feature, so the assertion should not be rejected.",
+      "E": "Both changes are compatible with deficient histidase activity. They describe opposite sides of the same metabolic block."
+    }
+  },
+  "bio-147": {
+    "why": "Acute intermittent porphyria is caused by deficient hydroxymethylbilane synthase, also known as porphobilinogen deaminase. This enzyme joins four porphobilinogen molecules to make a linear precursor of haem and releases ammonia in the process.",
+    "notes": {
+      "A": "Retinoblastoma involves loss of RB1 tumour-suppressor function, not a haem-pathway enzyme.",
+      "B": "Retinitis pigmentosa comprises inherited retinal degeneration disorders and is not caused by porphobilinogen deaminase deficiency.",
+      "D": "Achondroplasia results from altered FGFR3 growth signalling, not a haem biosynthetic defect.",
+      "E": "Cystinosis involves impaired export of cystine from lysosomes rather than a block in porphyrin synthesis."
+    }
+  },
+  "bio-307": {
+    "why": "Tay–Sachs disease results from deficient hexosaminidase A activity and accumulation of GM2 ganglioside in neurons. Progressive neurodegeneration can cause muscle weakness, reduced tone early in the course and loss of developmental or cognitive abilities.",
+    "notes": {
+      "A": "Weakness is common, but loss of tone and progressive neurological decline can also occur.",
+      "B": "Weakness and hypotonia are compatible with infantile disease. Loss of developmental or cognitive function is also characteristic as it progresses.",
+      "C": "Hypotonia and regression are recognised. Progressive loss of muscle strength is another manifestation.",
+      "D": "Weakness and cognitive deterioration are consistent with the disease. Early hypotonia can contribute to the motor presentation."
+    }
+  },
+  "bio-309": {
+    "why": "Variants in COL1A1 or COL1A2 can cause osteogenesis imperfecta by reducing type I collagen quantity or altering its structure. Glycine substitutions within the triple-helical region can slow folding. More compact cross-linking is not a general hallmark.",
+    "notes": {
+      "A": "COL1A1 is implicated, and structural collagen variants can also delay triple-helix formation.",
+      "C": "Some variants slow folding, but compact cross-linking is not a defining feature. This group also omits COL1A1 involvement.",
+      "D": "COL1A1 involvement is correct, but unusually compact cross-linking is not the typical explanation for collagen fragility.",
+      "E": "The gene and folding statements fit structural collagen defects. The cross-linking claim is not a recognised general feature."
+    }
+  },
+  "bio-450": {
+    "why": "Phenylalanine hydroxylase deficiency is autosomal recessive. Untreated disease can reduce pigmentation through effects on tyrosine and melanin metabolism. Its incidence varies by population, so a fixed value of one in 100,000 is not a general estimate.",
+    "notes": {
+      "A": "Incidence varies widely between populations. The mode of inheritance and possible hypopigmentation are better general features.",
+      "B": "Lighter pigmentation can occur, but the proposed fixed frequency is not reliable across populations.",
+      "D": "Autosomal recessive inheritance is correct. The stated incidence is not general, and reduced pigmentation can also be seen.",
+      "E": "Pigmentation and inheritance fit typical descriptions, but the proposed universal incidence is not supported."
+    }
+  },
+  "bio-905": {
+    "why": "Achondroplasia is caused by activating variants in FGFR3, a fibroblast growth factor receptor. Increased signalling inhibits normal growth plate chondrocyte proliferation and affects endochondral bone growth.",
+    "notes": {
+      "A": "Retinoblastoma usually results from loss of RB1 tumour-suppressor activity. RB1 is not a growth-factor receptor.",
+      "B": "Retinitis pigmentosa can result from defects in phototransduction or other photoreceptor functions, rather than a typical FGFR3 growth-signalling defect.",
+      "C": "Acute intermittent porphyria is caused by deficient activity of a haem biosynthetic enzyme rather than a growth-factor receptor.",
+      "E": "Cystinosis involves a lysosomal cystine transporter, rather than a receptor that regulates bone growth."
+    }
+  },
+  "bio-906": {
+    "why": "One form of retinitis pigmentosa results from variants in rhodopsin, the light-sensitive receptor of rod photoreceptors. Other genes can also cause the retinal degeneration, so rhodopsin is an example rather than the cause of every case.",
+    "notes": {
+      "A": "Retinoblastoma is a retinal tumour caused by cell-cycle control defects rather than a photopigment receptor defect.",
+      "C": "Acute intermittent porphyria involves a haem biosynthetic enzyme and does not directly affect a light receptor.",
+      "D": "Achondroplasia involves a fibroblast growth factor receptor, which responds to signalling proteins rather than light.",
+      "E": "Cystinosis involves transport of cystine across lysosomal membranes and is not a phototransduction disorder."
+    }
+  },
+  "bio-136": {
+    "why": "Two molecules of delta-aminolaevulinic acid are condensed by ALA dehydratase to form porphobilinogen. This reaction occurs in the cytosol and precedes joining of four porphobilinogen units later in haem synthesis.",
+    "notes": {
+      "A": "Porphobilinogen deaminase uses porphobilinogen as substrate. It joins four units into hydroxymethylbilane.",
+      "C": "Formation of one porphobilinogen requires two ALA molecules. Four porphobilinogens are used in the later tetrapyrrole step.",
+      "D": "ALA is produced in mitochondria, then moves into the cytosol for conversion to porphobilinogen."
+    }
+  },
+  "bio-137": {
+    "why": "Coproporphyrinogen oxidase converts two propionate side chains on rings A and B of coproporphyrinogen III to vinyl groups by oxidative decarboxylation. In the numbering used in the question, those propionate groups occupy positions 2 and 4.",
+    "notes": {
+      "B": "The two modified propionate groups are on rings A and B. The remaining propionate groups are retained in protoporphyrinogen IX.",
+      "C": "The substrates are propionate side chains, which are converted into vinyl groups. Acetate side chains are removed by a different enzyme earlier.",
+      "D": "Coproporphyrinogen III is the immediate substrate. Uroporphyrinogen decarboxylase first converts uroporphyrinogen III to coproporphyrinogen III."
+    }
+  },
+  "bio-138": {
+    "why": "Haem oxygenase opens the haem ring using molecular oxygen and reducing equivalents ultimately supplied by NADPH. The products include biliverdin, released iron and carbon monoxide.",
+    "notes": {
+      "A": "The usual mammalian haem oxygenase reaction opens the ring at the alpha-methene bridge of haem.",
+      "B": "Reducing equivalents for this oxygenase system are supplied by NADPH through a reductase, rather than principally by NADH.",
+      "D": "The carbon removed from the haem bridge leaves as carbon monoxide, rather than carbon dioxide."
+    }
+  },
+  "bio-139": {
+    "why": "Dihydroxycholecalciferol is a vitamin D metabolite derived from a sterol and has a secosteroid structure. The other compounds have a tetrapyrrole structure or are derived from one, linking them to porphin-related chemistry.",
+    "notes": {
+      "A": "Cyanocobalamin contains a cobalt-bound corrin ring, which is structurally related to tetrapyrrole macrocycles.",
+      "B": "Chlorophyll contains a magnesium-containing chlorin ring, a reduced relative of a porphyrin ring.",
+      "D": "Bilirubin is a linear tetrapyrrole formed from biliverdin after the haem ring is opened."
+    }
   }
 }
