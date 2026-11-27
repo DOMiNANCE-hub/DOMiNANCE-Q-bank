@@ -317,3 +317,45 @@
 - Key: D — meninges.
 - Concern: The tentorium cerebelli is a dural reflection separating the cerebellum from the overlying occipital cerebral hemispheres, with an opening for the brainstem. The stem's description of separating the entire hindbrain and brainstem from the rest of the brain is anatomically imprecise, although the meninges classification is correct. Original explanation and key untouched.
 - Reference: standard neuroanatomy and neurophysiology (Guyton & Hall/Ganong and standard neuroanatomy texts); exact textbook edition/page and original lecture not independently checked.
+
+## dq-phys-senses-009 — Corneal share of refractive power
+- Stem: About 80% of the refraction of light entering the eye occurs at the
+- Key: D — cornea.
+- Concern: The cornea supplies about 43 dioptres of the roughly 60-dioptre relaxed eye, approximately two-thirds to three-quarters rather than a universal 80%. The cornea is the correct structure, but the numerical premise needs clarification. Original explanation and key untouched.
+- Reference: standard sensory physiology and clinical ophthalmology/audiology; exact edition/page and lecture source not independently checked.
+
+## dq-phys-senses-012 — Presbyopia and ciliary muscle stiffness
+- Stem: The age-related loss of accommodation from a stiffening lens and ciliary muscle is called
+- Key: B — presbyopia.
+- Concern: Age-related loss of accommodation is chiefly associated with changes in crystalline lens biomechanics and its ability to change shape. The stem attributes the condition to stiffening of both lens and ciliary muscle, which is not the standard established mechanism. Presbyopia is the correct term. Original explanation and key untouched.
+- Reference: standard sensory physiology and clinical ophthalmology/audiology; exact edition/page and lecture source not independently checked.
+
+## dq-phys-senses-027 — Timing of dark adaptation
+- Stem: Dark adaptation, the recovery of sensitivity on entering darkness, is nearly complete after about
+- Key: B — about 20 minutes, rods continue for hours.
+- Concern: Rod dark adaptation commonly continues for approximately 30–45 minutes or longer depending on prior bleaching and testing conditions. The claim that recovery is nearly complete at 20 minutes and then continues for hours is too imprecise to establish a universal endpoint. Original explanation and key untouched.
+- Reference: standard sensory physiology and clinical ophthalmology/audiology; exact edition/page and lecture source not independently checked.
+
+## dq-phys-senses-039 — Glaucoma and elevated intraocular pressure
+- Stem: Glaucoma damages the retina and optic nerve because
+- Key: D — aqueous production exceeds its drainage.
+- Concern: Impaired aqueous outflow can raise intraocular pressure, an important modifiable risk factor for glaucomatous optic neuropathy. However, normal-tension glaucoma occurs and raised pressure alone does not establish glaucoma. The stem implies that aqueous imbalance necessarily explains all glaucoma. Original explanation and key untouched.
+- Reference: standard sensory physiology and clinical ophthalmology/audiology; exact edition/page and lecture source not independently checked.
+
+## dq-phys-senses-043 — Human acoustic reflex and tensor tympani
+- Stem: The protective tympanic (attenuation) reflex to loud sound is produced by contraction of the
+- Key: C — stapedius and tensor tympani.
+- Concern: The ordinary human sound-evoked middle-ear muscle reflex is predominantly stapedius-mediated. Tensor tympani is more associated with non-acoustic stimuli and self-generated sounds, although both can alter transmission. Clarify the species and reflex before retaining both as the standard human acoustic response. Original explanation and key untouched.
+- Reference: standard sensory physiology and clinical ophthalmology/audiology; exact edition/page and lecture source not independently checked.
+
+## dq-phys-senses-064 — Tonic vestibular hair-cell release versus afferent firing
+- Stem: Vestibular hair cells are unusual in that, even without stimulation, they
+- Key: D — release transmitter and fire at a baseline (tonic) rate.
+- Concern: Mature mammalian vestibular hair cells principally signal using graded receptor potentials and tonic transmitter release; the associated vestibular afferent neurons fire action potentials at baseline. The keyed option incorrectly attributes tonic firing to the hair cells themselves. Original explanation and key untouched.
+- Reference: standard sensory physiology and clinical ophthalmology/audiology; exact edition/page and lecture source not independently checked.
+
+## dq-phys-senses-081 — Taste-cell lifespan
+- Stem: Taste receptor cells are notable for being
+- Key: A — among the shortest-lived cells (~10 days).
+- Concern: Taste cells undergo continual renewal, but lifetimes vary substantially by subtype; roughly ten days is a conventional average for some cells, not a universal lifespan. Many other cell populations turn over more rapidly, so the superlative among the shortest-lived cells needs qualification. Original explanation and key untouched.
+- Reference: standard sensory physiology and clinical ophthalmology/audiology; exact edition/page and lecture source not independently checked.
