@@ -593,3 +593,27 @@
 - Key: E
 - Concern: The anatomical crown is the enamel-covered portion; the clinical crown is the portion visible above the gingiva and may include exposed root or only part of the anatomical crown. The stem combines both definitions. Original explanation and key untouched.
 - Reference: standard oral histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mog18 — Cementocyte canalicular network
+- Stem: Cementum differs from bone in that it:
+- Key: E
+- Concern: Cementum is avascular and its cementocyte processes tend to orient towards the periodontal ligament; their canaliculi can interconnect. The categorical claim of no network requires source verification. Original explanation and key untouched.
+- Reference: standard oral histology and clinical anatomy; exact edition/page and lecture source not independently checked.
+
+## dq-m-mog20 — Resting salivary secretion
+- Stem: Saliva from the major glands is secreted mainly:
+- Key: B
+- Concern: Major glands produce basal unstimulated saliva as well as stimulated secretion; autonomic tone contributes even at rest. The claim that secretion is mainly intermittent rather than continuous is ambiguous. Original explanation and key untouched.
+- Reference: standard oral histology and clinical anatomy; exact edition/page and lecture source not independently checked.
+
+## dq-m-mog34 — Ranula treatment choice
+- Stem: The preferred surgical treatment for a ranula is:
+- Key: A
+- Concern: Treatment depends on oral versus plunging ranula, size and recurrence. Marsupialisation may be suitable for some oral ranulas, but removal of the responsible sublingual gland is commonly considered for definitive management. No universal preferred surgery can be inferred. Original explanation and key untouched.
+- Reference: standard oral histology and clinical anatomy; exact edition/page and lecture source not independently checked.
+
+## dq-m-moh12 — Alveolar mucosa papillae contradiction
+- Stem: Numerous deep connective tissue papillae are a feature of the lining mucosa of the:
+- Key: E
+- Concern: The keyed alveolar mucosa answer directly conflicts with the false key for numerous deep papillae in dq-m-mo4. Oral mucosal papillae vary by site and source; verify both against the original lecture. Original explanation and key untouched.
+- Reference: standard oral histology and clinical anatomy; exact edition/page and lecture source not independently checked.
