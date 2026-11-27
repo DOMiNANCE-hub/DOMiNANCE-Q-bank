@@ -5,7 +5,7 @@
   "drafts": 47,
   "holds": 6,
   "drafts_pushed": true,
-  "applied_to_data": false,
+  "applied_to_data": true,
   "source_blob": "17e1f82b0b724c10fbd77e619cb0fed37a5f69de",
   "next_id": null,
   "remaining_ids": [],
@@ -36,5 +36,7 @@
     "https://www.ncbi.nlm.nih.gov/books/NBK30/",
     "https://www.ncbi.nlm.nih.gov/books/NBK525983/",
     "https://doi.org/10.2337/dc26-s002"
-  ]
+  ],
+  "data_blob": "48f36be81a9308023aa86099a9f8de6c9cc63d41",
+  "next_file": "data/physiology/cns-past.json"
 }
