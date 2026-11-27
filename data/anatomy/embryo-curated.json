@@ -900,10 +900,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Mo-Di is the commonest monozygotic pattern (~60-70%); sharing one placenta risks twin-to-twin transfusion.",
+      "why": "Most monozygotic twin pregnancies are monochorionic diamniotic, conventionally estimated at approximately two thirds. A shared chorionic placenta creates potential vascular anastomoses, while separate amniotic sacs distinguish this arrangement from monoamniotic twinning.",
       "topicId": "e-cleave",
       "subtopic": "Twinning",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Five percent is closer to conventional estimates for monoamniotic twins, not the common diamniotic pattern.",
+        "B": "Thirty percent is closer to the conventional proportion of dichorionic diamniotic monozygotic twin pregnancies.",
+        "C": "Monozygotic twins may have different chorionic arrangements, so they do not all share one placenta.",
+        "D": "One percent of all twins uses a different denominator and substantially understates this common monozygotic arrangement."
+      }
     },
     {
       "id": "dq-embryo-g-026",
@@ -996,10 +1002,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Craniopagus (joined at the skull) accounts for about 2-6% of conjoined twins.",
+      "why": "Craniopagus describes conjoined twins united at the skull, with variable sharing of cranial tissues and vessels. Anatomical classification identifies the principal union site rather than necessarily specifying all shared organs.",
       "topicId": "e-cleave",
       "subtopic": "Twinning",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Pygopagus describes union near the sacral or buttock region rather than at the cranium.",
+        "B": "Parapagus describes side-by-side union involving varying portions of the trunk rather than isolated cranial union.",
+        "D": "Thoracopagus describes union at the thorax and may involve shared cardiac structures rather than skull attachment.",
+        "E": "Omphalopagus describes union around the abdominal or umbilical region rather than the cranial vault."
+      }
     },
     {
       "id": "dq-embryo-g-029",
@@ -1028,10 +1040,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Superfetation is a second conception during an existing pregnancy; it is very rare and almost always linked to ART.",
+      "why": "Superfetation denotes conception of an additional embryo during an established pregnancy, requiring unusual persistence or resumption of reproductive processes. It differs from superfecundation, in which separate ova from the same cycle are fertilised.",
       "topicId": "e-cleave",
       "subtopic": "Twinning",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Mosaicism describes genetically distinct cell populations originating from one zygote, not temporally separated conceptions.",
+        "B": "Chimerism describes genetically distinct cell populations from different zygotes within an individual rather than successive pregnancies.",
+        "C": "Molar pregnancy involves abnormal trophoblastic proliferation and is not the term for embryos conceived weeks apart.",
+        "E": "Superfecundation involves fertilisation of separate ova from the same ovulatory cycle rather than a later pregnancy."
+      }
     },
     {
       "id": "dq-embryo-g-030",
@@ -1060,10 +1078,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The syncytiotrophoblast is multinucleated, amitotic, invasive, in contact with maternal blood, secretes hCG and performs most placental functions; the cytotrophoblast is its mitotic stem layer.",
+      "why": "Syncytiotrophoblast forms through fusion of cytotrophoblast cells into a multinucleated outer layer that does not itself divide mitotically. It invades maternal tissue during implantation and subsequently contributes to placental exchange and endocrine secretion.",
       "topicId": "e-membranes",
       "subtopic": "Trophoblast",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Mononuclear proliferative cells characterise cytotrophoblast, which supplies new cells to the outer syncytial layer.",
+        "B": "Cytotrophoblast acts as the proliferative source of syncytiotrophoblast rather than receiving new cells from it.",
+        "C": "The embryoblast forms embryonic lineages, whereas both trophoblastic layers arise from the outer blastocyst population.",
+        "D": "Heuser's membrane lines the primitive yolk sac, rather than covering the invasive outer trophoblastic layer."
+      }
     },
     {
       "id": "dq-embryo-g-031",
@@ -1092,10 +1116,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Hypoblast-derived Heuser's (exocoelomic) membrane lines the former blastocyst cavity to form the primary yolk sac.",
+      "why": "Heuser's membrane, also termed the exocoelomic membrane, forms from hypoblast-associated cells spreading along the internal cytotrophoblastic surface. Together with hypoblast it encloses the primitive yolk sac within the former blastocyst cavity.",
       "topicId": "e-membranes",
       "subtopic": "Second week",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "The amnion surrounds the developing amniotic cavity, rather than lining the primitive yolk sac.",
+        "C": "The chorion comprises trophoblast and extraembryonic somatic mesoderm, rather than the primitive yolk sac lining.",
+        "D": "Reichert's membrane is an extraembryonic basement membrane described particularly in rodents, not the human exocoelomic lining.",
+        "E": "Decidua is modified maternal endometrium surrounding the implanting conceptus rather than a yolk sac membrane."
+      }
     },
     {
       "id": "dq-embryo-g-032",
@@ -1124,10 +1154,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Somatic extraembryonic mesoderm lines the cytotrophoblast and amnion (with ectoderm); splanchnic covers the yolk sac and allantois (with endoderm).",
+      "why": "Extraembryonic mesoderm separates into somatic and splanchnic layers as the chorionic cavity develops. Somatic mesoderm associates with amnion and trophoblast, whereas splanchnic mesoderm accompanies endodermal structures including the yolk sac and allantois.",
       "topicId": "e-membranes",
       "subtopic": "Extraembryonic mesoderm",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Decidua basalis is maternal endometrium at the implantation site rather than an extraembryonic splanchnic mesoderm derivative.",
+        "C": "The amnion is associated externally with somatic extraembryonic mesoderm rather than the yolk sac-associated splanchnic layer.",
+        "D": "Chorion frondosum is villous chorion containing somatic extraembryonic mesoderm, not the specified endoderm-associated structures.",
+        "E": "The body stalk comprises extraembryonic mesoderm connecting the embryo to chorion, rather than a splanchnic covering."
+      }
     },
     {
       "id": "dq-embryo-g-033",
@@ -1156,10 +1192,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The connecting (body) stalk of extraembryonic mesoderm that suspends the disc in the chorionic cavity becomes the umbilical cord.",
+      "why": "The connecting stalk suspends the developing embryo within the chorionic cavity and contains extraembryonic mesoderm. As the amnion expands, it encloses the stalk and associated yolk sac structures to form the developing umbilical cord.",
       "topicId": "e-membranes",
       "subtopic": "Umbilical cord",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Amnion provides the cord's external covering, but the connecting stalk forms its principal underlying structural precursor.",
+        "B": "Chorion laeve forms the smooth chorionic membrane rather than the mesodermal connection forming the cord.",
+        "D": "The notochord establishes the embryonic axial organisation and does not form the external umbilical connection.",
+        "E": "The allantois contributes structures within the connecting stalk but does not alone generate the entire cord."
+      }
     },
     {
       "id": "dq-embryo-g-034",
@@ -1188,10 +1230,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Chorion frondosum (bushy chorion) faces the decidua basalis and forms the fetal placenta; chorion laeve (smooth) faces the capsularis and regresses.",
+      "why": "Chorionic villi proliferate and persist adjacent to the decidua basalis, producing the chorion frondosum. This bushy chorionic region contributes the fetal placenta, while villi facing the decidua capsularis largely regress.",
       "topicId": "e-membranes",
       "subtopic": "Chorion",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Amniochorion refers to the associated fetal membranes rather than specifically identifying the villous fetal placental region.",
+        "B": "Decidua parietalis is maternal endometrium away from the implantation site, not the fetal villous component.",
+        "C": "Heuser's membrane lines the primitive yolk sac and does not form the villous fetal placenta.",
+        "E": "Chorion laeve is the relatively smooth region where villi regress, rather than the persistent villous placenta."
+      }
     },
     {
       "id": "dq-embryo-g-035",
@@ -1220,10 +1268,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The cord vessels are embedded in Wharton's jelly, a mucous connective tissue from extraembryonic mesoderm.",
+      "why": "Wharton's jelly is specialised mucous connective tissue surrounding the umbilical arteries and vein. Its hydrated extracellular matrix resists compression and helps protect cord vessels from deformation during fetal movement.",
       "topicId": "e-membranes",
       "subtopic": "Umbilical cord",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Reichert's membrane is an extraembryonic basement membrane described in certain mammals, rather than umbilical connective tissue.",
+        "B": "Heuser's membrane forms the primitive yolk sac lining and does not provide structural support to cord vessels.",
+        "C": "Nabothian cysts contain cervical mucus, rather than the specialised connective tissue surrounding fetal umbilical vessels.",
+        "D": "Waldeyer's ring describes pharyngeal lymphoid tissue and is unrelated to the mucous matrix of the cord."
+      }
     },
     {
       "id": "dq-embryo-g-036",
@@ -1252,10 +1306,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "One umbilical vein degenerates, leaving the definitive cord with two arteries and one vein.",
+      "why": "Initially paired umbilical veins accompany paired arteries, but the right umbilical vein regresses during development. The definitive cord therefore usually contains two arteries carrying fetal blood placentally and one vein returning oxygenated blood.",
       "topicId": "e-membranes",
       "subtopic": "Umbilical cord",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "A single umbilical artery can occur as a congenital variant, rather than representing normal definitive cord anatomy.",
+        "C": "Both umbilical veins are initially present, but normally only the left persists within the mature cord.",
+        "D": "The normal cord retains paired arteries and one vein, rather than one artery and paired veins.",
+        "E": "Three arteries are not the conventional arrangement of fetal vessels within a normally developed umbilical cord."
+      }
     },
     {
       "id": "dq-embryo-g-037",
@@ -1284,10 +1344,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Primary villi (trophoblast) gain a mesenchyme core (secondary), then blood vessels (tertiary), enabling exchange.",
+      "why": "Primary villi consist of trophoblast, and secondary villi acquire a mesenchymal core. Differentiation of fetal capillaries within that core creates tertiary villi, enabling establishment of a functional fetal placental exchange circulation.",
       "topicId": "e-membranes",
       "subtopic": "Placental villi",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Amniotic epithelium covers the amniotic membrane rather than defining the vascular maturation of chorionic villi.",
+        "C": "A mesenchymal core identifies a secondary villus before fetal capillary development establishes the tertiary stage.",
+        "D": "Syncytiotrophoblast already covers earlier villous stages and therefore does not distinguish the vascular tertiary villus.",
+        "E": "Decidua is maternal endometrium and is not the developmental layer acquired within tertiary fetal villi."
+      }
     },
     {
       "id": "dq-embryo-g-038",
@@ -1316,10 +1382,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Anchoring villi insert into the decidua; terminal (free) villi are the main sites of materno-fetal exchange.",
+      "why": "Anchoring villi extend towards the maternal basal plate and attach through trophoblastic structures to decidual tissue. Their mechanical role contrasts with freely branching villi that provide extensive surfaces for maternal–fetal exchange.",
       "topicId": "e-membranes",
       "subtopic": "Placental villi",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Stem villi provide structural support and branching origins, but attachment specifically identifies anchoring villous structures.",
+        "B": "The chorionic plate forms the fetal placental surface, rather than individual villi attaching to maternal tissue.",
+        "D": "Free terminal villi specialise in exchange within maternal intervillous blood rather than attaching to the decidua.",
+        "E": "Primary villi represent an early developmental stage, rather than a classification based on maternal attachment."
+      }
     },
     {
       "id": "dq-embryo-g-039",
@@ -1348,10 +1420,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The late barrier has three layers (syncytiotrophoblast, fused basement membranes, fetal capillary endothelium); the early barrier has six.",
+      "why": "At thin exchange regions of the mature placenta, the barrier can be described as syncytiotrophoblast, closely apposed or fused basal laminae and fetal capillary endothelium. Earlier villi possess additional cellular and stromal components.",
       "topicId": "e-membranes",
       "subtopic": "Placental barrier",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Two layers omit the basal lamina component when using the conventional three-part description of the mature barrier.",
+        "B": "A single layer would omit distinct fetal endothelial and trophoblastic components separating the two circulations.",
+        "C": "Five layers more closely resemble a thicker earlier villous barrier containing additional cellular or stromal structures.",
+        "E": "Six layers may be counted in earlier placental descriptions, before substantial thinning of the exchange barrier."
+      }
     },
     {
       "id": "dq-embryo-g-040",
@@ -1412,10 +1490,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Amniotic fluid rises to ~800-1000 ml near term (it peaks ~1000 ml around 32-34 weeks).",
+      "why": "Amniotic fluid volume generally reaches a maximum during late pregnancy and subsequently declines towards delivery. Approximately 800–1000 mL is a conventional near-term estimate, with considerable physiological variation and dependence on gestational age.",
       "topicId": "e-membranes",
       "subtopic": "Amniotic fluid",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "One hundred to two hundred millilitres is substantially below conventional near-term amniotic fluid volume estimates.",
+        "C": "Two to three litres exceeds ordinary near-term volume and may represent excessive amniotic fluid accumulation.",
+        "D": "Fifty to one hundred millilitres is far below the expected volume surrounding a normally developed term fetus.",
+        "E": "One and a half to two litres is above the conventional near-term central estimate for fluid volume."
+      }
     },
     {
       "id": "dq-embryo-g-042",
@@ -1444,10 +1528,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "By term fetal kidneys make 600-700 ml urine/day (the chief source); lungs add ~250 ml/day; the fetus swallows ~500 ml/day.",
+      "why": "After fetal skin becomes keratinised, fetal urine supplies most amniotic fluid, with pulmonary fluid also contributing. Fetal swallowing and intramembranous absorption remove fluid, maintaining a dynamic balance throughout later pregnancy.",
       "topicId": "e-membranes",
       "subtopic": "Amniotic fluid",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Amniotic epithelium participates in fluid transport but is not the major late-gestation source compared with fetal urine.",
+        "C": "Maternal fluid contributes indirectly to fetal and placental water balance rather than directly supplying most late amniotic fluid.",
+        "D": "Fetal lungs contribute liquid to the amniotic cavity, but urine generally provides a greater volume.",
+        "E": "Transcutaneous exchange is more important earlier in development, before fetal skin keratinisation limits this pathway."
+      }
     },
     {
       "id": "dq-embryo-g-043",
@@ -1476,10 +1566,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Placental separation occurs through the spongy layer of the decidua basalis, aided by a retroplacental haematoma.",
+      "why": "After birth, uterine contraction reduces the placental attachment area and produces shearing at the maternal interface. Normal separation occurs predominantly within the spongy layer of the decidua basalis, allowing placental expulsion.",
       "topicId": "e-membranes",
       "subtopic": "Placenta",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The myometrium contracts to assist separation, but normal placental detachment occurs within the decidual attachment layer.",
+        "B": "Decidua parietalis lines regions away from the implantation site rather than forming the main separation plane.",
+        "D": "Chorion laeve forms smooth fetal membranes and is not the principal maternal placental separation interface.",
+        "E": "Amnion covers fetal surfaces and does not provide the normal plane between placenta and uterine wall."
+      }
     },
     {
       "id": "dq-embryo-g-044",
@@ -1508,10 +1604,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Human chorionic somatomammotrophin (human placental lactogen) has GH-like effects and promotes mammary development.",
+      "why": "Human chorionic somatomammotrophin, also called human placental lactogen, is produced by syncytiotrophoblast. Its metabolic actions contribute to maternal insulin resistance and lipolysis, helping maintain glucose availability for fetal transfer during pregnancy.",
       "topicId": "e-membranes",
       "subtopic": "Placental hormones",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Relaxin contributes to reproductive tissue remodelling but is not the principal growth-hormone-like placental metabolic hormone.",
+        "B": "Progesterone maintains pregnancy-associated uterine and endometrial functions rather than being the specified somatomammotrophic protein hormone.",
+        "C": "Oxytocin promotes uterine contractions and milk ejection rather than the characteristic maternal glucose-sparing metabolic adaptation.",
+        "E": "Human chorionic gonadotropin maintains early luteal steroidogenesis through LH receptors, rather than providing the specified lactogenic activity."
+      }
     },
     {
       "id": "dq-embryo-g-045",
@@ -1540,10 +1642,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The primitive streak appears in the caudal (posterior) three-fifths of the epiblast around day 15-16.",
+      "why": "The primitive streak appears along the caudal midline of the epiblast during the third week. It provides the site through which epiblast cells ingress to establish definitive endoderm and intraembryonic mesoderm.",
       "topicId": "e-disc",
       "subtopic": "Gastrulation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Hypoblast contributes extraembryonic endodermal structures and does not form the primitive streak on its cranial surface.",
+        "B": "Trophoblast forms extraembryonic placental structures rather than the embryonic epiblast site of primitive streak formation.",
+        "C": "Amnion encloses the amniotic cavity but does not provide the principal epithelial substrate for gastrulation.",
+        "D": "The notochordal plate develops following axial cell migration, rather than preceding formation of the primitive streak."
+      }
     },
     {
       "id": "dq-embryo-g-046",
@@ -1572,10 +1680,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "EMT (driven by Snail repressing E-cadherin, with FGF8/WNT) lets epiblast cells detach and migrate through the streak.",
+      "why": "Epiblast cells undergo epithelial-to-mesenchymal transition during gastrulation, losing epithelial polarity and reducing intercellular adhesion. These changes permit individual cells to ingress through the primitive streak and migrate into new embryonic layers.",
       "topicId": "e-disc",
       "subtopic": "Gastrulation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Cleavage involves mitotic division without substantial overall growth, rather than the epithelial changes enabling gastrulation-associated ingression.",
+        "C": "Apoptosis eliminates cells through programmed death, whereas ingression requires surviving cells to change adhesion and migrate.",
+        "D": "Compaction increases adhesion between early blastomeres, rather than reducing epithelial adhesion to facilitate primitive streak migration.",
+        "E": "Decidualisation modifies maternal endometrial stromal cells and does not describe the migration of embryonic epiblast cells."
+      }
     },
     {
       "id": "dq-embryo-g-047",
@@ -1604,10 +1718,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "NODAL induces the primitive streak; WNT3/beta-catenin and FGF8 reinforce streak formation and migration.",
+      "why": "NODAL is a transforming growth factor beta-family signal important in primitive streak formation and mesendoderm specification. Its interactions with WNT, BMP and FGF signalling coordinate gastrulation, rather than acting as an isolated inducer.",
       "topicId": "e-disc",
       "subtopic": "Gastrulation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "BMP4 contributes to posterior patterning and signalling interactions, but NODAL is the specified central mesendoderm-inducing signal.",
+        "C": "Sonic hedgehog contributes prominently to later axial patterning, rather than serving as the specified primitive streak inducer.",
+        "D": "CDX2 is a transcription factor associated with trophectoderm and posterior identity, not the specified extracellular signal.",
+        "E": "NANOG regulates pluripotency-associated transcriptional programmes rather than acting as a secreted TGF-beta-family gastrulation signal."
+      }
     },
     {
       "id": "dq-embryo-g-048",
@@ -1636,10 +1756,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The first wave forms definitive endoderm (also replacing Heuser's membrane); the second wave forms mesoderm; epiblast left behind is ectoderm.",
+      "why": "During gastrulation, early ingressing epiblast cells intercalate into and replace hypoblast within the embryonic disc, establishing definitive endoderm. Subsequent ingressing cells form mesoderm, while remaining epiblast contributes ectoderm.",
       "topicId": "e-disc",
       "subtopic": "Gastrulation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Notochord develops from specialised axial mesodermal cells migrating through the primitive node rather than the entire first wave.",
+        "B": "Neural crest arises later from the developing neural plate border, rather than directly replacing hypoblast during gastrulation.",
+        "D": "Intraembryonic mesoderm develops between ectoderm and endoderm following ingression, rather than forming the initial definitive epithelial replacement.",
+        "E": "Ectoderm derives mainly from epiblast remaining at the surface, not from cells that replace the hypoblast."
+      }
     },
     {
       "id": "dq-embryo-g-049",
@@ -1668,10 +1794,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The notochord secretes Sonic hedgehog, induces neuroectoderm (inhibiting BMP) and establishes the midline axis.",
+      "why": "Sonic hedgehog released from the notochord and subsequently the neural floor plate patterns ventral neural tube identities. Notochord-derived signals also promote sclerotome differentiation in adjacent somites, contributing to axial skeletal development.",
       "topicId": "e-disc",
       "subtopic": "Notochord",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Human chorionic gonadotropin is principally a placental endocrine hormone rather than a notochord-derived axial patterning signal.",
+        "B": "WNT signals participate in neural and somitic patterning, but Sonic hedgehog provides the characteristic ventral notochordal signal.",
+        "C": "E-cadherin is a cell adhesion protein rather than a secreted morphogen establishing ventral neural tube identities.",
+        "E": "NODAL participates in gastrulation and left–right patterning rather than providing the characteristic notochordal ventralising signal."
+      }
     },
     {
       "id": "dq-embryo-g-050",
@@ -1700,10 +1832,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Mesoderm surrounds the disc except at the cranial oropharyngeal (buccopharyngeal) and caudal cloacal membranes.",
+      "why": "At the oropharyngeal and cloacal membranes, embryonic ectoderm and endoderm remain directly apposed without intervening mesoderm. These cranial and caudal landmarks subsequently contribute to formation of the oral and terminal hindgut openings.",
       "topicId": "e-disc",
       "subtopic": "Gastrulation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Amnion and chorion are extraembryonic membranes, rather than the two bilaminar regions of the embryonic disc.",
+        "B": "The primitive node and streak are sites of gastrulation and mesoderm migration rather than persistent mesoderm-free membranes.",
+        "C": "The notochord is axial mesoderm, so its inclusion contradicts the absence of intervening mesoderm in these membranes.",
+        "D": "Primary and secondary yolk sacs are successive extraembryonic structures, not the cranial and caudal bilaminar membranes."
+      }
     },
     {
       "id": "dq-embryo-g-051",
@@ -1732,10 +1870,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "There are 42-44 somites: 5 occipital, 7 cervical, 12 thoracic, 5 lumbar, 5 sacral and 8-10 coccygeal, appearing days 20-31.",
+      "why": "Approximately 42–44 pairs of somites form from paraxial mesoderm during early development. They include occipital, cervical, thoracic, lumbar, sacral and coccygeal groups, with some terminal somites subsequently regressing.",
       "topicId": "e-disc",
       "subtopic": "Somites",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Seven is close to the number of cervical vertebrae, not the total number of embryonic somites.",
+        "C": "Twelve corresponds to the usual thoracic somite group rather than the complete craniocaudal somite population.",
+        "D": "Twenty to twenty-five somite pairs occur during an intermediate developmental stage before the full series forms.",
+        "E": "Sixty exceeds the conventional total of human somite pairs formed during the early embryonic period."
+      }
     },
     {
       "id": "dq-embryo-g-052",
@@ -1764,10 +1908,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "A cavity (the intraembryonic coelom) splits the lateral plate into somatic (parietal) and splanchnic (visceral) leaflets.",
+      "why": "Spaces appearing within lateral plate mesoderm merge to form the intraembryonic coelom, separating somatic and splanchnic mesodermal layers. These layers contribute respectively to body-wall and visceral structures surrounding developing serous cavities.",
       "topicId": "e-disc",
       "subtopic": "Mesoderm",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The chorionic cavity is extraembryonic and does not itself divide the intraembryonic lateral plate mesoderm.",
+        "C": "The neural canal forms within the neural tube and is unrelated to lateral plate mesodermal separation.",
+        "D": "The primitive groove provides a site for gastrulation rather than forming the future intraembryonic body cavities.",
+        "E": "The amniotic cavity surrounds the embryo dorsally and does not split lateral plate mesoderm into its layers."
+      }
     },
     {
       "id": "dq-embryo-g-053",
@@ -1796,10 +1946,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Gastrulation begins the embryonic stage (weeks 3-8) of organogenesis, a period of high teratogen susceptibility.",
+      "why": "Weeks three through eight after fertilisation encompass the major embryonic period of organogenesis. Disruption during this interval can produce major structural malformations because organ primordia are undergoing differentiation and morphogenesis.",
       "topicId": "e-disc",
       "subtopic": "Embryonic period",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Weeks eight through twelve span the transition towards the fetal period, when growth and functional maturation predominate.",
+        "B": "Weeks twelve through sixteen belong to fetal development, although selected organs remain vulnerable to harmful exposures.",
+        "D": "The first two weeks principally involve cleavage and implantation, before the major period of organ formation.",
+        "E": "Weeks nine through twelve are early fetal weeks rather than the principal embryonic organogenesis interval."
+      }
     },
     {
       "id": "dq-embryo-g-054",
@@ -1860,10 +2016,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Sirenomelia (caudal dysgenesis) results from deficient mesoderm around the cloacal membrane.",
+      "why": "Sirenomelia is a severe caudal developmental anomaly featuring fusion of the lower limbs and frequent genitourinary abnormalities. Defective caudal mesoderm development and abnormal vascular supply are proposed mechanisms, rather than a single universally established cause.",
       "topicId": "e-disc",
       "subtopic": "Anomalies",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Holoprosencephaly involves abnormal forebrain division rather than the characteristic fused lower limbs of severe caudal maldevelopment.",
+        "B": "Omphalocele involves herniation of abdominal contents into a membrane-covered umbilical sac rather than limb fusion.",
+        "C": "Gastroschisis is an abdominal wall defect with exposed herniated viscera, not the characteristic caudal limb anomaly.",
+        "D": "Meromelia denotes partial absence of a limb, rather than the characteristic fusion of the lower limbs."
+      }
     },
     {
       "id": "dq-embryo-g-056",
@@ -1892,10 +2054,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Failed degeneration of primitive-streak cells can produce a sacrococcygeal teratoma in the buttock region.",
+      "why": "Persistent pluripotent cells associated with the primitive streak can give rise to sacrococcygeal teratomas. These tumours may contain differentiated tissues from multiple germ layers, reflecting their developmental cellular origin near the caudal embryo.",
       "topicId": "e-disc",
       "subtopic": "Anomalies",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Wilms tumour arises from abnormal renal precursor development rather than residual pluripotent primitive streak cells.",
+        "C": "Neuroblastoma originates from sympathetic neural crest-derived precursors rather than the characteristic caudal primitive streak remnants.",
+        "D": "Hydatidiform mole involves abnormal conceptus genetics and trophoblast proliferation, rather than residual primitive streak tissue.",
+        "E": "Ovarian dermoid cysts are germ-cell tumours, but the specified caudal embryonic remnants produce sacrococcygeal teratomas."
+      }
     },
     {
       "id": "dq-embryo-cvs-001",
@@ -1924,10 +2092,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Vasculogenesis forms the first vessels from angioblasts; angiogenesis is sprouting of capillaries from existing vessels.",
+      "why": "Vasculogenesis creates new vascular structures through differentiation and assembly of mesoderm-derived angioblasts into endothelial networks. Angiogenesis subsequently expands or remodels vascular beds through growth from existing vessels.",
       "topicId": "e-cvs",
       "subtopic": "Vessel development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Angiogenesis generates new vessels from pre-existing vascular structures, rather than establishing endothelial networks directly from precursors.",
+        "C": "Haematopoiesis produces blood cellular elements rather than specifically assembling endothelial cells into new vascular channels.",
+        "D": "Angioplasty is a clinical intervention to enlarge narrowed vessels, not a process of embryonic vascular development.",
+        "E": "Arteriogenesis involves enlargement and remodelling of arterial pathways, rather than initial endothelial network formation from angioblasts."
+      }
     },
     {
       "id": "dq-embryo-cvs-002",
@@ -1956,10 +2130,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The heart primordium forms in the cardiogenic plate (primary heart field) at the cranial end of the embryo.",
+      "why": "Cardiac progenitors arise within splanchnic lateral plate mesoderm in the cranial cardiogenic region. Their organisation into heart fields precedes formation and folding of the primitive heart tube during early embryogenesis.",
       "topicId": "e-cvs",
       "subtopic": "Heart tube",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Neural crest contributes to outflow tract and other cardiovascular structures, but does not form the initial cardiac field.",
+        "C": "The sinus venosus develops as a venous inflow component after establishment of the early cardiac primordium.",
+        "D": "The bulbus cordis is a region of the developing heart tube, rather than its initial cardiogenic mesodermal source.",
+        "E": "Septum transversum contributes to diaphragm development and related tissues, rather than constituting the initial heart primordium."
+      }
     },
     {
       "id": "dq-embryo-cvs-003",
@@ -1988,10 +2168,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Two endocardial (heart) tubes move ventrally with folding and fuse into one primitive heart tube.",
+      "why": "Lateral embryonic folding brings the paired endocardial tubes towards the ventral midline, where they fuse to form the primitive heart tube. Surrounding cardiogenic mesoderm contributes myocardial tissue and associated cardiac layers.",
       "topicId": "e-cvs",
       "subtopic": "Heart tube",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The primitive heart tube develops from cardiogenic mesoderm rather than budding from an already formed aorta.",
+        "B": "Outflow tract division occurs later during cardiac septation, rather than producing the initial single heart tube.",
+        "D": "The bulbus cordis is a region of the established primitive heart tube and does not initiate its formation.",
+        "E": "The sinus venosus develops at the venous end of the heart tube rather than generating it through folding."
+      }
     },
     {
       "id": "dq-embryo-cvs-004",
