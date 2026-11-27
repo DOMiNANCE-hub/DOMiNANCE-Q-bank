@@ -1564,7 +1564,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The ossicles match low-impedance air to high-impedance cochlear fluid via area ratio, lever action and eardrum buckling.",
+      "why": "The middle ear increases pressure at the oval window through the effective area difference between tympanic membrane and stapes footplate, together with ossicular leverage. This improves energy transfer from air into higher-impedance cochlear fluid.",
+      "notes": {
+        "A": "Hair cells perform mechanoelectrical transduction within the cochlea; the ossicles transmit mechanical energy rather than generating neural signals.",
+        "C": "Middle-ear transmission varies with frequency, but its fundamental impedance-matching function is not confined to the lowest audible frequencies.",
+        "D": "The acoustic reflex can attenuate selected sounds but cannot protect the cochlea from all damaging or sudden loud noises.",
+        "E": "Pressure equalisation across the tympanic membrane is chiefly the function of the pharyngotympanic tube, not the ossicular chain."
+      },
       "topicId": "sen-ear",
       "subtopic": "Middle ear",
       "difficulty": "hard"
@@ -1628,7 +1634,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Endolymph fills the membranous labyrinth; perilymph fills the surrounding bony labyrinth (scala vestibuli and tympani).",
+      "why": "Endolymph fills the membranous labyrinth, including the cochlear duct or scala media, and has a high potassium concentration. Perilymph surrounds the membranous labyrinth and occupies the scala vestibuli and scala tympani.",
+      "notes": {
+        "A": "Aqueous humour fills anterior and posterior chambers of the eye, rather than the membranous labyrinth of the inner ear.",
+        "B": "Cerebrospinal fluid circulates around the central nervous system and communicates indirectly with perilymphatic spaces, not normally filling scala media.",
+        "C": "Endolymph has a specialised ionic composition maintained by epithelial transport, rather than being an ordinary unmodified plasma filtrate.",
+        "E": "Perilymph is relatively sodium-rich and surrounds the membranous labyrinth, whereas its internal compartments contain potassium-rich endolymph."
+      },
       "topicId": "sen-ear",
       "subtopic": "Inner ear",
       "difficulty": "medium"
@@ -1660,7 +1672,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The organ of Corti sits on the basilar membrane; its hair-cell stereocilia contact the tectorial membrane.",
+      "why": "The organ of Corti rests on the basilar membrane within the cochlear duct. Sound-driven movement of this membrane produces relative motion between hair bundles and adjacent structures, enabling mechanoelectrical transduction and frequency-dependent auditory responses.",
+      "notes": {
+        "A": "The tectorial membrane overlies the organ of Corti and interacts with hair bundles, rather than forming its basal supporting surface.",
+        "B": "Reissner's membrane separates scala media from scala vestibuli and forms the roof of the cochlear duct.",
+        "C": "The oval window transfers stapes motion into cochlear fluid, rather than supporting the sensory epithelium along the cochlear spiral.",
+        "D": "The modiolus is the central bony axis containing neural and vascular structures, not the membrane directly supporting the organ of Corti."
+      },
       "topicId": "sen-ear",
       "subtopic": "Cochlea",
       "difficulty": "medium"
@@ -1692,7 +1710,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Reissner's membrane forms the roof of the cochlear duct, separating it from the scala vestibuli.",
+      "why": "Reissner's membrane, also called the vestibular membrane, separates potassium-rich endolymph within scala media from perilymph in scala vestibuli. Together with the basilar membrane and lateral wall, it defines the cochlear duct.",
+      "notes": {
+        "B": "The basilar membrane separates the cochlear duct from scala tympani and supports the organ of Corti.",
+        "C": "The middle-ear cavity is separated from inner-ear fluid spaces by structures including the oval and round windows.",
+        "D": "The vestibule houses vestibular organs, whereas Reissner's membrane divides fluid compartments within the spiral cochlea.",
+        "E": "Semicircular canals are vestibular structures detecting head rotation and are not the compartment immediately above Reissner's membrane."
+      },
       "topicId": "sen-ear",
       "subtopic": "Cochlea",
       "difficulty": "hard"
@@ -1724,7 +1748,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The base is narrow and stiff (high frequencies); the apex is wide and floppy (low frequencies) — the basis of place coding.",
+      "why": "The basilar membrane is relatively narrow and stiff near the cochlear base and wider and more compliant near the apex. This stiffness gradient helps determine where travelling waves of different frequencies reach maximal amplitude.",
+      "notes": {
+        "A": "The modiolus is the central bony axis, rather than a longitudinal position defining the stiff basal cochlear frequency region.",
+        "C": "The apical basilar membrane is wider and more compliant, favouring maximal vibration in response to relatively low-frequency sounds.",
+        "D": "Middle cochlear turns exhibit intermediate mechanical properties between the stiff base and compliant apex, rather than the maximum basal stiffness.",
+        "E": "The round window lies near the cochlear base but is a pressure-relief membrane, not the specified longitudinal basilar membrane region."
+      },
       "topicId": "sen-ear",
       "subtopic": "Cochlea",
       "difficulty": "hard"
@@ -1756,7 +1786,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "High frequencies peak near the stiff base; low frequencies peak near the flexible apex.",
+      "why": "High-frequency sound produces a travelling wave that reaches maximum amplitude relatively close to the stiff cochlear base. Lower frequencies travel farther towards the more compliant apex, establishing the cochlea's tonotopic representation of pitch.",
+      "notes": {
+        "A": "The helicotrema connects scala vestibuli and scala tympani at the apex, where low rather than high frequencies preferentially peak.",
+        "B": "Reissner's membrane separates cochlear fluid compartments, whereas the basilar membrane's mechanical gradient supports frequency-selective vibration and place coding.",
+        "D": "The compliant apical region responds maximally to relatively low frequencies, rather than high-frequency tones peaking near the base.",
+        "E": "Travelling waves exhibit frequency-dependent spatial maxima rather than vibrating the entire basilar membrane uniformly at every frequency."
+      },
       "topicId": "sen-ear",
       "subtopic": "Pitch",
       "difficulty": "hard"
@@ -1788,7 +1824,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The single row of inner hair cells are the auditory receptors; the three rows of outer hair cells amplify the signal.",
+      "why": "Inner hair cells convert cochlear vibration into graded electrical responses and transmit most auditory afferent information to spiral ganglion neurons. Outer hair cells also transduce motion but specialise in active mechanical amplification and sharpening of frequency tuning.",
+      "notes": {
+        "A": "Deiters cells provide structural and metabolic support to outer hair cells rather than carrying the main auditory afferent signal.",
+        "B": "Spiral ganglion neurons receive synaptic input from hair cells and conduct auditory impulses, rather than directly transducing basilar membrane movement.",
+        "C": "The stria vascularis maintains endolymph composition and endocochlear potential, rather than providing the principal sound-sensitive afferent receptor population.",
+        "E": "Outer hair cells are mechanosensitive too, but their dominant specialised function is cochlear amplification rather than conveying most auditory afferent information."
+      },
       "topicId": "sen-ear",
       "subtopic": "Organ of Corti",
       "difficulty": "hard"
@@ -1820,7 +1862,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Electromotile outer hair cells lengthen and shorten, boosting basilar-membrane vibration so quiet sounds are heard.",
+      "why": "Outer hair cells express prestin, a voltage-sensitive motor protein that changes cell length as membrane potential varies. This electromotility feeds mechanical energy back into cochlear vibration, increasing sensitivity and sharpening frequency selectivity.",
+      "notes": {
+        "A": "The stria vascularis plays a principal role in generating potassium-rich endolymph and endocochlear potential, rather than outer hair cell electromotility.",
+        "B": "Mature cochlear hair cells primarily use graded receptor potentials; voltage-dependent length changes, not their own action potentials, drive mechanical amplification.",
+        "C": "Perilymph occupies scala vestibuli and scala tympani; releasing it is not the mechanism by which outer hair cells amplify vibration.",
+        "D": "The round window accommodates cochlear fluid displacement, whereas outer hair cells actively modify mechanical movement through prestin-dependent changes in length."
+      },
       "topicId": "sen-ear",
       "subtopic": "Organ of Corti",
       "difficulty": "hard"
@@ -1852,7 +1900,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Deflection toward the tallest stereocilium tensions the tip links, opening MET channels.",
+      "why": "Deflection of hair bundles towards their tallest stereocilia increases tension on tip links connecting adjacent stereocilia. Mechanotransduction channels open, allowing inward cation current and initiating graded depolarisation of the sensory hair cell.",
+      "notes": {
+        "B": "Deflection towards taller stereocilia opens mechanotransduction channels rather than closing them through tension on the tectorial membrane itself.",
+        "C": "Basilar membrane motion provides mechanical stimulation, but opening hair-cell channels depends on hair-bundle deflection and tip-link tension.",
+        "D": "The cupula mechanically couples vestibular endolymph movement to crista hair bundles, whereas tip links are the relevant molecular channel-gating structures.",
+        "E": "Otolithic membranes and otoconia couple acceleration to vestibular hair bundles; their movement does not replace tip-link-mediated channel gating."
+      },
       "topicId": "sen-ear",
       "subtopic": "Transduction",
       "difficulty": "hard"
@@ -1884,7 +1938,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The K+-rich endolymph drives K+ (and some Ca2+) into the hair cell through MET channels, depolarising it.",
+      "why": "The apical hair bundle contacts potassium-rich endolymph with a positive endocochlear potential. Opening mechanotransduction channels therefore drives potassium and some calcium into cochlear hair cells, depolarising them and activating voltage-gated calcium entry at their bases.",
+      "notes": {
+        "A": "Bicarbonate is an anion and is not the principal inward charge carrier producing the depolarising hair-cell receptor current.",
+        "C": "Perilymph surrounds basolateral cochlear hair-cell surfaces; the mechanotransduction channels are exposed apically to potassium-rich endolymph.",
+        "D": "Basolateral calcium entry promotes neurotransmitter release after depolarisation, but potassium influx through apical mechanotransduction channels initiates the response.",
+        "E": "Chloride is negatively charged and does not constitute the principal depolarising inward current through hair-cell mechanotransduction channels."
+      },
       "topicId": "sen-ear",
       "subtopic": "Transduction",
       "difficulty": "hard"
@@ -1916,7 +1976,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "As the oval window pushes in, the round window bulges out, relieving the otherwise incompressible cochlear fluid.",
+      "why": "Cochlear fluid is nearly incompressible, so inward stapes movement requires compensatory displacement at another boundary. The flexible round-window membrane bulges reciprocally, allowing fluid pressure differences to drive motion of the cochlear partition.",
+      "notes": {
+        "A": "The stria vascularis maintains cochlear endolymph composition, rather than the round window serving as an endolymph-secreting structure.",
+        "B": "The organ of Corti lies on the basilar membrane within scala media, rather than being housed in the round window.",
+        "D": "The stapes footplate transmits vibration to perilymph at the oval window, while the round window provides compensatory displacement.",
+        "E": "The pharyngotympanic tube equalises middle-ear air pressure with the nasopharynx; the round window accommodates inner-ear fluid displacement."
+      },
       "topicId": "sen-ear",
       "subtopic": "Sound transmission",
       "difficulty": "hard"
@@ -1948,7 +2014,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "CN VIII fibres synapse first in the cochlear nucleus; later relays include the superior olive, inferior colliculus and medial geniculate.",
+      "why": "Primary auditory afferents have cell bodies in the spiral ganglion and enter the brainstem through the cochlear division of cranial nerve VIII. Their central processes first synapse in dorsal and ventral cochlear nuclei.",
+      "notes": {
+        "A": "The medial geniculate body is a thalamic auditory relay reached after multiple brainstem processing stages rather than the first synapse.",
+        "B": "The superior olivary complex receives input from cochlear nuclei and contributes to binaural processing after the initial brainstem relay.",
+        "C": "The lateral lemniscus contains ascending auditory fibres and associated nuclei, situated downstream of the first cochlear nuclear synapse.",
+        "E": "The inferior colliculus integrates ascending auditory signals in the midbrain after earlier processing within cochlear and other brainstem nuclei."
+      },
       "topicId": "sen-ear",
       "subtopic": "Central pathway",
       "difficulty": "hard"
@@ -1980,7 +2052,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The medial geniculate body relays to the primary auditory cortex; the LGN is visual.",
+      "why": "The medial geniculate body receives auditory information principally from the inferior colliculus and relays it through auditory radiations to temporal auditory cortex. Its divisions contribute to frequency-specific and higher-order auditory processing.",
+      "notes": {
+        "A": "The lateral geniculate body is the principal thalamic relay for visual rather than auditory information reaching cerebral cortex.",
+        "B": "Ventral posterior thalamic nuclei relay somatosensory information from the body and face, rather than providing the major auditory relay.",
+        "C": "The pulvinar participates in association and attentional networks, particularly visual processing, rather than the principal thalamic relay to primary auditory cortex.",
+        "D": "Pretectal nuclei participate in pupillary light reflex circuitry, rather than serving as the thalamic relay for auditory signals."
+      },
       "topicId": "sen-ear",
       "subtopic": "Central pathway",
       "difficulty": "hard"
@@ -2012,7 +2090,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Because the pathway is still unilateral at this level, a cochlear nerve/nucleus lesion deafens the same-side ear; central lesions above do not cause unilateral deafness.",
+      "why": "A complete unilateral cochlear nerve lesion interrupts auditory afferents from the ipsilateral ear before binaural convergence. Severe destruction of its cochlear nuclei can similarly cause profound ipsilateral hearing loss; higher pathways typically carry bilateral auditory input.",
+      "notes": {
+        "B": "Before central binaural convergence, auditory afferents primarily represent the same-side ear, rather than exclusively the opposite ear.",
+        "C": "A unilateral peripheral auditory lesion interrupts one ear's input, rather than necessarily eliminating hearing from the intact opposite ear.",
+        "D": "Unilateral nerve destruction can affect the entire frequency range from that ear, rather than selectively affecting bilateral high-frequency hearing.",
+        "E": "Loss of the cochlear nerve removes the principal neural pathway transmitting auditory information from the affected ear to the brainstem."
+      },
       "topicId": "sen-ear",
       "subtopic": "Central pathway",
       "difficulty": "hard"
@@ -2044,7 +2128,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The superior olivary complex compares timing and intensity between the two ears for sound localisation.",
+      "why": "The superior olivary complex receives auditory input from both ears and compares interaural timing and level differences. These binaural cues are especially important for estimating horizontal sound-source direction, with different subnuclei preferentially processing different cues.",
+      "notes": {
+        "A": "Vestibular nuclei process head-motion and orientation signals, rather than performing the principal binaural comparisons needed for auditory localisation.",
+        "C": "Cochlear nuclei initiate central auditory processing, but the superior olivary complex is the classic early site of bilateral sound localisation.",
+        "D": "Inferior colliculi integrate auditory localisation information at later midbrain stages, rather than constituting the characteristic initial binaural comparison centre.",
+        "E": "Medial geniculate bodies relay processed auditory information towards cortex, rather than being the major brainstem nuclei comparing the two ears."
+      },
       "topicId": "sen-ear",
       "subtopic": "Central processing",
       "difficulty": "hard"
@@ -2076,7 +2166,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Conductive loss results from an outer/middle-ear block and is often reversible; sensorineural loss from hair-cell or nerve damage is usually permanent.",
+      "why": "Conductive hearing loss occurs when sound transmission through the external or middle ear is impaired before reaching the cochlea. Many causes are treatable, such as obstructing cerumen or middle-ear effusion, unlike direct injury to auditory sensory structures.",
+      "notes": {
+        "A": "Auditory cortical lesions alter central auditory processing and are not classified as mechanical impairment of external or middle-ear conduction.",
+        "B": "Medial geniculate injury affects central auditory relay pathways rather than preventing mechanical sound transmission into cochlear fluid.",
+        "D": "Cochlear hair-cell damage causes sensorineural hearing loss by impairing sound transduction, rather than a primary mechanical conduction defect.",
+        "E": "Auditory nerve degeneration causes sensorineural or neural hearing impairment, not obstruction of sound transmission through the outer or middle ear."
+      },
       "topicId": "sen-ear",
       "subtopic": "Hearing loss",
       "difficulty": "medium"
@@ -2108,7 +2204,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Presbycusis is the sensorineural hearing loss of ageing (presbyopia is the visual analogue).",
+      "why": "Presbycusis is age-associated hearing loss, typically sensorineural and often more pronounced at higher frequencies. Age-related changes in cochlear hair cells, neural pathways and metabolic support structures may contribute to impaired hearing and speech discrimination.",
+      "notes": {
+        "A": "Tinnitus refers to perceived sound without a corresponding external acoustic stimulus and may accompany hearing loss of many causes.",
+        "B": "Otosclerosis involves abnormal otic capsule bone remodelling and often causes conductive loss through stapes fixation, rather than general age-related sensorineural loss.",
+        "C": "Nystagmus describes involuntary rhythmic eye movements, often associated with vestibular or neurological conditions, rather than age-related hearing loss.",
+        "E": "Presbyopia is age-related loss of near accommodation in the eye, not the age-associated deterioration of auditory sensitivity."
+      },
       "topicId": "sen-ear",
       "subtopic": "Hearing loss",
       "difficulty": "medium"
@@ -2140,7 +2242,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The three orthogonal semicircular canals sense angular acceleration; the otolith organs sense linear acceleration and gravity.",
+      "why": "Semicircular canals detect head rotation through inertial movement of endolymph relative to the membranous ducts. Their responses are especially important during changes in angular velocity, while sustained constant rotation produces adaptation as fluid movement equilibrates.",
+      "notes": {
+        "A": "Linear acceleration and gravitational orientation are detected chiefly by otolith organs, the utricle and saccule, rather than semicircular ducts.",
+        "B": "Static head tilt relative to gravity is predominantly signalled by otolith organs, rather than being the exclusive semicircular canal function.",
+        "C": "Sound frequency is encoded through cochlear mechanics and auditory hair-cell activity, rather than the vestibular semicircular canal system.",
+        "D": "During sustained constant-velocity rotation, canal responses progressively decline as endolymph approaches the motion of the surrounding duct."
+      },
       "topicId": "sen-ear",
       "subtopic": "Vestibular",
       "difficulty": "hard"
@@ -2172,7 +2280,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The crista ampullaris, whose hair cells are embedded in the gelatinous cupula, detects endolymph movement during rotation.",
+      "why": "Each semicircular duct has an expanded ampulla containing the crista ampullaris, a ridge of sensory hair cells and supporting cells. Hair bundles project into the cupula, which deflects during relative endolymph movement associated with head rotation.",
+      "notes": {
+        "B": "The macula utriculi is an otolith sensory epithelium detecting linear acceleration and tilt, rather than lying in a semicircular ampulla.",
+        "C": "The organ of Corti is the cochlear auditory sensory epithelium, not the vestibular structure detecting rotation within semicircular duct ampullae.",
+        "D": "The macula sacculi detects linear acceleration through its otolithic membrane, rather than forming the cupula-associated ampullary receptor organ.",
+        "E": "The stria vascularis is a specialised cochlear epithelium maintaining endolymph and endocochlear potential, rather than the sensory crista."
+      },
       "topicId": "sen-ear",
       "subtopic": "Vestibular",
       "difficulty": "hard"
@@ -2204,7 +2318,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Endolymph lags behind the rotating canal by inertia, deflecting the cupula and bending the crista hair cells.",
+      "why": "During angular acceleration, inertia causes endolymph to lag behind movement of the semicircular duct. The resulting relative fluid displacement bends the cupula and attached hair bundles, changing vestibular afferent discharge according to the direction of rotation.",
+      "notes": {
+        "A": "Stapedius contraction modifies middle-ear sound transmission and does not provide the inertial stimulus driving semicircular canal hair-cell responses.",
+        "C": "Otoconia provide an inertial mass within utricular and saccular maculae, rather than driving the cupula's normal response to angular acceleration.",
+        "D": "Basilar membrane vibration activates cochlear auditory receptors, rather than the vestibular crista hair cells embedded in the cupula.",
+        "E": "The cupula responds primarily to relative endolymph displacement within the membranous duct, not to changes in surrounding perilymph pressure."
+      },
       "topicId": "sen-ear",
       "subtopic": "Vestibular",
       "difficulty": "hard"
@@ -2236,7 +2356,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Dense otoconia on the otolithic membrane lag during linear acceleration, bending the macular hair cells.",
+      "why": "Utricular and saccular hair bundles extend into a gelatinous otolithic membrane weighted by dense calcium carbonate otoconia. Gravity or linear acceleration displaces this membrane relative to the sensory epithelium, changing hair-cell receptor potentials and afferent firing.",
+      "notes": {
+        "A": "Scala tympani contains cochlear perilymph involved in auditory mechanics, rather than the weighted membrane responsible for otolith organ acceleration detection.",
+        "B": "The tectorial membrane interacts with cochlear hair bundles during hearing, rather than containing the otoconia of utricular and saccular maculae.",
+        "D": "Semicircular duct endolymph provides inertial stimulation during rotation, whereas otolith organs detect linear acceleration through their weighted membranes.",
+        "E": "The ampullary cupula deflects with semicircular duct fluid movement and normally lacks the dense otoconia characteristic of otolithic membranes."
+      },
       "topicId": "sen-ear",
       "subtopic": "Vestibular",
       "difficulty": "hard"
@@ -2300,7 +2426,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The medial longitudinal fasciculus links the vestibular nuclei to the eye-movement nuclei (the vestibulo-ocular reflex).",
+      "why": "Vestibular nuclei communicate with ocular motor nuclei through pathways including the medial longitudinal fasciculus. These connections coordinate extraocular muscle activation during head movement, allowing compensatory eye rotation that stabilises the visual image on the retina.",
+      "notes": {
+        "A": "Vestibulospinal pathways primarily regulate spinal motor circuits and posture, rather than directly coordinating the ocular motor nuclei for compensatory gaze.",
+        "B": "The lateral lemniscus carries ascending auditory information towards the midbrain, rather than connecting vestibular nuclei to extraocular motor nuclei.",
+        "C": "Optic radiations transmit visual information from lateral geniculate nucleus to occipital cortex, not vestibular motor commands to eye muscles.",
+        "D": "The corticospinal tract primarily carries descending voluntary motor information towards spinal circuits, rather than providing the classic internuclear vestibulo-ocular connection."
+      },
       "topicId": "sen-ear",
       "subtopic": "Vestibular",
       "difficulty": "hard"
@@ -2332,7 +2464,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Umami (savoury), elicited by glutamate, is the fifth basic taste alongside sweet, sour, salty and bitter.",
+      "why": "Umami is the recognised savoury basic taste, mediated primarily by receptors responding to glutamate and enhanced by certain nucleotides. It complements sweet, sour, salty and bitter in the conventional five-modality classification of human gustation.",
+      "notes": {
+        "B": "Astringency is mainly an oral tactile sensation involving changes in lubrication and interactions with salivary proteins, rather than a basic taste modality.",
+        "C": "Metallic sensations can involve gustatory, olfactory and other oral mechanisms, but are not one of the conventional five basic tastes.",
+        "D": "Pungency principally involves trigeminal chemesthetic sensation, such as capsaicin-induced burning, rather than the fifth conventional basic gustatory modality.",
+        "E": "Alkalinity may alter oral sensation, but it is not recognised as the fifth conventional basic taste alongside the four listed."
+      },
       "topicId": "sen-chem",
       "subtopic": "Taste",
       "difficulty": "easy"
@@ -2364,7 +2502,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Glutamate (and certain ribonucleotides in meat) produces the savoury umami taste.",
+      "why": "Glutamate activates umami taste receptors, principally the T1R1–T1R3 heterodimer, generating a savoury taste. Certain nucleotides such as inosinate can enhance this receptor response, explaining the strong umami sensation of many protein-rich foods.",
+      "notes": {
+        "A": "Citric acid releases hydrogen ions and primarily stimulates sour-sensitive taste cells rather than producing the characteristic glutamate-associated umami sensation.",
+        "C": "Sucrose stimulates sweet taste receptors, particularly the T1R2–T1R3 heterodimer, rather than principally activating the umami receptor combination.",
+        "D": "Sodium chloride principally produces salty taste through ion-sensitive mechanisms rather than serving as the characteristic umami receptor ligand.",
+        "E": "Quinine activates bitter taste receptors and produces bitterness, rather than the savoury quality elicited by glutamate."
+      },
       "topicId": "sen-chem",
       "subtopic": "Taste",
       "difficulty": "medium"
@@ -2396,7 +2540,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Saltiness comes chiefly from Na+ entering taste cells directly through ion channels.",
+      "why": "Sodium ions are the major stimulus for the familiar salty taste of sodium chloride. Salt detection involves ion-sensitive taste-cell mechanisms, with multiple pathways contributing to human salt perception depending on concentration and ionic composition.",
+      "notes": {
+        "A": "Quinine is a classic bitter-tasting compound that stimulates bitter taste receptors, rather than providing the characteristic stimulus for sodium-associated saltiness.",
+        "B": "Glucose primarily activates sweet taste receptors and does not provide the characteristic ionic stimulus responsible for salty taste.",
+        "D": "Hydrogen ions contribute to sour taste by activating acid-sensitive taste-cell mechanisms, rather than producing the typical taste of sodium chloride.",
+        "E": "Glutamate stimulates umami receptors and can contribute savouriness, rather than being the principal ionic stimulus defining ordinary salty taste."
+      },
       "topicId": "sen-chem",
       "subtopic": "Taste",
       "difficulty": "medium"
@@ -2428,7 +2578,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Sweet, bitter and umami use GPCRs coupled to gustducin; salt and sour act more directly through ion channels.",
+      "why": "Sweet, bitter and umami are detected chiefly through G-protein-coupled taste receptors on type II taste cells. Their signalling pathways converge on intracellular calcium mobilisation and depolarisation, ultimately promoting ATP release to gustatory afferents.",
+      "notes": {
+        "A": "Stretch-activated channels transduce mechanical deformation, rather than providing the principal ligand-sensitive receptors for these three chemical taste modalities.",
+        "B": "Voltage-gated sodium channels can contribute to electrical responses after taste transduction, but are not the primary chemical recognition receptors.",
+        "C": "Mechanically gated tip-link channels are characteristic of auditory and vestibular hair cells, rather than sweet, bitter and umami taste transduction.",
+        "E": "Direct ionic transduction contributes to salty and sour taste, whereas sweet, bitter and umami primarily use metabotropic G-protein-coupled receptors."
+      },
       "topicId": "sen-chem",
       "subtopic": "Taste transduction",
       "difficulty": "hard"
@@ -2460,7 +2616,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Gustducin is the taste-cell G protein activating PLC-beta2 to generate IP3 and open TRPM5 channels.",
+      "why": "Gustducin is a taste-associated G protein involved in signalling downstream of several sweet and bitter receptors. G-protein activation engages pathways including phospholipase C beta-2, intracellular calcium mobilisation and TRPM5-dependent depolarisation in type II taste cells.",
+      "notes": {
+        "A": "Transducin is the characteristic retinal G protein involved in phototransduction, whereas gustducin participates in taste receptor signalling.",
+        "B": "Rhodopsin kinase helps terminate activated visual pigment signalling through phosphorylation, rather than coupling sweet and bitter taste receptors to intracellular pathways.",
+        "C": "Calmodulin is a calcium-binding regulatory protein rather than the taste-associated heterotrimeric G protein activated by these receptors.",
+        "D": "Gastrin is a gastrointestinal peptide hormone stimulating gastric acid secretion, not a G protein involved in sweet and bitter taste transduction."
+      },
       "topicId": "sen-chem",
       "subtopic": "Taste transduction",
       "difficulty": "hard"
@@ -2492,7 +2654,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Type III presynaptic cells sense sour (H+); type II cells detect sweet/bitter/umami; type I are glial-like and handle salt and clear transmitter.",
+      "why": "Type III taste cells detect acidity through proton-sensitive mechanisms, including the OTOP1 proton channel, and depolarise when exposed to sour stimuli. Their conventional synaptic specialisations permit transmission of sour-related information to gustatory afferents.",
+      "notes": {
+        "B": "Type I taste cells have glial-like supporting and extracellular homeostatic functions, rather than constituting the main established sour-sensitive receptor population.",
+        "C": "Type II cells principally transduce sweet, bitter and umami through G-protein-coupled receptors, whereas type III cells are specialised for sour stimuli.",
+        "D": "Type IV basal cells contribute to taste-cell renewal rather than constituting the differentiated presynaptic cells principally detecting acidic stimuli.",
+        "E": "Olfactory sensory neurons detect volatile odorants in the nasal epithelium, rather than mediating sour taste in lingual taste buds."
+      },
       "topicId": "sen-chem",
       "subtopic": "Taste cells",
       "difficulty": "hard"
@@ -2524,7 +2692,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Filiform papillae, the most numerous, are mechanical and lack taste buds; fungiform, foliate and circumvallate carry taste buds.",
+      "why": "Filiform papillae are numerous keratinised projections that provide mechanical traction during manipulation of food. Unlike fungiform, foliate and vallate papillae, normal filiform papillae do not contain taste buds and are not specialised for gustatory transduction.",
+      "notes": {
+        "A": "Vallate papillae contain numerous taste buds along their lateral walls, enabling gustation rather than exclusively mechanical handling of food.",
+        "C": "Fungiform papillae commonly contain taste buds near their apical surfaces, particularly in anterior regions of the tongue.",
+        "D": "Foliate papillae form lateral folds that can contain taste buds, although their prominence and number vary in humans.",
+        "E": "Circumvallate papillae are another name for vallate papillae and possess taste buds along their surrounding trenches."
+      },
       "topicId": "sen-chem",
       "subtopic": "Taste anatomy",
       "difficulty": "hard"
@@ -2556,7 +2730,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Responsiveness to all five modalities is present across the tongue; the classic tongue map is a myth.",
+      "why": "The traditional tongue map incorrectly assigns each basic taste to an exclusive tongue region. Taste buds across multiple gustatory regions can detect all five basic modalities, although receptor density and sensitivity vary locally.",
+      "notes": {
+        "A": "The exclusive tongue-map model is not valid in children or adults, because multiple taste modalities can be detected across gustatory regions.",
+        "B": "Sour and salty sensitivity is not restricted to exclusive separate tongue territories, even though regional differences in thresholds may occur.",
+        "D": "Sweet taste can be detected by taste buds beyond the tongue tip, rather than being confined to a single anterior zone.",
+        "E": "Bitter taste can be detected in multiple gustatory regions, rather than exclusively by taste buds located at the tongue's posterior edge."
+      },
       "topicId": "sen-chem",
       "subtopic": "Taste anatomy",
       "difficulty": "medium"
@@ -2588,7 +2768,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Facial (VII), glossopharyngeal (IX) and vagus (X) carry taste to the nucleus of the solitary tract.",
+      "why": "Gustatory afferents reach the brainstem through facial nerve branches, glossopharyngeal nerve fibres and vagal fibres. They convey taste from different oral and pharyngeal territories to the rostral nucleus of the solitary tract for central processing.",
+      "notes": {
+        "A": "The trigeminal nerve carries ordinary oral sensation and chemesthesis, while the vestibulocochlear nerve carries hearing and balance information rather than taste.",
+        "B": "Olfactory and optic nerves carry smell and vision, while trigeminal pathways convey general oral sensation rather than the main gustatory afferents.",
+        "C": "Glossopharyngeal and vagal nerves convey taste, but the hypoglossal nerve principally supplies tongue muscles and does not replace facial gustatory fibres.",
+        "E": "Oculomotor, trochlear and abducens nerves primarily control eye movements rather than carrying afferent taste signals from oral receptors."
+      },
       "topicId": "sen-chem",
       "subtopic": "Taste pathway",
       "difficulty": "hard"
@@ -2620,7 +2806,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Taste fibres synapse in the nucleus tractus solitarius, then project to the thalamus and the gustatory cortex.",
+      "why": "Primary gustatory afferents carried by cranial nerves VII, IX and X project to the rostral nucleus of the solitary tract in the medulla. Subsequent pathways relay taste information towards thalamic and cortical gustatory regions.",
+      "notes": {
+        "A": "The lateral geniculate nucleus relays visual information, rather than receiving the first central synapses of primary gustatory afferents.",
+        "B": "The olfactory bulb receives axons from nasal olfactory sensory neurons, rather than the initial central inputs from taste buds.",
+        "C": "The inferior colliculus processes auditory information within the midbrain, rather than being the first central gustatory relay.",
+        "D": "The Edinger–Westphal region contains parasympathetic neurons involved in ocular responses, rather than the principal first-order gustatory synaptic target."
+      },
       "topicId": "sen-chem",
       "subtopic": "Taste pathway",
       "difficulty": "hard"
@@ -2652,7 +2844,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Olfactory receptor neurons sit in the olfactory epithelium at the roof of the nasal cavity.",
+      "why": "Olfactory sensory neurons are bipolar receptor cells in specialised epithelium of the superior nasal cavity. Their non-motile cilia extend into mucus, where odorant molecules bind receptors and activate intracellular transduction pathways leading to neuronal firing.",
+      "notes": {
+        "B": "The hard palate contains oral mucosa and may contribute to oral sensation, but does not house the principal olfactory receptor epithelium.",
+        "C": "Circumvallate papillae contain gustatory taste buds, rather than the ciliated olfactory neurons specialised for detecting airborne odorant molecules.",
+        "D": "The pharyngotympanic tube connects nasopharynx and middle ear and does not contain the specialised superior nasal olfactory sensory epithelium.",
+        "E": "The nasopharyngeal floor lies away from the main superior nasal olfactory epithelium, which contains the receptor neurons for smell."
+      },
       "topicId": "sen-chem",
       "subtopic": "Smell",
       "difficulty": "medium"
@@ -2684,7 +2882,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The olfactory G protein raises cAMP, opening a cation channel; Ca2+ influx then opens Cl- channels for further depolarisation.",
+      "why": "Odorant receptor activation stimulates the olfactory G protein Golf and adenylyl cyclase, increasing cAMP. Cyclic nucleotide-gated cation channels open, producing depolarisation that is amplified by calcium-activated chloride efflux in olfactory sensory neurons.",
+      "notes": {
+        "A": "Calmodulin participates in calcium-dependent modulation and adaptation, rather than being the principal second messenger opening olfactory cyclic nucleotide-gated channels.",
+        "C": "Cyclic GMP regulates photoreceptor channels prominently, whereas the conventional main olfactory transduction cascade increases intracellular cyclic AMP.",
+        "D": "Inositol trisphosphate can participate in alternative signalling mechanisms, but the canonical olfactory receptor pathway involves adenylyl cyclase and cAMP.",
+        "E": "Diacylglycerol and TRPM5 are associated with other chemosensory pathways; canonical olfactory transduction principally uses cAMP-gated cation channels."
+      },
       "topicId": "sen-chem",
       "subtopic": "Smell transduction",
       "difficulty": "hard"
@@ -2716,7 +2920,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Olfactory axons pierce the cribriform plate to synapse in the olfactory bulb.",
+      "why": "Unmyelinated axons of olfactory receptor neurons assemble into small bundles that pass through foramina in the ethmoid cribriform plate. They enter the olfactory bulb and terminate in glomeruli, forming the peripheral component of cranial nerve I.",
+      "notes": {
+        "A": "The internal acoustic meatus transmits facial and vestibulocochlear nerves, rather than olfactory axon bundles entering the anterior cranial fossa.",
+        "B": "The jugular foramen transmits glossopharyngeal, vagus and accessory nerves, rather than cranial nerve I fibres crossing from nasal epithelium.",
+        "D": "The foramen magnum transmits the cervicomedullary junction and associated structures, not olfactory axons reaching the olfactory bulb.",
+        "E": "The optic canal transmits the optic nerve and ophthalmic artery, whereas olfactory fibres cross the perforated cribriform plate."
+      },
       "topicId": "sen-chem",
       "subtopic": "Smell pathway",
       "difficulty": "hard"
@@ -2748,7 +2958,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Olfactory receptor axons synapse on mitral-cell dendrites in the glomeruli of the olfactory bulb.",
+      "why": "Olfactory receptor axons expressing related odorant receptors converge within olfactory bulb glomeruli. They form excitatory synapses with dendrites of mitral and tufted projection neurons, which convey processed information through the olfactory tract.",
+      "notes": {
+        "A": "Pyramidal neurons are major cerebral cortical projection cells, rather than the characteristic principal glomerular projection neurons of the olfactory bulb.",
+        "B": "Basket cells are inhibitory interneurons in several neural regions, rather than the principal second-order olfactory bulb projection cells described.",
+        "C": "Amacrine cells are retinal interneurons modulating visual signals, rather than olfactory bulb neurons receiving direct receptor axon input in glomeruli.",
+        "E": "Purkinje cells are inhibitory cerebellar cortical output neurons and do not form the principal glomerular relay for olfactory receptor axons."
+      },
       "topicId": "sen-chem",
       "subtopic": "Smell pathway",
       "difficulty": "hard"
@@ -2780,7 +2996,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Olfactory signals project directly to the olfactory cortex and limbic structures, largely bypassing the thalamic relay typical of other senses.",
+      "why": "Olfactory bulb projection neurons send information directly to primary olfactory cortical regions, including piriform cortex, without an obligatory preceding thalamic synapse. Subsequent pathways can involve the mediodorsal thalamus and orbitofrontal cortex for higher-order olfactory processing.",
+      "notes": {
+        "A": "The lateral geniculate nucleus relays retinal signals to visual cortex, rather than being an obligatory relay for primary olfactory cortical input.",
+        "B": "The optic chiasm partially crosses retinal ganglion axons, not olfactory fibres projecting from the bulb towards primary olfactory cortex.",
+        "C": "The medial geniculate body is a thalamic auditory relay, whereas primary olfactory cortex receives direct projections from the olfactory bulb.",
+        "D": "The inferior colliculus is an auditory midbrain integration centre rather than a required relay for olfactory information reaching cerebral cortex."
+      },
       "topicId": "sen-chem",
       "subtopic": "Smell pathway",
       "difficulty": "hard"
