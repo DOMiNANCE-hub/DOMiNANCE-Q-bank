@@ -251,3 +251,69 @@
 - Key: D — Beta-cell potassium loss impairs secretion.
 - Concern: Reduced extracellular potassium can impair insulin secretion by affecting beta-cell membrane excitability, but intracellular potassium loss alone is not a sufficiently precise causal mechanism, and thiazide-related dysglycaemia is multifactorial. Clarify the intended electrophysiological explanation. Original explanation and key untouched.
 - Reference: standard endocrine physiology; exact textbook edition/page and original lecture not independently checked.
+
+## dq-phys-cns-004 — Sensory receptor adaptation categories
+- Stem: Touch and smell receptors are examples of ___ receptors, whereas lung-inflation and blood-pressure receptors are ___.
+- Key: D — rapidly adapting (phasic); slowly adapting (tonic).
+- Concern: Touch receptors include both rapidly adapting receptors (such as Pacinian and Meissner corpuscles) and slowly adapting receptors (such as Merkel complexes and Ruffini endings). The stem generalises all touch receptors as rapidly adapting; receptor subtype and stimulus conditions should be specified. Original explanation and key untouched.
+- Reference: standard neuroanatomy and neurophysiology (Guyton & Hall/Ganong and standard neuroanatomy texts); exact textbook edition/page and original lecture not independently checked.
+
+## dq-phys-cns-030 — Naming of ascending spinal tracts
+- Stem: Ascending spinal tracts are ___ and, by convention, their names begin with 'spino-'.
+- Key: E — sensory.
+- Concern: Ascending spinal pathways convey sensory information, but not all names begin with spino-. Dorsal column fasciculi are counterexamples. Distinguish the functional classification from the claimed universal naming convention. Original explanation and key untouched.
+- Reference: standard neuroanatomy and neurophysiology (Guyton & Hall/Ganong and standard neuroanatomy texts); exact textbook edition/page and original lecture not independently checked.
+
+## dq-phys-cns-036 — Duration of spinal shock
+- Stem: Immediately after complete spinal cord transection, spinal reflexes below the lesion are
+- Key: A — depressed for about two weeks.
+- Concern: Immediate depression of spinal reflexes is characteristic of spinal shock, but recovery varies by reflex, injury and individual, and may extend over weeks or months. The fixed two-week duration in the option is not a universal physiological rule. Original explanation and key untouched.
+- Reference: standard neuroanatomy and neurophysiology (Guyton & Hall/Ganong and standard neuroanatomy texts); exact textbook edition/page and original lecture not independently checked.
+
+## dq-phys-cns-046 — Laterality of lateral corticospinal control
+- Stem: The lateral corticospinal tract mainly controls
+- Key: A — contralateral limb (distal) muscles.
+- Concern: After pyramidal decussation, a lateral corticospinal tract in the spinal cord influences predominantly ipsilateral limb muscles relative to the tract itself, contralateral relative to its cerebral hemisphere of origin. The keyed option does not specify this reference frame. Revise the wording. Original explanation and key untouched.
+- Reference: standard neuroanatomy and neurophysiology (Guyton & Hall/Ganong and standard neuroanatomy texts); exact textbook edition/page and original lecture not independently checked.
+
+## dq-phys-cns-047 — Upper motor neuron lesion and muscle wasting
+- Stem: An upper motor neuron lesion typically produces
+- Key: B — spastic paralysis with hyperreflexia and no muscle wasting.
+- Concern: Established upper motor neuron lesions commonly produce spasticity and hyperreflexia, but acute lesions can initially be flaccid and disuse atrophy may occur later. The absolute statement of no muscle wasting is inaccurate; distinguish relatively limited disuse wasting from prominent denervation atrophy. Original explanation and key untouched.
+- Reference: standard neuroanatomy and neurophysiology (Guyton & Hall/Ganong and standard neuroanatomy texts); exact textbook edition/page and original lecture not independently checked.
+
+## dq-phys-cns-058 — Spinocerebellar pathways and conduction speed
+- Stem: The fastest input pathway to the cerebellum, giving feedback about motor signals reaching the anterior horn, is the
+- Key: C — spinocerebellar tract.
+- Concern: Spinocerebellar pathways provide proprioceptive and spinal motor-circuit information, particularly the ventral spinocerebellar tract for internal feedback about spinal activity. The stem combines a general tract category with an unverified superlative about speed and does not identify the relevant subdivision. Confirm lecture convention. Original explanation and key untouched.
+- Reference: standard neuroanatomy and neurophysiology (Guyton & Hall/Ganong and standard neuroanatomy texts); exact textbook edition/page and original lecture not independently checked.
+
+## dq-phys-cns-067 — Corpus striatum versus dorsal striatum
+- Stem: The corpus striatum of the basal ganglia is made up of the
+- Key: B — caudate and putamen.
+- Concern: The modern functional term dorsal striatum denotes caudate plus putamen, whereas traditional gross anatomical corpus striatum comprises caudate and lentiform nuclei, including globus pallidus. The stem uses corpus striatum while the keyed option gives dorsal striatum. Confirm the nomenclature and revise accordingly. Original explanation and key untouched.
+- Reference: standard neuroanatomy and neurophysiology (Guyton & Hall/Ganong and standard neuroanatomy texts); exact textbook edition/page and original lecture not independently checked.
+
+## dq-phys-cns-070 — Nigrostriatal dopamine effects
+- Stem: Dopaminergic projections from the substantia nigra to the striatum are
+- Key: E — inhibitory.
+- Concern: Dopamine does not exert a uniform inhibitory action on striatal neurons: D1 receptor signalling generally facilitates direct-pathway activity, while D2 receptor signalling inhibits indirect-pathway neurons. Both effects favour movement in the classical model. The blanket inhibitory key is misleading. Original explanation and key untouched.
+- Reference: standard neuroanatomy and neurophysiology (Guyton & Hall/Ganong and standard neuroanatomy texts); exact textbook edition/page and original lecture not independently checked.
+
+## dq-phys-cns-071 — Corticostriatal neurotransmitter — incorrect key
+- Stem: The excitatory neurotransmitter projecting from the cortex to the caudate and putamen is
+- Key: A — acetylcholine.
+- Concern: Cortical excitatory projection neurons to the caudate and putamen are glutamatergic. Acetylcholine is produced by local striatal cholinergic interneurons and is not the principal corticostriatal projection transmitter. Glutamate is absent from the options; the existing answer is incorrect and requires a corrected option and key. Original explanation and key untouched.
+- Reference: standard neuroanatomy and neurophysiology (Guyton & Hall/Ganong and standard neuroanatomy texts); exact textbook edition/page and original lecture not independently checked.
+
+## dq-phys-cns-072 — Overall effect of basal ganglia on movement
+- Stem: Overall, the basal ganglia exert mainly an ___ influence on movement.
+- Key: B — inhibitory.
+- Concern: Basal ganglia output neurons exert tonic inhibition on selected thalamic and brainstem targets, but the system regulates movement through direct, indirect and hyperdirect pathways, facilitating selected actions and suppressing competing actions. A blanket inhibitory effect on movement conflates output neurotransmission with network function. Original explanation and key untouched.
+- Reference: standard neuroanatomy and neurophysiology (Guyton & Hall/Ganong and standard neuroanatomy texts); exact textbook edition/page and original lecture not independently checked.
+
+## dq-phys-cns-094 — Anatomical relationship of tentorium cerebelli
+- Stem: The tentorium, which separates the hindbrain and brainstem from the rest of the brain, is part of the
+- Key: D — meninges.
+- Concern: The tentorium cerebelli is a dural reflection separating the cerebellum from the overlying occipital cerebral hemispheres, with an opening for the brainstem. The stem's description of separating the entire hindbrain and brainstem from the rest of the brain is anatomically imprecise, although the meninges classification is correct. Original explanation and key untouched.
+- Reference: standard neuroanatomy and neurophysiology (Guyton & Hall/Ganong and standard neuroanatomy texts); exact textbook edition/page and original lecture not independently checked.
