@@ -5,7 +5,7 @@
   "drafts": 208,
   "holds": 64,
   "drafts_pushed": true,
-  "applied_to_data": false,
+  "applied_to_data": true,
   "source_blob": "c6a2f8196e7f2b7416f52b9ca978ecd4ad9df3f8",
   "next_id": null,
   "remaining_ids": [],
@@ -96,5 +96,7 @@
     "https://rest.uniprot.org/uniprotkb/P02675.fasta",
     "https://www.ebi.ac.uk/chebi/CHEBI:10033",
     "https://www.ebi.ac.uk/chebi/CHEBI:28794"
-  ]
+  ],
+  "data_blob": "e20057917088167247ca4d30748778e3b51788f4",
+  "next_file": "data/biochem/sem2-past.json"
 }
