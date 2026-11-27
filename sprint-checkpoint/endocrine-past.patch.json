@@ -214,5 +214,212 @@
       "D": "Glucagon primarily raises blood glucose through effects on liver metabolism. It is not the principal hormone that raises serum calcium.",
       "E": "Testosterone influences bone and muscle, but it is not a usual cause of hormone-mediated hypercalcaemia."
     }
+  },
+  "phy-endocrine-019": {
+    "why": "Ionised calcium is the biologically active fraction and normally accounts for about half of total plasma calcium. It regulates PTH secretion and falls during alkalosis as more calcium binds to albumin. A change in albumin usually affects total calcium more than ionised calcium.",
+    "notes": {
+      "A": "Parathyroid calcium-sensing receptors detect free calcium. Low ionised calcium stimulates PTH release.",
+      "B": "Roughly half of plasma calcium is free. The remainder is bound to proteins or complexed with small anions.",
+      "C": "Higher pH increases calcium binding to albumin, decreasing ionised calcium even when total calcium changes little.",
+      "D": "In stable conditions, low albumin can lower measured total calcium without a proportional fall in ionised calcium. Direct measurement is preferable when the distinction matters."
+    }
+  },
+  "phy-endocrine-026": {
+    "why": "Calcitonin can lower blood calcium by inhibiting osteoclast-mediated bone resorption. It acts directly on osteoclasts, so its calcium-lowering action can occur even when the parathyroid glands have been removed.",
+    "notes": {
+      "A": "Calcitonin is secreted by parafollicular C cells. Thyroid follicular cells make T3 and T4.",
+      "B": "Basal metabolic rate is raised by thyroid hormones such as T3. This is not the principal action of calcitonin.",
+      "D": "An increase in ionised calcium is the classic physiological stimulus for calcitonin secretion. Phosphate is not the usual primary signal.",
+      "E": "Calcitonin inhibits osteoclast activity and decreases bone resorption."
+    }
+  },
+  "phy-endocrine-029": {
+    "why": "Vitamin D is hydroxylated in the liver and then the kidney to form calcitriol. Calcitriol increases intestinal calcium and phosphate absorption, supporting bone mineralisation. Deficiency can decrease calcium absorption and lead to secondary hyperparathyroidism.",
+    "notes": {
+      "A": "Calcitriol promotes active intestinal calcium uptake by increasing the expression of calcium transport proteins.",
+      "B": "Adequate vitamin D supports mineralisation of growing bone. Deficiency in children can cause rickets.",
+      "C": "The liver converts vitamin D to 25-hydroxyvitamin D. The main final activation step occurs in the kidney.",
+      "D": "Inadequate calcium absorption can increase PTH release as the parathyroid glands respond to the threat to ionised calcium."
+    }
+  },
+  "phy-endocrine-032": {
+    "why": "Low ionised calcium stimulates PTH secretion. PTH increases renal phosphate clearance, promotes mobilisation of skeletal calcium and stimulates renal production of calcitriol. These effects help defend extracellular calcium.",
+    "notes": {
+      "A": "PTH reduces sodium–phosphate cotransporter activity in the proximal tubule, increasing phosphate excretion.",
+      "B": "Sustained PTH can increase bone resorption through signalling by osteoblast-lineage cells to osteoclasts. This is a separate target-tissue effect from its renal actions.",
+      "C": "A fall in ionised calcium is sensed by parathyroid calcium-sensing receptors and increases PTH secretion.",
+      "D": "PTH stimulates proximal tubular 1-alpha-hydroxylase, increasing conversion of 25-hydroxyvitamin D to calcitriol."
+    }
+  },
+  "phy-endocrine-039": {
+    "why": "Abrupt loss of PTH can cause severe hypocalcaemia and neuromuscular hyperexcitability. Severe symptomatic hypocalcaemia may require monitored intravenous calcium. Long-term treatment commonly includes calcium and an active vitamin D preparation.",
+    "notes": {
+      "A": "Low ionised calcium increases neuromuscular excitability and can cause carpopedal spasm or tetany.",
+      "B": "Severe hypocalcaemia can lead to seizures, laryngospasm or arrhythmias, which can be life-threatening.",
+      "C": "Intravenous calcium can rapidly restore circulating ionised calcium in severe symptomatic hypocalcaemia and is administered with monitoring.",
+      "D": "Active vitamin D such as calcitriol helps maintain intestinal calcium absorption when PTH-driven renal activation is impaired."
+    }
+  },
+  "phy-endocrine-570": {
+    "why": "Calcitonin is secreted by parafollicular C cells of the thyroid gland. Raised circulating ionised calcium stimulates release, and calcitonin can decrease osteoclast-mediated bone resorption.",
+    "notes": {
+      "B": "The hypothalamus produces regulatory hormones such as TRH, but is not the source of circulating calcitonin.",
+      "C": "Parathyroid chief cells secrete PTH, which acts to defend blood calcium when it falls.",
+      "D": "Calcitonin's characteristic action is inhibition of bone resorption. Regulated dietary calcium absorption occurs mainly in the small intestine.",
+      "E": "The kidney makes calcitriol and responds to calcium-regulating hormones. Circulating calcitonin comes mainly from the thyroid."
+    }
+  },
+  "phy-endocrine-573": {
+    "why": "Growth hormone stimulates production of insulin-like growth factor 1, historically called somatomedin C. Local and circulating IGF-1 contribute to growth plate chondrocyte proliferation and longitudinal bone growth.",
+    "notes": {
+      "A": "Calcitonin inhibits osteoclast-mediated resorption. It is not the main mediator of growth hormone at the growth plate.",
+      "C": "Calcitriol supports calcium and phosphate availability for mineralisation. It does not mediate the principal growth hormone signal to chondrocytes.",
+      "D": "Thyroid hormone supports normal skeletal development and maturation. The main mediator named in this question is IGF-1.",
+      "E": "Aldosterone regulates renal sodium and potassium handling. It does not drive chondrocyte proliferation."
+    }
+  },
+  "phy-endocrine-013": {
+    "why": "Angiotensin II and extracellular potassium are the main direct stimuli for aldosterone secretion by the zona glomerulosa. Increased renin acts indirectly by raising angiotensin II. ACTH can contribute, usually as a relatively brief or secondary stimulus.",
+    "notes": {
+      "A": "Angiotensin II acts on zona glomerulosa cells and increases aldosterone synthesis.",
+      "B": "A rise in extracellular potassium depolarises glomerulosa cells and increases calcium entry and aldosterone release.",
+      "C": "Renin increases formation of angiotensin I and then angiotensin II, which is the direct adrenal stimulus.",
+      "D": "ACTH can transiently increase aldosterone, although it is less important than angiotensin II and potassium for sustained control."
+    }
+  },
+  "phy-endocrine-014": {
+    "why": "Glucocorticoid excess can increase osteoclast-mediated bone resorption early in exposure. With continued exposure, suppression of osteoblast activity and bone formation is especially important in producing osteoporosis.",
+    "notes": {
+      "A": "Glucocorticoids can cause involution of lymphoid tissue and decrease immune cell activity rather than enlarge lymph glands.",
+      "B": "Glucocorticoids suppress fibroblast activity and collagen synthesis, contributing to slower wound repair.",
+      "C": "Excess glucocorticoids increase muscle protein breakdown and can cause muscle wasting rather than increased anabolism.",
+      "E": "Inflammatory and immune responses are generally suppressed by glucocorticoid signalling."
+    }
+  },
+  "phy-endocrine-020": {
+    "why": "Cortisol circulates mostly bound to corticosteroid-binding globulin and albumin. Its secretion ordinarily peaks near waking, it inhibits ACTH by negative feedback, and elevated glucocorticoid exposure can raise arterial pressure.",
+    "notes": {
+      "A": "Corticosteroid-binding globulin, also called transcortin, is an alpha globulin that carries much of circulating cortisol.",
+      "B": "Glucocorticoids support vascular responsiveness to catecholamines. Sustained or high exposure can also increase blood pressure.",
+      "C": "Cortisol inhibits both hypothalamic CRH and anterior pituitary ACTH release through negative feedback.",
+      "D": "Cortisol is secreted in a circadian pattern, with concentrations generally highest near the start of the active period."
+    }
+  },
+  "phy-endocrine-022": {
+    "why": "Epinephrine mobilises fuel by increasing hepatic glucose output and adipose lipolysis. Beta-2 activation can dilate skeletal muscle vessels at lower concentrations, and beta-1 stimulation can promote renal renin release. Vascular effects vary with receptor activation and dose.",
+    "notes": {
+      "A": "Epinephrine increases hepatic glycogenolysis and can raise blood glucose during stress.",
+      "B": "Adrenergic stimulation of adipose lipolysis releases non-esterified fatty acids into blood.",
+      "C": "At concentrations that favour beta-2 effects, epinephrine can dilate skeletal muscle vessels. Stronger alpha effects can oppose this.",
+      "D": "Beta-1 adrenergic activation of juxtaglomerular cells can increase renin release."
+    }
+  },
+  "phy-endocrine-027": {
+    "why": "Epinephrine is the predominant catecholamine released by the adrenal medulla. It activates cardiac beta-1 receptors and, through beta-2 receptors, is more effective than noradrenaline at dilating bronchi and skeletal muscle vessels. Net effects after injection depend on dose and reflex responses.",
+    "notes": {
+      "A": "Epinephrine can increase heart rate through beta-1 stimulation. Noradrenaline can raise arterial pressure enough to evoke reflex slowing despite its cardiac action.",
+      "B": "The adrenal medulla converts some noradrenaline to epinephrine, which is usually the larger share of its circulating catecholamine output.",
+      "C": "Epinephrine provides stronger beta-2-mediated bronchial relaxation than noradrenaline.",
+      "D": "Beta-2 stimulation can dilate skeletal muscle vessels, especially at lower epinephrine concentrations."
+    }
+  },
+  "phy-endocrine-034": {
+    "why": "Most circulating adrenal cortical steroids are carried bound to plasma proteins, with a free fraction available to act on tissues. Cortisol binds strongly to corticosteroid-binding globulin. Aldosterone also binds proteins but has a larger free fraction.",
+    "notes": {
+      "A": "Cholesterol is the precursor of adrenal steroids. It is not itself one of the main adrenal cortical hormones.",
+      "C": "Catecholamines are released by adrenal medullary chromaffin cells, rather than by the cortex.",
+      "D": "Steroid metabolites are often conjugated in the liver and excreted chiefly in urine. Biliary excretion is not the predominant route for most of them.",
+      "E": "Progesterone from the corpus luteum and later the placenta supports pregnancy. This does not describe the adrenal cortical steroids as a class."
+    }
+  },
+  "phy-endocrine-037": {
+    "why": "ACE converts angiotensin I to angiotensin II. Inhibiting ACE decreases this formation pathway and generally reduces angiotensin II-mediated vasoconstriction and the stimulus for aldosterone secretion.",
+    "notes": {
+      "B": "Reduced angiotensin II removes some negative feedback on renin, so renin often rises during ACE inhibition.",
+      "C": "Urinary flow depends on volume, perfusion and tubular handling. A fall in diuresis is not the primary pharmacological effect.",
+      "D": "Lower conversion of angiotensin I and increased renin can raise angiotensin I rather than lower it.",
+      "E": "Lower aldosterone can reduce renal potassium excretion and permit potassium retention."
+    }
+  },
+  "phy-endocrine-042": {
+    "why": "A phaeochromocytoma can release excess catecholamines, causing sustained or episodic hypertension, tremor and increased energy expenditure. Urinary catecholamines or their metabolites can be elevated. The pattern varies with the tumour and its secretory activity.",
+    "notes": {
+      "A": "Adrenergic stimulation can produce persistent or episodic hypertension through vascular and cardiac effects.",
+      "B": "Excess adrenergic activity can produce a fine tremor, including in the outstretched hands.",
+      "C": "Catecholamine excess can increase energy expenditure and contribute to weight loss in some people.",
+      "D": "Tumour catecholamine secretion can increase urinary catecholamines. Metanephrines are generally preferred for biochemical testing."
+    }
+  },
+  "phy-endocrine-045": {
+    "why": "Chronic glucocorticoid excess increases hepatic glucose output and insulin resistance, leading to higher blood glucose. It can also increase arterial pressure through effects on vascular responsiveness and, in some cases, renal sodium handling.",
+    "notes": {
+      "A": "Excess glucocorticoid commonly thins skin through protein catabolism and reduced collagen formation.",
+      "B": "Bone strength tends to fall because glucocorticoid excess suppresses bone formation and increases fracture risk.",
+      "D": "Glucocorticoids suppress many inflammatory and immune responses. This can increase susceptibility to infection.",
+      "E": "Reduced collagen synthesis and impaired inflammatory responses slow wound healing."
+    }
+  },
+  "phy-endocrine-571": {
+    "why": "Cortisol increases hepatic gluconeogenesis by altering enzyme expression and mobilising substrates. It can also oppose insulin-mediated glucose uptake, helping raise circulating glucose during a sustained stress response.",
+    "notes": {
+      "A": "Lipolysis can supply glycerol for gluconeogenesis, but the direct hepatic pathway that produces glucose is gluconeogenesis.",
+      "B": "Cortisol tends to promote muscle protein breakdown, which provides amino acids that can be used by the liver.",
+      "D": "Increasing growth hormone release is not the principal mechanism of cortisol-induced glucose production.",
+      "E": "Insulin normally lowers blood glucose by increasing uptake and restraining hepatic glucose production."
+    }
+  },
+  "phy-endocrine-018": {
+    "why": "Glucagon is a peptide from pancreatic alpha cells. Secretion generally rises when glucose falls and decreases after carbohydrate intake, although it is also regulated by other signals. In the liver it promotes glycogen breakdown and glucose production.",
+    "notes": {
+      "A": "Pancreatic alpha cells are the principal source of glucagon in the islets of Langerhans.",
+      "B": "Glucagon is a small peptide hormone, formed by processing the precursor proglucagon.",
+      "C": "Lower glucose generally stimulates glucagon release, but the relationship is not a fixed inverse proportion across all conditions.",
+      "D": "Glucagon activates hepatic signalling that increases glycogenolysis and helps maintain circulating glucose during fasting."
+    }
+  },
+  "phy-endocrine-024": {
+    "why": "Insulin promotes uptake of glucose and some amino acids into skeletal muscle and supports protein synthesis. Vagal activity can stimulate meal-related insulin release, while sympathetic alpha-2 signalling usually restrains secretion during stress.",
+    "notes": {
+      "A": "Alpha-2 adrenergic signalling on beta cells can decrease insulin release. Other adrenergic receptor subtypes may have different effects.",
+      "B": "Insulin increases glucose uptake in skeletal muscle by moving GLUT4 transporters to the cell surface.",
+      "C": "Insulin promotes uptake of some amino acids and supports protein synthesis while reducing proteolysis.",
+      "D": "Vagal cholinergic activity can stimulate beta-cell secretion and contributes to early meal-related insulin release."
+    }
+  },
+  "phy-endocrine-033": {
+    "why": "Insulin is a peptide with two chains joined by disulphide bonds. Its structure can be reproduced in the laboratory, and human insulin for clinical use can be produced by recombinant DNA methods.",
+    "notes": {
+      "A": "Insulin is made of amino acids linked into peptide chains and contains no steroid-type sterol ring.",
+      "B": "Insulin sequences are similar across many mammals but can differ at particular amino acid positions.",
+      "C": "Ordinary oral insulin is poorly effective because digestive enzymes can degrade it and intact insulin is poorly absorbed.",
+      "E": "Laboratory synthesis and recombinant production demonstrate that the insulin molecule can be produced outside the body."
+    }
+  },
+  "phy-endocrine-036": {
+    "why": "Secretin is released by duodenal S cells in response to acid and stimulates pancreatic duct cells to secrete watery, bicarbonate-rich fluid. Cholecystokinin mainly stimulates pancreatic acinar enzyme release and gallbladder contraction.",
+    "notes": {
+      "A": "Both hormones are made by specialised mucosal cells in the upper small intestine, so their site of origin does not distinguish them.",
+      "B": "Enzyme-rich secretion is the characteristic cholecystokinin response at the pancreatic acini. Secretin primarily increases ductal bicarbonate.",
+      "D": "Cholecystokinin is the stronger physiological stimulus for gallbladder smooth muscle contraction after a meal.",
+      "E": "Secretin participates in intestinal feedback to the stomach and can slow emptying rather than increasing gastric motility."
+    }
+  },
+  "phy-endocrine-043": {
+    "why": "Obesity can increase insulin resistance, so more insulin may be needed to achieve a given metabolic effect. Actual insulin requirements depend on sensitivity, diet, activity and the degree of endogenous insulin secretion.",
+    "notes": {
+      "A": "Insulin needs vary over the day with meals, activity and circadian physiology. Day and night doses are not generally assumed equal.",
+      "B": "Diabetes does not by itself reliably shorten insulin half-life. Clearance depends in part on liver and kidney function and the preparation used.",
+      "C": "Circulating endogenous insulin is a soluble peptide and is not mostly carried by plasma binding proteins.",
+      "E": "Exercise can increase muscle glucose uptake and insulin sensitivity, often decreasing rather than increasing insulin needs."
+    }
+  },
+  "phy-endocrine-047": {
+    "why": "In diabetic ketosis, insulin deficiency reduces glucose uptake and use in insulin-sensitive tissues even though blood glucose may be high. Increased fatty acid delivery to the liver and beta-oxidation support ketone production.",
+    "notes": {
+      "A": "Ketone production exceeds clearance during diabetic ketosis. The core defect is not a general blockade of ketone use.",
+      "B": "Low insulin and high counter-regulatory signalling can increase breakdown of liver glycogen and hepatic glucose output.",
+      "D": "Breakdown of adipose triglyceride increases, providing fatty acids for hepatic ketone production.",
+      "E": "Insulin deficiency can increase proteolysis and the use of amino acids for gluconeogenesis."
+    }
   }
 }
