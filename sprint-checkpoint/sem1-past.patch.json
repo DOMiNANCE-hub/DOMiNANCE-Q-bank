@@ -1360,5 +1360,185 @@
       "C": "The curve and response to pH show allostery, and the increase in affinity at other sites after oxygen binds is another example.",
       "D": "Oxygen binding and pH influence conformation. Cooperative binding is also what gives the oxygen saturation curve its characteristic sigmoid shape."
     }
+  },
+  "bio-185": {
+    "why": "Myoglobin is a single-chain oxygen-binding protein with a high affinity and a hyperbolic saturation curve. Under comparable physiological conditions, its curve lies to the left of haemoglobin's. Haemoglobin has a sigmoid curve because its four binding sites interact cooperatively.",
+    "notes": {
+      "A": "Myoglobin binds oxygen at relatively low pressures. The comparison also includes the sigmoid shape of cooperative haemoglobin binding.",
+      "B": "Myoglobin is generally more saturated at the same physiological oxygen pressure, which places its curve to the left rather than to the right.",
+      "C": "Haemoglobin has a sigmoid curve, but myoglobin's higher affinity shifts its curve to lower oxygen pressures.",
+      "E": "The statements about higher saturation and the sigmoid curve are correct. The stated rightward position of the myoglobin curve is reversed."
+    }
+  },
+  "bio-186": {
+    "why": "Globin encloses haem in a pocket that favours reversible oxygen binding and helps limit spontaneous iron oxidation. It reduces the relative preference for carbon monoxide compared with free haem. Ionisable groups on globin also buffer hydrogen ions.",
+    "notes": {
+      "A": "The pocket helps protect ferrous iron from oxidation, although methaemoglobin can still form. The chain also participates in ligand selectivity and buffering.",
+      "B": "Protection of haem and discrimination against carbon monoxide are functions of the pocket. Proton buffering by globin is another function.",
+      "C": "The globin chain buffers protons and changes ligand affinity. Its haem pocket also helps limit oxidation of the iron.",
+      "D": "The pocket limits oxidation and globin groups can bind hydrogen ions. The protein also decreases the relative carbon monoxide preference of haem."
+    }
+  },
+  "bio-338": {
+    "why": "Standard globin notation uses letters A through H for helices and numbers for positions within each helix, such as A1 and A2. Connectors and terminal regions have their own names. The seven interhelix connectors are not the only nonhelical regions if the ends are counted.",
+    "notes": {
+      "B": "The seven connectors between eight helices do not include terminal segments outside the helices.",
+      "C": "The statement about segment count omits the termini, and the terminal residues are designated separately from the helix positions.",
+      "D": "The A1 and A2 notation is correct. Globin diagrams conventionally use NA notation for the segment before helix A.",
+      "E": "The letter-and-number rule for helical residues is valid, but the other statements miscount or misname nonhelical regions."
+    }
+  },
+  "bio-339": {
+    "why": "The segment before helix A uses the globin designation NA, such as NA1 and NA2 in the conventional myoglobin diagram. Oxygen binds at the sixth coordination position of haem iron. Positions labelled H1 and onward belong to helix H itself.",
+    "notes": {
+      "A": "The NA notation is appropriate for residues before helix A, and the sixth coordination site is also correctly identified.",
+      "C": "Oxygen binds to sixth-coordinate iron. Residues after helix H use a terminal designation, rather than the numbering of helix H itself.",
+      "D": "The N-terminal labels are defensible in the conventional example. The C-terminal nonhelical residues do not use the H1 through H5 helix labels.",
+      "E": "The sixth iron coordination site binds oxygen, and the NA labels refer to the N-terminal segment. The C-terminal labels are the error."
+    }
+  },
+  "bio-342": {
+    "why": "The globin pocket partly encloses haem and regulates ligand access. The proximal histidine coordinates the iron and the distal environment helps stabilise bound oxygen and limit reactions of free haem, including formation of bridged aggregates and oxidation.",
+    "notes": {
+      "A": "The pocket limits approach of another haem and also shapes the protein environment that stabilises functional ferrous haem.",
+      "B": "Shielding and stabilisation are appropriate features. Restricting haem–haem contact helps prevent reactions seen with free haem.",
+      "C": "Protection against haem aggregation and the hindered binding site are relevant. The surrounding residues also influence the redox stability of the iron.",
+      "D": "The pocket helps limit contact between haem groups and stabilises the local chemistry. It also restricts access and orientation of ligands."
+    }
+  },
+  "bio-344": {
+    "why": "Histidine F8 is the proximal histidine and directly coordinates haem iron at the fifth position. The distal histidine E7 lies near the ligand at the sixth position without attaching directly to iron. Oxygen and carbon monoxide bind iron, while carbon dioxide mainly forms carbamates on globin.",
+    "notes": {
+      "B": "Proximal histidine F8 coordinates the iron. Distal histidine E7 influences the ligand environment but is not directly bound to iron.",
+      "C": "Neither direct attachment of E7 nor physiological binding of carbon dioxide to the oxygen-binding iron site is correct.",
+      "D": "Histidine F8 is the axial protein ligand. Carbon dioxide binds chiefly to amino groups on globin, separately from the iron ligand site.",
+      "E": "The proximal histidine coordinates iron, but the distal histidine does not. Carbon dioxide also does not share the usual iron site used by oxygen."
+    }
+  },
+  "bio-345": {
+    "why": "The distal histidine and neighbouring side chains influence the haem ligand-binding site. The site's oxygen affinity also changes when oxygen binds to other subunits. The allosteric effector 2,3-bisphosphoglycerate binds in the central cavity away from haem.",
+    "notes": {
+      "B": "The distal pocket influences oxygen binding, but the other subunits affect it through cooperativity.",
+      "C": "Oxygen binding sites communicate through quaternary changes, and 2,3-bisphosphoglycerate binds elsewhere on the tetramer.",
+      "D": "Distal histidine modulates the haem site. The site for 2,3-bisphosphoglycerate lies in the cavity between the beta chains.",
+      "E": "The first claim is correct. Cooperativity and a separate binding site for 2,3-bisphosphoglycerate make the other two claims incorrect."
+    }
+  },
+  "bio-347": {
+    "why": "Myoglobin is a monomer with a folded tertiary structure and no ordinary multimeric quaternary structure. Beta sheets, turns and the extended polyproline II helix are recognised backbone conformations in proteins, although myoglobin is predominantly alpha-helical.",
+    "notes": {
+      "A": "The single polypeptide forms a monomer. Proteins can also contain the stated local backbone conformations.",
+      "C": "The secondary structure examples are valid. Myoglobin has tertiary structure but lacks the multi-chain arrangement required for quaternary structure.",
+      "D": "Myoglobin is monomeric, so the claim of both tertiary and quaternary structure is incorrect.",
+      "E": "Beta sheets, reverse turns and polyproline II conformations can occur in proteins. The statement that myoglobin has quaternary structure is incorrect."
+    }
+  },
+  "bio-348": {
+    "why": "The haem pocket creates an environment in which oxygen binds reversibly to ferrous iron. Surrounding residues modulate ligand binding, allowing haemoglobin to load oxygen in the lungs and unload it in tissues.",
+    "notes": {
+      "A": "Haemoglobin can readily bind oxygen under pulmonary conditions. The pocket supports reversible binding without making oxygen uptake generally difficult.",
+      "B": "Carbon dioxide is carried mostly as bicarbonate or binds to globin amino groups. Its affinity is not the direct effect of the oxygen-binding pocket.",
+      "D": "The pocket permits efficient oxygen uptake and release. It does not chiefly prevent oxygenation or regulate a carbon dioxide binding site at haem.",
+      "E": "Reversible oxygen binding is the supported function. The other claims misrepresent oxygen uptake and carbon dioxide binding."
+    }
+  },
+  "bio-349": {
+    "why": "Conventional globin alignments identify important conserved positions, including the proximal histidine F8, distal histidine E7 and glycine B6 in the human haemoglobin chains. Proximal histidine directly coordinates iron, while distal histidine influences ligand binding.",
+    "notes": {
+      "A": "Distal histidine is important, but proximal histidine and a conserved glycine position also belong to the standard globin comparison.",
+      "B": "The two histidines have distinct roles near haem. Glycine B6 is also a conserved position in the adult human chains.",
+      "C": "Proximal histidine and glycine are relevant. The distal histidine is another conserved feature of the usual human globin pocket.",
+      "D": "Distal histidine and glycine are included, but this omits the proximal histidine that directly coordinates haem iron."
+    }
+  },
+  "bio-350": {
+    "why": "Cooperative oxygen binding gives haemoglobin a sigmoid dissociation curve. Increasing hydrogen ion concentration stabilises lower-affinity states through the Bohr effect. Both changes illustrate coupling between binding and conformation.",
+    "notes": {
+      "A": "Cooperative binding is an example, and changes in proton concentration can also shift haemoglobin conformation.",
+      "C": "The proton effect is correct, but the oxygen saturation curve is sigmoid rather than nonsigmoid.",
+      "D": "Positive cooperativity causes sigmoid behaviour. This pairing also omits the conformation change associated with higher hydrogen ion concentration.",
+      "E": "Oxygen and proton responses are both allosteric. The statement denying the sigmoid shape remains false."
+    }
+  },
+  "bio-351": {
+    "why": "Carbon dioxide can bind to terminal amino groups and favour the low-affinity T state. Binding of 2,3-bisphosphoglycerate and protonation of globin also stabilise the deoxygenated conformation and reduce oxygen affinity.",
+    "notes": {
+      "A": "Carbamate formation can influence haemoglobin's T–R equilibrium, so carbon dioxide is not functionally inert.",
+      "B": "The effect of 2,3-bisphosphoglycerate is real, but binding of carbon dioxide can also affect conformation.",
+      "D": "Protonation favours the T state, but carbon dioxide binding can also alter the equilibrium, and the omitted phosphate is an allosteric effector.",
+      "E": "The phosphate and proton effects are correct. The denial of a carbon dioxide effect is not."
+    }
+  },
+  "bio-352": {
+    "why": "Myoglobin has the higher oxygen affinity and its hyperbolic curve lies to the left of haemoglobin under typical comparable conditions. Haemoglobin has a sigmoid curve because the tetramer binds oxygen cooperatively.",
+    "notes": {
+      "A": "The curve lies to the left: myoglobin reaches a given saturation at a lower partial pressure.",
+      "B": "The haemoglobin curve is sigmoid, but the myoglobin curve should be placed to its left.",
+      "D": "Myoglobin's greater saturation at a given physiological oxygen pressure is consistent with a leftward curve, not a rightward one.",
+      "E": "The curve shape and higher myoglobin saturation are correct. The claimed rightward position reverses the expected comparison."
+    }
+  },
+  "bio-353": {
+    "why": "Globin partly shields haem and forms a pocket that helps limit oxidation of ferrous iron. It also reduces the extreme relative affinity for carbon monoxide seen with free haem and favours reversible oxygen binding.",
+    "notes": {
+      "A": "Helping protect ferrous haem is one role. Creating a pocket that restricts ligand access and orientation is another.",
+      "C": "The globin pocket restricts access, but it decreases the relative carbon monoxide preference compared with free haem.",
+      "D": "Protection of haem is appropriate. A higher relative carbon monoxide affinity is the opposite of the usual effect of globin.",
+      "E": "The protection and pocket statements are valid. The claimed increase in carbon monoxide preference is incorrect."
+    }
+  },
+  "bio-354": {
+    "why": "The globin chains bind some carbon dioxide as carbamates and accept protons on ionisable groups. They also hold haem in a pocket that supports reversible oxygen binding. The atom that directly binds oxygen is the haem iron.",
+    "notes": {
+      "A": "Carbamate formation is one function. Globin also buffers protons and provides the environment for oxygen binding by haem.",
+      "B": "Carbon dioxide carriage and proton buffering are valid. The chains also support ligand binding through their association with haem.",
+      "C": "Proton buffering and support for oxygen binding are important. Amino groups on globin can also carry some carbon dioxide.",
+      "D": "Globin participates in carbon dioxide and oxygen transport. Its ionisable groups can also accept protons."
+    }
+  },
+  "bio-355": {
+    "why": "2,3-Bisphosphoglycerate preferentially binds the low-affinity T state. Carbon dioxide also favours the deoxygenated conformation. Myoglobin has a higher oxygen affinity than haemoglobin under ordinary comparable physiological conditions.",
+    "notes": {
+      "A": "The phosphate stabilises the T state, rather than driving a T-to-R transition.",
+      "B": "The myoglobin affinity comparison is appropriate under typical conditions. The claimed direction of the phosphate effect is reversed.",
+      "D": "Carbon dioxide can favour deoxyhaemoglobin, but 2,3-bisphosphoglycerate also favours the T state rather than converting it to R.",
+      "E": "The myoglobin and carbon dioxide statements are appropriate. The claim about a phosphate-induced R state is incorrect."
+    }
+  },
+  "bio-356": {
+    "why": "Distal histidine helps shield the haem iron from solvent and stabilises bound oxygen through hydrogen bonding. This can limit auto-oxidation and decreases the strong relative preference for carbon monoxide that is seen with free haem.",
+    "notes": {
+      "B": "Protection against oxidation is plausible, but the distal pocket does not promote ideal linear binding of carbon monoxide.",
+      "C": "The distal environment tends to discriminate against carbon monoxide relative to free haem. Neither of the two carbon monoxide claims describes that protection.",
+      "D": "The protective role is valid. The pocket does not increase the relative preference for carbon monoxide.",
+      "E": "The iron-protecting effect is consistent with the haem pocket, but the claims about enhanced carbon monoxide binding are not."
+    }
+  },
+  "bio-360": {
+    "why": "In typical sickle cell trait, a person has one normal beta-globin allele and one HbS allele. Erythroid cells express both, so the same red cells generally contain HbA and HbS. HbA usually remains the larger fraction.",
+    "notes": {
+      "A": "HbS is usually less than half of total haemoglobin in uncomplicated trait. The ratio can vary with other inherited factors.",
+      "B": "Trait does not normally produce two separate red cell populations containing only one haemoglobin type. Both globin alleles are expressed within erythroid cells.",
+      "C": "Coexistence of HbA and HbS is correct, but the proposed separation into two single-type cell populations is not.",
+      "D": "Both types are normally present within the same cells. HbS does not usually exceed half the total in uncomplicated trait."
+    }
+  },
+  "bio-361": {
+    "why": "In HbSS, deoxygenation promotes polymerisation of HbS and can contribute to a vaso-occlusive crisis. HbS makes up a large fraction of the haemoglobin, and HbF levels vary between individuals and with treatment.",
+    "notes": {
+      "A": "HbF can be present in HbSS. Its amount varies and higher levels can decrease sickling.",
+      "B": "The HbS fraction is usually high in HbSS. Oxygenated haemoglobin is less prone to polymerise because of its conformation.",
+      "C": "Deoxygenation can trigger sickling, but this is not explained by an unusually low HbS concentration.",
+      "D": "Tissue deoxygenation can promote polymerisation. The assertion that HbF is normally absent is incorrect."
+    }
+  },
+  "bio-363": {
+    "why": "In the usual genotype terminology, sickle cell anaemia denotes HbSS, with two HbS alleles. HbSC and HbS–beta-thalassaemia are other forms of sickle cell disease. Some clinical classifications also group HbS–beta-zero thalassaemia with HbSS because their clinical courses can be similar.",
+    "notes": {
+      "B": "HbSC and HbS–beta-thalassaemia are recognised sickle cell disease genotypes, but they are not the conventional HbSS designation.",
+      "C": "HbSS is the classic genotype for sickle cell anaemia. The unqualified beta-thalassaemia label also includes variants with different clinical severity.",
+      "D": "HbSC is a distinct compound heterozygous genotype. It is not the same as homozygous HbSS.",
+      "E": "All three can cause sickle cell disease, but they are not interchangeable genotype names."
+    }
   }
 }
