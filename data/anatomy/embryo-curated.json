@@ -30,10 +30,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Spermatogenesis takes ~64 days: spermatocytogenesis (16) + meiosis (24) + spermiogenesis (24).",
+      "why": "Human spermatogenesis requires several cycles of seminiferous epithelial development, progressing through spermatogonial proliferation, meiosis and spermiogenesis. Approximately 64 days is one conventional estimate; other references estimate around 74 days, depending on methodology.",
       "topicId": "e-gameto",
       "subtopic": "Spermatogenesis",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Sixteen days approximates one seminiferous epithelial cycle in classical human estimates, rather than the entire spermatogenic process.",
+        "C": "Twenty-four days is a conventional estimate for a component of germ-cell development, rather than the entire sequence from spermatogonium.",
+        "D": "Seven days is insufficient for the multiple proliferative, meiotic and differentiation stages needed to produce mature-shaped testicular spermatozoa.",
+        "E": "Ninety days exceeds the conventional intratesticular estimate and may conflate spermatogenesis with additional post-testicular transport and maturation time."
+      }
     },
     {
       "id": "dq-embryo-g-002",
@@ -62,10 +68,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Spermiogenesis (tail, acrosome formation, nuclear condensation, shedding of cytoplasm) takes ~24 days.",
+      "why": "Spermiogenesis is the final nondividing differentiation of haploid spermatids, involving acrosome formation, nuclear condensation, flagellar assembly and removal of excess cytoplasm. Approximately 24 days is a conventional teaching estimate, rather than an invariant duration.",
       "topicId": "e-gameto",
       "subtopic": "Spermatogenesis",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Forty-eight days substantially exceeds the conventional duration assigned specifically to the final morphological differentiation of spermatids.",
+        "C": "Sixty-four days is a conventional estimate for complete spermatogenesis, including earlier proliferation and meiosis as well as spermiogenesis.",
+        "D": "Sixteen days approximates one human seminiferous epithelial cycle in classical descriptions, rather than the stated conventional spermiogenesis duration.",
+        "E": "Two days is too short to represent the usual extended sequence of spermatid morphological and organelle remodelling."
+      }
     },
     {
       "id": "dq-embryo-g-003",
@@ -94,10 +106,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The adluminal compartment houses spermatocytes undergoing meiosis, shielded from the immune system by the barrier.",
+      "why": "Sertoli-cell tight junctions divide seminiferous epithelium into basal and adluminal compartments. Developing spermatocytes cross this barrier and undergo most meiotic development in the protected adluminal environment, which also contains differentiating spermatids.",
       "topicId": "e-gameto",
       "subtopic": "Spermatogenesis",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Testosterone is produced predominantly by Leydig cells in the interstitial tissue outside the seminiferous epithelial barrier.",
+        "B": "Leydig cells occupy testicular interstitial connective tissue rather than the adluminal compartment of seminiferous tubules.",
+        "D": "Spermatogonial mitoses occur principally within the basal compartment, before differentiating germ cells progress across Sertoli junctions.",
+        "E": "Spermatozoa are released into the tubular lumen and stored mainly in epididymal regions, rather than the adluminal compartment."
+      }
     },
     {
       "id": "dq-embryo-g-004",
@@ -158,10 +176,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The type A dark (Ad) spermatogonium is the reserve stem cell; type A pale divides to type B, which gives primary spermatocytes.",
+      "why": "In the traditional human spermatogonial classification, dark type A spermatogonia are regarded as a relatively quiescent reserve population, while pale type A cells contribute to active renewal. Modern stem-cell models recognise greater functional complexity.",
       "topicId": "e-gameto",
       "subtopic": "Spermatogenesis",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Type A pale spermatogonia are conventionally regarded as the more actively proliferating population rather than the relatively quiescent reserve.",
+        "B": "Type B spermatogonia are differentiating mitotic precursors committed towards spermatocyte development, rather than the traditional reserve stem-cell population.",
+        "C": "Primary spermatocytes enter meiosis I and are more differentiated than the spermatogonial populations maintaining germ-cell production.",
+        "D": "Secondary spermatocytes are short-lived haploid products of meiosis I and do not constitute a self-renewing reserve stem-cell population."
+      }
     },
     {
       "id": "dq-embryo-g-006",
@@ -190,10 +214,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Oocytes rest in the dictyotene (diffuse diplotene) stage of prophase I, held by oocyte maturation inhibitor until the LH surge.",
+      "why": "Primary oocytes enter meiosis during fetal development and arrest in the prolonged diplotene, or dictyotene, stage of prophase I. Selected oocytes resume meiosis near ovulation after puberty, while others can remain arrested for decades.",
       "topicId": "e-gameto",
       "subtopic": "Oogenesis",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Diplotene belongs to prophase I; meiosis II does not contain the prolonged fetal dictyotene arrest described here.",
+        "C": "Metaphase II is the usual arrest stage of the ovulated secondary oocyte, rather than the fetal primary oocyte.",
+        "D": "Anaphase I involves separation of homologous chromosomes after meiotic resumption, not the prolonged primary-oocyte arrest stage.",
+        "E": "Interphase precedes or separates cell division stages; the arrested primary oocyte has already entered prophase of meiosis I."
+      }
     },
     {
       "id": "dq-embryo-g-007",
@@ -254,10 +284,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Semen volume is ~1.8-5.5 ml (average ~3.5 ml), with about 100 million spermatozoa per ml.",
+      "why": "Ejaculate volume varies with abstinence interval, collection completeness and individual physiology. The stated 1.8–5.5 mL range is a plausible conventional teaching range, but volume alone cannot determine fertility and clinical reference limits differ.",
       "topicId": "e-fert",
       "subtopic": "Semen",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Six to nine millilitres is above the central conventional teaching range, although individual ejaculates may exceed typical volumes.",
+        "B": "Twenty millilitres is substantially greater than ordinary ejaculate volumes and is not the typical reference range.",
+        "D": "Volumes below half a millilitre are substantially lower than the conventional typical range and may warrant contextual assessment.",
+        "E": "Ten to fifteen millilitres exceeds ordinary central ejaculate volume estimates, rather than representing the usual physiological range."
+      }
     },
     {
       "id": "dq-embryo-g-009",
@@ -350,10 +386,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Azoospermia is no sperm in the ejaculate; aspermia is absence of semen (no ejaculation).",
+      "why": "Azoospermia denotes absence of spermatozoa from ejaculated semen, including examination of an appropriately centrifuged sample. It can result from impaired sperm production or obstruction of sperm transport despite the presence of seminal fluid.",
       "topicId": "e-fert",
       "subtopic": "Infertility",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Aspermia denotes absence of ejaculate or semen emission, rather than semen being present but containing no detectable sperm.",
+        "C": "Oligozoospermia describes reduced sperm concentration, with spermatozoa still detectable rather than completely absent from semen.",
+        "D": "Asthenozoospermia describes reduced sperm motility rather than the complete absence of spermatozoa from an examined ejaculate.",
+        "E": "Teratozoospermia refers to a reduced proportion of morphologically normal sperm rather than the absence of detectable sperm."
+      }
     },
     {
       "id": "dq-embryo-g-012",
@@ -414,10 +456,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The three steps are corona penetration, zona penetration, then membrane binding and fusion.",
+      "why": "Fertilisation conventionally involves sperm passage through the cumulus and corona radiata, traversal of the zona pellucida and fusion with the oocyte plasma membrane. Fusion triggers oocyte activation and subsequent pronuclear development.",
       "topicId": "e-fert",
       "subtopic": "Fertilization",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Oocyte meiosis II normally finishes after fertilisation-associated activation rather than being completed before ovulation and sperm contact.",
+        "B": "Decidualisation involves maternal endometrial stromal differentiation and is not the membrane interaction completing the conventional fertilisation sequence.",
+        "D": "The first cleavage occurs after fertilisation and zygote formation, rather than completing sperm interaction with the oocyte membrane.",
+        "E": "Morula formation follows repeated cleavage divisions and therefore occurs considerably later than sperm–oocyte membrane fusion."
+      }
     },
     {
       "id": "dq-embryo-g-014",
@@ -510,10 +558,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Human cleavage is holoblastic (complete) and occurs without growth, fractionating the zygote into smaller blastomeres.",
+      "why": "Holoblastic cleavage means that cytokinetic furrows divide the entire zygote or blastomere into separate daughter cells. In humans, early cleavage partitions existing cytoplasm into progressively smaller blastomeres without substantial overall embryonic growth.",
       "topicId": "e-cleave",
       "subtopic": "Cleavage",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Partial cleavage is termed meroblastic and occurs in some yolk-rich eggs, rather than normal human complete cleavage.",
+        "C": "Early cleavage redistributes existing cytoplasm rather than adding substantial new cytoplasmic volume during each successive division.",
+        "D": "Human cleavage begins within the uterine tube before blastocyst formation and implantation, rather than only after endometrial attachment.",
+        "E": "Successive blastomeres generally become smaller during early cleavage because the original cytoplasmic volume is partitioned among increasing cell numbers."
+      }
     },
     {
       "id": "dq-embryo-g-017",
@@ -542,10 +596,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Rhythmic beating of oviductal cilia (the 'ciliary escalator') plus tubal peristalsis move the conceptus to the uterus.",
+      "why": "Tubal cilia beat towards the uterus while coordinated smooth-muscle contractions assist transport of the early conceptus. Together these mechanisms move the developing cleavage-stage embryo through the uterine tube towards the uterine cavity.",
       "topicId": "e-cleave",
       "subtopic": "Cleavage",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Uterine suction is not the conventional principal transport mechanism; tubal ciliary activity and muscle contractions provide coordinated movement.",
+        "C": "Human blastomeres lack locomotor flagella and depend on maternal reproductive tract transport mechanisms to reach the uterus.",
+        "D": "Blastomeres undergo cleavage and compaction but do not propel the whole conceptus through coordinated muscular contractions.",
+        "E": "Gravity alone cannot explain directional tubal transport, which relies on active ciliary movement and smooth-muscle activity."
+      }
     },
     {
       "id": "dq-embryo-g-018",
@@ -574,10 +634,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "E-cadherin tightens cell-cell contacts during compaction and outer-cell polarization precedes the first lineage decision.",
+      "why": "Compaction involves increased E-cadherin-mediated adhesion between blastomeres, producing tighter cell contacts and changes in cell shape. Outer cells acquire apical polarity, helping establish differences between inner and outer cell populations before blastocyst formation.",
       "topicId": "e-cleave",
       "subtopic": "Cleavage",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Human chorionic gonadotropin is principally associated with trophoblastic endocrine activity during implantation and does not drive initial morula compaction.",
+        "B": "Sonic hedgehog regulates later developmental patterning rather than providing the principal adhesion mechanism tightening contacts between blastomeres.",
+        "D": "The zona pellucida persists during compaction and is shed later during blastocyst hatching before successful implantation.",
+        "E": "Sodium–potassium ATPase helps establish osmotic gradients during blastocoel formation, rather than mediating the initial cell adhesion of compaction."
+      }
     },
     {
       "id": "dq-embryo-g-019",
@@ -606,10 +672,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Outer cells express Na+/K+-ATPase; the resulting osmotic influx of fluid forms the blastocoel, converting morula to blastocyst.",
+      "why": "Polarised trophectoderm cells use sodium–potassium ATPase and associated ion transport to generate an osmotic gradient favouring fluid accumulation inside the embryo. Tight junctions retain this fluid, allowing formation and expansion of the blastocoel.",
       "topicId": "e-cleave",
       "subtopic": "Blastocyst",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Sodium–glucose cotransport may support cellular metabolism, but sodium–potassium ATPase provides the characteristic ion gradient driving blastocoel expansion.",
+        "B": "Aquaporins facilitate water movement, but they require an osmotic driving force generated by ion transport rather than pumping water independently.",
+        "C": "Chloride shift describes erythrocyte bicarbonate–chloride exchange during carbon dioxide transport, not the principal mechanism of blastocoel cavity formation.",
+        "E": "Hydrogen–potassium ATPase is associated with gastric acid secretion and is not the characteristic pump driving blastocyst cavity expansion."
+      }
     },
     {
       "id": "dq-embryo-g-020",
@@ -638,10 +710,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "In outer cells the Hippo pathway is inactive, YAP enters the nucleus and activates CDX2 for trophoblast fate; inner cells keep OCT4/SOX2/NANOG.",
+      "why": "CDX2 supports trophectoderm identity in the classical mammalian lineage model. Outer-cell polarity and Hippo pathway regulation influence nuclear YAP–TEAD activity and trophectoderm-associated gene expression, although human lineage timing differs from mouse development.",
       "topicId": "e-cleave",
       "subtopic": "Blastocyst",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "NANOG is associated principally with pluripotent epiblast identity rather than the classical transcriptional programme promoting outer trophectoderm fate.",
+        "B": "OCT4 supports pluripotency-related programmes and is not the conventional principal trophectoderm-promoting transcription factor specified in this question.",
+        "C": "SOX17 is associated particularly with primitive endoderm and later endodermal differentiation rather than the classical outer trophectoderm programme.",
+        "D": "NODAL participates in developmental signalling and lineage specification but is not the transcription factor classically associated with trophectoderm identity."
+      }
     },
     {
       "id": "dq-embryo-g-021",
@@ -670,10 +748,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "OCT4, SOX2 and NANOG mutually reinforce pluripotency in the ICM and suppress trophoblast genes.",
+      "why": "OCT4, SOX2 and NANOG form a core regulatory network supporting pluripotency, particularly in the emerging epiblast within the inner cell mass. Their interactions maintain developmental potential and help distinguish pluripotent from extraembryonic cell programmes.",
       "topicId": "e-cleave",
       "subtopic": "Blastocyst",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "CDX2 and YAP contribute to trophectoderm-associated programmes, while GATA6 is associated with primitive endoderm rather than core pluripotency.",
+        "C": "SOX17 and GATA6 support primitive endoderm differentiation, while CDX2 is associated with trophectoderm rather than the core pluripotency network.",
+        "D": "NODAL, WNT3 and FGF8 participate in developmental signalling and patterning, rather than constituting the canonical core pluripotency transcription-factor trio.",
+        "E": "Snail regulates epithelial-to-mesenchymal transition, while SHH and BMP mediate developmental signalling rather than forming the core pluripotency transcriptional network."
+      }
     },
     {
       "id": "dq-embryo-g-022",
@@ -702,10 +786,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The blastocyst must hatch from the zona to expose the trophoblast to the receptive mid-secretory endometrium.",
+      "why": "The expanding blastocyst must escape the surrounding zona pellucida so its trophectoderm can directly contact receptive endometrial epithelium. Hatching permits subsequent apposition, adhesion and invasion during the appropriate endometrial implantation window.",
       "topicId": "e-cleave",
       "subtopic": "Implantation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Gastrulation occurs after implantation has begun and therefore is not required before the blastocyst can attach to endometrium.",
+        "C": "Retention of the zona pellucida physically separates trophectoderm from endometrial epithelium and generally prevents normal implantation-associated adhesion.",
+        "D": "The three embryonic germ layers arise during gastrulation after early implantation, rather than being required for initial attachment.",
+        "E": "Early endometrial receptivity depends largely on maternal luteal progesterone; blastocyst hatching rather than embryonic progesterone secretion enables direct attachment."
+      }
     },
     {
       "id": "dq-embryo-g-023",
@@ -734,10 +824,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Implantation proceeds as apposition, then adhesion, then trophoblast invasion through the epithelial basement membrane.",
+      "why": "Implantation conventionally begins with apposition, a relatively loose alignment of blastocyst and receptive endometrium. Adhesion strengthens trophoblastic attachment, after which invasive trophoblastic cells penetrate the endometrial epithelium and underlying maternal tissue.",
       "topicId": "e-cleave",
       "subtopic": "Implantation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Stable adhesion normally precedes invasion, so placing invasion before adhesion reverses the later stages of the conventional sequence.",
+        "B": "Apposition is the initial loose contact and must precede the firmer adhesive and invasive interactions with maternal tissue.",
+        "D": "Adhesion follows initial apposition, rather than occurring before the blastocyst first aligns with receptive endometrial epithelium.",
+        "E": "Invasion follows establishment of contact and attachment, rather than preceding both apposition and adhesion during normal implantation."
+      }
     },
     {
       "id": "dq-embryo-g-024",
@@ -766,10 +862,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Normal implantation is in the body of the uterus, upper posterior wall near the midline; elsewhere is ectopic.",
+      "why": "Normal implantation occurs within the endometrium of the uterine body, commonly near the fundus on its anterior or posterior wall. This location supports subsequent placental development and differs from ectopic or abnormally low implantation.",
       "topicId": "e-cleave",
       "subtopic": "Implantation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The ampulla is the common fertilisation site, but implantation there constitutes a tubal ectopic pregnancy rather than normal implantation.",
+        "B": "Implantation on the ovarian surface represents ovarian ectopic pregnancy rather than the normal uterine endometrial implantation site.",
+        "C": "Cervical implantation is an abnormal ectopic pregnancy location and is not the usual site supporting normal placental development.",
+        "E": "Low implantation near the internal cervical os can lead to placenta praevia rather than the usual upper uterine location."
+      }
     },
     {
       "id": "dq-embryo-g-025",
