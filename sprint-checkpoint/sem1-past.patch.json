@@ -491,5 +491,168 @@
       "C": "Almonds and mushrooms supply antioxidant compounds. Coffee also contains phenolic substances rather than supplying caffeine alone.",
       "D": "Coffee and mushrooms contribute antioxidant compounds. Almonds are also a source of vitamin E and other dietary antioxidants."
     }
+  },
+  "bio-056": {
+    "why": "Extracellular proteins can limit oxidation by keeping redox-active metals or haem away from vulnerable molecules. Lactoferrin binds iron, ceruloplasmin oxidises ferrous iron for safe transport, and haptoglobin binds free haemoglobin.",
+    "notes": {
+      "A": "Lactoferrin limits the availability of free iron. Ceruloplasmin and haptoglobin also help limit metal- or haem-associated oxidation.",
+      "B": "Ceruloplasmin has ferroxidase activity that supports iron handling, but it is one of several extracellular protective proteins.",
+      "C": "Sequestering iron and supporting safer iron transport are protective. Haptoglobin adds a separate defence by binding free haemoglobin.",
+      "D": "Ceruloplasmin and haptoglobin limit oxidative injury in different ways. Lactoferrin adds protection by binding iron."
+    }
+  },
+  "bio-059": {
+    "why": "Oxidative attack can modify amino acid side chains, cleave a protein backbone or cause cross-linking. These molecular changes can impair function and make damaged proteins more susceptible to cellular degradation.",
+    "notes": {
+      "B": "Radical injury can change the protein molecule itself and can promote degradation of the damaged protein."
+    }
+  },
+  "bio-060": {
+    "why": "Human cells synthesise glutathione from amino acids, and urate is generated during purine breakdown. Humans lack a functional final enzyme for vitamin C synthesis and must obtain it from the diet.",
+    "notes": {
+      "A": "Glutathione is produced internally, but human purine catabolism also produces urate.",
+      "C": "Urate is formed in the body, whereas vitamin C must normally come from food. This pair also omits glutathione.",
+      "D": "Both glutathione and urate are made internally. Vitamin C is excluded because humans cannot complete its biosynthesis."
+    }
+  },
+  "bio-325": {
+    "why": "In the usual model of paraquat toxicity, cellular reductases transfer electrons to paraquat using reduced cofactors. Reduced paraquat then transfers an electron to molecular oxygen, generating superoxide, rather than using superoxide as its normal electron donor.",
+    "notes": {
+      "A": "Paraquat participates in repeated reduction and oxidation, which is the basis of its redox activity.",
+      "B": "Ingestion can result in systemic absorption, although only a portion of the dose is absorbed from the gastrointestinal tract.",
+      "D": "Lung cells, including pneumocytes, can be injured by reactive species generated during paraquat redox cycling.",
+      "E": "The cycle transfers reducing equivalents from cellular cofactors to oxygen, resulting in the formation of superoxide."
+    }
+  },
+  "bio-332": {
+    "why": "Free radicals can originate in several cellular compartments. Mitochondrial electron transfer can generate superoxide, membrane-associated oxidases can generate reactive species, and reactions involving redox-active metals in lysosomes can form radicals.",
+    "notes": {
+      "B": "Lysosomes and membrane-associated reactions can generate radicals, but mitochondrial electron transfer is also a major source.",
+      "C": "Cell membranes and mitochondria are important sites. Iron-dependent reactions in lysosomes can also contribute.",
+      "D": "Lysosomal chemistry can generate radicals under some conditions, but radicals can also originate at membranes and inside mitochondria.",
+      "E": "The cell contains multiple sites capable of generating radicals, including mitochondria and some membrane-bound enzyme systems."
+    }
+  },
+  "bio-333": {
+    "why": "X-ray exposure can damage proteins during crystallography, in part through radiolysis and reactive species. Oxidation can also alter cellular receptors or antibodies, so antibodies are not inherently protected from oxidative impairment.",
+    "notes": {
+      "A": "The claim that antibody activity cannot be altered is too strong. Oxidation can change antigen binding or other antibody properties.",
+      "C": "Oxidative injury can impair receptors, but antibodies can also be affected. This grouping incorrectly excludes radiation-related protein damage.",
+      "D": "X-ray damage to a protein is possible, and radical attack can also impair normal receptor function.",
+      "E": "Radiation-induced protein damage and functional impairment of oxidised receptors are both recognised processes."
+    }
+  },
+  "bio-334": {
+    "why": "Coffee can supply phenolic compounds, almonds are a source of vitamin E, and mushrooms can contain ergothioneine. All three can contribute dietary compounds with antioxidant properties, with amounts varying by food and preparation.",
+    "notes": {
+      "B": "Coffee and almonds provide antioxidant compounds. Mushrooms can also contribute compounds such as ergothioneine.",
+      "C": "Almonds and mushrooms are examples, but coffee also contains compounds such as chlorogenic acids.",
+      "D": "Coffee is a source of phenolics. Almonds provide vitamin E, and mushrooms can also contain antioxidant compounds.",
+      "E": "Each of the three foods contains compounds with antioxidant properties, although that does not establish clinical benefit from a given serving."
+    }
+  },
+  "bio-335": {
+    "why": "Alpha-tocopherol is a lipid-soluble, chain-breaking antioxidant that protects cell membrane lipids from peroxidation. In this comparison, circulating urate and transferrin are classically discussed as extracellular defences. Alpha-tocopherol is also transported in plasma lipoproteins.",
+    "notes": {
+      "A": "Plasma urate scavenges some oxidants and transferrin binds iron, so the complete group is not usually classified as intracellular.",
+      "B": "Urate is a prominent antioxidant in extracellular fluid, while alpha-tocopherol protects the lipid compartment of cell membranes.",
+      "D": "Urate contributes strongly to circulating antioxidant capacity. The membrane-localised antioxidant among these choices is alpha-tocopherol.",
+      "E": "Alpha-tocopherol can act in a cellular compartment by interrupting oxidation chains within membranes."
+    }
+  },
+  "bio-336": {
+    "why": "A hydroxyl radical can start lipid peroxidation by abstracting hydrogen from a lipid. The lipid radical reacts with oxygen to form a peroxyl radical. Breakdown of subsequent lipid hydroperoxides can generate alkoxyl radicals.",
+    "notes": {
+      "A": "A lipid radical reacts with oxygen initially to form a lipid peroxyl radical. Alkoxyl radicals may form later when hydroperoxides decompose."
+    }
+  },
+  "bio-395": {
+    "why": "Carrots, oranges and watermelon contain nutrients such as carotenoids or vitamin C. Botanically, a carrot is a storage root, whereas oranges and watermelons are fruits. Their chemistry, rather than a single food classification, accounts for their nutrient content.",
+    "notes": {
+      "A": "The nutrient assertion is reasonable, but the classification of all three as fruits is incorrect.",
+      "B": "The reason is not true for carrots, which are edible storage roots.",
+      "D": "The assertion is supported by their nutrient content, while the reason misclassifies carrots as fruit.",
+      "E": "The fruit classification is inaccurate, but these foods do contain vitamins and compounds with antioxidant properties."
+    }
+  },
+  "bio-423": {
+    "why": "Oxidative stress is associated with Parkinson disease, including lipid oxidation and depletion of reduced glutathione in the substantia nigra. Changes in oxidised glutathione are less consistent and depend on the tissue and measurement.",
+    "notes": {
+      "A": "Increased lipid oxidation products have been reported in Parkinson disease, consistent with oxidative injury to membranes.",
+      "B": "Mitochondrial dysfunction, dopamine metabolism and other factors can contribute to oxidative stress in affected tissue.",
+      "C": "A consistent decrease in oxidised glutathione is not established. Nigral studies have often highlighted depletion of the reduced form.",
+      "D": "Reduced glutathione is often decreased in the substantia nigra. An increase is not the characteristic observation."
+    }
+  },
+  "bio-456": {
+    "why": "Gamma-glutamylcysteine is combined with glycine to form glutathione. Reduced glutathione supplies reducing equivalents to peroxidases, helping remove hydrogen peroxide and lipid hydroperoxides before they cause oxidative damage.",
+    "notes": {
+      "B": "Glutathione helps maintain the cell's redox environment by reducing oxidants. The protection described is against oxidative damage."
+    }
+  },
+  "bio-457": {
+    "why": "Oxidative stress is a disturbance in redox control in which oxidant generation exceeds the ability of antioxidant systems to handle it. The resulting reactions can damage lipids, proteins and nucleic acids.",
+    "notes": {
+      "B": "Toxicity is a broad term for harmful effects. Oxidative stress specifically describes the imbalance between oxidants and antioxidant capacity."
+    }
+  },
+  "bio-459": {
+    "why": "Cytochrome P450 reactions can leak electrons, activated phagocytes can make superoxide, and alloxan can undergo redox cycling. Lipid peroxidation also propagates radical intermediates, so each of the listed processes can contribute to free radicals.",
+    "notes": {
+      "A": "Uncoupled cytochrome P450 activity can release reactive species during electron transfer to oxygen.",
+      "B": "Activated phagocytes produce superoxide through an NADPH oxidase-dependent respiratory burst.",
+      "C": "Alloxan can generate reactive species through redox cycling and contribute to oxidative injury.",
+      "D": "Lipid peroxidation is a chain reaction in which lipid and lipid peroxyl radicals are formed."
+    }
+  },
+  "bio-061": {
+    "why": "Ribosomes incorporate mainly L-alpha amino acids, with glycine as an achiral exception. Alpha means the amino group is on the carbon adjacent to the carboxyl group.",
+    "notes": {
+      "A": "The usual amino acids in ribosomally synthesised proteins have their amino group at the alpha carbon, rather than the beta carbon.",
+      "B": "D-beta amino acids differ in both configuration and amino group position from the usual building blocks of proteins.",
+      "D": "D-alpha amino acids can occur in some biological molecules, but ordinary ribosomal protein synthesis predominantly incorporates the L forms.",
+      "E": "The structural and stereochemical requirements distinguish the usual protein building blocks from the other amino acid classes."
+    }
+  },
+  "bio-062": {
+    "why": "Serine has an uncharged, polar hydroxyl-containing side chain at physiological pH. Lysine and arginine have basic side chains, while glutamate has an acidic carboxylate side chain.",
+    "notes": {
+      "A": "The guanidinium side chain of arginine is positively charged at physiological pH and is classified as basic.",
+      "B": "Lysine has an additional amino group in its side chain. It tends to be protonated and positively charged at physiological pH.",
+      "D": "Glutamate has a second carboxyl group in its side chain, which is usually negatively charged at physiological pH."
+    }
+  },
+  "bio-063": {
+    "why": "The primary sequence is held together by peptide bonds. These covalent amide bonds join the carboxyl carbon of one amino acid to the amino nitrogen of the next.",
+    "notes": {
+      "A": "Disulphide bonds can link two cysteine side chains and stabilise folded structure. They do not join every successive amino acid.",
+      "C": "Peptide bonds are covalent. The more specific name for the bond linking adjacent residues in a protein backbone is a peptide bond.",
+      "D": "Hydrogen bonding stabilises folding patterns such as alpha helices and beta sheets. It does not make the primary backbone linkage."
+    }
+  },
+  "bio-064": {
+    "why": "Alpha helices and beta sheets are stabilised largely by hydrogen bonds between backbone carbonyl oxygens and amide hydrogens. The arrangements differ in where the participating peptide groups lie along the chain.",
+    "notes": {
+      "A": "Disulphide bridges join cysteine side chains and often support higher levels of folding. They do not form the common backbone pattern of secondary structure.",
+      "B": "Peptide bonds join amino acids to make the primary backbone. Hydrogen bonds between peptide groups stabilise recurring secondary structures.",
+      "D": "Covalent bonds make up the chain itself. Alpha helices and beta sheets are distinguished by the pattern of backbone hydrogen bonds."
+    }
+  },
+  "bio-065": {
+    "why": "Cystinuria impairs tubular reabsorption of cystine and the dibasic amino acids lysine, ornithine and arginine. Tryptophan is a neutral aromatic amino acid and does not use this affected transport system.",
+    "notes": {
+      "A": "Poorly soluble cystine can accumulate in urine and form stones when its tubular reabsorption is impaired.",
+      "B": "Lysine is a dibasic amino acid normally transported by the affected system and can be increased in urine.",
+      "C": "Ornithine is one of the dibasic substrates whose proximal tubular uptake is defective in cystinuria."
+    }
+  },
+  "bio-066": {
+    "why": "The two nitrogen atoms in urea come from different sources. One enters as free ammonia, incorporated into carbamoyl phosphate by carbamoyl phosphate synthetase I. The other is donated by aspartate during argininosuccinate formation.",
+    "notes": {
+      "A": "Ornithine accepts the carbamoyl group but is regenerated by arginase. It does not supply the second nitrogen of urea.",
+      "B": "Aspartate donates one nitrogen, but ornithine cycles through the pathway. The other nitrogen arrives via carbamoyl phosphate.",
+      "C": "Glutamate can supply ammonia or amino groups upstream. The immediate nitrogen donors are carbamoyl phosphate and aspartate.",
+      "E": "Carbamoyl phosphate supplies one nitrogen. Aspartate, rather than glutamate directly, supplies the second."
+    }
   }
 }
