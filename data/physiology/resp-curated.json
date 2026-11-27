@@ -1704,7 +1704,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "V/Q = 0 means perfusion without ventilation (a shunt); the alveolar gas equilibrates toward venous values.",
+      "why": "A ventilation–perfusion ratio of zero means a lung unit receives blood but no fresh alveolar ventilation. Its gas tensions tend towards mixed venous values, and blood leaving the unit remains poorly oxygenated, contributing to a physiological shunt.",
+      "notes": {
+        "B": "Dead space occurs when ventilation is present but perfusion is absent or inadequate, producing a high rather than zero ventilation–perfusion ratio.",
+        "C": "An efficiently matched gas-exchanging unit requires both alveolar ventilation and blood flow; absent ventilation prevents normal oxygen uptake in this unit.",
+        "D": "With continued perfusion but no ventilation, alveolar oxygen is depleted and carbon dioxide accumulates towards mixed venous values, not inspired gas values.",
+        "E": "A unit without fresh ventilation cannot sustain effective gas exchange even if its anatomical diffusion barrier has otherwise normal properties."
+      },
       "topicId": "resp-gas",
       "subtopic": "V/Q matching",
       "difficulty": "hard"
@@ -1800,7 +1806,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "About 1% of blood O2 is dissolved; ~99% is combined with haemoglobin.",
+      "why": "Most arterial oxygen is carried reversibly bound to haemoglobin, while only about 1–2% is physically dissolved under normal conditions. At an arterial oxygen tension near 100 mmHg, dissolved oxygen is approximately 0.3 mL per decilitre of blood.",
+      "notes": {
+        "A": "Equal sharing between dissolved and haemoglobin-bound oxygen would require very different conditions; normal arterial oxygen content is overwhelmingly haemoglobin-bound.",
+        "B": "The inspired oxygen fraction is about 21% at sea level, but it does not determine the percentage of arterial oxygen carried in solution.",
+        "C": "Bicarbonate is an important form of carbon dioxide transport, not a chemical form carrying a major fraction of arterial oxygen.",
+        "E": "Carbamino compounds carry carbon dioxide bound to proteins; arterial oxygen instead travels mainly bound to ferrous haem groups in haemoglobin."
+      },
       "topicId": "resp-gas",
       "subtopic": "Oxygen transport",
       "difficulty": "easy"
@@ -1832,7 +1844,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Positive cooperativity means affinity rises as successive O2 molecules bind, until saturation flattens the curve.",
+      "why": "Haemoglobin exhibits positive cooperativity: oxygen binding promotes a conformational transition towards the higher-affinity relaxed state, facilitating subsequent oxygen binding. This behaviour explains the steep middle portion of its sigmoid oxygen dissociation curve.",
+      "notes": {
+        "A": "Progressively decreasing affinity would represent negative cooperativity, whereas normal haemoglobin binding favours subsequent oxygen association through subunit interactions.",
+        "B": "Constant independent site affinity would not account for the cooperative sigmoid relationship observed in normal tetrameric haemoglobin.",
+        "C": "The first oxygen binds relatively poorly to deoxygenated haemoglobin, and binding becomes more favourable as the relaxed conformation is stabilised.",
+        "D": "Haemoglobin retains additional oxygen-binding sites after two molecules bind; cooperative interactions favour further binding rather than reducing affinity to zero."
+      },
       "topicId": "resp-gas",
       "subtopic": "Oxygen dissociation curve",
       "difficulty": "medium"
@@ -1864,7 +1882,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "On the flat upper part, Hb is near fully saturated, so further PO2 rise adds little content — a safety margin for gas exchange.",
+      "why": "Above approximately 60 mmHg, haemoglobin enters the relatively flat upper portion of its oxygen dissociation curve. Saturation is already around 90% or higher, so increasing oxygen tension produces only a modest further increase in haemoglobin-bound oxygen.",
+      "notes": {
+        "B": "Blood oxygen content generally increases rather than decreases as oxygen tension rises, although the increase becomes small near maximal haemoglobin saturation.",
+        "C": "Rapid oxygen unloading occurs mainly along the steeper part of the curve at lower tissue oxygen tensions, rather than the upper plateau.",
+        "D": "Half-saturation occurs at approximately 26–27 mmHg under standard conditions, not at the relatively high tensions of the curve's upper portion.",
+        "E": "Cooperative binding contributes to the steep preceding region of the curve; the upper plateau reflects progressive occupation of available oxygen-binding sites."
+      },
       "topicId": "resp-gas",
       "subtopic": "Oxygen dissociation curve",
       "difficulty": "medium"
@@ -1896,7 +1920,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Medullary inspiratory and expiratory neuron groups set the automatic rhythm; the pons smooths it.",
+      "why": "Automatic respiratory rhythm arises from interconnected neuronal networks in the medulla, notably inspiratory rhythm-generating circuits including the pre-Bötzinger complex. Pontine networks, sensory feedback and higher centres shape the resulting pattern according to physiological needs.",
+      "notes": {
+        "A": "The carotid body detects arterial oxygen, carbon dioxide and acidity, providing sensory input rather than generating the fundamental central respiratory rhythm.",
+        "C": "The cerebral cortex allows voluntary modification of breathing, but automatic quiet respiration persists through brainstem rhythm-generating networks without conscious control.",
+        "D": "The hypothalamus modifies breathing during thermal, emotional and autonomic responses, rather than being the principal site generating automatic respiratory rhythm.",
+        "E": "Cervical spinal motor neurons activate the diaphragm through phrenic nerves, but receive rhythmic descending commands from respiratory networks in the brainstem."
+      },
       "topicId": "resp-control",
       "subtopic": "Respiratory centres",
       "difficulty": "easy"
@@ -1928,7 +1958,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Quiet expiration is passive, so expiratory neurons discharge mainly during forced or increased breathing.",
+      "why": "Quiet expiration ordinarily occurs when inspiratory muscle activity decreases and elastic recoil drives air out of the lungs. Active recruitment of expiratory motor muscles becomes more important during forced breathing or increased ventilatory demand, although central expiratory-phase neurons can remain active.",
+      "notes": {
+        "A": "The cerebral cortex permits voluntary breathing changes, but quiet passive expiration does not require continuous cortical suppression of expiratory motor activity.",
+        "B": "Normal carbon dioxide levels maintain respiratory drive; the absence of strong active expiratory muscle recruitment primarily reflects passive mechanical recoil.",
+        "D": "Pontine respiratory circuits influence phase transitions, but the ordinary absence of active expiratory effort is primarily explained by the mechanics of quiet expiration.",
+        "E": "Vagal pulmonary feedback modifies respiratory timing, rather than continuously suppressing all expiratory activity during normal quiet breathing."
+      },
       "topicId": "resp-control",
       "subtopic": "Respiratory centres",
       "difficulty": "medium"
@@ -1960,7 +1996,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The pneumotaxic centre switches off inspiration, preventing the sustained inspiratory cramp (apneusis).",
+      "why": "In the classical respiratory-centre model, the upper pontine pneumotaxic region helps terminate inspiration and regulate inspiratory duration. Modern pontine respiratory-group concepts emphasise coordination of phase transitions and breathing pattern rather than a single isolated switch.",
+      "notes": {
+        "A": "Central chemical responses to carbon dioxide and hydrogen ions involve medullary chemosensitive networks, rather than the classical primary function of the upper pontine centre.",
+        "B": "Active forced expiration recruits medullary expiratory networks and spinal motor pathways, rather than being the defining role of the pneumotaxic region.",
+        "C": "The cough reflex depends on airway sensory input and coordinated brainstem motor responses, not primarily on the classic upper pontine inspiratory-off function.",
+        "E": "Medullary networks generate the basic inspiratory rhythm, while pontine respiratory circuits chiefly modify timing and coordination of the respiratory phases."
+      },
       "topicId": "resp-control",
       "subtopic": "Respiratory centres",
       "difficulty": "hard"
@@ -1992,7 +2034,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Removing pontine (pneumotaxic) and vagal input leaves inspiration unchecked, producing apneusis.",
+      "why": "In classical animal brainstem-transection experiments, disruption of pontine inspiratory-termination influences together with removal of vagal feedback can produce prolonged inspiratory activity, termed apneusis. This demonstrates the contribution of pontine and sensory inputs to normal phase transitions.",
+      "notes": {
+        "A": "Interrupting descending medullary drive to spinal respiratory motor neurons abolishes normal respiratory movement rather than leaving a sustained patterned inspiratory response.",
+        "B": "Removal of voluntary cortical influence does not ordinarily cause apneusis because automatic respiratory rhythm and phase control reside largely in the brainstem.",
+        "C": "Loss of carotid body feedback alters chemical regulation of respiration, but classic experimental apneusis requires disturbance of pontine and vagal phase-related influences.",
+        "D": "Phrenic nerve interruption paralyses diaphragmatic activity, rather than generating the sustained inspiratory pattern associated with altered brainstem phase regulation."
+      },
       "topicId": "resp-control",
       "subtopic": "Respiratory centres",
       "difficulty": "hard"
@@ -2024,7 +2072,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The respiratory drive originates in the medulla, so cutting below it abolishes breathing.",
+      "why": "Transection below the medullary respiratory networks, above the spinal respiratory motor neuron pools, interrupts descending drive to the phrenic and other respiratory muscles. The brainstem may retain neural rhythmic activity, but spontaneous effective breathing stops.",
+      "notes": {
+        "B": "Regular respiratory movements require intact descending connections from brainstem respiratory networks to spinal respiratory motor neurons, which the stated transection interrupts.",
+        "C": "Gasping can arise from brainstem networks under certain conditions, but cannot drive normal respiratory muscles when their descending pathways are severed.",
+        "D": "Apneusis is associated with disruption of particular pontine and vagal influences while medullary-to-spinal respiratory pathways remain functional.",
+        "E": "Cough requires coordinated respiratory muscle activation through descending pathways, so an isolated retained cough is not the expected consequence of this transection."
+      },
       "topicId": "resp-control",
       "subtopic": "Respiratory centres",
       "difficulty": "medium"
@@ -2056,7 +2110,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Pulmonary stretch receptors send vagal afferents that inhibit the inspiratory neurons, ending inspiration when the lung is inflated.",
+      "why": "Pulmonary slowly adapting stretch receptors respond to lung inflation and transmit afferent signals through the vagus nerve to brainstem respiratory circuits. Their feedback inhibits or terminates inspiration during substantial lung inflation, helping protect against excessive distension.",
+      "notes": {
+        "A": "Diaphragmatic muscle spindles convey muscle-related sensory information, whereas the classic inflation reflex originates from pulmonary stretch receptors carried by the vagus.",
+        "C": "Carotid body chemoreceptors respond to blood gas and acid–base changes rather than sensing lung inflation to terminate inspiration.",
+        "D": "Corticospinal pathways contribute to voluntary motor control, but the Hering–Breuer inflation response is an involuntary reflex mediated by pulmonary sensory afferents.",
+        "E": "Juxtacapillary receptors respond particularly to interstitial changes and congestion; they do not release surfactant or mediate the classic inflation reflex."
+      },
       "topicId": "resp-control",
       "subtopic": "Reflexes",
       "difficulty": "hard"
@@ -2088,7 +2148,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Central chemoreceptors sense CSF H+, which tracks arterial CO2 after CO2 crosses the blood-brain barrier.",
+      "why": "Central chemoreceptive networks respond strongly to changes in hydrogen ion concentration within brain extracellular fluid and cerebrospinal fluid. Arterial carbon dioxide readily crosses the blood–brain barrier and alters local pH, making it a major determinant of central ventilatory drive.",
+      "notes": {
+        "A": "Plasma bicarbonate influences systemic acid–base status, but its limited and regulated barrier transport makes it less direct than local central hydrogen ion changes.",
+        "B": "Blood temperature can alter metabolism and ventilation, but central respiratory chemoreception is principally associated with carbon dioxide-dependent changes in local acidity.",
+        "D": "Arterial oxygen tension is detected principally by peripheral chemoreceptors such as the carotid bodies, rather than being the main central chemical stimulus.",
+        "E": "Pulmonary stretch receptors detect lung mechanical inflation through vagal afferents, rather than providing the central chemoreceptors' direct chemical signal."
+      },
       "topicId": "resp-control",
       "subtopic": "Chemoreceptors",
       "difficulty": "hard"
@@ -2120,7 +2186,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "CO2 diffuses freely into the CSF and forms H+ there; H+ and HCO3- cross slowly, so CO2 is the effective central stimulus.",
+      "why": "Carbon dioxide diffuses readily across the blood–brain barrier and participates in reactions forming carbonic acid, bicarbonate and hydrogen ions in central extracellular fluid. The resulting fall in local pH stimulates central chemoreceptive networks and increases ventilation.",
+      "notes": {
+        "A": "Carbon dioxide can influence some central cells through additional mechanisms, but its major conventional ventilatory effect is mediated through local hydrogen ion generation.",
+        "B": "Carotid bodies respond to arterial carbon dioxide as well as oxygen and acidity, but central chemoreception also contributes strongly to carbon dioxide-driven ventilation.",
+        "C": "Carbon dioxide readily enters central extracellular compartments, allowing arterial changes to influence brain pH rather than remaining confined to systemic plasma.",
+        "E": "Carbon dioxide crosses the blood–brain barrier largely by passive diffusion, rather than requiring an ATP-driven transport pump into cerebrospinal fluid."
+      },
       "topicId": "resp-control",
       "subtopic": "Chemoreceptors",
       "difficulty": "hard"
@@ -2152,7 +2224,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Carotid body afferents travel in the glossopharyngeal nerve; aortic body afferents travel in the vagus.",
+      "why": "Carotid body chemoreceptor afferents pass through the carotid sinus nerve and glossopharyngeal nerve to the nucleus tractus solitarius in the medulla. This pathway conveys information about arterial oxygen tension, carbon dioxide and acidity for respiratory regulation.",
+      "notes": {
+        "A": "The vagus conveys afferent information from aortic chemoreceptors and other visceral sensors, whereas the carotid body predominantly uses glossopharyngeal afferents.",
+        "B": "The trigeminal nerve carries facial and nasal sensory information, including signals relevant to sneezing, rather than the principal carotid body pathway.",
+        "C": "The phrenic nerve supplies the diaphragm and carries associated sensory fibres, but does not convey carotid chemoreceptor signals to the medulla.",
+        "D": "The facial nerve contributes to facial movement, taste and selected parasympathetic pathways, rather than carrying the main carotid body chemosensory input."
+      },
       "topicId": "resp-control",
       "subtopic": "Chemoreceptors",
       "difficulty": "medium"
@@ -2184,7 +2262,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "They sense dissolved PO2; in CO poisoning dissolved O2 is near normal although Hb is saturated with CO, so they are poorly stimulated.",
+      "why": "Carotid body oxygen sensing responds strongly to reduced arterial oxygen partial pressure rather than directly measuring total haemoglobin-bound oxygen content. Carbon monoxide poisoning can markedly impair oxygen carriage despite relatively normal arterial oxygen tension, limiting this particular hypoxic stimulus.",
+      "notes": {
+        "B": "Metabolic acidosis increases arterial hydrogen ion concentration and stimulates peripheral chemoreceptors even when arterial oxygen partial pressure is not reduced.",
+        "C": "High altitude reduces inspired and arterial oxygen tensions, providing a strong physiological stimulus to peripheral chemoreceptor-driven hyperventilation.",
+        "D": "Lactic acidosis during strenuous exercise increases peripheral chemoreceptor stimulation through arterial acidity, rather than necessarily escaping chemical detection.",
+        "E": "Prolonged breath-holding generally increases carbon dioxide and lowers arterial oxygen tension, both of which increase respiratory chemoreceptor drive."
+      },
       "topicId": "resp-control",
       "subtopic": "Chemoreceptors",
       "difficulty": "hard"
@@ -2216,7 +2300,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Very high inspired CO2 produces hypercapnia that depresses the CNS — CO2 narcosis.",
+      "why": "Very high inspired carbon dioxide concentrations can overwhelm the ability of increased ventilation to maintain normal arterial carbon dioxide tension. Severe hypercapnia and respiratory acidosis can depress central nervous system function, causing headache, confusion and eventually coma.",
+      "notes": {
+        "A": "Cheyne–Stokes breathing is a periodic ventilatory pattern involving delayed feedback and changing respiratory drive, rather than the characteristic direct syndrome of severe inspired hypercapnia.",
+        "C": "Carbon dioxide retention increases respiratory acid load and produces respiratory acidosis, rather than the hypocapnia-associated respiratory alkalosis that can provoke tetany.",
+        "D": "Increased carbon dioxide and acidity generally shift the haemoglobin oxygen dissociation curve rightwards through the Bohr effect, rather than improving affinity through a leftward shift.",
+        "E": "Severe hypercapnia can depress central function, but it does not specifically abolish all peripheral oxygen chemoreceptor responses at a universal concentration."
+      },
       "topicId": "resp-control",
       "subtopic": "CO2 responses",
       "difficulty": "hard"
@@ -2248,7 +2338,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "With no ventilation CO2 rises and O2 falls, and the resulting chemoreceptor drive forces a breath.",
+      "why": "During voluntary breath-holding, ongoing metabolism consumes oxygen and produces carbon dioxide without alveolar ventilation. Rising carbon dioxide, increasing acidity and eventually falling oxygen intensify involuntary respiratory drive, contributing to the breakpoint at which voluntary suppression becomes difficult.",
+      "notes": {
+        "A": "Alveolar oxygen generally falls during breath-holding as metabolism continues, rather than rising towards a toxic oxygen partial pressure.",
+        "B": "Voluntary cortical control can initially suppress breathing despite increasing respiratory drive; the breakpoint reflects mounting chemical and respiratory motor influences rather than isolated cortical failure.",
+        "D": "Residual volume is the gas remaining after maximal expiration, and the urge to breathe is not normally caused by mechanical lung collapse at that volume.",
+        "E": "Pontine circuits contribute to breathing pattern control, but their fatigue is not the principal established explanation for the voluntary breath-holding breakpoint."
+      },
       "topicId": "resp-control",
       "subtopic": "Breath holding",
       "difficulty": "medium"
@@ -2344,7 +2440,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Tracheobronchial touch receptors send vagal afferents to the medulla to trigger coughing.",
+      "why": "Mechanical and chemical stimulation of sensory endings in the larynx, trachea and bronchi can activate vagal afferent pathways to brainstem cough networks. Coordinated respiratory and laryngeal muscle activity then produces forceful expiratory airflow to clear the airway.",
+      "notes": {
+        "B": "The glossopharyngeal nerve carries pharyngeal sensory information and carotid body signals, rather than the principal tracheobronchial cough afferent pathway.",
+        "C": "The trigeminal nerve conveys nasal sensory signals important for sneezing, whereas lower-airway cough receptors predominantly communicate through vagal afferents.",
+        "D": "The phrenic nerve activates the diaphragm during respiratory movements, but the principal sensory trigger for tracheobronchial cough travels through the vagus.",
+        "E": "The facial nerve supplies muscles of facial expression and selected secretory pathways, rather than carrying the main lower-airway cough receptor signals."
+      },
       "topicId": "resp-control",
       "subtopic": "Reflexes",
       "difficulty": "medium"
@@ -2376,7 +2478,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Sneezing uses trigeminal (5th nerve) afferents from the nasal mucosa; the uvula is depressed to route air through the nose.",
+      "why": "Nasal mucosal irritation activates sensory fibres of the trigeminal nerve, which convey signals to brainstem sneeze-generating networks. The coordinated respiratory and upper-airway motor response produces rapid expulsive airflow through the nose and often the mouth.",
+      "notes": {
+        "A": "The accessory nerve chiefly supplies sternocleidomastoid and trapezius muscles, rather than transmitting the nasal mucosal sensory signals that trigger sneezing.",
+        "C": "Vagal afferents play a major role in cough initiated from the larynx and lower airways, whereas nasal irritation primarily uses trigeminal afferents.",
+        "D": "The glossopharyngeal nerve supplies sensory pathways from the pharynx and carotid region, rather than the principal sensory innervation of nasal mucosa.",
+        "E": "The hypoglossal nerve supplies tongue muscles and may participate indirectly in airway positioning, but does not carry the sensory trigger from nasal irritation."
+      },
       "topicId": "resp-control",
       "subtopic": "Reflexes",
       "difficulty": "medium"
@@ -2408,7 +2516,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Anaemic hypoxia is inadequate O2 carriage from too little functional Hb; arterial PO2 is normal.",
+      "why": "Anaemic hypoxia occurs when arterial blood has inadequate oxygen-carrying capacity because the amount of functional haemoglobin is reduced. Arterial oxygen partial pressure can remain normal because it measures dissolved oxygen rather than total haemoglobin-bound oxygen content.",
+      "notes": {
+        "A": "Failure of tissues to utilise available oxygen, as in cyanide poisoning, defines histotoxic rather than anaemic hypoxia.",
+        "B": "Impaired alveolar gas transfer can lower arterial oxygen tension and produce hypoxaemic hypoxia, rather than a primary reduction in functional haemoglobin.",
+        "D": "Reduced arterial oxygen partial pressure characterises hypoxaemic hypoxia; anaemic hypoxia can occur with normal arterial oxygen tension.",
+        "E": "Inadequate blood flow limits oxygen delivery despite potentially normal arterial oxygen content, producing circulatory or stagnant rather than anaemic hypoxia."
+      },
       "topicId": "resp-env",
       "subtopic": "Hypoxia classification",
       "difficulty": "medium"
@@ -2440,7 +2554,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Cyanide blocks the tissues' use of oxygen (cytochrome oxidase) — histotoxic hypoxia.",
+      "why": "Cyanide inhibits mitochondrial cytochrome c oxidase, impairing the electron transport chain and oxidative phosphorylation. Oxygen may be delivered adequately to tissues but cannot be utilised normally, producing histotoxic hypoxia and potentially increased venous oxygen content.",
+      "notes": {
+        "A": "Anaemic hypoxia results primarily from reduced effective haemoglobin oxygen-carrying capacity, rather than inhibition of cellular mitochondrial oxygen utilisation.",
+        "B": "Stagnant hypoxia arises from inadequate blood flow and oxygen delivery; cyanide instead disrupts oxygen use even when perfusion is initially maintained.",
+        "C": "Carbon monoxide principally impairs oxygen carriage and unloading through haemoglobin binding, whereas cyanide chiefly inhibits mitochondrial oxidative metabolism.",
+        "E": "Hypoxaemic hypoxia involves reduced arterial oxygen partial pressure, whereas cyanide poisoning can impair cellular oxygen use despite adequate arterial oxygen tension."
+      },
       "topicId": "resp-env",
       "subtopic": "Hypoxia classification",
       "difficulty": "medium"
@@ -2472,7 +2592,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "When delivery is limited by sluggish flow despite normal blood and PO2, it is stagnant (ischaemic) hypoxia.",
+      "why": "Stagnant or circulatory hypoxia results from insufficient tissue blood flow relative to metabolic demand. Oxygen delivery decreases because flow is reduced, even when arterial oxygen tension and haemoglobin oxygen content are initially adequate; tissues may compensate by extracting more oxygen.",
+      "notes": {
+        "A": "Histotoxic hypoxia involves impaired cellular oxygen utilisation, whereas stagnant hypoxia is caused principally by inadequate perfusion and oxygen delivery.",
+        "B": "Hypoxaemic hypoxia results from reduced arterial oxygen partial pressure; slow-flow hypoxia can occur even with normal arterial oxygen tension.",
+        "C": "Anaemic hypoxia is caused by inadequate functional haemoglobin and reduced blood oxygen-carrying capacity rather than a primary fall in tissue perfusion.",
+        "D": "Diffusion-related oxygen impairment involves resistance to gas transfer, whereas shock-related slow-flow hypoxia primarily reflects reduced delivery of blood to tissues."
+      },
       "topicId": "resp-env",
       "subtopic": "Hypoxia classification",
       "difficulty": "medium"
@@ -2504,7 +2630,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "About 5 g/dl of deoxyhaemoglobin is needed before the bluish colour is visible.",
+      "why": "Classical clinical teaching associates visible cyanosis with approximately 5 g/dL of reduced haemoglobin in capillary blood. This is an approximate historical threshold rather than a fixed diagnostic rule, because lighting, pigmentation, perfusion and total haemoglobin influence visibility.",
+      "notes": {
+        "B": "One gram per decilitre is below the conventional historical reduced-haemoglobin threshold, although cyanosis detection varies considerably with clinical circumstances.",
+        "C": "Ten grams per decilitre of reduced haemoglobin would represent substantial deoxygenation and exceeds the traditional teaching estimate for cyanosis becoming visible.",
+        "D": "Fifteen grams per decilitre approaches the entire haemoglobin concentration of many healthy adults and is much higher than the classical visibility threshold.",
+        "E": "Two grams per decilitre is below the conventional five-gram teaching threshold, although actual clinical detection is variable and cannot be assessed from this value alone."
+      },
       "topicId": "resp-env",
       "subtopic": "Cyanosis",
       "difficulty": "medium"
@@ -2536,7 +2668,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Cyanosis needs ~5 g/dl of deoxyHb; a severely anaemic patient simply lacks enough Hb to reach that level.",
+      "why": "Cyanosis depends on the absolute amount of reduced haemoglobin rather than oxygen saturation alone. Severe anaemia reduces total haemoglobin, so even substantial desaturation may produce little visible cyanosis; absence of cyanosis cannot exclude inadequate oxygen delivery.",
+      "notes": {
+        "A": "Methaemoglobin can itself produce abnormal bluish discoloration and impaired oxygen carriage, rather than generally masking cyanosis specifically in severe anaemia.",
+        "C": "Cherry-red discoloration is classically associated with carboxyhaemoglobin and is not the usual explanation for reduced cyanosis in patients with low total haemoglobin.",
+        "D": "Anaemia reduces oxygen content despite potentially normal arterial oxygen tension; an increase in arterial oxygen tension is not required to explain absent cyanosis.",
+        "E": "Skin perfusion influences the appearance of peripheral cyanosis, but reduced absolute haemoglobin concentration is the principal explanation in severe anaemia."
+      },
       "topicId": "resp-env",
       "subtopic": "Cyanosis",
       "difficulty": "hard"
@@ -2568,7 +2706,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Hypoxia stimulates the carotid/aortic bodies, producing prompt hyperventilation as the first step of acclimatization.",
+      "why": "A rapid ascent lowers barometric pressure and inspired oxygen partial pressure, reducing arterial oxygen tension. Peripheral chemoreceptors, especially the carotid bodies, promptly stimulate hyperventilation, improving alveolar oxygen tension before slower haematological and renal adaptations develop.",
+      "notes": {
+        "A": "The immediate hyperventilatory response commonly lowers arterial carbon dioxide and raises pH, rather than necessarily producing primary lactic acidaemia.",
+        "B": "An immediate increase in red-cell mass is impossible through new erythrocyte production; early haemoconcentration may occur later with plasma volume changes.",
+        "D": "Hypoxia stimulates erythropoietin, but expansion of red-cell mass requires erythropoiesis over subsequent days to weeks, not the earliest respiratory compensation.",
+        "E": "Changes in erythrocyte 2,3-DPG can develop during acclimatisation, but peripheral chemoreceptor-driven ventilation increases much more rapidly after ascent."
+      },
       "topicId": "resp-env",
       "subtopic": "Altitude",
       "difficulty": "medium"
@@ -2600,7 +2744,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Although alkalosis shifts the curve left, the accompanying rise in 2,3-DPG shifts it right, aiding tissue O2 delivery.",
+      "why": "Altitude acclimatisation can increase erythrocyte 2,3-DPG, stabilising deoxygenated haemoglobin and tending to shift the oxygen dissociation curve rightwards. This can facilitate tissue oxygen unloading, although concurrent respiratory alkalosis exerts an opposing leftward effect.",
+      "notes": {
+        "A": "2,3-DPG is an erythrocyte glycolytic intermediate regulating haemoglobin affinity, rather than a direct mechanism increasing plasma bicarbonate concentration.",
+        "B": "Erythropoietin secretion is regulated principally by renal oxygen sensing, not by a direct inhibitory action of erythrocyte 2,3-DPG.",
+        "C": "The ventilatory response to altitude is influenced by chemoreceptors and acid–base adaptation, rather than directly suppressed by an increase in haemoglobin-bound 2,3-DPG.",
+        "E": "Increased 2,3-DPG tends to decrease haemoglobin oxygen affinity and shift its curve rightwards, rather than enhancing affinity through a leftward shift."
+      },
       "topicId": "resp-env",
       "subtopic": "Altitude",
       "difficulty": "hard"
@@ -2696,7 +2846,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "High PN2 at depth produces nitrogen narcosis with euphoria and clumsiness.",
+      "why": "At increased ambient pressure, the partial pressure of inhaled nitrogen rises when breathing compressed air. Elevated nitrogen tension has reversible narcotic effects on the central nervous system, potentially impairing judgement, coordination and awareness during deep diving.",
+      "notes": {
+        "A": "Water vapour pressure is largely determined by temperature in humidified airways, rather than the inert-gas partial-pressure increase responsible for nitrogen narcosis.",
+        "C": "High oxygen partial pressure can cause oxygen toxicity, including neurological manifestations, but classic inert-gas narcosis while breathing compressed air is chiefly nitrogen-related.",
+        "D": "Carbon dioxide retention can impair cognition and worsen diving hazards, but it is not the defining inert-gas mechanism of nitrogen narcosis.",
+        "E": "Helium has substantially less narcotic potency than nitrogen at comparable pressures and is used in some breathing mixtures to reduce nitrogen-related narcosis."
+      },
       "topicId": "resp-env",
       "subtopic": "Diving",
       "difficulty": "medium"
@@ -2728,7 +2884,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Dissolved N2 forms bubbles if ascent is too fast, occluding vessels and causing joint pain, paraesthesiae and worse.",
+      "why": "At elevated ambient pressure, more inert nitrogen can dissolve in body tissues. If pressure decreases too rapidly, supersaturation can cause gas bubbles to form in tissues and blood, producing decompression sickness with musculoskeletal, neurological or other manifestations.",
+      "notes": {
+        "A": "Alveolar overexpansion during ascent can cause pulmonary barotrauma and arterial gas embolism, which are distinct from decompression sickness caused by dissolved inert gas.",
+        "B": "Cold-induced bronchospasm narrows airways and may complicate diving, but does not produce the systemic inert-gas bubble mechanism of decompression sickness.",
+        "D": "Oxygen toxicity results from excessive oxygen partial pressure and oxidative injury, rather than nitrogen supersaturation during a decrease in ambient pressure.",
+        "E": "Carbon dioxide retention can cause hypercapnia and impair performance, but decompression sickness specifically involves bubbles arising from dissolved inert gases."
+      },
       "topicId": "resp-env",
       "subtopic": "Diving",
       "difficulty": "hard"
@@ -2760,7 +2922,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Prolonged high O2 irritates the airway, inhibits surfactant, kills lung macrophages and damages the lung within 1–2 days.",
+      "why": "Prolonged exposure to excessively high oxygen concentrations can generate reactive oxygen species that injure pulmonary epithelial and endothelial cells. Inflammation, impaired surfactant function and altered alveolar–capillary barrier integrity can reduce lung compliance and gas-exchange efficiency.",
+      "notes": {
+        "A": "Nitrogen narcosis results from high nitrogen partial pressure at depth, rather than prolonged exposure to pure oxygen under ordinary ambient pressure.",
+        "B": "High inspired oxygen does not characteristically cause a sharp primary increase in plasma bicarbonate; pulmonary oxygen toxicity principally reflects oxidative tissue injury.",
+        "C": "The Hering–Breuer inflation reflex responds to mechanical lung stretch, rather than being the mechanism of tissue injury during prolonged oxygen exposure.",
+        "E": "Oxygen toxicity does not primarily result from a rightward haemoglobin affinity shift; excessive oxygen tension instead promotes oxidant-mediated cellular damage."
+      },
       "topicId": "resp-env",
       "subtopic": "Oxygen toxicity",
       "difficulty": "hard"
@@ -2792,7 +2960,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "High O2 disrupts retinal vascular development, producing retrolental fibroplasia; broncho-pulmonary dysplasia affects the lungs.",
+      "why": "Excessive or poorly controlled oxygen exposure in premature infants can disrupt normal retinal vascular development, contributing to retinopathy of prematurity. Advanced disease may involve fibrovascular proliferation and retinal detachment, historically described as retrolental fibroplasia.",
+      "notes": {
+        "A": "Cataracts involve lens opacity, whereas the characteristic oxygen-associated complication in premature infants principally affects developing retinal blood vessels.",
+        "B": "Optic neuritis is inflammation of the optic nerve and is not the characteristic developmental retinal vascular disorder associated with premature-infant oxygen exposure.",
+        "C": "Central retinal artery occlusion causes acute retinal ischaemia, rather than the abnormal developmental vascular proliferation characteristic of retinopathy of prematurity.",
+        "D": "Glaucoma involves optic neuropathy often associated with elevated intraocular pressure, rather than the characteristic oxygen-associated disorder of immature retinal vasculature."
+      },
       "topicId": "resp-env",
       "subtopic": "Oxygen toxicity",
       "difficulty": "hard"
@@ -2824,7 +2998,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Greater tissue extraction lowers mixed venous PO2, widening the gradient at the lung and increasing uptake.",
+      "why": "During exercise, greater tissue oxygen extraction lowers mixed venous oxygen tension entering pulmonary capillaries. The larger initial alveolar-to-capillary oxygen gradient favours diffusion, while capillary recruitment and distension also increase pulmonary diffusing capacity to accommodate increased blood flow.",
+      "notes": {
+        "B": "Pulmonary diffusing capacity usually increases during exercise through capillary recruitment and distension, rather than decreasing as mixed venous oxygen tension falls.",
+        "C": "The widened oxygen gradient concerns alveolar and incoming venous oxygen tensions; an increase in alveolar carbon dioxide above arterial values is not required.",
+        "D": "Exercise commonly recruits previously underperfused pulmonary capillaries and distends open vessels, increasing rather than reducing the effective gas-exchange area.",
+        "E": "The exercise-associated rise in temperature and acidity generally favours a rightward oxygen affinity shift, rather than explaining pulmonary uptake through a leftward shift."
+      },
       "topicId": "resp-env",
       "subtopic": "Exercise",
       "difficulty": "medium"
@@ -2856,7 +3036,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Lactic acidosis in heavy exercise releases CO2 and lowers pH, stimulating ventilation.",
+      "why": "During strenuous exercise, increased glycolytic acid production can increase hydrogen ion concentration. Bicarbonate buffering generates additional carbon dioxide, while peripheral chemoreceptor stimulation by acidaemia contributes to the disproportionately increased ventilation seen above the ventilatory threshold.",
+      "notes": {
+        "A": "Bicarbonate is consumed when buffering excess metabolic hydrogen ions, rather than its increase providing the additional characteristic stimulus during heavy exercise.",
+        "C": "Arterial oxygen tension is often maintained during exercise, and an increase in oxygen tension would not provide the usual hypoxic ventilatory stimulus.",
+        "D": "Core temperature generally rises during strenuous exercise; a fall in temperature is not the characteristic additional chemical stimulus associated with exercise acidosis.",
+        "E": "2,3-DPG modifies haemoglobin oxygen affinity, but does not directly explain the additional ventilatory drive from metabolic acidaemia during strenuous exercise."
+      },
       "topicId": "resp-env",
       "subtopic": "Exercise",
       "difficulty": "medium"
@@ -2920,7 +3106,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Alkalosis increases protein binding of calcium, lowering ionised Ca2+ and provoking tetany and paraesthesiae.",
+      "why": "Hyperventilation lowers arterial carbon dioxide tension and raises blood pH, producing respiratory alkalosis. Alkalosis increases calcium binding to albumin, reducing the physiologically active ionised calcium fraction and increasing neuromuscular excitability, which may cause paraesthesiae or tetany.",
+      "notes": {
+        "A": "Increased ventilation removes carbon dioxide faster, lowering rather than raising arterial carbon dioxide tension during acute voluntary hyperventilation.",
+        "B": "Hypocapnia can reduce respiratory drive, but that feedback does not directly explain the increased neuromuscular excitability associated with alkalosis-induced tetany.",
+        "C": "Reduced carbon dioxide and increased pH favour a leftward oxygen dissociation-curve shift; calcium binding changes instead explain the characteristic tetany.",
+        "E": "Alkalosis generally decreases ionised calcium by increasing its protein binding, even when total plasma calcium concentration remains essentially unchanged."
+      },
       "topicId": "resp-env",
       "subtopic": "CO2 disturbance",
       "difficulty": "hard"
