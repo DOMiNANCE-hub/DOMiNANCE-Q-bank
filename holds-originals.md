@@ -575,3 +575,21 @@
 - Key: A
 - Concern: Type II receptor cells signal to afferents through ATP release channels rather than conventional vesicular synapses; type III cells form conventional synapses. The broad supporting-versus-gustatory options do not reliably distinguish these mechanisms. Original explanation and key untouched.
 - Reference: standard histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mos19 — Ranula mechanism
+- Stem: A ranula is a mucous retention cyst most often arising from the:
+- Key: A
+- Concern: A ranula typically represents a mucus extravasation pseudocyst arising from the sublingual gland, rather than a true epithelial-lined retention cyst. The gland is correct but the premise needs correction. Original explanation and key untouched.
+- Reference: standard oral histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mog9 — Orientation of filiform papillae
+- Stem: Filiform papillae are arranged in rows that run:
+- Key: A
+- Concern: The exact directional arrangement of filiform papillae varies by tongue region and reference. The course-specific claim of rows parallel to the sulcus terminalis needs confirmation. Original explanation and key untouched.
+- Reference: standard oral histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mog13 — Clinical versus anatomical crown
+- Stem: The part of the tooth covered by enamel and visible above the gum line is the:
+- Key: E
+- Concern: The anatomical crown is the enamel-covered portion; the clinical crown is the portion visible above the gingiva and may include exposed root or only part of the anatomical crown. The stem combines both definitions. Original explanation and key untouched.
+- Reference: standard oral histology; exact edition/page and lecture source not independently checked.
