@@ -1550,7 +1550,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Thyroid deficiency can impair conversion of beta-carotene to vitamin A.",
+      "why": "Hypothyroidism can reduce conversion of beta-carotene to vitamin A, allowing carotene to accumulate in skin and produce yellow-orange discoloration. Unlike jaundice, carotenemia typically spares the sclerae.",
+      "notes": {
+        "B": "Bilirubin accumulation causes jaundice and commonly discolours the sclerae as well as skin, unlike the described distribution.",
+        "C": "Melanin accumulation produces brown or darker pigmentation rather than the characteristic yellow-orange discoloration from excess carotene.",
+        "D": "Haemolysis increases unconjugated bilirubin and may produce scleral icterus, rather than isolated yellow skin with spared sclerae.",
+        "E": "Hypothyroidism commonly reduces LDL clearance and raises cholesterol; decreased cholesterol does not explain the yellow skin."
+      },
       "topicId": "endo-thyroid",
       "subtopic": "Thyroid deficiency",
       "difficulty": "medium"
@@ -1582,7 +1588,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Normal bone growth and maturation require thyroid hormone.",
+      "why": "Thyroid hormone is necessary for normal growth-plate maturation and skeletal development. Prolonged childhood deficiency delays bone age, reduces growth velocity and impairs GH–IGF-1-dependent growth, producing short stature.",
+      "notes": {
+        "A": "Thyroid deficiency generally delays rather than accelerates growth-plate maturation, so premature epiphyseal fusion is not the principal mechanism.",
+        "C": "Excess longitudinal bone growth would increase stature rather than explain the reduced growth velocity of longstanding childhood hypothyroidism.",
+        "D": "Altered cortical remodelling may accompany thyroid disorders, but delayed skeletal maturation better explains impaired linear growth in childhood deficiency.",
+        "E": "Accelerated epiphyseal growth would favour increased linear growth, whereas thyroid deficiency impairs normal growth-plate development and maturation."
+      },
       "topicId": "endo-thyroid",
       "subtopic": "Thyroid deficiency",
       "difficulty": "easy"
@@ -1614,7 +1626,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Primary thyroid excess suppresses pituitary TSH by negative feedback.",
+      "why": "In primary hyperthyroidism, the thyroid produces excessive hormone independently of normal pituitary demand. Elevated free T4 and T3 suppress hypothalamic TRH and pituitary TSH through negative feedback, explaining the low TSH.",
+      "notes": {
+        "A": "Elevated TSH despite high free T4 suggests an inappropriate central response, such as a TSH-secreting adenoma, rather than ordinary primary hyperthyroidism.",
+        "B": "ACTH regulates adrenal cortisol production and is not the pituitary hormone used to identify primary thyroid hormone excess.",
+        "D": "Prolactin regulates lactation and can change in selected thyroid disorders, but it is not the principal feedback marker of hyperthyroidism.",
+        "E": "Thyroid hormone excess suppresses hypothalamic TRH through negative feedback, rather than normally increasing hypothalamic stimulation of the thyroid axis."
+      },
       "topicId": "endo-thyroid",
       "subtopic": "Thyroid excess",
       "difficulty": "medium"
@@ -1646,7 +1664,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Calcium influx triggers synaptic vesicle fusion and transmitter release.",
+      "why": "An arriving action potential opens voltage-gated calcium channels in the presynaptic membrane. Calcium binds release-sensing proteins such as synaptotagmin, triggering synaptic vesicle fusion and neurotransmitter exocytosis into the synaptic cleft.",
+      "notes": {
+        "A": "Myelin is produced by specialised glial cells, whereas rapid presynaptic calcium entry triggers vesicle fusion within the neuronal terminal.",
+        "B": "Oxygen binding to haemoglobin occurs at ferrous haem groups and is unrelated to the calcium-dependent synaptic release mechanism.",
+        "C": "DNA base pairing supports genetic information storage and replication, rather than mediating rapid chemical transmission across a synaptic cleft.",
+        "E": "Glycogen branching is an enzymatic carbohydrate-storage process, rather than the immediate consequence of calcium entry into an activated presynaptic terminal."
+      },
       "topicId": "endo-calcium",
       "subtopic": "Calcium physiology",
       "difficulty": "medium"
@@ -1678,7 +1702,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Low extracellular calcium lowers the threshold for spontaneous neuronal discharge.",
+      "why": "Reduced extracellular ionised calcium makes voltage-gated sodium channels easier to activate and lowers the threshold for action potential initiation. Increased spontaneous neuronal firing and neuromuscular excitability can consequently produce paraesthesiae, cramps and tetany.",
+      "notes": {
+        "A": "Decreased neuronal excitability would suppress spontaneous discharge and muscle spasms, whereas significant hypocalcaemia characteristically increases neuromuscular excitability.",
+        "B": "Reduced sodium channel activation would usually impede depolarisation; low extracellular calcium instead facilitates activation of excitatory membrane conductances.",
+        "C": "Enhanced neural inhibition would reduce motor activity rather than explain the spontaneous muscle contractions associated with reduced ionised calcium.",
+        "D": "Reduced skeletal neuromuscular excitability is more consistent with significant hypercalcaemia, whereas hypocalcaemia can produce tetanic contractions."
+      },
       "topicId": "endo-calcium",
       "subtopic": "Calcium physiology",
       "difficulty": "medium"
@@ -1710,7 +1740,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Trousseau sign is carpal spasm produced by cuff inflation.",
+      "why": "Trousseau sign is carpal spasm elicited by maintaining blood-pressure cuff inflation above systolic pressure for several minutes. It demonstrates latent neuromuscular hyperexcitability, commonly associated with reduced ionised calcium, although other disturbances can also produce it.",
+      "notes": {
+        "B": "Chvostek sign is facial muscle twitching elicited by tapping over the facial nerve, rather than cuff-induced carpal spasm.",
+        "C": "Babinski sign is extension of the great toe after plantar stimulation, suggesting corticospinal tract dysfunction in adults.",
+        "D": "Romberg testing assesses the contribution of proprioceptive and vestibular input to standing balance, rather than latent hypocalcaemic tetany.",
+        "E": "Hoffmann sign involves reflex finger or thumb flexion after stimulation of a finger, rather than sustained carpal spasm after cuff inflation."
+      },
       "topicId": "endo-calcium",
       "subtopic": "Calcium signs",
       "difficulty": "medium"
@@ -1742,7 +1778,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Chvostek sign demonstrates facial nerve hyperexcitability.",
+      "why": "Chvostek sign is contraction of facial muscles after tapping the facial nerve near its superficial course. It reflects increased nerve excitability and can occur in hypocalcaemia, but is not sufficiently specific to diagnose calcium deficiency alone.",
+      "notes": {
+        "A": "Trousseau sign is provoked by prolonged blood-pressure cuff inflation and produces carpal spasm rather than facial muscle twitching.",
+        "C": "Kernig sign describes resistance or pain with knee extension when the hip is flexed, classically associated with meningeal irritation.",
+        "D": "Brudzinski sign involves involuntary hip and knee flexion during passive neck flexion, rather than direct stimulation of the facial nerve.",
+        "E": "Lhermitte sign is an electric shock-like sensation with neck movement, commonly associated with cervical spinal cord pathology."
+      },
       "topicId": "endo-calcium",
       "subtopic": "Calcium signs",
       "difficulty": "medium"
@@ -1774,7 +1816,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Respiratory alkalosis increases calcium binding to albumin, lowering ionized calcium.",
+      "why": "Hyperventilation reduces arterial carbon dioxide and produces respiratory alkalosis. Higher pH increases albumin binding of calcium, decreasing physiologically active ionised calcium despite unchanged total calcium concentration and increasing neuromuscular excitability.",
+      "notes": {
+        "A": "Acidosis generally decreases albumin calcium binding and increases the ionised fraction, rather than explaining tetany after hyperventilation.",
+        "B": "Respiratory alkalosis primarily changes the distribution between bound and ionised calcium, rather than necessarily increasing total plasma calcium.",
+        "D": "Acidosis can increase ionised calcium, but hyperventilation lowers carbon dioxide and produces alkalosis rather than the stated acidic disturbance.",
+        "E": "Changes in free magnesium do not best explain this classic presentation; reduced ionised calcium increases neuromuscular excitability."
+      },
       "topicId": "endo-calcium",
       "subtopic": "Calcium physiology",
       "difficulty": "hard"
@@ -1806,7 +1854,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "High extracellular calcium reduces neural and muscular excitability.",
+      "why": "High extracellular calcium increases the threshold for activation of excitable membranes, reducing neuromuscular responsiveness. Significant hypercalcaemia may therefore cause weakness, lethargy and diminished tendon reflexes, contrasting with the tetany of hypocalcaemia.",
+      "notes": {
+        "A": "Carpopedal spasm is characteristic of increased neuromuscular excitability, commonly from reduced rather than increased ionised calcium.",
+        "B": "Repetitive clonic seizures are more characteristic of severe hypocalcaemic hyperexcitability, although many metabolic disturbances may cause seizures.",
+        "C": "Raised neuronal excitability is the classic effect of reduced extracellular calcium, whereas hypercalcaemia generally depresses neuromuscular responsiveness.",
+        "E": "Latent tetany reflects increased nerve and muscle excitability and is more commonly associated with hypocalcaemia or alkalosis."
+      },
       "topicId": "endo-calcium",
       "subtopic": "Calcium physiology",
       "difficulty": "easy"
@@ -1838,7 +1892,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Osteoblasts produce the organic bone matrix.",
+      "why": "Osteoblasts are bone-forming cells that secrete osteoid, an organic matrix rich in type I collagen and non-collagenous proteins. Subsequent mineral deposition within this matrix produces mechanically strong mature bone.",
+      "notes": {
+        "A": "Osteoclasts are multinucleated cells that resorb mineralised bone through acidification and proteolysis rather than secreting new osteoid.",
+        "B": "Osteocytes are mature embedded bone cells that sense mechanical loading and regulate remodelling, rather than being the principal osteoid-secreting population.",
+        "C": "Chondroclasts resorb mineralised cartilage during skeletal development and do not provide the principal source of new bone matrix.",
+        "D": "Chondrocytes produce cartilage matrix, which differs from the type I collagen-rich osteoid deposited by bone-forming osteoblasts."
+      },
       "topicId": "endo-calcium",
       "subtopic": "Bone physiology",
       "difficulty": "easy"
@@ -1870,7 +1930,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Impaired resorption causes unusually dense bone, with narrowed marrow spaces.",
+      "why": "Osteoclasts remove mineralised bone during normal remodelling. Severe impairment of their development or resorptive function causes osteopetrosis, characterised by excessively dense but often brittle bones and possible reduction of marrow space.",
+      "notes": {
+        "B": "Osteoporosis involves reduced bone mass and disrupted microarchitecture, commonly reflecting an imbalance favouring resorption rather than severely impaired osteoclast function.",
+        "C": "Osteomalacia results from inadequate mineralisation of newly deposited adult bone matrix, rather than failure to resorb existing mineralised bone.",
+        "D": "Rickets involves defective mineralisation at growing skeletal growth plates, rather than excessive retention of bone from impaired resorption.",
+        "E": "Osteomyelitis is infection and inflammation of bone, rather than an inherited or acquired failure of osteoclastic bone resorption."
+      },
       "topicId": "endo-calcium",
       "subtopic": "Bone physiology",
       "difficulty": "medium"
@@ -1902,7 +1968,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Hydroxyapatite adds compressive rigidity while collagen provides tensile strength.",
+      "why": "Hydroxyapatite crystals provide bone with hardness and resistance to compressive forces. Type I collagen contributes tensile strength and toughness, while their organised combination creates a composite tissue resistant to multiple forms of mechanical loading.",
+      "notes": {
+        "A": "Type I collagen provides tensile strength and flexibility, rather than the major compressive rigidity contributed by inorganic mineral crystals.",
+        "C": "Unmineralised osteoid is the organic precursor of bone and lacks much of the compressive stiffness provided by deposited mineral.",
+        "D": "Cartilage proteoglycans resist compression within hydrated cartilage, but mineralised bone chiefly gains compressive rigidity from hydroxyapatite.",
+        "E": "Elastic fibres support recoil in specialised connective tissues and are not the principal load-bearing mineral component of normal bone."
+      },
       "topicId": "endo-calcium",
       "subtopic": "Bone physiology",
       "difficulty": "easy"
@@ -1934,7 +2006,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Rickets is defective mineralization in developing skeletal bone.",
+      "why": "Vitamin D deficiency reduces efficient intestinal calcium and phosphate absorption and can impair mineralisation of growing bone and growth plates. This produces rickets, with skeletal deformities such as bowed legs under weight-bearing forces.",
+      "notes": {
+        "A": "Osteoporosis is reduced bone mass with relatively normal mineralisation of remaining matrix, rather than the characteristic growth-plate mineralisation defect in children.",
+        "B": "Osteopetrosis causes abnormally dense bone through impaired osteoclastic resorption, rather than vitamin D-related failure of mineral deposition.",
+        "D": "Osteomyelitis is infection of bone, typically associated with inflammatory features rather than the characteristic nutritional growth-plate abnormality.",
+        "E": "Osteogenesis imperfecta usually involves defects in type I collagen and bone fragility, rather than acquired vitamin D-deficient growth-plate mineralisation."
+      },
       "topicId": "endo-calcium",
       "subtopic": "Bone disorders",
       "difficulty": "medium"
@@ -1966,7 +2044,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Osteoporosis reduces bone mass whereas osteomalacia decreases osteoid mineralization.",
+      "why": "Osteoporosis involves reduced bone quantity and deterioration of microarchitecture, with relatively preserved mineralisation of remaining matrix. Osteomalacia instead involves defective mineralisation of osteoid, leaving excess unmineralised matrix despite ongoing bone formation.",
+      "notes": {
+        "A": "Excess collagen is not the defining feature of osteoporosis, and serum calcium may remain normal in osteomalacia despite impaired mineralisation.",
+        "B": "Osteoclast activity and phosphate deficiency can contribute to these conditions, but neither pairing defines their fundamental structural difference.",
+        "C": "Calcitonin excess and PTH deficiency do not define the two disorders; the key distinction is bone quantity versus mineralisation quality.",
+        "E": "Reduced marrow space is more characteristic of osteopetrosis, while excess unmineralised osteoid characterises osteomalacia but does not identify osteoporosis."
+      },
       "topicId": "endo-calcium",
       "subtopic": "Bone disorders",
       "difficulty": "hard"
@@ -1998,7 +2082,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Renal 1-alpha-hydroxylase converts 25-hydroxyvitamin D to calcitriol.",
+      "why": "Renal proximal tubular cells express 1-alpha-hydroxylase, which converts liver-derived 25-hydroxyvitamin D into calcitriol. This final major activation step is regulated by PTH, phosphate-related signals and feedback from active vitamin D.",
+      "notes": {
+        "A": "Hepatocytes carry out the earlier 25-hydroxylation of vitamin D, rather than the main regulated final activation to calcitriol.",
+        "B": "Thyroid follicular cells synthesise thyroid hormones through iodination of thyroglobulin and are not the principal site of calcitriol activation.",
+        "C": "Adrenal medullary cells produce catecholamines and do not account for the main endocrine production of active vitamin D.",
+        "D": "Intestinal mucosa responds to calcitriol by increasing mineral absorption, rather than serving as its primary regulated systemic production site."
+      },
       "topicId": "endo-calcium",
       "subtopic": "Vitamin D",
       "difficulty": "easy"
@@ -2030,7 +2120,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "PTH upregulates 1-alpha-hydroxylase during calcium deficiency.",
+      "why": "Parathyroid hormone increases renal proximal tubular 1-alpha-hydroxylase activity, promoting conversion of 25-hydroxyvitamin D into calcitriol. This response supports calcium homeostasis by increasing intestinal mineral absorption during conditions such as reduced circulating ionised calcium.",
+      "notes": {
+        "B": "Calcitonin principally inhibits osteoclast-mediated resorption and is not the main physiological stimulus driving renal calcitriol production during hypocalcaemia.",
+        "C": "Glucagon regulates hepatic glucose production during fasting and does not provide the principal calcium-regulated stimulus to renal vitamin D activation.",
+        "D": "TSH stimulates thyroid follicular hormone synthesis and release, rather than regulating the renal enzyme that activates vitamin D.",
+        "E": "Adrenaline mediates acute sympathetic metabolic responses, whereas renal calcitriol production is stimulated chiefly by PTH and mineral-related regulatory signals."
+      },
       "topicId": "endo-calcium",
       "subtopic": "Vitamin D",
       "difficulty": "easy"
@@ -2062,7 +2158,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Calcitriol upregulates intestinal transport proteins to enhance calcium absorption.",
+      "why": "Calcitriol activates intestinal vitamin D receptors, increasing expression of proteins involved in transcellular calcium entry, intracellular handling and basolateral export. Enhanced calcium absorption helps maintain extracellular calcium concentration and supplies mineral for normal skeletal mineralisation.",
+      "notes": {
+        "A": "Reduced intestinal calcium transport would impair calcium acquisition, whereas calcitriol increases the capacity for active intestinal calcium absorption.",
+        "C": "Renal calcium handling can be influenced by calcitriol, but increased renal secretion is neither its principal gut action nor a calcium-conserving mechanism.",
+        "D": "Calcitriol generally supports normal bone mineralisation by improving mineral availability, although its skeletal actions depend on physiological context.",
+        "E": "Urinary phosphate excretion is regulated strongly by PTH and FGF23; calcitriol's specified intestinal effect is enhanced calcium uptake."
+      },
       "topicId": "endo-calcium",
       "subtopic": "Vitamin D",
       "difficulty": "medium"
@@ -2094,7 +2196,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "PTH promotes phosphate loss through the kidneys.",
+      "why": "PTH reduces expression of sodium–phosphate cotransporters in proximal tubular cells, decreasing renal phosphate reabsorption and increasing urinary phosphate loss. This phosphaturic effect can outweigh phosphate released from bone, lowering serum phosphate in primary hyperparathyroidism.",
+      "notes": {
+        "A": "Increased renal phosphate reabsorption would favour phosphate retention and oppose the characteristic phosphaturic response to excess PTH.",
+        "B": "PTH-stimulated calcitriol can enhance intestinal phosphate absorption; the low serum phosphate is explained primarily by renal phosphate wasting.",
+        "D": "Bone resorption may increase under sustained PTH exposure, so complete suppression of skeletal phosphate release is not the usual explanation.",
+        "E": "Calcitonin is not the principal mediator of the renal phosphate loss characteristic of primary hyperparathyroidism; PTH directly alters proximal tubular transport."
+      },
       "topicId": "endo-calcium",
       "subtopic": "PTH",
       "difficulty": "medium"
@@ -2126,7 +2234,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Low ionized calcium reduces CaSR activation and permits more PTH release.",
+      "why": "Parathyroid chief cells detect extracellular ionised calcium through the calcium-sensing receptor. Falling calcium reduces inhibitory receptor signalling and rapidly increases PTH secretion, initiating responses that conserve calcium and restore its circulating concentration.",
+      "notes": {
+        "A": "Reduced PTH secretion would oppose calcium recovery and is more characteristic of increased extracellular calcium activating the calcium-sensing receptor.",
+        "B": "Calcitonin is released from thyroid parafollicular cells, chiefly in response to increased calcium, rather than from parathyroid chief cells.",
+        "C": "PTH stimulates renal calcitriol production during calcium deficiency, so reduced calcitriol formation is not the normal compensatory response.",
+        "E": "Increased skeletal mineral deposition alone would consume circulating calcium, whereas the immediate chief-cell response is increased hormone secretion."
+      },
       "topicId": "endo-calcium",
       "subtopic": "PTH",
       "difficulty": "medium"
@@ -2158,7 +2272,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Low PTH causes hypocalcaemia and reduced renal phosphate excretion.",
+      "why": "Loss of PTH reduces renal calcium conservation and calcitriol synthesis while removing its inhibitory effect on proximal phosphate reabsorption. Consequently, circulating calcium tends to fall and phosphate tends to rise, producing the characteristic hypoparathyroid pattern.",
+      "notes": {
+        "A": "High calcium with low phosphate is more typical of excessive PTH activity, rather than complete absence of its secretion.",
+        "B": "High calcium is not the expected direct consequence of PTH loss, despite increased phosphate retention from reduced phosphaturic signalling.",
+        "C": "Low calcium is expected, but phosphate generally rises because the kidney no longer receives normal PTH-mediated phosphaturic stimulation.",
+        "D": "Normal calcium with low phosphate does not reflect the combined reduction in calcium-conserving actions and phosphate excretion following PTH loss."
+      },
       "topicId": "endo-calcium",
       "subtopic": "PTH",
       "difficulty": "hard"
@@ -2190,7 +2310,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Calcitonin restrains osteoclast-mediated bone resorption.",
+      "why": "Calcitonin released from thyroid parafollicular cells binds receptors on osteoclasts and suppresses their bone-resorbing activity. This reduces calcium release from mineralised bone, although calcitonin has a relatively limited role in long-term calcium homeostasis in adults.",
+      "notes": {
+        "B": "Stimulating osteoclast activity would increase calcium release from bone, opposing the principal calcium-lowering action of calcitonin.",
+        "C": "Enhanced intestinal calcium absorption would increase calcium availability and is chiefly associated with calcitriol rather than calcitonin's direct skeletal action.",
+        "D": "Increased renal calcium retention would conserve circulating calcium rather than explain the calcium-lowering effect produced by osteoclast inhibition.",
+        "E": "Increased calcitriol production generally supports intestinal calcium uptake and is primarily stimulated by PTH rather than calcitonin acting on bone."
+      },
       "topicId": "endo-calcium",
       "subtopic": "Calcitonin",
       "difficulty": "medium"
@@ -2222,7 +2348,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The outer adrenal cortical zone produces mineralocorticoids, principally aldosterone.",
+      "why": "The zona glomerulosa is the outer adrenal cortical layer and expresses aldosterone synthase, enabling mineralocorticoid production. Its secretion is regulated predominantly by angiotensin II and extracellular potassium, supporting sodium and potassium balance.",
+      "notes": {
+        "A": "Cortisol is produced mainly by the zona fasciculata under ACTH regulation, rather than the mineralocorticoid-producing zona glomerulosa.",
+        "C": "Dehydroepiandrosterone is an adrenal androgen precursor produced predominantly in the zona reticularis, rather than the outer cortical layer.",
+        "D": "Adrenaline is synthesised by adrenal medullary chromaffin cells, which are anatomically distinct from the outer adrenal cortex.",
+        "E": "Noradrenaline is a catecholamine produced by medullary chromaffin cells and sympathetic neurons, rather than the principal product of zona glomerulosa."
+      },
       "topicId": "endo-adrenal",
       "subtopic": "Adrenal zones",
       "difficulty": "medium"
@@ -2254,7 +2386,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The zona fasciculata produces most cortisol.",
+      "why": "The zona fasciculata forms the thick middle adrenal cortical layer and contains the enzymes required for glucocorticoid synthesis. ACTH stimulates its steroidogenic activity, making it the principal source of circulating cortisol in healthy adults.",
+      "notes": {
+        "A": "The zona glomerulosa produces aldosterone and lacks the normal enzyme complement required for the major cortisol synthesis pathway.",
+        "B": "The zona reticularis produces predominantly adrenal androgen precursors, although some glucocorticoid synthesis can occur in inner cortical cells.",
+        "D": "The adrenal medulla produces catecholamines in response to sympathetic stimulation and does not synthesise most circulating cortisol.",
+        "E": "The adrenal capsule is a connective-tissue covering rather than a differentiated steroidogenic zone responsible for systemic cortisol production."
+      },
       "topicId": "endo-adrenal",
       "subtopic": "Adrenal zones",
       "difficulty": "easy"
@@ -2286,7 +2424,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The zona reticularis contributes androgen precursors such as DHEA.",
+      "why": "The zona reticularis is the innermost adrenal cortical layer and preferentially produces androgen precursors including DHEA and DHEA sulphate. Reduced activity therefore primarily lowers adrenal androgen output, with potential effects on androgen-dependent tissues.",
+      "notes": {
+        "A": "Adrenaline production occurs in chromaffin cells of the adrenal medulla, not principally in the androgen-producing zona reticularis.",
+        "B": "Aldosterone synthesis occurs predominantly in the zona glomerulosa, so a selective reticularis lesion does not directly remove its main source.",
+        "C": "Thyroxine is synthesised by thyroid follicular cells and is not an adrenal cortical steroid product.",
+        "E": "Pancreatic beta cells secrete insulin independently of direct steroid synthesis in the adrenal zona reticularis."
+      },
       "topicId": "endo-adrenal",
       "subtopic": "Adrenal zones",
       "difficulty": "medium"
@@ -2318,7 +2462,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "CRH stimulates ACTH release, which drives adrenal cortisol synthesis.",
+      "why": "Hypothalamic corticotropin-releasing hormone stimulates anterior pituitary corticotrophs to release ACTH. ACTH activates adrenal cortical cortisol synthesis, and circulating cortisol feeds back on both hypothalamus and pituitary to regulate the stress axis.",
+      "notes": {
+        "A": "TRH stimulates TSH release and thyroid hormone production, rather than forming the principal hypothalamic–pituitary pathway controlling cortisol.",
+        "B": "GnRH stimulates gonadotropin secretion and gonadal steroid production, rather than providing the direct pituitary stimulus to adrenal cortisol synthesis.",
+        "C": "GHRH promotes growth hormone secretion and downstream IGF-1 signalling, whereas adrenal cortisol production is predominantly controlled by ACTH.",
+        "D": "CRH stimulates corticotrophs to release ACTH rather than thyrotrophs releasing TSH, which regulates thyroid hormone synthesis."
+      },
       "topicId": "endo-adrenal",
       "subtopic": "Cortisol regulation",
       "difficulty": "easy"
@@ -2350,7 +2500,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Exogenous glucocorticoids inhibit CRH and ACTH, causing adrenal cortical suppression.",
+      "why": "Prolonged exogenous glucocorticoid exposure suppresses hypothalamic CRH and pituitary ACTH through negative feedback. Reduced trophic ACTH stimulation can cause adrenal cortical atrophy, leaving insufficient endogenous cortisol production when treatment is withdrawn abruptly.",
+      "notes": {
+        "B": "The principal suppression concerns adrenal cortical glucocorticoid production, rather than acute destruction of catecholamine-producing adrenal medullary cells.",
+        "C": "Glucocorticoid treatment suppresses the hypothalamic–pituitary–adrenal axis without necessarily destroying mineralocorticoid receptors or abolishing their responsiveness.",
+        "D": "Renin–angiotensin signalling often remains relatively preserved in secondary adrenal suppression; chronic ACTH deficiency explains impaired cortisol production.",
+        "E": "Thyroid hormone receptors regulate a separate endocrine pathway and their loss is not the mechanism of glucocorticoid withdrawal-associated adrenal insufficiency."
+      },
       "topicId": "endo-adrenal",
       "subtopic": "Cortisol regulation",
       "difficulty": "hard"
@@ -2382,7 +2538,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Cortisol stimulates hepatic gluconeogenesis and mobilizes amino acid substrates.",
+      "why": "Cortisol supports fasting glucose availability by increasing hepatic expression of gluconeogenic enzymes and mobilising amino acid and other metabolic substrates. It also opposes some peripheral insulin actions, helping preserve circulating glucose during prolonged nutritional deprivation.",
+      "notes": {
+        "A": "Glucose uptake into peripheral tissues may decrease under cortisol influence; increased hepatic glucose production rather than uptake is the relevant fasting response.",
+        "C": "Cortisol influences glycogen metabolism, but inhibition of glycogenolysis alone does not explain generation of glucose from non-carbohydrate substrates.",
+        "D": "Lipid metabolism is also affected by cortisol, but exclusive triglyceride synthesis does not account for its role in maintaining fasting glucose.",
+        "E": "Glucose oxidation consumes glucose, whereas cortisol promotes production of glucose through hepatic gluconeogenesis during fasting."
+      },
       "topicId": "endo-adrenal",
       "subtopic": "Cortisol metabolism",
       "difficulty": "easy"
@@ -2414,7 +2576,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Cortisol suppresses collagen formation, weakening skin and vascular walls.",
+      "why": "Excess glucocorticoid signalling suppresses fibroblast proliferation and collagen synthesis while modifying inflammatory and repair responses. Reduced connective-tissue integrity makes skin and superficial vessels fragile, contributing to easy bruising, striae and delayed wound healing.",
+      "notes": {
+        "A": "Increased collagen deposition would generally strengthen connective tissue rather than explain glucocorticoid-associated thinning and fragility of skin.",
+        "B": "Glucocorticoids suppress rather than promote many fibroblast proliferative and matrix-synthetic responses required for normal tissue repair.",
+        "D": "Enhanced capillary and surrounding tissue strength would reduce bruising; glucocorticoid-related connective-tissue loss increases susceptibility to injury.",
+        "E": "Increased elastin production is not the main established mechanism of glucocorticoid-impaired repair, which involves suppressed matrix synthesis and cellular proliferation."
+      },
       "topicId": "endo-adrenal",
       "subtopic": "Cortisol metabolism",
       "difficulty": "medium"
@@ -2446,7 +2614,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Cortisol reduces bone formation and can impair intestinal calcium absorption.",
+      "why": "Prolonged glucocorticoid excess suppresses osteoblast differentiation and bone formation, increases osteoblast and osteocyte loss, and can impair calcium balance. Early increases in resorption and persistent reduction in formation contribute to glucocorticoid-induced osteoporosis.",
+      "notes": {
+        "A": "Enhanced osteoblast proliferation would support bone formation, whereas glucocorticoid excess characteristically suppresses osteoblast function and survival.",
+        "B": "Glucocorticoids can reduce intestinal calcium absorption, rather than increasing it as a protective mechanism against bone loss.",
+        "C": "Increased synthesis of bone collagen would favour osteoid production, but prolonged glucocorticoid exposure generally reduces osteoblast-dependent matrix formation.",
+        "E": "Complete blockade of osteoclasts would impair resorption; glucocorticoid-induced osteoporosis involves altered remodelling and particularly reduced bone formation."
+      },
       "topicId": "endo-adrenal",
       "subtopic": "Cortisol metabolism",
       "difficulty": "easy"
@@ -2478,7 +2652,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Cortisol supports normal vascular response to catecholamines.",
+      "why": "Cortisol has permissive effects on vascular responses to catecholamines and other pressor signals. Severe deficiency can reduce vascular tone and responsiveness during stress, contributing to hypotension, especially when concurrent mineralocorticoid deficiency causes volume depletion.",
+      "notes": {
+        "A": "Enhanced vascular alpha-adrenergic sensitivity would support vasoconstriction and arterial pressure rather than explain the impaired pressor response of cortisol deficiency.",
+        "B": "Excess renal sodium retention would support extracellular volume; primary adrenal insufficiency may instead cause sodium loss through aldosterone deficiency.",
+        "C": "Enhanced cardiac beta-adrenergic activity could support cardiac performance, but loss of cortisol reduces normal responsiveness to stress-related catecholamine signals.",
+        "D": "Angiotensin II may increase compensatorily during reduced perfusion, but its pressor action does not directly explain the hypotension caused by impaired vascular responsiveness."
+      },
       "topicId": "endo-adrenal",
       "subtopic": "Cortisol physiology",
       "difficulty": "hard"
@@ -2510,7 +2690,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Primary adrenal failure lowers cortisol and aldosterone while ACTH rises.",
+      "why": "Primary adrenal cortical failure reduces cortisol and often aldosterone secretion. Mineralocorticoid deficiency causes sodium loss and potassium retention, while loss of cortisol feedback raises ACTH and melanocortin signalling, explaining hypotension and hyperpigmentation.",
+      "notes": {
+        "B": "Secondary adrenal insufficiency usually preserves aldosterone and does not produce marked ACTH-driven pigmentation, although cortisol deficiency can cause hyponatraemia.",
+        "C": "Primary hyperaldosteronism typically causes hypertension and sometimes hypokalaemia, rather than the low-pressure hyperkalaemic pattern of mineralocorticoid deficiency.",
+        "D": "An ACTH-secreting pituitary tumour usually causes cortisol excess and Cushing disease, rather than primary adrenal failure with combined steroid deficiency.",
+        "E": "Adrenal medullary hyperfunction produces catecholamine-related manifestations such as episodic hypertension and sweating, rather than this combined cortical hormone-deficiency pattern."
+      },
       "topicId": "endo-adrenal",
       "subtopic": "Adrenal insufficiency",
       "difficulty": "hard"
@@ -2542,7 +2728,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Secondary adrenal insufficiency often preserves RAAS-controlled aldosterone production.",
+      "why": "Pituitary ACTH deficiency reduces cortisol synthesis in the zona fasciculata while usually preserving aldosterone regulation through angiotensin II and potassium. Low or inappropriately normal ACTH also avoids the marked melanocortin stimulation characteristic of primary adrenal failure.",
+      "notes": {
+        "A": "Bilateral adrenal destruction can impair both cortisol and aldosterone production and usually increases ACTH through loss of negative feedback.",
+        "C": "Selective glomerulosa failure primarily decreases aldosterone while preserving cortisol production from other cortical zones, opposite to the pattern described.",
+        "D": "Bilateral adrenal haemorrhage can cause primary adrenal insufficiency involving multiple cortical hormone pathways and compensatory ACTH elevation.",
+        "E": "Congenital aldosterone deficiency primarily impairs mineralocorticoid production rather than selectively reducing cortisol while maintaining aldosterone."
+      },
       "topicId": "endo-adrenal",
       "subtopic": "Adrenal insufficiency",
       "difficulty": "medium"
@@ -2574,7 +2766,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Aldosterone promotes sodium uptake and potassium and hydrogen ion secretion.",
+      "why": "Aldosterone activates mineralocorticoid receptors in late distal nephron principal cells, increasing epithelial sodium channel activity and basolateral sodium–potassium ATPase. Enhanced sodium reabsorption commonly facilitates potassium secretion and supports extracellular fluid volume.",
+      "notes": {
+        "A": "Increased urinary sodium excretion is a natriuretic response, whereas aldosterone generally promotes sodium conservation in responsive distal tubular cells.",
+        "B": "Aldosterone commonly increases potassium secretion through changes in sodium transport and potassium-channel activity, rather than suppressing it.",
+        "D": "Aldosterone can enhance distal hydrogen ion secretion through intercalated-cell mechanisms, rather than characteristically decreasing renal acid secretion.",
+        "E": "Aldosterone increases the expression and activity of epithelial sodium channels, while drugs such as amiloride block those channels."
+      },
       "topicId": "endo-adrenal",
       "subtopic": "Aldosterone",
       "difficulty": "medium"
@@ -2606,7 +2804,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Mineralocorticoid excess retains sodium while increasing potassium and hydrogen loss.",
+      "why": "Excess aldosterone increases distal sodium reabsorption and promotes potassium and hydrogen ion secretion. Sodium retention can expand extracellular volume and cause hypertension, while increased potassium and acid loss may produce hypokalaemia and metabolic alkalosis.",
+      "notes": {
+        "A": "Vasopressin primarily conserves water through collecting-duct aquaporins and does not characteristically produce the combined potassium-wasting alkalotic pattern.",
+        "B": "Calcitonin inhibits osteoclast activity and influences calcium metabolism, rather than being the main hormone responsible for distal sodium retention and potassium loss.",
+        "C": "Somatostatin inhibits several endocrine and gastrointestinal secretions, but does not produce the characteristic mineralocorticoid pattern of electrolyte disturbances.",
+        "E": "Thyroxine excess can increase cardiovascular activity, but it does not directly explain the combination of potassium wasting and metabolic alkalosis."
+      },
       "topicId": "endo-adrenal",
       "subtopic": "Aldosterone",
       "difficulty": "hard"
@@ -2638,7 +2842,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Juxtaglomerular granular cells produce and secrete renin.",
+      "why": "Juxtaglomerular granular cells are modified arteriolar smooth-muscle cells, located mainly in the afferent arteriole near the renal corpuscle. Reduced perfusion pressure, beta-1 stimulation and low macula densa sodium chloride delivery promote renin secretion.",
+      "notes": {
+        "A": "Proximal tubular epithelial cells perform extensive solute reabsorption and vitamin D activation, rather than serving as the principal renin-releasing cells.",
+        "B": "Chromaffin cells release catecholamines from the adrenal medulla and are not the main source of renal renin.",
+        "C": "Podocytes provide filtration slit structures within renal corpuscles, rather than secreting renin in response to reduced renal perfusion.",
+        "D": "Collecting-duct principal cells regulate distal sodium, potassium and water handling, rather than supplying the principal circulating renin response."
+      },
       "topicId": "endo-adrenal",
       "subtopic": "RAAS",
       "difficulty": "medium"
@@ -2670,7 +2880,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "ACE converts angiotensin I to II, notably at pulmonary endothelium.",
+      "why": "Angiotensin-converting enzyme removes a terminal dipeptide from angiotensin I to form the active octapeptide angiotensin II. ACE is expressed on vascular endothelial surfaces, prominently in pulmonary vessels, and also contributes to bradykinin degradation.",
+      "notes": {
+        "B": "Renin cleaves angiotensinogen to produce angiotensin I, rather than catalysing the subsequent conversion to active angiotensin II.",
+        "C": "Aldosterone synthase catalyses final steroidogenic steps in zona glomerulosa cells, rather than processing circulating angiotensin peptides.",
+        "D": "Adrenal 11-beta-hydroxylase participates in cortisol and corticosterone synthesis, not the conversion of angiotensin I to angiotensin II.",
+        "E": "Aromatase converts androgen precursors into oestrogens, rather than acting as a peptide-cleaving enzyme in the renin–angiotensin system."
+      },
       "topicId": "endo-adrenal",
       "subtopic": "RAAS",
       "difficulty": "easy"
@@ -2702,7 +2918,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Hyperkalaemia directly stimulates adrenal glomerulosa cells.",
+      "why": "Raised extracellular potassium depolarises zona glomerulosa cells, increasing calcium entry and steroidogenic signalling. This directly stimulates aldosterone synthesis independently of pituitary ACTH, promoting renal potassium excretion and helping restore potassium balance.",
+      "notes": {
+        "A": "Reduced extracellular potassium generally decreases aldosterone stimulation, thereby limiting further potassium loss rather than provoking increased mineralocorticoid secretion.",
+        "C": "Elevated plasma sodium is not the principal direct glomerulosa stimulus; potassium and angiotensin II dominate physiological aldosterone regulation.",
+        "D": "Reduced angiotensin II removes an important stimulatory signal for aldosterone synthesis, rather than directly increasing its secretion.",
+        "E": "Reduced renal renin output generally decreases angiotensin II formation and consequently reduces renin–angiotensin-dependent stimulation of aldosterone."
+      },
       "topicId": "endo-adrenal",
       "subtopic": "RAAS",
       "difficulty": "hard"
@@ -2734,7 +2956,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Chromaffin cells are stimulated by cholinergic sympathetic preganglionic fibres.",
+      "why": "Adrenal chromaffin cells receive acetylcholine from sympathetic preganglionic fibres travelling through splanchnic nerves. Activation of nicotinic receptors depolarises the cells, increases intracellular calcium and triggers rapid exocytosis of stored catecholamines.",
+      "notes": {
+        "A": "The adrenal medulla is innervated by sympathetic preganglionic fibres, rather than by postganglionic parasympathetic secretomotor neurons.",
+        "B": "Oxytocin is released from the posterior pituitary and is not the principal direct signal causing acute adrenal catecholamine secretion.",
+        "D": "Adrenal cortical cortisol supports adrenaline synthesis by inducing PNMT, but rapid chromaffin-cell exocytosis is triggered chiefly by neural acetylcholine.",
+        "E": "Angiotensin I is a renin-generated precursor peptide, rather than the immediate neurotransmitter released onto chromaffin cells during sympathetic activation."
+      },
       "topicId": "endo-adrenal",
       "subtopic": "Adrenal medulla",
       "difficulty": "easy"
@@ -2766,7 +2994,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Phaeochromocytoma produces excess catecholamines; fractionated metanephrines are useful biochemical markers.",
+      "why": "Phaeochromocytomas arise from chromaffin cells and may produce catecholamine-related episodes of headache, sweating and hypertension. Plasma free metanephrines or urinary fractionated metanephrines detect their metabolites, which can be produced continuously even between secretory episodes.",
+      "notes": {
+        "A": "Reduced urinary catecholamines do not support excessive catecholamine production, although tumour secretion and measured concentrations can vary with sampling conditions.",
+        "B": "Catecholamine excess commonly increases hepatic glucose output and can raise blood glucose, rather than characteristically causing persistent hypoglycaemia.",
+        "C": "Absent circulating adrenaline would not support a catecholamine-producing tumour, although individual tumours differ in the catecholamines they predominantly produce.",
+        "E": "Low urinary catecholamine metabolites do not provide positive biochemical evidence of a chromaffin tumour; elevated fractionated metanephrines are more informative."
+      },
       "topicId": "endo-adrenal",
       "subtopic": "Adrenal medulla",
       "difficulty": "medium"
@@ -2798,7 +3032,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Beta-2 activation relaxes arteriolar smooth muscle in skeletal muscle.",
+      "why": "At relatively modest concentrations, adrenaline can activate beta-2 adrenergic receptors in skeletal-muscle vascular smooth muscle. Gs-dependent cAMP signalling promotes relaxation, producing vasodilatation that can oppose alpha-mediated constriction depending on local receptor balance.",
+      "notes": {
+        "A": "Alpha-1 receptor activation increases vascular smooth-muscle calcium signalling and generally causes vasoconstriction rather than the described adrenergic relaxation.",
+        "B": "Muscarinic M3 signalling can stimulate endothelial nitric oxide release in some vessels, but adrenaline does not act as its physiological agonist.",
+        "C": "Angiotensin AT1 receptors mediate many vasoconstrictor actions of angiotensin II, rather than adrenaline-induced skeletal muscle vasodilatation.",
+        "D": "Vasopressin V1 receptors promote vascular smooth-muscle contraction, whereas adrenaline-mediated relaxation in this setting principally involves beta-2 receptors."
+      },
       "topicId": "endo-adrenal",
       "subtopic": "Catecholamines",
       "difficulty": "hard"
@@ -2830,7 +3070,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Beta-1 signalling increases contractility, heart rate and atrioventricular conduction.",
+      "why": "Cardiac beta-1 receptor activation stimulates Gs-dependent cAMP and protein kinase A signalling, enhancing calcium entry and sarcoplasmic reticulum calcium release. Increased calcium availability strengthens myocardial contraction and also supports faster pacemaker firing and conduction.",
+      "notes": {
+        "B": "Beta-1 stimulation generally accelerates atrioventricular nodal conduction, whereas reduced conduction speed is more characteristic of parasympathetic influence.",
+        "C": "Sinoatrial beta-1 activation increases pacemaker depolarisation and heart rate, rather than reducing the frequency of spontaneous firing.",
+        "D": "Beta-1 signalling enhances calcium handling, including L-type calcium entry, rather than reducing the calcium transient responsible for contraction.",
+        "E": "Beta-1 receptors activate adenylyl cyclase through Gs proteins, increasing myocardial cAMP rather than lowering its intracellular concentration."
+      },
       "topicId": "endo-adrenal",
       "subtopic": "Catecholamines",
       "difficulty": "easy"
@@ -2862,7 +3108,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Excess cortisol breaks down proteins and produces proximal myopathy.",
+      "why": "Chronic cortisol excess increases skeletal muscle protein catabolism and inhibits anabolic processes, releasing amino acid substrates for hepatic gluconeogenesis. Loss of muscle protein and atrophy, particularly in proximal muscles, contribute to the characteristic glucocorticoid myopathy.",
+      "notes": {
+        "A": "Cortisol promotes hepatic glucose production, but reduced hepatic glucose output does not explain the proximal loss of muscle strength.",
+        "C": "Reduced protein degradation would tend to preserve muscle mass, whereas sustained glucocorticoid excess promotes net skeletal muscle protein loss.",
+        "D": "Increased muscle protein synthesis would oppose atrophy; glucocorticoid excess generally reduces anabolic signalling while promoting protein catabolism.",
+        "E": "Cortisol can oppose insulin-mediated peripheral glucose uptake, but increased glucose uptake is not the principal mechanism of glucocorticoid-induced proximal weakness."
+      },
       "topicId": "endo-adrenal",
       "subtopic": "Cushing syndrome",
       "difficulty": "hard"
@@ -2894,7 +3146,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Cushing disease denotes ACTH-dependent Cushing syndrome from a pituitary tumour.",
+      "why": "Cushing disease specifically denotes cortisol excess caused by a pituitary ACTH-secreting adenoma. It is one cause of Cushing syndrome, the broader clinical state of glucocorticoid excess arising from endogenous or exogenous sources.",
+      "notes": {
+        "A": "Addison disease describes primary adrenal insufficiency, which produces deficient rather than excessive cortisol secretion from the adrenal cortex.",
+        "B": "Conn syndrome classically refers to primary hyperaldosteronism, a mineralocorticoid excess disorder distinct from ACTH-dependent cortisol excess.",
+        "D": "Nelson syndrome involves progression of a corticotroph tumour after bilateral adrenalectomy, rather than the general name for pituitary-driven Cushing syndrome.",
+        "E": "Phaeochromocytoma is a chromaffin-cell tumour that produces catecholamines rather than a pituitary corticotroph adenoma causing cortisol excess."
+      },
       "topicId": "endo-adrenal",
       "subtopic": "Cushing syndrome",
       "difficulty": "medium"
@@ -2926,7 +3184,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Delta cells secrete somatostatin, inhibiting neighbouring alpha and beta cells.",
+      "why": "Pancreatic islet delta cells release somatostatin, which acts locally on neighbouring endocrine cells through inhibitory somatostatin receptors. This paracrine signalling restrains insulin and glucagon release, helping coordinate the islet response to nutrient and hormonal signals.",
+      "notes": {
+        "A": "Alpha cells secrete glucagon, which raises hepatic glucose output and is regulated partly by somatostatin from neighbouring delta cells.",
+        "B": "Beta cells produce insulin and amylin, rather than serving as the main source of inhibitory islet somatostatin.",
+        "C": "PP cells produce pancreatic polypeptide, which influences gastrointestinal and pancreatic function, rather than releasing the principal local islet somatostatin.",
+        "E": "Acinar cells are exocrine pancreatic cells that secrete digestive enzymes into ducts, rather than providing the main endocrine source of somatostatin."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Pancreatic islets",
       "difficulty": "easy"
@@ -2958,7 +3222,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "PP or F cells produce pancreatic polypeptide.",
+      "why": "Pancreatic polypeptide is secreted by specialised islet PP cells, also called F or gamma cells. These cells are particularly abundant in parts of the pancreatic head and their hormone participates in regulation of pancreatic and gastrointestinal function.",
+      "notes": {
+        "A": "Alpha cells secrete glucagon, which acts mainly to support glucose availability during fasting, rather than secreting pancreatic polypeptide.",
+        "B": "Beta cells synthesise insulin and amylin in response to metabolic signals, rather than being the principal source of pancreatic polypeptide.",
+        "C": "Delta cells produce somatostatin, which inhibits several nearby islet hormone secretions, rather than producing pancreatic polypeptide.",
+        "D": "Exocrine acinar and ductal cells produce digestive enzymes and bicarbonate-rich fluid respectively, rather than the endocrine hormone pancreatic polypeptide."
+      },
       "topicId": "endo-pancreas",
       "subtopic": "Pancreatic islets",
       "difficulty": "easy"
