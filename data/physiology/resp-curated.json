@@ -30,7 +30,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "IRV is the extra air that can be drawn in after a normal tidal inspiration.",
+      "why": "Inspiratory reserve volume is the additional volume that can be inhaled maximally after an ordinary tidal inspiration. It represents the inspiratory capacity remaining above the end of a normal inhalation.",
+      "notes": {
+        "B": "Extra air exhaled after a normal tidal expiration defines expiratory reserve volume, rather than an additional inspiratory volume.",
+        "C": "Air remaining after maximal expiration defines residual volume, which cannot be expelled during an ordinary spirometric manoeuvre.",
+        "D": "The volume inhaled or exhaled during quiet breathing is tidal volume, rather than the additional inspiratory reserve.",
+        "E": "The maximal volume moved between full inspiration and full expiration is vital capacity, which includes several component lung volumes."
+      },
       "topicId": "resp-mech",
       "subtopic": "Lung volumes",
       "difficulty": "easy"
@@ -62,7 +68,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "FRC (ERV + RV) is the air remaining in the lung at the end of a quiet expiration.",
+      "why": "Functional residual capacity is the volume remaining in the lungs at the end of passive tidal expiration. It combines the expiratory reserve volume with residual volume, reflecting the resting balance of lung and chest wall recoil.",
+      "notes": {
+        "A": "Vital capacity plus residual volume equals total lung capacity, the lung volume after a maximal inspiration.",
+        "C": "Tidal volume plus inspiratory reserve volume equals inspiratory capacity, measured from the end of quiet expiration to maximal inspiration.",
+        "D": "Inspiratory reserve volume and residual volume describe opposite extremes of lung volume and do not combine to define functional residual capacity.",
+        "E": "Tidal volume plus expiratory reserve volume omits residual volume, which forms part of the gas remaining after quiet expiration."
+      },
       "topicId": "resp-mech",
       "subtopic": "Lung capacities",
       "difficulty": "medium"
@@ -94,7 +106,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Inspiratory capacity is the most air that can be inspired from the resting expiratory level: TV + IRV.",
+      "why": "Inspiratory capacity is the maximum volume that can be inhaled starting at the end of a normal tidal expiration. It therefore includes one tidal inspiration and the additional inspiratory reserve volume above it.",
+      "notes": {
+        "A": "Residual volume plus expiratory reserve volume equals functional residual capacity, the volume already present before the inspiratory manoeuvre begins.",
+        "B": "Inspiratory reserve volume does not normally include residual volume, which remains in the lungs after maximal expiration.",
+        "D": "Tidal volume plus expiratory reserve volume includes a reserve below the starting expiratory level, rather than the full inspiratory reserve.",
+        "E": "Subtracting tidal volume from vital capacity leaves both inspiratory and expiratory reserves, rather than the volume available for inspiration from resting expiration."
+      },
       "topicId": "resp-mech",
       "subtopic": "Lung capacities",
       "difficulty": "medium"
@@ -126,7 +144,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The residual volume stays in the lung after maximal expiration, so no breath can deliver it to the spirometer; it is found indirectly.",
+      "why": "Simple spirometry records the volumes of gas entering or leaving the lungs through the instrument. Residual volume remains after maximal expiration and therefore requires indirect measurement, such as gas dilution or body plethysmography.",
+      "notes": {
+        "A": "Lung volumes can vary with physiological conditions, but ordinary breath-to-breath variation is not why residual volume cannot be recorded directly.",
+        "B": "Residual gas is not completely exchanged during each tidal breath; it remains within the lungs even after maximal voluntary expiration.",
+        "C": "Residual volume is defined at maximal expiration, not during forced inspiration, and remains inaccessible to ordinary direct spirometric measurement.",
+        "E": "The limitation is not insufficient instrumental sensitivity; residual gas cannot be moved out of the lungs into the spirometer."
+      },
       "topicId": "resp-mech",
       "subtopic": "Lung volumes",
       "difficulty": "medium"
@@ -158,7 +182,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Because gas remains in the alveoli between breaths, alveolar PO2 and PCO2 are kept within narrow limits rather than fluctuating with each inspiration.",
+      "why": "Gas retained in the lungs between breaths provides a reservoir that buffers fluctuations in alveolar gas composition. Functional residual capacity, which includes residual volume, is especially important in maintaining relatively stable alveolar oxygen and carbon dioxide tensions.",
+      "notes": {
+        "A": "Passive expiration is driven principally by elastic recoil of the respiratory system following inspiratory muscle relaxation, rather than by residual gas alone.",
+        "B": "Negative intrapleural pressure primarily reflects opposing elastic tendencies of the lungs and chest wall within the sealed pleural compartment.",
+        "C": "Surfactant is synthesised by type II alveolar epithelial cells, rather than being supplied by gas remaining after maximal expiration.",
+        "D": "Regional ventilation–perfusion matching depends on gravity, vascular and airway properties, and local regulation rather than residual volume alone."
+      },
       "topicId": "resp-mech",
       "subtopic": "Lung volumes",
       "difficulty": "medium"
@@ -190,7 +220,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Vital capacity rises with body size and build and is generally greater in males than females.",
+      "why": "Vital capacity generally increases with body and lung size, and population reference values vary with height, age and sex. Physical conditioning and respiratory muscle function can also influence measured performance, so individual comparisons are not absolute.",
+      "notes": {
+        "B": "Resting respiratory rate influences minute ventilation, but taking breaths more frequently does not directly increase maximal mobilisable lung volume.",
+        "C": "Anatomical dead space reflects conducting airway volume; a larger dead space does not itself explain a larger measured vital capacity.",
+        "D": "Reduced lung compliance increases the pressure required for expansion and can reduce lung volumes, as in restrictive pulmonary disease.",
+        "E": "A reduced functional residual capacity changes resting lung volume but does not necessarily increase the difference between total capacity and residual volume."
+      },
       "topicId": "resp-mech",
       "subtopic": "Vital capacity",
       "difficulty": "easy"
@@ -222,7 +258,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Supine, the abdominal viscera press the diaphragm up, reducing the volume available for expansion.",
+      "why": "When a person lies supine, abdominal contents tend to displace the diaphragm towards the thorax, reducing available lung expansion. The resulting changes in respiratory mechanics and central blood distribution may reduce measured vital capacity, particularly in susceptible individuals.",
+      "notes": {
+        "A": "A postural change does not principally reduce vital capacity by acutely increasing surfactant secretion, which normally helps maintain alveolar stability.",
+        "C": "Supine positioning generally reduces resting lung volume and alters regional pleural pressure; increased negative pressure is not the principal proposed mechanism.",
+        "D": "Pulmonary blood volume generally increases rather than falls when blood redistributes centrally from upright to supine posture.",
+        "E": "A decrease in airway resistance would facilitate airflow, rather than explain the mechanical limitation imposed by upward displacement of the diaphragm."
+      },
       "topicId": "resp-mech",
       "subtopic": "Vital capacity",
       "difficulty": "medium"
@@ -254,7 +296,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Restriction lowers volumes roughly in proportion, so the ratio is maintained; obstruction is what lowers the ratio.",
+      "why": "Restrictive disease reduces total lung capacity and usually reduces both forced expiratory volume in one second and vital capacity. Because these volumes fall proportionately or vital capacity falls more, their ratio generally remains normal or rises.",
+      "notes": {
+        "A": "Restriction is defined by a reduced total lung capacity; increased total capacity is more suggestive of hyperinflation than pulmonary fibrosis.",
+        "B": "Patients with restrictive disease can usually exhale forcibly, so a reduced maximal volume does not mean the expiratory ratio becomes zero.",
+        "D": "A substantially reduced FEV1/VC ratio is characteristic of airflow obstruction, rather than the classic proportional volume reduction of restriction.",
+        "E": "Marked residual-volume elevation with a reduced expiratory ratio suggests air trapping and obstruction, not the usual spirometric pattern of pulmonary fibrosis."
+      },
       "topicId": "resp-mech",
       "subtopic": "Lung function tests",
       "difficulty": "hard"
@@ -286,7 +334,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Compliance is ΔV/ΔP, a measure of the stretchability of the lung and chest wall.",
+      "why": "Lung compliance measures the change in lung volume produced by a change in transpulmonary distending pressure. A highly compliant lung expands more for a given pressure change, whereas a stiff lung has reduced compliance.",
+      "notes": {
+        "A": "Gas transfer per unit partial-pressure difference and time describes pulmonary diffusing capacity, not the mechanical distensibility of the lungs.",
+        "B": "Elastic recoil describes the tendency of expanded tissue to return towards a smaller volume; elastance is the reciprocal of compliance.",
+        "C": "Ventilation–perfusion ratio compares regional airflow with blood flow, rather than relating changes in lung volume to distending pressure.",
+        "E": "The pressure difference required to produce a specified airflow relates to airway resistance, rather than static lung compliance."
+      },
       "topicId": "resp-mech",
       "subtopic": "Compliance",
       "difficulty": "medium"
@@ -318,7 +372,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Emphysema destroys elastic tissue, so the lung is more easily distended and compliance rises; the others stiffen or restrict the lung.",
+      "why": "Emphysema destroys alveolar walls and elastic support, reducing lung elastic recoil and increasing static pulmonary compliance. Although the lungs expand relatively easily, reduced recoil and airway support impair expiration and promote air trapping.",
+      "notes": {
+        "A": "Pulmonary fibrosis increases tissue stiffness through structural remodelling, requiring greater distending pressure for a given volume change and reducing compliance.",
+        "B": "Pulmonary oedema increases lung fluid content and often decreases lung compliance, making respiratory expansion more difficult.",
+        "C": "Kyphoscoliosis restricts chest wall movement and reduces respiratory-system compliance, rather than producing the high static lung compliance characteristic of emphysema.",
+        "D": "Bronchial obstruction primarily increases airway resistance and can reduce dynamic compliance; obstruction alone does not establish increased static lung compliance."
+      },
       "topicId": "resp-mech",
       "subtopic": "Compliance",
       "difficulty": "medium"
@@ -350,7 +410,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "By reducing surface tension, surfactant stabilises alveoli and opposes the collapse that high surface tension would cause.",
+      "why": "Dipalmitoylphosphatidylcholine is a major surface-active phospholipid in pulmonary surfactant. By lowering surface tension at the alveolar air–liquid interface, particularly at smaller surface areas, it reduces collapsing pressure and helps stabilise differently sized alveoli.",
+      "notes": {
+        "B": "Reducing surface tension decreases the surface-tension component of lung elastic recoil, rather than increasing the collapsing force.",
+        "C": "Anatomical dead space depends on conducting airway volume, which is not the principal target of alveolar surfactant action.",
+        "D": "Surfactant improves alveolar stability and reduces inflation work, rather than chiefly increasing resistance within conducting airways during expiration.",
+        "E": "Carbon dioxide crosses the gas-exchange barrier by diffusion down its partial-pressure gradient; alveolar stabilisation is the more direct surfactant function."
+      },
       "topicId": "resp-mech",
       "subtopic": "Surfactant",
       "difficulty": "medium"
@@ -382,7 +448,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "High surface tension tends to suck fluid from the capillaries into the alveoli; surfactant reduces this pull.",
+      "why": "Lower alveolar surface tension reduces the tendency of the air–liquid interface to generate forces favouring fluid accumulation in airspaces. This supports alveolar stability, alongside low capillary filtration pressure, epithelial barrier function and active alveolar fluid clearance.",
+      "notes": {
+        "A": "Capillary recruitment is determined mainly by vascular pressures and perfusion conditions, rather than being the direct fluid-protective effect of surfactant.",
+        "C": "Plasma oncotic pressure depends chiefly on circulating proteins such as albumin, not on the phospholipids lining the alveolar airspace.",
+        "D": "Raised pulmonary venous pressure increases capillary hydrostatic pressure and can favour oedema, rather than explaining surfactant's protective role.",
+        "E": "A thicker alveolar–capillary barrier would hinder gas diffusion; surfactant acts at the air–liquid interface without requiring membrane thickening."
+      },
       "topicId": "resp-mech",
       "subtopic": "Surfactant",
       "difficulty": "hard"
@@ -446,7 +518,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Roughly 150 ml fills the anatomical dead space and 350 ml reaches the alveoli.",
+      "why": "A typical resting adult tidal volume is approximately 500 mL, of which roughly 150 mL occupies conducting airways that do not perform gas exchange. The remaining approximately 350 mL contributes to alveolar ventilation, assuming negligible alveolar dead space.",
+      "notes": {
+        "A": "Most of an ordinary tidal breath reaches gas-exchanging regions; only a fraction occupies the conducting airway dead space.",
+        "B": "Anatomical dead space consists of ventilated conducting airways, not a small volume trapped exclusively behind closed bronchioles.",
+        "C": "A vascular shunt describes blood bypassing ventilated alveoli, rather than the volume of inspired air occupying conducting airways.",
+        "E": "Approximately 350 mL is the portion normally available for alveolar ventilation in this example, rather than the conducting airway dead-space volume."
+      },
       "topicId": "resp-mech",
       "subtopic": "Dead space",
       "difficulty": "easy"
@@ -478,7 +556,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Physiological dead space adds wasted ventilation of poorly perfused alveoli to the anatomical dead space.",
+      "why": "Physiological dead space combines anatomical dead space in conducting airways with alveolar dead space arising from ventilation that receives little or no effective perfusion. This additional wasted alveolar ventilation increases in conditions such as pulmonary embolism.",
+      "notes": {
+        "A": "The trachea and large bronchi form part of anatomical dead space already, so their gas volume does not distinguish physiological dead space.",
+        "B": "Residual volume is gas remaining after maximal expiration and is not synonymous with ventilation that fails to participate in gas exchange.",
+        "C": "A right-to-left shunt involves blood reaching arterial circulation without adequate oxygenation, whereas dead space involves ventilation without adequate perfusion.",
+        "D": "Conducting airways through terminal bronchioles constitute anatomical dead space; physiological dead space additionally accounts for wasted ventilation within alveolar regions."
+      },
       "topicId": "resp-mech",
       "subtopic": "Dead space",
       "difficulty": "hard"
@@ -510,7 +594,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The pulmonary circuit is a distensible, low-pressure system carrying the whole cardiac output at around 24/9 mmHg.",
+      "why": "Pulmonary vessels form a compliant, low-resistance circulation accommodating the full right ventricular output at much lower pressures than systemic vessels. Normal resting pulmonary arterial pressure is approximately 25/8–10 mmHg, with some variation between individuals.",
+      "notes": {
+        "B": "High pressure and relatively stiff resistance vessels do not characterise the normal pulmonary circulation, which is adapted to low-pressure perfusion.",
+        "C": "Pulmonary and systemic circuits carry approximately equal average flows, but pulmonary arterial pressures and vascular resistance are much lower.",
+        "D": "When upright, hydrostatic effects generally make pulmonary vascular pressures higher at the base than at the apex, not the reverse.",
+        "E": "Pulmonary arterial flow is pulsatile because of right ventricular ejection during ordinary breathing, rather than only during forced expiration."
+      },
       "topicId": "resp-mech",
       "subtopic": "Pulmonary circulation",
       "difficulty": "medium"
@@ -542,7 +632,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The favourable balance of high oncotic and low hydrostatic pressure gives little tendency to filter fluid into the alveoli.",
+      "why": "Low pulmonary capillary hydrostatic pressure limits outward filtration, while plasma oncotic pressure opposes it. These forces, together with vascular and epithelial barrier integrity and lymphatic drainage, help prevent excess lung interstitial and alveolar fluid accumulation.",
+      "notes": {
+        "A": "Active sodium transport by alveolar epithelial cells assists alveolar fluid clearance, but the cited capillary protection primarily concerns hydrostatic and oncotic forces.",
+        "C": "High capillary hydrostatic pressure with low plasma oncotic pressure favours outward fluid movement and therefore increases the risk of pulmonary oedema.",
+        "D": "The blood–air barrier is normally thin to facilitate gas exchange, rather than relying on a thick basement membrane to prevent filtration.",
+        "E": "Pulmonary lymphatics drain interstitial fluid but do not form continuous valved channels within the alveolar gas-exchange wall itself."
+      },
       "topicId": "resp-mech",
       "subtopic": "Pulmonary circulation",
       "difficulty": "medium"
@@ -606,7 +702,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Gravity makes the basal intrapleural pressure less negative; those alveoli start smaller and are more expandable, so basal ventilation is greater.",
+      "why": "Gravity produces a vertical pleural-pressure gradient, making pressure less negative at the dependent lung base in an upright person. Basal alveoli therefore start smaller and generally lie on a steeper portion of the pressure–volume curve, receiving greater tidal expansion.",
+      "notes": {
+        "A": "Pleural pressure is usually subatmospheric during quiet spontaneous breathing, so continuously positive basal pleural pressure is not the normal upright finding.",
+        "B": "Basal pleural pressure is generally less negative than apical pressure but remains subatmospheric at normal resting expiration.",
+        "C": "Gravity and lung weight generate regional differences in pleural pressure, so upright lung expansion is not mechanically uniform.",
+        "E": "More negative apical pleural pressure holds apical alveoli at larger resting volumes, leaving them relatively less expandable during ordinary tidal inspiration."
+      },
       "topicId": "resp-mech",
       "subtopic": "Ventilation distribution",
       "difficulty": "hard"
@@ -670,7 +772,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Minute ventilation = respiratory rate × tidal volume.",
+      "why": "Minute respiratory volume is the total volume of air moved into or out of the lungs per minute. Multiplying tidal volume by respiratory rate gives total minute ventilation; subtracting dead-space volume from each tidal breath gives alveolar ventilation.",
+      "notes": {
+        "B": "Tidal volume and vital capacity are both measured as volumes, so multiplying them does not yield a volume-per-minute ventilation rate.",
+        "C": "Dead-space volume is measured per breath, whereas alveolar ventilation is measured per minute; dead-space ventilation must be added to obtain total minute ventilation.",
+        "D": "Dividing vital capacity by inspiratory capacity gives a dimensionless volume ratio, not the total volume breathed per unit time.",
+        "E": "Residual volume remains after maximal expiration and is not the amount moved during each ordinary breath used to calculate minute ventilation."
+      },
       "topicId": "resp-mech",
       "subtopic": "Ventilation",
       "difficulty": "easy"
@@ -702,7 +810,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Type II pneumocytes secrete surfactant; type I cells form the thin lining for gas exchange.",
+      "why": "Type II pneumocytes synthesise and secrete pulmonary surfactant from lamellar bodies onto the alveolar air–liquid interface. These cuboidal epithelial cells also proliferate after injury and can help regenerate the alveolar epithelium.",
+      "notes": {
+        "A": "Bronchial goblet cells secrete mucus to trap inhaled material in conducting airways, rather than producing the principal alveolar surfactant.",
+        "C": "Type I pneumocytes form most of the thin alveolar gas-exchange surface, whereas surfactant production is the specialised function of type II cells.",
+        "D": "Alveolar macrophages phagocytose inhaled particles and microorganisms, rather than functioning as the principal secretory source of pulmonary surfactant.",
+        "E": "Ciliated columnar cells move mucus along conducting airways and do not provide the main surfactant secretion lining alveolar airspaces."
+      },
       "topicId": "resp-airway",
       "subtopic": "Alveolar cells",
       "difficulty": "easy"
@@ -734,7 +848,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Type I pneumocytes provide the broad, thin surface across which gases diffuse.",
+      "why": "Type I pneumocytes are extremely thin squamous epithelial cells covering most of the alveolar surface. Together with capillary endothelium and associated basement membranes, they minimise diffusion distance for oxygen and carbon dioxide exchange.",
+      "notes": {
+        "A": "Alveolar macrophages patrol alveolar surfaces and remove particulate material, but do not form the continuous thin epithelial gas-exchange barrier.",
+        "B": "Mast cells release inflammatory mediators such as histamine and are not the flattened epithelial cells covering most alveolar surface area.",
+        "D": "Type II pneumocytes are cuboidal cells specialising in surfactant secretion and epithelial repair, and cover much less alveolar surface area.",
+        "E": "Club cells are non-ciliated bronchiolar secretory cells that contribute to airway protection and repair, rather than forming the main alveolar gas-exchange surface."
+      },
       "topicId": "resp-airway",
       "subtopic": "Alveolar cells",
       "difficulty": "easy"
@@ -766,7 +886,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Bronchioles have no cartilage; they are held patent by the transpulmonary pressure that keeps the lung expanded.",
+      "why": "Terminal bronchioles lack cartilaginous support and depend substantially on transmural distending pressure and radial traction from surrounding expanded lung tissue to remain open. Loss of elastic attachments can promote small-airway narrowing or collapse, particularly during expiration.",
+      "notes": {
+        "A": "Contraction of bronchiolar smooth muscle narrows the airway lumen, rather than providing the principal outward force maintaining bronchiolar patency.",
+        "B": "Intraluminal pressure varies during breathing and can be subatmospheric during inspiration; airway opening depends on transmural pressure and surrounding tissue support.",
+        "C": "Surface-active secretions may assist small-airway stability, but the principal mechanical support described here comes from distending pressures and parenchymal traction.",
+        "E": "Cartilage supports the trachea and larger bronchi, but terminal bronchioles characteristically lack cartilaginous rings or plates."
+      },
       "topicId": "resp-airway",
       "subtopic": "Airway structure",
       "difficulty": "medium"
@@ -798,7 +924,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Trachea and bronchi are supported by cartilage; bronchioles have smooth muscle and no cartilage.",
+      "why": "Tracheal cartilage rings and bronchial cartilage plates provide structural support against airway collapse. Bronchioles lack cartilage and have a proportionally prominent smooth-muscle layer, making their luminal calibre particularly sensitive to smooth-muscle tone and surrounding lung mechanics.",
+      "notes": {
+        "A": "Absence of cartilage with a relatively prominent smooth-muscle wall characterises bronchioles, rather than the trachea and larger bronchi.",
+        "B": "Both larger conducting airways and bronchioles possess an epithelial lining, although epithelial cell composition changes along the respiratory tree.",
+        "C": "Larger airways participate in warming, humidifying and filtering inspired air; these functions are not absent from the tracheobronchial tree.",
+        "D": "Alveolar type II cells are the principal source of pulmonary surfactant; surfactant secretion does not distinguish large cartilaginous airways from bronchioles."
+      },
       "topicId": "resp-airway",
       "subtopic": "Airway structure",
       "difficulty": "easy"
@@ -830,7 +962,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Muscarinic (ACh) receptors drive bronchoconstriction and are antagonised by atropine; β2 receptors mediate dilatation.",
+      "why": "Parasympathetic acetylcholine activates muscarinic receptors, particularly M3 receptors on bronchial smooth muscle, increasing intracellular calcium and promoting contraction. Atropine antagonises muscarinic signalling and therefore can inhibit cholinergically mediated bronchoconstriction.",
+      "notes": {
+        "B": "Beta-2 adrenergic receptors activate smooth-muscle relaxation pathways and are the target of bronchodilators, rather than the receptors mediating acetylcholine-induced bronchoconstriction.",
+        "C": "Alpha-1 adrenergic receptors commonly mediate vascular smooth-muscle contraction, whereas the conventional parasympathetic bronchoconstrictor pathway acts through muscarinic receptors.",
+        "D": "Nicotinic receptors mediate transmission in autonomic ganglia and at skeletal neuromuscular junctions, rather than directly mediating bronchial smooth-muscle contraction by acetylcholine.",
+        "E": "Histamine can cause bronchoconstriction mainly through H1 receptors; atropine specifically antagonises muscarinic rather than histamine receptor signalling."
+      },
       "topicId": "resp-airway",
       "subtopic": "Airway control",
       "difficulty": "medium"
@@ -862,7 +1000,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "β2 agonists such as salbutamol and isoproterenol relax bronchial smooth muscle.",
+      "why": "Salbutamol activates beta-2 adrenergic receptors on airway smooth muscle, stimulating Gs-dependent adenylyl cyclase and increasing cAMP. This promotes smooth-muscle relaxation, reducing airway resistance and relieving reversible bronchospasm.",
+      "notes": {
+        "A": "Nicotinic receptors transmit cholinergic signals at autonomic ganglia and neuromuscular junctions, rather than mediating salbutamol's direct bronchodilator effect.",
+        "C": "Muscarinic receptor activation commonly causes bronchoconstriction and mucus secretion, whereas salbutamol produces relaxation through beta-2 adrenergic signalling.",
+        "D": "Alpha-1 receptors mainly mediate vasoconstrictor responses; salbutamol is used for its preferential agonist activity at airway beta-2 receptors.",
+        "E": "Histamine H1 receptor activation can promote bronchoconstriction and allergic responses, rather than providing the receptor target for salbutamol-induced airway relaxation."
+      },
       "topicId": "resp-airway",
       "subtopic": "Airway control",
       "difficulty": "easy"
@@ -894,7 +1038,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Cooling of the airway provokes bronchospasm, a recognised trigger of exercise- and cold-induced wheeze.",
+      "why": "Cold, dry inspired air can trigger bronchoconstriction in susceptible individuals, particularly during exercise. Airway water loss, changes in mucosal osmolarity and mediator release contribute to smooth-muscle narrowing, producing increased airway resistance and wheeze.",
+      "notes": {
+        "A": "Increased lung compliance means easier lung expansion, whereas cold-air-induced wheeze principally reflects narrowing of conducting airways and increased resistance.",
+        "B": "Glottic closure can produce upper-airway obstruction or stridor, but the characteristic cold-air-associated wheeze in asthma results from bronchial narrowing.",
+        "D": "Surfactant secretion chiefly stabilises alveolar surfaces and is not the principal mechanism generating cold-air-induced narrowing of bronchial smooth muscle.",
+        "E": "Pulmonary vascular dilatation affects perfusion, whereas wheeze from cold-air-triggered bronchospasm arises predominantly from altered airway calibre."
+      },
       "topicId": "resp-airway",
       "subtopic": "Airway control",
       "difficulty": "medium"
@@ -926,7 +1076,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Cooperative binding (positive cooperativity) means each bound O2 raises the affinity for the next, giving the S-shaped curve.",
+      "why": "Haemoglobin exhibits positive cooperativity because oxygen binding favours the transition from the lower-affinity tense state to the higher-affinity relaxed state. Successive oxygen molecules therefore bind more readily, producing a sigmoid oxygen saturation curve.",
+      "notes": {
+        "A": "Normal oxygen binding involves reversible interaction with ferrous haem iron; oxidation to ferric iron forms methaemoglobin, which cannot bind oxygen normally.",
+        "B": "2,3-DPG binds within the central cavity of deoxygenated haemoglobin and stabilises its low-affinity state rather than competing directly at the haem oxygen-binding pocket.",
+        "C": "The first oxygen molecule generally binds with the lowest affinity, with subsequent binding favoured by cooperative conformational changes in haemoglobin.",
+        "E": "Independent binding sites would not produce the characteristic cooperative sigmoid relationship; haemoglobin subunits interact through changes in quaternary structure."
+      },
       "topicId": "resp-gas",
       "subtopic": "Oxygen dissociation curve",
       "difficulty": "hard"
@@ -958,7 +1114,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "P50 is the PO2 giving 50% saturation and is the conventional index of Hb affinity.",
+      "why": "P50 is the oxygen partial pressure at which haemoglobin is 50% saturated. Under standard adult physiological conditions it is approximately 26–27 mmHg; a higher P50 denotes lower affinity because more oxygen pressure is required for half-saturation.",
+      "notes": {
+        "A": "Full haemoglobin saturation occurs at much higher oxygen tensions and does not define the half-saturation pressure used as the affinity index.",
+        "B": "Haemoglobin can undergo conformational changes without dissociation into subunits; P50 concerns oxygen occupancy rather than separation of its globin chains.",
+        "C": "Oxygen and carbon dioxide interact with haemoglobin in different ways, and P50 does not describe an equal-binding point between these gases.",
+        "D": "2,3-DPG influences oxygen affinity by stabilising deoxygenated haemoglobin, but P50 is not a direct measurement of 2,3-DPG release."
+      },
       "topicId": "resp-gas",
       "subtopic": "Oxygen dissociation curve",
       "difficulty": "medium"
@@ -990,7 +1152,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "A higher P50 means lower affinity: a larger PO2 is needed for 50% saturation, so O2 is unloaded more easily.",
+      "why": "A higher P50 means a greater oxygen partial pressure is needed to achieve 50% haemoglobin saturation. The rightward shift therefore indicates reduced oxygen affinity, favouring oxygen unloading at a given tissue oxygen tension.",
+      "notes": {
+        "B": "Increased affinity lowers the oxygen pressure required for half-saturation and shifts the dissociation curve towards the left rather than the right.",
+        "C": "Changes in temperature, pH or 2,3-DPG can shift the cooperative curve without abolishing haemoglobin's positive cooperative binding behaviour.",
+        "D": "Methaemoglobin contains ferric iron with impaired oxygen binding; a rightward shift alone does not demonstrate conversion of normal haemoglobin to this form.",
+        "E": "P50 measures haemoglobin's oxygen affinity, rather than directly determining its capacity to carry carbon dioxide as bicarbonate or carbamino compounds."
+      },
       "topicId": "resp-gas",
       "subtopic": "Oxygen dissociation curve",
       "difficulty": "hard"
@@ -1022,7 +1190,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The rightward shift from heat, acid, CO2 and 2,3-DPG releases O2 more readily where metabolising tissue needs it.",
+      "why": "Exercise increases local temperature, carbon dioxide production and hydrogen ion concentration, shifting the oxygen dissociation curve rightwards. At a given tissue oxygen tension, haemoglobin saturation is lower, allowing greater unloading and substantial oxygen delivery even before tissue oxygen tension falls markedly.",
+      "notes": {
+        "A": "The Bohr effect contributes to the exercise-associated rightward shift because increased carbon dioxide and acidity reduce haemoglobin oxygen affinity.",
+        "C": "A rightward shift alters affinity and unloading, but does not increase the maximum oxygen-binding capacity determined mainly by haemoglobin concentration.",
+        "D": "A rightward shift reduces oxygen affinity and can slightly oppose pulmonary loading at a given oxygen tension, rather than primarily enhancing lung uptake.",
+        "E": "Reduced oxygen affinity facilitates unloading along the tissue capillary, rather than preventing oxygen release until blood reaches its venous end."
+      },
       "topicId": "resp-gas",
       "subtopic": "Oxygen dissociation curve",
       "difficulty": "medium"
@@ -1054,7 +1228,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "2,3-DPG, formed in glycolysis, binds the β chains and shifts the curve rightward.",
+      "why": "2,3-DPG binds electrostatically within the central cavity between beta chains of deoxygenated adult haemoglobin. This stabilises the lower-affinity tense conformation and increases the oxygen pressure required for half-saturation, promoting oxygen unloading to tissues.",
+      "notes": {
+        "A": "The central binding cavity is most accessible in deoxygenated haemoglobin, so 2,3-DPG preferentially binds before rather than after full oxygenation.",
+        "B": "The haem porphyrin ring contains the iron oxygen-binding site, whereas 2,3-DPG regulates affinity by binding between globin chains.",
+        "D": "The principal adult haemoglobin 2,3-DPG binding cavity lies between beta chains, rather than being formed chiefly between the alpha chains.",
+        "E": "The central ferrous haem iron directly binds oxygen, whereas 2,3-DPG acts allosterically through positively charged residues within the globin cavity."
+      },
       "topicId": "resp-gas",
       "subtopic": "Oxygen transport",
       "difficulty": "hard"
@@ -1086,7 +1266,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Higher temperature, lower pH, higher CO2 and higher 2,3-DPG all reduce affinity and shift the curve right.",
+      "why": "Increased temperature, increased carbon dioxide, reduced pH and increased 2,3-DPG all favour lower haemoglobin oxygen affinity and a rightward dissociation-curve shift. These changes increase P50 and generally facilitate oxygen release to metabolically active tissues.",
+      "notes": {
+        "A": "Lower temperature and lower 2,3-DPG favour increased oxygen affinity, despite the opposing rightward influences of reduced pH and increased carbon dioxide.",
+        "B": "Higher pH and lower carbon dioxide favour a leftward shift, so the listed changes do not all promote reduced haemoglobin oxygen affinity.",
+        "C": "Higher pH and lower 2,3-DPG increase oxygen affinity, counteracting the rightward effects of higher temperature and carbon dioxide.",
+        "E": "Lower temperature, higher pH, lower carbon dioxide and lower 2,3-DPG all favour increased affinity and a leftward rather than rightward shift."
+      },
       "topicId": "resp-gas",
       "subtopic": "Oxygen dissociation curve",
       "difficulty": "medium"
@@ -1118,7 +1304,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "HbF interacts weakly with 2,3-DPG, so its curve lies to the left and it draws O2 from maternal blood.",
+      "why": "Fetal haemoglobin contains gamma rather than beta globin chains and binds 2,3-DPG less strongly than adult haemoglobin. Reduced stabilisation of the deoxygenated state gives fetal haemoglobin higher oxygen affinity, supporting placental oxygen transfer.",
+      "notes": {
+        "A": "Stronger 2,3-DPG binding would stabilise deoxygenated haemoglobin and lower oxygen affinity, opposing the fetal haemoglobin advantage during placental oxygen exchange.",
+        "B": "Fetal haemoglobin contains two alpha and two gamma chains, rather than four beta chains; its gamma chains contribute to weaker 2,3-DPG binding.",
+        "C": "Ferric haem iron forms methaemoglobin and cannot bind oxygen normally, whereas physiological fetal haemoglobin uses ferrous iron like adult haemoglobin.",
+        "D": "Fetal haemoglobin retains cooperative oxygen binding; its higher affinity chiefly reflects weaker 2,3-DPG interactions rather than loss of cooperativity."
+      },
       "topicId": "resp-gas",
       "subtopic": "Oxygen transport",
       "difficulty": "hard"
@@ -1150,7 +1342,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The Bohr effect is the reduction in Hb oxygen affinity caused by increased CO2/H+.",
+      "why": "The Bohr effect describes decreased haemoglobin oxygen affinity when carbon dioxide and hydrogen ion concentrations increase. Stabilisation of lower-affinity haemoglobin favours oxygen release in metabolically active tissues and helps coordinate oxygen delivery with local metabolic demand.",
+      "notes": {
+        "B": "The Haldane effect describes the influence of haemoglobin oxygenation on carbon dioxide and hydrogen ion carriage, rather than the reverse influence on oxygen affinity.",
+        "C": "Chloride shift refers to erythrocyte bicarbonate–chloride exchange during carbon dioxide transport, rather than the acid-dependent shift in haemoglobin oxygen affinity.",
+        "D": "The Hering–Breuer reflex uses pulmonary stretch receptor feedback to influence breathing, rather than regulating oxygen binding through carbon dioxide and pH.",
+        "E": "The Fick principle relates substance uptake or release to blood flow and arteriovenous concentration difference, rather than describing haemoglobin allostery."
+      },
       "topicId": "resp-gas",
       "subtopic": "Bohr and Haldane",
       "difficulty": "medium"
@@ -1182,7 +1380,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Oxygenated Hb is a stronger acid; the H+ it releases drives HCO3- back to CO2, which is exhaled — the Haldane effect, seen in the lungs.",
+      "why": "Oxygenation reduces haemoglobin's capacity to buffer hydrogen ions and carry carbamino carbon dioxide. Released hydrogen ions combine with bicarbonate to regenerate carbon dioxide, while carbamino compounds dissociate, facilitating pulmonary carbon dioxide elimination through the Haldane effect.",
+      "notes": {
+        "A": "Oxygenation does not prevent chloride shift; reverse bicarbonate–chloride exchange supports carbon dioxide regeneration within erythrocytes in pulmonary capillaries.",
+        "C": "Deoxygenated haemoglobin binds hydrogen ions more readily, whereas oxygenation favours their release and subsequent conversion of bicarbonate into carbon dioxide.",
+        "D": "Oxygenated haemoglobin has reduced carbamino binding capacity rather than becoming absolutely incapable of carrying carbon dioxide in carbamino form.",
+        "E": "Oxygenation reduces access to the central 2,3-DPG binding cavity; increased 2,3-DPG affinity is not the principal mechanism of carbon dioxide release."
+      },
       "topicId": "resp-gas",
       "subtopic": "Bohr and Haldane",
       "difficulty": "hard"
@@ -1214,7 +1418,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "To preserve electrical neutrality, Cl- enters the red cell as HCO3- leaves; hence venous blood has more intracellular Cl-.",
+      "why": "In systemic capillaries, erythrocyte carbonic anhydrase converts incoming carbon dioxide into bicarbonate and hydrogen ions. Bicarbonate exits through the band 3 anion exchanger while chloride enters, maintaining electrical neutrality during carbon dioxide uptake from tissues.",
+      "notes": {
+        "A": "Chloride generally leaves erythrocytes during the reverse shift in pulmonary capillaries, when bicarbonate re-enters and haemoglobin becomes oxygenated.",
+        "B": "Systemic carbon dioxide uptake promotes chloride entry into erythrocytes rather than chloride movement into plasma as carbamino compounds are formed.",
+        "D": "Bicarbonate efflux is coupled to chloride influx, so the two anions move in opposite directions through the erythrocyte exchanger.",
+        "E": "Hydrogen ions are buffered largely by deoxygenated haemoglobin; chloride entry is coupled to bicarbonate export rather than direct hydrogen ion transport."
+      },
       "topicId": "resp-gas",
       "subtopic": "CO2 transport",
       "difficulty": "hard"
@@ -1246,7 +1456,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Most CO2 travels as bicarbonate; roughly 30% is carried as carbamino compounds and a small amount dissolved.",
+      "why": "Most blood carbon dioxide is transported as bicarbonate, with a smaller fraction carried as carbamino compounds formed on amino groups of haemoglobin and other proteins. Conventional teaching estimates carbamino transport at approximately 20–30%, depending on the accounting conditions.",
+      "notes": {
+        "A": "One per cent markedly underestimates the conventional contribution of carbamino compounds to total carbon dioxide transport in blood.",
+        "B": "Ninety per cent would make carbamino carriage overwhelmingly dominant, whereas bicarbonate formation accounts for the largest share of carbon dioxide transport.",
+        "C": "Half of transported carbon dioxide is greater than the usual estimate of the fraction carried as protein-bound carbamino compounds.",
+        "E": "Approximately 70% is commonly attributed to bicarbonate transport in teaching models, rather than the smaller carbamino contribution."
+      },
       "topicId": "resp-gas",
       "subtopic": "CO2 transport",
       "difficulty": "medium"
@@ -1278,7 +1494,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Myoglobin binds one O2 with high affinity and gives it up only at the very low PO2 of hard-working muscle.",
+      "why": "Myoglobin is a monomeric muscle haem protein containing one oxygen-binding haem group. Its higher oxygen affinity and hyperbolic dissociation curve allow it to retain oxygen until intracellular oxygen tension becomes sufficiently low during increased muscle demand.",
+      "notes": {
+        "A": "Four cooperative oxygen-binding sites characterise tetrameric haemoglobin, whereas myoglobin possesses one haem group and cannot exhibit intersubunit cooperativity.",
+        "B": "High oxygen tension favours myoglobin oxygen loading; its high affinity means substantial unloading occurs particularly at relatively low tissue oxygen tensions.",
+        "C": "Functional oxygen binding requires ferrous haem iron in both myoglobin and haemoglobin, rather than the ferric state associated with oxidised pigment.",
+        "D": "A single-site protein cannot show progressive cooperative affinity changes across successive oxygen-binding sites as tetrameric haemoglobin does."
+      },
       "topicId": "resp-gas",
       "subtopic": "Oxygen carriers",
       "difficulty": "medium"
@@ -1310,7 +1532,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "CO binds Hb about 200–250× more avidly than O2, displaces O2 and shifts the curve left so the remaining O2 is released poorly.",
+      "why": "Carbon monoxide binds haemoglobin approximately 200–250 times more avidly than oxygen under typical conditions, reducing available oxygen-binding sites. It also increases oxygen affinity at remaining sites, shifting their dissociation curve leftwards and impairing tissue oxygen unloading.",
+      "notes": {
+        "B": "Carbon monoxide has much greater rather than lower haemoglobin affinity, and its effect on remaining oxygen-binding sites favours a leftward shift.",
+        "C": "Carbon monoxide competes strongly with oxygen for haem binding; its toxicity is not explained by equal affinity and isolated interference with 2,3-DPG.",
+        "D": "Adult as well as fetal haemoglobin can bind carbon monoxide strongly, so this mechanism is not restricted to fetal haemoglobin.",
+        "E": "A substantial fraction of absorbed carbon monoxide binds haemoglobin as carboxyhaemoglobin, rather than remaining only in the dissolved blood gas compartment."
+      },
       "topicId": "resp-gas",
       "subtopic": "Carbon monoxide",
       "difficulty": "hard"
@@ -1374,7 +1602,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "High inspired O2, hyperbaric where available, speeds displacement of CO from haemoglobin.",
+      "why": "High-concentration oxygen is the immediate treatment for significant carbon monoxide poisoning because it accelerates carbon monoxide elimination from haemoglobin and improves oxygen delivery. Hyperbaric oxygen may be considered in selected severe cases after specialist assessment.",
+      "notes": {
+        "A": "Closed-bag rebreathing reduces access to fresh oxygen and may worsen hypoxia, rather than accelerating displacement of carbon monoxide from haemoglobin.",
+        "B": "Hypoventilation limits oxygen delivery and elimination of inhaled carbon monoxide, opposing the treatment goal of rapid oxygenation and toxin clearance.",
+        "D": "Beta-2 agonists relieve bronchospasm but do not directly reverse carboxyhaemoglobin formation or replace the need for high-concentration oxygen.",
+        "E": "Sodium bicarbonate may have selected uses in acid–base management, but it does not directly displace carbon monoxide or replace oxygen treatment."
+      },
       "topicId": "resp-gas",
       "subtopic": "Carbon monoxide",
       "difficulty": "medium"
