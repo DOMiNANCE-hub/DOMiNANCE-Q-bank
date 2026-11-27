@@ -41,3 +41,27 @@
 - Key: A — reduced cerebral perfusion.
 - Concern: Positive acceleration reduces perfusion pressure at the head, but visual blackout specifically reflects inadequate retinal perfusion, which can precede cerebral hypoperfusion severe enough to cause loss of consciousness. The keyed option is the closest among those supplied, but not the precise mechanism for visual blackout. Recommend specifying retinal hypoperfusion or changing the endpoint to loss of consciousness during independent review. Original explanation and key untouched.
 - Reference: standard aviation/acceleration physiology; Guyton & Hall, aviation and space physiology (exact edition/page not independently checked).
+
+## dq-phys-cvs-104 — lymphatic return fraction
+- Stem: Of the fluid filtered out of the capillaries each day, the proportion returned to the circulation by the lymphatics is about:
+- Key: D — 15%.
+- Concern: The classic teaching model attributes most filtered fluid to sustained venous-end capillary reabsorption, with about 10–15% returned by lymphatics. The revised Starling principle indicates that sustained reabsorption is uncommon in most systemic microvascular beds at steady state and lymphatic drainage returns most net filtered fluid. The keyed percentage is therefore model-dependent and should not be taught as a general modern fact. Original explanation/key unchanged pending course review.
+- Reference: Levick and Michel, Microvascular fluid exchange and the revised Starling principle, Cardiovascular Research (2010); exact text not independently retrieved.
+
+## dq-phys-cvs-108 — lymphatic venous termination
+- Stem: The lymphatic vessels ultimately return lymph to the bloodstream at the:
+- Key: C — junction of the subclavian veins.
+- Concern: The usual lymphatic duct termination sites are the ipsilateral venous angles, where internal jugular and subclavian veins join, with anatomical variation. The two subclavian veins do not directly form a junction with each other. The keyed option appears intended to describe the venous angles but is anatomically imprecise. Original explanation/key unchanged.
+- Reference: standard gross anatomy of thoracic duct and right lymphatic drainage (Moore/Gray's; exact edition/page not checked).
+
+## dq-phys-cvs-113 — coronary stenosis threshold for exertional angina
+- Stem: Angina pectoris on exertion typically occurs when a coronary artery is narrowed by about:
+- Key: C — 75%.
+- Concern: The stem does not specify diameter versus cross-sectional area stenosis, and symptoms depend on lesion physiology, coronary reserve, microvascular function and myocardial demand. A 75% area reduction corresponds to 50% diameter reduction in a circular lumen, both present as options. Confirm the lecture convention; do not imply a universal symptom threshold. Original explanation/key unchanged.
+- Reference: standard coronary flow reserve and clinical ischaemia physiology (exact textbook page not checked).
+
+## dq-phys-cvs-124 — postural pulmonary blood-volume change
+- Stem: On lying down, the volume of blood held in the lungs:
+- Key: D — increases by about 400 ml.
+- Concern: Moving from upright to supine generally redistributes blood centrally and increases pulmonary blood volume, but the precise 400 mL increment is not a universal physiological constant. The original source value and measurement conditions have not been independently verified, and another option (doubling) could overlap numerically depending on baseline. Confirm course source before revising the explanation. Original explanation/key unchanged.
+- Reference: Guyton & Hall, pulmonary circulation and blood reservoir function (exact edition/page not checked).
