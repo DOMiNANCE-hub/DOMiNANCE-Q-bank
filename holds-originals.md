@@ -731,3 +731,21 @@
 - Key: A — sixth arch.
 - Concern: The cricothyroid is an intrinsic laryngeal muscle derived from the fourth arch; most other intrinsic muscles are sixth arch derivatives. The keyed statement lacks this necessary exception. Original explanation and key untouched.
 - Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-resp-009 — Key or premise review
+- Stem: Type I pneumocytes (thin squamous cells) first differentiate during the
+- Key: D — terminal saccular phase.
+- Concern: Type I pneumocyte differentiation begins during the late canalicular period and becomes prominent during the saccular period. The stem asks when cells first differentiate, but the keyed terminal saccular phase is not uniquely defensible. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-resp-010 — Key or premise review
+- Stem: Surfactant-producing type II pneumocytes begin to differentiate from about
+- Key: E — 28 weeks.
+- Concern: Type II epithelial differentiation and early surfactant production can begin around the canalicular stage, with detectable surfactant commonly described around 20–24 weeks. The keyed 28-week onset conflates initial differentiation with later production/maturation. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-resp-014 — Key or premise review
+- Stem: Fetal breathing movements, which condition the respiratory muscles, begin at about
+- Key: D — 20-21 weeks.
+- Concern: Fetal breathing movements can be detected much earlier than 20–21 weeks, with onset varying by detection method and definition. The exact keyed onset needs source verification. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
