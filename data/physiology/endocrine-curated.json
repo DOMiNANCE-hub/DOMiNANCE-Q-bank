@@ -30,7 +30,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Autocrine signalling targets the secreting cell itself.",
+      "why": "Autocrine signalling occurs when a cell releases a mediator that binds receptors on that same cell, modifying its own activity. This provides local self-regulation without requiring transport through the systemic circulation.",
+      "notes": {
+        "B": "Paracrine mediators act on nearby cells, rather than returning specifically to receptors on the cell that secreted them.",
+        "C": "Endocrine hormones travel through the bloodstream to reach distant target cells, unlike the local self-directed pathway described.",
+        "D": "Neurocrine signalling involves release of neuronal chemical messengers onto target cells, rather than necessarily acting on the secreting cell.",
+        "E": "Exocrine secretion delivers substances through ducts or onto epithelial surfaces, rather than regulating the secreting cell through receptor signalling."
+      },
       "topicId": "endo-general",
       "subtopic": "Hormone signalling",
       "difficulty": "medium"
@@ -62,7 +68,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Paracrine mediators act locally without travelling through the circulation.",
+      "why": "Paracrine signalling involves local release of a mediator into extracellular fluid and diffusion to neighbouring target cells. Its action is limited by distance, degradation and uptake rather than depending on systemic circulation.",
+      "notes": {
+        "A": "Autocrine signalling describes a mediator acting back on its own secreting cell rather than primarily affecting a neighbouring cell.",
+        "C": "Endocrine signalling uses circulating blood to deliver hormones to distant target cells, rather than relying solely on local interstitial diffusion.",
+        "D": "Neurocrine signalling involves neuronal release of chemical messengers; the stem does not specify a neuronal source or synaptic pathway.",
+        "E": "Exocrine products are delivered to epithelial surfaces or through ducts, rather than acting as interstitial regulatory messengers between adjacent cells."
+      },
       "topicId": "endo-general",
       "subtopic": "Hormone signalling",
       "difficulty": "medium"
@@ -94,7 +106,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Water-soluble catecholamines circulate largely unbound.",
+      "why": "Adrenaline is a relatively water-soluble catecholamine that circulates predominantly without a specialised high-affinity plasma carrier. Steroid and thyroid hormones are more extensively protein-bound, which influences their distribution, clearance and circulating half-lives.",
+      "notes": {
+        "A": "Cortisol circulates largely bound to corticosteroid-binding globulin and albumin, with a smaller free fraction available for receptor activation.",
+        "B": "Thyroxine is strongly bound to thyroxine-binding globulin, transthyretin and albumin, creating a substantial circulating reservoir of hormone.",
+        "D": "Aldosterone is less extensively protein-bound than cortisol but still circulates partly bound to albumin and other plasma proteins.",
+        "E": "Testosterone is substantially bound to sex hormone-binding globulin and albumin because of its relatively lipophilic steroid structure."
+      },
       "topicId": "endo-general",
       "subtopic": "Hormone transport",
       "difficulty": "easy"
@@ -126,7 +144,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Additional binding sites initially bind more T4; feedback later restores free hormone.",
+      "why": "An acute increase in thyroxine-binding globulin provides additional binding sites that temporarily draw free thyroxine into the protein-bound pool. Subsequent hypothalamic–pituitary feedback increases hormone production until free concentrations are restored.",
+      "notes": {
+        "A": "Additional binding sites initially tend to lower free plasma thyroxine, rather than directly raising its unbound concentration.",
+        "B": "Intracellular triiodothyronine depends on hormone delivery, transport and deiodination; increased circulating binding capacity does not directly increase this pool.",
+        "C": "Increased thyroxine-binding globulin can bind circulating triiodothyronine as well, but does not initially raise its unbound concentration.",
+        "E": "Protein binding retains hormone within the circulation and does not directly increase renal excretion of thyroxine."
+      },
       "topicId": "endo-general",
       "subtopic": "Hormone transport",
       "difficulty": "hard"
@@ -158,7 +182,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Glucagon is a peptide and binds a membrane G-protein-coupled receptor.",
+      "why": "Glucagon is a peptide hormone whose receptor spans the target-cell membrane. In hepatocytes, receptor activation stimulates Gs, adenylyl cyclase and cAMP-dependent protein kinase signalling, promoting mobilisation of stored metabolic fuel.",
+      "notes": {
+        "A": "Cortisol primarily binds an intracellular glucocorticoid receptor that regulates transcription, rather than requiring a conventional cell-surface second-messenger receptor.",
+        "B": "Thyroxine is converted partly to triiodothyronine, which principally acts through nuclear thyroid hormone receptors to regulate gene expression.",
+        "C": "Testosterone primarily signals through intracellular androgen receptors that modify transcription, although additional rapid non-genomic actions can occur.",
+        "D": "Calcitriol principally activates the intracellular vitamin D receptor, which regulates transcription of genes involved in mineral homeostasis."
+      },
       "topicId": "endo-general",
       "subtopic": "Receptors",
       "difficulty": "easy"
@@ -190,7 +220,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Cortisol-bound intracellular receptors regulate gene transcription.",
+      "why": "Cortisol diffuses into target cells and binds intracellular glucocorticoid receptors, which regulate gene expression through DNA interactions and other transcriptional mechanisms. Receptor dysfunction therefore primarily impairs cortisol-dependent genomic responses despite hormone availability.",
+      "notes": {
+        "B": "Rapid membrane depolarisation is generally mediated by changes in ion conductance, rather than the principal genomic action of glucocorticoid receptors.",
+        "C": "Calcium influx can trigger rapid secretory responses, but it is not the primary process mediated by intracellular cortisol receptors.",
+        "D": "Peptide exocytosis depends on vesicular machinery and intracellular calcium, rather than directly requiring the transcriptional function of glucocorticoid receptors.",
+        "E": "Plasma ligand clearance depends on metabolism, binding and excretion; receptor defects principally alter target-cell responsiveness rather than directly determining clearance."
+      },
       "topicId": "endo-general",
       "subtopic": "Receptors",
       "difficulty": "hard"
@@ -222,7 +258,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Changes in plasma mineral concentration can directly control endocrine secretion.",
+      "why": "Parathyroid chief cells sense extracellular ionised calcium through the calcium-sensing receptor. A fall in calcium reduces receptor activation and increases parathyroid hormone secretion, demonstrating humoral control by a circulating mineral concentration.",
+      "notes": {
+        "A": "Neural regulation requires neuronal input to influence hormone release, whereas the calcium signal is detected directly by parathyroid cells.",
+        "C": "Tropic regulation involves stimulation by another hormone, such as pituitary TSH acting on the thyroid; this response requires no pituitary signal.",
+        "D": "Circadian regulation refers to secretion patterns linked to biological time, rather than an immediate response to reduced plasma calcium.",
+        "E": "Feedforward control anticipates a disturbance, whereas parathyroid hormone secretion responds to an existing calcium change through homeostatic feedback."
+      },
       "topicId": "endo-general",
       "subtopic": "Secretion control",
       "difficulty": "medium"
@@ -254,7 +296,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Growth hormone secretion is pulsatile and varies with sleep and other stimuli.",
+      "why": "Growth hormone secretion occurs in discrete pulses controlled by hypothalamic growth hormone-releasing hormone and somatostatin, with additional influences from sleep and metabolism. A single concentration may therefore capture a peak or trough rather than overall secretion.",
+      "notes": {
+        "A": "Constant secretion would make a random sample more representative, but growth hormone concentrations vary substantially throughout the day.",
+        "B": "Growth hormone-binding proteins influence circulating hormone distribution, but permanently fixed binding does not explain the major temporal variation in concentrations.",
+        "D": "Growth hormone is cleared through metabolic pathways, but the main sampling limitation is pulsatile secretion rather than episodic urinary excretion.",
+        "E": "Receptor saturation concerns target-cell responsiveness and cannot explain why plasma growth hormone concentrations fluctuate between secretory pulses."
+      },
       "topicId": "endo-general",
       "subtopic": "Secretion control",
       "difficulty": "medium"
@@ -286,7 +334,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Anterior pituitary cells receive hypothalamic releasing factors through portal blood.",
+      "why": "Hypothalamic releasing and inhibitory hormones reach the anterior pituitary through its hypophyseal portal circulation. Disruption impairs thyrotropin-releasing hormone delivery and therefore normal regulation of anterior pituitary thyroid-stimulating hormone secretion.",
+      "notes": {
+        "A": "Vasopressin is synthesised in hypothalamic neurons and transported along axons to the posterior pituitary, rather than delivered through portal blood.",
+        "B": "Oxytocin travels along hypothalamic neurosecretory axons to posterior pituitary terminals, so its delivery does not depend directly on portal vessels.",
+        "C": "Adrenal medullary secretion is controlled principally by sympathetic preganglionic input, not hypothalamic releasing hormones transported through pituitary portal vessels.",
+        "E": "Parathyroid chief cells directly sense extracellular calcium and regulate PTH independently of anterior pituitary portal circulation."
+      },
       "topicId": "endo-general",
       "subtopic": "Pituitary",
       "difficulty": "medium"
@@ -318,7 +372,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Supraoptic and paraventricular nuclei synthesize posterior pituitary hormones.",
+      "why": "Vasopressin is synthesised in magnocellular neurons of the hypothalamic supraoptic and paraventricular nuclei. It is transported with neurophysin along axons to posterior pituitary terminals, where it is stored and released into blood.",
+      "notes": {
+        "A": "The posterior pituitary contains neurosecretory axon terminals that store and release vasopressin, rather than being its principal site of synthesis.",
+        "B": "Anterior pituitary endocrine cells synthesise hormones such as growth hormone and TSH, but vasopressin originates predominantly in hypothalamic neurons.",
+        "C": "Adrenal chromaffin cells produce catecholamines in response to sympathetic stimulation, rather than synthesising the posterior pituitary antidiuretic hormone.",
+        "D": "Pineal secretory cells synthesise melatonin, which participates in circadian regulation, rather than producing hypothalamic vasopressin for posterior pituitary storage."
+      },
       "topicId": "endo-general",
       "subtopic": "Pituitary",
       "difficulty": "easy"
@@ -350,7 +410,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Dopamine provides tonic hypothalamic inhibition of prolactin secretion.",
+      "why": "Hypothalamic dopamine reaches anterior pituitary lactotrophs through portal blood and tonically inhibits prolactin secretion via D2 receptors. Stalk disruption reduces this inhibitory input, commonly causing an increase in circulating prolactin.",
+      "notes": {
+        "B": "Thyrotropin secretion depends on hypothalamic TRH stimulation, which is disrupted by stalk damage rather than selectively released from dopamine inhibition.",
+        "C": "Somatotropin secretion depends on hypothalamic releasing and inhibitory signals; loss of stalk input does not typically produce the characteristic prolactin rise.",
+        "D": "Luteinising hormone requires pulsatile hypothalamic GnRH delivery, so interruption of this pathway commonly impairs rather than increases secretion.",
+        "E": "Follicle-stimulating hormone is regulated partly by GnRH and gonadal feedback; stalk damage usually disrupts its normal hypothalamic stimulation."
+      },
       "topicId": "endo-general",
       "subtopic": "Pituitary",
       "difficulty": "medium"
@@ -382,7 +448,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Hypothalamic osmoreceptors respond to elevated plasma tonicity.",
+      "why": "Water deprivation increases effective plasma osmolality as water is lost relative to solute. Hypothalamic osmoreceptor activation promotes vasopressin release, increasing collecting-duct water permeability and reducing further urinary water loss.",
+      "notes": {
+        "A": "Reduced effective plasma osmolality suppresses osmotic stimulation of vasopressin, favouring excretion of excess water rather than conservation.",
+        "C": "Increased atrial filling signals greater central circulating volume and generally suppresses non-osmotic vasopressin release rather than stimulating it.",
+        "D": "Reduced plasma sodium usually lowers effective osmolality and therefore opposes osmotic vasopressin release unless other strong non-osmotic stimuli intervene.",
+        "E": "Glomerular filtration rate influences tubular fluid delivery, but it is not the primary hypothalamic signal during uncomplicated water deprivation."
+      },
       "topicId": "endo-general",
       "subtopic": "ADH",
       "difficulty": "easy"
@@ -414,7 +486,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Low effective circulating volume provides nonosmotic stimulation of ADH.",
+      "why": "Severe haemorrhage reduces arterial pressure and central vascular filling, decreasing stretch-sensitive baroreceptor afferent activity. This non-osmotic signal promotes vasopressin release even before plasma osmolality changes, helping conserve water and support circulation.",
+      "notes": {
+        "A": "Increased carotid sinus stretch indicates greater arterial pressure and generally suppresses compensatory vasopressin release rather than signalling haemorrhage.",
+        "B": "Increased atrial distension signals greater central blood volume, whereas haemorrhage reduces filling and activates volume-conserving mechanisms.",
+        "D": "Renal blood flow commonly decreases with substantial blood loss; increased flow is not the primary sensory signal initiating non-osmotic ADH release.",
+        "E": "Haemorrhage generally activates sympathetic catecholamine responses rather than reducing them; decreased baroreceptor firing is the relevant direct reflex signal."
+      },
       "topicId": "endo-general",
       "subtopic": "ADH",
       "difficulty": "hard"
@@ -446,7 +524,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Disproportionate water retention causes dilutional hyponatraemia and hypotonicity.",
+      "why": "Persistent vasopressin action increases collecting-duct water reabsorption. When water intake continues and retained water exceeds solute retention, plasma sodium becomes diluted and effective plasma osmolality falls, producing hypotonic hyponatraemia.",
+      "notes": {
+        "A": "Hypernatraemia and hyperosmolality usually reflect water deficit relative to sodium, rather than disproportionate water retention under excessive vasopressin action.",
+        "B": "Sodium itself contributes substantially to effective plasma osmolality; disproportionate water retention typically reduces rather than raises plasma sodium concentration.",
+        "C": "Hypokalaemia and alkalosis are more characteristic of some mineralocorticoid-related disorders, rather than the primary dilutional consequence of vasopressin excess.",
+        "E": "Calcium and phosphate regulation depends chiefly on mineral-regulating hormones and renal handling, not the primary water-retaining effect of ADH."
+      },
       "topicId": "endo-general",
       "subtopic": "ADH",
       "difficulty": "hard"
@@ -478,7 +562,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Nephrogenic diabetes insipidus is caused by renal insensitivity to vasopressin.",
+      "why": "Desmopressin mimics vasopressin action at renal V2 receptors. Persistent polyuria despite adequate administration suggests nephrogenic diabetes insipidus, in which collecting ducts cannot respond appropriately to the hormone by increasing water permeability.",
+      "notes": {
+        "A": "Deficient hypothalamic vasopressin synthesis causes central diabetes insipidus, which generally responds to replacement with desmopressin when renal responsiveness is intact.",
+        "B": "Failure of posterior pituitary vasopressin release is another central cause and should usually improve when the missing hormone action is replaced.",
+        "C": "The kidney is a major vasopressin target rather than the normal source of circulating ADH; excess secretion would tend to conserve water.",
+        "D": "Increased pituitary hormone storage does not explain failure to respond to administered desmopressin, which bypasses the need for endogenous hormone release."
+      },
       "topicId": "endo-general",
       "subtopic": "ADH",
       "difficulty": "medium"
@@ -510,7 +600,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Oxytocin contracts myoepithelial cells and drives the milk ejection reflex.",
+      "why": "Suckling activates hypothalamic pathways that release oxytocin from the posterior pituitary. Oxytocin contracts mammary myoepithelial cells surrounding alveoli and small ducts, propelling previously synthesised milk towards the nipple.",
+      "notes": {
+        "B": "Alveolar secretory epithelial cells synthesise milk under prolactin and other hormonal influences, rather than primarily contracting to expel it.",
+        "C": "Stromal fibroblasts provide extracellular matrix and structural support, but are not the specialised contractile cells responsible for milk ejection.",
+        "D": "Anterior pituitary lactotrophs secrete prolactin, which promotes milk synthesis; they do not mechanically compress mammary alveoli during suckling.",
+        "E": "Ovarian granulosa cells participate in follicular development and steroid synthesis, rather than forming the contractile apparatus of mammary glands."
+      },
       "topicId": "endo-general",
       "subtopic": "Oxytocin",
       "difficulty": "medium"
@@ -542,7 +638,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Oxytocin promotes further cervical stretch and reinforces its own stimulus.",
+      "why": "Cervical stretch activates sensory pathways promoting oxytocin release, which strengthens uterine contractions and causes further cervical stretch. This reinforcing cycle is positive feedback and terminates when delivery removes the initiating stimulus.",
+      "notes": {
+        "A": "Negative feedback counteracts the initiating change, whereas the described oxytocin response amplifies cervical stretch and uterine contraction.",
+        "C": "Tonic inhibition describes continuous suppressive input, rather than an escalating response in which the original stimulus becomes stronger.",
+        "D": "Delayed inhibition would eventually oppose the initiating stimulus, while the described labour mechanism repeatedly reinforces it until delivery.",
+        "E": "Receptor blockade would reduce oxytocin-mediated uterine contraction rather than account for the reinforcing stretch–contraction cycle."
+      },
       "topicId": "endo-general",
       "subtopic": "Oxytocin",
       "difficulty": "medium"
@@ -574,7 +676,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "IGF-1 transmits major growth-promoting effects of GH.",
+      "why": "Growth hormone stimulates production of insulin-like growth factor 1 in the liver and local tissues, including growth plates. IGF-1 promotes chondrocyte proliferation and differentiation, contributing substantially to longitudinal skeletal growth before epiphyseal fusion.",
+      "notes": {
+        "A": "Thyroid-stimulating hormone promotes thyroid hormone synthesis and secretion, rather than being the principal mediator of growth hormone action at cartilage.",
+        "B": "Adrenocorticotrophic hormone stimulates adrenal glucocorticoid production; excessive glucocorticoids can actually impair growth rather than mediate GH-dependent cartilage expansion.",
+        "D": "Parathyroid hormone regulates calcium and phosphate balance and influences bone remodelling, rather than serving as the primary GH-induced growth mediator.",
+        "E": "Corticotropin-releasing hormone stimulates pituitary ACTH release and regulates the stress axis, rather than transmitting growth hormone effects to epiphyseal cartilage."
+      },
       "topicId": "endo-general",
       "subtopic": "Growth hormone",
       "difficulty": "easy"
@@ -606,7 +714,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Linear skeletal growth depends substantially on GH-stimulated IGF-1.",
+      "why": "Growth hormone-induced circulating and locally produced IGF-1 contribute to growth-plate chondrocyte activity and linear skeletal growth. Markedly reduced hepatic IGF-1 can impair endocrine growth signalling, although locally produced IGF-1 and direct GH actions also contribute.",
+      "notes": {
+        "A": "Growth hormone can directly promote adipose lipolysis, so impaired circulating IGF-1 does not selectively abolish its fat-mobilising effects.",
+        "B": "Growth hormone has direct anti-insulin metabolic effects on glucose utilisation, rather than requiring IGF-1 for every reduction in cellular uptake.",
+        "C": "Increased fatty acid release from adipocytes is largely a direct metabolic action of growth hormone and may persist despite reduced hepatic IGF-1.",
+        "E": "Growth hormone promotes glucose sparing through direct metabolic effects, whereas longitudinal skeletal growth depends substantially on IGF-1 signalling."
+      },
       "topicId": "endo-general",
       "subtopic": "Growth hormone",
       "difficulty": "hard"
@@ -638,7 +752,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "High blood glucose tends to suppress GH secretion.",
+      "why": "Acute hyperglycaemia normally suppresses growth hormone secretion through hypothalamic and metabolic regulatory pathways. This physiological suppression underlies the oral glucose suppression test used to assess inappropriate GH secretion in suspected acromegaly.",
+      "notes": {
+        "A": "Hypoglycaemia stimulates counter-regulatory growth hormone secretion, helping oppose insulin action and support availability of circulating metabolic fuels.",
+        "B": "Deep non-REM sleep is associated with major physiological growth hormone secretory pulses rather than sustained suppression of its release.",
+        "C": "Exercise commonly stimulates growth hormone secretion during and around recovery, depending on intensity, duration and metabolic conditions.",
+        "D": "Certain amino acids, particularly arginine, can stimulate growth hormone release; acute hyperglycaemia is the characteristic suppressive stimulus among these choices."
+      },
       "topicId": "endo-general",
       "subtopic": "Growth hormone",
       "difficulty": "easy"
@@ -670,7 +790,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Plate fusion prevents further longitudinal growth, although appositional growth continues.",
+      "why": "After epiphyseal growth plates fuse, long bones cannot lengthen through growth-plate cartilage proliferation. Excess growth hormone and IGF-1 can still promote appositional bone growth and soft-tissue enlargement, producing acromegalic changes without increased adult height.",
+      "notes": {
+        "B": "Articular cartilage and other cartilaginous structures remain present in adults; disappearance of all cartilage is not required to stop linear growth.",
+        "C": "IGF-1 is generally increased in active acromegaly and contributes to tissue enlargement rather than ceasing after epiphyseal plate fusion.",
+        "D": "Growth hormone receptors remain functional in adult tissues, allowing excessive GH signalling to produce continued metabolic and structural changes.",
+        "E": "Periosteal and appositional bone growth can continue in adults and contributes to acromegalic enlargement, rather than being blocked."
+      },
       "topicId": "endo-general",
       "subtopic": "Growth hormone",
       "difficulty": "hard"
@@ -702,7 +828,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Elevated prolactin suppresses GnRH and thus gonadotropin secretion.",
+      "why": "Excess prolactin inhibits reproductive hypothalamic signalling, reducing pulsatile gonadotropin-releasing hormone secretion. The resulting reduction in gonadotropin drive impairs follicular maturation and ovulation, leading to menstrual irregularity or amenorrhoea.",
+      "notes": {
+        "A": "Amplifying the preovulatory LH surge would favour ovulation, whereas hyperprolactinaemia commonly disrupts the gonadotropin pattern necessary for normal ovulation.",
+        "C": "Ovarian aromatase supports oestrogen synthesis, but increased activity is not the principal mechanism of prolactin-induced reproductive-axis suppression.",
+        "D": "Enhanced follicular recruitment would not explain the usual hypogonadotropic response caused by excessive prolactin-mediated suppression of hypothalamic GnRH.",
+        "E": "Luteal growth follows ovulation and depends on gonadotropin support; hyperprolactinaemia can impair ovulatory and luteal function rather than accelerate them."
+      },
       "topicId": "endo-general",
       "subtopic": "Prolactin",
       "difficulty": "medium"
@@ -734,7 +866,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The fall in progesterone removes inhibition of full lactogenesis.",
+      "why": "Placental delivery causes a marked fall in circulating progesterone, removing its inhibition of abundant milk synthesis despite previously elevated prolactin. In the presence of appropriate mammary development and hormonal support, this permits secretory activation after birth.",
+      "notes": {
+        "A": "Placental oestrogen concentrations fall after delivery rather than increase; withdrawal of placental steroids supports the transition to copious milk production.",
+        "B": "Human chorionic gonadotropin declines after placental delivery and is not the principal trigger that releases mammary lactogenesis from inhibition.",
+        "D": "Increased hypothalamic dopamine inhibits prolactin secretion, so it would tend to oppose rather than promote prolactin-supported milk synthesis.",
+        "E": "Loss of prolactin receptors would impair mammary responsiveness to prolactin rather than explain activation of copious milk secretion."
+      },
       "topicId": "endo-general",
       "subtopic": "Prolactin",
       "difficulty": "medium"
@@ -766,7 +904,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "POMC is processed into ACTH and melanocortin-related peptides.",
+      "why": "Pro-opiomelanocortin is processed into ACTH and other melanocortin-related peptides. In primary adrenal insufficiency, loss of cortisol feedback increases ACTH production; excessive melanocortin receptor stimulation promotes melanin synthesis and characteristic hyperpigmentation.",
+      "notes": {
+        "A": "Preproinsulin is processed into insulin and C-peptide in pancreatic beta cells, rather than supplying ACTH or melanocortin-related peptides.",
+        "B": "Angiotensinogen is cleaved by renin during regulation of vascular tone and aldosterone secretion, not processed into ACTH or melanocortins.",
+        "C": "Thyroglobulin provides the tyrosine residues used to synthesise thyroid hormones, rather than serving as a precursor for pituitary ACTH.",
+        "E": "Preproglucagon is processed into glucagon and related peptides in different tissues, rather than producing pituitary adrenocorticotrophic hormone."
+      },
       "topicId": "endo-general",
       "subtopic": "Melanocortins",
       "difficulty": "medium"
@@ -798,7 +942,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The sodium-iodide symporter concentrates iodide using the sodium gradient.",
+      "why": "The basolateral sodium–iodide symporter uses the inward sodium electrochemical gradient to accumulate iodide within thyroid follicular cells. Sodium–potassium ATPase maintains that gradient, making iodide uptake a secondary active process required for thyroid hormone synthesis.",
+      "notes": {
+        "A": "Sodium–glucose symporters use sodium gradients to transport glucose, rather than providing the specialised basolateral iodide uptake pathway in thyroid follicles.",
+        "B": "Sodium–calcium exchange regulates calcium handling in many cells, but it does not concentrate iodide for thyroid hormone synthesis.",
+        "C": "Potassium–chloride cotransport mediates coupled electrolyte movement and cell-volume regulation, rather than the selective sodium-dependent accumulation of iodide.",
+        "D": "Passive channels permit downhill ion movement, whereas the thyroid concentrates iodide through sodium-coupled transport against its own electrochemical gradient."
+      },
       "topicId": "endo-thyroid",
       "subtopic": "Thyroid synthesis",
       "difficulty": "easy"
@@ -830,7 +980,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Thyroid peroxidase oxidizes and organifies iodine and catalyses iodotyrosine coupling.",
+      "why": "Thyroid peroxidase at the apical follicular interface uses hydrogen peroxide to oxidise iodide, iodinate tyrosine residues in thyroglobulin and couple iodotyrosines. These reactions produce the hormone residues subsequently released as T3 and T4.",
+      "notes": {
+        "B": "Endocytosis and lysosomal proteolysis recover thyroid hormones from stored thyroglobulin; these steps do not represent the direct catalytic function of thyroid peroxidase.",
+        "C": "Iodothyronine deiodinases activate or inactivate thyroid hormones, while binding proteins transport them; thyroid peroxidase catalyses earlier synthetic reactions.",
+        "D": "Filtration and clearance regulate circulating substances but are not the colloid reactions directly catalysed by thyroid peroxidase during hormone synthesis.",
+        "E": "Vesicular exocytosis supplies thyroglobulin to colloid, and iodotyrosine recycling recovers iodide; neither process is thyroid peroxidase's principal catalytic action."
+      },
       "topicId": "endo-thyroid",
       "subtopic": "Thyroid synthesis",
       "difficulty": "easy"
@@ -862,7 +1018,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "DIT plus DIT yields thyroxine, or T4.",
+      "why": "Thyroid peroxidase catalyses coupling of two diiodotyrosine residues within thyroglobulin to form a thyroxine residue containing four iodine atoms. Proteolytic processing of thyroglobulin subsequently releases thyroxine into the circulation.",
+      "notes": {
+        "A": "Triiodothyronine contains three iodine atoms and forms through coupling of monoiodotyrosine with diiodotyrosine in the appropriate orientation.",
+        "C": "Reverse T3 is an inactive triiodothyronine isomer generated mainly by inner-ring deiodination of thyroxine rather than coupling two diiodotyrosines.",
+        "D": "Monoiodotyrosine is formed by adding one iodine atom to a thyroglobulin tyrosine residue, rather than coupling two diiodotyrosine residues.",
+        "E": "Free iodide is an inorganic substrate for organification, rather than the iodinated hormone product created by coupling two diiodotyrosines."
+      },
       "topicId": "endo-thyroid",
       "subtopic": "Thyroid synthesis",
       "difficulty": "medium"
@@ -894,7 +1056,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Organification and coupling required for new hormone synthesis are blocked.",
+      "why": "Thionamides inhibit thyroid peroxidase-dependent iodide organification and iodotyrosine coupling, thereby reducing formation of newly synthesised T3 and T4. Previously stored iodinated thyroglobulin can still supply hormone, delaying the full clinical effect.",
+      "notes": {
+        "A": "Peripheral T4-to-T3 conversion is mediated by deiodinases; propylthiouracil can additionally inhibit this pathway, but it is distinct from thyroid peroxidase inhibition.",
+        "B": "Hypothalamic TRH is controlled through endocrine feedback and other neural signals, rather than being directly inhibited by blocking thyroid peroxidase.",
+        "D": "Hepatic plasma binding-protein synthesis influences hormone transport, but is not the immediate enzymatic target of thyroid peroxidase inhibition.",
+        "E": "Renal iodide filtration contributes to iodide elimination, whereas inhibition of thyroid peroxidase principally reduces incorporation of iodide into hormone precursors."
+      },
       "topicId": "endo-thyroid",
       "subtopic": "Thyroid synthesis",
       "difficulty": "hard"
@@ -926,7 +1094,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Large stores of iodinated thyroglobulin accumulate in follicular colloid.",
+      "why": "Thyroid follicles store large amounts of iodinated thyroglobulin extracellularly within colloid. Hormone residues remain covalently incorporated into this protein until endocytosis and proteolysis release T3 and T4, providing a substantial reserve.",
+      "notes": {
+        "A": "Most stored thyroid hormone residues are incorporated into extracellular thyroglobulin rather than maintained as free triiodothyronine in intracellular secretory vesicles.",
+        "B": "Circulating protein-bound thyroxine provides a plasma reservoir, but the distinctive glandular storage mechanism occurs within extracellular follicular colloid.",
+        "C": "Iodide is incorporated into tyrosine residues within thyroglobulin, rather than stored primarily as intracellular crystals of inorganic iodide.",
+        "E": "Plasma and lymphatic binding proteins carry hormone after secretion; they do not account for the characteristic large intrafollicular thyroid hormone reserve."
+      },
       "topicId": "endo-thyroid",
       "subtopic": "Thyroid storage",
       "difficulty": "easy"
@@ -958,7 +1132,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Colloid is endocytosed and thyroglobulin is proteolysed to liberate hormones.",
+      "why": "Thyroid-stimulating hormone stimulates follicular cells to internalise iodinated thyroglobulin from colloid. Lysosomal proteases cleave the protein, releasing T3 and T4 for transport across the basolateral membrane into the circulation.",
+      "notes": {
+        "A": "Iodide oxidation occurs at the apical follicular interface during hormone synthesis, not in plasma during release of previously stored hormone.",
+        "B": "Thyroglobulin is secreted apically into colloid for hormone synthesis and storage; hormone release requires recovery and proteolysis of the stored protein.",
+        "C": "Hepatic binding proteins influence thyroid hormone transport after its release, rather than liberating hormone residues from follicular thyroglobulin.",
+        "D": "Parafollicular cells secrete calcitonin and are not the source of T3 or T4 released from follicular colloid."
+      },
       "topicId": "endo-thyroid",
       "subtopic": "Thyroid secretion",
       "difficulty": "hard"
@@ -990,7 +1170,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "T3 binds and activates thyroid hormone receptors more effectively.",
+      "why": "Triiodothyronine has greater affinity and functional potency at nuclear thyroid hormone receptors than thyroxine. Much circulating T4 therefore serves as a longer-lived precursor converted within tissues to the more active T3.",
+      "notes": {
+        "B": "Thyroxine has a longer circulating half-life than triiodothyronine because of stronger plasma protein binding, despite lower intrinsic receptor potency.",
+        "C": "The thyroid secretes predominantly thyroxine by quantity; much biologically active triiodothyronine is generated subsequently through peripheral deiodination.",
+        "D": "Thyroxine is more extensively bound to plasma transport proteins, which prolongs circulation but does not confer greater nuclear receptor activity.",
+        "E": "Slower cellular entry would not directly explain greater receptor potency; triiodothyronine's stronger interaction with its nuclear receptors is more relevant."
+      },
       "topicId": "endo-thyroid",
       "subtopic": "Thyroid physiology",
       "difficulty": "medium"
@@ -1022,7 +1208,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Deiodinases remove one iodine atom from T4 to generate T3.",
+      "why": "Type 1 and type 2 iodothyronine deiodinases remove an outer-ring iodine atom from thyroxine to generate active triiodothyronine. Tissue-specific deiodinase activity regulates local thyroid hormone signalling as well as contributing to circulating T3.",
+      "notes": {
+        "A": "Thyroid peroxidase catalyses iodination and coupling within follicular thyroglobulin, rather than removing iodine from circulating hormone in peripheral tissues.",
+        "C": "Tyrosine hydroxylase catalyses an early step in catecholamine synthesis, rather than converting thyroxine to active triiodothyronine.",
+        "D": "Aromatic amino acid decarboxylases remove carboxyl groups during neurotransmitter synthesis, rather than selectively removing iodine atoms from iodothyronines.",
+        "E": "Adrenal steroid hydroxylases modify steroid precursors during corticosteroid synthesis, rather than catalysing peripheral thyroid hormone activation."
+      },
       "topicId": "endo-thyroid",
       "subtopic": "Thyroid physiology",
       "difficulty": "easy"
@@ -1054,7 +1246,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Thyroid hormone is calorigenic and increases basal metabolic rate.",
+      "why": "Thyroid hormone increases expression and activity of multiple metabolic pathways, including mitochondrial energy metabolism and ATP-consuming processes. Excess hormone therefore increases resting oxygen consumption, heat production and basal energy expenditure in many tissues.",
+      "notes": {
+        "A": "Plasma binding proteins influence circulating total hormone concentrations, but increased oxygen consumption indicates enhanced metabolic activity rather than binding alone.",
+        "B": "Renal phosphate clearance can change in endocrine disorders, but is not the direct explanation for the systemic calorigenic effect of thyroid hormone.",
+        "D": "Increased oxygen consumption indicates enhanced aerobic metabolism, rather than an isolated increase in anaerobic energy production without oxygen utilisation.",
+        "E": "Thyroid hormone affects many organ systems; increased resting oxygen consumption reflects broad metabolic stimulation rather than intestinal calcium absorption alone."
+      },
       "topicId": "endo-thyroid",
       "subtopic": "Thyroid metabolism",
       "difficulty": "medium"
@@ -1086,7 +1284,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Upregulated hepatic LDL receptors enhance clearance of circulating LDL.",
+      "why": "Thyroid hormone increases hepatic LDL receptor expression and promotes receptor-mediated clearance of circulating low-density lipoproteins. Although it also affects cholesterol synthesis and turnover, enhanced clearance can lower plasma LDL cholesterol in hyperthyroid states.",
+      "notes": {
+        "A": "Loss of hepatic LDL receptors would impair removal of circulating LDL particles and tend to raise their plasma concentration.",
+        "B": "Increased intestinal cholesterol synthesis alone does not explain enhanced removal of circulating LDL by the liver under thyroid hormone stimulation.",
+        "C": "Chylomicrons transport dietary lipids from the intestine, rather than providing the principal mechanism of thyroid hormone-mediated LDL clearance.",
+        "E": "Inhibition of receptor-mediated LDL endocytosis would reduce particle removal and tend to increase circulating LDL rather than decrease it."
+      },
       "topicId": "endo-thyroid",
       "subtopic": "Thyroid metabolism",
       "difficulty": "medium"
@@ -1118,7 +1322,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Thyroid hormone increases cardiac responsiveness to catecholamines.",
+      "why": "Excess thyroid hormone increases cardiac responsiveness to adrenergic stimulation and alters expression of proteins regulating pacemaker activity and contraction. These effects contribute to sinus tachycardia and increased cardiac performance, even without markedly increased circulating catecholamine concentrations.",
+      "notes": {
+        "A": "Reduced sinoatrial automaticity would slow the heart rate, whereas excess thyroid hormone commonly increases pacemaker activity and produces tachycardia.",
+        "B": "Reduced catecholamine responsiveness would oppose the characteristic cardiovascular stimulation associated with thyroid hormone excess, rather than explain the faster heart rate.",
+        "C": "Reduced myocardial beta-adrenergic receptor expression would tend to blunt adrenergic responses, whereas thyroid hormone can enhance cardiac beta-adrenergic signalling.",
+        "D": "Suppressed cardiac calcium handling would impair aspects of contraction and relaxation, rather than explain the typical hyperdynamic cardiovascular state."
+      },
       "topicId": "endo-thyroid",
       "subtopic": "Thyroid cardiovascular effects",
       "difficulty": "easy"
@@ -1150,7 +1360,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Extra heat generation promotes peripheral vasodilatation.",
+      "why": "Increased thyroid hormone-driven metabolism generates additional heat and increases tissue metabolic demand, favouring peripheral vasodilatation. Reduced systemic vascular resistance, together with increased heart rate, contractility and circulating volume, contributes to the hyperdynamic circulation of hyperthyroidism.",
+      "notes": {
+        "B": "Generalised arteriolar spasm increases vascular resistance and would oppose the vasodilatory haemodynamic pattern commonly observed with excess thyroid hormone.",
+        "C": "Reduced skin perfusion limits heat loss, whereas hyperthyroidism commonly increases cutaneous blood flow to dissipate excess metabolic heat.",
+        "D": "Thyroid hormone excess increases rather than reduces metabolic heat production, helping explain compensatory peripheral vasodilatation and heat intolerance.",
+        "E": "Increased peripheral alpha-adrenergic vasoconstriction would raise systemic vascular resistance rather than explain its reduction despite higher cardiac output."
+      },
       "topicId": "endo-thyroid",
       "subtopic": "Thyroid cardiovascular effects",
       "difficulty": "medium"
@@ -1182,7 +1398,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Hypothyroidism produces slow relaxation of deep-tendon reflexes.",
+      "why": "Thyroid hormone deficiency slows skeletal-muscle metabolic and calcium-handling processes, delaying relaxation after contraction. Prolongation of the relaxation phase of deep-tendon reflexes, particularly the ankle jerk, is therefore a classical clinical feature of hypothyroidism.",
+      "notes": {
+        "A": "Hyperthyroidism commonly produces brisk reflexes and heightened neuromuscular excitability rather than the characteristically delayed relaxation associated with thyroid deficiency.",
+        "C": "Aldosterone excess may cause hypokalaemic muscle weakness, but delayed ankle-jerk relaxation is not its characteristic thyroid-like clinical sign.",
+        "D": "Adrenaline excess produces adrenergic manifestations such as tremor and tachycardia, rather than the classical prolonged relaxation phase of hypothyroid reflexes.",
+        "E": "Parathyroid hormone excess alters calcium metabolism and may contribute to weakness, but delayed tendon-reflex relaxation is classically associated with hypothyroidism."
+      },
       "topicId": "endo-thyroid",
       "subtopic": "Thyroid nervous system",
       "difficulty": "medium"
@@ -1214,7 +1436,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Thyroid hormones are required for early brain development and myelination.",
+      "why": "Adequate thyroid hormone is essential during early development for neuronal differentiation, synaptic organisation and myelination. Severe untreated congenital hypothyroidism can disrupt these time-sensitive processes and produce lasting neurodevelopmental impairment, which is why early detection matters.",
+      "notes": {
+        "A": "Excess fetal cortical oxygen is not the principal mechanism of neurodevelopmental injury from inadequate thyroid hormone during early life.",
+        "B": "Thyroid hormone deficiency impairs normal myelination rather than enhancing it, contributing to delayed maturation of the developing nervous system.",
+        "D": "Fetal steroid synthesis is not the primary thyroid-dependent process accounting for later learning difficulties in severe congenital hypothyroidism.",
+        "E": "Normal neuronal migration and differentiation require appropriate thyroid hormone signalling; accelerated migration is not the characteristic explanation for developmental impairment."
+      },
       "topicId": "endo-thyroid",
       "subtopic": "Thyroid nervous system",
       "difficulty": "medium"
@@ -1246,7 +1474,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "High TSH reflects attempted compensation for inadequate thyroid production.",
+      "why": "Low free thyroxine reduces negative feedback on the hypothalamus and anterior pituitary, increasing thyroid-stimulating hormone secretion. A markedly elevated TSH despite low free T4 therefore indicates failure of the thyroid gland to respond adequately.",
+      "notes": {
+        "A": "Primary pituitary failure typically produces low free T4 with an inappropriately low or normal TSH rather than a markedly compensatory elevation.",
+        "B": "Hypothalamic dysfunction can reduce thyrotropin-releasing hormone drive and cause central hypothyroidism, rather than the usual high-TSH pattern of primary thyroid failure.",
+        "C": "The pineal gland secretes melatonin and is not the principal organ responsible for thyroid hormone production or pituitary TSH feedback.",
+        "E": "Adrenal cortical failure affects steroid hormones and can influence other axes, but it does not best explain this characteristic primary thyroid pattern."
+      },
       "topicId": "endo-thyroid",
       "subtopic": "Thyroid control",
       "difficulty": "hard"
@@ -1278,7 +1512,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Hypothalamic or pituitary failure leads to an inadequate TSH response.",
+      "why": "Central hypothyroidism results from insufficient hypothalamic or pituitary stimulation of the thyroid. Free T4 is reduced, but TSH is inappropriately low or normal rather than rising sufficiently to compensate; clinical context helps distinguish pituitary from hypothalamic disease.",
+      "notes": {
+        "A": "Primary hypothyroidism generally causes a compensatory increase in TSH because the pituitary senses inadequate circulating thyroid hormone and increases stimulation.",
+        "B": "Graves disease usually produces excess thyroid hormone through stimulatory TSH-receptor antibodies, resulting in elevated free hormone and suppressed endogenous TSH.",
+        "C": "Toxic nodular hyperthyroidism causes autonomous thyroid hormone production, typically increasing circulating hormone concentrations while suppressing pituitary TSH through feedback.",
+        "D": "Thyroid hormone resistance commonly presents with elevated thyroid hormone concentrations and inadequately suppressed TSH, rather than this low-free-T4 central pattern."
+      },
       "topicId": "endo-thyroid",
       "subtopic": "Thyroid control",
       "difficulty": "hard"
