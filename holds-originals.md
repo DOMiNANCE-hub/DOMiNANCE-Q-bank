@@ -65,3 +65,21 @@
 - Key: D — increases by about 400 ml.
 - Concern: Moving from upright to supine generally redistributes blood centrally and increases pulmonary blood volume, but the precise 400 mL increment is not a universal physiological constant. The original source value and measurement conditions have not been independently verified, and another option (doubling) could overlap numerically depending on baseline. Confirm course source before revising the explanation. Original explanation/key unchanged.
 - Reference: Guyton & Hall, pulmonary circulation and blood reservoir function (exact edition/page not checked).
+
+## dq-phys-gi-003 — absence of the submucosal plexus
+- Stem: The submucosal plexus is notably absent from the
+- Key: C — stomach and oesophagus.
+- Concern: Submucosal neuronal organisation varies by region and species. In the stomach and oesophagus, submucosal ganglia are relatively sparse or may not form a prominent continuous plexus; absolute absence is not a safe general statement. Confirm the intended lecture/histological convention. Original explanation and key untouched.
+- Reference: standard enteric nervous system histology and physiology (Ross & Pawlina; Furness, The Enteric Nervous System; exact edition/page not independently checked).
+
+## dq-phys-gi-007 — slow waves and spike-dependent contraction
+- Stem: Slow waves themselves do not cause contraction unless they reach threshold and trigger
+- Key: B — spike (action) potentials.
+- Concern: This is a useful model for much intestinal phasic activity, but the unqualified statement is too broad: gastric slow-wave depolarisation can be associated with calcium entry and contraction even without superimposed discrete spikes. Recommend specifying intestinal smooth muscle or clarifying the regional exception. Original explanation and key untouched.
+- Reference: standard gastrointestinal electrophysiology and Guyton & Hall discussion of gastrointestinal slow waves (exact edition/page not independently checked).
+
+## dq-phys-gi-031 — location of gastrin-producing G cells
+- Stem: Gastrin, which stimulates acid secretion and gastric motility, is released by the
+- Key: A — G cells of the gastric pits.
+- Concern: G cells are indeed the principal source of gastrin, predominantly within the pyloric/antral glands, especially their deeper portions; gastric pits are epithelial invaginations distinct from the glandular compartments. The keyed cell identity is correct but its stated location is imprecise. Recommend changing "gastric pits" to "pyloric/antral glands" during independent review. Original explanation and key untouched.
+- Reference: Ross & Pawlina and Junqueira, gastric mucosa histology (exact edition/page not independently checked).
