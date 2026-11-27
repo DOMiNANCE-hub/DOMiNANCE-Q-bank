@@ -30,7 +30,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Straight tubules deliver sperm to the rete testis before the efferent ductules.",
+      "why": "Sperm released into seminiferous tubule lumina pass through straight tubules into the rete testis, an anastomosing network in the mediastinum testis. Efferent ductules subsequently convey them to the epididymis.",
+      "notes": {
+        "B": "The ductus deferens receives sperm from the epididymal tail and transports them during emission, downstream of the rete testis.",
+        "C": "Ejaculatory ducts form from the ductus deferens and seminal vesicle ducts, far downstream of the intratesticular collecting network.",
+        "D": "The prostatic urethra receives semen from ejaculatory ducts, rather than directly collecting sperm from seminiferous tubules.",
+        "E": "Seminal vesicles produce accessory gland fluid and do not form the first collecting network for newly produced sperm."
+      },
       "topicId": "repro-male",
       "subtopic": "Reproductive anatomy",
       "difficulty": "medium"
@@ -62,7 +68,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Efferent ductules connect the rete testis with the epididymal head.",
+      "why": "Efferent ductules connect the rete testis to the head of the epididymis. Their epithelium absorbs much testicular fluid, concentrating sperm while ciliary and smooth-muscle activity help move them downstream.",
+      "notes": {
+        "A": "Ejaculatory ducts deliver semen to the prostatic urethra rather than conveying sperm between rete testis and epididymis.",
+        "C": "The ductus deferens begins at the epididymal tail, carrying sperm downstream during emission rather than into the epididymal head.",
+        "D": "Prostatic ducts convey secretions from prostatic glands into the urethra, not sperm from the intratesticular rete.",
+        "E": "Seminal vesicle ducts contribute accessory gland secretion to ejaculatory ducts rather than connecting the rete testis with the epididymis."
+      },
       "topicId": "repro-male",
       "subtopic": "Reproductive anatomy",
       "difficulty": "easy"
@@ -94,7 +106,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Fibrous septa from the tunica albuginea divide the testis into lobules.",
+      "why": "The tunica albuginea is a dense fibrous capsule surrounding the testis. Connective-tissue septa extend inward towards the mediastinum, partitioning testicular parenchyma into lobules containing seminiferous tubules and interstitial tissue.",
+      "notes": {
+        "A": "Accessory reproductive glands supply seminal fluid, whereas the tunica albuginea provides structural support and organisation of testicular tissue.",
+        "B": "Germ cells within seminiferous tubules undergo spermatogenesis; the surrounding fibrous capsule does not itself generate sperm cells.",
+        "D": "Dartos smooth muscle alters scrotal skin tension and surface area, rather than testicular septa arising from the tunica albuginea.",
+        "E": "Sperm storage occurs principally in the epididymal tail, rather than within the dense connective-tissue capsule of the testis."
+      },
       "topicId": "repro-male",
       "subtopic": "Reproductive anatomy",
       "difficulty": "medium"
@@ -126,7 +144,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Tight junctions between Sertoli cells form the blood-testis barrier.",
+      "why": "Tight junctions between adjacent Sertoli cells divide seminiferous epithelium into basal and adluminal compartments. This blood–testis barrier restricts immune access to developing germ cells and maintains the specialised environment required for meiosis.",
+      "notes": {
+        "A": "Leydig-cell testosterone supports spermatogenesis but does not form the physical junctional barrier separating adluminal germ cells from interstitial substances.",
+        "B": "The pampiniform plexus contributes to testicular heat exchange, rather than forming a selective epithelial barrier within seminiferous tubules.",
+        "C": "Tunica vaginalis fluid reduces friction around the testis but does not isolate developing spermatocytes within the seminiferous epithelium.",
+        "E": "Epididymal smooth-muscle contractions help transport sperm downstream and do not establish the intratubular blood–testis barrier."
+      },
       "topicId": "repro-male",
       "subtopic": "Sertoli cells",
       "difficulty": "hard"
@@ -158,7 +182,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Sertoli cells nurture germ cells and organize their development in seminiferous tubules.",
+      "why": "Sertoli cells provide metabolic substrates, growth factors and structural support to developing germ cells within seminiferous tubules. Loss of this supporting environment impairs germ-cell survival and differentiation, thereby disrupting sperm production.",
+      "notes": {
+        "A": "Adrenal steroidogenesis occurs in adrenal cortical cells and is not directly dependent on testicular Sertoli-cell support.",
+        "B": "Ejaculation depends on coordinated autonomic and somatic neural pathways, rather than the intratubular nourishment function of Sertoli cells.",
+        "C": "Prostatic epithelial cells produce prostatic fluid under hormonal regulation, rather than receiving direct nutritional support from Sertoli cells.",
+        "D": "Urethral smooth-muscle tone is regulated largely through autonomic mechanisms and is not the principal target of Sertoli-cell activity."
+      },
       "topicId": "repro-male",
       "subtopic": "Sertoli cells",
       "difficulty": "medium"
@@ -190,7 +220,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Meiosis I converts diploid primary spermatocytes to haploid secondary spermatocytes.",
+      "why": "Primary spermatocytes undergo the first meiotic division, separating homologous chromosomes to produce secondary spermatocytes. Each resulting cell has a haploid chromosome set, although each chromosome still contains two sister chromatids until meiosis II.",
+      "notes": {
+        "B": "Mature spermatozoa arise through subsequent spermiogenesis of spermatids, rather than directly from the first meiotic division.",
+        "C": "Type A spermatogonia maintain the germ-cell population through mitotic proliferation, preceding entry into meiosis as primary spermatocytes.",
+        "D": "Round spermatids result from the second meiotic division of secondary spermatocytes, not directly from the first division.",
+        "E": "Type B spermatogonia are mitotic precursors of primary spermatocytes, rather than haploid products of primary spermatocyte meiosis."
+      },
       "topicId": "repro-male",
       "subtopic": "Spermatogenesis",
       "difficulty": "easy"
@@ -222,7 +258,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Secondary spermatocytes undergo meiosis II to form spermatids.",
+      "why": "Secondary spermatocytes undergo meiosis II, separating sister chromatids to form haploid spermatids. These cells subsequently differentiate through spermiogenesis without further cell division, acquiring the specialised morphology of mature spermatozoa.",
+      "notes": {
+        "A": "Spermatogonia are mitotically dividing germ-cell precursors that occur before the primary and secondary spermatocyte stages.",
+        "C": "Primary spermatocytes enter meiosis I and therefore precede the secondary spermatocytes whose second division produces spermatids.",
+        "D": "Leydig cells are interstitial steroid-producing somatic cells and do not arise from meiotic division of developing male germ cells.",
+        "E": "Sertoli cells support germ-cell development within seminiferous tubules rather than being products of spermatocyte meiosis."
+      },
       "topicId": "repro-male",
       "subtopic": "Spermatogenesis",
       "difficulty": "easy"
@@ -254,7 +296,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Spermiogenesis differentiates spermatids into spermatozoa, including acrosome and flagellum formation.",
+      "why": "Spermiogenesis remodels haploid spermatids into spermatozoa without additional cell division. Golgi-derived vesicles form the acrosome, the nucleus condenses, a flagellum develops and excess cytoplasm is discarded.",
+      "notes": {
+        "A": "Spermatocytes are produced earlier from spermatogonial precursors, whereas spermiogenesis remodels already formed haploid spermatids.",
+        "B": "Meiotic divisions precede spermiogenesis and generate haploid spermatids; differentiation of those spermatids does not require another meiosis.",
+        "D": "Mitotic spermatogonial proliferation maintains the precursor population before meiosis, rather than transforming spermatids into mature spermatozoa.",
+        "E": "Primary oocytes are female germ cells and do not arise during male spermatid differentiation in seminiferous tubules."
+      },
       "topicId": "repro-male",
       "subtopic": "Spermiogenesis",
       "difficulty": "easy"
@@ -286,7 +334,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The midpiece houses a mitochondrial sheath that provides energy for flagellar movement.",
+      "why": "The sperm midpiece contains a helically arranged mitochondrial sheath surrounding the flagellar apparatus. Mitochondrial oxidative metabolism contributes ATP for motility, alongside glycolysis occurring in other regions of the sperm flagellum.",
+      "notes": {
+        "A": "The sperm nucleus contains the compacted paternal genome rather than the mitochondrial sheath supporting flagellar energy metabolism.",
+        "B": "The acrosomal cap contains specialised material involved in fertilisation, rather than housing the principal organised mitochondrial sheath.",
+        "C": "The distal flagellar region contributes to propulsion but lacks the mitochondrial sheath characteristic of the midpiece.",
+        "E": "Centriolar structures help organise the flagellar apparatus, whereas the densely packed mitochondria are arranged along the midpiece."
+      },
       "topicId": "repro-male",
       "subtopic": "Sperm structure",
       "difficulty": "easy"
@@ -318,7 +372,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The acrosome overlies the sperm head and releases enzymes during the acrosome reaction.",
+      "why": "The acrosome is a Golgi-derived organelle covering the anterior sperm nucleus. During the acrosome reaction, membrane fusion exposes or releases proteins and enzymes that facilitate sperm interactions with the oocyte's surrounding investments.",
+      "notes": {
+        "A": "The midpiece houses mitochondria associated with motility, rather than the specialised enzyme-containing organelle overlying the sperm head.",
+        "B": "The sperm nucleus carries paternal genetic material and is not the compartment releasing acrosomal enzymes during fertilisation.",
+        "C": "The epididymal duct provides an environment for sperm maturation, rather than containing the sperm-borne organelle responsible for acrosomal release.",
+        "D": "Seminal vesicles produce fructose-rich accessory secretion, rather than supplying the acrosomal organelle of individual spermatozoa."
+      },
       "topicId": "repro-male",
       "subtopic": "Sperm structure",
       "difficulty": "easy"
@@ -350,7 +410,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Inhibin B suppresses pituitary FSH release and helps regulate sperm production.",
+      "why": "Sertoli cells release inhibin B in association with spermatogenic activity and FSH stimulation. Inhibin B acts on anterior pituitary gonadotrophs to selectively reduce FSH secretion, providing feedback regulation of testicular supporting-cell function.",
+      "notes": {
+        "B": "LH secretion is regulated mainly by GnRH and gonadal steroid feedback, whereas inhibin B preferentially suppresses FSH.",
+        "C": "ACTH controls adrenal glucocorticoid synthesis and is regulated primarily through CRH and cortisol feedback rather than testicular inhibin B.",
+        "D": "TSH regulates thyroid hormone synthesis and responds to TRH and thyroid hormone feedback, not principally to inhibin B.",
+        "E": "Growth hormone secretion is governed largely by GHRH, somatostatin and metabolic feedback, rather than selective inhibition by Sertoli-cell inhibin B."
+      },
       "topicId": "repro-male",
       "subtopic": "Spermatogenic control",
       "difficulty": "hard"
@@ -382,7 +448,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "LH acts on Leydig cells to stimulate testosterone secretion.",
+      "why": "LH activates receptors on testicular Leydig cells, increasing cAMP-dependent steroidogenic signalling and testosterone production. Loss of LH signalling therefore directly impairs Leydig-cell androgen synthesis even if FSH continues stimulating Sertoli cells.",
+      "notes": {
+        "A": "FSH directly stimulates Sertoli-cell function and inhibin B production; its preserved signalling makes Leydig steroidogenesis the more direct defect.",
+        "C": "Epididymal fluid absorption depends on epithelial transport mechanisms and is not the immediate cellular consequence of absent LH receptor signalling.",
+        "D": "Acrosomal enzyme release occurs during fertilisation-associated sperm activation, rather than being directly stimulated by circulating LH.",
+        "E": "Accessory gland secretion depends partly on androgen action, but its composition is a downstream consequence rather than the direct Leydig-cell response."
+      },
       "topicId": "repro-male",
       "subtopic": "Spermatogenic control",
       "difficulty": "medium"
@@ -414,7 +486,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Testosterone acting with Sertoli-cell support is required for spermatogenesis.",
+      "why": "High local testosterone concentrations maintain androgen receptor signalling in testicular supporting cells, especially Sertoli cells. This signalling supports meiotic progression, germ-cell adhesion and spermatid differentiation, and is essential for normal spermatogenesis.",
+      "notes": {
+        "A": "Acrosomal discharge occurs after sperm capacitation and appropriate fertilisation-related stimulation, rather than being the principal purpose of high intratesticular testosterone.",
+        "B": "Urinary continence depends on bladder outlet and sphincter mechanisms, rather than high local androgen concentrations within seminiferous tissue.",
+        "D": "Seminal fructose is produced largely by seminal vesicles; this accessory gland function does not explain the required high intratesticular androgen concentration.",
+        "E": "Prostatic contraction during emission depends on autonomic motor activity, rather than the immediate spermatogenic requirement for local testosterone."
+      },
       "topicId": "repro-male",
       "subtopic": "Spermatogenic control",
       "difficulty": "medium"
@@ -446,7 +524,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Cool venous blood countercurrently cools incoming testicular arterial blood.",
+      "why": "The pampiniform plexus surrounds the testicular artery with relatively cooler returning venous blood. Countercurrent heat transfer cools incoming arterial blood, helping maintain the lower testicular temperature required for efficient spermatogenesis.",
+      "notes": {
+        "A": "Raising testicular temperature can impair spermatogenesis, whereas countercurrent exchange generally helps reduce the temperature of arterial inflow.",
+        "B": "Leydig and Sertoli cells produce testicular regulatory hormones; the pampiniform plexus is a vascular network rather than an endocrine tissue.",
+        "C": "Sperm are stored principally within the epididymal duct, not within the venous network surrounding the testicular artery.",
+        "E": "Androgen receptor expression is regulated through cellular mechanisms, while the plexus principally contributes to testicular thermoregulation."
+      },
       "topicId": "repro-male",
       "subtopic": "Thermoregulation",
       "difficulty": "hard"
@@ -478,7 +562,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The cremaster elevates or lowers the testis to aid temperature regulation.",
+      "why": "The cremaster is striated muscle associated with the spermatic cord that elevates the testis when it contracts. Relaxation permits descent, contributing to positioning of the testis relative to body heat during thermoregulatory responses.",
+      "notes": {
+        "A": "Bulbospongiosus contributes to expulsion of semen and urine from the urethra, rather than directly elevating the testis.",
+        "B": "Ischiocavernosus compresses erectile tissue at the root of the penis and does not directly alter testicular position.",
+        "C": "The external urethral sphincter provides voluntary urinary outlet control rather than moving the testis towards or away from the trunk.",
+        "D": "Levator ani supports pelvic organs and contributes to continence, rather than forming the testis-elevating muscle of the spermatic cord."
+      },
       "topicId": "repro-male",
       "subtopic": "Thermoregulation",
       "difficulty": "easy"
@@ -510,7 +600,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Relaxed dartos smooth muscle permits scrotal skin expansion for heat loss.",
+      "why": "Dartos smooth muscle contracts in cold conditions, wrinkling scrotal skin and reducing exposed surface area. Relaxation in warmth smooths the skin and increases exposed area, facilitating heat loss from the scrotal contents.",
+      "notes": {
+        "B": "Reducing scrotal surface area conserves heat and accompanies dartos contraction, rather than relaxation during warm environmental conditions.",
+        "C": "Testicular elevation is achieved chiefly through cremaster contraction, while dartos relaxation reduces scrotal wrinkling and favours heat dissipation.",
+        "D": "Pampiniform venous flow supports testicular heat exchange; dartos relaxation does not normally stop this important vascular circulation.",
+        "E": "Leydig-cell steroid synthesis is principally regulated by LH, rather than being directly accelerated by relaxation of scrotal skin muscle."
+      },
       "topicId": "repro-male",
       "subtopic": "Thermoregulation",
       "difficulty": "easy"
@@ -542,7 +638,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Sperm mature functionally as they pass through the epididymis.",
+      "why": "Sperm leaving the testis are functionally immature and acquire progressive motility competence during passage through the epididymis. Epididymal epithelial secretions and luminal conditions modify their membranes and proteins, preparing them for later capacitation.",
+      "notes": {
+        "A": "Seminal vesicles contribute fructose-rich fluid at ejaculation but do not provide the principal site of post-testicular sperm maturation.",
+        "C": "The prostate contributes seminal fluid and enzymes, rather than providing the prolonged epithelial environment where sperm acquire motility competence.",
+        "D": "Bulbourethral glands secrete lubricating mucus into the urethra and do not provide the primary maturation pathway for testicular sperm.",
+        "E": "Ejaculatory ducts convey sperm and glandular secretions towards the urethra, after epididymal maturation has already occurred."
+      },
       "topicId": "repro-male",
       "subtopic": "Sperm maturation",
       "difficulty": "easy"
@@ -574,7 +676,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Capacitation changes membrane properties and enables fertilizing competence.",
+      "why": "Capacitation modifies sperm membrane lipid composition and signalling during exposure to the female reproductive tract or suitable laboratory conditions. These changes promote hyperactivated motility and competence to undergo the acrosome reaction during fertilisation.",
+      "notes": {
+        "A": "Spermatogonial mitosis precedes meiosis and sperm differentiation, rather than providing the final functional preparation for the acrosome reaction.",
+        "B": "Testosterone is produced mainly by Leydig cells, and hepatic testosterone production is not the preceding process enabling acrosomal competence.",
+        "D": "Seminal vesicles produce accessory secretion rather than storing sperm; functional capacitation occurs after sperm leave the male reproductive tract.",
+        "E": "Pituitary prolactin has reproductive endocrine roles, but its secretion does not directly remodel the sperm membrane for acrosomal responsiveness."
+      },
       "topicId": "repro-male",
       "subtopic": "Capacitation",
       "difficulty": "hard"
@@ -606,7 +714,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Capacitation reorganizes sperm surface lipids and removes inhibitory seminal factors.",
+      "why": "Capacitation involves cholesterol efflux, changes in membrane organisation and removal or modification of inhibitory surface-associated factors acquired in seminal and epididymal fluid. These changes alter sperm signalling and prepare it for fertilisation-associated responses.",
+      "notes": {
+        "A": "Sperm form a single acrosome during spermiogenesis; capacitation changes its functional readiness rather than producing an additional acrosomal organelle.",
+        "B": "Mature sperm do not duplicate their nucleus during capacitation, which primarily modifies cell membranes, motility and intracellular signalling.",
+        "C": "An intact flagellum is important for reaching the oocyte, and capacitation can promote hyperactivated rather than absent flagellar motility.",
+        "E": "Meiosis is completed before spermiogenesis and epididymal maturation; capacitation is a functional transformation rather than another chromosome division."
+      },
       "topicId": "repro-male",
       "subtopic": "Capacitation",
       "difficulty": "easy"
@@ -638,7 +752,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Seminal-vesicle secretion is rich in fructose and contributes much seminal volume.",
+      "why": "Seminal vesicles secrete a substantial proportion of seminal plasma, including fructose that can serve as an energy substrate for sperm. Their secretion also contains proteins and other substances contributing to semen composition and function.",
+      "notes": {
+        "A": "The prostate supplies citrate, zinc and enzymes, rather than being the principal source of fructose in normal seminal plasma.",
+        "B": "Bulbourethral glands mainly produce lubricating mucus before ejaculation, rather than providing the major fructose-rich seminal fluid contribution.",
+        "C": "The epididymal duct supports sperm maturation through specialised epithelial transport and secretion, not the principal fructose-rich accessory gland contribution.",
+        "D": "Testicular interstitial Leydig cells produce testosterone, whereas seminal fructose is supplied largely by accessory seminal vesicle glands."
+      },
       "topicId": "repro-male",
       "subtopic": "Seminal fluid",
       "difficulty": "easy"
@@ -670,7 +790,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Prostatic secretion contains zinc, citrate and proteolytic enzymes that help liquefy semen.",
+      "why": "Prostatic epithelial cells secrete citrate, zinc and enzymes including prostate-specific antigen, a protease that cleaves seminal coagulum proteins. These constituents help establish the biochemical environment of semen and permit its liquefaction after ejaculation.",
+      "notes": {
+        "B": "Seminal vesicles contribute fructose and coagulum-forming proteins, whereas the prostate provides characteristic zinc, citrate and liquefying proteases.",
+        "C": "Bulbourethral glands primarily produce lubricating mucus rather than the characteristic citrate-rich secretion containing seminal liquefaction enzymes.",
+        "D": "The epididymis regulates sperm maturation and storage, rather than supplying the main prostatic biochemical constituents of seminal plasma.",
+        "E": "Cowper's glands are bulbourethral glands whose ducts convey mucus, rather than the secretory source of prostate-specific antigen and citrate."
+      },
       "topicId": "repro-male",
       "subtopic": "Seminal fluid",
       "difficulty": "easy"
@@ -702,7 +828,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Bulbourethral glands secrete mucus before semen passes through the urethra.",
+      "why": "Bulbourethral glands release mucus into the proximal spongy urethra during sexual arousal. This pre-ejaculatory secretion contributes to urethral lubrication and conditions the passage before semen is expelled through it.",
+      "notes": {
+        "A": "Seminal vesicles contribute much of the fluid released during emission, rather than being the principal source of early lubricating urethral mucus.",
+        "C": "The prostate releases fluid containing citrate and proteolytic enzymes during emission, rather than being the principal source of bulbourethral mucus.",
+        "D": "Seminiferous tubules produce germ cells and testicular fluid, not the mucus released directly into the urethra before ejaculation.",
+        "E": "Epididymal epithelium supports sperm maturation and storage rather than secreting the characteristic pre-ejaculatory mucus into the urethra."
+      },
       "topicId": "repro-male",
       "subtopic": "Seminal fluid",
       "difficulty": "medium"
@@ -734,7 +866,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Five-alpha reductase converts testosterone to dihydrotestosterone.",
+      "why": "Five-alpha reductase converts testosterone into dihydrotestosterone, which activates androgen receptors with greater potency in several target tissues. DHT is particularly important for external genital development, prostatic growth and selected androgen-dependent hair patterns.",
+      "notes": {
+        "A": "Aromatase converts testosterone into estradiol, producing an oestrogen rather than the more potent androgen dihydrotestosterone.",
+        "B": "Twenty-one hydroxylase participates in adrenal corticosteroid synthesis, rather than reducing testosterone to a more potent androgen in peripheral tissues.",
+        "D": "Thyroid peroxidase catalyses iodination and coupling during thyroid hormone synthesis, rather than metabolising testosterone to dihydrotestosterone.",
+        "E": "Aldosterone synthase catalyses late mineralocorticoid biosynthetic reactions, not the peripheral conversion of testosterone into dihydrotestosterone."
+      },
       "topicId": "repro-male",
       "subtopic": "Testosterone metabolism",
       "difficulty": "medium"
@@ -766,7 +904,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Aromatase converts testosterone to estradiol, contributing to bone maturation.",
+      "why": "Aromatase converts testosterone into estradiol in various tissues, including bone. Estradiol signalling contributes to epiphyseal maturation, growth-plate fusion and bone maintenance in males as well as females.",
+      "notes": {
+        "A": "Cortisol is produced through adrenal glucocorticoid biosynthesis from steroid precursors, rather than by aromatisation of testosterone in skeletal tissue.",
+        "B": "Aldosterone is a mineralocorticoid produced in adrenal zona glomerulosa and does not mediate the specified oestrogen-dependent skeletal effects.",
+        "C": "Thyroxine is an iodinated tyrosine-derived hormone, not a product of testosterone reduction or conversion within skeletal tissue.",
+        "E": "Adrenaline is a catecholamine derived from tyrosine, rather than an oestrogen formed by metabolic modification of testosterone."
+      },
       "topicId": "repro-male",
       "subtopic": "Testosterone metabolism",
       "difficulty": "hard"
@@ -798,7 +942,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Most testosterone circulates bound to sex hormone-binding globulin and albumin.",
+      "why": "Testosterone is lipophilic and circulates largely bound to sex hormone-binding globulin and albumin. SHBG provides high-affinity binding, while albumin binds more weakly; only a small fraction circulates unbound and readily available for receptor interaction.",
+      "notes": {
+        "A": "Albumin binds testosterone, but fibrinogen is a clotting protein rather than its principal specialised high-affinity circulating carrier.",
+        "B": "Transferrin transports iron and ferritin primarily stores it; neither constitutes the principal specialised plasma carrier of testosterone.",
+        "C": "Haemoglobin and myoglobin bind oxygen in erythrocytes and muscle respectively, rather than transporting most circulating androgen hormone.",
+        "D": "Thyroglobulin provides the thyroid hormone synthesis scaffold and TBG transports thyroid hormones, rather than forming the principal testosterone-binding pair."
+      },
       "topicId": "repro-male",
       "subtopic": "Testosterone transport",
       "difficulty": "medium"
@@ -830,7 +980,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Nitric oxide increases cGMP and relaxes cavernosal smooth muscle.",
+      "why": "Pelvic parasympathetic and nitrergic neural activity increases nitric oxide signalling in erectile tissue. Nitric oxide activates soluble guanylyl cyclase, raising cGMP and relaxing cavernosal smooth muscle, thereby increasing blood inflow and facilitating venous occlusion.",
+      "notes": {
+        "B": "Alpha-1 adrenergic signalling generally contracts cavernosal smooth muscle and favours detumescence rather than initiating parasympathetic erectile relaxation.",
+        "C": "Endothelin commonly promotes vascular and cavernosal smooth-muscle contraction, rather than providing the principal relaxing mediator during erection.",
+        "D": "Angiotensin II generally promotes smooth-muscle contraction through AT1 receptor signalling, opposite to the characteristic nitric oxide-mediated erectile relaxation.",
+        "E": "Vasopressin V1 signalling promotes vasoconstrictor responses rather than the main parasympathetic mechanism increasing blood inflow to erectile tissue."
+      },
       "topicId": "repro-male",
       "subtopic": "Male sexual response",
       "difficulty": "hard"
@@ -862,7 +1018,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "PDE5 breaks down cGMP; its inhibition prolongs cavernosal smooth-muscle relaxation.",
+      "why": "Phosphodiesterase type 5 hydrolyses cGMP in cavernosal smooth muscle. Inhibiting this enzyme prolongs nitric oxide-dependent cGMP signalling, sustaining relaxation and facilitating the haemodynamic response to appropriate erectile stimulation.",
+      "notes": {
+        "A": "Cyclic AMP is degraded by other phosphodiesterase activities and is not the principal substrate selectively targeted by PDE5 inhibitors.",
+        "C": "Nitric oxide activates soluble guanylyl cyclase upstream of cGMP production; PDE5 inhibition preserves cGMP rather than directly preventing nitric oxide breakdown.",
+        "D": "Acetylcholine is broken down principally by acetylcholinesterase, whereas phosphodiesterase type 5 acts on the cyclic nucleotide cGMP.",
+        "E": "Prostaglandin F2alpha is a lipid mediator, not the cyclic nucleotide substrate hydrolysed by phosphodiesterase type 5."
+      },
       "topicId": "repro-male",
       "subtopic": "Male sexual response",
       "difficulty": "medium"
@@ -894,7 +1056,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Sympathetic contraction of reproductive ducts and accessory glands causes emission.",
+      "why": "Emission depends predominantly on sympathetic activation of smooth muscle in the ductus deferens, seminal vesicles and prostate. Their coordinated contraction moves sperm and accessory gland secretions into the posterior urethra before the expulsive phase.",
+      "notes": {
+        "A": "Pelvic parasympathetic pathways principally support erection and related secretory responses, rather than providing the dominant contractile drive for emission.",
+        "B": "Somatic sensory afferents participate in initiating sexual reflexes but do not directly supply reproductive duct smooth muscle during emission.",
+        "D": "Vagal pathways regulate many thoracic and abdominal viscera but are not the principal autonomic route controlling male reproductive emission.",
+        "E": "Enteric neural circuits coordinate gastrointestinal motility and secretion, rather than sympathetic contraction of reproductive ducts and accessory glands."
+      },
       "topicId": "repro-male",
       "subtopic": "Male sexual response",
       "difficulty": "easy"
@@ -926,7 +1094,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Somatic pudendal pathways drive striated muscle contractions during ejaculation.",
+      "why": "During the expulsion phase, sacral somatic motor neurons send signals through pudendal pathways to striated perineal muscles, particularly bulbospongiosus. Rhythmic contraction generates pressure pulses that propel semen through the urethra.",
+      "notes": {
+        "A": "Pelvic parasympathetic fibres promote erectile responses but do not provide the principal somatic motor supply to striated expulsive muscles.",
+        "B": "Vagal preganglionic fibres control selected visceral organs, not the sacral somatic motor pathways coordinating perineal muscle contractions.",
+        "C": "Cervical sympathetic fibres do not provide direct somatic motor innervation of striated pelvic floor and perineal muscles.",
+        "E": "Hypophyseal portal vessels transport hypothalamic regulatory hormones rather than conducting rapid motor signals responsible for rhythmic ejaculatory contractions."
+      },
       "topicId": "repro-male",
       "subtopic": "Male sexual response",
       "difficulty": "medium"
@@ -958,7 +1132,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "High LH shows pituitary compensation for failing testicular androgen production.",
+      "why": "Primary testicular failure reduces testosterone output despite pituitary stimulation. Loss of androgen negative feedback increases LH secretion, producing a hypergonadotropic hypogonadal pattern that distinguishes primary gonadal dysfunction from inadequate hypothalamic or pituitary drive.",
+      "notes": {
+        "A": "Primary pituitary failure usually reduces LH secretion, producing low testosterone with inappropriately low or normal gonadotropin concentrations.",
+        "B": "Hypothalamic GnRH deficiency reduces pituitary gonadotropin stimulation, rather than generating the compensatory LH elevation typical of primary testicular failure.",
+        "C": "Excess testosterone feedback suppresses LH, which contradicts the combination of low testosterone and elevated LH in this presentation.",
+        "D": "Isolated adrenal medullary loss affects catecholamine production rather than directly causing failure of testicular steroidogenesis with raised gonadotropins."
+      },
       "topicId": "repro-male",
       "subtopic": "Puberty and disorders",
       "difficulty": "hard"
@@ -990,7 +1170,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Follicles populate the ovarian cortex, while vessels and nerves lie largely in the medulla.",
+      "why": "Developing ovarian follicles occupy the cortical stroma beneath the surface epithelium and tunica albuginea. The central medulla contains relatively loose connective tissue, larger vessels and nerves supplying the ovarian parenchyma.",
+      "notes": {
+        "B": "The ovarian medulla contains major vascular and neural structures, whereas most primordial and developing follicles lie within the cortical stroma.",
+        "C": "Hilar vessels enter or leave the ovary but do not themselves constitute the principal compartment containing developing ovarian follicles.",
+        "D": "The mesovarium attaches the ovary to the broad ligament and transmits supporting structures, rather than housing the ovarian follicular population.",
+        "E": "The uterine tube receives the ovulated oocyte but is anatomically separate from the ovarian cortex where follicles develop."
+      },
       "topicId": "repro-female",
       "subtopic": "Ovarian anatomy",
       "difficulty": "easy"
@@ -1022,7 +1208,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Primary oocytes remain arrested in prophase I from fetal life until recruitment.",
+      "why": "During fetal development, oogonia enter meiosis I and become primary oocytes that arrest in diplotene of prophase I. They remain arrested within follicles until selected oocytes resume meiosis during later reproductive cycles.",
+      "notes": {
+        "A": "Metaphase I follows resumption of the first meiotic division and is not the prolonged prenatal arrest stage of primary oocytes.",
+        "C": "Anaphase I involves separation of homologous chromosomes near completion of the first division, rather than the stage maintained at birth.",
+        "D": "Meiosis II begins after completion of meiosis I around ovulation, not during the prolonged fetal primary-oocyte arrest.",
+        "E": "Metaphase II is the normal arrest of the ovulated secondary oocyte, rather than the primary oocyte present at birth."
+      },
       "topicId": "repro-female",
       "subtopic": "Oogenesis",
       "difficulty": "medium"
@@ -1054,7 +1246,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The secondary oocyte begins meiosis II and arrests at metaphase II until fertilization.",
+      "why": "The preovulatory LH surge promotes completion of meiosis I, yielding a secondary oocyte and first polar body. The secondary oocyte enters meiosis II and arrests at metaphase II, normally remaining there until fertilisation triggers completion.",
+      "notes": {
+        "A": "Prophase I is the prolonged arrest stage of primary oocytes before preovulatory meiotic resumption, rather than the usual ovulated cell stage.",
+        "B": "Metaphase I is a transient stage preceding formation of the secondary oocyte and first polar body during preovulatory maturation.",
+        "D": "Anaphase II follows release from metaphase II arrest after activation of the secondary oocyte, normally triggered by fertilisation.",
+        "E": "Telophase II occurs during completion of the second meiotic division, which normally follows fertilisation rather than preceding ovulation."
+      },
       "topicId": "repro-female",
       "subtopic": "Oogenesis",
       "difficulty": "easy"
@@ -1086,7 +1284,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Fertilization triggers completion of the second meiotic division.",
+      "why": "Sperm–oocyte fusion normally initiates intracellular calcium oscillations that release the secondary oocyte from metaphase II arrest. Completion of meiosis II separates sister chromatids and extrudes the second polar body, producing the mature female gamete.",
+      "notes": {
+        "A": "Mitosis preserves chromosome number and is not the division completing maturation of the metaphase II-arrested secondary oocyte.",
+        "B": "Meiosis I has usually finished before ovulation, producing the secondary oocyte and first polar body, rather than occurring after sperm entry.",
+        "C": "Oogonia are proliferative germ-cell precursors of fetal development; sperm entry does not normally generate another oogonium.",
+        "E": "Prophase I precedes the first meiotic division, whereas fertilisation-associated activation allows the arrested secondary oocyte to proceed forward through meiosis II."
+      },
       "topicId": "repro-female",
       "subtopic": "Oogenesis",
       "difficulty": "hard"
@@ -1118,7 +1322,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Unequal cytokinesis preserves most cytoplasm in the future ovum.",
+      "why": "Oocyte meiotic divisions segregate chromosomes while partitioning cytoplasm asymmetrically. Small polar bodies receive chromosome sets but little cytoplasm, preserving organelles, maternal RNA and other resources within the large gamete needed to support early embryonic development.",
+      "notes": {
+        "A": "Equal cytoplasmic division would distribute cellular resources among multiple similar-sized products rather than preserving most cytoplasm within one large oocyte.",
+        "B": "Repeated mitosis maintains or expands precursor cells but cannot explain haploid gamete formation with chromosome-containing polar bodies.",
+        "C": "Fusion of two oocytes does not generate normal polar bodies; these result from asymmetric cytokinesis during the oocyte's meiotic divisions.",
+        "D": "Chromosome segregation must occur correctly to produce haploid products; unequal cytoplasmic partitioning does not imply failure of chromosome separation."
+      },
       "topicId": "repro-female",
       "subtopic": "Oogenesis",
       "difficulty": "medium"
@@ -1150,7 +1360,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Primordial follicles contain a primary oocyte surrounded by flat pregranulosa cells.",
+      "why": "A primordial follicle contains a prophase I-arrested primary oocyte surrounded by a single layer of flattened pregranulosa cells. During activation, these cells become cuboidal and proliferate as the follicle enters the growing primary stage.",
+      "notes": {
+        "B": "A large antrum develops during later follicular growth and is absent from both primordial and early primary follicles.",
+        "C": "Luteinisation is associated with periovulatory transformation of follicular cells, rather than being a defining feature of a resting primordial follicle.",
+        "D": "The zona pellucida develops around the growing oocyte; complete loss of this structure is not the distinguishing primordial follicle feature.",
+        "E": "The corpus luteum forms from the ruptured follicle after ovulation, rather than representing the earliest resting follicular stage."
+      },
       "topicId": "repro-female",
       "subtopic": "Follicular development",
       "difficulty": "easy"
@@ -1182,7 +1398,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Follicular fluid cavities coalesce into the antrum.",
+      "why": "As granulosa cells proliferate and follicular fluid accumulates, small extracellular fluid spaces merge into a larger antrum. This cavity characterises antral follicles and enlarges considerably during selection and maturation of the dominant follicle.",
+      "notes": {
+        "A": "The corpus albicans is a fibrous remnant of a regressed corpus luteum rather than the fluid-filled cavity of a growing follicle.",
+        "C": "The zona reticularis is an adrenal cortical steroidogenic layer and does not form within an ovarian antral follicle.",
+        "D": "The ovarian medulla is a central vascular stromal region, rather than a cavity produced by accumulation of follicular fluid.",
+        "E": "The uterine tube isthmus is a narrow muscular segment of the oviduct, not a structure appearing within the growing ovarian follicle."
+      },
       "topicId": "repro-female",
       "subtopic": "Follicular development",
       "difficulty": "easy"
@@ -1214,7 +1436,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Most recruited follicles regress as a dominant follicle matures.",
+      "why": "Several follicles may grow during a menstrual cycle, but one usually becomes dominant through enhanced responsiveness and favourable hormonal conditions. Declining FSH availability contributes to regression of other follicles through atresia, so usually only one ovulates.",
+      "notes": {
+        "A": "Most recruited follicles undergo atresia rather than proceeding to ovulation, making simultaneous ovulation of every recruited follicle unusual.",
+        "B": "The great majority of primordial follicles never reach ovulation; many undergo atresia during reproductive life or remain dormant.",
+        "D": "Luteal cells develop from periovulatory follicular cells after the antral follicle has matured, not before the antral stage.",
+        "E": "Secondary oocytes are normally formed near ovulation after puberty, whereas prepubertal follicles generally contain arrested primary oocytes."
+      },
       "topicId": "repro-female",
       "subtopic": "Follicular development",
       "difficulty": "medium"
@@ -1246,7 +1474,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Theca-derived androgens are aromatized to estrogens by granulosa cells.",
+      "why": "LH stimulates theca interna cells to synthesise androgen precursors from cholesterol. These androgens diffuse into neighbouring granulosa cells, where FSH-regulated aromatase converts them into oestrogens, demonstrating cooperation between two follicular cell types.",
+      "notes": {
+        "A": "Progesterone becomes a major luteal steroid after ovulation, but the key thecal substrate for granulosa aromatase is androgen.",
+        "B": "Prolactin is produced principally by anterior pituitary lactotrophs, rather than being the follicular steroid substrate supplied by theca cells.",
+        "C": "Oxytocin is a hypothalamic peptide hormone released from the posterior pituitary, rather than a theca-derived aromatase substrate.",
+        "E": "Inhibin is a granulosa-associated regulatory protein that suppresses FSH and cannot serve as a steroid substrate for aromatase."
+      },
       "topicId": "repro-female",
       "subtopic": "Steroid synthesis",
       "difficulty": "hard"
@@ -1278,7 +1512,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "FSH increases granulosa aromatase, converting theca-derived androgens to estrogens.",
+      "why": "FSH activates granulosa-cell signalling that increases aromatase expression and activity. Aromatase converts theca-derived androgen precursors into oestrogens, including estradiol, supporting follicular maturation and the progressive rise in circulating oestrogen during the follicular phase.",
+      "notes": {
+        "A": "Five-alpha reductase converts testosterone into dihydrotestosterone rather than catalysing oestrogen formation in ovarian granulosa cells.",
+        "B": "Twenty-one hydroxylase contributes to adrenal glucocorticoid and mineralocorticoid biosynthesis, rather than converting follicular androgens into oestrogens.",
+        "C": "Thyroid peroxidase catalyses iodination reactions within thyroid follicles, not ovarian conversion of androgen precursors into estradiol.",
+        "D": "Renin initiates angiotensin peptide formation by cleaving angiotensinogen and does not catalyse ovarian steroid aromatisation."
+      },
       "topicId": "repro-female",
       "subtopic": "Steroid synthesis",
       "difficulty": "hard"
@@ -1310,7 +1550,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Variations in follicular development account for most menstrual cycle length differences.",
+      "why": "The follicular phase varies in length because the timing of follicular recruitment, selection and maturation differs between cycles. The postovulatory luteal phase is generally more consistent, although its duration is not completely fixed.",
+      "notes": {
+        "B": "The luteal phase usually varies less than the follicular phase because corpus luteum function has a relatively constrained duration without pregnancy.",
+        "C": "Corpus luteum lifespan influences luteal-phase duration, but variability in time to ovulation usually accounts for more cycle-length variation.",
+        "D": "The progesterone-dominant postovulatory phase corresponds to the luteal phase and is generally less variable than the preceding follicular interval.",
+        "E": "The endometrial secretory phase follows ovulation and largely parallels luteal progesterone exposure, rather than being the main variable preovulatory interval."
+      },
       "topicId": "repro-female",
       "subtopic": "Ovarian cycle",
       "difficulty": "easy"
@@ -1342,7 +1588,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Sustained high estradiol induces positive feedback that triggers the preovulatory LH surge.",
+      "why": "Sustained high estradiol from the dominant follicle changes hypothalamic–pituitary regulation from predominantly negative to positive feedback. Increased gonadotropin drive and pituitary responsiveness generate the preovulatory LH surge, which initiates final oocyte maturation and follicular rupture.",
+      "notes": {
+        "A": "Moderate estradiol concentrations ordinarily exert negative feedback, but sustained high preovulatory estradiol promotes rather than prevents the LH surge.",
+        "C": "The preovulatory response involves increased pituitary responsiveness to GnRH rather than complete loss of its receptors and gonadotropin stimulation.",
+        "D": "FSH may exhibit a smaller midcycle surge, so complete suppression of follicular FSH is not the defining positive-feedback response.",
+        "E": "Ovarian LH receptors participate in the response to the gonadotropin surge; their inactivation would oppose normal ovulatory events."
+      },
       "topicId": "repro-female",
       "subtopic": "Ovarian cycle",
       "difficulty": "medium"
