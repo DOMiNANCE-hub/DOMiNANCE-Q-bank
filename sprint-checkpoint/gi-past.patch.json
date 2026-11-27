@@ -178,5 +178,167 @@
       "C": "Pepsinogen is released chiefly by gastric chief cells and becomes active after exposure to gastric acid.",
       "E": "G cells, chiefly in the antrum, secrete gastrin and thereby stimulate acid production downstream."
     }
+  },
+  "phy-gi-235": {
+    "why": "Gastric chief cells release pepsinogen and gastric lipase. Acid converts the inactive precursor pepsinogen to pepsin. Hydrochloric acid is also a component of gastric juice, but it is not an enzyme.",
+    "notes": {
+      "B": "Trypsinogen is from the pancreas, while maltase activity is located at the small-intestinal brush border.",
+      "C": "Hydrochloric acid creates the low gastric pH and helps activate pepsinogen. It is an acid rather than a digestive enzyme.",
+      "D": "Pepsin and gastric lipase handle protein and some fat. Amylase in swallowed material comes mainly from saliva at this point.",
+      "E": "The pancreas supplies the major digestive nucleases, and digestive amylase comes from the salivary glands and pancreas."
+    }
+  },
+  "phy-gi-240": {
+    "why": "Motilin promotes strong gastric and upper intestinal contractions during fasting, particularly phase III of the migrating motor complex. Gastrin can stimulate antral motility after a meal.",
+    "notes": {
+      "A": "This group includes secretin and cholecystokinin, which can slow gastric emptying during duodenal feedback.",
+      "B": "Secretin and cholecystokinin help slow delivery from the stomach as the duodenum processes acid and nutrients.",
+      "D": "This group includes inhibitory gut signals. For example, cholecystokinin slows gastric emptying in response to duodenal fatty acids.",
+      "E": "Histamine mainly stimulates gastric acid secretion via H2 receptors, and secretin is associated with inhibitory feedback on gastric emptying."
+    }
+  },
+  "phy-gi-243": {
+    "why": "Gastrin, histamine and acetylcholine are the three standard stimulators of gastric acid secretion. Gastrin acts largely through histamine release from enterochromaffin-like cells. Histamine is mostly paracrine here, and acetylcholine is a neural transmitter.",
+    "notes": {
+      "A": "Somatostatin inhibits acid secretion. Secretin and cholecystokinin participate in intestinal feedback rather than forming the primary acid-stimulatory trio.",
+      "B": "Histamine and acetylcholine stimulate acid secretion. The list also contains signals such as secretin that have different principal actions.",
+      "C": "Somatostatin is an inhibitory signal for gastrin and acid secretion, and GIP is not part of the direct acid-stimulatory trio.",
+      "D": "These mediators are not the standard combination of gastric acid signals that converge on the parietal cell."
+    }
+  },
+  "phy-gi-254": {
+    "why": "Gastric chief cells secrete pepsinogen, the precursor to the protease pepsin, as well as gastric lipase. Low gastric pH activates pepsinogen so that protein digestion can begin in the stomach.",
+    "notes": {
+      "B": "Hydrochloric acid is secreted by parietal cells via their apical hydrogen–potassium ATPase.",
+      "C": "Mucous cells at the surface and in the gland neck secrete mucus. Chief cells are distinguished by digestive precursors.",
+      "D": "Gastrointestinal hormones come from specialised enteroendocrine cells. For example, antral G cells secrete gastrin.",
+      "E": "Locally acting mediators such as gastric histamine have separate sources. Histamine is released by enterochromaffin-like cells."
+    }
+  },
+  "phy-gi-266": {
+    "why": "Hydrochloric acid lowers gastric pH and initiates the activation of pepsinogen to pepsin. Active pepsin then promotes further precursor cleavage and digests proteins under acidic conditions.",
+    "notes": {
+      "A": "The fasting stomach commonly has a pH below four. Food can buffer the acid and temporarily raise the pH after a meal.",
+      "C": "Ferrous iron is already the reduced form. Conversion to ferric iron is oxidation, and gastric acidity helps keep dietary iron soluble.",
+      "D": "Pentagastrin is a gastrin analogue that stimulates parietal acid output, partly by promoting histamine release.",
+      "E": "Parietal acid secretion is stimulated through H2 receptors. The expected acid-dependent effect on bacterial survival is not specific to H1 blockade."
+    }
+  },
+  "phy-gi-270": {
+    "why": "Vagal stimulation evokes gastric juice secretion during the cephalic phase. Cholinergic pathways stimulate secretory cells and vagal–enteric pathways enhance gastrin and histamine signalling to parietal cells.",
+    "notes": {
+      "B": "Chewing without swallowing chiefly evokes a vagally mediated cephalic response. Vagotomy markedly decreases this gastric secretory response.",
+      "C": "Gastric acidity inhibits most salivary amylase activity. Lingual lipase can work in acid, but gastric juice does not generally activate salivary enzymes.",
+      "D": "The gastric mucosa has a protective mucus–bicarbonate barrier, a tight epithelium and mucosal blood flow that limit injury from acid and pepsin.",
+      "E": "Refluxed gastric juice can irritate or injure oesophageal mucosa, where protection from prolonged acid exposure is weaker."
+    }
+  },
+  "phy-gi-275": {
+    "why": "Chewing and tasting food activate the cephalic phase before food reaches the stomach. Intact vagal pathways mediate the gastric secretory response to this form of sham feeding.",
+    "notes": {
+      "B": "The relevant histamine receptor for stimulation of acid secretion is H2 on parietal cells. Blocking H1 is not a stimulus.",
+      "C": "The effect of emotional states on gastric secretion can vary. Chewing and tasting are reproducible cephalic-phase stimuli.",
+      "D": "Gastric emptying depends on accommodation, antral contractions and pyloric coordination. The relative speed after denervation varies with the meal and conditions.",
+      "E": "Secretin is released in response to duodenal acid and mainly stimulates pancreatic bicarbonate. It does not drive gastric acid secretion."
+    }
+  },
+  "phy-gi-279": {
+    "why": "Intrinsic factor in gastric juice binds vitamin B12 after it is transferred from haptocorrin in the small intestine. The intrinsic factor–B12 complex is then taken up by receptors in the terminal ileum.",
+    "notes": {
+      "A": "Food peptides in the pyloric antrum stimulate G-cell gastrin release, which increases gastric acid secretion.",
+      "B": "Acid secretion adds bicarbonate to the gastric venous blood. This produces a transient rise in pH called the alkaline tide.",
+      "C": "Vagal innervation supports the cephalic and gastric secretory responses. Vagotomy decreases the neural contribution to secretion.",
+      "D": "Salivary and pancreatic amylase plus intestinal brush-border enzymes provide the main steps for carbohydrate digestion."
+    }
+  },
+  "phy-gi-287": {
+    "why": "A proton-pump inhibitor suppresses acid secretion by blocking the gastric hydrogen–potassium ATPase. The subsequent rise in intragastric pH lowers acid exposure at the ulcer and can relieve pain as healing proceeds.",
+    "notes": {
+      "B": "Lowering the pH increases acidity and can increase acid exposure at the injured surface.",
+      "C": "Stimulating H2 receptors increases parietal acid secretion. H2 receptor antagonists can instead suppress acid output.",
+      "D": "An acetylcholinesterase inhibitor increases the availability of acetylcholine and does not provide standard acid suppression for ulcers.",
+      "E": "The gastric proton pump increases delivery of hydrogen ions to the lumen. Stimulating it would increase acid exposure."
+    }
+  },
+  "phy-gi-299": {
+    "why": "Renin is a kidney protease that cleaves angiotensinogen to angiotensin I. Milk coagulation is associated with chymosin, historically called rennin, which cleaves a casein component. The two enzymes have different substrates.",
+    "notes": {
+      "A": "Pancreatic alpha-amylase hydrolyses internal alpha-1,4 bonds in starch, producing smaller carbohydrates.",
+      "B": "Pancreatic elastase can digest elastin and other proteins. It is secreted as a precursor activated in the intestinal lumen.",
+      "D": "Enteropeptidase at the duodenal brush border activates trypsinogen by cutting its activation peptide.",
+      "E": "Phospholipase A2 releases the fatty acid at the second position of a phospholipid backbone by hydrolysing its ester bond."
+    }
+  },
+  "phy-gi-307": {
+    "why": "Gastric parietal cells in the oxyntic glands secrete intrinsic factor as well as hydrochloric acid. Intrinsic factor is needed for normal receptor-mediated vitamin B12 uptake in the terminal ileum.",
+    "notes": {
+      "B": "Chief cells secrete pepsinogen and gastric lipase. Intrinsic factor comes from the neighbouring parietal cells.",
+      "C": "The upper abdomen is an anatomical region. The specific source is the parietal cell in the gastric body and fundus.",
+      "D": "The alpha cells of pancreatic islets release glucagon into the circulation, not a luminal protein needed for B12 uptake.",
+      "E": "Parotid acini provide watery saliva containing amylase. Salivary B12-binding haptocorrin is distinct from gastric intrinsic factor."
+    }
+  },
+  "phy-gi-311": {
+    "why": "Vagal activation stimulates antral G cells through enteric neurons that release gastrin-releasing peptide. The resulting gastrin raises acid output, largely by promoting release of histamine from enterochromaffin-like cells.",
+    "notes": {
+      "A": "Low antral pH stimulates D-cell somatostatin output, which inhibits gastrin release by negative feedback.",
+      "B": "Calcitonin is primarily involved in calcium regulation. It is not the usual stimulus for meal-related gastrin secretion.",
+      "C": "Secretin is released in response to acid in the duodenum and promotes bicarbonate secretion. It does not mediate the vagal gastrin response.",
+      "E": "Luminal gastric acid inhibits gastrin release, and calcitonin does not account for the normal vagal stimulus."
+    }
+  },
+  "phy-gi-322": {
+    "why": "The stomach accommodates meals by receptive relaxation and uses antral peristalsis both to mix and propel its contents. It also shows periodic contractions during fasting as part of the migrating motor complex.",
+    "notes": {
+      "A": "During fasting, the migrating motor complex includes intermittent strong contractions that help clear residual contents.",
+      "B": "Propulsive contractions move gastric contents toward the pylorus. A portion of liquid and fine particles can enter the duodenum.",
+      "C": "Antral contractions can mix gastric contents when the pyloric outlet narrows and chyme moves back into the stomach.",
+      "D": "Receptive relaxation of the proximal stomach accommodates a swallowed meal with little early rise in intragastric pressure."
+    }
+  },
+  "phy-gi-323": {
+    "why": "Acid secreted by parietal cells lowers gastric pH and initiates conversion of pepsinogen to active pepsin. Active pepsin then helps activate additional pepsinogen and hydrolyses dietary protein.",
+    "notes": {
+      "A": "Gastric pH is often well below four when fasting, although food can buffer the lumen temporarily.",
+      "C": "Gastric acidity helps keep non-haem iron soluble. The ferrous form is the reduced form used for uptake by the intestinal divalent metal transporter.",
+      "D": "Pentagastrin stimulates gastric acid output because it acts as an analogue of the hormone gastrin.",
+      "E": "Histamine stimulates parietal acid secretion through H2 receptors. Blocking H1 is not the usual mechanism for loss of the gastric acid barrier."
+    }
+  },
+  "phy-gi-324": {
+    "why": "Gastric juice has the lowest pH of these digestive fluids because parietal cells secrete hydrochloric acid. Saliva and the fluids entering the duodenum are buffered and are usually much less acidic.",
+    "notes": {
+      "B": "Bile contains bile salts and bicarbonate and is generally mildly alkaline before mixing with gastric contents.",
+      "C": "Pancreatic juice is bicarbonate rich and raises the pH of duodenal contents after gastric emptying.",
+      "D": "Saliva contains bicarbonate buffers, whose concentrations vary with flow. Its pH is generally far above that of gastric juice.",
+      "E": "Small-intestinal fluid and duodenal mucus are generally nearer neutral and help protect the mucosa from gastric acid."
+    }
+  },
+  "phy-gi-219": {
+    "why": "Acidic chyme stimulates duodenal S cells to release secretin. Secretin stimulates pancreatic duct cells to secrete bicarbonate, which buffers incoming hydrogen ions and raises the pH in the duodenal lumen.",
+    "notes": {
+      "B": "Gastrin increases gastric acid output. It does not supply the feedback signal for pancreatic bicarbonate secretion.",
+      "C": "Intrinsic factor binds vitamin B12 for ileal uptake and has no major role in duodenal buffering.",
+      "D": "Cholecystokinin stimulates pancreatic enzyme release and gallbladder contraction. Secretin is the principal signal for bicarbonate output when acid arrives.",
+      "E": "Gastrin-releasing peptide stimulates antral G cells, which can increase gastric acid production during vagal activation."
+    }
+  },
+  "phy-gi-224": {
+    "why": "Duodenal S cells release secretin in response to acid delivered from the stomach. The hormone increases bicarbonate-rich pancreatic and biliary secretion to buffer the duodenal contents.",
+    "notes": {
+      "A": "Cholecystokinin is released mainly in response to fatty acids and peptide products and stimulates pancreatic enzyme secretion.",
+      "B": "Gastrin is secreted chiefly by antral G cells. Peptides and vagal stimulation increase gastrin, while low antral pH restrains it.",
+      "D": "Many intestinal hormones are peptides. The specific peptide released from S cells in response to acid is secretin.",
+      "E": "Amylase is a digestive enzyme released by pancreatic acini and salivary glands. It does not signal the response to low duodenal pH."
+    }
+  },
+  "phy-gi-236": {
+    "why": "Pancreatic juice contains hydrolases for lipids, proteins, starch and nucleic acids. Many pancreatic proteases leave acinar cells as inactive precursors. Enteropeptidase initiates their activation in the intestine by generating trypsin.",
+    "notes": {
+      "A": "Pancreatic lipase releases fatty acids from triglycerides, and pancreatic carboxyl ester lipase acts on other lipid esters.",
+      "B": "Trypsinogen, chymotrypsinogen, proelastase and procarboxypeptidases are secreted precursors of pancreatic proteases.",
+      "C": "Pancreatic alpha-amylase hydrolyses internal alpha-1,4 bonds in starch to yield smaller carbohydrates.",
+      "D": "Pancreatic ribonucleases and deoxyribonucleases are secreted into the gut lumen to hydrolyse dietary RNA and DNA."
+    }
   }
 }
