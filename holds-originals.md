@@ -23,3 +23,21 @@
 - Key: E — 4-6 mmHg.
 - Concern: Clinical normal CVP depends on measurement reference, position and respiratory phase; common clinical ranges include approximately 2–6 mmHg, while classical Guyton physiology describes mean right atrial pressure near 0 mmHg. Both 0 mmHg and 4–6 mmHg appear among the options. The existing explanation adopts the course convention, but the exact lecture slide has not been independently verified. Recommend confirming the intended convention before rewriting. Original explanation/key untouched.
 - Reference: Guyton & Hall, venous return and right atrial pressure; standard clinical CVP measurement conventions; exact edition/page not independently checked.
+
+## dq-phys-cvs-079 — sympathetic cholinergic vasodilator fibres
+- Stem: Sympathetic vasodilator fibres to vessels in skeletal muscle are unusual in that they are:
+- Key: D — cholinergic.
+- Concern: Classical sympathetic cholinergic vasodilator pathways are described in some animal species; evidence for a functionally important equivalent in human skeletal muscle is limited. Human exercise hyperaemia depends strongly on local metabolic and endothelial mechanisms. The existing note also generalises this pathway to the liver. Confirm the course's species/context convention before teaching it as a general human mechanism. Original explanation and key untouched.
+- Reference: Guyton & Hall, nervous regulation of circulation; standard human exercise physiology (exact edition/page not independently checked).
+
+## dq-phys-cvs-088 — direct medullary vasomotor stimulation
+- Stem: The vasomotor centre is directly stimulated by:
+- Key: C — hypoxia and hypercapnia.
+- Concern: Severe cerebral ischaemia can elicit a central pressor response involving local CO2/H+ accumulation and hypoxia, but systemic hypoxaemia also acts through peripheral chemoreceptor afferents, and severe/prolonged hypoxia may depress central neurons. The word "directly" requires context. Confirm whether the lecture refers specifically to the CNS ischaemic response before revising. Original explanation and key untouched.
+- Reference: Guyton & Hall, CNS ischaemic response and arterial chemoreflexes (exact edition/page not independently checked).
+
+## dq-phys-cvs-091 — positive acceleration and visual blackout
+- Stem: During exposure to high positive (+Gz) acceleration, loss of vision ('black-out') occurs because of:
+- Key: A — reduced cerebral perfusion.
+- Concern: Positive acceleration reduces perfusion pressure at the head, but visual blackout specifically reflects inadequate retinal perfusion, which can precede cerebral hypoperfusion severe enough to cause loss of consciousness. The keyed option is the closest among those supplied, but not the precise mechanism for visual blackout. Recommend specifying retinal hypoperfusion or changing the endpoint to loss of consciousness during independent review. Original explanation and key untouched.
+- Reference: standard aviation/acceleration physiology; Guyton & Hall, aviation and space physiology (exact edition/page not independently checked).
