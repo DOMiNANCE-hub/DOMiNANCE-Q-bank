@@ -233,3 +233,21 @@
 - Key: E — raised blood pressure and heart rate.
 - Concern: Asphyxia can evoke sympathetic vasoconstriction and a pressor response, but heart rate depends on ventilation, duration, age and reflex interactions. Apnoea with hypoxia can produce vagally mediated bradycardia; a universal early tachycardia cannot be assumed. Specify the experimental or clinical context. Original explanation and key untouched.
 - Reference: Standard cardiovascular chemoreflex and asphyxia physiology. (exact edition/page not independently checked).
+
+## dq-phys-endo-115 — Thyroxine persistence versus half-life
+- Stem: Why does T4 persist longer in plasma than the more potent T3?
+- Key: E — Longer circulating half-life.
+- Concern: The keyed choice merely restates the phenomenon being asked about. The physiological explanation is stronger protein binding and slower metabolic clearance of T4 compared with T3, whereas the option about protein binding gives the wrong direction. Revise the distractors to include the actual mechanism. Original explanation and key untouched.
+- Reference: standard endocrine physiology; exact textbook edition/page and original lecture not independently checked.
+
+## dq-phys-endo-117 — Lecture-specific total calcium reference interval
+- Stem: Which normal total plasma calcium range is given in the lecture slides?
+- Key: B — 2.16 to 2.65 mmol/L.
+- Concern: This is a plausible total calcium reference interval, but the stem explicitly asks for the range in the lecture slides, which have not been independently checked. Confirm the course-specific interval rather than asserting the lecture source. Original explanation and key untouched.
+- Reference: standard endocrine physiology; exact textbook edition/page and original lecture not independently checked.
+
+## dq-phys-endo-124 — Thiazide-associated hypokalaemia and beta-cell secretion
+- Stem: Why may thiazide-associated hypokalaemia impair pancreatic insulin secretion?
+- Key: D — Beta-cell potassium loss impairs secretion.
+- Concern: Reduced extracellular potassium can impair insulin secretion by affecting beta-cell membrane excitability, but intracellular potassium loss alone is not a sufficiently precise causal mechanism, and thiazide-related dysglycaemia is multifactorial. Clarify the intended electrophysiological explanation. Original explanation and key untouched.
+- Reference: standard endocrine physiology; exact textbook edition/page and original lecture not independently checked.
