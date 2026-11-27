@@ -767,3 +767,33 @@
 - Key: E — failure of recanalisation of the lumen.
 - Concern: Oesophageal atresia commonly reflects abnormal foregut separation and morphogenesis, frequently with tracheoesophageal fistula. Failed recanalisation is a classical explanation for some stenoses, not a general cause of both conditions. Original explanation and key untouched.
 - Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-gi-032 — Key or premise review
+- Stem: Hirschsprung disease (congenital aganglionic megacolon) results from failure of migration of
+- Key: B — parasympathetic ganglion cells.
+- Concern: Hirschsprung disease reflects failure of enteric neural crest-derived progenitors to colonise distal bowel, proliferate or differentiate normally. Both excitatory and inhibitory enteric ganglion populations are absent. The keyed 'parasympathetic ganglion cells' is an older imprecise description and neural crest is missing from options. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-urinary-011 — Key or premise review
+- Stem: The permanent kidney first forms in the pelvis and then ascends to lie opposite the
+- Key: A — second lumbar vertebra.
+- Concern: Adult kidneys span approximately T12–L3 and renal hilum is typically near L1–L2, with right kidney lower. The stem does not distinguish hilum, poles or overall position, so an exact L2 endpoint requires clarification. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-genital-004 — Key or premise review
+- Stem: Primordial germ cells first arise in the
+- Key: D — yolk-sac endoderm.
+- Concern: Primordial germ cells are specified in an epiblast-related lineage and subsequently localise near the yolk sac/allantois before migration. First detection in yolk sac is not equivalent to developmental origin; the keyed endodermal origin is misleading. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-genital-010 — Key or premise review
+- Stem: In the absence of SRY the gonad develops into an ovary, driven by
+- Key: E — WNT4 and DAX1.
+- Concern: Ovarian differentiation involves WNT4, RSPO1/beta-catenin and FOXL2 networks, among others. DAX1 has dosage-sensitive roles and is not a simple ovarian determinant equivalent to WNT4; the keyed pair needs review. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-genital-012 — Key or premise review
+- Stem: The number of primordial follicles is maximal at about
+- Key: B — 5 months of fetal life.
+- Concern: The peak around midgestation refers to total fetal germ cell/oocyte numbers, not necessarily the maximum number of assembled primordial follicles. Follicle assembly begins during fetal development and the two populations should be distinguished. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
