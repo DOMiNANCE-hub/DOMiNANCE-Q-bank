@@ -9710,10 +9710,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Mullerian remnants in the male are the appendix of the testis and the prostatic utricle.",
+      "why": "In typical male development, Sertoli-cell anti-Müllerian hormone induces regression of the paramesonephric ducts. The appendix testis and prostatic utricle are traditionally described as remnants, although the utricle's developmental contribution is more complex.",
       "topicId": "e-genital",
       "subtopic": "Genital ducts",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Gartner's duct represents a persistent mesonephric duct remnant in the female genital tract rather than a Müllerian remnant.",
+        "C": "The epoophoron is a remnant of mesonephric tubules associated with the female broad ligament, not male paramesonephric tissue.",
+        "D": "The paroophoron represents residual mesonephric tubules in females rather than a typical remnant of male Müllerian ducts.",
+        "E": "Seminal vesicles develop as outgrowths of persistent mesonephric ducts, rather than remnants of regressing paramesonephric ducts."
+      }
     },
     {
       "id": "dq-embryo-genital-017",
@@ -9742,10 +9748,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The mesonephric duct may persist in the female as Gartner's duct/cyst alongside the vagina.",
+      "why": "A Gartner duct cyst develops when residual mesonephric duct tissue persists along the female genital tract, often near the anterolateral vaginal wall. Fluid accumulation within the epithelial remnant produces a cystic lesion.",
       "topicId": "e-genital",
       "subtopic": "Genital ducts",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The round ligament derives from the gubernaculum rather than persistent epithelial tissue of a mesonephric duct.",
+        "C": "The prostatic utricle is a male midline structure traditionally associated with regressing Müllerian ducts, not a female mesonephric remnant.",
+        "D": "Appendix testis is a male paramesonephric remnant rather than a persisting mesonephric duct in the vaginal wall.",
+        "E": "The broad ligament forms a peritoneal fold and may contain duct remnants without itself originating from the mesonephric duct."
+      }
     },
     {
       "id": "dq-embryo-genital-018",
@@ -9774,10 +9786,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The upper vagina forms from the paramesonephric ducts; the lower part forms from the sinovaginal bulbs/vaginal plate of the urogenital sinus.",
+      "why": "In the classical account, paired sinovaginal bulbs from the urogenital sinus form the vaginal plate and contribute the lower vagina. Müllerian and sinus-derived epithelial interactions are more complex than a fixed anatomical division.",
       "topicId": "e-genital",
       "subtopic": "Genital ducts",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The gonadal ridge generates ovaries or testes rather than the epithelial primordium of the lower vagina.",
+        "B": "The allantois contributes to urachal development and is not the source of the sinovaginal epithelial structures.",
+        "D": "Paramesonephric ducts traditionally contribute the upper vaginal region and uterus, rather than the lower sinus-derived component.",
+        "E": "Mesonephric ducts usually regress in females and may leave Gartner remnants rather than forming the normal lower vagina."
+      }
     },
     {
       "id": "dq-embryo-genital-019",
@@ -9806,10 +9824,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The midline fusion of the paramesonephric ducts pulls a transverse peritoneal fold across the pelvis, forming the broad ligament.",
+      "why": "As the paired paramesonephric ducts approach the midline and fuse caudally, associated peritoneal folds extend laterally towards the pelvic walls. These establish the broad ligament supporting the uterus and related reproductive structures.",
       "topicId": "e-genital",
       "subtopic": "Genital ducts",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The gubernaculum contributes ovarian and round ligaments, rather than forming the principal double-layered peritoneal broad ligament.",
+        "B": "Urogenital sinus endoderm contributes vaginal and urinary structures rather than the serosal folds surrounding the uterine region.",
+        "C": "Gonadal stroma supports ovarian tissue and is not the mesothelial fold drawn around developing uterine structures.",
+        "E": "Mesonephric remnants may lie within the broad ligament but do not constitute its principal peritoneal layers."
+      }
     },
     {
       "id": "dq-embryo-genital-020",
@@ -9838,10 +9862,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Total non-fusion gives a double uterus and often double vagina (uterus didelphys).",
+      "why": "Uterus didelphys results from complete or near-complete failure of paired Müllerian duct fusion, producing separate uterine bodies and usually separate cervices. A longitudinal vaginal septum may accompany the duplicated reproductive tract.",
       "topicId": "e-genital",
       "subtopic": "Genital ducts",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "A septate uterus results from incomplete resorption of the internal partition after the ducts have fused.",
+        "B": "An arcuate uterus has a mild fundal indentation rather than complete duplication of the uterine bodies.",
+        "C": "A unicornuate uterus results from unilateral Müllerian duct underdevelopment rather than bilateral ducts failing to fuse.",
+        "D": "A bicornuate uterus reflects incomplete fusion producing two horns, rather than complete separation of both uterine bodies."
+      }
     },
     {
       "id": "dq-embryo-genital-021",
@@ -9870,10 +9900,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Failure to resorb the median septum after fusion leaves a septate uterus.",
+      "why": "After the caudal Müllerian ducts fuse, the intervening septum normally undergoes resorption to establish a common uterine cavity. Persistence of this partition produces a septate uterus despite relatively preserved external fundal contour.",
       "topicId": "e-genital",
       "subtopic": "Genital ducts",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Uterus didelphys results from failure of duct fusion itself rather than persistence of an internal septum after fusion.",
+        "C": "A unicornuate uterus arises when one Müllerian duct fails to develop normally, not from retained midline tissue.",
+        "D": "An arcuate configuration involves a shallow fundal indentation rather than a substantial persistent uterine septum.",
+        "E": "A bicornuate uterus reflects incomplete external duct fusion, producing a divided fundal contour rather than isolated septal persistence."
+      }
     },
     {
       "id": "dq-embryo-genital-022",
@@ -9934,10 +9970,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The genital tubercle becomes the glans of the penis in males and the clitoris in females.",
+      "why": "The genital tubercle elongates during external genital differentiation and contributes the phallus in both developmental pathways. It forms the penis including its glans in typical male development, and the clitoris in typical female development.",
       "topicId": "e-genital",
       "subtopic": "External genitalia",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The vestibule develops from the urogenital sinus region between the urethral folds, rather than the genital tubercle itself.",
+        "B": "The scrotum develops through merging of labioscrotal swellings rather than elongation of the genital tubercle.",
+        "D": "Labia majora originate from unfused labioscrotal swellings, rather than the phallic primordium represented by the tubercle.",
+        "E": "Labia minora derive from urethral or urogenital folds, rather than the central genital tubercle."
+      }
     },
     {
       "id": "dq-embryo-genital-024",
@@ -9966,10 +10008,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Labioscrotal swellings fuse to form the scrotum in males and remain separate as the labia majora in females.",
+      "why": "Labioscrotal swellings develop lateral to the urogenital folds. They merge in typical male development to form the scrotum, whereas in typical female development they remain separate as the labia majora.",
       "topicId": "e-genital",
       "subtopic": "External genitalia",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The clitoris develops from the genital tubercle rather than the paired lateral labioscrotal swellings.",
+        "B": "The vestibule derives from the urogenital sinus region rather than the paired swellings forming external labial structures.",
+        "C": "The hymen develops at the vaginal opening, rather than arising directly from the labioscrotal swellings.",
+        "E": "Labia minora form from the urethral folds, whereas the larger external labia arise from labioscrotal swellings."
+      }
     },
     {
       "id": "dq-embryo-genital-025",
@@ -9998,10 +10046,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The urethral folds fuse over the urethral groove to form the penile urethra in males and remain as labia minora in females.",
+      "why": "In typical male development, androgen-dependent approximation and fusion of urethral folds encloses the urethral groove to form much of the penile urethra. In typical female development these folds remain separate as labia minora.",
       "topicId": "e-genital",
       "subtopic": "External genitalia",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The scrotum forms from merging of labioscrotal swellings, rather than the more medial urethral folds.",
+        "B": "The glans penis develops from the distal genital tubercle rather than being formed entirely by urethral fold fusion.",
+        "C": "The prepuce develops through local epithelial and mesenchymal remodelling, rather than being the sole urethral fold derivative.",
+        "D": "The vestibule is the female urogenital sinus-derived space and does not represent the fused male urethral folds."
+      }
     },
     {
       "id": "dq-embryo-genital-026",
@@ -10030,10 +10084,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "DHT (from testosterone via 5-alpha-reductase) drives masculinisation of the external genitalia; the internal ducts need testosterone itself.",
+      "why": "Five-alpha reductase converts testosterone to dihydrotestosterone in androgen-responsive tissues. Dihydrotestosterone provides particularly important signalling for typical male external genital and prostatic differentiation, whereas testosterone maintains the mesonephric duct system.",
       "topicId": "e-genital",
       "subtopic": "External genitalia",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Testosterone is the precursor of dihydrotestosterone and maintains mesonephric ducts, but local conversion is crucial for external masculinisation.",
+        "C": "Anti-Müllerian hormone induces regression of paramesonephric ducts rather than directly masculinising external genital structures.",
+        "D": "SRY initiates testicular differentiation upstream, but external genital masculinisation requires downstream androgen production and action.",
+        "E": "Oestrogen signalling is not the specific androgen-dependent pathway responsible for typical male external genital differentiation."
+      }
     },
     {
       "id": "dq-embryo-genital-027",
@@ -10062,10 +10122,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Incomplete fusion of the urethral folds leaves the urethral opening on the underside of the penis.",
+      "why": "Hypospadias involves an abnormally ventral urethral opening associated with disturbed development and closure of the penile urethra. In classical embryology, incomplete urethral fold fusion explains many forms of this malformation.",
       "topicId": "e-genital",
       "subtopic": "External genitalia",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Urorectal septal defects affect separation of anorectal and urogenital outlets rather than typical ventral penile urethral closure.",
+        "C": "Labioscrotal swellings form the scrotum, whereas urethral folds are associated with closure of the penile urethral groove.",
+        "D": "The genital tubercle forms the phallic primordium, but the specified closure defect involves urethral fold development.",
+        "E": "Paramesonephric ducts form internal female reproductive structures and do not directly enclose the male penile urethra."
+      }
     },
     {
       "id": "dq-embryo-genital-028",
@@ -10158,10 +10224,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The tunica vaginalis is formed from the processus vaginalis, an evagination of peritoneum.",
+      "why": "The processus vaginalis is an embryonic peritoneal outpouching accompanying testicular descent through the inguinal canal. Its distal portion persists as the visceral and parietal layers of tunica vaginalis, while the proximal connection normally closes.",
       "topicId": "e-genital",
       "subtopic": "Gonadal descent",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Transversalis fascia contributes internal spermatic fascia rather than the serous covering derived from the processus vaginalis.",
+        "B": "Internal oblique contributes cremaster muscle and fascia rather than the mesothelial layers of tunica vaginalis.",
+        "C": "External oblique aponeurosis contributes external spermatic fascia rather than the peritoneal tunica vaginalis.",
+        "D": "Dartos is smooth muscle within scrotal superficial fascia and does not form the serous testicular covering."
+      }
     },
     {
       "id": "dq-embryo-genital-031",
@@ -10190,10 +10262,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Internal spermatic fascia comes from transversalis fascia, cremasteric from internal oblique and external spermatic from external oblique aponeurosis.",
+      "why": "During testicular descent through the abdominal wall, an extension of transversalis fascia forms the internal spermatic fascia. Internal oblique and external oblique respectively contribute the cremasteric and external spermatic coverings.",
       "topicId": "e-genital",
       "subtopic": "Gonadal descent",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Internal oblique contributes cremaster muscle and fascia rather than the deepest fascial covering derived from transversalis fascia.",
+        "C": "External oblique aponeurosis contributes external spermatic fascia as the testis passes through the superficial inguinal ring.",
+        "D": "Peritoneum contributes the processus vaginalis and distal tunica vaginalis rather than the internal spermatic fascia.",
+        "E": "Dartos belongs to the superficial scrotal wall and is not the abdominal fascial source of internal spermatic fascia."
+      }
     },
     {
       "id": "dq-embryo-genital-032",
@@ -10222,10 +10300,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Higher intra-abdominal temperature destroys spermatogonia, so bilateral cryptorchidism causes infertility; Leydig cells are spared.",
+      "why": "Untreated bilateral cryptorchidism exposes developing testes to an abnormal thermal environment and may impair germ-cell maturation. Consequently, future spermatogenesis and fertility can be compromised, alongside an increased risk of testicular malignancy.",
       "topicId": "e-genital",
       "subtopic": "Gonadal descent",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Gynaecomastia reflects changes in the balance of androgen and oestrogen action, not the characteristic direct outcome of cryptorchidism.",
+        "C": "Undescended testes do not characteristically produce excess testosterone; germ-cell development is especially vulnerable to abnormal temperature.",
+        "D": "External genital differentiation occurs prenatally and does not ordinarily reverse because the testes fail to descend.",
+        "E": "Cryptorchidism does not itself produce premature hypothalamic–pituitary–gonadal activation or characteristic precocious puberty."
+      }
     },
     {
       "id": "dq-embryo-genital-033",
@@ -10254,10 +10338,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "A 21-hydroxylase deficiency shunts adrenal steroids into androgens, masculinising the external genitalia of a genetic female.",
+      "why": "Many forms of congenital adrenal hyperplasia impair cortisol synthesis, increasing ACTH stimulation and adrenal androgen production. Excess prenatal androgen exposure can virilise external genitalia in a 46,XX fetus without requiring testicular development.",
       "topicId": "e-genital",
       "subtopic": "DSD",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Five-alpha reductase deficiency reduces dihydrotestosterone production and can impair masculinisation rather than causing adrenal androgen excess.",
+        "B": "A 46,XX chromosome complement does not include a Y chromosome, and adrenal androgen excess can occur independently of SRY.",
+        "D": "Defective androgen receptors reduce tissue responsiveness to androgens, rather than mediating virilisation through excessive adrenal androgen action.",
+        "E": "Absence of anti-Müllerian hormone permits Müllerian structures to persist but does not explain external genital virilisation."
+      }
     },
     {
       "id": "dq-embryo-genital-034",
@@ -10286,10 +10376,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Testes and testosterone are present, but target cells cannot respond to androgens, so external genitalia develop along the female pattern.",
+      "why": "In complete androgen insensitivity syndrome, a 46,XY individual's testes produce androgens but target tissues cannot respond adequately because of androgen receptor dysfunction. External genital development follows a female-typical pattern despite circulating testicular hormones.",
       "topicId": "e-genital",
       "subtopic": "DSD",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The gonads are testes rather than ovaries, because the testis-determining developmental pathway remains active.",
+        "B": "Fetal Sertoli cells normally secrete anti-Müllerian hormone, explaining regression of Müllerian structures despite androgen receptor dysfunction.",
+        "C": "SRY is generally present and initiates testicular differentiation, so its absence does not explain this syndrome.",
+        "E": "Testosterone is generally produced by the testes; the principal defect is failure of target tissue androgen responsiveness."
+      }
     },
     {
       "id": "dq-embryo-genital-035",
@@ -10318,10 +10414,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "5-alpha-reductase deficiency gives low DHT (female-type external genitalia at birth) but rising testosterone virilises them at puberty.",
+      "why": "Five-alpha reductase type 2 deficiency reduces fetal conversion of testosterone into dihydrotestosterone, potentially causing undervirilised external genitalia in 46,XY individuals. Increased testosterone at puberty can subsequently produce substantial virilisation despite limited conversion.",
       "topicId": "e-genital",
       "subtopic": "DSD",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Complete androgen insensitivity prevents effective androgen signalling and therefore does not typically produce substantial spontaneous pubertal virilisation.",
+        "B": "Congenital adrenal hyperplasia can increase androgen exposure but does not specifically explain deficient fetal dihydrotestosterone-dependent masculinisation.",
+        "C": "Klinefelter syndrome usually involves an additional X chromosome and testicular dysfunction rather than the characteristic enzyme deficiency.",
+        "D": "Gonadal dysgenesis impairs testicular hormone production, rather than selectively reducing conversion of testosterone to dihydrotestosterone."
+      }
     },
     {
       "id": "dq-embryo-genital-036",
@@ -10350,10 +10452,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Functioning Sertoli cells secrete AMH, so the Mullerian ducts regress even though the ducts cannot respond to androgens.",
+      "why": "In complete androgen insensitivity, fetal Sertoli cells retain anti-Müllerian hormone secretion even though androgen receptor signalling is defective. Müllerian ducts therefore regress, preventing development of the uterus and uterine tubes despite female-typical external genitalia.",
       "topicId": "e-genital",
       "subtopic": "DSD",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Testes are present in complete androgen insensitivity and supply the Sertoli-cell hormone responsible for Müllerian regression.",
+        "C": "Paramesonephric ducts arise initially, then regress in response to fetal anti-Müllerian hormone rather than never forming.",
+        "D": "Oestrogen availability does not determine initial Müllerian duct regression, which is mediated by anti-Müllerian hormone signalling.",
+        "E": "Mesonephric duct regression reflects inadequate androgen responsiveness but does not directly explain absence of Müllerian-derived reproductive structures."
+      }
     },
     {
       "id": "dq-embryo-cns-001",
@@ -10382,10 +10490,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The CNS arises from the neural plate, a thickening of ectoderm (neuroectoderm) that appears in week 3.",
+      "why": "The neural plate arises from specialised dorsal ectoderm following inductive signalling during gastrulation. Its folding and closure produce the neural tube, which differentiates into the brain and spinal cord of the central nervous system.",
       "topicId": "e-cns",
       "subtopic": "Neurulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Paraxial mesoderm forms somites and associated axial structures rather than the principal central nervous system primordium.",
+        "C": "Surface ectoderm forms epidermis and selected epithelial structures rather than the specialised neuroectodermal neural plate.",
+        "D": "Endoderm supplies much of the epithelial lining of internal organs rather than the brain and spinal cord.",
+        "E": "Neural crest contributes many peripheral nervous system structures, whereas the neural tube produces the central nervous system."
+      }
     },
     {
       "id": "dq-embryo-cns-002",
@@ -10414,10 +10528,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Neurulation is the folding of the neural plate into the neural tube.",
+      "why": "Neurulation transforms the neural plate into the neural tube through elevation, convergence and fusion of neural folds. This establishes the central nervous system primordium while adjacent neural crest cells delaminate and migrate.",
       "topicId": "e-cns",
       "subtopic": "Neurulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Segmentation describes subdivision into repeated units such as somites, rather than closure of the neural plate.",
+        "C": "Gastrulation establishes the three germ layers and embryonic axes before the main neural tube closure process.",
+        "D": "Organogenesis is the broader process of organ formation rather than the specific morphogenetic event producing the neural tube.",
+        "E": "Induction refers to signalling that establishes neural identity, whereas neurulation describes subsequent neural plate folding and closure."
+      }
     },
     {
       "id": "dq-embryo-cns-003",
@@ -10478,10 +10598,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Ectoderm forms the neural tube, the neural crest and the epidermis of the skin.",
+      "why": "During neurulation, neural folds unite to create the neural tube while adjacent surface ectoderm closes over it. Neural crest cells arise at the neural plate border and subsequently migrate to diverse developmental destinations.",
       "topicId": "e-cns",
       "subtopic": "Neurulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Somites develop through segmentation of paraxial mesoderm, rather than directly arising from the neural plate border.",
+        "B": "Paraxial mesoderm is a separate mesodermal population and does not originate from neurulating ectoderm.",
+        "C": "Definitive endoderm forms during gastrulation and is not a derivative of neural fold closure.",
+        "E": "The notochord is axial mesoderm providing neural inductive signals, rather than a tissue generated during neurulation."
+      }
     },
     {
       "id": "dq-embryo-cns-005",
@@ -10510,10 +10636,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Noggin, chordin and follistatin inhibit BMP4 to permit forebrain-midbrain fate; WNT3a/FGF/retinoic acid permit hindbrain-spinal cord fate.",
+      "why": "Neural induction involves inhibition of BMP signalling by extracellular antagonists including noggin, chordin and follistatin. Reduced BMP activity favours neural ectoderm, while additional regional signals establish specific anterior and posterior neural identities.",
       "topicId": "e-cns",
       "subtopic": "Neurulation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "WNT, FGF and retinoic acid participate in regional neural patterning, particularly posteriorisation, rather than acting as this BMP antagonist trio.",
+        "B": "SHH and FGF8 provide important patterning signals but are not the three classical extracellular BMP antagonists specified here.",
+        "C": "BMP4 promotes non-neural ectodermal fates under relevant conditions, whereas noggin inhibits rather than cooperates with its signalling.",
+        "D": "SRY and SOX9 are especially associated with testicular differentiation rather than the classical BMP antagonist network of neural induction."
+      }
     },
     {
       "id": "dq-embryo-cns-006",
@@ -10542,10 +10674,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Neural crest forms melanocytes, sensory and autonomic ganglia, Schwann cells, adrenal medulla and much craniofacial tissue; limb muscle is from somites.",
+      "why": "Limb skeletal muscles originate from migrating myogenic precursors in the hypaxial portions of somites derived from paraxial mesoderm. Neural crest contributes peripheral nerves, pigment cells and other structures, but not these skeletal muscle fibres.",
       "topicId": "e-cns",
       "subtopic": "Neural crest",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Melanocytes arise from neural crest cells that migrate to skin and other sites during embryonic development.",
+        "C": "Dorsal root ganglia contain sensory neurons and associated glial populations derived substantially from migrating neural crest cells.",
+        "D": "Adrenal medullary chromaffin cells belong to neural crest-derived sympathoadrenal lineages rather than mesodermal skeletal muscle precursors.",
+        "E": "Schwann cells develop from neural crest-associated peripheral glial precursors and support axons outside the central nervous system."
+      }
     },
     {
       "id": "dq-embryo-cns-007",
@@ -10574,10 +10712,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Chromaffin cells of the adrenal medulla are neural crest derivatives; the cortex is from mesoderm.",
+      "why": "Adrenal medullary chromaffin cells arise from neural crest-derived sympathoadrenal lineages, including migrating Schwann cell precursors. They become modified sympathetic neuroendocrine cells secreting catecholamines, while the surrounding adrenal cortex has a mesodermal origin.",
       "topicId": "e-cns",
       "subtopic": "Neural crest",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The neural tube generates central nervous system structures rather than the migratory neural crest-derived adrenal medullary lineage.",
+        "C": "Intermediate mesoderm contributes urogenital structures and does not supply the principal adrenal medullary chromaffin cell population.",
+        "D": "Coelomic epithelium contributes adrenal cortical development rather than the neural crest-derived catecholamine-secreting medulla.",
+        "E": "Endoderm forms many internal epithelial tissues but is not the source of adrenal medullary chromaffin cells."
+      }
     },
     {
       "id": "dq-embryo-cns-008",
@@ -10606,10 +10750,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The anterior neuropore closes around day 25-26; the posterior neuropore closes about two days later.",
+      "why": "Neural tube closure proceeds from initial closure regions towards the remaining cranial and caudal neuropores. The rostral neuropore normally closes around embryonic day 25, preceding caudal neuropore closure by several days.",
       "topicId": "e-cns",
       "subtopic": "Neuropores",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Day forty occurs substantially after the normal cranial neuropore closure during the fourth embryonic week.",
+        "B": "Day fifty falls late in the embryonic period, rather than near the usual time of rostral closure.",
+        "D": "Day eighteen corresponds approximately to early neural plate development before the conventional cranial neuropore closure date.",
+        "E": "Day thirty-five is later than the usual cranial and caudal neuropore closure events in normal development."
+      }
     },
     {
       "id": "dq-embryo-cns-009",
@@ -10638,10 +10788,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Non-closure of the anterior neuropore gives anencephaly; non-closure of the posterior neuropore gives spina bifida.",
+      "why": "Failure of cranial neural tube closure leaves developing neural tissue exposed, leading to severe degeneration and deficient cranial vault formation. The resulting anencephaly is a major neural tube defect rather than isolated abnormal skull growth.",
       "topicId": "e-cns",
       "subtopic": "Neuropores",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Craniosynostosis involves premature cranial suture fusion rather than failure of the rostral neuropore to close.",
+        "B": "Hydrocephalus involves abnormal accumulation of cerebrospinal fluid rather than the characteristic exposed cranial neural tube defect.",
+        "C": "Microcephaly describes reduced head size and does not specifically identify failed anterior neural tube closure.",
+        "E": "Spina bifida generally involves caudal neural tube and vertebral arch abnormalities rather than the cranial neuropore defect."
+      }
     },
     {
       "id": "dq-embryo-cns-010",
@@ -10670,10 +10826,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Non-closure of the posterior neuropore gives spina bifida, with defective vertebral arches.",
+      "why": "Failure of caudal neural tube closure can result in open spinal neural tube defects such as myelomeningocele. These belong to the spina bifida spectrum, whose milder forms do not necessarily involve open neural tissue.",
       "topicId": "e-cns",
       "subtopic": "Neuropores",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Anencephaly is associated with cranial neural tube closure failure rather than the caudal defect specified here.",
+        "B": "Holoprosencephaly involves abnormal forebrain midline development and separation rather than failed caudal neural tube closure.",
+        "C": "Microcephaly describes reduced head size rather than the spinal malformation associated with posterior neuropore closure failure.",
+        "D": "Hydrocephalus may accompany some spinal neural tube defects, but it does not name the primary caudal malformation."
+      }
     },
     {
       "id": "dq-embryo-cns-011",
@@ -10702,10 +10864,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Folate (vitamin B9) deficiency increases the risk of neural tube defects, so periconceptional supplementation is advised.",
+      "why": "Folate supports one-carbon metabolism and nucleotide synthesis during rapid embryonic cell proliferation. Inadequate maternal folate status increases neural tube defect risk, and periconceptional supplementation reduces the incidence of many such defects.",
       "topicId": "e-cns",
       "subtopic": "Neuropores",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Vitamin A signalling influences development and excessive retinoid exposure can be teratogenic, but folate deficiency is the classic association.",
+        "C": "Vitamin C supports collagen synthesis and antioxidant functions rather than providing the principal preventive association with neural tube defects.",
+        "D": "Vitamin D regulates mineral metabolism and has developmental roles, but is not the classic vitamin linked to neural tube closure.",
+        "E": "Vitamin K supports gamma-carboxylation of coagulation proteins rather than the established folate-related prevention of neural tube defects."
+      }
     },
     {
       "id": "dq-embryo-cns-012",
@@ -10734,10 +10902,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The three primary vesicles are the prosencephalon (forebrain), mesencephalon (midbrain) and rhombencephalon (hindbrain).",
+      "why": "The cranial neural tube expands into three primary brain vesicles: prosencephalon, mesencephalon and rhombencephalon. The forebrain and hindbrain subsequently subdivide into secondary vesicles, while the midbrain retains its original name.",
       "topicId": "e-cns",
       "subtopic": "Brain vesicles",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Myelencephalon is a secondary hindbrain vesicle rather than one of the three primary brain vesicles.",
+        "C": "Diencephalon develops as a secondary subdivision of the prosencephalon, rather than constituting the primary caudal vesicle.",
+        "D": "Telencephalon is a secondary forebrain subdivision contributing cerebral hemispheres rather than the primary hindbrain vesicle.",
+        "E": "Metencephalon is a secondary rhombencephalic subdivision, not the original primary vesicle caudal to the mesencephalon."
+      }
     },
     {
       "id": "dq-embryo-cns-013",
@@ -10766,10 +10940,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The prosencephalon forms the telencephalon (cerebral hemispheres) and the diencephalon (thalamus and optic vesicles).",
+      "why": "The telencephalon develops from paired lateral expansions of the prosencephalon and forms the cerebral hemispheres. Its derivatives include cerebral cortex, basal nuclear structures and associated lateral ventricular cavities during subsequent brain development.",
       "topicId": "e-cns",
       "subtopic": "Brain vesicles",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Metencephalon forms pons and cerebellum rather than the paired cerebral hemispheres of the forebrain.",
+        "B": "Myelencephalon forms the medulla oblongata rather than the principal cortical and subcortical structures of cerebral hemispheres.",
+        "D": "Diencephalon gives rise to thalamic, hypothalamic and related structures rather than the cerebral hemispheric expansions themselves.",
+        "E": "Mesencephalon persists as the midbrain and does not form the paired telencephalic cerebral hemispheres."
+      }
     },
     {
       "id": "dq-embryo-cns-014",
@@ -10798,10 +10978,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The diencephalon gives rise to the optic vesicles as well as the thalamus and hypothalamus.",
+      "why": "The optic vesicles evaginate from the developing forebrain's diencephalic region and subsequently invaginate to form optic cups. Their neuroectoderm contributes retinal structures, while adjacent surface ectoderm forms the lens.",
       "topicId": "e-cns",
       "subtopic": "Brain vesicles",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The mesencephalon develops into the midbrain and is not the primary forebrain region producing optic vesicles.",
+        "B": "Metencephalon forms the pons and cerebellum rather than the diencephalic outgrowths that generate optic cups.",
+        "C": "Myelencephalon develops into the medulla and does not produce the early paired optic vesicles.",
+        "E": "Telencephalon forms cerebral hemispheres; the optic vesicles arise from the more caudal forebrain diencephalic region."
+      }
     },
     {
       "id": "dq-embryo-cns-015",
@@ -10830,10 +11016,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The rhombencephalon forms the metencephalon (pons and cerebellum) and the myelencephalon (medulla).",
+      "why": "The metencephalon is the cranial secondary subdivision of the rhombencephalon. Its ventral and dorsal developmental regions contribute to formation of the pons and cerebellum, respectively, adjacent to the developing fourth ventricle.",
       "topicId": "e-cns",
       "subtopic": "Brain vesicles",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Myelencephalon forms the medulla oblongata rather than the characteristic metencephalic combination of pons and cerebellum.",
+        "B": "Mesencephalon forms midbrain structures around the cerebral aqueduct rather than these two hindbrain derivatives.",
+        "C": "Diencephalon contributes thalamic and hypothalamic structures rather than forming the pontine and cerebellar regions.",
+        "D": "Telencephalon produces cerebral hemispheres rather than the metencephalic derivatives of the developing hindbrain."
+      }
     },
     {
       "id": "dq-embryo-cns-016",
@@ -10862,10 +11054,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The myelencephalon becomes the medulla oblongata, continuous with the spinal cord.",
+      "why": "The myelencephalon is the caudal secondary vesicle of the developing hindbrain and differentiates into the medulla oblongata. Its cavity contributes the caudal fourth ventricular region, transitioning towards the spinal central canal.",
       "topicId": "e-cns",
       "subtopic": "Brain vesicles",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Metencephalon gives rise to the pons and cerebellum rather than the caudal medullary region.",
+        "C": "Mesencephalon forms the midbrain, anatomically rostral to both the developing pons and medulla.",
+        "D": "Diencephalon forms forebrain structures such as thalamus and hypothalamus rather than the medulla oblongata.",
+        "E": "Telencephalon forms cerebral hemispheres and associated structures rather than the caudal portion of the brainstem."
+      }
     },
     {
       "id": "dq-embryo-cns-017",
@@ -10894,10 +11092,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The mantle layer (neuronal cell bodies) becomes grey matter; the outer marginal layer becomes white matter.",
+      "why": "Neuroblasts accumulate in the mantle layer of the developing spinal neural tube and differentiate into neuronal populations. This cell-body-rich region becomes grey matter, while peripheral axons in the marginal layer form white matter.",
       "topicId": "e-cns",
       "subtopic": "Spinal cord",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Pia mater is a meningeal covering arising from surrounding mesenchyme rather than the neural tube mantle layer.",
+        "C": "White matter develops mainly from axon-rich marginal tissue external to the developing mantle layer.",
+        "D": "Ependymal cells derive from the ventricular neuroepithelial region lining the neural tube lumen rather than its mantle.",
+        "E": "The central canal represents the residual neural tube lumen, rather than the cellular mantle layer surrounding it."
+      }
     },
     {
       "id": "dq-embryo-cns-018",
@@ -10926,10 +11130,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The ventral basal plates form motor (efferent) neurons; the dorsal alar plates form sensory (afferent) neurons.",
+      "why": "The ventral basal plates of the developing spinal cord contain motor neuron precursors influenced by ventralising Sonic hedgehog signals. Their axons extend through ventral roots towards skeletal muscles, establishing the principal motor pathway.",
       "topicId": "e-cns",
       "subtopic": "Spinal cord",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The floor plate provides ventral patterning and guidance signals rather than forming the main spinal motor neuron columns.",
+        "B": "The marginal layer contains developing axons and becomes white matter, rather than the principal motor neuron cell-body region.",
+        "D": "Alar plates are dorsal regions associated mainly with sensory interneuronal processing rather than ventral motor neuron development.",
+        "E": "The roof plate provides dorsal patterning signals and is not the principal source of spinal motor neurons."
+      }
     },
     {
       "id": "dq-embryo-cns-019",
@@ -10958,10 +11168,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The alar plates (dorsal) form sensory neurons; the basal plates (ventral) form motor neurons, separated by the sulcus limitans.",
+      "why": "The dorsal alar plates of the neural tube generate spinal interneurons involved in processing incoming sensory information. They receive afferent input from dorsal root ganglion neurons, whereas ventral basal plates contain motor neuron populations.",
       "topicId": "e-cns",
       "subtopic": "Spinal cord",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The floor plate provides ventral signalling and axon guidance rather than forming the principal dorsal sensory interneuronal region.",
+        "B": "The roof plate supplies dorsal patterning signals rather than constituting the main population of sensory association neurons.",
+        "C": "The mantle layer includes both dorsal and ventral neuronal regions, so it is less specific than the alar plates.",
+        "E": "Basal plates form predominantly ventral motor-associated regions rather than the dorsal sensory association neuronal populations."
+      }
     },
     {
       "id": "dq-embryo-cns-020",
