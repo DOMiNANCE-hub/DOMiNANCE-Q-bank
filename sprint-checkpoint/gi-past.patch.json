@@ -493,5 +493,158 @@
       "D": "The driving ion for SGLT1 is sodium. Chloride transport follows separate pathways and is not coupled directly to glucose by this transporter.",
       "E": "The standard intestinal uptake pathway uses SGLT1 and GLUT2. It is not dependent on insulin-stimulated GLUT4 insertion."
     }
+  },
+  "phy-gi-221": {
+    "why": "Salivary amylase starts breaking down starch in the mouth, and lingual lipase is released there, with much of its action occurring later in the stomach. Protein digestion starts substantially in the stomach, where acid activates pepsin.",
+    "notes": {
+      "B": "Some starch hydrolysis can continue briefly in the stomach, but digestive protein hydrolysis starts primarily there rather than in the mouth.",
+      "C": "The important early oral carbohydrate enzyme is salivary amylase. The first substantial protein hydrolysis is by gastric pepsin.",
+      "D": "Most luminal water and electrolytes are absorbed in the small intestine. The colon salvages much of what remains.",
+      "E": "Meal composition can affect transit. For example, fat entering the duodenum can release signals that slow gastric emptying."
+    }
+  },
+  "phy-gi-223": {
+    "why": "The B vitamins are water-soluble, as is vitamin C. Vitamins A, D, E and K are fat-soluble and use intestinal lipid handling for their usual absorption.",
+    "notes": {
+      "A": "Vitamin A is fat-soluble. Dietary retinoids use bile-dependent lipid processing and enter chylomicrons after absorption.",
+      "C": "Vitamin D is fat-soluble. Its active metabolite calcitriol increases intestinal calcium absorption.",
+      "D": "Vitamin E is fat-soluble and reaches the circulation in lipoproteins after intestinal absorption.",
+      "E": "Vitamin K is fat-soluble and is needed for activation of several clotting proteins through gamma-carboxylation."
+    }
+  },
+  "phy-gi-249": {
+    "why": "Digestible carbohydrates are absorbed as monosaccharides. The main dietary products are the hexoses glucose, galactose and fructose. Absorbable pentoses are also monosaccharides.",
+    "notes": {
+      "A": "Disaccharides normally require digestion by brush-border enzymes before their component monosaccharides can be absorbed.",
+      "B": "Glycogen is a polysaccharide. Digestion releases smaller products that are converted to glucose before absorption.",
+      "D": "Glucosamine is an amino sugar, but it is not the general form in which dietary carbohydrates are absorbed.",
+      "E": "Glucose can be absorbed, whereas glycogen normally requires prior hydrolysis. This is not the usual set of absorptive products."
+    }
+  },
+  "phy-gi-280": {
+    "why": "The main apical glucose transporter in intestinal enterocytes, SGLT1, couples glucose uptake to downhill sodium entry. The sodium gradient is maintained by the basolateral sodium–potassium ATPase.",
+    "notes": {
+      "A": "The distribution depends on the enzyme. Many enzymes are delivered to the proximal lumen from the pancreas, while many intestinal enzymes remain at the brush border.",
+      "B": "Intrinsic factor–bound vitamin B12 is taken up mainly in the terminal ileum.",
+      "C": "Sodium and nutrient absorption create an osmotic gradient that promotes water absorption, as exploited by oral rehydration solutions.",
+      "D": "Regulated calcium absorption is especially important in the duodenum and proximal small intestine. The terminal ileum is specialised for B12 and bile-salt uptake."
+    }
+  },
+  "phy-gi-282": {
+    "why": "Extensive terminal ileal resection can prevent enough bile-salt reabsorption to deplete the bile-salt pool. This limits mixed-micelle formation and impairs absorption of the products of long-chain fat digestion.",
+    "notes": {
+      "A": "The main products of pancreatic triglyceride digestion are free fatty acids and 2-monoacylglycerol. Complete splitting to glycerol is not required.",
+      "B": "Fatty acid chain length affects absorption and transport. Shorter-chain fatty acids can enter portal blood more readily than long-chain products.",
+      "D": "Some lipid products can cross membranes by diffusion, but carrier-assisted uptake, intracellular processing and lymphatic transport also contribute to absorption.",
+      "E": "Dietary lipid absorption is most important in the proximal small bowel. The terminal ileum mainly recovers bile salts for reuse."
+    }
+  },
+  "phy-gi-286": {
+    "why": "Loss of gastric acid after major gastric resection impairs release and solubilisation of dietary non-haem iron. Altered transit or bypass of the proximal small bowel can further limit iron uptake.",
+    "notes": {
+      "B": "Iodine deficiency can increase stimulation of the thyroid by TSH and cause goitre. A smaller thyroid is not the usual consequence.",
+      "C": "Poor lipid digestion can cause steatorrhoea. Water absorption is not generally dependent on complete digestion of dietary fat.",
+      "D": "Regulated calcium absorption occurs chiefly in the small intestine. Removing the colon does not remove the main calcium absorption site.",
+      "E": "Most bile salts are reabsorbed in the terminal ileum. Gastric resection does not directly remove that transport site."
+    }
+  },
+  "phy-gi-290": {
+    "why": "Total gastrectomy removes the source of intrinsic factor, so vitamin B12 stores can eventually become depleted. Rapid transit and poor coordination of the meal with bile and pancreatic enzymes can also impair fat absorption.",
+    "notes": {
+      "A": "Parietal cells supply intrinsic factor for normal ileal B12 uptake. Without replacement, hepatic reserves can decline over time.",
+      "B": "Rapid delivery and poor mixing of a meal after gastrectomy can reduce the time and conditions needed for effective lipid digestion.",
+      "C": "Defaecation is coordinated by rectal, enteric and sacral mechanisms. Removing the stomach does not abolish this reflex.",
+      "D": "Protein digestion can continue through pancreatic and intestinal enzymes even though gastric pepsin digestion is lost."
+    }
+  },
+  "phy-gi-291": {
+    "why": "Severe diarrhoea causes faecal losses of potassium, water and salts. This can lower total body potassium and contract extracellular fluid volume, even when the measured serum potassium is affected by other factors.",
+    "notes": {
+      "A": "Potassium lost through large volumes of stool can decrease total body potassium and cause hypokalaemia.",
+      "B": "Volume depletion generally increases antidiuretic hormone release. This promotes water retention by the kidney.",
+      "C": "Water and sodium losses contract extracellular volume, including the circulating plasma volume.",
+      "D": "Sympathetic vasoconstriction usually increases peripheral resistance as a compensatory response to hypovolaemia."
+    }
+  },
+  "phy-gi-293": {
+    "why": "Extensive small-intestinal resection reduces absorptive surface and can disrupt bile-salt recycling. The resulting malabsorption can increase faecal fat and cause steatorrhoea.",
+    "notes": {
+      "B": "Osteomalacia is defective bone mineralisation. Malabsorption of calcium or vitamin D can decrease mineralisation over time.",
+      "C": "Poor absorption and high stool losses can decrease extracellular fluid volume unless fluids and electrolytes are replaced.",
+      "D": "Iron, folate or B12 deficiency may cause anaemia after extensive resection, depending on the segment lost and nutritional support.",
+      "E": "Malabsorption reduces nutrient and energy uptake and can cause weight loss rather than an increase in body weight."
+    }
+  },
+  "phy-gi-296": {
+    "why": "Low-residue diets can decrease stool bulk and contribute to constipation. Psychological stress can also alter gut motility and bowel habits. The effect of stress varies among individuals.",
+    "notes": {
+      "A": "Stress can affect colonic motor activity and toileting behaviour. In some people these changes contribute to constipation.",
+      "B": "Autonomic dysfunction confined to the oesophagus would chiefly alter swallowing or oesophageal transit. Constipation involves colonic or anorectal function.",
+      "C": "A low-residue diet can decrease stool bulk and reduce the stimulus for colonic propulsion.",
+      "D": "Thyrotoxicosis often increases bowel frequency. Constipation is more characteristic of hypothyroidism."
+    }
+  },
+  "phy-gi-297": {
+    "why": "Apical SGLT1 carries glucose and galactose into intestinal mucosal cells with sodium. The basolateral sodium–potassium pump sustains the sodium gradient, and GLUT2 commonly carries glucose out toward the blood.",
+    "notes": {
+      "B": "The intestine and kidney share sodium–glucose transporter mechanisms. Phlorizin can inhibit both, although newer drugs may be selective for renal SGLT2.",
+      "C": "Inhibiting the sodium–potassium pump weakens the driving sodium gradient and decreases secondary active glucose entry.",
+      "D": "Most dietary glucose is absorbed in the proximal small intestine, especially the jejunum. The ileum can absorb glucose but is not the principal region.",
+      "E": "Glucose and galactose share the apical carrier SGLT1. Fructose uses a distinct entry route through GLUT5."
+    }
+  },
+  "phy-gi-302": {
+    "why": "A meal can trigger the gastrocolic reflex. Gastric filling and meal-related signals increase colonic motor activity, which can move stool toward the rectum and prompt defaecation soon after feeding.",
+    "notes": {
+      "A": "The gastroileal reflex increases ileal propulsion and promotes movement into the caecum. The question asks about colonic contractions.",
+      "B": "Cholecystokinin responds to nutrients and has several digestive actions. The coordinated post-meal increase in colonic activity is called the gastrocolic reflex.",
+      "D": "Enterogastric feedback from the small intestine can slow gastric emptying. It does not name the colonic response to feeding.",
+      "E": "Gastrin typically increases during a meal. A fall in gastrin does not explain the characteristic post-feeding colonic contractions."
+    }
+  },
+  "phy-gi-304": {
+    "why": "Humans lack digestive cellulase to hydrolyse the beta-1,4 linkages of cellulose. Cellulose therefore passes through the small intestine as fibre, although gut microbes can partly ferment some of it.",
+    "notes": {
+      "A": "Digestible dextrins produced from starch can be broken down by brush-border alpha-glucosidases, including enzymes that act at branch points.",
+      "B": "Glucose is already a monosaccharide and can be absorbed without being digested into a smaller carbohydrate.",
+      "D": "Glycogen has alpha linkages that human amylases and brush-border enzymes can digest to glucose.",
+      "E": "Maltase activity is present at the small-intestinal brush border, where it converts maltose into two glucose molecules."
+    }
+  },
+  "phy-gi-305": {
+    "why": "Haemolytic jaundice results from increased breakdown of red blood cells and bilirubin production. Isolated haemolysis does not typically impair delivery of bile salts or pancreatic lipase, and it does not usually cause steatorrhoea.",
+    "notes": {
+      "A": "Pancreatectomy decreases the supply of pancreatic lipase needed for normal triglyceride digestion and can cause fatty stools.",
+      "B": "A gastrinoma can produce enough acid to inactivate pancreatic lipase and impair bile-salt function in the small intestine.",
+      "C": "Extensive distal ileal resection prevents bile-salt recovery and can deplete the pool needed for normal lipid absorption.",
+      "E": "Coeliac disease damages the small-intestinal mucosa and can reduce lipid absorption enough to cause steatorrhoea."
+    }
+  },
+  "phy-gi-308": {
+    "why": "The jejunum normally absorbs a large share of the fluid entering the gastrointestinal tract. Sodium and nutrient uptake create osmotic gradients that draw water across the jejunal epithelium. The colon reclaims much of the smaller volume that reaches it.",
+    "notes": {
+      "A": "The colon absorbs water and sodium from the remaining contents. Under usual conditions, less water reaches it than is absorbed proximally.",
+      "C": "The duodenum can absorb water, but it also receives pancreatic and biliary fluid and has a much shorter absorptive length than the jejunum.",
+      "D": "The stomach stores and mixes fluid before emptying. Its role in net water uptake is small compared with the small intestine.",
+      "E": "Oral mucosa can absorb certain substances, but the mouth is not a major site for absorption of ingested water."
+    }
+  },
+  "phy-gi-310": {
+    "why": "Calcitriol, the active form of vitamin D, promotes normal intestinal calcium absorption. It increases expression of proteins that allow calcium to cross the epithelium, especially when dietary calcium is limited.",
+    "notes": {
+      "A": "Dietary fat absorption requires adequate bile salts, pancreatic enzymes and intestinal surface. Vitamin D itself is carried with absorbed fat.",
+      "C": "Antidiuretic hormone release responds chiefly to plasma osmolality and effective circulating volume. It does not depend on vitamin D for its usual regulation.",
+      "D": "Protein absorption depends on proteolysis and transport of amino acids and small peptides. It is not the classic vitamin D-dependent process.",
+      "E": "Glucose absorption relies principally on apical sodium–glucose cotransport. Calcitriol chiefly regulates calcium and phosphate handling."
+    }
+  },
+  "phy-gi-318": {
+    "why": "Mass movements are powerful propagated contractions of the large intestine. They move contents over a long colonic segment toward the rectum and can occur in response to a meal.",
+    "notes": {
+      "B": "The ileum uses segmentation and peristalsis to mix and propel small-intestinal contents. Colonic mass movements are a different pattern.",
+      "C": "The duodenum mixes chyme with pancreatic juice and bile while regulating its delivery downstream. Mass movements describe colonic propulsion.",
+      "D": "The stomach grinds and propels chyme with antral peristalsis. Its emptying is regulated at the pylorus.",
+      "E": "The oesophagus uses peristaltic waves to move a swallowed bolus to the stomach. Long colonic mass movements serve stool transport."
+    }
   }
 }
