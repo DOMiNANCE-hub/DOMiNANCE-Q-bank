@@ -425,3 +425,39 @@
 - Key: B
 - Concern: The exact number of wedge-shaped openings is an ultrastructural description requiring verification against the original reference. It is not a universal criterion of fenestrated endothelium. Original explanation and key untouched.
 - Reference: standard vascular histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mch21 — Saphenous longitudinal muscle distribution
+- Stem: In the great saphenous vein, longitudinal smooth muscle bundles are found in the:
+- Key: D
+- Concern: Longitudinal muscle arrangement varies by segment and reference. The claim that bundles specifically occupy intima and adventitia, but not media, needs verification against the course's histological description. Original explanation and key untouched.
+- Reference: standard histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mch22 — Coronary versus limb artery wall thickness
+- Stem: The walls of coronary arteries are thicker than those of comparable limb arteries because of:
+- Key: E
+- Concern: The premise of uniformly thicker coronary arteries compared with comparable limb vessels is not universal; wall thickness and smooth-muscle content vary with calibre, region and haemodynamic loading. See related hold dq-m-mc22. Original explanation and key untouched.
+- Reference: standard histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mch26 — Elastic artery diameter cutoff
+- Stem: Elastic arteries have an outer diameter of more than about:
+- Key: D
+- Concern: Elastic artery identity depends on medial elastic lamellae and function, not a universal 10 mm outer-diameter cutoff. Some elastic arteries are narrower; confirm the comparison table. Original explanation and key untouched.
+- Reference: standard histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mch28 — Large vein medial muscle layer count
+- Stem: According to the comparison table, the media of a large vein has:
+- Key: A
+- Concern: Large veins vary greatly in medial smooth-muscle thickness. The stated more-than-five-layer count is tied explicitly to a comparison table not independently available, and is not a universal criterion. Original explanation and key untouched.
+- Reference: standard histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mr3 — Conducting airway histology generalisations
+- Stem: In the conducting airways:
+- Key: {"A":"T","B":"T","C":"T","D":"T","E":"F"}
+- Concern: Conducting airways include trachea, bronchi and bronchioles; smooth-muscle arrangement, glands and lymphoid tissue vary by level. Bronchioles lack submucosal glands, and trachealis is posterior rather than concentric. Several true keys generalise across anatomically different segments. Original explanation and key untouched.
+- Reference: standard histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mr18 — Type I pneumocyte cell percentage
+- Stem: Type I pneumocytes:
+- Key: {"A":"T","B":"T","C":"T","D":"F","E":"F"}
+- Concern: Type I cells cover roughly 95% of alveolar surface, but their proportion by number depends on whether counting alveolar epithelial cells or all alveolar cells. The 40% figure requires the specified denominator and source. Type II cells provide the principal regenerative capacity. Original explanation and key untouched.
+- Reference: standard histology; exact edition/page and lecture source not independently checked.
