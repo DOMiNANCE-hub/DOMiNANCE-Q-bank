@@ -1342,7 +1342,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Basolateral Na+-K+-ATPase actively pumps Na+ out of the cell, creating the gradient that drives most tubular transport.",
+      "why": "Basolateral sodium–potassium ATPase uses ATP to export three sodium ions and import two potassium ions. The resulting low intracellular sodium concentration drives much tubular solute reabsorption, accounting for a large proportion of renal oxygen and energy consumption.",
+      "notes": {
+        "B": "Luminal hydrogen ATPase contributes to acid secretion, particularly in intercalated cells, rather than providing the principal energy source for sodium reabsorption.",
+        "C": "Sodium–glucose cotransport uses the sodium gradient established by basolateral ATPase and does not directly hydrolyse ATP to move its substrates.",
+        "D": "Aquaporins facilitate passive water movement down osmotic gradients and do not provide the energy-dependent mechanism driving tubular sodium transport.",
+        "E": "Chloride–bicarbonate exchange contributes to epithelial anion and acid–base handling, rather than establishing the sodium gradient driving most tubular transport."
+      },
       "topicId": "ren-tubule",
       "subtopic": "Sodium handling",
       "difficulty": "hard"
@@ -1374,7 +1380,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Na+ is handled all along the tubule by abundant pumps, so it has no single saturable Tm like glucose.",
+      "why": "Unlike glucose, whose proximal reabsorption exhibits a readily identifiable carrier transport maximum, sodium is reabsorbed through several transport pathways across successive nephron segments. Its overall excretion is strongly regulated rather than displaying a single simple glucose-like threshold.",
+      "notes": {
+        "A": "A single low-capacity saturable transporter would favour a distinct transport maximum rather than explain the integrated sodium-handling behaviour of multiple nephron segments.",
+        "C": "Sodium is extensively reabsorbed in the proximal tubule but is also reclaimed in the loop of Henle, distal tubule and collecting system.",
+        "D": "Paracellular sodium movement contributes to reabsorption, but active transcellular pathways supported by sodium–potassium ATPase are also central to renal sodium handling.",
+        "E": "Most filtered sodium is normally reabsorbed, with the small excreted fraction adjusted to maintain sodium balance and extracellular volume."
+      },
       "topicId": "ren-tubule",
       "subtopic": "Sodium handling",
       "difficulty": "hard"
@@ -1406,7 +1418,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The PCT reabsorbs roughly 65% of filtered Na+ and water (and essentially all glucose and amino acids).",
+      "why": "The proximal tubule normally reabsorbs approximately 65% of filtered sodium and water. Its high water permeability allows water to follow net solute reabsorption, keeping proximal tubular fluid approximately isotonic while markedly reducing its volume.",
+      "notes": {
+        "A": "Ninety per cent substantially exceeds the usual proximal sodium and water fraction, although additional reabsorption occurs downstream in other nephron segments.",
+        "B": "Nearly complete reabsorption is typical for filtered glucose at normal plasma concentrations, but substantial sodium and water remain after the proximal tubule.",
+        "D": "Approximately one-quarter of filtered sodium is reclaimed in the loop of Henle, rather than representing the larger proximal tubular contribution.",
+        "E": "Ten per cent markedly underestimates proximal sodium and water reabsorption and is closer to smaller contributions from downstream nephron segments."
+      },
       "topicId": "ren-tubule",
       "subtopic": "Regional reabsorption",
       "difficulty": "hard"
@@ -1438,7 +1456,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "These solutes are cotransported with Na+ as it moves down its gradient — secondary active transport.",
+      "why": "Many proximal tubular organic nutrients enter cells through apical sodium-coupled transporters, using the sodium electrochemical gradient maintained by basolateral sodium–potassium ATPase. This secondary active mechanism enables efficient nutrient recovery from glomerular filtrate.",
+      "notes": {
+        "A": "Glucose and many amino acid carriers do not hydrolyse ATP directly; their uphill transport depends on sodium gradients maintained by another pump.",
+        "B": "Aquaporins permit passive water movement, but do not transport glucose, amino acids or other organic nutrient solutes across the tubular epithelium.",
+        "C": "Receptor-mediated endocytosis is important for recovering selected filtered proteins, rather than providing the principal uptake mechanism for glucose and free amino acids.",
+        "E": "Facilitated transport may mediate basolateral nutrient exit, but apical recovery of many filtered organic nutrients relies on secondary active sodium cotransport."
+      },
       "topicId": "ren-tubule",
       "subtopic": "Secondary active transport",
       "difficulty": "hard"
@@ -1470,7 +1494,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "When carrier proteins are saturated at the Tm, any filtered load above that spills into the urine.",
+      "why": "Carrier-mediated reabsorption has a finite maximum rate when transport sites become saturated. As the filtered load rises beyond reabsorptive capacity, excess substance remains in tubular fluid and is excreted; nephron variability produces a gradual threshold or splay.",
+      "notes": {
+        "A": "Glomerular filtration can continue as plasma concentration rises; saturation occurs in the tubular reabsorptive machinery rather than preventing glomerular entry.",
+        "B": "Water reabsorption does not cease simply because a solute transporter reaches saturation, although retained osmotic solutes may increase urinary water loss.",
+        "C": "A reabsorptive transport maximum reflects finite carrier capacity, rather than requiring cessation of a separate tubular secretory process.",
+        "D": "Carrier saturation leaves additional filtered solute in the lumen for excretion, rather than necessarily causing its metabolic destruction within tubular cells."
+      },
       "topicId": "ren-tubule",
       "subtopic": "Transport maximum",
       "difficulty": "hard"
@@ -1534,7 +1564,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The thick ascending limb uses the Na+-K+-2Cl- cotransporter (the target of loop diuretics).",
+      "why": "Apical NKCC2 in the thick ascending limb cotransports sodium, potassium and two chloride ions into tubular epithelial cells. Basolateral sodium–potassium ATPase maintains the sodium gradient, and loop diuretics inhibit the apical cotransporter.",
+      "notes": {
+        "A": "Sodium–potassium ATPase is principally basolateral and creates the gradient driving apical sodium entry, rather than being the main luminal carrier.",
+        "C": "Sodium–glucose cotransporters reclaim glucose in the proximal tubule, whereas thick ascending limb sodium chloride uptake depends predominantly on NKCC2.",
+        "D": "Sodium–hydrogen exchange contributes to proximal and other tubular transport, but NKCC2 is the characteristic major apical sodium pathway in this segment.",
+        "E": "ENaC mediates regulated sodium uptake mainly in the late distal nephron and collecting duct, rather than the principal thick ascending limb pathway."
+      },
       "topicId": "ren-tubule",
       "subtopic": "Loop of Henle",
       "difficulty": "hard"
@@ -1598,7 +1634,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The water-impermeable ascending limb removes NaCl, diluting the fluid to about 100 mOsm.",
+      "why": "The ascending limb reabsorbs sodium chloride while remaining essentially impermeable to water. In the thick ascending limb, active solute transport through NKCC2 and associated pathways removes salt without equivalent water movement, producing dilute fluid entering the distal tubule.",
+      "notes": {
+        "A": "Additional solute secretion would increase rather than decrease tubular fluid osmolality, opposing the characteristic dilution produced by ascending limb salt reabsorption.",
+        "B": "The ascending limb does not normally become highly water-permeable; its separation of solute and water transport is essential for tubular dilution.",
+        "C": "Stopping transport would eliminate the active removal of sodium chloride required for production of dilute tubular fluid by the thick ascending limb.",
+        "E": "Removing water while retaining sodium chloride would concentrate tubular fluid, which is the opposite of the ascending limb's characteristic diluting effect."
+      },
       "topicId": "ren-tubule",
       "subtopic": "Countercurrent",
       "difficulty": "hard"
@@ -1630,7 +1672,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The hairpin vasa recta supply the medulla yet, by countercurrent exchange, avoid washing out its hypertonicity.",
+      "why": "The hairpin arrangement of vasa recta permits passive exchange of water and solutes between descending and ascending medullary blood. This supplies the medulla while limiting removal of its accumulated osmoles, thereby preserving the gradient used for urinary concentration.",
+      "notes": {
+        "A": "The loop of Henle and urea recycling establish the medullary gradient; vasa recta primarily preserve it through passive countercurrent exchange.",
+        "B": "Vasa recta are postglomerular capillaries participating in exchange with the medullary interstitium, not a second specialised glomerular filtration barrier.",
+        "C": "Renin is released by juxtaglomerular granular cells, primarily in afferent arteriolar walls, rather than by the medullary countercurrent capillaries.",
+        "D": "Filtered glucose is normally recovered by proximal tubular transporters, whereas the vasa recta chiefly mediate medullary blood supply and osmotic exchange."
+      },
       "topicId": "ren-tubule",
       "subtopic": "Countercurrent",
       "difficulty": "hard"
@@ -1662,7 +1710,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "ADH (vasopressin) acts via cAMP to insert aquaporins into collecting-duct principal cells, raising water reabsorption.",
+      "why": "Antidiuretic hormone binds V2 receptors on collecting-duct principal cells, activating cAMP-dependent signalling and insertion of aquaporin-2 channels into the apical membrane. Increased water permeability allows osmotic reabsorption into the hypertonic medulla and reduces urine volume.",
+      "notes": {
+        "B": "The thick ascending limb establishes part of the medullary gradient through sodium chloride transport, but ADH principally regulates collecting-duct water permeability.",
+        "C": "Afferent arteriolar dilatation can increase glomerular filtration pressure, rather than directly increasing the collecting duct's capacity for water reabsorption.",
+        "D": "Blocking NKCC2 weakens the medullary osmotic gradient and promotes diuresis, rather than mediating the water-conserving action of antidiuretic hormone.",
+        "E": "Increasing filtration rate increases delivery of filtrate, whereas ADH concentrates final urine principally by increasing distal water reabsorption."
+      },
       "topicId": "ren-tubule",
       "subtopic": "ADH",
       "difficulty": "hard"
@@ -1694,7 +1748,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Hypothalamic osmoreceptors detect rising osmolality and drive posterior-pituitary release of ADH (angiotensin II also stimulates it).",
+      "why": "An increase in effective plasma osmolality stimulates hypothalamic osmoreceptors, increasing vasopressin release from the posterior pituitary. ADH promotes renal water conservation; substantial reductions in effective circulating volume also stimulate its release through non-osmotic pathways.",
+      "notes": {
+        "A": "Arterial oxygen tension principally influences peripheral chemoreceptor activity and is not the usual direct osmotic stimulus for vasopressin release.",
+        "C": "Changes in plasma potassium are important regulators of aldosterone secretion, rather than the primary direct stimulus for osmoregulated ADH release.",
+        "D": "Distal tubular sodium chloride delivery is sensed by the macula densa and influences renin and GFR, not the principal hypothalamic ADH stimulus.",
+        "E": "Temperature may influence hydration and hormonal responses indirectly, but rising effective plasma osmolality is the characteristic direct osmotic signal."
+      },
       "topicId": "ren-tubule",
       "subtopic": "ADH",
       "difficulty": "medium"
@@ -1726,7 +1786,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Once filtered glucose exceeds the reabsorptive Tm, the unreabsorbed glucose osmotically retains water in the tubule.",
+      "why": "In marked hyperglycaemia, filtered glucose delivery can exceed the proximal tubule's reabsorptive capacity. Unreabsorbed glucose remains osmotically active in tubular fluid, limiting water reabsorption and increasing urine volume, which can cause thirst and volume depletion.",
+      "notes": {
+        "A": "Glomerular injury may cause proteinuria or altered filtration, but glucose-induced osmotic diuresis can occur without structural damage to the filtration barrier.",
+        "B": "Aldosterone promotes distal sodium reabsorption and potassium secretion, rather than explaining water retention within tubular fluid by unreabsorbed glucose.",
+        "D": "Osmotic diuresis can occur despite increased ADH during dehydration, because retained luminal glucose limits renal water recovery.",
+        "E": "NKCC2 inhibition is the mechanism of loop diuretics; glucose-induced diuresis instead arises from excess luminal osmotic solute after transporter saturation."
+      },
       "topicId": "ren-tubule",
       "subtopic": "Diuretics",
       "difficulty": "hard"
@@ -1758,7 +1824,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Loop diuretics block the Na+-K+-2Cl- cotransporter in the medullary thick ascending limb.",
+      "why": "Furosemide inhibits apical NKCC2 in the thick ascending limb, reducing sodium chloride reabsorption and weakening the medullary concentrating gradient. Increased distal salt and water delivery promotes natriuresis and diuresis, with potential additional potassium loss.",
+      "notes": {
+        "A": "Aquaporins mediate water permeability, but furosemide acts primarily on thick ascending limb sodium–potassium–chloride cotransport rather than blocking water channels directly.",
+        "B": "Carbonic anhydrase inhibition characterises drugs such as acetazolamide, which reduce proximal bicarbonate reabsorption, rather than the main mechanism of furosemide.",
+        "C": "ENaC blockers such as amiloride act in the late distal nephron and collecting duct, rather than targeting the thick ascending limb.",
+        "E": "SGLT2 inhibitors reduce proximal glucose and sodium reabsorption; furosemide instead inhibits the characteristic salt cotransporter in the loop of Henle."
+      },
       "topicId": "ren-tubule",
       "subtopic": "Diuretics",
       "difficulty": "hard"
@@ -1790,7 +1862,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Alcohol suppresses ADH release, reducing collecting-duct water reabsorption.",
+      "why": "Acute alcohol intake can suppress vasopressin release, particularly early after consumption. Reduced ADH signalling decreases collecting-duct aquaporin-2 insertion and water reabsorption, increasing excretion of relatively dilute urine; hydration status and dose modify the response.",
+      "notes": {
+        "A": "Loop diuretics inhibit ascending limb sodium transport, but alcohol's classic acute water-diuretic effect principally involves reduced vasopressin action.",
+        "B": "Increased GFR could increase filtered water delivery, but the characteristic acute alcohol-associated diuresis is linked to reduced collecting-duct water conservation.",
+        "C": "Unlike mannitol or excess filtered glucose, ethanol is readily distributed across body water and is not primarily an unreabsorbed tubular osmotic diuretic.",
+        "D": "Aldosterone promotes sodium conservation, whereas the classic acute alcohol effect involves suppression of the hormone controlling collecting-duct water permeability."
+      },
       "topicId": "ren-tubule",
       "subtopic": "Diuretics",
       "difficulty": "medium"
@@ -1822,7 +1900,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "K+ is reabsorbed unregulated in the PCT and secreted, under aldosterone control, in the distal tubule and collecting duct.",
+      "why": "Most filtered potassium is reabsorbed in the proximal tubule and thick ascending limb. Variable distal potassium secretion, principally through principal-cell potassium channels, adjusts final potassium excretion according to intake, aldosterone, distal sodium delivery and tubular flow.",
+      "notes": {
+        "B": "The proximal tubule normally reabsorbs a substantial fraction of filtered potassium, whereas regulated secretion commonly occurs further along the distal nephron.",
+        "C": "Potassium undergoes extensive tubular reabsorption and regulated secretion, so its final excretion is not determined by filtration alone.",
+        "D": "Filtration provides potassium to tubular fluid, but subsequent reabsorption and secretion are essential for maintaining extracellular potassium concentration.",
+        "E": "Potassium transport differs markedly between nephron segments; distal handling is particularly variable and can switch towards reabsorption during potassium depletion."
+      },
       "topicId": "ren-tubule",
       "subtopic": "Potassium handling",
       "difficulty": "hard"
@@ -1854,7 +1938,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Renin converts liver-derived angiotensinogen into angiotensin I.",
+      "why": "Renin is a proteolytic enzyme released by renal granular cells that cleaves liver-derived angiotensinogen to form angiotensin I. Subsequent conversion by angiotensin-converting enzyme generates angiotensin II, initiating major sodium-retaining and pressor responses.",
+      "notes": {
+        "A": "Kallikrein cleaves kininogen to generate kinins such as bradykinin, whereas renin acts on angiotensinogen in a separate hormonal pathway.",
+        "C": "Angiotensin-converting enzyme removes two amino acids from angiotensin I to generate angiotensin II; renin catalyses the preceding cleavage of angiotensinogen.",
+        "D": "Aldosterone is synthesised by adrenal zona glomerulosa cells in response to signals including angiotensin II, rather than being directly generated by renin.",
+        "E": "ADH is synthesised in hypothalamic neurons and released through the posterior pituitary; renin does not directly produce this peptide hormone."
+      },
       "topicId": "ren-hormones",
       "subtopic": "RAAS",
       "difficulty": "medium"
@@ -1886,7 +1976,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "ACE in the lungs converts angiotensin I to the active angiotensin II.",
+      "why": "Angiotensin-converting enzyme is abundant on vascular endothelial surfaces, particularly in the extensive pulmonary capillary bed encountered by circulating blood. It converts angiotensin I to angiotensin II and also degrades bradykinin; ACE is expressed in other tissues as well.",
+      "notes": {
+        "A": "The adrenal cortex synthesises aldosterone in response to angiotensin II, rather than being the classic major endothelial site of its formation.",
+        "B": "The hypothalamus regulates thirst and vasopressin responses to angiotensin II, but is not the conventional principal vascular site of ACE activity.",
+        "D": "The liver produces angiotensinogen, the precursor cleaved by renin; pulmonary endothelium is the classic prominent site of subsequent ACE-mediated conversion.",
+        "E": "Renal tissues express ACE and local renin–angiotensin systems, but pulmonary vascular endothelium provides the conventional systemic conversion site in this question."
+      },
       "topicId": "ren-hormones",
       "subtopic": "RAAS",
       "difficulty": "hard"
@@ -1918,7 +2014,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Angiotensin II is a potent vasoconstrictor, not a vasodilator; it also drives thirst, aldosterone, ADH and mesangial contraction.",
+      "why": "Angiotensin II generally increases systemic arteriolar resistance through AT1 receptor-mediated smooth-muscle contraction. Its coordinated effects conserve sodium and water and support arterial pressure, so generalised systemic vasodilatation is not its characteristic pressor action.",
+      "notes": {
+        "A": "Angiotensin II stimulates adrenal zona glomerulosa cells to synthesise aldosterone, increasing distal nephron sodium reabsorption and supporting extracellular volume.",
+        "B": "Angiotensin II can stimulate vasopressin release, promoting collecting-duct water reabsorption and contributing to conservation of circulating volume.",
+        "C": "Angiotensin II can contract glomerular mesangial cells, reducing available filtration surface area and influencing the glomerular ultrafiltration coefficient.",
+        "E": "Angiotensin II acts on central thirst-regulating regions, encouraging water intake when circulatory volume and pressure need to be restored."
+      },
       "topicId": "ren-hormones",
       "subtopic": "RAAS",
       "difficulty": "hard"
@@ -1950,7 +2052,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Aldosterone from the adrenal cortex increases Na+ (and water) reabsorption and K+ secretion in the distal tubule and collecting duct.",
+      "why": "Aldosterone activates mineralocorticoid receptors in the late distal nephron, increasing ENaC-mediated sodium uptake, basolateral sodium–potassium ATPase and potassium secretion pathways. Sodium retention favours extracellular fluid retention when water is available and distal water permeability permits it.",
+      "notes": {
+        "A": "Excreting sodium while retaining potassium reverses the characteristic aldosterone response, which promotes sodium conservation and commonly increases distal potassium secretion.",
+        "B": "Aldosterone influences distal sodium and acid–base transport, but filtered glucose is normally reclaimed proximally rather than secreted as its characteristic action.",
+        "C": "Afferent arteriolar tone influences glomerular haemodynamics, whereas aldosterone's principal renal action involves epithelial transport in the late distal nephron.",
+        "D": "Aldosterone increases the capacity of basolateral sodium–potassium ATPase to support sodium reabsorption, rather than inhibiting this essential epithelial pump."
+      },
       "topicId": "ren-hormones",
       "subtopic": "Aldosterone",
       "difficulty": "medium"
@@ -1982,7 +2090,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "ANP promotes natriuresis and diuresis, lowering blood volume and opposing RAAS.",
+      "why": "Atrial natriuretic peptide is released in response to atrial stretch and promotes natriuresis and diuresis through renal haemodynamic and tubular effects. It also suppresses renin and aldosterone signalling, helping reduce excessive extracellular volume and pressure.",
+      "notes": {
+        "B": "Sodium and water retention characterise volume-conserving renin–angiotensin–aldosterone responses, whereas atrial natriuretic peptide promotes their net excretion.",
+        "C": "Atrial natriuretic peptide generally suppresses renin release, thereby opposing activation of the renin–angiotensin–aldosterone system rather than reinforcing it.",
+        "D": "Afferent constriction would tend to reduce glomerular perfusion; atrial natriuretic peptide can favour filtration through renal vascular effects including afferent dilatation.",
+        "E": "Atrial natriuretic peptide inhibits aldosterone secretion and sodium retention, rather than stimulating the adrenal mineralocorticoid response."
+      },
       "topicId": "ren-hormones",
       "subtopic": "ANP",
       "difficulty": "medium"
@@ -2014,7 +2128,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Low perfusion pressure, sympathetic drive and low macula densa NaCl all stimulate renin release.",
+      "why": "Reduced renal perfusion pressure is detected by renin-producing granular cells through an intrarenal vascular sensing mechanism. Renin release is also stimulated by beta-1 sympathetic activity and reduced macula densa sodium chloride delivery, helping restore perfusion and volume.",
+      "notes": {
+        "A": "Renal renin release is strongly stimulated by sympathetic beta-1 adrenergic signalling, rather than parasympathetic activity as its conventional principal neural stimulus.",
+        "C": "Plasma sodium concentration alone is not the principal direct renin stimulus; macula densa sensing depends on local tubular sodium chloride delivery.",
+        "D": "Increased renal perfusion pressure generally suppresses renin through the renal vascular sensing mechanism, whereas reduced pressure stimulates its release.",
+        "E": "High sodium chloride delivery to the macula densa suppresses renin through tubuloglomerular signalling rather than activating the volume-conserving hormonal response."
+      },
       "topicId": "ren-hormones",
       "subtopic": "RAAS",
       "difficulty": "hard"
@@ -2046,7 +2166,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Plasma osmolality is held near 300 mOsm by regulated water and solute handling.",
+      "why": "The kidneys regulate body water relative to dissolved osmoles through adjustments in urine volume and concentration, coordinated with thirst and vasopressin. Normal plasma osmolality is approximately 275–295 mOsm/kg, conventionally rounded to 300 in physiological teaching.",
+      "notes": {
+        "A": "An osmolality around 1,200 mOsm/kg can approximate maximal concentrated urine or deep medullary interstitial conditions, rather than normal plasma osmolality.",
+        "B": "An osmolality of 50 mOsm/kg approximates very dilute urine under water-loading conditions and is far below normal extracellular fluid osmolality.",
+        "D": "Approximately 100 mOsm/kg may describe dilute fluid leaving the thick ascending limb, rather than the regulated concentration of body fluids.",
+        "E": "An osmolality of 600 mOsm/kg is possible in concentrated urine but greatly exceeds the usual osmolality maintained in circulating plasma."
+      },
       "topicId": "ren-fluid",
       "subtopic": "Osmolality",
       "difficulty": "medium"
@@ -2110,7 +2236,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The bicarbonate/carbonic acid pair is the principal ECF buffer; phosphate dominates urine and ICF, protein the cells.",
+      "why": "The bicarbonate–carbon dioxide system is the principal extracellular buffer because bicarbonate can neutralise hydrogen ions and generated carbon dioxide can be eliminated by ventilation. The kidneys regulate bicarbonate availability, providing coordinated long-term acid–base control.",
+      "notes": {
+        "A": "Phosphate contributes relatively little to plasma buffering because of its low extracellular concentration, but is important in intracellular fluid and renal titratable acidity.",
+        "B": "Plasma proteins provide additional buffering through ionisable groups, but bicarbonate is the principal conventional extracellular buffer system with respiratory and renal regulation.",
+        "C": "Ammonia and ammonium are particularly important for renal net acid excretion, rather than constituting the main buffering pair in normal circulating plasma.",
+        "D": "Haemoglobin is a major buffer within erythrocytes, especially during carbon dioxide transport, but it is not the principal buffer dissolved in plasma."
+      },
       "topicId": "ren-acidbase",
       "subtopic": "Buffers",
       "difficulty": "medium"
@@ -2142,7 +2274,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Phosphate is concentrated in urine and cells, where it buffers effectively; it is minor in plasma.",
+      "why": "Phosphate buffers hydrogen ions effectively in intracellular fluid and in tubular urine, where its concentration and pH are favourable for buffering. Urinary phosphate accepts secreted hydrogen ions and contributes to renal titratable acid excretion.",
+      "notes": {
+        "B": "Phosphate is present in plasma but at relatively low concentration; the bicarbonate–carbon dioxide system provides the principal extracellular buffering mechanism.",
+        "C": "Cerebrospinal fluid acid–base balance is strongly linked to bicarbonate and carbon dioxide, rather than phosphate being its characteristic dominant buffering system.",
+        "D": "Muscle interstitial fluid is extracellular and relies substantially on bicarbonate buffering, while intracellular muscle phosphate compounds contribute more importantly to cellular buffering.",
+        "E": "Lymph resembles extracellular fluid and contains bicarbonate and other buffers; phosphate is not its principal specialised buffering system."
+      },
       "topicId": "ren-acidbase",
       "subtopic": "Buffers",
       "difficulty": "hard"
@@ -2174,7 +2312,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Amino acid side groups let proteins release or take up H+ depending on pH, making them amphoteric buffers.",
+      "why": "Proteins contain ionisable amino acid groups that can accept hydrogen ions when pH falls or release them when pH rises. Haemoglobin's histidine residues are particularly important in buffering hydrogen ions generated during carbon dioxide transport.",
+      "notes": {
+        "A": "Protein charge changes with protonation and deprotonation of ionisable groups, which is precisely what allows proteins to participate in acid–base buffering.",
+        "C": "Strong acids dissociate extensively, whereas effective protein buffering depends on reversible binding and release of hydrogen ions at appropriate pH values.",
+        "D": "Protein buffers do not irreversibly bind all hydrogen ions; reversible proton exchange allows them to resist changes in pH in either direction.",
+        "E": "Proteins are chemically active macromolecules with ionisable functional groups, and haemoglobin is soluble within erythrocytes rather than being an inert precipitate."
+      },
       "topicId": "ren-acidbase",
       "subtopic": "Buffers",
       "difficulty": "hard"
@@ -2206,7 +2350,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The HCO3-/Cl- antiport across the red-cell membrane is the chloride shift, or Hamburger effect.",
+      "why": "Carbon dioxide entering erythrocytes is converted by carbonic anhydrase into bicarbonate and hydrogen ions. Bicarbonate exits into plasma through the band 3 anion exchanger in exchange for chloride, maintaining electroneutrality during carbon dioxide transport.",
+      "notes": {
+        "A": "The Donnan effect describes unequal distribution of diffusible ions across membranes containing impermeant charged species, rather than the specific erythrocyte bicarbonate–chloride exchanger.",
+        "B": "Gibbs–Donnan equilibrium concerns ionic distributions across selectively permeable membranes; the named transport event in erythrocytes is specifically chloride shift.",
+        "D": "The Bohr effect describes the reduction in haemoglobin oxygen affinity caused by increased carbon dioxide and hydrogen ion concentration, rather than bicarbonate exchange itself.",
+        "E": "The Haldane effect describes how haemoglobin oxygenation influences carbon dioxide carriage and release, whereas chloride shift refers specifically to membrane anion exchange."
+      },
       "topicId": "ren-acidbase",
       "subtopic": "CO2 buffering",
       "difficulty": "hard"
@@ -2238,7 +2388,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The lungs excrete the volatile acid (CO2); only the kidneys eliminate fixed, non-volatile acids.",
+      "why": "The lungs eliminate volatile acid indirectly as carbon dioxide, whereas the kidneys provide the main route for net elimination of fixed metabolic acid. Renal ammonium and titratable acid excretion generate bicarbonate to replace that consumed in buffering non-volatile acids.",
+      "notes": {
+        "A": "Carbon dioxide is eliminated principally through alveolar ventilation, rather than requiring renal excretion as the sole route of acid disposal.",
+        "B": "Volatile respiratory gases can be exchanged through the lungs; fixed metabolic acids require distinct renal acid-handling mechanisms.",
+        "C": "The lungs regulate carbon dioxide, but they cannot directly provide the net excretion of non-volatile metabolic acid required for long-term acid balance.",
+        "E": "Carbonic acid is linked to carbon dioxide and water through reversible reactions, allowing its volatile component to be eliminated by ventilation."
+      },
       "topicId": "ren-acidbase",
       "subtopic": "Renal handling",
       "difficulty": "hard"
@@ -2270,7 +2426,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Secreted H+ joins filtered HCO3- to make H2CO3, which becomes CO2 + H2O; these enter the cell and regenerate HCO3- for reabsorption.",
+      "why": "Proximal tubular hydrogen secretion allows filtered bicarbonate to form carbonic acid, which luminal carbonic anhydrase converts into carbon dioxide and water. Carbon dioxide enters the cell, bicarbonate is regenerated and returned to blood, and hydrogen ions are recycled.",
+      "notes": {
+        "A": "Ammonia buffering contributes importantly to net acid excretion, but filtered bicarbonate reclamation depends chiefly on hydrogen ion reaction with luminal bicarbonate.",
+        "B": "During bicarbonate reclamation, secreted hydrogen ions are largely recycled rather than being excreted unchanged as free hydrogen ions in final urine.",
+        "C": "Phosphate accepts hydrogen ions during titratable acid excretion, but it is not the principal intermediate in proximal recovery of filtered bicarbonate.",
+        "D": "Hydrogen ions are secreted into the lumen and recycled during this process, rather than being directly cotransported into blood together with filtered bicarbonate."
+      },
       "topicId": "ren-acidbase",
       "subtopic": "Bicarbonate handling",
       "difficulty": "hard"
@@ -2302,7 +2464,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Tubular metabolism of glutamine produces two NH4+ (excreted) and two new HCO3- (added to blood) per molecule.",
+      "why": "Proximal tubular glutamine metabolism yields two ammonium ions and two bicarbonate equivalents per molecule under the conventional ammoniagenesis pathway. When ammonium is excreted in urine, the associated newly generated bicarbonate contributes to systemic acid buffering.",
+      "notes": {
+        "B": "Glycine can participate in nitrogen metabolism, but glutamine is the principal substrate for adaptive renal ammoniagenesis and associated new bicarbonate generation.",
+        "C": "Alanine participates in amino-group and carbon metabolism, but is not the principal substrate underlying the conventional two-ammonium renal pathway.",
+        "D": "Arginine is an intermediate of the hepatic urea cycle, whereas renal ammonium production for acid excretion chiefly uses glutamine.",
+        "E": "Sulphur-containing amino acid metabolism can contribute to fixed acid production, but cysteine is not the principal renal substrate for adaptive ammoniagenesis."
+      },
       "topicId": "ren-acidbase",
       "subtopic": "Bicarbonate generation",
       "difficulty": "hard"
@@ -2398,7 +2566,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The lungs hyperventilate to blow off CO2, restoring the HCO3-/H2CO3 ratio toward 20:1 within minutes.",
+      "why": "Metabolic acidosis stimulates chemoreceptor-driven increases in ventilation, lowering arterial carbon dioxide tension within minutes. Reduced carbon dioxide helps increase the bicarbonate-to-carbon dioxide ratio towards normal, partially correcting pH without removing the underlying metabolic acid load.",
+      "notes": {
+        "A": "Renal bicarbonate excretion would worsen bicarbonate depletion in metabolic acidosis, and it is not the rapid respiratory compensation mechanism.",
+        "B": "Retaining hydrogen ions would aggravate acid accumulation, whereas compensation requires lowering the respiratory acid component through increased ventilation.",
+        "C": "Aldosterone can influence renal hydrogen and potassium handling, but its secretion does not constitute the immediate ventilatory response to metabolic acidosis.",
+        "E": "Reduced ventilation retains carbon dioxide and increases respiratory acidity, opposing the compensatory hyperventilation normally triggered by metabolic acidosis."
+      },
       "topicId": "ren-acidbase",
       "subtopic": "Compensation",
       "difficulty": "hard"
@@ -2462,7 +2636,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Type B intercalated cells secrete HCO3- (and reabsorb H+) in alkalosis, the reverse of type A cells.",
+      "why": "Type B intercalated cells respond to alkalosis by secreting bicarbonate through apical chloride–bicarbonate exchange mediated by pendrin. Their transport polarity differs from type A intercalated cells, which secrete hydrogen ions and return bicarbonate to blood.",
+      "notes": {
+        "B": "Type A intercalated cells secrete hydrogen ions through apical proton pumps and return bicarbonate basolaterally, supporting acid excretion during acidosis.",
+        "C": "Principal cells regulate sodium reabsorption, potassium secretion and vasopressin-dependent water permeability rather than being the specialised bicarbonate-secreting intercalated cells.",
+        "D": "Macula densa cells sense distal tubular sodium chloride delivery at the juxtaglomerular apparatus, rather than mediating collecting-duct bicarbonate secretion.",
+        "E": "Granular cells release renin from juxtaglomerular arterioles and do not provide the epithelial acid–base transport pathway of type B intercalated cells."
+      },
       "topicId": "ren-acidbase",
       "subtopic": "Bicarbonate handling",
       "difficulty": "hard"
