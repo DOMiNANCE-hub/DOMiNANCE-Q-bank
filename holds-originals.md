@@ -461,3 +461,21 @@
 - Key: {"A":"T","B":"T","C":"T","D":"F","E":"F"}
 - Concern: Type I cells cover roughly 95% of alveolar surface, but their proportion by number depends on whether counting alveolar epithelial cells or all alveolar cells. The 40% figure requires the specified denominator and source. Type II cells provide the principal regenerative capacity. Original explanation and key untouched.
 - Reference: standard histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mrs7 — Reinke space lymphatic drainage
+- Stem: Reinke oedema develops easily because the superficial lamina propria of the true vocal fold:
+- Key: E
+- Concern: Reinke space is relatively poorly vascularised and has sparse or limited lymphatic drainage; the absolute absence of lymphatics is source-dependent and requires verification. Original explanation and key untouched.
+- Reference: standard respiratory histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mrg9 — False vocal fold and ventricular resonance
+- Stem: The false vocal folds and laryngeal ventricle help phonation by:
+- Key: B
+- Concern: The vestibular folds mainly protect and support laryngeal function, and the saccule lubricates the true vocal folds. The precise claim that false folds and the ventricle add resonance to ordinary phonation is source-dependent and not a universally established primary role. Original explanation and key untouched.
+- Reference: standard respiratory histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mrg11 — True vocal fold epithelial distribution
+- Stem: Respiratory epithelium covers the true vocal cord EXCEPT over the:
+- Key: D
+- Concern: The squamous epithelium covers the exposed vibrating free surface of the true vocal fold, rather than being defined solely by the exact position of its underlying vocal ligament. The stem's phrasing conflates the fold with its internal connective-tissue component. Original explanation and key untouched.
+- Reference: standard respiratory histology; exact edition/page and lecture source not independently checked.
