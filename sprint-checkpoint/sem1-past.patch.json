@@ -846,5 +846,157 @@
       "D": "Para-aminobenzoic acid is present, but glutamine is not the amino acid component. This combination also omits the pteridine ring.",
       "E": "The ring and para-aminobenzoic acid are correct components. Adding glutamine makes the combination inaccurate."
     }
+  },
+  "bio-093": {
+    "why": "Isoleucine yields acetyl-CoA and propionyl-CoA, while tyrosine yields acetoacetate and fumarate. Each supplies both ketogenic and glucogenic products. Serine is glucogenic through its conversion to pyruvate.",
+    "notes": {
+      "A": "Isoleucine is mixed, but tyrosine also supplies both a ketogenic product and a glucogenic product.",
+      "C": "Tyrosine is mixed, whereas serine yields pyruvate as a glucogenic product. This grouping also leaves out isoleucine.",
+      "D": "Serine is not conventionally ketogenic. Tyrosine is a mixed amino acid and is missing from this grouping.",
+      "E": "Isoleucine and tyrosine belong in the mixed group. Serine is classified as glucogenic."
+    }
+  },
+  "bio-094": {
+    "why": "Isoleucine breakdown yields acetyl-CoA directly. Tryptophan can yield acetoacetyl-CoA and tyrosine yields acetoacetate. Their ketogenic products can give rise to acetyl-CoA during further metabolism, although the immediate breakdown products differ.",
+    "notes": {
+      "A": "Tyrosine provides an indirect route through acetoacetate, but isoleucine and tryptophan also provide ketogenic carbon.",
+      "B": "Isoleucine yields acetyl-CoA and tryptophan yields a ketogenic product. Tyrosine also supplies ketogenic carbon through acetoacetate.",
+      "C": "Tyrosine and tryptophan supply ketogenic products. Isoleucine provides acetyl-CoA directly as well.",
+      "D": "This pair gives two examples, but tryptophan also provides ketogenic carbon through acetoacetyl-CoA."
+    }
+  },
+  "bio-095": {
+    "why": "Serine and cysteine have uncharged polar side chains under usual physiological conditions. Serine has a hydroxyl group and cysteine a thiol group. Methionine has a thioether and is conventionally grouped with nonpolar amino acids.",
+    "notes": {
+      "A": "Serine is polar and uncharged, but cysteine also belongs in this category.",
+      "C": "Cysteine belongs in the polar uncharged group. Methionine's thioether side chain is usually classified as nonpolar.",
+      "D": "Serine is polar and uncharged, whereas methionine is grouped with nonpolar residues. Cysteine is missing.",
+      "E": "Cysteine and serine have polar functional groups. Methionine is excluded because its side chain is conventionally nonpolar."
+    }
+  },
+  "bio-096": {
+    "why": "Arginine has a guanidinium side chain that remains positively charged at physiological pH. Glutamine has an uncharged amide side chain, while glutamate carries a negative side-chain charge.",
+    "notes": {
+      "B": "Arginine is positive, but glutamine's side-chain amide has no net charge at physiological pH.",
+      "C": "Glutamine is uncharged and glutamate is negatively charged. Neither belongs to the basic, positively charged group.",
+      "D": "Glutamate has a carboxylate side chain and is negatively charged, unlike the guanidinium group of arginine.",
+      "E": "All three side chains are polar, but only arginine is positively charged under ordinary physiological conditions."
+    }
+  },
+  "bio-306": {
+    "why": "Many unusual residues in proteins come from modification of a standard amino acid after translation. For example, prolyl hydroxylase acts on proline residues in collagen. The enzymes responsible for such modifications are themselves encoded by genes.",
+    "notes": {
+      "A": "The assertion applies to many modified residues, but their modifying enzymes do have genetic coding.",
+      "B": "Hydroxylation of proline illustrates the assertion. The reason is false because the modifying enzyme is encoded by DNA.",
+      "D": "The premise about modification is valid for residues such as hydroxyproline. The claim about absent coding for the enzymes is false.",
+      "E": "The reason is false, but post-translational modification of common amino acids is a recognised source of unusual residues."
+    }
+  },
+  "bio-397": {
+    "why": "Mammalian glutamate dehydrogenase is regulated allosterically. ADP can activate it, while GTP generally inhibits it. The reason incorrectly assigns the same effect to both nucleotides.",
+    "notes": {
+      "A": "Both nucleotides affect the enzyme, but GTP is an inhibitory signal rather than an activator.",
+      "B": "The reason is inaccurate because the directions of GTP and ADP regulation differ.",
+      "D": "The enzyme is demonstrably allosteric, and the proposed activation by high GTP is incorrect.",
+      "E": "The assertion is supported by nucleotide regulation. The error is the stated effect of GTP."
+    }
+  },
+  "bio-398": {
+    "why": "Aminotransferases use tightly bound pyridoxal phosphate as a prosthetic group. It temporarily accepts an amino group to form pyridoxamine phosphate, then transfers the group to an alpha-keto acid and regenerates pyridoxal phosphate.",
+    "notes": {
+      "B": "Tight association with the aminotransferase is consistent with its role as the enzyme's prosthetic group during amino transfer.",
+      "C": "Pyridoxal phosphate is indeed a tightly associated coenzyme of these transaminases, making the reason true.",
+      "D": "The assertion is true because pyridoxal phosphate participates directly in the two-stage transfer of the amino group.",
+      "E": "Both statements describe a recognised feature of pyridoxal phosphate-dependent aminotransferases."
+    }
+  },
+  "bio-403": {
+    "why": "Fructose 1,6-bisphosphate is a glycolytic metabolite. Aldolase cleaves its carbon–carbon bond to form glyceraldehyde 3-phosphate and dihydroxyacetone phosphate. The enzyme fructose 1,6-bisphosphatase performs a separate hydrolysis during gluconeogenesis.",
+    "notes": {
+      "A": "The metabolite is not an enzyme and therefore does not belong to the hydrolase class. It is a substrate for aldolase.",
+      "B": "The reason is correct, but the assertion confuses the metabolite with the enzyme that hydrolyses it.",
+      "C": "The assertion is false because fructose 1,6-bisphosphate is a substrate. Aldol cleavage of it does occur in glycolysis.",
+      "E": "The assertion is incorrect, but aldolase does cleave fructose 1,6-bisphosphate into two triose phosphates."
+    }
+  },
+  "bio-441": {
+    "why": "Lysine is nutritionally essential in humans because there is no pathway that can synthesise enough lysine for normal needs. Dietary protein therefore supplies the lysine required for protein synthesis and other metabolic functions.",
+    "notes": {
+      "B": "Dependence on dietary supply is the basis for classifying lysine as an essential amino acid.",
+      "C": "Humans cannot make sufficient lysine endogenously, so the reason correctly explains its essential status.",
+      "D": "Lysine is an essential amino acid, making the assertion as well as the reason true.",
+      "E": "Both statements are supported by human nutritional requirements for lysine."
+    }
+  },
+  "bio-442": {
+    "why": "Dietary fructose is already a monosaccharide and does not require digestion into smaller sugars. It enters intestinal epithelial cells chiefly through GLUT5 and exits toward portal blood chiefly through GLUT2.",
+    "notes": {
+      "B": "Being a monosaccharide explains why fructose can be absorbed without prior hydrolysis, though transport across enterocytes is still required.",
+      "C": "Fructose is a dietary monosaccharide. It is distinct from disaccharides such as sucrose that require hydrolysis.",
+      "D": "Fructose can reach portal blood after transport across intestinal cells, so the assertion is valid in the usual nutritional sense.",
+      "E": "The two statements describe a monosaccharide that can be absorbed without enzymatic digestion, using specific transporters."
+    }
+  },
+  "bio-901": {
+    "why": "A larger amino acid load increases the need to dispose of nitrogen through carbamoyl phosphate and urea. Ornithine transcarbamylase is mitochondrial in humans. Each urea requires three ATP molecules, equivalent to four high-energy phosphate bonds.",
+    "notes": {
+      "A": "The amino acid load can increase ureagenesis. The energy cost of four high-energy phosphate bonds is also correct.",
+      "B": "Carbamoyl phosphate synthesis responds to amino acid nitrogen load, but ornithine transcarbamylase is not a human cytosolic urea-cycle enzyme.",
+      "C": "The energy cost is correct. The location of ornithine transcarbamylase is mitochondrial, and amino acid intake can increase pathway flux.",
+      "E": "The cytosolic-location statement is false. Increased nitrogen disposal and the four-bond energy cost both apply."
+    }
+  },
+  "bio-097": {
+    "why": "Phenylalanine hydroxylase deficiency can cause phenylalanine accumulation, urinary phenylketones and reduced pigmentation from altered tyrosine and melanin metabolism. Tetrahydrobiopterin disorders can also produce hyperphenylalaninaemia by limiting a cofactor required by the hydroxylase.",
+    "notes": {
+      "A": "Impaired phenylalanine hydroxylation can affect pigmentation, but phenylpyruvate excretion and cofactor-related disorders are also pertinent.",
+      "B": "Hypopigmentation and phenylketonuria fit classic hydroxylase deficiency. A shortage of tetrahydrobiopterin can also limit hydroxylation.",
+      "C": "Both phenylketones and cofactor defects are relevant, and pigmentation can be lighter in untreated classic disease.",
+      "D": "Pigmentation and tetrahydrobiopterin are relevant. The abnormal phenylalanine pool can also generate urinary phenylpyruvate."
+    }
+  },
+  "bio-098": {
+    "why": "Phenylalanine hydroxylase normally converts phenylalanine to tyrosine. Deficiency leads to excess phenylalanine, some of which is metabolised to phenylpyruvate and phenylacetate.",
+    "notes": {
+      "A": "Fumarylacetoacetate hydrolase deficiency causes tyrosinaemia type I and accumulation of metabolites such as succinylacetone.",
+      "B": "Tyrosine 3-monooxygenase makes L-DOPA in catecholamine synthesis. Its deficiency does not explain accumulation of phenylketones.",
+      "D": "Cystathionine beta-synthase deficiency disrupts homocysteine metabolism. It is unrelated to the phenylalanine hydroxylation step."
+    }
+  },
+  "bio-099": {
+    "why": "Leucine, valine and isoleucine are first converted to their corresponding branched-chain alpha-keto acids. Maple syrup urine disease impairs the shared dehydrogenase complex that normally processes all three.",
+    "notes": {
+      "A": "Leucine is affected, but the same dehydrogenase complex processes the products of valine and isoleucine catabolism.",
+      "B": "Leucine and valine belong to the affected group. Isoleucine also requires the shared enzyme complex.",
+      "C": "Valine and isoleucine are relevant, but leucine metabolism is also disrupted and is especially important in the disease.",
+      "D": "Leucine and isoleucine are affected. Valine generates a third branched-chain keto acid processed by the same complex."
+    }
+  },
+  "bio-101": {
+    "why": "Type III tyrosinaemia results from 4-hydroxyphenylpyruvate dioxygenase deficiency. Type I causes hepatorenal disease and increases liver cancer risk because fumarylacetoacetate hydrolase is deficient. Type II instead results from tyrosine aminotransferase deficiency.",
+    "notes": {
+      "A": "The enzyme defect in type III is correctly described. Type I also carries the stated hepatic and renal risks.",
+      "C": "The type I complications are correct. Fumarylacetoacetate hydrolase deficiency belongs to type I, rather than type II.",
+      "D": "Type III involves the dioxygenase. Type II involves tyrosine aminotransferase, and this grouping leaves out the characteristic type I complications.",
+      "E": "The descriptions of types I and III are correct, but the enzyme assigned to type II actually belongs to type I."
+    }
+  },
+  "bio-102": {
+    "why": "Tyrosinaemia type II results from tyrosine aminotransferase deficiency. Characteristic findings include painful eye lesions and thickened skin on the palms or soles. Some affected people also have intellectual disability. Seizures are more characteristic of type III.",
+    "notes": {
+      "A": "Intellectual disability can occur, but the eye and skin findings are particularly characteristic of type II.",
+      "C": "Eye and skin lesions fit type II. Seizures are more characteristic of type III, and intellectual disability is also possible in type II.",
+      "D": "Intellectual disability can be associated with type II. The characteristic combination also includes corneal and skin lesions, not seizures.",
+      "E": "The first two features fit the typical type II description. Seizures do not belong to its defining clinical pattern."
+    }
+  },
+  "bio-103": {
+    "why": "Argininosuccinate lyase deficiency causes argininosuccinic aciduria, and carbamoyl phosphate synthetase I deficiency causes hyperammonaemia. Ornithine transcarbamylase deficiency impairs citrulline formation and is associated with low or inappropriately normal citrulline, rather than citrullinaemia.",
+    "notes": {
+      "A": "The early ornithine transcarbamylase block reduces citrulline formation. Citrullinaemia is typically associated with argininosuccinate synthetase deficiency.",
+      "B": "Argininosuccinic aciduria does result from the lyase defect, but ornithine transcarbamylase deficiency does not typically raise citrulline.",
+      "D": "Hyperammonaemia occurs with the carbamoyl phosphate synthetase I defect. The ornithine transcarbamylase pairing remains incorrect.",
+      "E": "The final two pairings are valid. The first pairing incorrectly associates ornithine transcarbamylase deficiency with citrulline accumulation."
+    }
   }
 }
