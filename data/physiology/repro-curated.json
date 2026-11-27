@@ -3526,7 +3526,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Oxygen diffuses down its partial-pressure gradient across the placenta.",
+      "why": "Oxygen crosses the placental exchange barrier by passive diffusion from higher maternal to lower fetal oxygen partial pressure. Fetal haemoglobin's relatively high oxygen affinity helps maintain uptake by binding oxygen entering fetal blood.",
+      "notes": {
+        "A": "Placental oxygen transfer does not directly consume ATP to move oxygen against its partial-pressure gradient, unlike active nutrient transport.",
+        "B": "Hormone receptors regulate specific cellular signalling pathways, rather than serving as the principal mechanism transferring oxygen across placental tissue.",
+        "D": "Placental Fc receptors transport maternal IgG through receptor-mediated mechanisms, rather than transferring molecular oxygen into the fetal circulation.",
+        "E": "Maternal and fetal vessels remain separate; their blood exchanges oxygen across the placental barrier without direct vascular fusion."
+      },
       "topicId": "repro-preg",
       "subtopic": "Placenta",
       "difficulty": "medium"
@@ -3558,7 +3564,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "One umbilical vein returns oxygenated placental blood to the fetus.",
+      "why": "The single umbilical vein carries relatively oxygen-rich blood from the placenta towards the fetal liver. Some enters hepatic vessels, while a substantial fraction passes through the ductus venosus towards the inferior vena cava.",
+      "notes": {
+        "A": "The paired umbilical arteries carry relatively oxygen-poor fetal blood away from the fetus and towards the placenta for exchange.",
+        "B": "The fetal pulmonary artery receives right ventricular output and distributes it towards the lungs and ductus arteriosus, rather than delivering placental venous blood.",
+        "C": "The superior vena cava drains the upper fetal body into the right atrium, rather than receiving oxygenated blood directly from the placenta.",
+        "E": "The ductus arteriosus connects the pulmonary arterial circulation with the descending aorta, rather than carrying placental blood towards the liver."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Fetal circulation",
       "difficulty": "easy"
@@ -3590,7 +3602,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Paired umbilical arteries return comparatively deoxygenated blood to the placenta.",
+      "why": "The paired umbilical arteries arise from the fetal internal iliac arterial system and convey relatively deoxygenated blood to placental vessels. Gas exchange occurs in chorionic villi, and the single umbilical vein returns relatively oxygenated blood.",
+      "notes": {
+        "A": "The normal later fetal cord contains one umbilical vein carrying blood from the placenta, rather than two veins supplying it.",
+        "B": "Pulmonary veins return blood from fetal lungs to the left atrium, rather than conveying fetal arterial blood towards the placenta.",
+        "C": "Coronary arteries deliver blood to fetal myocardium, rather than forming the paired vessels supplying the placental circulation.",
+        "D": "Internal jugular veins drain fetal head and neck regions, rather than carrying fetal blood to placental exchange vessels."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Fetal circulation",
       "difficulty": "easy"
@@ -3622,7 +3640,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The ductus venosus bypasses part of the liver and joins the inferior vena cava.",
+      "why": "The ductus venosus provides a relatively low-resistance route from the umbilical venous and portal region towards the inferior vena cava. This allows some oxygen-rich placental blood to bypass hepatic sinusoids before entering the right atrium.",
+      "notes": {
+        "B": "The superior vena cava drains the upper body and does not receive the ductus venosus as its normal fetal hepatic bypass.",
+        "C": "Pulmonary veins carry blood from the lungs to the left atrium, rather than receiving the umbilical venous hepatic bypass.",
+        "D": "The descending aorta distributes arterial blood to the lower body and placenta, rather than directly receiving the ductus venosus.",
+        "E": "The pulmonary artery receives blood from the right ventricle; ductus venosus blood first enters the systemic venous circulation."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Fetal circulation",
       "difficulty": "medium"
@@ -3654,7 +3678,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The foramen ovale permits right-to-left atrial shunting before birth.",
+      "why": "In fetal circulation, the foramen ovale allows preferential flow from right atrium to left atrium, bypassing the high-resistance pulmonary circulation. Relatively oxygen-rich inferior caval blood is streamed through this opening towards the left heart.",
+      "notes": {
+        "A": "Left-to-right atrial flow becomes favoured when left atrial pressure rises after birth, opposing the usual fetal right-to-left shunt.",
+        "C": "The foramen ovale lies in the interatrial septum and does not provide a direct connection between the ventricular chambers.",
+        "D": "Pulmonary trunk-to-aortic flow occurs chiefly through the ductus arteriosus, a separate fetal shunt connecting arterial rather than atrial structures.",
+        "E": "Aorta-to-pulmonary arterial flow may occur in a patent ductus after birth, rather than describing fetal atrial foramen ovale flow."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Fetal circulation",
       "difficulty": "hard"
@@ -3686,7 +3716,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The ductus arteriosus shunts blood away from high-resistance fetal lungs.",
+      "why": "The ductus arteriosus links the pulmonary arterial circulation to the descending aorta distal to the left subclavian artery. High fetal pulmonary resistance favours diversion of much right ventricular output through this vessel towards systemic circulation.",
+      "notes": {
+        "A": "The ductus venosus provides a hepatic bypass for umbilical venous blood and does not connect the pulmonary artery to the aorta.",
+        "B": "The foramen ovale permits communication between the fetal atria, rather than connecting the pulmonary and systemic arterial circulations.",
+        "D": "The umbilical vein returns relatively oxygenated placental blood to the fetus, not blood shunted directly from pulmonary artery to aorta.",
+        "E": "The coronary sinus drains myocardial venous blood into the right atrium, rather than acting as the fetal arterial bypass of the lungs."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Fetal circulation",
       "difficulty": "easy"
@@ -3718,7 +3754,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Fluid-filled, unventilated fetal lungs maintain high pulmonary vascular resistance.",
+      "why": "Before birth, the fluid-filled, unventilated lungs have low oxygen tension and relatively constricted pulmonary vessels. High pulmonary vascular resistance limits lung perfusion and favours diversion of right ventricular output through the ductus arteriosus.",
+      "notes": {
+        "A": "Low pulmonary resistance would favour greater pulmonary blood flow, contrary to the characteristic fetal distribution of ventricular output.",
+        "B": "The placenta normally provides a low-resistance vascular bed, while high pulmonary resistance is the principal reason fetal lung perfusion is limited.",
+        "C": "Fetal pulmonary vessels have substantial vascular tone rather than being fully dilated, contributing to the relatively high pulmonary resistance.",
+        "E": "Pulmonary venous pressure is not normally zero; the high resistance of the pulmonary vascular bed chiefly limits flow."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Fetal circulation",
       "difficulty": "medium"
@@ -3750,7 +3792,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The placental circulation forms a low-resistance pathway in fetal circulation.",
+      "why": "The placental vascular bed lies in parallel with other fetal systemic vascular beds and accepts a substantial proportion of combined ventricular output. Its relatively low resistance decreases total systemic resistance while allowing extensive maternal–fetal exchange.",
+      "notes": {
+        "A": "Closed umbilical vessels would eliminate placental flow and remove its low-resistance contribution, as occurs when the cord circulation is interrupted.",
+        "B": "High placental resistance would limit flow through this vascular bed rather than explain its major low-resistance contribution to fetal systemic circulation.",
+        "C": "Fetal cardiac output drives blood through the placental circulation; complete absence of output would prevent placental perfusion.",
+        "D": "Placental chorionic villi contain extensive fetal capillary networks, which are essential for exchange rather than absent in the low-resistance bed."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Fetal circulation",
       "difficulty": "hard"
@@ -3782,7 +3830,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Streaming of inferior vena caval blood across the foramen ovale favors supply to the left heart.",
+      "why": "Relatively oxygen-rich blood arriving through the inferior vena cava is preferentially streamed across the foramen ovale into the left atrium. Left ventricular output then supplies the ascending aorta, favouring oxygen delivery to coronary and cerebral vessels.",
+      "notes": {
+        "B": "Pulmonary arterial mixing primarily involves right ventricular output, much of which bypasses the lungs through the ductus arteriosus.",
+        "C": "A direct aorta-to-vena cava shunt does not provide the normal preferential pathway delivering oxygenated placental blood to the fetal left heart.",
+        "D": "Umbilical arteries carry blood back to the placenta, rather than preferentially directing the most oxygen-rich blood to the fetal brain.",
+        "E": "Pulmonary veins ordinarily convey blood towards the left atrium; retrograde pulmonary venous flow is not the mechanism of preferential placental blood streaming."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Fetal circulation",
       "difficulty": "hard"
@@ -3814,7 +3868,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Fetal shunts distribute combined ventricular output to the systemic and placental circulations.",
+      "why": "Fetal atrial and arterial shunts allow both ventricles to contribute to systemic and placental perfusion. Rather than requiring all right ventricular output to traverse the lungs before reaching the left ventricle, the fetal circulation operates largely in parallel.",
+      "notes": {
+        "A": "The left ventricle supplies the ascending aorta, but the right ventricle also contributes substantially to systemic output through the ductus arteriosus.",
+        "C": "The right ventricle supplies much combined output, but the left ventricle remains functional and perfuses important upper-body arterial territories.",
+        "D": "High fetal pulmonary resistance and fetal shunts allow much ventricular output to bypass the lungs, unlike the postnatal series arrangement.",
+        "E": "Placental exchange supplies fetal oxygen and nutrients; the parallel ventricular arrangement does not eliminate blood flow through the placenta."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Fetal circulation",
       "difficulty": "medium"
@@ -3846,7 +3906,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "High pulmonary resistance diverts much right ventricular output through the ductus arteriosus.",
+      "why": "The fetal right ventricle ejects blood into the pulmonary trunk, but high pulmonary vascular resistance diverts most of this output through the ductus arteriosus into the descending aorta. A smaller portion perfuses the developing lungs.",
+      "notes": {
+        "A": "The left ventricle ejects into the ascending aorta and does not directly supply the pulmonary artery origin of the ductus arteriosus.",
+        "B": "The left atrium receives blood through pulmonary veins and the foramen ovale but does not directly pump into the ductal arterial connection.",
+        "D": "The right atrium channels venous blood into the right ventricle or through the foramen ovale, rather than directly ejecting into the ductus arteriosus.",
+        "E": "The coronary sinus returns myocardial venous blood to the right atrium, rather than generating ventricular output into the fetal ductal shunt."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Fetal circulation",
       "difficulty": "medium"
@@ -3878,7 +3944,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Aeration and higher alveolar oxygen dilate pulmonary vessels.",
+      "why": "Lung aeration at birth expands pulmonary tissue and raises alveolar oxygen tension, promoting pulmonary vasodilatation through mechanical and biochemical mechanisms. Pulmonary vascular resistance falls, increasing lung perfusion and establishing effective postnatal gas exchange.",
+      "notes": {
+        "A": "Increased umbilical venous pressure is not the principal stimulus for pulmonary vasodilatation; effective aeration and improved oxygenation drive the transition.",
+        "B": "Placental vasodilatation does not initiate the main pulmonary response to first breaths, which occurs within the newly aerated lungs.",
+        "C": "A fall in alveolar oxygen tension tends to promote hypoxic pulmonary vasoconstriction rather than explaining the normal postnatal fall in resistance.",
+        "E": "Pulmonary blood flow increases as resistance falls, rather than declining as the principal mechanism establishing effective neonatal lung perfusion."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Transition at birth",
       "difficulty": "hard"
@@ -3910,7 +3982,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Removal of low-resistance placental circulation raises systemic vascular resistance.",
+      "why": "Clamping the umbilical cord removes the low-resistance placental vascular bed from fetal systemic circulation. Total systemic vascular resistance therefore rises, contributing to the postnatal change in pressure relationships across the fetal circulatory shunts.",
+      "notes": {
+        "A": "Removing a major parallel low-resistance vascular pathway raises rather than lowers systemic vascular resistance in the usual birth transition.",
+        "B": "Pulmonary resistance falls primarily with lung aeration and oxygenation; an increase in pulmonary resistance is not the direct systemic consequence of clamping.",
+        "C": "Interruption of umbilical venous return reduces an important source of right atrial filling, rather than necessarily increasing right atrial pressure.",
+        "D": "Left atrial filling increases with effective pulmonary perfusion after birth; loss of the placental vascular bed chiefly raises systemic resistance."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Transition at birth",
       "difficulty": "medium"
@@ -3942,7 +4020,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Increased pulmonary venous return raises left atrial pressure and opposes right-to-left shunting.",
+      "why": "Increased pulmonary blood flow after lung aeration raises pulmonary venous return and left atrial pressure, while interruption of placental venous return reduces right atrial filling. The higher left atrial pressure presses the foramen ovale flap closed.",
+      "notes": {
+        "B": "Right atrial pressure exceeding left atrial pressure favours opening of the fetal flap and right-to-left shunting, rather than functional closure.",
+        "C": "Both atria retain physiologically important filling pressures; closure depends on their relative pressure difference rather than abolition of both pressures.",
+        "D": "Right ventricular and aortic pressures concern ventricular and arterial haemodynamics, not the immediate atrial pressure gradient closing the septal flap.",
+        "E": "Pulmonary arterial pressure relative to aortic pressure influences ductal flow, rather than directly controlling the interatrial foramen ovale flap."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Transition at birth",
       "difficulty": "hard"
@@ -3974,7 +4058,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Increased arterial oxygen and falling prostaglandins favor ductal constriction.",
+      "why": "After birth, increased arterial oxygen tension promotes ductal smooth-muscle contraction, while loss of placental prostaglandin supply and increased pulmonary prostaglandin metabolism reduce dilator signalling. These changes favour functional ductus arteriosus closure in healthy term neonates.",
+      "notes": {
+        "A": "Low oxygen tension and increased prostaglandin signalling help maintain fetal ductal patency, rather than promoting normal postnatal constriction.",
+        "C": "Pulmonary vascular resistance normally decreases with effective breathing, and ductal constriction chiefly responds to oxygen and reduced prostaglandin influence.",
+        "D": "Pulmonary blood flow normally increases after lung expansion; reduced flow does not provide the principal signal closing the ductus arteriosus.",
+        "E": "Persistent placental prostaglandin influence would support ductal relaxation, rather than the loss of this dilator signal that favours closure."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Transition at birth",
       "difficulty": "medium"
@@ -4006,7 +4096,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The ductus arteriosus becomes the ligamentum arteriosum.",
+      "why": "The ductus arteriosus initially closes through smooth-muscle constriction after birth and later undergoes anatomical remodelling into the ligamentum arteriosum. This fibrous remnant connects the pulmonary arterial region to the aortic arch.",
+      "notes": {
+        "A": "Ligamentum venosum is the fibrous remnant of the ductus venosus, which previously diverted umbilical blood past hepatic sinusoids.",
+        "B": "Ligamentum teres hepatis derives from the left umbilical vein, rather than the arterial connection between pulmonary circulation and aorta.",
+        "D": "The fossa ovalis marks the former fetal interatrial foramen ovale and is not the fibrous remnant of the ductus arteriosus.",
+        "E": "Medial umbilical ligaments represent obliterated distal portions of umbilical arteries, rather than the former pulmonary-to-aortic fetal shunt."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Transition at birth",
       "difficulty": "easy"
@@ -4038,7 +4134,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Fusion of the atrial septal flap leaves the fossa ovalis.",
+      "why": "The fossa ovalis is a depression in the interatrial septum marking the former foramen ovale. Functional flap closure follows increased left atrial pressure, while anatomical fusion may occur later and is incomplete in some adults.",
+      "notes": {
+        "A": "The coronary sinus drains cardiac venous blood into the right atrium and is not the remnant of the fetal interatrial opening.",
+        "B": "Ligamentum venosum lies within the liver region and represents the former ductus venosus, rather than a structure of the atrial septum.",
+        "C": "Ligamentum arteriosum connects the pulmonary arterial and aortic regions as the remnant of the ductus arteriosus.",
+        "E": "The round ligament of the liver derives from the umbilical vein, whereas the former atrial shunt is marked by the fossa ovalis."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Transition at birth",
       "difficulty": "easy"
@@ -4070,7 +4172,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The ductus venosus becomes the ligamentum venosum in the liver.",
+      "why": "The ductus venosus normally becomes obliterated after birth when umbilical venous flow ceases. Its fibrous remnant, the ligamentum venosum, lies in a fissure of the liver and marks the former fetal hepatic bypass.",
+      "notes": {
+        "A": "Ligamentum arteriosum is the remnant of the arterial connection between pulmonary artery and aorta, rather than the fetal hepatic venous bypass.",
+        "B": "Ligamentum teres hepatis forms from the left umbilical vein, which supplied placental blood to the ductus venosus region.",
+        "C": "The fossa ovalis marks the fetal interatrial opening and is anatomically distinct from fibrous remnants of umbilical or hepatic vessels.",
+        "D": "The median umbilical ligament derives from the urachus, rather than from a fetal vascular channel within the liver."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Transition at birth",
       "difficulty": "easy"
@@ -4102,7 +4210,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The remnant of the left umbilical vein is the round ligament of the liver.",
+      "why": "The left umbilical vein carries placental blood to the fetal liver and becomes obliterated after birth. Its fibrous remnant is the ligamentum teres hepatis, or round ligament of the liver, within the free margin of the falciform ligament.",
+      "notes": {
+        "B": "Ligamentum venosum is the remnant of the ductus venosus, which allowed some umbilical venous blood to bypass hepatic sinusoids.",
+        "C": "Ligamentum arteriosum derives from the fetal ductus arteriosus connecting pulmonary arterial circulation and aorta, rather than the umbilical vein.",
+        "D": "Medial umbilical ligaments arise from obliterated distal portions of the paired umbilical arteries, not the single umbilical vein.",
+        "E": "The fossa ovalis marks closure of the fetal foramen ovale within the interatrial septum rather than the former umbilical vein."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Transition at birth",
       "difficulty": "medium"
@@ -4134,7 +4248,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Type II pneumocyte surfactant reduces alveolar surface tension and prevents atelectasis.",
+      "why": "Premature lungs may contain insufficient surfactant because type II pneumocyte maturation and secretion are incomplete. Increased alveolar surface tension promotes atelectasis, reduces compliance and increases the work required to inflate the lungs, contributing to neonatal respiratory distress.",
+      "notes": {
+        "A": "Prostaglandin E2 contributes to ductal patency and other signalling processes, rather than being the principal surface-active material preventing alveolar collapse.",
+        "C": "Nitric oxide participates in pulmonary vascular regulation, but deficiency of surfactant is the characteristic mechanism of premature alveolar instability.",
+        "D": "Fetal haemoglobin supports oxygen transport but does not directly lower surface tension at the alveolar air–liquid interface.",
+        "E": "Bicarbonate participates in acid–base buffering, whereas surfactant provides the surface-active phospholipids that reduce alveolar collapsing forces."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Neonatal respiration",
       "difficulty": "hard"
@@ -4166,7 +4286,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Type II alveolar cells produce surfactant.",
+      "why": "Type II pneumocytes are cuboidal alveolar epithelial cells that synthesise pulmonary surfactant and package it in lamellar bodies before secretion. Surfactant spreads along the air–liquid interface, decreasing surface tension and stabilising alveoli.",
+      "notes": {
+        "A": "Type I pneumocytes form most of the thin gas-exchange surface but are not the principal surfactant-producing alveolar epithelial cells.",
+        "B": "Alveolar macrophages remove particles and microorganisms through phagocytosis rather than producing the major surface-active pulmonary surfactant pool.",
+        "D": "Capillary endothelial cells form the vascular side of the blood–air barrier, rather than secreting alveolar surfactant from lamellar bodies.",
+        "E": "Ciliated bronchial epithelial cells help clear mucus from conducting airways, whereas type II pneumocytes produce surfactant within alveoli."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Neonatal respiration",
       "difficulty": "easy"
@@ -4198,7 +4324,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Birth-related epithelial sodium transport helps remove fluid from the airspaces.",
+      "why": "Around birth, hormonal signals including catecholamines promote epithelial sodium absorption from fetal lung liquid. Water follows the absorbed sodium osmotically, while aeration and pulmonary vascular and lymphatic clearance help remove residual liquid from the airspaces.",
+      "notes": {
+        "A": "Chloride secretion supports fetal lung-liquid production before birth, rather than the absorptive epithelial transition required for postnatal fluid clearance.",
+        "B": "Pulmonary vascular resistance normally falls with lung aeration, facilitating perfusion and fluid removal rather than relying on sustained vascular constriction.",
+        "C": "Continued secretion of lung liquid would oppose clearance of alveolar airspaces, whereas birth promotes net fluid absorption.",
+        "E": "Alveolar protein degradation does not provide the major osmotic driving mechanism of lung-liquid absorption; epithelial sodium transport is more important."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Neonatal respiration",
       "difficulty": "hard"
@@ -4230,7 +4362,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Surfactant reduces the pressure needed to inflate small alveoli.",
+      "why": "Pulmonary surfactant lowers surface tension at the alveolar air–liquid interface, reducing the pressure needed to inflate newly aerated alveoli. This improves lung compliance and helps prevent collapse during expiration as the newborn establishes effective ventilation.",
+      "notes": {
+        "A": "Increased alveolar surface tension would increase collapsing pressure and inflation requirements, opposite to the principal action of pulmonary surfactant.",
+        "B": "Surfactant supports alveolar stability and limits forces favouring fluid accumulation, rather than principally increasing alveolar liquid volume.",
+        "C": "Reduced lung compliance would make inflation more difficult, whereas surfactant improves compliance by decreasing the surface-tension component of recoil.",
+        "D": "Increased work of inflation occurs when surface tension is excessive; surfactant lowers the pressure and effort required for ventilation."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Neonatal respiration",
       "difficulty": "easy"
@@ -4262,7 +4400,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Limited glycogen and fat stores plus immature glucose production increase vulnerability.",
+      "why": "Preterm infants have smaller hepatic glycogen and fat reserves and less mature glucose-producing pathways. After placental glucose supply stops at birth, limited glycogenolysis and gluconeogenesis may fail to meet ongoing metabolic demands, increasing hypoglycaemia risk.",
+      "notes": {
+        "B": "Substantial hepatic glycogen reserves would provide a protective substrate for glucose release after birth, rather than increasing the characteristic preterm vulnerability.",
+        "C": "Placental glucose delivery ceases with interruption of the umbilical circulation, so excess ongoing placental inflow does not explain postnatal hypoglycaemia.",
+        "D": "Fully mature gluconeogenic capacity would improve endogenous glucose production after birth, rather than accounting for the limited metabolic reserve of prematurity.",
+        "E": "Reduced glucose consumption would tend to conserve circulating fuel; preterm infants remain vulnerable because supply may be inadequate for their metabolic needs."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Neonatal metabolism",
       "difficulty": "medium"
@@ -4294,7 +4438,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Brown fat supports nonshivering thermogenesis through mitochondrial uncoupling.",
+      "why": "Brown adipose tissue supports neonatal non-shivering thermogenesis through sympathetic activation of mitochondrial uncoupling. Oxidation of fatty acids and other substrates generates heat rather than maximising ATP production, helping maintain body temperature without skeletal-muscle shivering.",
+      "notes": {
+        "A": "Cartilage is a supporting connective tissue without the specialised mitochondrial uncoupling machinery characteristic of brown adipose thermogenesis.",
+        "C": "Red marrow contains haematopoietic precursors that produce blood cells, rather than serving as the principal neonatal adaptive heat-producing tissue.",
+        "D": "Cerebral white matter contains neural axons and glial cells, rather than specialised adipocytes generating heat through mitochondrial uncoupling.",
+        "E": "The epidermis contributes to barrier function and heat exchange but is not the main tissue specialised for neonatal non-shivering thermogenesis."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Neonatal thermoregulation",
       "difficulty": "medium"
@@ -4326,7 +4476,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "UCP1 dissipates the proton gradient as heat instead of conserving it as ATP.",
+      "why": "Uncoupling protein 1 in the inner mitochondrial membrane of brown adipocytes permits protons to return towards the matrix without passing through ATP synthase. The dissipated electrochemical energy is released as heat during non-shivering thermogenesis.",
+      "notes": {
+        "A": "ATP synthase normally couples proton movement to ATP production, rather than providing the specialised uncoupling pathway releasing energy predominantly as heat.",
+        "B": "Cytochrome c oxidase supports respiratory electron transport and proton pumping, but UCP1 provides the regulated proton leak characteristic of brown fat.",
+        "D": "Voltage-dependent anion channels participate in outer mitochondrial membrane transport, rather than directly dissipating the inner membrane proton gradient for thermogenesis.",
+        "E": "Sodium–potassium ATPase maintains cellular ion gradients at the plasma membrane, rather than providing the mitochondrial uncoupling mechanism of brown adipocytes."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Neonatal thermoregulation",
       "difficulty": "hard"
@@ -4358,7 +4514,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Immature UGT-mediated conjugation reduces bilirubin clearance in the newborn.",
+      "why": "Neonates produce substantial bilirubin from erythrocyte turnover, while hepatic UDP-glucuronosyltransferase activity is relatively immature. Reduced bilirubin conjugation and other developmental factors limit clearance, contributing to transient predominantly unconjugated physiological neonatal jaundice.",
+      "notes": {
+        "A": "Urinary albumin handling is mainly a renal process and does not explain the developmental hepatic limitation in bilirubin elimination.",
+        "B": "Marrow haemoglobin synthesis generates erythrocytes, whereas physiological jaundice involves bilirubin production and relatively limited hepatic conjugation after haem breakdown.",
+        "C": "Renal insulin degradation concerns metabolic hormone clearance, not the immature hepatic conjugation pathway responsible for neonatal bilirubin accumulation.",
+        "E": "Pulmonary surfactant supports alveolar stability and is unrelated to the hepatic enzymatic processing required for efficient bilirubin excretion."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Neonatal hepatic function",
       "difficulty": "medium"
@@ -4390,7 +4552,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Neonates have limited vitamin K reserves and immature intestinal flora.",
+      "why": "Newborns have limited vitamin K stores because placental transfer is poor, and early dietary and intestinal bacterial contributions may be insufficient. Prophylaxis supports vitamin K-dependent clotting factor activation and reduces the risk of vitamin K deficiency bleeding.",
+      "notes": {
+        "A": "Placental vitamin K transfer is relatively limited, so excess prenatal accumulation does not explain the need for newborn prophylaxis.",
+        "B": "Vitamin K deficiency impairs activation of several coagulation proteins rather than producing an overactive hepatic clotting system requiring correction.",
+        "C": "Calcium participates in coagulation reactions, but neonatal vitamin K prophylaxis addresses inadequate vitamin-dependent gamma-carboxylation rather than complete calcium loss.",
+        "D": "Early intestinal microbial vitamin K contribution is limited and variable, rather than excessive production being the reason supplementation is beneficial."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Neonatal hepatic function",
       "difficulty": "hard"
@@ -4422,7 +4590,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Immature filtration and tubular function limit neonatal water and solute regulation.",
+      "why": "Neonatal kidneys have relatively low glomerular filtration and immature tubular transport and concentrating mechanisms. These limitations reduce the ability to adjust water, sodium and other solute excretion rapidly when intake, losses or physiological demands change.",
+      "notes": {
+        "B": "Adult-like maximal urine concentrating ability develops with renal maturation; limited neonatal concentrating capacity instead increases vulnerability to water imbalance.",
+        "C": "Neonates have less mature renal functional reserve, rather than unusually high reserve protecting them against substantial fluid and solute disturbances.",
+        "D": "Tubular sodium transport continues developing after birth, so fully mature handling does not characterise the neonatal kidney.",
+        "E": "Glomerular filtration is limited in neonates, particularly preterm infants, and increases with renal development rather than being effectively unlimited."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Neonatal renal function",
       "difficulty": "easy"
@@ -4454,7 +4628,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The neonatal heart is relatively heart-rate dependent because stroke volume reserve is limited.",
+      "why": "Cardiac output equals heart rate multiplied by stroke volume. Neonatal ventricles have relatively limited capacity to increase stroke volume during marked bradycardia, so a substantial fall in heart rate can sharply reduce cardiac output and tissue perfusion.",
+      "notes": {
+        "A": "A large capacity to increase stroke volume would compensate for bradycardia, whereas neonatal stroke volume reserve is relatively limited.",
+        "C": "Newborns have considerable metabolic and oxygen requirements; low oxygen consumption does not explain their dependence on adequate heart rate.",
+        "D": "Placental circulation normally ceases after birth, so persistent placental flow does not compensate for severe neonatal bradycardia.",
+        "E": "Greater ventricular reserve would support compensation through increased stroke volume, rather than explain why neonatal output falls markedly with bradycardia."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Neonatal circulation",
       "difficulty": "medium"
@@ -4486,7 +4666,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "HbF binds 2,3-BPG less strongly, helping it acquire oxygen at placental tensions.",
+      "why": "Fetal haemoglobin contains gamma chains that interact less strongly with 2,3-bisphosphoglycerate than adult beta chains do. Weaker stabilisation of deoxygenated haemoglobin increases oxygen affinity, facilitating fetal oxygen loading at placental oxygen tensions.",
+      "notes": {
+        "A": "Carbon dioxide participates in haemoglobin-related acid–base regulation, but reduced 2,3-BPG binding is the characteristic molecular distinction explaining fetal oxygen affinity.",
+        "B": "Fetal haemoglobin generally has greater rather than lower oxygen affinity compared with adult haemoglobin under comparable physiological conditions.",
+        "D": "Hydrogen ion concentration affects haemoglobin affinity through the Bohr effect, but altered 2,3-BPG binding is the specified fetal globin-chain mechanism.",
+        "E": "Chloride can influence haemoglobin allostery and participates in erythrocyte anion exchange, but it is not the principal regulator distinguishing HbF affinity here."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Fetal oxygen transport",
       "difficulty": "hard"
@@ -4518,7 +4704,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Gamma-chain synthesis declines while beta-chain-containing adult Hb rises after birth.",
+      "why": "After birth, gamma-globin production progressively declines while beta-globin synthesis increases, changing the dominant haemoglobin from HbF towards adult HbA. This developmental transition occurs gradually over the first months and does not require immediate disappearance of all HbF.",
+      "notes": {
+        "A": "Fetal haemoglobin normally declines after birth as beta-globin expression increases, rather than continuing to rise indefinitely throughout infancy.",
+        "B": "HbA2 is a minor adult haemoglobin containing delta chains, whereas HbA containing beta chains becomes the predominant adult form.",
+        "C": "Erythropoiesis and haemoglobin synthesis continue after birth; developmental globin switching changes chain composition rather than stopping haemoglobin production.",
+        "E": "Both fetal and adult haemoglobin can coexist during the transition, while adult haemoglobin becomes predominant rather than both forms disappearing."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Fetal oxygen transport",
       "difficulty": "easy"
@@ -4550,7 +4742,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Persistent pulmonary hypertension maintains high PVR and can preserve fetal right-to-left shunting.",
+      "why": "Persistent pulmonary hypertension of the newborn involves failure of pulmonary vascular resistance to decrease adequately after birth. Elevated right-sided pressures can maintain right-to-left shunting through the ductus arteriosus or foramen ovale, compromising systemic oxygenation despite respiratory efforts.",
+      "notes": {
+        "A": "Normal functional ductal closure reduces shunting between pulmonary and systemic arterial circulations, rather than maintaining persistent right-to-left flow.",
+        "B": "Functional foramen ovale closure follows higher left atrial pressure and does not explain continuing right-to-left ductal flow from elevated pulmonary resistance.",
+        "C": "Reduced systemic venous return alone does not establish the persistently high pulmonary vascular resistance and right-to-left shunting characteristic of this disorder.",
+        "D": "Maternal anaemia may affect prenatal oxygen delivery, but isolated maternal anaemia does not define persistent neonatal pulmonary hypertension after birth."
+      },
       "topicId": "repro-fetal",
       "subtopic": "Neonatal circulation",
       "difficulty": "hard"
@@ -4582,7 +4780,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Testicular enlargement is typically the earliest clear sign of male puberty.",
+      "why": "Testicular enlargement is usually the earliest clinically detectable sign of central male puberty, reflecting gonadotropin-driven growth of seminiferous tubules and testicular tissue. Further androgen-dependent changes generally follow as the hypothalamic–pituitary–gonadal axis becomes increasingly active.",
+      "notes": {
+        "B": "Facial hair usually develops after the onset of testicular enlargement and therefore is not the earliest reliable clinical marker of male puberty.",
+        "C": "Maximum adult muscle mass is attained later through continued development and androgen action, rather than marking initial pubertal gonadal activation.",
+        "D": "Permanent voice deepening generally occurs after puberty has progressed, following androgen-mediated growth of laryngeal structures.",
+        "E": "Completion of spermatogenesis requires further maturation after testicular enlargement begins, rather than providing the earliest visible sign of puberty."
+      },
       "topicId": "repro-male",
       "subtopic": "Pubertal onset",
       "difficulty": "easy"
@@ -4614,7 +4818,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Kisspeptin activates GnRH neurons and helps initiate pulsatile gonadotropin secretion.",
+      "why": "Kisspeptin activates KISS1 receptors on hypothalamic GnRH neurons and contributes to increased pulsatile GnRH release during pubertal development. This stimulates pituitary LH and FSH secretion, initiating gonadal growth and sex steroid production.",
+      "notes": {
+        "A": "TRH primarily regulates pituitary TSH and can affect prolactin, rather than providing the principal kisspeptin-activated reproductive hormonal signal.",
+        "C": "CRH regulates pituitary ACTH and adrenal cortisol production, not the gonadotropin-releasing signal initiating pubertal gonadal activity.",
+        "D": "GHRH stimulates pituitary growth hormone release and contributes to somatic growth, rather than directly initiating gonadotropin secretion through kisspeptin.",
+        "E": "Somatostatin inhibits growth hormone and selected other secretions, whereas kisspeptin chiefly stimulates GnRH neurons in the reproductive axis."
+      },
       "topicId": "repro-male",
       "subtopic": "Pubertal regulation",
       "difficulty": "medium"
@@ -4646,7 +4856,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Lack of testicular enlargement by 14 warrants evaluation for delayed puberty.",
+      "why": "Absence of testicular enlargement by age 14 meets a conventional clinical criterion for delayed male puberty. It suggests insufficient progression of gonadal activation and warrants assessment of constitutional delay, hypothalamic–pituitary function and possible primary testicular disorders.",
+      "notes": {
+        "A": "Completed normal puberty would ordinarily involve substantial testicular enlargement and other maturational changes rather than persistently prepubertal testicular size.",
+        "B": "Androgen excess can produce early virilisation in some settings, but absent testicular enlargement at this age most directly suggests delayed pubertal development.",
+        "D": "Early spermatogenic maturity usually follows gonadotropin-driven testicular growth; lack of enlargement does not establish unusually advanced maturation.",
+        "E": "Age-related decline in male gonadal function occurs much later and does not describe absent onset of puberty in a fourteen-year-old."
+      },
       "topicId": "repro-male",
       "subtopic": "Pubertal disorders",
       "difficulty": "medium"
@@ -4678,7 +4894,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "DHT supports development of male external genitalia during fetal life.",
+      "why": "Five-alpha reductase converts testosterone into dihydrotestosterone within androgen-responsive tissues. During fetal development, DHT is especially important for masculinisation of external genitalia, so reduced local conversion can impair this development despite testosterone production.",
+      "notes": {
+        "A": "Testosterone may be produced normally in five-alpha reductase deficiency, but its conversion into the more potent local androgen DHT is impaired.",
+        "B": "Cortisol regulates glucocorticoid-responsive functions and is not the androgen specifically required for typical male external genital development.",
+        "C": "Aldosterone regulates renal electrolyte handling, rather than being the androgen product whose deficiency impairs masculinisation of external genital structures.",
+        "E": "Estradiol contributes to skeletal maturation and other functions, but it is not the direct androgen product of five-alpha reductase."
+      },
       "topicId": "repro-male",
       "subtopic": "Male differentiation",
       "difficulty": "hard"
@@ -4710,7 +4932,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Testosterone supports Wolffian duct derivatives, while DHT chiefly masculinizes external genitalia.",
+      "why": "Fetal Leydig-cell testosterone acts on androgen receptors to maintain and differentiate mesonephric, or Wolffian, ducts into male internal reproductive structures. Dihydrotestosterone is particularly important for external genital and prostatic development, reflecting distinct local androgen requirements.",
+      "notes": {
+        "A": "Dihydrotestosterone strongly supports external genital and prostatic masculinisation, whereas testosterone is the principal signal maintaining fetal Wolffian duct derivatives.",
+        "B": "Dehydroepiandrosterone is an androgen precursor with relatively weak direct androgenic activity, rather than the principal fetal Wolffian duct differentiation signal.",
+        "C": "Androstenedione can be converted into testosterone, but testosterone itself provides the characteristic androgen receptor stimulation supporting mesonephric duct development.",
+        "D": "Estradiol is an oestrogen and is not the principal androgen maintaining the fetal male internal mesonephric duct structures."
+      },
       "topicId": "repro-male",
       "subtopic": "Male differentiation",
       "difficulty": "hard"
@@ -4742,7 +4970,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Expanding sinusoids compress emissary veins against the tunica albuginea.",
+      "why": "Cavernosal smooth-muscle relaxation permits arterial inflow and expansion of erectile sinusoids. Their expansion compresses subtunical venules against the tunica albuginea, increasing resistance to venous outflow and helping maintain intracavernosal pressure during erection.",
+      "notes": {
+        "B": "Opening deep venous channels would facilitate blood drainage, opposing the veno-occlusive mechanism needed to maintain elevated intracavernosal pressure.",
+        "C": "Contraction of cavernosal arteries reduces blood entry and favours detumescence, rather than sustaining the expanded erectile sinusoidal spaces.",
+        "D": "Reduced blood entry would limit sinusoidal filling and pressure generation, rather than contributing to the characteristic veno-occlusive maintenance mechanism.",
+        "E": "Increased penile venous drainage reduces retained blood and intracavernosal pressure, whereas erection maintenance depends on restricting outflow."
+      },
       "topicId": "repro-male",
       "subtopic": "Male sexual response",
       "difficulty": "medium"
@@ -4774,7 +5008,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Alpha-adrenergic contraction reduces arterial inflow and restores venous drainage.",
+      "why": "Sympathetic alpha-adrenergic signalling contracts cavernosal smooth muscle and reduces arterial and sinusoidal filling. As erectile spaces decrease in volume, compression of draining veins is relieved, restoring venous outflow and contributing to detumescence.",
+      "notes": {
+        "A": "Cavernosal arterial dilatation increases blood inflow and supports erection, rather than mediating the characteristic sympathetic termination of erectile filling.",
+        "C": "Nitric oxide promotes cavernosal relaxation through cGMP signalling, opposing the alpha-adrenergic contraction associated with detumescence.",
+        "D": "Increased intracellular cGMP promotes smooth-muscle relaxation and facilitates erectile filling, rather than providing the main sympathetic mechanism terminating erection.",
+        "E": "Further venous occlusion would retain blood in erectile tissue and support pressure, whereas detumescence involves restoration of venous drainage."
+      },
       "topicId": "repro-male",
       "subtopic": "Male sexual response",
       "difficulty": "hard"
@@ -4806,7 +5046,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Without adequate testosterone the expected pubertal masculine changes are blunted.",
+      "why": "Testosterone and its active metabolites mediate many pubertal androgen-dependent changes, including genital growth, increased muscle mass and development of secondary sexual characteristics. Severe prepubertal deficiency can therefore blunt or delay normal pubertal virilisation.",
+      "notes": {
+        "A": "Excess facial and axillary hair would suggest enhanced androgen effects in relevant tissues, rather than the characteristic consequences of severe testosterone deficiency.",
+        "B": "Androgen signalling promotes pubertal muscle development, so severe testosterone deficiency tends to impair rather than markedly increase lean muscle accumulation.",
+        "D": "Prostatic maturation depends substantially on androgen stimulation, particularly local DHT, and is not accelerated by severe testosterone deficiency.",
+        "E": "Normal spermatogenesis requires sufficient intratesticular testosterone and supporting gonadotropin activity, so deficiency does not promote premature sperm production."
+      },
       "topicId": "repro-male",
       "subtopic": "Androgen deficiency",
       "difficulty": "medium"
@@ -4838,7 +5084,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Thelarche generally precedes pubic hair maturation and menarche.",
+      "why": "Breast budding, or thelarche, is usually the first visible sign of central female puberty, reflecting ovarian oestrogen stimulation of mammary ductal tissue. Other changes, including growth acceleration and menarche, typically follow as pubertal development progresses.",
+      "notes": {
+        "A": "Menarche usually occurs after breast development has begun and therefore is not the earliest visible manifestation of ordinary female puberty.",
+        "B": "Pelvic skeletal development continues during adolescence and does not provide the conventional earliest visible marker of central female puberty.",
+        "C": "Regular ovulatory cycles may take time to establish after menarche, rather than appearing as the initial visible sign of pubertal development.",
+        "E": "Initial menstrual cycles may be anovulatory, and the first ovulatory cycle generally follows earlier externally visible pubertal changes."
+      },
       "topicId": "repro-female",
       "subtopic": "Pubertal onset",
       "difficulty": "easy"
@@ -4870,7 +5122,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Pulsatile GnRH sustains gonadotropin secretion; continuous exposure desensitizes the system.",
+      "why": "Physiological GnRH pulses maintain gonadotroph receptor responsiveness and stimulate pituitary LH and FSH secretion. Sustained continuous exposure instead causes receptor desensitisation and downregulation after an initial stimulatory phase, eventually suppressing gonadotropin release.",
+      "notes": {
+        "A": "Continuous receptor blockade would prevent effective gonadotropin stimulation, whereas pulsatile GnRH maintains pituitary responsiveness to repeated physiological signals.",
+        "B": "Pulsatile GnRH normally supports gonadal steroidogenesis through gonadotropin secretion, rather than producing complete suppression of ovarian steroid production.",
+        "C": "Corpus luteum hormone secretion is cycle-dependent and requires ovarian regulation, rather than being maintained permanently by pulsatile GnRH alone.",
+        "D": "Human chorionic gonadotropin is produced by trophoblastic tissue during pregnancy, not continuously secreted in response to ordinary hypothalamic GnRH pulses."
+      },
       "topicId": "repro-female",
       "subtopic": "Pubertal regulation",
       "difficulty": "hard"
@@ -4902,7 +5160,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Natural menopause is diagnosed retrospectively after 12 consecutive months of amenorrhoea without another cause.",
+      "why": "Natural menopause is identified retrospectively after twelve consecutive months without menstruation, when no other physiological or pathological cause accounts for amenorrhoea. It reflects permanent cessation of ovarian follicular activity sufficient to maintain normal menstrual cycles.",
+      "notes": {
+        "B": "Three months of amenorrhoea may prompt clinical evaluation but does not meet the conventional retrospective definition of natural menopause.",
+        "C": "Six months without menstruation can occur during the menopausal transition, but the usual diagnostic interval is twelve consecutive months.",
+        "D": "One missed month is insufficient to establish permanent cessation of menstruation and can occur for many unrelated physiological or pathological reasons.",
+        "E": "Menarche marks the onset of menstruation during puberty, and elapsed time since menarche does not establish the later diagnosis of menopause."
+      },
       "topicId": "repro-female",
       "subtopic": "Menopause",
       "difficulty": "easy"
@@ -4934,7 +5198,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Follicle depletion lowers estrogen and affects central temperature regulation.",
+      "why": "Declining and fluctuating ovarian estradiol during the menopausal transition alters hypothalamic thermoregulatory networks, including neurokinin B-related signalling. A narrowed thermoneutral range can trigger episodic cutaneous vasodilatation and sweating, producing the characteristic vasomotor hot flushes.",
+      "notes": {
+        "A": "Corpus luteum progesterone generally declines as ovulatory cycles cease, rather than rising rapidly as the principal hormonal association of menopausal hot flushes.",
+        "C": "Ovarian inhibin production declines with follicular depletion, rather than increasing as the main trigger of altered menopausal thermoregulation.",
+        "D": "Normal cyclic LH surges become inconsistent or absent as ovulation ceases, rather than persistent ovulatory surges explaining the vasomotor symptoms.",
+        "E": "The functional ovarian follicle pool decreases during the menopausal transition, rather than expanding and driving increasing ovarian steroid output."
+      },
       "topicId": "repro-female",
       "subtopic": "Menopause",
       "difficulty": "medium"
@@ -4966,7 +5236,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Loss of the follicular pool prevents effective ovarian response to high gonadotropins.",
+      "why": "Natural menopause follows depletion and reduced responsiveness of the ovarian follicular pool. Although loss of ovarian negative feedback elevates FSH, insufficient responsive follicles remain to undergo normal maturation and ovulation, ending regular ovarian reproductive cycles.",
+      "notes": {
+        "A": "Pituitary LH generally increases alongside FSH as ovarian negative feedback diminishes, rather than permanent LH deficiency being the defining mechanism.",
+        "B": "Placental hCG secretion requires pregnancy-related trophoblastic tissue and is not the physiological cause of ovulation cessation during natural menopause.",
+        "D": "Corpus luteum progesterone production falls as ovulation ceases; excessive progesterone output does not explain the depleted follicular response to FSH.",
+        "E": "Hypothalamic GnRH secretion persists and can support elevated gonadotropins, whereas loss of ovarian follicular responsiveness accounts for absent ovulation."
+      },
       "topicId": "repro-female",
       "subtopic": "Menopause",
       "difficulty": "hard"
@@ -4998,7 +5274,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The EPOR model comprises excitement, plateau, orgasm and resolution.",
+      "why": "The classical Masters and Johnson model describes excitement followed by plateau, orgasm and resolution. It organises characteristic physiological changes during sexual response, although individual experiences may not always follow this linear sequence or include every phase.",
+      "notes": {
+        "A": "Excitement precedes the plateau in the classical model, so placing sustained heightened arousal before initial excitement reverses the first stages.",
+        "B": "The plateau represents maintained heightened arousal before orgasm in the classical sequence, rather than following the orgasmic phase.",
+        "C": "Orgasm is generally placed after excitement and plateau in this model, while resolution follows rather than preceding plateau.",
+        "E": "Resolution represents return towards baseline after heightened arousal, rather than the initial phase leading into plateau and excitement."
+      },
       "topicId": "repro-female",
       "subtopic": "Sexual response",
       "difficulty": "easy"
@@ -5030,7 +5312,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Parasympathetic vasodilatation increases genital blood flow during arousal.",
+      "why": "Parasympathetic and nitrergic signalling promotes relaxation of genital vascular smooth muscle during arousal, partly through nitric oxide and cGMP. Increased arterial inflow produces vasocongestion, with local vascular and other neural influences contributing to the response.",
+      "notes": {
+        "A": "Alpha-adrenergic arteriolar constriction generally limits blood flow, rather than providing the vasodilatory mechanism responsible for genital engorgement during arousal.",
+        "B": "Reduced nitric oxide signalling would diminish smooth-muscle relaxation and oppose the increased genital blood flow associated with arousal.",
+        "C": "Sacral autonomic pathways contribute to genital vasodilatation; withdrawing their facilitatory activity would not provide the characteristic arousal-related vascular response.",
+        "D": "Inhibition of genital arterial inflow would restrict vascular filling, whereas vasocongestion requires increased blood delivery and appropriate local haemodynamic changes."
+      },
       "topicId": "repro-female",
       "subtopic": "Sexual response",
       "difficulty": "easy"
@@ -5062,7 +5350,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Increased genital blood flow causes plasma transudation across vaginal mucosa.",
+      "why": "Genital vasocongestion during arousal increases blood flow and hydrostatic forces in vaginal wall vessels, promoting fluid transudation across the vaginal epithelium. Vestibular gland secretions can additionally contribute to lubrication, particularly near the vaginal opening.",
+      "notes": {
+        "B": "Ovarian follicles produce oocytes and follicular fluid, rather than supplying the principal vaginal wall-derived lubricating fluid during arousal.",
+        "C": "The uterine endometrium contains glands producing uterine secretions, not sweat glands providing the characteristic vaginal lubrication response.",
+        "D": "Uterine tube epithelial secretions support gamete and embryo transport, rather than providing the principal fluid transudating through vaginal mucosa.",
+        "E": "Ovarian lymphatic drainage removes interstitial fluid from ovarian tissue and does not account for arousal-associated vaginal lubrication."
+      },
       "topicId": "repro-female",
       "subtopic": "Sexual response",
       "difficulty": "hard"
@@ -5094,7 +5388,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Resolution follows orgasm or cessation of stimulation with return toward resting physiology.",
+      "why": "During resolution, genital vasocongestion diminishes as vascular tone and venous drainage return towards resting conditions. Muscle tension and other physiological signs of arousal also subside, although the timing and pattern vary between individuals and situations.",
+      "notes": {
+        "A": "Progressively increasing genital vasocongestion characterises the development or intensification of arousal, rather than the return towards baseline during resolution.",
+        "C": "Initial lubrication commonly accompanies developing arousal, rather than defining the subsequent phase of declining physiological activation.",
+        "D": "Peak rhythmic pelvic muscle contractions are associated particularly with orgasm, preceding the decline in activation characteristic of resolution.",
+        "E": "Sudden onset of excitement belongs to the arousal phase, whereas resolution describes subsiding vascular and muscular responses following stimulation."
+      },
       "topicId": "repro-female",
       "subtopic": "Sexual response",
       "difficulty": "medium"
