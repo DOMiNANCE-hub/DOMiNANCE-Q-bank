@@ -677,3 +677,27 @@
 - Key: E — expulsion of a pronucleus.
 - Concern: Complete moles are typically androgenetic diploid conceptions, often resulting from fertilisation of an ovum lacking a functional maternal nuclear genome followed by paternal genome duplication or dispermy. Partial moles are generally diandric triploid. Expulsion of a pronucleus is not an adequate general causal mechanism. Original explanation and key untouched.
 - Reference: standard embryology and reproductive physiology; exact textbook edition/page and original lecture not independently checked.
+
+## dq-embryo-g-026 — Key or premise review
+- Stem: Monochorionic-monoamniotic (Mo-Mo) twins, the riskiest type, carry a mortality of about
+- Key: A — 20%.
+- Concern: Monoamniotic twin mortality depends on gestational age, cohort, surveillance and delivery practices. A single universal 20% mortality estimate is unreliable without a dated source and denominator. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-g-027 — Key or premise review
+- Stem: Conjoined twinning is possible only in which type of monozygotic twins?
+- Key: B — Mo-Mo (monochorionic-monoamniotic).
+- Concern: Conjoined twins are classically monochorionic monoamniotic, but rare diamniotic conjoined configurations have been reported. The absolute 'only' needs source verification; the simple late-splitting model is also debated. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-g-040 — Key or premise review
+- Stem: Placenta accreta is characterised by
+- Key: E — abnormal adherence, no decidua basalis.
+- Concern: Placenta accreta spectrum involves abnormal placental adherence or invasion, often associated with defective decidualisation at a scar. Complete absence of decidua basalis is not required in every case; the options need distinction between accreta and increta. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-g-054 — Key or premise review
+- Stem: Insufficient migration of mesoderm around the oropharyngeal membrane is associated with
+- Key: D — holoprosencephaly.
+- Concern: Holoprosencephaly reflects failed forebrain midline patterning and has heterogeneous genetic and environmental causes, including SHH pathway defects. Insufficient migration around the oropharyngeal membrane alone is an oversimplified causal explanation. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
