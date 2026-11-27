@@ -479,3 +479,51 @@
 - Key: D
 - Concern: The squamous epithelium covers the exposed vibrating free surface of the true vocal fold, rather than being defined solely by the exact position of its underlying vocal ligament. The stem's phrasing conflates the fold with its internal connective-tissue component. Original explanation and key untouched.
 - Reference: standard respiratory histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mrg13 — Tracheal epithelial cell list
+- Stem: Which cell type is NOT listed in the tracheal epithelium?
+- Key: A
+- Concern: The stem explicitly asks which cell type is not listed, but the lecture list is unavailable. Club-like secretory cells can occur in proximal human airways, although club cells are classically identified in bronchioles. Original explanation and key untouched.
+- Reference: standard respiratory histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mrg15 — Myoepithelial cells in airway glands
+- Stem: The glands of bronchi differ from those of the trachea in that they:
+- Key: C
+- Concern: Myoepithelial cells may occur around secretory units of tracheal as well as bronchial submucosal glands. Their presence does not reliably distinguish the two gland populations. Original explanation and key untouched.
+- Reference: standard respiratory histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mrh2 — Terminal bronchiole generation number
+- Stem: Terminal bronchioles correspond to airway generations:
+- Key: E
+- Concern: In the classical Weibel model, generation 16 represents terminal bronchioles, whereas generations 11–15 include earlier conducting bronchioles. The keyed range conflates terminal with nonterminal conducting bronchioles. Original explanation and key untouched.
+- Reference: standard respiratory histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mrh4 — Muscular and elastic fibre orientation
+- Stem: In the wall of the conducting airways, the fibres are oriented so that:
+- Key: B
+- Concern: Orientation varies across the conducting zone: trachealis is posterior, bronchial smooth muscle is helical, and bronchioles have variable circumferential muscle. The general statement requires localisation. Original explanation and key untouched.
+- Reference: standard respiratory histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mrh5 — Conducting airway mucoperiosteum
+- Stem: The lamina propria of the conducting airway attaches firmly to the:
+- Key: C
+- Concern: Firm attachment to periosteum and perichondrium describes nasal mucosa over bone and cartilage, not all conducting airways, particularly bronchioles. Restrict the stem to the intended site. Original explanation and key untouched.
+- Reference: standard respiratory histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mrh10 — Olfactory neuron lifespan
+- Stem: Olfactory receptor cells have a lifespan of about:
+- Key: C
+- Concern: Olfactory sensory neuron turnover varies greatly with species, age, injury and local conditions. A fixed one-month human lifespan is not a reliable universal physiological value. Original explanation and key untouched.
+- Reference: standard respiratory histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mrh11 — Odorant-binding protein source
+- Stem: Odorant-binding proteins are synthesised and secreted by the:
+- Key: D
+- Concern: Olfactory mucus proteins can arise from Bowman's glands and other supporting secretory cells, with species-dependent expression. The keyed exclusive sustentacular source needs the original reference; Bowman's glands are a plausible competing option. Original explanation and key untouched.
+- Reference: standard respiratory histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mrh17 — Epiglottic lamina propria type
+- Stem: The lamina propria of the epiglottis is:
+- Key: E
+- Concern: Epiglottic connective tissue varies by surface and depth, including loose superficial and denser deeper regions. The unqualified description as dense irregular connective tissue needs the lecture context. Original explanation and key untouched.
+- Reference: standard respiratory histology; exact edition/page and lecture source not independently checked.
