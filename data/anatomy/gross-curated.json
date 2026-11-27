@@ -85,13 +85,13 @@
         "E": "T"
       },
       "notes": {
-        "A": "The elastic aorta stretches in systole and recoils in diastole, keeping blood flowing.",
-        "B": "Muscular arteries and arterioles have relatively more smooth muscle, which controls resistance.",
-        "C": "The two facial arteries join freely across the lip, a true (actual) anastomosis.",
-        "D": "Coronary connections are only potential anastomoses, too small to compensate for a sudden blockage.",
-        "E": "Arteriovenous shunts let blood bypass capillary beds, e.g. in the skin."
+        "A": "Elastic tissue in the aortic media stretches during systole and recoils in diastole, sustaining forward flow between heartbeats.",
+        "B": "Smooth muscle is prominent relative to lumen size in small arteries and arterioles, so changes in its tone strongly affect resistance.",
+        "C": "Superior or inferior labial branches of the facial arteries meet their counterparts across the midline of the corresponding lip.",
+        "D": "Small arterial connections can enlarge over time, but may deliver too little blood when a major coronary artery closes suddenly.",
+        "E": "Arteriovenous channels in sites such as the skin divert blood directly to venules, allowing it to bypass the capillary exchange bed."
       },
-      "why": "Actual anastomoses (e.g. labial) join arteries freely; coronary links are only potential and cannot open fast enough, so a sudden occlusion causes infarction."
+      "why": "The aorta stores energy during ventricular ejection, and muscular vessels regulate where the blood goes. Links between arterial territories differ in their ability to restore distal flow after an occlusion."
     },
     {
       "id": "dq-g-gv3",
@@ -123,12 +123,12 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Organ flow is set by precapillary sphincters together with the resistance of the muscular small arteries.",
+      "why": "A precapillary sphincter is a ring of smooth muscle at the entrance to a true capillary. Relaxation opens the capillary to local flow, while constriction diverts blood towards other routes.",
       "notes": {
-        "B": "Not a regulator.",
-        "C": "Valves stop reflux.",
-        "D": "Not the regulator.",
-        "E": "Exchange route, not control."
+        "B": "Venular adventitia supports the outgoing vessel and has no sphincter at the entrance to the capillaries.",
+        "C": "Venous valves prevent reverse flow on the return side of the circulation, downstream from the capillary bed.",
+        "D": "The elastic lamina supports the arterial wall, while smooth muscle contraction controls entry into capillaries.",
+        "E": "Channels between endothelial cells permit fluid and solute exchange across the wall after blood has entered the bed."
       }
     },
     {
@@ -168,13 +168,13 @@
         "E": "T"
       },
       "notes": {
-        "A": "Capillaries are the narrowest vessels, about 7–10 µm across.",
+        "A": "Typical narrow capillaries have lumens on the order of a few micrometres, roughly matching the diameter of circulating red cells.",
         "B": "Their very thin wall makes them the site of exchange between blood and tissues.",
-        "C": "The wall is just endothelium on a basal lamina, with no smooth muscle or connective tissue coats.",
-        "D": "Tight junctions with no intercellular channels form the blood–brain barrier.",
-        "E": "A red cell of about 6–8 µm only just fits through."
+        "C": "Capillaries have endothelium and a basal lamina that can be shared with pericytes, with no separate muscle or adventitial coat.",
+        "D": "Endothelial tight junctions close the paracellular route in brain capillaries, contributing to the barrier between plasma and neural tissue.",
+        "E": "Erythrocytes deform as they squeeze through narrow capillaries, often moving one at a time."
       },
-      "why": "A capillary wall is only endothelium on a basal lamina, the thinnest wall in the circulation, which suits its role as the exchange vessel."
+      "why": "The capillary lumen is only slightly wider than an erythrocyte, and a single endothelial layer provides a short exchange path. Tight junctions greatly restrict this exchange in the brain."
     },
     {
       "id": "dq-g-gv5",
@@ -289,12 +289,12 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "A flow-guided (Swan-Ganz) catheter follows venous return: internal jugular vein, right atrium, through the tricuspid valve and right ventricle, into the pulmonary trunk; it never enters the arterial/left side.",
+      "why": "From the internal jugular vein a flow-directed catheter reaches the right atrium via the superior vena cava, then crosses the tricuspid valve, right ventricle and pulmonary valve to enter the pulmonary trunk.",
       "notes": {
-        "A": "Arterial route to the left heart.",
-        "B": "Wrong side of the heart.",
-        "D": "Mitral valve and aorta are left-sided.",
-        "E": "Not the stated route."
+        "A": "A femoral arterial catheter can reach the aorta and can enter the left ventricle, whose outflow leads back to the aorta.",
+        "B": "The subclavian vein drains via the brachiocephalic vein and superior vena cava into the right atrium, upstream of the tricuspid valve.",
+        "D": "The mitral valve connects the left atrium and ventricle, while the right ventricle ejects through the pulmonary valve.",
+        "E": "The external jugular drains through the subclavian vein, while the coronary sinus independently drains the myocardium into the right atrium."
       }
     },
     {
@@ -327,12 +327,12 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Unpaired: bronchial, pericardial, oesophageal, mediastinal.",
+      "why": "Oesophageal branches arise directly from the descending thoracic aorta to supply the thoracic oesophagus. They leave as individual visceral branches, in contrast to the paired arteries of the body wall.",
       "notes": {
-        "A": "Paired.",
-        "B": "Paired.",
-        "C": "Paired.",
-        "E": "Abdominal, paired."
+        "A": "The posterior intercostal arteries arise in right and left pairs to supply the intercostal spaces.",
+        "B": "A right and a left subcostal artery run below the twelfth ribs to supply the adjacent body wall.",
+        "C": "The superior phrenic arteries are paired branches to the upper surface of the diaphragm.",
+        "E": "The inferior phrenic arteries are paired vessels that usually arise below the diaphragm and supply its inferior surface."
       }
     },
     {
@@ -367,10 +367,10 @@
       "correctAnswer": "E",
       "why": "The superior mesenteric artery leaves the aorta at the lower border of L1, just below the coeliac trunk (T12); the inferior mesenteric arises lower, at L3.",
       "notes": {
-        "A": "Coeliac trunk level.",
-        "B": "IMA.",
-        "C": "Bifurcation.",
-        "D": "Oesophageal hiatus level."
+        "A": "The coeliac trunk arises near T12 and distributes blood to foregut organs above the origin of the superior mesenteric artery.",
+        "B": "L3 is the usual origin of the inferior mesenteric artery, which supplies hindgut structures below the midgut territory.",
+        "C": "The abdominal aorta branches at about L4 to form the common iliac arteries, well below its major gut branches.",
+        "D": "The oesophagus passes through the diaphragm near T10, above the level where the aorta enters the abdomen at T12."
       }
     },
     {
@@ -403,12 +403,12 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The coeliac trunk gives left gastric, splenic and common hepatic arteries.",
+      "why": "The splenic artery arises from the coeliac trunk and follows a tortuous course along the superior border of the pancreas to the spleen. It shares its origin with two other foregut arteries.",
       "notes": {
-        "B": "Midgut artery.",
-        "C": "A sister branch.",
-        "D": "A sister branch.",
-        "E": "Hindgut artery."
+        "B": "The superior mesenteric artery supplies the midgut and branches independently from the abdominal aorta below the coeliac trunk.",
+        "C": "The common hepatic artery is another direct coeliac branch, carrying blood towards the liver and proximal duodenum.",
+        "D": "The left gastric artery branches separately from the coeliac trunk to supply the cardia and lesser curvature of the stomach.",
+        "E": "The inferior mesenteric artery arises low on the abdominal aorta and supplies the hindgut, far from the splenic hilum."
       }
     },
     {
@@ -441,12 +441,12 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The left renal vein crosses anterior to the aorta; the right renal artery passes behind the IVC.",
+      "why": "The left renal vein runs from the left renal hilum to the inferior vena cava on the right. It crosses the front of the aorta in the angle between the aorta and superior mesenteric artery.",
       "notes": {
-        "A": "Passes behind the IVC.",
-        "C": "Drains into the left renal vein.",
-        "D": "Lies to the right.",
-        "E": "Lies behind the pancreas higher up."
+        "A": "The right renal artery passes behind the inferior vena cava as it travels from the aorta to the right kidney.",
+        "C": "The left gonadal vein ascends on the left to join the left renal vein before that vein crosses the aorta.",
+        "D": "The inferior vena cava ascends on the right of the abdominal aorta and receives the vessel after its midline crossing.",
+        "E": "The splenic vein passes behind the pancreas and joins the superior mesenteric vein to form the portal vein."
       }
     },
     {
@@ -479,12 +479,12 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Their thick elastic laminae stretch in systole and recoil in diastole.",
+      "why": "The aorta and other large elastic arteries distend as the ventricle ejects and store energy in the elastic lamellae of their media. Recoiling in diastole sustains pressure and forward flow.",
       "notes": {
-        "A": "Muscular, set resistance.",
-        "B": "Exchange.",
-        "D": "Collect blood.",
-        "E": "Muscle, not elastic recoil."
+        "A": "Arterioles and small arteries chiefly regulate resistance by varying smooth muscle tone, with less capacity to store elastic energy.",
+        "B": "Capillaries specialise in exchange and venules collect their outflow after the arterial pressure pulse has largely been damped.",
+        "D": "Medium veins collect blood at low pressure and return it with the help of valves and surrounding muscle movement.",
+        "E": "Muscular arteries distribute blood and adjust their calibre through smooth muscle, whereas elastic arteries supply most arterial recoil."
       }
     },
     {
@@ -517,12 +517,12 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The labial arteries join freely across the midline.",
+      "why": "The right and left labial branches of the facial arteries unite across the midline of the lips. Their patent connections allow blood to pass between the two arterial territories.",
       "notes": {
-        "A": "Potential only.",
-        "B": "End arteries.",
-        "C": "Segmental end arteries.",
-        "E": "End arteries."
+        "A": "Small coronary collaterals exist but may carry too little blood to rescue myocardium after a sudden blockage.",
+        "B": "Segmental renal branches have little effective collateral supply, so obstruction may infarct the supplied wedge of kidney.",
+        "C": "Splenic arterial segments have limited cross-connections, which permits segmental resection and leaves little immediate collateral flow.",
+        "E": "The central retinal artery has limited effective collateral flow, so its occlusion interrupts perfusion of the inner retina."
       }
     },
     {
@@ -555,12 +555,12 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "They can enlarge with gradual narrowing, but not quickly.",
+      "why": "Coronary branches have small collateral connections that can enlarge when narrowing develops gradually. An abrupt blockage may leave those channels too small to deliver enough blood, causing ischaemia and ultimately infarction.",
       "notes": {
-        "A": "They exist.",
-        "B": "Arterio-arterial.",
-        "C": "Not the issue.",
-        "D": "Not the reason."
+        "A": "Coronary collateral channels are demonstrable and vary in size and functional capacity between individuals.",
+        "B": "These collateral routes connect arterial branches and can redistribute oxygenated blood between adjacent myocardial territories.",
+        "C": "The problem is insufficient collateral calibre after abrupt occlusion, which limits how much flow can reach the threatened myocardium.",
+        "D": "Collateral channels may occur at several depths, but their calibre determines whether they can deliver enough blood."
       }
     },
     {
@@ -593,12 +593,12 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The first part of the ascending aorta.",
+      "why": "The right and left coronary ostia open in the corresponding aortic sinuses just above the valve cusps, giving the myocardium its arterial supply. The third sinus ordinarily has no coronary ostium.",
       "notes": {
-        "B": "Arch.",
-        "C": "Descending aorta.",
-        "D": "Internal thoracic.",
-        "E": "Subclavian."
+        "B": "The brachiocephalic trunk arises as the first major branch of the aortic arch, distal to the ascending aorta.",
+        "C": "Bronchial arteries usually originate from the descending thoracic aorta or one of its branches and supply the airways.",
+        "D": "The pericardiacophrenic arteries are branches of the internal thoracic arteries and travel with the phrenic nerves.",
+        "E": "Each internal thoracic artery arises from the subclavian artery and descends along the inside of the anterior chest wall."
       }
     },
     {
@@ -631,12 +631,12 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "It ends at the right 2nd costal cartilage, where the arch begins.",
+      "why": "The ascending aorta begins at the aortic valve and left ventricular outflow, projected behind the lower border of the left third costal cartilage. It then ascends to the right towards the arch.",
       "notes": {
-        "A": "Near where it ends.",
-        "C": "Where the arch begins.",
-        "D": "Wrong side.",
-        "E": "Arch ends there."
+        "A": "The left second cartilage is higher than the aortic root and is commonly used to mark the pulmonary auscultation area.",
+        "C": "The sternal-angle plane approximates the transition to the arch, above the level of the left ventricular outflow.",
+        "D": "The aortic root projects to the left of the sternum, although the ascending aorta curves towards the right as it rises.",
+        "E": "The arch meets the descending aorta around the lower border of T4, posterior to the anterior chest wall landmark of the root."
       }
     },
     {
@@ -669,12 +669,12 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Level with the sternal angle; it continues as the descending aorta.",
+      "why": "The arch curves backwards over the left lung root and continues as the descending thoracic aorta on the left of the T4 body, near its lower border at the sternal-angle plane.",
       "notes": {
-        "A": "Not its level.",
-        "B": "Too low.",
-        "D": "Aortic hiatus.",
-        "E": "Where it begins."
+        "A": "The arch passes to the left of the trachea and meets the descending aorta on the left at about T4.",
+        "B": "At T6 the thoracic aorta is already descending in the posterior mediastinum, below the end of the arch.",
+        "D": "Near T12 the descending thoracic aorta traverses the aortic hiatus and becomes abdominal, far below the arch.",
+        "E": "The right second costal cartilage marks the anterior transition from ascending aorta to arch rather than its posterior end."
       }
     },
     {
@@ -707,12 +707,12 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "They sense stretch of the wall.",
+      "why": "Sensory endings in the outer aortic wall detect arterial distension and send afferent signals towards the brainstem through the vagus. Their firing increases as the vessel wall stretches.",
       "notes": {
-        "A": "Inner coat.",
-        "B": "Elastic muscle coat.",
-        "C": "Lining.",
-        "E": "Small vessels in the wall."
+        "A": "The intima is the innermost coat next to the blood, while the sensory endings are concentrated in the outer wall.",
+        "B": "The media uses elastic lamellae and smooth muscle to bear pressure and transmit distension to endings in the adventitia.",
+        "C": "Endothelium forms the blood-contacting lining of the intima and senses shear, but is not the location of these nerve endings.",
+        "E": "Vasa vasorum deliver blood to the outer layers of the aorta, while baroreceptors are mechanosensitive nerve endings in that region."
       }
     },
     {
@@ -745,12 +745,12 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Remnant of the ductus arteriosus; the left recurrent laryngeal nerve hooks below it.",
+      "why": "The ligamentum arteriosum is the fibrous remnant of the fetal ductus arteriosus, spanning the inferior aortic arch and proximal left pulmonary artery. The left recurrent laryngeal nerve loops beneath the arch nearby.",
       "notes": {
-        "A": "Passes under the arch to the right.",
-        "B": "Lies behind.",
-        "C": "An arch branch.",
-        "D": "On the right."
+        "A": "The right pulmonary artery crosses the mediastinum behind the ascending aorta and superior vena cava to reach the right lung.",
+        "B": "The left main bronchus passes under the arch to the left lung, close to the ligament but without forming its attachment.",
+        "C": "The left subclavian artery is a branch of the superior aspect of the arch near the aortic attachment of the ligament.",
+        "D": "The superior vena cava is a right-sided vein that returns blood to the right atrium and is separate from the fetal arterial shunt."
       }
     },
     {
@@ -821,12 +821,12 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The first two come from the superior intercostal artery; T12 is subcostal.",
+      "why": "The descending thoracic aorta supplies the third through eleventh posterior intercostal spaces. The first two normally receive branches from the supreme intercostal artery, and the subcostal arteries run below rib 12.",
       "notes": {
-        "A": "1st and 2nd come from the costocervical trunk.",
-        "C": "Costocervical trunk.",
-        "D": "12th is subcostal.",
-        "E": "Not the range."
+        "A": "The first two posterior spaces are usually supplied by the supreme intercostal artery from the costocervical trunk.",
+        "C": "The first and second spaces form the usual territory of the supreme intercostal artery instead of the descending aorta.",
+        "D": "The second posterior space is usually outside the direct aortic series, and the vessel below rib 12 is called subcostal.",
+        "E": "The direct aortic series extends from the third intercostal space to the eleventh, above the subcostal vessel."
       }
     },
     {
@@ -859,12 +859,12 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Behind the median arcuate ligament.",
+      "why": "The thoracic aorta reaches the abdomen through the aortic hiatus at T12. It passes between the crura, posterior to the median arcuate ligament, rather than piercing the muscular dome.",
       "notes": {
-        "A": "Oesophageal hiatus.",
-        "B": "Caval opening.",
-        "D": "SMA origin, lower border.",
-        "E": "Bifurcation."
+        "A": "The oesophageal hiatus is at about T10 and also transmits the vagal trunks as they pass towards the stomach.",
+        "B": "The caval opening through the central tendon is at about T8 and transmits the inferior vena cava.",
+        "D": "The aorta is already abdominal at L1, near the origin of the superior mesenteric artery.",
+        "E": "The common iliac arteries begin near L4 where the abdominal aorta bifurcates, several levels below the diaphragm."
       }
     },
     {
@@ -897,12 +897,12 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The bifurcation lies just to the left of the midline.",
+      "why": "The abdominal aorta usually bifurcates near the fourth lumbar vertebral body, slightly left of the midline. The two common iliac arteries descend towards the pelvic brim, where they divide again.",
       "notes": {
-        "A": "SMA level.",
-        "B": "IMA level.",
-        "C": "Too low.",
-        "E": "Too low and wrong side."
+        "A": "The upper lumbar level near L1 is where the superior mesenteric artery arises, above the termination of the aorta.",
+        "B": "The inferior mesenteric artery leaves the aorta near L3, and the umbilicus is a variable surface landmark.",
+        "C": "The sacral promontory lies below the usual aortic bifurcation and near the level at which the common iliac arteries divide.",
+        "E": "The aortic bifurcation can vary in height, but is usually near L4 and slightly to the left of midline."
       }
     },
     {
@@ -935,12 +935,12 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The common iliac has no branches until it divides.",
+      "why": "The internal iliac artery enters the pelvis and gives visceral branches to organs such as the bladder and reproductive tract. It also supplies parts of the pelvic wall, perineum and gluteal region.",
       "notes": {
-        "A": "Lower limb.",
-        "B": "No branches.",
-        "C": "Small midline artery.",
-        "D": "Hindgut."
+        "A": "The external iliac artery runs towards the inguinal ligament and continues as the femoral artery to supply the lower limb.",
+        "B": "The common iliac artery is the parent trunk that divides into internal and external iliac arteries near the pelvic brim.",
+        "C": "The median sacral artery descends on the midline over the sacrum and supplies a small posterior pelvic territory.",
+        "D": "The inferior mesenteric artery supplies the hindgut, including the upper rectum, but the main arterial source for pelvic viscera is internal iliac."
       }
     },
     {
@@ -973,12 +973,12 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "SMA branches: ileocolic, right colic and middle colic.",
+      "why": "The middle colic artery arises from the superior mesenteric artery and travels in the transverse mesocolon, chiefly supplying the proximal two-thirds of the transverse colon, which is derived from midgut.",
       "notes": {
-        "B": "Left colic, sigmoid, superior rectal.",
-        "C": "Foregut.",
-        "D": "Coeliac branch.",
-        "E": "Coeliac branch."
+        "B": "The inferior mesenteric artery gives the left colic, sigmoid and superior rectal branches to the hindgut territory.",
+        "C": "The coeliac trunk supplies foregut organs such as the stomach, proximal duodenum and liver through its three principal branches.",
+        "D": "The common hepatic artery provides blood to the liver and via the gastroduodenal artery to the proximal duodenum.",
+        "E": "The left gastric artery supplies the lesser curvature and lower oesophagus, outside the superior mesenteric territory."
       }
     },
     {
@@ -1011,12 +1011,12 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "IMA: left colic, sigmoid, then superior rectal.",
+      "why": "After giving off left colic and sigmoid branches, the inferior mesenteric artery continues into the pelvis as the superior rectal artery. This vessel supplies the upper rectum.",
       "notes": {
-        "A": "Gives middle rectal.",
-        "C": "Midgut.",
-        "D": "Small artery.",
-        "E": "Lower limb."
+        "A": "The internal iliac artery may give rise to the middle rectal artery, which supplies part of the rectum from the side.",
+        "C": "The superior mesenteric artery supplies the midgut and terminates in ileal and ileocolic territories, proximal to the rectum.",
+        "D": "The median sacral artery follows the front of the sacrum and supplies neighbouring tissues rather than forming the main superior rectal artery.",
+        "E": "The external iliac artery runs to the lower limb and becomes the femoral artery beneath the inguinal ligament."
       }
     },
     {
@@ -1049,12 +1049,12 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The midgut–hindgut boundary.",
+      "why": "The proximal two-thirds of the transverse colon belongs to the midgut territory supplied by the superior mesenteric artery. The distal third belongs to the hindgut territory supplied by the inferior mesenteric artery.",
       "notes": {
-        "A": "Within the SMA territory.",
-        "B": "Within the SMA territory.",
-        "D": "IMA territory.",
-        "E": "SMA territory."
+        "A": "The terminal ileum and caecum are both in the superior mesenteric territory and receive branches of the ileocolic artery.",
+        "B": "The hepatic flexure lies in the proximal part of the colonic circuit, where both adjacent regions receive superior mesenteric branches.",
+        "D": "The descending and sigmoid colon both receive inferior mesenteric branches, so their junction is already within hindgut territory.",
+        "E": "The duodenojejunal flexure lies in the small intestine, well proximal to the transition between the two large bowel arterial territories."
       }
     },
     {
@@ -1087,12 +1087,12 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "It links branches of the SMA and IMA.",
+      "why": "The marginal artery runs along the mesenteric border of the colon. It links successive colic branches of the superior and inferior mesenteric arteries, providing a collateral route between their territories.",
       "notes": {
-        "A": "Gastro-omental arcade.",
-        "B": "Gastric arcade.",
-        "C": "Jejunal arcades.",
-        "E": "Not the marginal artery."
+        "A": "The greater curvature is supplied by the right and left gastro-omental vessels, which join along the stomach wall.",
+        "B": "The right and left gastric arteries join along the lesser gastric curvature as part of the coeliac circulation.",
+        "C": "Jejunal arterial arcades are loops in the small bowel mesentery that deliver blood to the jejunum via vasa recta.",
+        "E": "The oesophagus has an arterial network supplied by cervical, thoracic and abdominal sources, separate from the colonic arcade."
       }
     },
     {
@@ -1125,12 +1125,12 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "It can be compressed between the SMA and aorta (nutcracker).",
+      "why": "The left renal vein crosses anterior to the aorta and posterior to the origin of the superior mesenteric artery on its way to the cava. Compression in that angle can impair renal venous drainage.",
       "notes": {
-        "A": "Rare variant.",
-        "B": "Behind the SMA.",
-        "C": "It joins the IVC.",
-        "D": "It ends in the IVC."
+        "A": "A retroaortic left renal vein is a variant and ordinarily crosses near the level of the renal hilum, below the coeliac origin.",
+        "B": "The superior mesenteric artery is anterior to the vein and can compress it against the aorta from the front.",
+        "C": "The vein enters the cava on its left side after crossing the aorta, whereas the right renal artery normally passes behind the cava.",
+        "D": "The inferior vena cava receives the vein at its lateral wall, after the vein has already crossed the anterior aorta."
       }
     },
     {
@@ -1163,12 +1163,12 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "It then passes through the tricuspid valve to the pulmonary trunk.",
+      "why": "The right internal jugular vein gives a comparatively direct route to the superior vena cava and right atrium. Subclavian access also travels through the brachiocephalic vein to the superior vena cava.",
       "notes": {
-        "B": "Arteries reach the left heart.",
-        "C": "Not the stated route.",
-        "D": "Not the stated route.",
-        "E": "Not the stated route."
+        "B": "The femoral and radial arteries lead towards the aorta and cannot provide the usual venous route into the right atrium.",
+        "C": "The common femoral vein is an alternative through the inferior vena cava, while great saphenous access is uncommon for this catheter.",
+        "D": "Arm veins can be used for some right-heart catheterisations, but the internal jugular and subclavian veins offer standard central routes.",
+        "E": "The facial vein usually drains indirectly into the internal jugular, and the external jugular is less direct than usual central access."
       }
     },
     {
@@ -1201,12 +1201,12 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "E.g. oesophageal varices and haemorrhoids.",
+      "why": "High portal pressure diverts blood through pre-existing links to systemic veins. These channels may enlarge into fragile varices, especially around the lower oesophagus, where rupture can cause major haemorrhage.",
       "notes": {
-        "A": "They open more.",
-        "C": "Systemic veins, not pulmonary.",
-        "D": "Not related.",
-        "E": "Venous problem."
+        "A": "The collateral veins dilate to carry blood around the portal obstruction, creating a route for drainage rather than blocking gut arteries.",
+        "C": "Lower oesophageal collaterals drain into the azygos system, part of the systemic venous circulation, rather than the pulmonary veins.",
+        "D": "The coronary sinus drains cardiac muscle into the right atrium and is not part of the usual portal collateral pathways.",
+        "E": "The characteristic lesions are enlarged veins under elevated portal pressure, while an aneurysm involves a separate dilation of a vessel wall."
       }
     },
     {
@@ -1239,12 +1239,12 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The kidney, gut and endocrine glands have fenestrated capillaries.",
+      "why": "Glomerular endothelial cells contain fenestrations that allow rapid passage of water and small solutes across the filtration barrier. The basement membrane and podocyte slit diaphragms provide additional selectivity.",
       "notes": {
-        "A": "Continuous.",
-        "B": "Continuous.",
-        "D": "Continuous.",
-        "E": "Continuous, without intercellular channels."
+        "A": "Most skeletal muscle capillaries have an uninterrupted endothelium and support exchange without endothelial fenestrations.",
+        "B": "Alveolar capillary endothelium is continuous and lies close to the alveolar epithelium, giving a short diffusion path for gases.",
+        "D": "Adipose capillaries generally have continuous endothelium and transport substrates across a bounded endothelial barrier.",
+        "E": "Most central nervous system capillaries have continuous endothelium sealed by tight junctions, which helps limit paracellular exchange."
       }
     },
     {
@@ -1277,12 +1277,12 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Kidneys, intestines and endocrine glands.",
+      "why": "Fenestrae in villous capillaries allow absorbed water-soluble nutrients to enter the bloodstream efficiently. Most long-chain dietary lipids use the villous lacteals after packaging into chylomicrons.",
       "notes": {
-        "A": "Continuous.",
-        "B": "Continuous.",
-        "C": "Sinusoids.",
-        "E": "Sinusoids."
+        "A": "Skeletal muscle usually has continuous capillaries for controlled exchange across an uninterrupted endothelial wall.",
+        "B": "Brain capillaries generally use tight junctions and lack fenestrations to maintain the blood–brain barrier.",
+        "C": "Hepatic sinusoids are discontinuous capillaries with fenestrae and an incomplete basal lamina, allowing exchange with hepatocytes.",
+        "E": "Bone marrow contains discontinuous venous sinusoids that allow mature blood cells to enter the circulation."
       }
     },
     {
@@ -1315,12 +1315,12 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "They are continuous capillaries with no intercellular channels.",
+      "why": "Tight junctions between brain capillary endothelial cells remove the open paracellular route typical of many peripheral capillaries. Most polar substances therefore need selective transport across the endothelial cells to reach brain tissue.",
       "notes": {
-        "A": "Fenestrated type.",
-        "B": "Sinusoids.",
-        "C": "All capillaries have endothelium.",
-        "D": "Capillaries have no valves."
+        "A": "Large fenestrae would increase permeability, whereas most brain capillaries have a continuous, non-fenestrated endothelial lining.",
+        "B": "Discontinuous endothelium is typical of certain sinusoids and would provide an unsuitable barrier to circulating solutes.",
+        "C": "The endothelium itself forms the principal physical blood–brain barrier, supported by pericytes and astrocytic end-feet.",
+        "D": "Valves are features of certain veins, while brain capillary permeability depends on the endothelial cells and their junctions."
       }
     },
     {
@@ -1353,12 +1353,12 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "A red cell is about 6–8 µm across.",
+      "why": "A typical capillary lumen is roughly 7–10 µm, close to the diameter of a red cell. The cells often deform to pass singly through narrower regions, which brings them close to the exchange surface.",
       "notes": {
-        "B": "Too wide.",
-        "C": "Small arteries.",
-        "D": "Too narrow for a red cell.",
-        "E": "Arterioles."
+        "B": "A 20–30 µm lumen could accommodate several red cells side by side and is nearer the calibre of a larger microvessel.",
+        "C": "A calibre of 0.1–1 mm is far wider than a red cell and occurs in small arteries or veins.",
+        "D": "A diameter of 1–2 µm is far below the usual width of a functional capillary and would make erythrocyte transit difficult.",
+        "E": "A 50–100 µm lumen is typical of a larger arteriole or venule and has ample room for more than one red cell across."
       }
     },
     {
@@ -1391,12 +1391,12 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The limbs have superficial and deep (comitant) veins.",
+      "why": "Venae comitantes are deep accompanying veins, often paired around a medium-sized artery in a limb. They share its connective tissue bed, and nearby arterial pulsation can help propel venous blood.",
       "notes": {
-        "A": "Link superficial to deep.",
-        "C": "Skull.",
-        "D": "Vessel walls.",
-        "E": "General term."
+        "A": "Perforating veins pass through the deep fascia to connect the superficial venous system with deep veins.",
+        "C": "Emissary veins connect extracranial veins to intracranial dural venous sinuses through openings in the skull.",
+        "D": "Vasa vasorum are small vessels that nourish the walls of larger arteries and veins, rather than paired veins accompanying an artery.",
+        "E": "Communicating veins link veins to other veins, often within the same system, without implying a paired relationship to an artery."
       }
     },
     {
@@ -1429,12 +1429,12 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "A clinically palpable artery.",
+      "why": "The superficial temporal artery crosses the zygomatic arch just anterior to the ear. Its pulse is palpable there because the artery runs close to the skin over bone.",
       "notes": {
-        "A": "At the mandible, in front of masseter.",
-        "B": "Back of the scalp.",
-        "D": "Behind the ear.",
-        "E": "Deep, not palpable."
+        "A": "The facial artery pulse can be felt where it crosses the lower border of the mandible just anterior to the masseter.",
+        "B": "The occipital artery supplies the posterior scalp and is palpated behind the head, away from the anterior aspect of the tragus.",
+        "D": "The posterior auricular artery runs behind the auricle between the ear and mastoid region, on the opposite side of that landmark.",
+        "E": "The maxillary artery runs deep to the mandibular ramus into the infratemporal region and is not accessible at this surface point."
       }
     },
     {
@@ -1467,12 +1467,12 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The posterior tibial is behind the medial malleolus.",
+      "why": "The dorsalis pedis artery continues the anterior tibial artery onto the dorsum of the foot. Its pulse is usually sought just lateral to the extensor hallucis longus tendon.",
       "notes": {
-        "A": "Posterior tibial.",
-        "B": "Popliteal.",
-        "C": "Femoral.",
-        "E": "Not a standard pulse."
+        "A": "Behind the medial malleolus lies the posterior tibial artery, which reaches the plantar foot through the tarsal tunnel.",
+        "B": "The popliteal pulse is sought deep in the popliteal fossa at the back of the knee, far proximal to the dorsum of the foot.",
+        "C": "The femoral pulse is felt just below the inguinal ligament at the midinguinal point, where the artery enters the thigh.",
+        "E": "The region behind the lateral malleolus contains fibular tendons and sural nerve structures, without the dorsal arterial pulse."
       }
     },
     {
@@ -1505,12 +1505,12 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The commonest arch variant.",
+      "why": "In this common aortic arch variant, the brachiocephalic trunk and left common carotid artery share a proximal origin. There are therefore fewer separate ostia than in the standard three-branch arrangement.",
       "notes": {
-        "A": "Right arch.",
-        "B": "Another variant.",
-        "C": "Aberrant right subclavian.",
-        "D": "Not a described variant."
+        "A": "A right-sided arch describes the course of the arch relative to the trachea, rather than a common origin of arch branches.",
+        "B": "The left vertebral artery can originate directly from the arch, which adds a distinct branch rather than combining two origins.",
+        "C": "An aberrant right subclavian artery often arises as the last branch of the arch and passes behind the oesophagus.",
+        "D": "The left subclavian normally arises independently and remains separate from the shared brachiocephalic and left carotid origin in this pattern."
       }
     },
     {
@@ -1543,12 +1543,12 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "It becomes the ligamentum arteriosum; failure to close is PDA.",
+      "why": "The ductus arteriosus carries blood from the pulmonary arterial outflow to the aorta while fetal pulmonary resistance is high. After birth it normally closes and becomes the ligamentum arteriosum.",
       "notes": {
-        "B": "Bypasses the liver.",
-        "C": "Right to left atrium.",
-        "D": "From the placenta.",
-        "E": "Edge of the foramen ovale."
+        "B": "The ductus venosus conveys much of the oxygenated umbilical venous blood past the fetal liver towards the inferior vena cava.",
+        "C": "The foramen ovale allows right-to-left flow between the fetal atria, upstream of the pulmonary trunk.",
+        "D": "The umbilical vein carries blood from the placenta to the fetus and then drains into the hepatic venous pathways.",
+        "E": "The crista dividens is associated with the atrial septum and helps direct fetal blood towards the foramen ovale."
       }
     },
     {
@@ -1581,12 +1581,12 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "It joins the umbilical vein to the IVC.",
+      "why": "The ductus venosus links the intrahepatic umbilical venous route to the inferior vena cava near the hepatic veins. It lets a substantial fraction of placental blood reach the heart without passing through hepatic sinusoids.",
       "notes": {
-        "A": "Ductus arteriosus.",
-        "C": "Foramen ovale.",
-        "D": "Not bypassed.",
-        "E": "Not bypassed."
+        "A": "The ductus arteriosus diverts pulmonary arterial blood to the aorta, bypassing the fetal pulmonary capillary bed.",
+        "C": "The foramen ovale lets blood cross from the right atrium to the left atrium, bypassing the right ventricle on that route.",
+        "D": "Fetal kidneys receive blood from renal arterial branches of the aorta, separate from the hepatic venous shunt.",
+        "E": "The left atrium receives blood shunted through the foramen ovale, downstream of venous blood returning to the right atrium."
       }
     },
     {
@@ -1657,12 +1657,12 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The left renal vein crosses in front of the aorta.",
+      "why": "The right renal artery must cross farther than the left because the aorta lies left of the inferior vena cava. It runs posterior to the cava on its way to the right renal hilum.",
       "notes": {
-        "A": "Behind it.",
-        "B": "Left renal vein does.",
-        "C": "Ureter is in front of it.",
-        "E": "Below."
+        "A": "The inferior vena cava lies anterior to the right renal artery where the artery crosses rightward towards the kidney.",
+        "B": "The right renal artery originates from the lateral aorta, while the left renal vein is the vessel that crosses anterior to it.",
+        "C": "The renal pelvis lies posterior to the major renal vessels at the hilum and leads inferiorly into the ureter.",
+        "E": "The renal arteries originate below the coeliac trunk and generally just inferior to the superior mesenteric origin."
       }
     },
     {
@@ -1695,12 +1695,12 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "It also lies in front of the uncinate process and left renal vein.",
+      "why": "The third part of the duodenum crosses the posterior abdominal wall horizontally. The superior mesenteric vessels pass in front of it, and the aorta lies behind it, making this segment vulnerable to vascular compression.",
       "notes": {
-        "A": "Too high.",
-        "B": "Lateral, descending.",
-        "C": "Ascends left of it.",
-        "D": "First part."
+        "A": "The first part begins at the pylorus and takes a superior rightward course above the horizontal segment crossed by the mesenteric root.",
+        "B": "The second part descends on the right of the pancreatic head and contains the opening of the bile and pancreatic ducts.",
+        "C": "The fourth part ascends on the left of the aorta towards the duodenojejunal flexure, beyond the horizontal crossing.",
+        "D": "The duodenal cap is the widened proximal part immediately after the pylorus, upstream of the mesenteric vessels' crossing."
       }
     },
     {
@@ -1733,12 +1733,12 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The left gastric also supplies the adjacent oesophagus.",
+      "why": "The inferior phrenic arteries supply the undersurface of the diaphragm. Small oesophageal branches, particularly from the left inferior phrenic artery, can also supply the short abdominal segment of the oesophagus.",
       "notes": {
-        "B": "Splenic.",
-        "C": "Common hepatic (cystic).",
-        "D": "Superior rectal.",
-        "E": "Common hepatic (gastroduodenal)."
+        "B": "The spleen receives its main supply from the splenic artery, which reaches its hilum along the upper border of the pancreas.",
+        "C": "The gallbladder usually receives blood from the cystic artery, most commonly a branch of the right hepatic artery.",
+        "D": "The proximal rectum is supplied by the superior rectal artery, the downward continuation of the inferior mesenteric artery.",
+        "E": "The proximal duodenum receives branches from the gastroduodenal and neighbouring arteries, including superior pancreaticoduodenal branches."
       }
     },
     {
@@ -1771,12 +1771,12 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Liver, stomach, gallbladder, duodenum and pancreas.",
+      "why": "The common hepatic artery gives the gastroduodenal artery, which supplies the proximal duodenum, and continues as the proper hepatic artery. The right hepatic branch of the proper hepatic artery usually gives the cystic artery to the gallbladder.",
       "notes": {
-        "A": "Spleen, stomach, pancreas.",
-        "C": "Stomach and lower oesophagus.",
-        "D": "Hindgut.",
-        "E": "Transverse colon."
+        "A": "The splenic artery supplies the spleen and gives pancreatic and gastric branches rather than the usual cystic artery.",
+        "C": "The left gastric artery supplies the lesser curvature and abdominal oesophagus through branches of the coeliac circulation.",
+        "D": "The inferior mesenteric artery supplies hindgut structures, which lie distal to the gallbladder and duodenum.",
+        "E": "The middle colic artery is a superior mesenteric branch to the transverse colon, with a separate arterial territory."
       }
     },
     {
@@ -1809,12 +1809,12 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Paired: inferior phrenic, middle suprarenal, renal, gonadal, lumbar, common iliac.",
+      "why": "Each middle suprarenal artery usually arises separately from the lateral abdominal aorta and travels to its ipsilateral adrenal gland. It supplements superior branches from the inferior phrenic artery and inferior branches from the renal artery.",
       "notes": {
-        "A": "Ventral, unpaired.",
-        "B": "Ventral, unpaired.",
-        "D": "Unpaired.",
-        "E": "Ventral, unpaired."
+        "A": "The coeliac trunk is a single anterior branch that divides to supply the main foregut organs.",
+        "B": "The inferior mesenteric artery arises as a single anterior vessel and sends branches to the hindgut.",
+        "D": "The median sacral artery typically arises posteriorly near the aortic bifurcation and descends as a single midline vessel.",
+        "E": "The superior mesenteric artery arises from the front of the aorta as a single trunk to the midgut."
       }
     },
     {
@@ -1847,12 +1847,12 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "It supplies the hindgut.",
+      "why": "The inferior mesenteric artery typically branches from the abdominal aorta near L3, below the renal arteries and above the common iliac bifurcation. It provides the major arterial supply to the hindgut.",
       "notes": {
-        "A": "SMA.",
-        "B": "Coeliac/aortic hiatus.",
-        "C": "Bifurcation.",
-        "E": "Renal arteries (L1–L2)."
+        "A": "The superior mesenteric artery originates around L1, above the main arterial supply to the hindgut.",
+        "B": "The aorta passes through the diaphragm around T12 and gives off the coeliac trunk just below that level.",
+        "C": "The common iliac arteries are formed by the aortic bifurcation around L4, below the inferior mesenteric origin.",
+        "E": "Renal arteries arise near L1–L2 depending on the individual, above the usual origin of the inferior mesenteric artery."
       }
     },
     {
@@ -1885,12 +1885,12 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "A terminal SMA branch.",
+      "why": "The appendicular artery usually arises from the ileocolic arterial tree and reaches the appendix through the mesoappendix. Its supply is important because the appendix has limited alternative flow once this artery is compromised.",
       "notes": {
-        "A": "Ascending colon.",
-        "B": "Transverse colon.",
-        "C": "Hindgut.",
-        "D": "Descending colon."
+        "A": "The right colic artery supplies the ascending colon from the superior mesenteric circulation, while appendicular supply typically comes from ileocolic branches.",
+        "B": "The middle colic artery runs in the transverse mesocolon to supply the proximal transverse colon rather than the caecal region.",
+        "C": "The inferior mesenteric artery supplies distal colon and upper rectum, outside the midgut territory of the appendix.",
+        "D": "The left colic artery comes from the inferior mesenteric artery to supply the descending and adjacent transverse colon."
       }
     },
     {
@@ -1923,12 +1923,12 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "They supply the fundus of the stomach.",
+      "why": "Several small branches of the splenic artery cross the gastrosplenic ligament to reach the upper greater curvature and fundus. Their short course across that ligament gives them their name.",
       "notes": {
-        "B": "Lesser curvature.",
-        "C": "Gives gastroduodenal and proper hepatic.",
-        "D": "Pancreaticoduodenal, gastro-omental.",
-        "E": "Midgut."
+        "B": "The left gastric artery runs along the lesser curvature and supplies the cardia and distal oesophagus.",
+        "C": "The common hepatic artery mainly supplies hepatic and gastroduodenal branches rather than the short vessels crossing the gastrosplenic ligament.",
+        "D": "The gastroduodenal artery gives the right gastro-omental branch for the greater curvature and pancreaticoduodenal branches for the proximal duodenum.",
+        "E": "The superior mesenteric artery supplies the midgut, whereas the stomach receives its main supply from the coeliac circulation."
       }
     },
     {
@@ -1961,12 +1961,12 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Four sites: oesophageal, paraumbilical, rectal, retroperitoneal.",
+      "why": "Elevated portal pressure can send blood from the left portal vein through paraumbilical veins towards systemic veins of the abdominal wall. Their enlargement produces the radiating periumbilical pattern called caput medusae.",
       "notes": {
-        "A": "Varices.",
-        "C": "Haemorrhoids/anorectal varices.",
-        "D": "Not visible.",
-        "E": "Not a site."
+        "A": "Oesophageal tributaries link the left gastric vein and azygos system, so dilation produces distal oesophageal varices.",
+        "C": "The upper rectal portal drainage communicates with systemic rectal veins, creating a route for anorectal varices.",
+        "D": "Retroperitoneal veins can divert portal blood from colonic branches to systemic lumbar veins without producing superficial periumbilical dilation.",
+        "E": "The splenic hilum contains tributaries of the splenic vein and is remote from the subcutaneous abdominal veins that form the sign."
       }
     },
     {
@@ -2001,10 +2001,10 @@
       "correctAnswer": "C",
       "why": "The portocaval anastomoses are at the lower oesophagus, anal canal, paraumbilical region and retroperitoneum; the pulmonary hilum has no portal-systemic connection.",
       "notes": {
-        "A": "Site 1.",
-        "B": "Site 2.",
-        "D": "Site 3.",
-        "E": "Site 4."
+        "A": "Lower oesophageal veins connect the left gastric vein of the portal system with tributaries of the azygos system.",
+        "B": "Paraumbilical veins link the portal system to abdominal wall veins, a pathway that can enlarge around the umbilicus.",
+        "D": "Rectal venous plexuses connect portal superior rectal drainage to systemic middle and inferior rectal veins.",
+        "E": "Colonic tributaries form connections with systemic retroperitoneal veins where the colon contacts the posterior abdominal wall."
       }
     },
     {
@@ -2037,12 +2037,12 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Collateral routes link the IVC and SVC systems.",
+      "why": "Ascending lumbar veins can receive blood from below an inferior caval obstruction. They connect with the azygos and hemiazygos systems, which carry that blood towards the superior vena cava and right atrium.",
       "notes": {
-        "A": "Lung circulation.",
-        "B": "Heart veins.",
-        "C": "Not the main collateral.",
-        "E": "Not the route."
+        "A": "Pulmonary veins return blood from the lungs to the left atrium after it has passed through the right heart and lung capillaries.",
+        "B": "The coronary sinus collects blood from cardiac veins, rather than receiving collateral flow from the abdomen.",
+        "C": "Some abdominal collaterals can involve portal tributaries, but the direct posterior connection to the superior vena cava uses ascending lumbar and azygos veins.",
+        "E": "Jugular veins drain the head and neck and have no direct collateral connection to the lower inferior caval territory."
       }
     },
     {
@@ -2075,12 +2075,12 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The right gonadal vein enters the IVC directly.",
+      "why": "The left gonadal vein ascends to the left renal vein, which carries its blood across the aorta to the inferior vena cava. The right gonadal vein usually enters the cava directly.",
       "notes": {
-        "A": "Right gonadal.",
-        "B": "Not usual.",
-        "C": "Also drains to the left renal.",
-        "D": "Portal tributary."
+        "A": "Direct drainage into the inferior vena cava is usual for the right gonadal vein, while the left generally uses the renal vein.",
+        "B": "The left common iliac vein drains the lower limb and pelvis, while normal left gonadal drainage enters a vein higher in the abdomen.",
+        "C": "The left suprarenal vein also drains into the left renal vein, as a separate tributary from the adrenal gland.",
+        "D": "The inferior mesenteric vein usually drains into the splenic vein and belongs to the hepatic portal circulation."
       }
     },
     {
@@ -2113,12 +2113,12 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The two brachiocephalic veins form the SVC.",
+      "why": "On each side the internal jugular vein meets the subclavian vein behind the sternoclavicular joint. This junction forms the brachiocephalic vein, and the right and left brachiocephalic veins subsequently unite as the superior vena cava.",
       "notes": {
-        "B": "Not this.",
-        "C": "Not this.",
-        "D": "Axillary becomes subclavian.",
-        "E": "Azygos joins the SVC."
+        "B": "The external jugular usually empties into the subclavian vein, and the axillary vein has already become subclavian at the first rib.",
+        "C": "The right and left internal jugular veins each join a subclavian vein on their own side and do not join one another.",
+        "D": "The axillary vein changes name to subclavian at the lateral border of the first rib and is continuous with it.",
+        "E": "The hemiazygos vein usually drains across to the azygos vein, which arches into the superior vena cava."
       }
     },
     {
@@ -2151,12 +2151,12 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The others branch from the external carotid.",
+      "why": "The ophthalmic artery usually branches from the intracranial internal carotid artery and travels with the optic nerve through the optic canal. It provides much of the blood supply to the orbit.",
       "notes": {
-        "A": "External carotid.",
-        "C": "External carotid.",
-        "D": "External carotid.",
-        "E": "External carotid."
+        "A": "The facial artery springs from the external carotid and supplies much of the superficial face after crossing the mandible.",
+        "C": "The lingual artery arises from the external carotid and passes deep to hyoglossus to supply the tongue.",
+        "D": "The superior thyroid artery typically arises low on the external carotid and supplies the superior part of the thyroid gland and neighbouring structures.",
+        "E": "The maxillary artery is a terminal external carotid branch that supplies deep facial, nasal and meningeal structures."
       }
     },
     {
@@ -2189,12 +2189,12 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The two vertebrals unite to form the basilar artery.",
+      "why": "The vertebral artery typically arises from the first part of the subclavian artery. It ascends through cervical transverse foramina, enters the skull through the foramen magnum, and joins its fellow to form the basilar artery.",
       "notes": {
-        "A": "Not its origin.",
-        "B": "Not its origin.",
-        "D": "Gives right subclavian.",
-        "E": "Only as a variant (left)."
+        "A": "The common carotid usually terminates by dividing into the internal and external carotid arteries, separate from the vertebral system.",
+        "B": "The external carotid supplies most extracranial head and neck structures through branches such as facial and lingual arteries.",
+        "D": "The brachiocephalic trunk normally gives the right common carotid and right subclavian, with the right vertebral arising downstream from subclavian.",
+        "E": "Direct origin from the aortic arch is a recognised left vertebral variant, while the usual origin on either side is subclavian."
       }
     },
     {
@@ -2229,10 +2229,10 @@
       "correctAnswer": "D",
       "why": "The pulmonary trunk lies to the left of the ascending aorta, and both lie within the fibrous pericardium.",
       "notes": {
-        "A": "Oesophagus is posterior.",
-        "B": "Left atrium is behind.",
-        "C": "Thymus is in front.",
-        "E": "Trachea is posterior and higher."
+        "A": "The oesophagus runs posterior to the trachea and heart, away from the anterior surface of the ascending aorta.",
+        "B": "The left atrium lies chiefly posterior in the heart and receives pulmonary veins, rather than occupying the space beside the superior vena cava.",
+        "C": "Thymic tissue or its remnants lie behind the sternum, anterior to the pericardium and adjacent great vessels.",
+        "E": "The trachea lies behind the anterior great vessels, with its bifurcation roughly at the sternal-angle plane."
       }
     },
     {
@@ -2303,12 +2303,12 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Veins have much less of it than arteries.",
+      "why": "Smooth muscle is a defining component of the tunica media and changes vessel calibre as it contracts or relaxes. Elastic lamellae are prominent in elastic arteries, and veins generally have a thinner media.",
       "notes": {
-        "B": "Adventitia.",
-        "C": "Endothelium.",
-        "D": "Adventitia.",
-        "E": "Not in vessels."
+        "B": "Collagen provides tensile strength and is particularly abundant in the adventitia, while medial smooth muscle actively changes vessel diameter.",
+        "C": "Simple squamous endothelial cells face the blood and constitute the luminal lining of the tunica intima.",
+        "D": "Loose connective tissue commonly supports vessels externally, whereas smooth muscle is organised into layers in the media.",
+        "E": "Elastic arteries contain extracellular elastic lamellae in their media, which are distinct from the cartilage found in structures such as the auricle."
       }
     },
     {
@@ -2417,12 +2417,12 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "CNS capillaries are the exception: they lack the channels.",
+      "why": "In most continuous capillaries the endothelial lining is uninterrupted, although narrow intercellular clefts allow limited exchange. In brain capillaries, tight junctions largely close this pathway and increase control over solute movement.",
       "notes": {
-        "A": "Sinusoids.",
-        "B": "Fenestrated.",
-        "C": "Single layer only.",
-        "E": "No muscle."
+        "A": "Large gaps are characteristic of some discontinuous sinusoids, whose permeability exceeds that of continuous capillaries.",
+        "B": "Endothelial fenestrations allow rapid movement across cells in specialised beds such as intestinal villi and renal glomeruli.",
+        "C": "Capillary walls have a single endothelial layer, keeping the diffusion distance between blood and interstitial tissue short.",
+        "E": "Pericytes may lie outside the endothelial layer, but endothelial junctions link neighbouring cells rather than smooth muscle."
       }
     },
     {
@@ -2455,12 +2455,12 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Discontinuous sinusoidal capillaries occur in the liver, spleen, bone marrow and the adrenal medulla, where wide fenestrations let cells and large molecules pass.",
+      "why": "The adrenal medulla contains wide sinusoidal vessels around chromaffin cell clusters. Their fenestrated endothelium facilitates uptake of secreted catecholamines into blood, although sinusoidal permeability and basement membrane structure depend on the organ.",
       "notes": {
-        "A": "Fenestrated.",
-        "B": "Fenestrated (endocrine).",
-        "C": "Fenestrated.",
-        "D": "Continuous."
+        "A": "Renal glomeruli have fenestrated endothelial cells organised around a specialised basement membrane and podocyte filtration layer.",
+        "B": "The thyroid uses fenestrated capillaries around follicles to take up thyroid hormones, rather than the medullary sinusoidal arrangement of adrenal tissue.",
+        "C": "Villous capillaries have fenestrations that support nutrient absorption, while a separate lacteal carries chylomicrons.",
+        "D": "Most cerebral cortical capillaries have continuous endothelium with tight junctions, restricting transfer into the surrounding neural tissue."
       }
     },
     {
@@ -2495,10 +2495,10 @@
       "correctAnswer": "A",
       "why": "Valves are numerous in the veins of the limbs (and are also found in the neck), opposing gravity to aid venous return; they are sparse or absent in the great central veins and viscera.",
       "notes": {
-        "B": "Dural sinuses have none.",
-        "C": "Portal system has few or none.",
-        "D": "Pulmonary veins have none.",
-        "E": "Not as taught."
+        "B": "Dural venous sinuses and many cerebral veins lack valves, allowing drainage between communicating intracranial channels.",
+        "C": "The hepatic portal circulation is generally valveless, so pressure can be transmitted to vessels draining the gut.",
+        "D": "Pulmonary veins generally have no valves, and the major cardiac valves regulate flow through the heart chambers.",
+        "E": "Renal and splenic venous channels are generally valveless and carry blood down pressure gradients rather than through a series of valves."
       }
     },
     {
@@ -2569,12 +2569,12 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "End arteries have no such protection.",
+      "why": "An effective arterial anastomosis provides a second inflow route to the tissue beyond a blockage. If the collateral vessels can supply enough oxygenated blood, they can prevent ischaemic necrosis.",
       "notes": {
-        "A": "Not their role.",
-        "B": "Not their role.",
-        "D": "Not their role.",
-        "E": "Not so."
+        "A": "Local collateral flow redistributes blood between neighbouring arterial territories without requiring an increase in systemic pressure.",
+        "B": "The alternate route supplies capillaries, and their venous drainage is needed to carry away blood from the tissue.",
+        "D": "Anastomoses preserve oxygen delivery by carrying blood around the blockage, while the tissue's metabolic demand remains.",
+        "E": "These channels connect arteries to other arteries and preserve their arterial role without changing the original vessel type."
       }
     },
     {
@@ -2607,12 +2607,12 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "It begins at the left 3rd costal cartilage.",
+      "why": "The ascending aorta rises from the aortic valve to the level of the manubriosternal joint, near the right second costal cartilage. Here it curves posteriorly as the aortic arch.",
       "notes": {
-        "A": "Where it begins.",
-        "B": "Too low.",
-        "C": "Aortic hiatus.",
-        "E": "Too high."
+        "A": "The third left costal cartilage approximates the start of the ascending aorta at the aortic valve.",
+        "B": "The xiphisternal joint is at the lower end of the sternal body, well below the transition into the arch.",
+        "C": "The descending aorta approaches the diaphragmatic hiatus around T12, several vertebral levels below the origin of the arch.",
+        "E": "The suprasternal notch is at the upper border of the manubrium, above the sternal-angle plane used for this landmark."
       }
     },
     {
@@ -2645,12 +2645,12 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The right common carotid and right subclavian come from the brachiocephalic trunk.",
+      "why": "In the normal branching pattern, the first arch branch divides into the right common carotid and right subclavian arteries. The left common carotid and left subclavian then arise independently in that order.",
       "notes": {
-        "A": "These come from the brachiocephalic.",
-        "B": "Wrong order.",
-        "C": "Wrong order.",
-        "D": "Right carotid is not a direct branch."
+        "A": "The first normal branch is the common parent of the two right-sided arteries, so they do not have separate arch origins.",
+        "B": "The left common carotid lies between the brachiocephalic trunk and the left subclavian along the usual arch.",
+        "C": "The brachiocephalic trunk arises closer to the ascending aorta than the left common carotid, making it the first branch.",
+        "D": "The right common carotid usually branches from the brachiocephalic trunk instead of joining the left-sided arteries as a separate arch branch."
       }
     },
     {
@@ -2683,12 +2683,12 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Arising last from the arch is a variant (aberrant right subclavian).",
+      "why": "The brachiocephalic trunk is the first branch of the aortic arch and normally divides behind the right sternoclavicular region. Its terminal branches are the right common carotid and right subclavian arteries.",
       "notes": {
-        "B": "Variant only.",
-        "C": "A sister branch.",
-        "D": "Only coronaries arise there.",
-        "E": "A branch of the subclavian."
+        "B": "A direct arch origin of the right subclavian is an anomaly, whereas the left subclavian normally arises directly from the arch.",
+        "C": "The right common carotid and right subclavian are branches of the brachiocephalic trunk and then pass into different territories.",
+        "D": "The ascending aorta normally gives off the coronary arteries near its root before continuing into the arch.",
+        "E": "The thyrocervical trunk usually arises from the first part of the subclavian artery, so it is a downstream branch."
       }
     },
     {
@@ -2721,12 +2721,12 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "It divides under the concavity of the aortic arch.",
+      "why": "The infundibulum, also called the conus arteriosus, is the smooth-walled superior outflow tract of the right ventricle. Blood leaves it through the pulmonary valve and enters the pulmonary trunk.",
       "notes": {
-        "A": "Aorta.",
-        "C": "Atria give no arteries.",
-        "D": "Atria give no arteries.",
-        "E": "Not its origin."
+        "A": "The aortic vestibule directs left ventricular blood through the aortic valve into the ascending aorta.",
+        "C": "The smooth right atrial sinus receives systemic venous return, which exits the atrium through the tricuspid valve.",
+        "D": "The left auricle is an atrial appendage with pectinate muscle and has no arterial outflow connection.",
+        "E": "The right ventricular apex is trabeculated, whereas the passage into the pulmonary trunk lies superiorly in the smooth outflow tract."
       }
     },
     {
@@ -2759,12 +2759,12 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "It joins the pulmonary artery to the aorta.",
+      "why": "The ductus arteriosus carries fetal blood from the pulmonary artery to the aorta. If it remains open after birth it is a patent ductus arteriosus, usually permitting aortic blood to flow back towards the lungs.",
       "notes": {
-        "A": "Narrowing of the aorta.",
-        "B": "Between the atria.",
-        "D": "Undivided outflow.",
-        "E": "Four defects."
+        "A": "Coarctation is narrowing of the aorta, often close to where the ductus attaches, and is a different defect.",
+        "B": "A patent foramen ovale is an incomplete seal between the atria, anatomically separate from the persistent arterial connection.",
+        "D": "Persistent truncus arteriosus results when one arterial trunk supplies systemic and pulmonary circulations because the outflow fails to separate.",
+        "E": "Tetralogy of Fallot combines right ventricular outflow obstruction, a ventricular septal defect, an overriding aorta and right ventricular hypertrophy."
       }
     },
     {
@@ -2797,12 +2797,12 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "It is the lower edge of the septum secundum.",
+      "why": "The crista dividens helps split the stream entering the right atrium from the inferior vena cava. Oxygen-rich blood from the placenta is preferentially directed through the foramen ovale into the left atrium.",
       "notes": {
-        "A": "Pulmonary trunk to aorta.",
-        "B": "Umbilical vein to IVC.",
-        "C": "The rest of the flow.",
-        "E": "Heart veins."
+        "A": "The ductus arteriosus shunts blood after it has entered the right ventricular outflow, farther downstream than the atrial stream divider.",
+        "B": "The ductus venosus connects the umbilical venous route to the inferior vena cava before the inflow reaches the right atrium.",
+        "C": "The tricuspid valve directs right atrial blood into the right ventricle, while the preferentially shunted stream crosses the atrial septum.",
+        "E": "The coronary sinus opens into the right atrium to return blood from the myocardium and is separate from the foetal shunt."
       }
     },
     {
@@ -2835,12 +2835,12 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "At T12.",
+      "why": "The right and left crura flank the aortic hiatus near T12. The median arcuate ligament bridges between them anterior to the aorta, which continues below this level as the abdominal aorta.",
       "notes": {
-        "A": "Over psoas.",
-        "B": "Over quadratus lumborum.",
-        "C": "IVC passes here.",
-        "D": "Oesophageal hiatus."
+        "A": "Each medial arcuate ligament arches over psoas major to the side of the aortic opening.",
+        "B": "Each lateral arcuate ligament arches over quadratus lumborum and extends towards the twelfth rib, well lateral to the aorta.",
+        "C": "The inferior vena cava passes through the central tendon near T8, while the aortic hiatus lies posterior and inferior.",
+        "D": "The right crus forms a side of the aortic hiatus, and the ligament connecting both crura bounds it anteriorly."
       }
     },
     {
@@ -2873,12 +2873,12 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Posterior intercostals supply spaces 3–11.",
+      "why": "The subcostal arteries are the last paired parietal branches of the descending thoracic aorta. They run below the twelfth ribs, continuing the posterior intercostal series near the T12 level.",
       "notes": {
-        "B": "Too high.",
-        "C": "Too high.",
-        "D": "Start of the thoracic aorta.",
-        "E": "Abdominal."
+        "B": "T10 corresponds to a higher part of the posterior intercostal series and approximates the oesophageal hiatus.",
+        "C": "T8 is a higher thoracic level near the caval opening, above the low origin of the subcostal arteries.",
+        "D": "Around T4 the aortic arch becomes the descending thoracic aorta, several levels above the subcostal vessels.",
+        "E": "By L1 the aorta has entered the abdomen and gives branches such as the superior mesenteric artery."
       }
     },
     {
@@ -2911,12 +2911,12 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Paired: intercostal and superior phrenic. Unpaired (visceral): bronchial, pericardial, oesophageal, mediastinal.",
+      "why": "The right and left superior phrenic arteries arise from the lower thoracic aorta and supply the superior surface of the diaphragm. Their paired pattern reflects the body-wall territory they supply.",
       "notes": {
-        "A": "Unpaired group.",
-        "C": "Unpaired group.",
-        "D": "Unpaired group.",
-        "E": "Abdominal aorta, unpaired."
+        "A": "Small pericardial branches supply the posterior pericardium and do not form a named right and left pair.",
+        "C": "Oesophageal branches leave the thoracic aorta individually along its course to supply the thoracic oesophagus.",
+        "D": "Mediastinal branches supply posterior mediastinal connective tissue and lymph nodes without a fixed paired arrangement.",
+        "E": "The median sacral artery arises as a single vessel from the abdominal aorta near its bifurcation."
       }
     },
     {
@@ -2987,12 +2987,12 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "It ends as the internal and external iliac arteries.",
+      "why": "The common iliac artery runs from the aortic bifurcation to the pelvic brim and normally has no major named branches before dividing. It ends as the internal and external iliac arteries.",
       "notes": {
-        "A": "Many pelvic branches.",
-        "B": "Inferior epigastric, deep circumflex iliac.",
-        "C": "Three branches.",
-        "E": "Many branches."
+        "A": "The internal iliac gives named visceral and parietal branches to the pelvis, perineum and gluteal regions.",
+        "B": "The external iliac gives inferior epigastric and deep circumflex iliac branches before it passes under the inguinal ligament.",
+        "C": "The coeliac trunk supplies the foregut through its principal left gastric, splenic and common hepatic branches.",
+        "E": "The superior mesenteric artery gives multiple named jejunal, ileal and colic branches before finishing in the ileocaecal territory."
       }
     },
     {
@@ -3027,10 +3027,10 @@
       "correctAnswer": "E",
       "why": "The left gastric artery runs along the lesser curvature of the stomach and gives oesophageal branches to the lower oesophagus.",
       "notes": {
-        "A": "Splenic artery.",
-        "B": "Common hepatic.",
-        "C": "Common hepatic.",
-        "D": "Middle colic."
+        "A": "The splenic artery supplies the spleen and gives branches to the pancreas, while the left gastric runs towards the cardia.",
+        "B": "Hepatic arteries supply the liver, and the cystic artery usually comes from the right hepatic to supply the gallbladder.",
+        "C": "The proximal duodenum receives gastroduodenal and pancreaticoduodenal branches rather than the oesophageal branches of the left gastric.",
+        "D": "The transverse colon receives middle and left colic branches from the mesenteric arteries, separate from the gastric circulation."
       }
     },
     {
@@ -3065,10 +3065,10 @@
       "correctAnswer": "A",
       "why": "The splenic artery supplies the spleen, the fundus and greater curvature of the stomach (short gastric and left gastro-omental branches) and the body and tail of the pancreas.",
       "notes": {
-        "B": "Common hepatic.",
-        "C": "Common hepatic.",
-        "D": "Common hepatic and SMA.",
-        "E": "Renal artery."
+        "B": "The liver receives arterial blood chiefly through the proper hepatic artery and its right and left branches.",
+        "C": "The gallbladder normally receives the cystic artery, most often from the right hepatic artery.",
+        "D": "Duodenal arterial supply is mainly from gastroduodenal and superior mesenteric branches through the pancreaticoduodenal arcades.",
+        "E": "A renal artery branching directly from the abdominal aorta provides the principal blood supply of the left kidney."
       }
     },
     {
@@ -3101,12 +3101,12 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "It ends two-thirds of the way along the transverse colon.",
+      "why": "The major duodenal papilla marks the usual foregut–midgut transition in the second part of the duodenum. Beyond the entry of the bile duct, superior mesenteric branches supply the midgut, with overlap across the pancreaticoduodenal arcades.",
       "notes": {
-        "A": "Foregut.",
-        "C": "Already midgut.",
-        "D": "Within the midgut.",
-        "E": "Foregut."
+        "A": "The pylorus is at the start of the duodenum, whose proximal part still belongs to the foregut.",
+        "C": "The duodenojejunal flexure marks the end of the duodenum, after the arterial transition has already occurred.",
+        "D": "The ileocaecal valve is supplied by the ileocolic artery but lies much farther along the midgut.",
+        "E": "The lower oesophagus is a foregut derivative supplied by oesophageal branches, including contributions from the left gastric artery."
       }
     },
     {
@@ -3139,12 +3139,12 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The neck of the pancreas lies in front of it.",
+      "why": "The superior mesenteric artery emerges from behind the pancreatic neck, then descends anterior to the uncinate process and horizontal duodenum. The left renal vein crosses behind the artery near its origin.",
       "notes": {
-        "A": "In front of the SMA.",
-        "B": "Far left.",
-        "D": "In front, higher.",
-        "E": "In front of it, behind the pancreas."
+        "A": "The pancreatic neck lies anterior to the proximal superior mesenteric vessels, so it is in front of the artery.",
+        "B": "The pancreatic tail extends towards the splenic hilum on the far left, away from this central descent.",
+        "D": "The body of the stomach lies anterior to the pancreas across the lesser sac, rather than behind the mesenteric artery.",
+        "E": "The splenic vein passes behind the pancreas to join the superior mesenteric vein at the portal confluence, rather than lying under the descending artery."
       }
     },
     {
@@ -3177,12 +3177,12 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "That is the upper third of the anal canal.",
+      "why": "The inferior mesenteric artery continues as the superior rectal artery, whose terminal branches supply the upper anal canal down to the pectinate line. Below the line, inferior rectal branches provide the main supply.",
       "notes": {
-        "A": "It goes lower.",
-        "B": "Below the pectinate line: internal pudendal.",
-        "C": "Start of its territory.",
-        "E": "It goes lower."
+        "A": "The rectosigmoid junction lies above the rectum, which still receives the descending superior rectal branch of the inferior mesenteric artery.",
+        "B": "The anal verge is below the pectinate line and is supplied chiefly by inferior rectal branches of the internal pudendal artery.",
+        "C": "The splenic flexure is near the proximal edge of hindgut blood supply and is far above the distal reach of the superior rectal artery.",
+        "E": "The sigmoid colon receives sigmoid arteries, but the same parent artery continues to supply more distal bowel through the superior rectal artery."
       }
     },
     {
@@ -3215,12 +3215,12 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The right colic is a branch of the SMA.",
+      "why": "The right colic artery normally belongs to the superior mesenteric circulation and supplies the ascending colon. The inferior mesenteric artery supplies the distal colon and upper rectum instead.",
       "notes": {
-        "A": "IMA.",
-        "B": "IMA.",
-        "C": "IMA.",
-        "D": "From the IMA territory."
+        "A": "The left colic artery normally arises from the inferior mesenteric artery and supplies the descending colon and adjacent transverse colon.",
+        "B": "Sigmoid arteries branch from the inferior mesenteric artery to supply the sigmoid colon through mesenteric arcades.",
+        "C": "The superior rectal artery is the direct continuation of the inferior mesenteric artery and supplies the proximal rectum.",
+        "D": "Rectosigmoid branches supply the transition from sigmoid colon to rectum within the distal inferior mesenteric territory."
       }
     },
     {
@@ -3253,12 +3253,12 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Also superior thyroid, facial, occipital, posterior auricular, maxillary, superficial temporal.",
+      "why": "The lingual artery arises from the anterior aspect of the external carotid artery, usually near the greater horn of the hyoid. It passes deep to hyoglossus to reach the tongue.",
       "notes": {
-        "B": "Internal carotid.",
-        "C": "Internal carotid.",
-        "D": "Subclavian.",
-        "E": "From the two vertebrals."
+        "B": "The ophthalmic artery usually arises from the internal carotid artery and enters the orbit through the optic canal.",
+        "C": "The anterior choroidal artery usually arises from the internal carotid and supplies deep structures including part of the internal capsule.",
+        "D": "The vertebral artery normally arises from the subclavian artery and enters the posterior cranial circulation.",
+        "E": "The basilar artery is formed by the union of the vertebral arteries and runs on the ventral surface of the pons."
       }
     },
     {
@@ -3291,12 +3291,12 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "It gives pontine and cerebellar branches.",
+      "why": "The paired vertebral arteries enter the cranial cavity and join near the pontomedullary junction to form the basilar artery. It ascends along the ventral pons and supplies pontine and cerebellar branches.",
       "notes": {
-        "A": "Anterior circulation.",
-        "C": "Its terminal branches.",
-        "D": "Joined by the anterior communicating.",
-        "E": "Link the two circulations."
+        "A": "The internal carotid arteries supply the anterior circulation and remain separate trunks on either side of the cerebral arterial circle.",
+        "C": "Posterior cerebral arteries normally arise where the basilar artery ends, so they are its terminal branches.",
+        "D": "Anterior cerebral arteries arise from the internal carotids and communicate through the anterior communicating artery.",
+        "E": "Posterior communicating arteries link internal carotid flow with posterior cerebral arteries rather than uniting to form one midline trunk."
       }
     },
     {
@@ -3329,12 +3329,12 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The left suprarenal vein drains into the left renal vein.",
+      "why": "The short right suprarenal vein passes directly into the adjacent inferior vena cava, an important relation during adrenal surgery. The longer left suprarenal vein generally drains into the left renal vein.",
       "notes": {
-        "A": "Left side pattern.",
-        "B": "Not so.",
-        "D": "Not so.",
-        "E": "Not so."
+        "A": "The right renal vein drains the right kidney separately into the inferior vena cava, below the right adrenal drainage.",
+        "B": "The right gonadal vein normally drains independently into the inferior vena cava from a much lower origin.",
+        "D": "The azygos vein drains the thoracic wall towards the superior vena cava and is not the normal exit for adrenal venous blood.",
+        "E": "The portal vein carries blood from abdominal digestive organs and the spleen to the liver, separate from adrenal drainage."
       }
     },
     {
@@ -3367,12 +3367,12 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "It links the caval systems and receives the hemiazygos veins.",
+      "why": "The azygos vein ascends beside the thoracic vertebral bodies before arching over the root of the right lung. It empties into the superior vena cava and offers a collateral route between the caval systems.",
       "notes": {
-        "A": "It begins near it.",
-        "B": "Not its ending.",
-        "C": "Not directly.",
-        "E": "A tributary."
+        "A": "Inferior caval territory can communicate with the azygos system through ascending lumbar veins, but the azygos terminates in the superior cava.",
+        "B": "The right brachiocephalic vein helps form the superior vena cava above the point where the azygos arch enters it.",
+        "C": "The azygos system reaches the right atrium through the superior vena cava rather than opening into the chamber independently.",
+        "E": "The hemiazygos usually crosses from the left to drain into the azygos vein, which then continues to the superior vena cava."
       }
     },
     {
@@ -3407,10 +3407,10 @@
       "correctAnswer": "E",
       "why": "The carotid sinus is the dilated start of the internal carotid artery; its wall has baroreceptors supplied by the glossopharyngeal nerve.",
       "notes": {
-        "A": "Not there.",
-        "B": "Not there.",
-        "C": "Not there.",
-        "D": "Has its own baroreceptors."
+        "A": "The brachiocephalic trunk originates from the aortic arch, well proximal to the common carotid bifurcation where the sinus is located.",
+        "B": "The external carotid terminates as the maxillary and superficial temporal arteries near the parotid gland, above the sinus.",
+        "C": "The vertebral artery usually originates from the subclavian and carries blood to the posterior cerebral circulation, separate from the carotid bifurcation.",
+        "D": "The aortic arch contains another group of arterial baroreceptors, whose afferents run in the vagus rather than the glossopharyngeal nerve."
       }
     },
     {
@@ -3450,13 +3450,13 @@
         "E": "F"
       },
       "notes": {
-        "A": "Compact (solid) organs have no central lumen.",
-        "B": "The stroma (capsule and septa) supports the functional parenchyma.",
-        "C": "Septa or trabeculae from the capsule divide them into lobes or lobules.",
-        "D": "Vessels and ducts usually enter and leave at a hilum.",
-        "E": "Compartmentalisation can be complete or incomplete."
+        "A": "A solid organ has no single central lumen, even though its parenchyma can contain many small ducts or tubules.",
+        "B": "Stromal connective tissue provides structural and vascular support for the specialised cells that make up the parenchyma.",
+        "C": "Connective tissue extensions from the capsule can separate the parenchyma into lobes, lobules or other smaller regions.",
+        "D": "In many compact organs, major vessels and ducts converge at a defined hilum before distributing through the stroma.",
+        "E": "Some septa are incomplete, so adjacent regions can remain continuous despite division into visible lobes or lobules."
       },
-      "why": "Compact organs are solid: a capsule-derived stroma supports the parenchyma and divides it, completely or incompletely, into compartments, with vessels entering at a hilum."
+      "why": "The parenchyma of a solid organ carries out its specialised functions within a supporting stromal framework. The framework often brings vessels inward from a hilum and may partly or completely subdivide the organ."
     },
     {
       "id": "dq-g-go2",
@@ -3488,12 +3488,12 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Concentric coats around a cavity describe tubular organs.",
+      "why": "Concentric coats are layers built around the central lumen of a tubular organ. In a compact organ, parenchymal cells instead form functional groups such as cords, follicles or tubules within supporting stroma.",
       "notes": {
-        "B": "Listed.",
-        "C": "Listed.",
-        "D": "Listed.",
-        "E": "Listed."
+        "B": "In some endocrine organs, secretory cells are arranged in clusters, as in the islets of the pancreas.",
+        "C": "The adrenal cortex provides an example of parenchymal cells arranged in long cords alongside capillaries.",
+        "D": "Thyroid follicles contain epithelial cells surrounding pockets of colloid within an otherwise solid gland.",
+        "E": "Renal tubules are functional epithelial structures within the solid kidney and do not form concentric coats around the organ itself."
       }
     },
     {
@@ -3571,12 +3571,12 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Serosa covers organs within body cavities; adventitia covers retroperitoneal ones.",
+      "why": "The bare retroperitoneal surface of a hollow organ usually has an adventitia that blends with surrounding connective tissue and helps anchor it. Any surface that is peritonealised instead has a serosal covering.",
       "notes": {
-        "A": "For organs within body cavities.",
-        "C": "For compact organs.",
-        "D": "Part of the mucosa.",
-        "E": "The epithelium of a serosa."
+        "A": "Serosa is a mesothelial covering with thin underlying connective tissue on surfaces covered by visceral peritoneum.",
+        "C": "A capsule encloses many solid organs and can send septa inward, whereas adventitia blends into adjacent tissues.",
+        "D": "Lamina propria is the connective tissue just beneath an epithelium in a mucosa, close to the lumen.",
+        "E": "Mesothelium lines serosal surfaces and is absent where an organ's external connective tissue blends into the retroperitoneum."
       }
     },
     {
@@ -3609,12 +3609,12 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Mucosa, submucosa, muscularis externa, serosa/adventitia.",
+      "why": "The gastrointestinal wall is usually organised into mucosa, submucosa, muscularis externa and an outer serosa or adventitia. The separate submucosa provides support and carries vessels and nerves between mucosa and muscle.",
       "notes": {
-        "A": "Three coats.",
-        "B": "Three coats.",
-        "D": "Three coats.",
-        "E": "Varied coats."
+        "A": "A ureter is usually described as mucosa, muscularis and adventitia, without the typical discrete gastrointestinal submucosal layer.",
+        "B": "Larger blood vessels have intima, media and adventitia, a wall plan organised around circulating blood.",
+        "D": "Reproductive ducts such as the ductus deferens have mucosa, a thick muscular coat and adventitia.",
+        "E": "Respiratory passages have specialised wall components such as plates or rings of cartilage, so their layers follow a different plan."
       }
     },
     {
@@ -3654,13 +3654,13 @@
         "E": "F"
       },
       "notes": {
-        "A": "It is the median space between the two pleural sacs.",
-        "B": "It extends from the sternum in front to the vertebral column behind.",
-        "C": "It contains all the thoracic viscera except the lungs.",
-        "D": "The plane from the sternal angle to the lower border of T4 separates superior from inferior.",
-        "E": "The inferior mediastinum is divided into anterior, middle and posterior parts."
+        "A": "The mediastinum occupies the space between the right and left pleural sacs near the midline of the thorax.",
+        "B": "Its anterior boundary is the sternum and its posterior boundary is the thoracic vertebral column.",
+        "C": "It houses the heart and other central thoracic structures, while the lungs occupy the pleural spaces to each side.",
+        "D": "The transverse plane from the sternal angle to the lower T4 region, often described at the T4–T5 disc, marks the division.",
+        "E": "The anterior subdivision is in front of the pericardium, the middle contains it, and the posterior lies behind it."
       },
-      "why": "A plane through the sternal angle divides the mediastinum into superior and inferior parts; the inferior part is subdivided into anterior, middle (heart) and posterior."
+      "why": "The sternal-angle plane divides the mediastinum into superior and inferior portions. The inferior portion is further divided around the pericardium into anterior, middle and posterior regions."
     },
     {
       "id": "dq-g-go7",
@@ -3699,13 +3699,13 @@
         "E": "F"
       },
       "notes": {
-        "A": "The aortic arch and its three branches lie here.",
-        "B": "Both brachiocephalic veins and the upper half of the SVC lie here.",
-        "C": "The left recurrent laryngeal nerve hooks under the aortic arch here.",
-        "D": "The trachea, oesophagus and thoracic duct pass through it.",
-        "E": "The heart in its pericardium forms the middle mediastinum."
+        "A": "The brachiocephalic trunk, left common carotid and left subclavian arteries arise from the arch within this compartment.",
+        "B": "The brachiocephalic veins unite here to form the superior vena cava, whose upper portion remains in the compartment.",
+        "C": "The left recurrent laryngeal nerve branches off the vagus and loops under the arch near the ligamentum arteriosum.",
+        "D": "The trachea, oesophagus and thoracic duct pass through this compartment on their routes between the neck and deeper thorax.",
+        "E": "The pericardium enclosing the heart occupies the middle mediastinum below the transverse thoracic plane."
       },
-      "why": "The superior mediastinum holds the great vessels, the vagus and left recurrent laryngeal nerves, the trachea, oesophagus and thoracic duct; the heart is in the middle mediastinum."
+      "why": "The superior mediastinum lies above the sternal-angle plane and conveys vital structures between the neck and lower thorax. It includes the aortic arch and the left recurrent laryngeal nerve looping beneath it."
     },
     {
       "id": "dq-g-go9",
@@ -3737,12 +3737,12 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Middle: heart in pericardium, ascending aorta, lower half of SVC, pulmonary trunk and veins, phrenic nerves.",
+      "why": "The middle mediastinum contains the pericardium, heart and intrapericardial roots of the great vessels. The ascending aorta runs within this compartment before turning into the arch in the superior mediastinum.",
       "notes": {
-        "A": "Posterior and superior.",
-        "B": "Posterior.",
-        "C": "Posterior (it only arches into the SVC).",
-        "E": "Posterior and superior."
+        "A": "The thoracic duct ascends through the posterior mediastinum and then passes through the superior mediastinum towards the neck.",
+        "B": "The thoracic sympathetic trunks lie alongside the vertebral column, behind the central compartment that encloses the heart.",
+        "C": "Most of the azygos trunk ascends in the posterior mediastinum before its arch runs over the right lung root.",
+        "E": "The oesophagus passes from the superior into the posterior mediastinum, behind the pericardium."
       }
     },
     {
@@ -3777,10 +3777,10 @@
       "correctAnswer": "E",
       "why": "A finger behind the ascending aorta and pulmonary trunk, in front of the atria, lies in the transverse pericardial sinus, which separates the arterial from the venous end of the heart.",
       "notes": {
-        "A": "Cul-de-sac behind the left atrium, around the veins.",
-        "B": "Pleural recess.",
-        "C": "Groove on the heart surface.",
-        "D": "In the right atrium."
+        "A": "The oblique sinus is a blind recess posterior to the left atrium between the pulmonary venous and caval reflections.",
+        "B": "The costodiaphragmatic recess lies within the pleural space where costal and diaphragmatic pleura meet below the lung.",
+        "C": "The coronary sulcus is an external cardiac groove separating atria from ventricles and carrying coronary vessels.",
+        "D": "The fossa ovalis is a depression in the interatrial septum visible within the right atrium, outside the pericardial space."
       }
     },
     {
@@ -3813,12 +3813,12 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Relieved by pericardiocentesis.",
+      "why": "Fluid accumulating under pressure in the pericardial sac limits the ability of the heart chambers to expand in diastole. This reduces ventricular filling and cardiac output, producing cardiac tamponade.",
       "notes": {
-        "B": "Fibrosis restricting filling.",
-        "C": "Right heart failure from lung disease.",
-        "D": "Thickened muscle.",
-        "E": "Heart muscle disease."
+        "B": "Constrictive pericarditis impairs filling through a thickened or fibrotic pericardium, usually without an acute pressurised effusion.",
+        "C": "Cor pulmonale is right ventricular remodelling or failure caused by pulmonary hypertension from lung or pulmonary vascular disease.",
+        "D": "Myocardial hypertrophy is enlargement of the heart muscle itself, commonly in response to pressure or volume loading.",
+        "E": "Cardiomyopathy primarily affects the myocardium, while tamponade produces external compression from fluid in the pericardial space."
       }
     },
     {
@@ -3851,12 +3851,12 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "About 8–9 cm from the midsternal line, below the nipple in males.",
+      "why": "In a typical adult, the left ventricular apex contacts the chest around the fifth left intercostal space at or just medial to the midclavicular line. It is usually about 8–9 cm from the midline.",
       "notes": {
-        "A": "Too medial and high.",
-        "C": "Too low and lateral.",
-        "D": "Tricuspid area.",
-        "E": "Pulmonary area."
+        "A": "The parasternal fourth intercostal space is medial and superior to the usual site of the left ventricular impulse.",
+        "C": "The sixth space at the anterior axillary line is lower and more lateral than the usual adult site.",
+        "D": "A right parasternal impulse lies on the opposite side from the usual location of the left ventricular apex.",
+        "E": "The left second parasternal interspace is used to listen to the pulmonary valve and is well above the apical impulse."
       }
     },
     {
