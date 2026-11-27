@@ -3702,10 +3702,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The 6th arch is supplied by the recurrent laryngeal branch of the vagus (CN X).",
+      "why": "The recurrent laryngeal branch of the vagus supplies most intrinsic laryngeal muscles derived from the sixth pharyngeal arch. Its recurrent course reflects remodelling of the embryonic aortic arch arteries.",
       "topicId": "e-face",
       "subtopic": "Arch nerves",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Superior laryngeal innervation is conventionally associated with fourth arch derivatives, especially the cricothyroid muscle.",
+        "C": "Glossopharyngeal innervation is associated with third arch derivatives, including the stylopharyngeus muscle rather than intrinsic laryngeal muscles.",
+        "D": "The facial nerve supplies second arch derivatives, including facial expression muscles rather than sixth arch musculature.",
+        "E": "The mandibular nerve supplies first arch muscles including mastication muscles, not sixth arch laryngeal derivatives."
+      }
     },
     {
       "id": "dq-embryo-face-012",
@@ -3734,10 +3740,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The dorsal end of Meckel's (1st arch) cartilage forms the malleus and incus; the 2nd arch forms the stapes.",
+      "why": "In classical embryology, the dorsal first arch cartilage, called Meckel's cartilage, contributes to development of the malleus and incus. The stapes is associated predominantly with second arch development.",
       "topicId": "e-face",
       "subtopic": "Arch cartilages",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The malleus is one first arch ossicle, but the incus is also associated with this arch.",
+        "C": "The incus is a first arch derivative, whereas the stapes is predominantly associated with the second arch.",
+        "D": "Malleus and stapes belong to different conventional arch groups, first and second respectively, rather than both first.",
+        "E": "The stapes is chiefly associated with second arch cartilage rather than the first arch Meckel's cartilage."
+      }
     },
     {
       "id": "dq-embryo-face-013",
@@ -3766,10 +3778,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Meckel's cartilage forms the sphenomandibular ligament; the mandible itself ossifies intramembranously beside it.",
+      "why": "Meckel's cartilage largely regresses as the mandible develops around it, but its perichondrial derivatives include the sphenomandibular ligament. The malleus and incus are other classical first arch skeletal derivatives.",
       "topicId": "e-face",
       "subtopic": "Arch cartilages",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The greater horn of the hyoid develops from third arch cartilage rather than first arch cartilage.",
+        "B": "Cricoid cartilage develops from laryngeal mesenchyme associated with fourth and sixth arches rather than Meckel's cartilage.",
+        "D": "The stylohyoid ligament derives from second arch Reichert's cartilage rather than the cartilage of the first arch.",
+        "E": "Thyroid cartilage develops within laryngeal mesenchyme associated with later arches, not from Meckel's cartilage."
+      }
     },
     {
       "id": "dq-embryo-face-014",
@@ -3798,10 +3816,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Reichert's (2nd arch) cartilage forms the stapes, styloid process, stylohyoid ligament, lesser cornu and upper body of the hyoid.",
+      "why": "Reichert's cartilage of the second pharyngeal arch contributes to the stapes, styloid process, stylohyoid ligament, lesser hyoid horn and upper hyoid body. These derivatives retain their common developmental arch association.",
       "topicId": "e-face",
       "subtopic": "Arch cartilages",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Third arch cartilage contributes the greater hyoid horns and lower body rather than the listed structures.",
+        "B": "Fourth arch mesenchyme contributes laryngeal cartilages rather than the classic derivatives of second arch Reichert's cartilage.",
+        "C": "Sixth arch mesenchyme contributes laryngeal structures rather than the styloid process or upper hyoid body.",
+        "E": "First arch cartilage contributes the malleus, incus and sphenomandibular ligament rather than this second arch combination."
+      }
     },
     {
       "id": "dq-embryo-face-015",
@@ -3830,10 +3854,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The third arch cartilage forms the greater cornu and the lower part of the hyoid body.",
+      "why": "Third arch cartilage contributes the greater horns and inferior portion of the hyoid body. Second arch cartilage contributes the lesser horns and upper body, accounting for the hyoid's composite embryological origin.",
       "topicId": "e-face",
       "subtopic": "Arch cartilages",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Second arch cartilage forms the lesser horns and upper hyoid body rather than the greater horns.",
+        "B": "First arch cartilage contributes middle ear ossicles and associated ligaments rather than these hyoid components.",
+        "C": "Fourth arch mesenchyme participates in laryngeal cartilage formation rather than the greater hyoid horn.",
+        "D": "Sixth arch mesenchyme contributes to laryngeal cartilages rather than the lower body of the hyoid."
+      }
     },
     {
       "id": "dq-embryo-face-016",
@@ -3862,10 +3892,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The 4th and 6th arch cartilages form the thyroid, cricoid, arytenoid, corniculate and cuneiform cartilages.",
+      "why": "Laryngeal cartilages develop from mesenchymal populations associated with the fourth and sixth pharyngeal arches. Their associated musculature retains vagal innervation, although the precise cellular origins of individual cartilages are more complex.",
       "topicId": "e-face",
       "subtopic": "Arch cartilages",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "The first and second arches principally contribute craniofacial and hyoid skeletal derivatives rather than the laryngeal cartilage framework.",
+        "C": "Second and third arch cartilages contribute substantially to the hyoid apparatus rather than the principal laryngeal cartilages.",
+        "D": "Third arch cartilage contributes hyoid structures, whereas fourth and sixth arch mesenchyme contributes the laryngeal framework.",
+        "E": "First and third arch derivatives include mandibular-associated structures and portions of the hyoid, not the laryngeal cartilage group."
+      }
     },
     {
       "id": "dq-embryo-face-017",
@@ -3894,10 +3930,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "First-arch muscles include the muscles of mastication, mylohyoid, anterior belly of digastric, tensor tympani and tensor veli palatini.",
+      "why": "Muscles of mastication arise from mesodermal muscle precursors associated with the first pharyngeal arch. Their motor supply remains the mandibular division of the trigeminal nerve as the muscles differentiate around the developing jaw.",
       "topicId": "e-face",
       "subtopic": "Arch muscles",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Sixth arch musculature includes most intrinsic laryngeal muscles rather than the skeletal muscles that move the mandible.",
+        "C": "Second arch musculature forms facial expression muscles supplied by the facial nerve, not the main mastication muscles.",
+        "D": "Third arch musculature forms stylopharyngeus, rather than the masseter, temporalis and pterygoid muscles of mastication.",
+        "E": "Fourth arch musculature contributes pharyngeal and cricothyroid muscles rather than the trigeminally innervated mastication muscles."
+      }
     },
     {
       "id": "dq-embryo-face-018",
@@ -3926,10 +3968,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Second-arch muscles include the muscles of facial expression, stapedius, stylohyoid and the posterior belly of digastric.",
+      "why": "Second arch muscle precursors give rise to muscles of facial expression and several other muscles including stapedius and stylohyoid. Their motor supply remains associated with the facial nerve during migration and differentiation.",
       "topicId": "e-face",
       "subtopic": "Arch muscles",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Fourth arch musculature contributes pharyngeal muscles and cricothyroid, rather than the main facial expression muscle population.",
+        "B": "Sixth arch derivatives include most intrinsic laryngeal muscles and receive vagal rather than facial motor innervation.",
+        "D": "First arch muscles include mastication muscles supplied by the mandibular division of trigeminal nerve rather than facial expression muscles.",
+        "E": "Third arch musculature principally produces stylopharyngeus supplied by the glossopharyngeal nerve, not facial expression muscles."
+      }
     },
     {
       "id": "dq-embryo-face-019",
@@ -3958,10 +4006,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Stylopharyngeus (CN IX) is the only third-arch muscle.",
+      "why": "Stylopharyngeus is the characteristic skeletal muscle derivative of the third pharyngeal arch. Its motor supply from the glossopharyngeal nerve distinguishes it from most other pharyngeal muscles, which receive vagal innervation.",
       "topicId": "e-face",
       "subtopic": "Arch muscles",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "First arch muscles include the muscles of mastication and tensor veli palatini rather than stylopharyngeus.",
+        "B": "Fourth arch derivatives include pharyngeal constrictors and cricothyroid, which differ in developmental nerve association from stylopharyngeus.",
+        "C": "Sixth arch muscle precursors contribute most intrinsic laryngeal muscles rather than the glossopharyngeally innervated stylopharyngeus.",
+        "E": "Second arch muscles include facial expression muscles, stylohyoid and stapedius rather than the third arch stylopharyngeus."
+      }
     },
     {
       "id": "dq-embryo-face-020",
@@ -3990,10 +4044,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Tensor veli palatini is a 1st-arch muscle (V3); levator veli palatini is a 4th-arch muscle (CN X).",
+      "why": "Tensor veli palatini is a first arch muscle supplied by the mandibular division of the trigeminal nerve. It tenses the soft palate and assists opening of the pharyngotympanic tube during swallowing.",
       "topicId": "e-face",
       "subtopic": "Arch muscles",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Levator veli palatini elevates the soft palate and receives vagal innervation through the pharyngeal plexus.",
+        "B": "Stylopharyngeus elevates the pharynx and is a third arch muscle supplied by the glossopharyngeal nerve.",
+        "C": "Palatoglossus elevates the posterior tongue or lowers the soft palate and is supplied through vagal pathways.",
+        "D": "Musculus uvulae modifies uvular shape and receives vagal motor supply rather than first arch mandibular innervation."
+      }
     },
     {
       "id": "dq-embryo-face-021",
@@ -4054,10 +4114,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The first pouch forms the auditory tube, tympanic cavity, inner lining of the eardrum and mastoid air cells.",
+      "why": "The first pharyngeal pouch expands as the tubotympanic recess, whose distal portion forms the epithelial lining of the tympanic cavity. Its proximal portion forms the pharyngotympanic tube connecting middle ear and nasopharynx.",
       "topicId": "e-face",
       "subtopic": "Pharyngeal pouches",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The thyroid follicular primordium develops from median pharyngeal endoderm, not the first pouch tubotympanic recess.",
+        "C": "Palatine tonsillar epithelium derives from the second pouch rather than the first pouch middle ear recess.",
+        "D": "Inferior parathyroid glands develop from the dorsal third pouch rather than the first pouch.",
+        "E": "Thymic epithelial tissue develops from the ventral third pouch rather than the tubotympanic recess."
+      }
     },
     {
       "id": "dq-embryo-face-023",
@@ -4086,10 +4152,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The endoderm of the second pouch forms the surface epithelium and crypts of the palatine tonsil.",
+      "why": "The second pharyngeal pouch endoderm contributes the epithelial lining and crypts of the palatine tonsil. Surrounding mesenchyme subsequently becomes infiltrated by lymphocytes, establishing the characteristic mucosa-associated lymphoid tissue.",
       "topicId": "e-face",
       "subtopic": "Pharyngeal pouches",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Fourth pouch derivatives include superior parathyroid tissue and associated ultimobranchial structures rather than palatine tonsillar epithelium.",
+        "B": "The first cleft forms the external acoustic meatus rather than the endodermal epithelium of palatine tonsils.",
+        "D": "The first pouch contributes the auditory tube and middle ear cavity rather than the tonsillar crypt lining.",
+        "E": "The third pouch contributes thymic epithelial tissue and inferior parathyroids rather than palatine tonsillar epithelium."
+      }
     },
     {
       "id": "dq-embryo-face-024",
@@ -4118,10 +4190,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The dorsal 3rd pouch forms the inferior parathyroid, the ventral 3rd pouch the thymus.",
+      "why": "The dorsal wing of the third pharyngeal pouch forms inferior parathyroid primordia, while its ventral wing forms thymic epithelium. Their associated caudal migration explains why third pouch parathyroids ultimately lie below fourth pouch derivatives.",
       "topicId": "e-face",
       "subtopic": "Pharyngeal pouches",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The second pouch contributes palatine tonsillar epithelium rather than both thymic and inferior parathyroid primordia.",
+        "B": "The first pouch forms the tubotympanic recess and does not generate the thymus or inferior parathyroids.",
+        "C": "The rudimentary fifth pouch is conventionally associated with ultimobranchial tissue rather than these two third pouch derivatives.",
+        "E": "The fourth pouch contributes superior parathyroids, while thymus and inferior parathyroids originate from the third pouch."
+      }
     },
     {
       "id": "dq-embryo-face-025",
@@ -4150,10 +4228,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Parathyroid IV (from the 4th pouch) migrates less and ends up superior to parathyroid III (from the 3rd pouch).",
+      "why": "Superior parathyroid glands arise from the dorsal wing of the fourth pharyngeal pouch. They migrate a shorter distance than the third pouch-derived inferior glands and usually settle on the posterior thyroid surface.",
       "topicId": "e-face",
       "subtopic": "Pharyngeal pouches",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Third pouch dorsal wings form inferior parathyroids that descend farther with the developing thymic primordia.",
+        "B": "The second pouch forms palatine tonsillar epithelium, rather than either pair of parathyroid primordia.",
+        "C": "The first pouch contributes middle ear and auditory tube epithelium rather than superior parathyroid tissue.",
+        "D": "The rudimentary fifth pouch designation refers to ultimobranchial development rather than the dorsal superior parathyroid primordium."
+      }
     },
     {
       "id": "dq-embryo-face-026",
@@ -4182,10 +4266,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Parathyroid III (inferior) is carried caudally by the descending thymus, so it passes below parathyroid IV.",
+      "why": "Inferior parathyroid primordia arise dorsally from the third pouch and migrate caudally in association with thymic primordia. This longer descent places them below the superior parathyroid glands derived from the fourth pouch.",
       "topicId": "e-face",
       "subtopic": "Pharyngeal pouches",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Upward migration would not account for the inferior gland's final position below its fourth pouch counterpart.",
+        "C": "Inferior parathyroids detach from their pharyngeal origins and migrate caudally rather than remaining within the pharynx.",
+        "D": "Fourth pouch origin characterises superior parathyroid glands, rather than the inferior glands accompanying thymic descent.",
+        "E": "Inferior parathyroids settle near the thyroid but do not need to fuse with thyroid tissue to descend."
+      }
     },
     {
       "id": "dq-embryo-face-027",
@@ -4214,10 +4304,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The ultimobranchial body (5th pouch), populated by neural crest cells, gives the calcitonin-secreting C cells.",
+      "why": "The ultimobranchial body contributes calcitonin-producing thyroid parafollicular cells. It is classically described as arising from a rudimentary fifth pharyngeal pouch, often considered part of the ventral fourth pouch in modern accounts.",
       "topicId": "e-face",
       "subtopic": "Pharyngeal pouches",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "First arch mesenchyme contributes craniofacial structures rather than the endodermal ultimobranchial thyroid cell population.",
+        "C": "Third pouch endoderm forms thymic epithelium and inferior parathyroids rather than the ultimobranchial body.",
+        "D": "First pouch endoderm contributes auditory tube and middle ear epithelium rather than parafollicular thyroid cells.",
+        "E": "The second cleft is external ectoderm rather than the pharyngeal endodermal source of ultimobranchial tissue."
+      }
     },
     {
       "id": "dq-embryo-face-028",
@@ -4246,10 +4342,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The 1st cleft forms the external acoustic meatus and the outer layer of the tympanic membrane.",
+      "why": "The first pharyngeal cleft persists as the external acoustic meatus, lined by ectoderm-derived epithelium. Its deepest part participates in the external epithelial component of the developing tympanic membrane.",
       "topicId": "e-face",
       "subtopic": "Pharyngeal clefts",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The cervical sinus temporarily encloses more caudal clefts rather than being the adult first cleft derivative.",
+        "B": "The tympanic cavity develops from the endodermal first pouch, rather than the external ectodermal first cleft.",
+        "D": "The auditory tube arises from the first pouch tubotympanic recess rather than the external acoustic meatus primordium.",
+        "E": "Palatine tonsillar epithelium derives from the second pouch, rather than the first external pharyngeal cleft."
+      }
     },
     {
       "id": "dq-embryo-face-029",
@@ -4278,10 +4380,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The cervical sinus is normally obliterated; failure to do so leaves a branchial (cervical) cleft cyst.",
+      "why": "The second pharyngeal arch grows caudally over the third and fourth arch regions, enclosing their external clefts within a transient cervical sinus. Normal obliteration removes this ectoderm-lined space during neck development.",
       "topicId": "e-face",
       "subtopic": "Pharyngeal clefts",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Foramen caecum is the median tongue landmark of thyroid development, not the enclosed lateral cervical clefts.",
+        "B": "A cervical cleft cyst is a potential abnormal remnant of the sinus, rather than its normal embryonic name.",
+        "C": "Pharyngeal membranes mark ectoderm–endoderm interfaces and do not describe the larger cavity enclosed by second arch overgrowth.",
+        "E": "Stomodeum forms the primitive oral depression and is not the lateral ectoderm-lined cervical cavity."
+      }
     },
     {
       "id": "dq-embryo-face-030",
@@ -4310,10 +4418,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "A persistent cervical sinus gives a branchial cleft cyst, typically on the anterolateral neck.",
+      "why": "Persistent remnants of the embryonic cervical sinus can produce lateral cervical cleft cysts or related sinus tracts. The sinus normally disappears following caudal overgrowth of the second pharyngeal arch.",
       "topicId": "e-face",
       "subtopic": "Pharyngeal clefts",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Persistence of the thyroglossal duct produces a generally midline neck cyst rather than the classical lateral branchial cyst.",
+        "B": "First pouch remnants involve structures associated with the auditory tube and middle ear rather than cervical sinus persistence.",
+        "C": "The oronasal membrane separates early nasal and oral spaces, rather than generating lateral neck cysts.",
+        "D": "The stomodeum develops into the primitive oral cavity and does not normally give rise to cervical sinus remnants."
+      }
     },
     {
       "id": "dq-embryo-face-031",
@@ -4342,10 +4456,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Three hillocks each from the 1st and 2nd arches around the 1st cleft fuse to form the auricle.",
+      "why": "The auricle develops from six mesenchymal auricular hillocks around the first pharyngeal cleft. These arise from the first and second arches and remodel extensively as the developing ear changes position.",
       "topicId": "e-face",
       "subtopic": "Pharyngeal clefts",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Third arch derivatives include hyoid components and stylopharyngeus rather than the second set of auricular hillocks.",
+        "C": "Fourth arch mesenchyme contributes laryngeal and pharyngeal structures rather than the auricular hillock population.",
+        "D": "The fifth arch is absent or rudimentary in standard human descriptions and does not generate auricular hillocks.",
+        "E": "Sixth arch derivatives include laryngeal structures, rather than the paired first and second arch auricular primordia."
+      }
     },
     {
       "id": "dq-embryo-face-032",
@@ -4374,10 +4494,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Pierre Robin sequence is a first-arch disorder from underdevelopment of the mandible.",
+      "why": "Pierre Robin sequence begins with mandibular hypoplasia, involving a structure derived from first arch mesenchyme. Posterior tongue displacement may obstruct the airway and interfere with palatal shelf elevation, producing a secondary cleft palate.",
       "topicId": "e-face",
       "subtopic": "Face anomalies",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The frontonasal prominence contributes nasal and forehead structures rather than the primary mandibular hypoplasia in this sequence.",
+        "C": "The second arch contributes facial musculature and hyoid-related structures rather than the mandibular skeletal primordium.",
+        "D": "Third pouch endoderm contributes thymus and inferior parathyroids, not the underdeveloped mandible initiating this sequence.",
+        "E": "The first cleft contributes external ear canal epithelium rather than the skeletal mandibular abnormality."
+      }
     },
     {
       "id": "dq-embryo-face-033",
@@ -4406,10 +4532,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Treacher Collins shows symmetrical underdevelopment of the zygomas, mandible and ears with down-slanting eyes.",
+      "why": "Treacher Collins syndrome is a craniofacial developmental disorder involving abnormalities of neural crest-derived structures, especially mandibular and zygomatic hypoplasia. External and middle ear anomalies may accompany characteristic facial underdevelopment.",
       "topicId": "e-face",
       "subtopic": "Face anomalies",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "A protruding tongue can accompany other disorders but does not define mandibulofacial dysostosis with ear anomalies.",
+        "B": "Premature cranial suture fusion defines craniosynostosis rather than the characteristic mandibulofacial hypoplasia of Treacher Collins syndrome.",
+        "D": "A single midline eye may occur in severe holoprosencephaly rather than the typical Treacher Collins phenotype.",
+        "E": "Congenital absence of the nose is arhinia, rather than the characteristic combination of facial skeletal and ear abnormalities."
+      }
     },
     {
       "id": "dq-embryo-face-034",
@@ -4438,10 +4570,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Arhinia is the rare congenital absence of the nose; microtia is underdevelopment of the auricle.",
+      "why": "Arhinia denotes congenital absence of the external nose, often accompanied by abnormal nasal cavities or related craniofacial structures. It reflects major disruption of nasal development rather than an abnormality restricted to nasal size.",
       "topicId": "e-face",
       "subtopic": "Face anomalies",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Macrostomia describes an excessively wide oral opening, rather than congenital absence of nasal structures.",
+        "B": "Glossoptosis describes posterior displacement of the tongue, frequently associated with mandibular hypoplasia in Pierre Robin sequence.",
+        "C": "Micrognathia denotes an abnormally small jaw rather than absence of the external nose.",
+        "E": "Microtia describes underdevelopment of the external ear, rather than congenital absence of the nose."
+      }
     },
     {
       "id": "dq-embryo-face-035",
@@ -4470,10 +4608,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The five prominences are the frontonasal, two maxillary and two mandibular prominences.",
+      "why": "Five facial prominences surround the developing stomodeum: one frontonasal prominence and paired maxillary and mandibular prominences. Their coordinated growth and merging establish the major facial regions, lips and jaw structures.",
       "topicId": "e-face",
       "subtopic": "Face development",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Nasal placodes develop on the frontonasal prominence but are not one of the five initial facial prominences.",
+        "B": "Palatal shelves grow later from maxillary prominences rather than constituting paired initial facial prominences.",
+        "C": "Otic placodes contribute inner ear structures and do not form the paired prominences surrounding the stomodeum.",
+        "D": "Lens placodes contribute ocular lens development rather than forming the paired lower facial prominences."
+      }
     },
     {
       "id": "dq-embryo-face-036",
@@ -4502,10 +4646,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The frontonasal prominence forms the forehead, dorsum (bridge) and apex of the nose.",
+      "why": "The frontonasal prominence contributes the forehead and nasal bridge and gives rise to medial and lateral nasal prominences around the nasal placodes. Other facial regions develop through interaction with first arch prominences.",
       "topicId": "e-face",
       "subtopic": "Face development",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Lateral upper lip tissue derives from maxillary prominences rather than the frontonasal prominence itself.",
+        "C": "The lower jaw develops predominantly from mandibular prominences of the first pharyngeal arch, not the frontonasal region.",
+        "D": "Cheek development involves maxillary and mandibular prominence tissues rather than the characteristic forehead and nasal bridge derivative.",
+        "E": "Soft palate develops from secondary palatal shelves arising from maxillary prominences rather than frontonasal prominence tissue."
+      }
     },
     {
       "id": "dq-embryo-face-037",
@@ -4534,10 +4684,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The fused medial nasal prominences form the philtrum and the intermaxillary segment (primary palate).",
+      "why": "The paired medial nasal prominences merge to form the intermaxillary segment, which contributes the philtrum, premaxillary region and primary palate. The secondary palate instead develops from lateral shelves of the maxillary prominences.",
       "topicId": "e-face",
       "subtopic": "Face development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Cheek tissue develops mainly from maxillary and mandibular prominence regions rather than the intermaxillary segment.",
+        "C": "Secondary palate derives from paired maxillary palatal shelves, rather than the merged medial nasal prominences.",
+        "D": "Nasal alae develop principally from lateral nasal prominences rather than the paired medial nasal prominences.",
+        "E": "The lower lip develops from merging mandibular prominences rather than the medial nasal intermaxillary segment."
+      }
     },
     {
       "id": "dq-embryo-face-038",
@@ -4566,10 +4722,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The lateral nasal prominences form the alae of the nose.",
+      "why": "Lateral nasal prominences develop beside the nasal pits and contribute the alae of the nose. Medial nasal prominences contribute central nasal and upper lip structures, while maxillary prominences form adjacent facial regions.",
       "topicId": "e-face",
       "subtopic": "Face development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Mandibular prominences contribute the lower lip and jaw, rather than the lateral external nasal wings.",
+        "B": "The frontonasal prominence gives rise to nasal prominences, but lateral nasal prominences are the immediate alar precursors.",
+        "D": "Medial nasal prominences contribute central nasal structures and philtrum rather than the lateral alae.",
+        "E": "Maxillary prominences contribute lateral upper lip and cheek structures rather than directly forming the nasal alae."
+      }
     },
     {
       "id": "dq-embryo-face-039",
@@ -4598,10 +4760,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The maxillary prominences grow medially and fuse with the medial nasal prominences to complete the upper lip.",
+      "why": "The maxillary prominences grow medially and merge with medial nasal prominence tissue during facial development. They form the lateral portions of the upper lip, while the central philtrum derives from the intermaxillary segment.",
       "topicId": "e-face",
       "subtopic": "Face development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Mandibular prominences contribute the lower lip and lower jaw rather than the lateral upper lip.",
+        "B": "Lateral nasal prominences contribute the alae of the nose, rather than forming most lateral upper lip tissue.",
+        "C": "Frontonasal prominence contributes forehead and nasal structures, rather than the immediate lateral upper lip primordia.",
+        "E": "Medial nasal prominences merge to form the philtrum and primary palate rather than the lateral upper lip."
+      }
     },
     {
       "id": "dq-embryo-face-040",
@@ -4630,10 +4798,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The paired mandibular prominences fuse in the midline to form the lower lip, chin and mandible.",
+      "why": "Paired mandibular prominences arise from the first pharyngeal arch and merge at the midline beneath the stomodeum. Their mesenchyme and surface tissues contribute the lower lip, chin and developing mandible.",
       "topicId": "e-face",
       "subtopic": "Face development",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Maxillary prominences contribute upper jaw and lateral upper lip structures, rather than the lower jaw and lip.",
+        "B": "Medial nasal prominences form the intermaxillary segment and philtrum rather than the mandibular midline.",
+        "C": "Frontonasal prominence contributes forehead and nasal structures rather than the paired lower facial prominences.",
+        "D": "Lateral nasal prominences contribute the external nasal alae rather than forming the mandible or lower lip."
+      }
     },
     {
       "id": "dq-embryo-face-041",
@@ -4662,10 +4836,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Cleft lip is failure of fusion of the maxillary prominence with the medial nasal prominence on that side.",
+      "why": "A typical unilateral cleft lip arises when the maxillary prominence fails to merge normally with the medial nasal prominence on one side. This leaves a discontinuity between lateral upper lip and central intermaxillary tissues.",
       "topicId": "e-face",
       "subtopic": "Face development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Failure involving the lateral nasal prominence is classically associated with an oblique facial cleft rather than typical cleft lip.",
+        "C": "Failure of maxillary and mandibular merging can alter the oral commissure rather than producing the typical unilateral upper-lip defect.",
+        "D": "The frontonasal prominence is an earlier regional precursor, not the specific prominence interface implicated in typical unilateral cleft lip.",
+        "E": "Palatal shelf fusion defects cause secondary cleft palate rather than directly explaining the specified upper-lip discontinuity."
+      }
     },
     {
       "id": "dq-embryo-face-042",
@@ -4694,10 +4874,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "An oblique facial cleft follows the nasolacrimal groove when the maxillary and lateral nasal prominences fail to fuse.",
+      "why": "An oblique facial cleft can follow abnormal merging of the maxillary and lateral nasal prominences along the nasolacrimal groove. The defect may extend towards the medial orbital region, unlike typical isolated cleft lip.",
       "topicId": "e-face",
       "subtopic": "Face development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The frontonasal prominence supplies nasal precursors, but the specific cleft follows the maxillary–lateral nasal interface.",
+        "C": "Failure of maxillary and medial nasal merging produces the typical upper cleft lip pattern rather than an oblique facial cleft.",
+        "D": "Abnormal maxillary and mandibular merging affects the oral commissure, rather than the nasolacrimal groove region.",
+        "E": "The paired maxillary prominences do not normally merge directly across the nasal region to create this interface."
+      }
     },
     {
       "id": "dq-embryo-face-043",
@@ -4726,10 +4912,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Excessive fusion gives microstomia (small mouth); deficient fusion gives macrostomia (wide mouth).",
+      "why": "Excessive merging at the maxillary–mandibular prominence junction can restrict the lateral extent of the developing oral opening, producing microstomia. Insufficient merging at this region instead produces an abnormally wide oral opening.",
       "topicId": "e-face",
       "subtopic": "Face development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Arhinia describes congenital absence of the nose rather than restriction of the oral opening.",
+        "B": "Glossoptosis describes posterior displacement of the tongue rather than excessive merging at the oral commissures.",
+        "D": "Macrostomia denotes an excessively wide oral aperture, the opposite of the narrowing described in this question.",
+        "E": "Cleft lip typically involves abnormal maxillary–medial nasal merging rather than excessive closure at oral commissures."
+      }
     },
     {
       "id": "dq-embryo-face-044",
@@ -4758,10 +4950,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Ingrowth of the labiogingival lamina frees the lips from the gums; its midline remnant is the labial frenulum.",
+      "why": "The labiogingival lamina develops as an epithelial ingrowth separating the developing lips and cheeks from the gingiva. Its central residual attachment contributes to the labial frenulum within the oral vestibule.",
       "topicId": "e-face",
       "subtopic": "Face development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The oronasal membrane temporarily separates nasal and oral regions rather than generating the labial attachment fold.",
+        "B": "Nasal placodes contribute sensory and epithelial nasal structures, rather than the residual midline oral vestibular attachment.",
+        "C": "The stomodeal membrane separates primitive oral and pharyngeal cavities early in development, not lip from gingiva.",
+        "E": "Dental lamina produces tooth buds, whereas the neighbouring labiogingival lamina contributes development of the oral vestibule."
+      }
     },
     {
       "id": "dq-embryo-face-045",
@@ -4790,10 +4988,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The oropharyngeal (buccopharyngeal) membrane ruptures near the end of week 4, opening the stomodeum into the pharynx.",
+      "why": "The oropharyngeal membrane initially separates the ectoderm-lined stomodeum from endodermal foregut. It normally breaks down around day 26 of development, establishing communication between the primitive oral cavity and pharynx.",
       "topicId": "e-face",
       "subtopic": "Face development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The second week precedes formation and rupture of the mature oropharyngeal membrane during embryonic folding.",
+        "B": "The sixth week is later than normal establishment of communication between primitive mouth and foregut.",
+        "C": "By the eighth week the oral and pharyngeal cavities have already been connected for several weeks.",
+        "D": "The third week precedes the usual late fourth-week breakdown of the oropharyngeal membrane."
+      }
     },
     {
       "id": "dq-embryo-face-046",
@@ -4822,10 +5026,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The primary palate forms from the intermaxillary segment (fused medial nasal processes) and bears the four maxillary incisors.",
+      "why": "The intermaxillary segment develops through merging of the medial nasal prominences. Its palatal component forms the primary palate, situated anterior to the incisive foramen and associated with the premaxillary incisor region.",
       "topicId": "e-face",
       "subtopic": "Palate development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Secondary palatal shelves arise from maxillary prominences and form the palate posterior to the incisive foramen.",
+        "C": "Maxillary prominences contribute secondary palatal shelves rather than directly forming the intermaxillary primary palatal segment.",
+        "D": "The nasal septum fuses with the developing palate but is not the primary palate's embryonic source.",
+        "E": "The frontonasal prominence is an earlier precursor of nasal prominences, rather than the immediate intermaxillary palatal derivative."
+      }
     },
     {
       "id": "dq-embryo-face-047",
@@ -4854,10 +5064,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The secondary palatal shelves grow from the maxillary prominences, elevate above the tongue, and fuse in the midline.",
+      "why": "Paired palatal shelves grow medially from the maxillary prominences, initially alongside the developing tongue. They elevate and fuse with each other and the primary palate, forming most of the definitive palate.",
       "topicId": "e-face",
       "subtopic": "Palate development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Lateral nasal prominences contribute nasal alae rather than the bilateral secondary palatal shelves.",
+        "C": "Medial nasal prominences form the intermaxillary segment and primary palate rather than the secondary shelves.",
+        "D": "Mandibular prominences contribute the lower jaw and influence tongue position, but do not directly produce palatal shelves.",
+        "E": "Frontonasal prominence contributes nasal structures and medial nasal precursors, not the immediate secondary palatal shelf mesenchyme."
+      }
     },
     {
       "id": "dq-embryo-face-048",
@@ -4886,10 +5102,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The junction of the primary and secondary palates is marked by the incisive foramen.",
+      "why": "The incisive foramen marks the junction between the primary palate derived from the intermaxillary segment and the secondary palate derived from maxillary shelves. It provides a useful landmark for classifying developmental clefts.",
       "topicId": "e-face",
       "subtopic": "Palate development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Greater palatine foramina transmit neurovascular structures posterolaterally rather than marking the primary–secondary palatal junction.",
+        "B": "The nasal septum fuses superiorly with the palate but is not the specific junctional foramen.",
+        "D": "The palatine raphe marks the midline fusion of paired shelves rather than specifically the primary–secondary boundary.",
+        "E": "Foramen caecum is a tongue landmark related to thyroid origin rather than palatal fusion."
+      }
     },
     {
       "id": "dq-embryo-face-049",
@@ -4918,10 +5140,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Cleft palate follows failure of the secondary palatal shelves to elevate above the tongue and fuse in the midline.",
+      "why": "Cleft palate can arise through failure of palatal shelf growth, elevation, contact or fusion. Disruption at any of these coordinated stages can leave persistent communication between oral and nasal cavities.",
       "topicId": "e-face",
       "subtopic": "Palate development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Tongue position can obstruct shelf elevation, but the central defect is failure of the shelves to meet and fuse.",
+        "B": "Neural crest contributes palatal mesenchyme, but isolated failure of its migration is not the sole cleft palate mechanism.",
+        "C": "The primary palate derives from the intermaxillary segment, rather than being formed by secondary palatal shelves.",
+        "E": "Palatal bone ossification occurs after shelf fusion; failure of ossification alone does not define a typical cleft palate."
+      }
     },
     {
       "id": "dq-embryo-face-050",
@@ -4950,10 +5178,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The membranous neurocranium forms the flat vault bones by intramembranous ossification; the chondrocranium (base) forms by endochondral ossification.",
+      "why": "Frontal and parietal bones of the cranial vault form predominantly through intramembranous ossification, with bone differentiating directly within mesenchymal condensations. This contrasts with much of the cranial base, which develops through cartilage intermediates.",
       "topicId": "e-face",
       "subtopic": "Skull development",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Endochondral ossification requires a cartilage template and predominates in much of the cranial base rather than cranial vault.",
+        "B": "Pharyngeal arch cartilages contribute selected craniofacial skeletal structures, rather than forming the flat vault bones by fusion.",
+        "C": "Neural tube induction establishes neural tissue identity and is not the mechanism of cranial bone mineralisation.",
+        "D": "Notochord signalling influences axial patterning, rather than directly describing the bone formation process of the cranial vault."
+      }
     },
     {
       "id": "dq-embryo-face-051",
