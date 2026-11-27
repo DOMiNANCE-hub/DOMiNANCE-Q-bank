@@ -383,3 +383,45 @@
 - Key: C
 - Concern: Continuous capillaries allow water and small solutes by paracellular pathways and diffusion as well as transcellular transport; pinocytosis is not the principal route for all small molecules. Brain continuous capillaries have especially restricted transcytosis. The keyed category is plausible but the premise is misleading. Original explanation and key untouched.
 - Reference: standard vascular histology, Ross & Pawlina/Junqueira; exact edition/page and lecture source not independently checked.
+
+## dq-m-mcg10 — Endothelial intermediate filaments
+- Stem: The intermediate filaments around the nucleus of capillary endothelial cells are:
+- Key: E
+- Concern: Vimentin is the conventional endothelial intermediate filament, whereas desmin is typical of muscle cells and pericytes. The paired option implies desmin as an ordinary endothelial marker, which needs source-specific qualification. Original explanation and key untouched.
+- Reference: standard vascular histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mcg12 — Capillary molecular weight cutoff
+- Stem: Continuous capillaries let molecules pass between endothelial cells only if they are smaller than about:
+- Key: B
+- Concern: Paracellular permeability varies by organ, endothelial junctions, solute radius, charge and conditions. A fixed 10,000-dalton limit for all continuous capillaries is misleading. Original explanation and key untouched.
+- Reference: standard vascular histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mcg14 — Intestinal fenestrations during absorption
+- Stem: When the gut is NOT absorbing, its fenestrated capillaries:
+- Key: D
+- Concern: Endothelial fenestration density can change with physiological conditions, but the exact claim that nonabsorbing intestinal capillaries have fewer fenestrations and thicker walls requires the cited lecture or histological study. Original explanation and key untouched.
+- Reference: standard vascular histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mcg19 — Medium vein example
+- Stem: Which is an example of a medium vein?
+- Key: D
+- Concern: The popliteal vein may be classified as medium by calibre, but diameter varies; the subclavian and portal vein are also variably classified in teaching texts. Verify the course's size categories. Original explanation and key untouched.
+- Reference: standard vascular histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mcg22 — Indistinct venous wall boundaries
+- Stem: In large veins it is hard to tell where smooth muscle belongs because:
+- Key: B
+- Concern: The difficulty distinguishing longitudinal smooth muscle of the adventitia from the media is commonly related to an indistinct media–adventitia boundary, not the intima–media boundary as keyed. Confirm the intended layer. Original explanation and key untouched.
+- Reference: standard vascular histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mch1 — Metarteriole diameter
+- Stem: Metarterioles have a diameter of about:
+- Key: D
+- Concern: Metarterioles are not a universal anatomically distinct class; a fixed diameter of 8 micrometres is source-dependent and overlaps ordinary capillary calibre. Original explanation and key untouched.
+- Reference: standard vascular histology; exact edition/page and lecture source not independently checked.
+
+## dq-m-mch9 — Fenestra diaphragm ultrastructure
+- Stem: Seen from the lumen, the diaphragm of a fenestration looks like a cartwheel with a central thickening and:
+- Key: B
+- Concern: The exact number of wedge-shaped openings is an ultrastructural description requiring verification against the original reference. It is not a universal criterion of fenestrated endothelium. Original explanation and key untouched.
+- Reference: standard vascular histology; exact edition/page and lecture source not independently checked.
