@@ -749,3 +749,21 @@
 - Key: D — 20-21 weeks.
 - Concern: Fetal breathing movements can be detected much earlier than 20–21 weeks, with onset varying by detection method and definition. The exact keyed onset needs source verification. Original explanation and key untouched.
 - Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-resp-020 — Key or premise review
+- Stem: The right pleuropericardial opening closes before the left because
+- Key: E — the right common cardinal vein is larger.
+- Concern: The timing of closure and its attribution solely to the right common cardinal vein size vary in classical accounts. The exact causal premise requires the original lecture. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-resp-025 — Key or premise review
+- Stem: Congenital diaphragmatic hernia most often occurs on the left posterolateral side because
+- Key: E — that pleuroperitoneal canal closes last.
+- Concern: Left posterolateral Bochdalek hernia predominance is conventionally attributed to later left-sided closure and right-sided liver protection; both are plausible options. Modern developmental mechanisms are more complex. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-gi-005 — Key or premise review
+- Stem: Oesophageal atresia and stenosis are thought to result from
+- Key: E — failure of recanalisation of the lumen.
+- Concern: Oesophageal atresia commonly reflects abnormal foregut separation and morphogenesis, frequently with tracheoesophageal fistula. Failed recanalisation is a classical explanation for some stenoses, not a general cause of both conditions. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
