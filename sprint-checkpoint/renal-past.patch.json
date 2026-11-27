@@ -529,5 +529,185 @@
       "C": "Atrial natriuretic peptide can relax systemic vascular smooth muscle through cyclic GMP. Individual renal vascular segments can respond differently.",
       "E": "This group includes increased sodium and water reabsorption, which conflicts with the principal natriuretic action."
     }
+  },
+  "phy-renal-442": {
+    "why": "The juxtaglomerular apparatus contains specialised granular cells, mostly in the wall of the afferent arteriole. These cells secrete renin in response to low perfusion or other signals for activation of the renin–angiotensin system.",
+    "notes": {
+      "A": "Juxtaglomerular describes the location of the granular cells and associated apparatus. The standard nephron classes are cortical and juxtamedullary.",
+      "B": "The adrenal medulla secretes catecholamines. Renin originates chiefly from specialised renal arteriolar cells.",
+      "D": "The adrenal cortex releases aldosterone in response to angiotensin II. It is downstream of renal renin release.",
+      "E": "The hypothalamus produces vasopressin and neuroendocrine signals, while circulating renin is released chiefly by the kidney."
+    }
+  },
+  "phy-renal-349": {
+    "why": "Working skeletal muscle releases potassium during repeated action potentials. Vigorous exercise can therefore raise plasma potassium transiently, with uptake by muscle and other cells helping normalise it during recovery.",
+    "notes": {
+      "B": "Alkalaemia often promotes movement of potassium into cells, tending to lower plasma potassium.",
+      "C": "Insulin stimulates cellular potassium uptake, partly through the sodium–potassium ATPase, and tends to lower plasma potassium.",
+      "D": "Hypertonicity can cause water to leave cells and can favour potassium movement outward. A decrease in osmolality does not typically cause that shift.",
+      "E": "Beta-2 agonists promote cellular potassium uptake and usually decrease the measured plasma potassium concentration."
+    }
+  },
+  "phy-renal-395": {
+    "why": "Once absorbed, a litre of plain water transiently increases body water relative to sodium and lowers plasma sodium concentration and tonicity. Vasopressin release falls and the kidneys excrete the excess as dilute urine.",
+    "notes": {
+      "A": "A fall in plasma tonicity suppresses vasopressin release. Collecting ducts then become less permeable to water.",
+      "C": "Water loading normally promotes dilute urine, so urine osmolality decreases instead of increasing.",
+      "D": "If extracellular tonicity falls, water moves into cells and they can swell slightly. They do not shrink from this stimulus.",
+      "E": "Whole-body specific gravity is not a direct or predictable measure of a water load. The immediate measurable effect is dilution of extracellular solutes."
+    }
+  },
+  "phy-renal-401": {
+    "why": "Sodium retention increases extracellular sodium content and is usually accompanied by water retention. This can expand both interstitial fluid and blood volume and aggravate oedema. Major surgery can produce a temporary sodium-retaining stress response.",
+    "notes": {
+      "A": "After major surgery, stress responses and changes in effective circulating volume can promote transient renal sodium retention.",
+      "B": "Retained sodium is largely extracellular. Associated water retention expands the extracellular compartment.",
+      "C": "Plasma is part of the extracellular fluid and can expand when sodium and water are retained.",
+      "D": "Expansion of interstitial fluid can worsen oedema, especially when capillary or lymphatic function is impaired."
+    }
+  },
+  "phy-renal-402": {
+    "why": "Loss of relatively isotonic sodium-containing fluid primarily contracts extracellular volume and has less immediate effect on intracellular volume. Pure water loss raises extracellular tonicity, drawing water out of cells and shrinking the intracellular compartment.",
+    "notes": {
+      "A": "Sodium and extracellular volume depletion can produce prominent cardiovascular effects because they reduce effective circulating volume.",
+      "C": "Haemoconcentration can occur in both states, depending on the relative amount and site of fluid loss. It does not distinguish them reliably.",
+      "D": "Pure water depletion typically stimulates marked osmotic thirst. Sodium depletion may also stimulate thirst if effective circulating volume falls.",
+      "E": "Vasopressin responds to both tonicity and volume. Its level cannot be ranked without knowing the severity and type of losses."
+    }
+  },
+  "phy-renal-403": {
+    "why": "Hyperkalaemia can result from reduced renal excretion or from potassium release by injured muscle. Severe elevations impair cardiac electrical conduction and can be fatal. Insulin can temporarily shift potassium into cells, with glucose used to reduce the risk of hypoglycaemia.",
+    "notes": {
+      "A": "Acute kidney failure can decrease potassium excretion and allow extracellular potassium to accumulate.",
+      "B": "Severe crush injury can release potassium from damaged muscle cells. Associated kidney injury can further limit clearance.",
+      "C": "High extracellular potassium can disrupt cardiac depolarisation and conduction, causing dangerous arrhythmias and sometimes cardiac arrest.",
+      "D": "Insulin increases cellular uptake of potassium. Glucose is given with it in typical treatment to reduce hypoglycaemia risk."
+    }
+  },
+  "phy-renal-405": {
+    "why": "Rising plasma osmolality activates central osmoreceptors and drives thirst. A fall in effective circulating volume can also stimulate thirst through pressure and volume signals and increased angiotensin II. These are the two standard directions of change that promote drinking.",
+    "notes": {
+      "A": "Higher osmolality stimulates drinking. Expansion of effective volume usually opposes the volume-related thirst signal.",
+      "C": "Lower osmolality and higher effective circulating volume both generally suppress thirst.",
+      "D": "Reduced volume can stimulate thirst, but falling osmolality normally restrains it. These changes therefore have opposing effects.",
+      "E": "Osmotic thirst usually follows cellular dehydration due to extracellular hypertonicity, rather than an increase in cell volume."
+    }
+  },
+  "phy-renal-407": {
+    "why": "Water moves freely across most cell membranes, so intracellular and extracellular fluids reach essentially the same effective osmotic pressure at steady state. Their solute compositions differ, and the intracellular compartment contains more of total body water.",
+    "notes": {
+      "A": "If extracellular fluid becomes hypertonic, water moves out of cells and tends to eliminate the effective osmotic gradient.",
+      "B": "If intracellular fluid becomes more concentrated than the surrounding fluid, water enters cells until the effective gradient is largely balanced.",
+      "D": "About two thirds of total body water is normally intracellular. The extracellular compartment is smaller.",
+      "E": "Near equality of effective osmotic pressures is the expected steady state when fluid intake and losses are balanced."
+    }
+  },
+  "phy-renal-409": {
+    "why": "Extracellular fluid volume is regulated mainly through renal sodium balance and its accompanying water. The renin–angiotensin–aldosterone system and sympathetic responses favour retention when effective volume is low, while atrial natriuretic peptide promotes sodium loss during expansion.",
+    "notes": {
+      "A": "Renin, angiotensin II and aldosterone increase sodium retention when effective circulating volume falls.",
+      "B": "Atrial stretch promotes release of atrial natriuretic peptide, which increases renal sodium excretion and opposes volume expansion.",
+      "C": "Catecholamines can influence renal vascular tone and stimulate renin under adrenergic control, contributing to volume regulation.",
+      "D": "Renal sympathetic nerves influence renin release, tubular sodium reabsorption and renal haemodynamics."
+    }
+  },
+  "phy-renal-387": {
+    "why": "Renal carbonic anhydrase helps proximal tubular cells reclaim filtered bicarbonate by accelerating interconversion of carbon dioxide and bicarbonate. Inhibition decreases bicarbonate reabsorption, so more bicarbonate is excreted and plasma bicarbonate can fall.",
+    "notes": {
+      "B": "Urinary bicarbonate loss can decrease plasma bicarbonate rather than increasing it.",
+      "C": "Loss of bicarbonate tends to lower systemic pH and can produce hyperchloraemic metabolic acidosis.",
+      "D": "Greater distal sodium delivery can increase potassium secretion and loss. Potassium conservation is not the usual effect.",
+      "E": "Bicarbonate remaining in the lumen can increase urine pH and promote diuresis, especially early after inhibition."
+    }
+  },
+  "phy-renal-391": {
+    "why": "With sustained respiratory acidosis, the kidneys compensate by increasing net acid excretion and adding newly generated bicarbonate to the blood. Increased ammonium excretion is a major part of this adaptation.",
+    "notes": {
+      "B": "Ammonium excretion normally increases as part of renal compensation for a persistent acid load.",
+      "C": "A fall in plasma potassium is not the defining renal compensation. Potassium changes depend on several additional factors.",
+      "D": "Excreted hydrogen ions shift urinary phosphate toward the protonated form, dihydrogen phosphate. This decreases the monohydrogen-to-dihydrogen ratio.",
+      "E": "Renal compensation conserves and generates bicarbonate. Increasing its urinary excretion would oppose correction of the acidaemia."
+    }
+  },
+  "phy-renal-396": {
+    "why": "A weak acid and its conjugate base form a buffer because the base can accept added hydrogen ions and the acid can donate hydrogen ions when base is added. Buffering is usually greatest when the pH is near the pKa.",
+    "notes": {
+      "B": "Sodium chloride dissociates into ions that supply little buffering near physiological pH. It does not provide a suitable weak acid–base pair.",
+      "C": "A buffer limits pH changes rather than preventing them entirely. Its capacity is finite.",
+      "D": "A buffer works best near its pKa, when appreciable amounts of both the acid and the conjugate base are present.",
+      "E": "Intracellular proteins and phosphate can act as buffers within cells."
+    }
+  },
+  "phy-renal-399": {
+    "why": "Persistent vomiting can remove hydrochloric acid from the stomach, producing metabolic alkalosis with raised bicarbonate and pH. Associated chloride and volume depletion can maintain the alkalosis by limiting renal bicarbonate excretion.",
+    "notes": {
+      "A": "Primary metabolic acidosis involves a fall in plasma bicarbonate and generally lowers blood pH.",
+      "B": "In respiratory alkalosis, a primary decrease in carbon dioxide raises pH. Renal compensation lowers bicarbonate.",
+      "C": "Lower carbon dioxide alone produces respiratory alkalosis. It does not account for an elevated bicarbonate in a simple disorder.",
+      "D": "Kidney failure commonly promotes metabolic acidosis. A raised carbon dioxide concentration also favours acidaemia rather than explaining alkalosis."
+    }
+  },
+  "phy-renal-400": {
+    "why": "In simple partly compensated respiratory acidosis, carbon dioxide is elevated and blood pH is still low. Bicarbonate rises through immediate buffering and, if the disturbance persists, increased renal net acid excretion and bicarbonate retention.",
+    "notes": {
+      "A": "Raised arterial carbon dioxide is the primary disturbance in respiratory acidosis.",
+      "B": "Higher bicarbonate is the expected compensatory direction in simple respiratory acidosis. A separate metabolic disorder can alter that pattern.",
+      "C": "A persistent rise in carbon dioxide can stimulate renal bicarbonate generation and retention, so evidence of renal compensation may be present.",
+      "D": "Alveolar hypoventilation can raise arterial carbon dioxide and may occur with respiratory failure."
+    }
+  },
+  "phy-renal-410": {
+    "why": "Chemical buffers act rapidly to limit changes in pH. Ventilation regulates carbon dioxide, while renal bicarbonate handling and net acid excretion provide longer-term regulation. All three contribute to acid–base balance.",
+    "notes": {
+      "A": "Bicarbonate, proteins and phosphate are buffers in body fluids. They limit rapid changes in hydrogen ion concentration.",
+      "B": "Ventilation regulates arterial carbon dioxide, which is the respiratory component of bicarbonate buffering.",
+      "C": "The kidneys reclaim filtered bicarbonate, generate new bicarbonate and excrete net acid.",
+      "D": "Buffering and renal regulation are both important. This combination leaves out respiratory control of carbon dioxide."
+    }
+  },
+  "phy-renal-411": {
+    "why": "The bicarbonate–carbon dioxide system is the principal extracellular physiological buffer because ventilation controls carbon dioxide and the kidneys regulate bicarbonate. Haemoglobin provides substantial non-bicarbonate buffering within red cells.",
+    "notes": {
+      "A": "Haemoglobin buffers hydrogen ions in erythrocytes and assists carbon dioxide transport. It is a major non-bicarbonate buffer.",
+      "B": "Plasma and cellular proteins contribute to buffering through ionisable groups, but whole-body control of extracellular pH centres on bicarbonate and carbon dioxide.",
+      "C": "Phosphate buffers intracellular fluid and contributes to titratable acid in urine. Its plasma concentration is relatively low.",
+      "E": "The ammonium system is important for renal net acid excretion. It is not the main extracellular blood buffer."
+    }
+  },
+  "phy-renal-413": {
+    "why": "Tubular epithelial cells secrete hydrogen ions into the lumen using apical exchangers and proton pumps. Much of the net acid excreted is buffered as ammonium or titratable acid rather than remaining as free hydrogen ions.",
+    "notes": {
+      "A": "Filtration carries only a very small free hydrogen-ion load at plasma pH. Most urinary acid is added by tubular processes.",
+      "B": "Reabsorption is movement out of the lumen toward blood. It does not explain addition of hydrogen ions to tubular fluid.",
+      "D": "Secretion adds hydrogen ions to the lumen, whereas reabsorption is in the opposite direction.",
+      "E": "Tubular hydrogen-ion secretion is a recognised part of renal acid–base regulation and contributes to net acid excretion."
+    }
+  },
+  "phy-renal-415": {
+    "why": "Renal hydrogen-ion secretion uses both primary and secondary active transport. Apical proton ATPases directly use ATP, while the sodium–hydrogen exchanger uses the inward sodium gradient ultimately maintained by the sodium–potassium ATPase.",
+    "notes": {
+      "A": "Hydrogen-ion secretion depends on specific transport proteins. Osmosis describes water movement and cannot account for this ion flux.",
+      "B": "Primary active proton pumps contribute, but diffusion is not the other major pathway. Sodium–hydrogen exchange is a secondary active mechanism.",
+      "D": "Secondary active exchange contributes to proximal secretion, but distal proton ATPases also provide primary active secretion.",
+      "E": "Secondary active transport is one contributor. Osmosis and simple diffusion do not replace the direct proton pumps."
+    }
+  },
+  "phy-renal-416": {
+    "why": "With intact renal function, acidosis increases tubular hydrogen-ion secretion and conservation of filtered bicarbonate. Increased ammonium and titratable acid excretion remove acid and add newly generated bicarbonate to the blood.",
+    "notes": {
+      "A": "Increased net acid excretion is appropriate, but losing more bicarbonate would worsen the disturbance.",
+      "B": "Bicarbonate recovery is appropriate, but a decrease in net hydrogen-ion excretion would limit compensation.",
+      "D": "Decreasing both acid excretion and bicarbonate recovery would oppose the usual renal correction of acidosis.",
+      "E": "The normal response combines increased acid elimination with enhanced bicarbonate conservation and generation."
+    }
+  },
+  "phy-renal-417": {
+    "why": "When renal function and effective volume are adequate, alkalosis decreases net acid excretion and favours excretion of bicarbonate. Type B intercalated cells can secrete bicarbonate. Chloride or volume depletion can limit this response and sustain an alkalosis.",
+    "notes": {
+      "A": "Decreasing acid excretion helps correct alkalosis, but increasing bicarbonate reabsorption would retain excess base.",
+      "B": "An increase in net acid excretion would increase body bicarbonate and tend to perpetuate alkalosis.",
+      "C": "Greater acid excretion with lower bicarbonate excretion increases body bicarbonate and worsens the disturbance.",
+      "D": "Increased bicarbonate reabsorption would retain base. Correction generally requires greater bicarbonate excretion when the conditions for it are present."
+    }
   }
 }
