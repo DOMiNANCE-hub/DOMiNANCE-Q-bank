@@ -1,0 +1,191 @@
+{
+  "bio-207": {
+    "why": "Cytidine nucleotides are degraded through pyrimidine pathways. Deamination releases amino nitrogen, present mainly as ammonium at physiological pH. The remaining pyrimidine ring can then be reduced and opened during degradation.",
+    "notes": {
+      "A": "Uric acid is the end product of human purine degradation. CTP contains a pyrimidine base and follows a different pathway.",
+      "C": "Pyrimidine breakdown involves reduction and opening of the ring rather than simple oxidation of an intact ring.",
+      "D": "The pyrimidine ring is opened and degraded to smaller compounds. It is not retained in the final catabolic products.",
+      "E": "Hypoxanthine is an intermediate in purine metabolism and does not arise from the pyrimidine ring of CTP."
+    }
+  },
+  "bio-208": {
+    "why": "Ribonucleotide reductase converts ADP to dADP using reducing equivalents provided by thioredoxin or a related system. Nucleoside diphosphate kinase can then phosphorylate dADP to dATP for DNA synthesis.",
+    "notes": {
+      "A": "De novo purine synthesis begins with ribose-containing PRPP. The deoxyribose is generated later by ribonucleotide reduction.",
+      "B": "Adenine phosphoribosyltransferase salvages adenine to AMP, a ribonucleotide. That reaction does not directly supply dATP.",
+      "C": "A phosphorylase may participate in nucleoside salvage, but ADP reduction is the major route to the deoxyadenosine nucleotide pool.",
+      "E": "Methylene-tetrahydrofolate provides a one-carbon unit for thymidylate synthesis, not the principal route from a purine intermediate to dATP."
+    }
+  },
+  "bio-209": {
+    "why": "Xanthine oxidase carries out the final oxidation steps from hypoxanthine and xanthine to urate. Inhibiting it decreases urate formation, which is why its inhibitors can be used to lower urate in gout.",
+    "notes": {
+      "A": "Elevated PRPP can increase de novo purine synthesis, providing more purines that can eventually be degraded to urate.",
+      "C": "High nucleic acid turnover releases more purine substrates for degradation and can raise urate levels.",
+      "D": "Adenosine deaminase produces inosine that can enter the hypoxanthine-to-urate pathway. It does not block urate formation.",
+      "E": "HGPRT normally salvages hypoxanthine and guanine. Deficiency favours purine degradation and can increase de novo synthesis."
+    }
+  },
+  "bio-210": {
+    "why": "In human cells, the carbamoyl phosphate synthetase II domain of CAD controls entry to de novo pyrimidine synthesis. Pyrimidine nucleotides such as UTP provide feedback inhibition, while PRPP can stimulate activity.",
+    "notes": {
+      "A": "Glutamine–PRPP amidotransferase regulates de novo purine synthesis, rather than synthesis of the pyrimidine ring.",
+      "B": "Aspartate transcarbamylase is a classic regulatory enzyme in some bacteria. Human pathway feedback acts chiefly at the carbamoyl phosphate synthetase II activity of CAD.",
+      "C": "N-acetylglutamate activates mitochondrial carbamoyl phosphate synthetase I, which supplies the urea cycle.",
+      "D": "Substrate availability can influence flux, but feedback at carbamoyl phosphate synthetase II is the characteristic control mechanism in this comparison."
+    }
+  },
+  "bio-211": {
+    "why": "CTP synthetase converts UTP to CTP by adding amino nitrogen from glutamine. Aspartate participates in synthesis of the pyrimidine ring and contributes nitrogen at other steps, including conversion of IMP toward AMP.",
+    "notes": {
+      "B": "IMP is converted to adenylosuccinate using aspartate before fumarate is released to give AMP.",
+      "C": "Aspartate contributes atoms to the pyrimidine ring that is eventually present in orotate.",
+      "D": "Salvaged hypoxanthine can form IMP, which can be converted to AMP using aspartate. Direct salvage of adenine to AMP is a separate route.",
+      "E": "Aspartate is one of the standard amino acid residues incorporated into proteins during translation."
+    }
+  },
+  "bio-212": {
+    "why": "Allopurinol decreases urate formation by inhibiting xanthine oxidase, allowing upstream purines to accumulate. With functioning HGPRT, enhanced hypoxanthine salvage consumes PRPP, so an increase in PRPP is not the expected effect.",
+    "notes": {
+      "A": "Increased salvage can consume PRPP and replenish IMP, both of which can suppress de novo purine synthesis.",
+      "B": "Inhibiting the last steps of urate synthesis decreases production and typically lowers urinary urate excretion.",
+      "C": "Hypoxanthine is upstream of the blocked oxidation steps and may accumulate, with some diverted into salvage.",
+      "E": "Xanthine cannot be oxidised to urate as efficiently during inhibition, so its concentration or excretion can rise."
+    }
+  },
+  "bio-213": {
+    "why": "The purine ring of IMP receives atoms from glycine, glutamine, aspartate and formyl-tetrahydrofolate. Bicarbonate contributes another carbon. These atoms are assembled on the activated ribose provided by PRPP.",
+    "notes": {
+      "A": "Glutamine, formyl-tetrahydrofolate and aspartate contribute ring atoms. Glycine also supplies two carbons and one nitrogen.",
+      "B": "Glutamine and aspartate provide nitrogen, but glycine and formyl groups are also needed to build the purine ring.",
+      "C": "The one-carbon donor and glycine supply several atoms. Aspartate and glutamine also contribute nitrogen.",
+      "D": "Glycine supplies three ring atoms. It is joined by contributions from other nitrogen donors and one-carbon units."
+    }
+  },
+  "bio-214": {
+    "why": "AMP contains adenine, a purine base with a fused two-ring structure. The other listed nucleotides contain the single-ring pyrimidines uracil, cytosine or thymine.",
+    "notes": {
+      "B": "Uridine monophosphate contains uracil, which is a pyrimidine base.",
+      "C": "Uridine triphosphate has three phosphate groups but its base remains the pyrimidine uracil.",
+      "D": "Cytidine triphosphate contains cytosine, a pyrimidine.",
+      "E": "Thymidine monophosphate contains thymine, a pyrimidine commonly found in DNA."
+    }
+  },
+  "bio-217": {
+    "why": "Hereditary orotic aciduria results from deficient UMP synthase, a bifunctional enzyme with orotate phosphoribosyltransferase and orotidine monophosphate decarboxylase activities. Impaired utilisation of orotate allows it to accumulate.",
+    "notes": {
+      "B": "Dihydroorotate dehydrogenase makes orotate upstream. Its deficiency is not the classic cause of an inability to convert orotate to UMP.",
+      "C": "The two UMPS activities explain hereditary orotate accumulation. The listed upstream enzymes do not account for that classic defect.",
+      "D": "Aspartate transcarbamylase acts before orotate is formed and is not the enzyme deficient in classic hereditary orotic aciduria.",
+      "E": "The disorder involves the bifunctional UMP synthase step. Neither of the other enzyme defects is part of its defining mechanism."
+    }
+  },
+  "bio-218": {
+    "why": "HGPRT salvages hypoxanthine and guanine by producing IMP and GMP, respectively. Deficiency increases urate production and can cause gout. Severe loss causes Lesch–Nyhan disease with prominent neurological and behavioural manifestations.",
+    "notes": {
+      "A": "Salvage is the enzyme's key reaction, but the associated overproduction of urate and neurological phenotype are also recognised.",
+      "B": "Loss of salvage and gout are related. Severe deficiency also affects central nervous system function.",
+      "C": "Gout and neurological findings can occur. HGPRT normally salvages purine bases into IMP or GMP.",
+      "D": "The salvage reaction and severe neurological features are correct. Excess urate can also give rise to gout."
+    }
+  },
+  "bio-219": {
+    "why": "Nucleic acids are polymers of nucleotides. Each unit includes a nitrogenous base, a sugar and phosphate. Phosphodiester bonds connect the sugar–phosphate backbone.",
+    "notes": {
+      "B": "A nucleoside has a base and sugar but lacks phosphate. Phosphorylated units supply the building blocks for the backbone.",
+      "C": "Amino acids are joined by peptide bonds to form proteins, rather than nucleic acids.",
+      "D": "Histones are proteins that bind and package DNA. They are not the repeating chemical units of DNA."
+    }
+  },
+  "bio-220": {
+    "why": "Both DNA and RNA polymerases read the template in the 3′-to-5′ direction. They extend the new strand at its 3′ end, so the newly synthesised chain grows in the 5′-to-3′ direction.",
+    "notes": {
+      "A": "DNA polymerases use deoxyribonucleoside triphosphates. RNA polymerases instead use ribonucleoside triphosphates.",
+      "B": "Replicative DNA polymerases require a primer with a free 3′ hydroxyl group. Cellular RNA polymerases can generally start a transcript without a primer.",
+      "C": "A promoter is where transcription is initiated. Replication is initiated at origins with separate priming steps."
+    }
+  },
+  "bio-221": {
+    "why": "DNA polymerase adds each incoming deoxyribonucleotide to the free 3′ hydroxyl group of the growing DNA strand. This produces net synthesis in the 5′-to-3′ direction.",
+    "notes": {
+      "A": "The template is read 3′ to 5′, and some proofreading also operates in that direction. DNA synthesis itself proceeds 5′ to 3′.",
+      "C": "Messenger RNA is made by RNA polymerase, which also extends a product in the 5′-to-3′ direction.",
+      "D": "RNA synthesis proceeds 5′ to 3′, but the catalyst that makes mRNA is RNA polymerase rather than DNA polymerase."
+    }
+  },
+  "bio-222": {
+    "why": "DNA ligase seals a nick in the DNA backbone by joining an adjacent 3′ hydroxyl group and 5′ phosphate. During lagging-strand replication this joins DNA fragments after removal and replacement of RNA primers.",
+    "notes": {
+      "A": "Leading-strand extension is performed by DNA polymerase, which adds new nucleotides to a growing chain.",
+      "B": "DNA polymerase synthesises the lagging-strand fragments. Ligase then joins the adjacent backbone ends.",
+      "D": "Complementary base pairing specifies the sequence of the new strand. Ligase acts on a break in the sugar–phosphate backbone."
+    }
+  },
+  "bio-223": {
+    "why": "The proofreading activity of bacterial DNA polymerase III removes a mismatched nucleotide from the growing 3′ end. It is a 3′-to-5′ exonuclease activity, after which synthesis can resume.",
+    "notes": {
+      "A": "A 5′-to-3′ exonuclease acts at a different end. In bacteria such an activity is associated with primer removal by DNA polymerase I.",
+      "C": "An endonuclease cleaves within a strand. Proofreading removes a nucleotide from the end of the newly synthesised strand.",
+      "D": "Proofreading does not require an internal cut in the template. It requires exonucleolytic removal from the 3′ end of the product."
+    }
+  },
+  "bio-224": {
+    "why": "Unwinding at a replication fork can generate positive supercoils ahead of it. Topoisomerases relieve this torsional stress through controlled breakage and resealing of DNA strands.",
+    "notes": {
+      "A": "DNA polymerases synthesise complementary DNA. They do not provide the principal mechanism for relieving supercoiling ahead of a fork.",
+      "B": "Helicases separate the parental strands, which can generate torsional stress farther ahead. Topoisomerases relieve that stress.",
+      "C": "Primases synthesise short RNA primers that provide starting points for DNA synthesis."
+    }
+  },
+  "bio-225": {
+    "why": "Helicase uses energy to separate complementary DNA strands at the replication fork. This exposes single-stranded templates for DNA polymerases and other components of the replication machinery.",
+    "notes": {
+      "A": "DNA ligase seals breaks in the sugar–phosphate backbone. It does not separate paired strands.",
+      "C": "Topoisomerases relieve torsional strain produced during unwinding. Helicase opens the double helix at the fork.",
+      "D": "Nucleases cleave nucleic acid bonds. Strand separation during ordinary replication does not require digestion of the DNA backbone."
+    }
+  },
+  "bio-227": {
+    "why": "In the classical model for Escherichia coli, Tus binds Ter sites and stops a replication fork approaching from the nonpermissive direction. The opposing forks then complete replication in the terminus region. Other organisms can use different termination mechanisms.",
+    "notes": {
+      "A": "DNA polymerase elongates the new strands. It is not the sequence-specific fork barrier in the Tus–Ter system.",
+      "B": "Helicase separates the parental strands. In the Tus–Ter system its progression is blocked at a termination site.",
+      "C": "Single-strand binding protein stabilises exposed DNA during replication. It does not recognise Ter sites to stop the fork."
+    }
+  },
+  "bio-228": {
+    "why": "For double-stranded DNA, adenine pairs with thymine and guanine pairs with cytosine. If adenine and thymine each make up 30 percent, the remaining 40 percent is split equally between guanine and cytosine.",
+    "notes": {
+      "A": "Adenine and thymine have equal proportions. Guanine pairs with cytosine and need not match adenine's percentage.",
+      "B": "Forty percent is the combined proportion of guanine and cytosine, rather than guanine alone.",
+      "D": "Seventy percent is the portion made of bases other than adenine, including thymine and cytosine.",
+      "E": "Base pairing supplies the required relationships for the percentages in an ordinary double-stranded DNA molecule."
+    }
+  },
+  "bio-230": {
+    "why": "Transcription uses genomic DNA as a template for an RNA product. A protein-coding gene generates an mRNA or precursor transcript. Translation of the mRNA is a later step.",
+    "notes": {
+      "B": "Transfer RNA is transcribed from its genes. It is an adaptor used during translation, rather than a translation product.",
+      "C": "Transcription produces RNA. New genomic DNA is made during DNA replication.",
+      "D": "Translation makes protein from mRNA. It does not read genomic DNA directly.",
+      "E": "Replication copies genomic DNA to DNA. Messenger RNA is produced by transcription."
+    }
+  },
+  "bio-231": {
+    "why": "Transfer RNA carries an amino acid and presents an anticodon that pairs with a codon in mRNA. Aminoacyl-tRNA synthetases attach the correct amino acid, allowing the ribosome to translate the codon into a residue in the growing protein.",
+    "notes": {
+      "B": "Ribosomal RNA helps form the ribosome and contributes to peptide bond catalysis. It does not carry a separate amino acid for each codon.",
+      "C": "Messenger RNA supplies the sequence of codons. Transfer RNA links each codon to its corresponding amino acid.",
+      "D": "Small interfering RNA helps direct sequence-specific gene silencing. It is not the adaptor carrying amino acids during translation.",
+      "E": "The standard amino acid-bearing adaptor is a transfer RNA with a codon-recognising anticodon."
+    }
+  },
+  "bio-232": {
+    "why": "DNA polymerase gamma is the principal replicative polymerase for eukaryotic mitochondrial DNA. The polymerase and other components of the mitochondrial replication machinery are encoded by nuclear genes and imported into mitochondria.",
+    "notes": {
+      "A": "Polymerase alpha works with primase to initiate DNA synthesis during nuclear chromosome replication.",
+      "B": "Polymerase beta is best known for base excision repair, rather than as the principal mitochondrial replicative polymerase.",
+      "D": "Polymerase delta is a major nuclear replicative polymerase and is not the principal enzyme duplicating mitochondrial DNA."
+    }
+  }
+}
