@@ -869,3 +869,10 @@
 - Key: E — the bilaminar embryonic disc.
 - Concern: Late incomplete splitting after bilaminar disc formation is the traditional teaching model of conjoined twinning. Its precise mechanism and timing are not directly established in humans, and alternative fusion or axial duplication models exist. The categorical causal statement should be qualified. Original explanation and key untouched.
 - Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+
+## dq-bio-fa4 — Lecture-specific terminology
+- Stem: On the fatty acid synthase complex, the carrier that holds the growing acyl chain on a phosphopantetheine arm is:
+- Key: D — ACP2 (live; archive letters differ).
+- Concern: Standard mammalian fatty acid synthase nomenclature distinguishes the ACP phosphopantetheine thiol and ketoacyl-synthase cysteine thiol, not universally labelled ACP1 and ACP2. Confirm the course's exact naming convention before explaining the numbered carriers. Key and explanation untouched.
+- Reference: https://bio.libretexts.org/Bookshelves/Biochemistry/Fundamentals_of_Biochemistry_%28Jakubowski_and_Flatt%29/02%253A_Unit_II-_Bioenergetics_and_Metabolism/21%253A_Lipid_Biosynthesis/21.01%253A_Biosynthesis_of_Fatty_Acids_and_Eicosanoids (general mechanism; course nomenclature not verified).
