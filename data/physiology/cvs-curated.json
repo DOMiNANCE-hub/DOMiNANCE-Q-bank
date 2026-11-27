@@ -30,7 +30,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The heart's conducting system initiates and distributes each impulse that drives the beat.",
+      "why": "The specialised conducting system consists of modified cardiac muscle cells that generate spontaneous impulses and distribute them through the atria and ventricles, coordinating the sequence of contraction.",
+      "notes": {
+        "B": "The fibrous skeleton supports the valves and electrically insulates the atria from the ventricles rather than generating the heartbeat.",
+        "C": "The coronary vascular network supplies oxygen and nutrients to the myocardium, including conducting cells, but does not conduct electrical impulses.",
+        "D": "The pericardial sac encloses the heart, limits excessive distension and reduces friction as the heart moves.",
+        "E": "Papillary muscles tense the chordae tendineae during ventricular contraction to prevent atrioventricular valve prolapse, not to initiate impulses."
+      },
       "topicId": "cv-introduction",
       "subtopic": "Overview",
       "difficulty": "easy"
@@ -62,7 +68,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Systole is contraction; diastole is relaxation.",
+      "why": "Systole is the phase of cardiac muscle contraction, during which the affected chamber develops pressure and may eject blood. Diastole is the corresponding relaxation phase.",
+      "notes": {
+        "A": "Valve opening depends on pressure differences and occurs during both ventricular ejection and filling, so it does not define systole.",
+        "C": "Relaxation is diastole, when ventricular pressure falls and eventually permits filling from the atria.",
+        "D": "Ventricular filling occurs mainly during diastole after ventricular pressure falls below atrial pressure, rather than during ventricular systole.",
+        "E": "Repolarisation restores the electrical membrane potential towards its resting value; it is an electrical event rather than the definition of mechanical contraction."
+      },
       "topicId": "cv-introduction",
       "subtopic": "Overview",
       "difficulty": "easy"
@@ -94,7 +106,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Right and left outputs are essentially equal (about 5.5 L/min each) so the circulations stay balanced.",
+      "why": "The pulmonary and systemic circulations are connected in series, so the two ventricles must pump approximately equal volumes per minute over time to prevent blood accumulating in either circulation.",
+      "notes": {
+        "A": "A persistently greater right ventricular output would deliver blood to the lungs faster than the left ventricle removes it, promoting pulmonary congestion.",
+        "B": "A persistently smaller right ventricular output would allow blood to accumulate on the systemic venous side and eventually reduce left ventricular filling.",
+        "D": "If the right ventricle pumped only half the left ventricular output, the imbalance could not persist without redistribution of blood and altered filling.",
+        "E": "A sustained twofold right ventricular output would overload the pulmonary circulation; the ventricles normally balance their average outputs despite different pressures."
+      },
       "topicId": "cv-introduction",
       "subtopic": "Overview",
       "difficulty": "medium"
@@ -126,7 +144,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Although all conducting tissue can discharge spontaneously, the SA node sets the rate as pacemaker.",
+      "why": "The sinoatrial node has the fastest intrinsic rate of spontaneous diastolic depolarisation among cardiac pacemaker tissues. It normally reaches threshold first and entrains the slower subsidiary pacemakers.",
+      "notes": {
+        "A": "The bundle of His conducts impulses across the fibrous cardiac skeleton and can provide a slower escape rhythm if higher pacemakers fail.",
+        "B": "Purkinje fibres rapidly distribute impulses through ventricular muscle and have slow latent automaticity, normally suppressed by the sinoatrial rhythm.",
+        "C": "Internodal pathways carry excitation through the atria towards the atrioventricular node; they do not normally determine the heart rate.",
+        "E": "The atrioventricular junction can generate a slower escape rhythm, typically 40–60 beats per minute, when sinoatrial impulses fail to arrive."
+      },
       "topicId": "cardiac-conduction",
       "subtopic": "Conduction system",
       "difficulty": "easy"
@@ -158,7 +182,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The SA node lies at the junction of the superior vena cava and the right atrium.",
+      "why": "The sinoatrial node lies subepicardially near the junction of the superior vena cava and right atrium, at the superior end of the sulcus terminalis.",
+      "notes": {
+        "A": "The inferior vena cava enters the lower right atrium; the sinoatrial node lies superiorly near the other caval opening.",
+        "B": "The coronary sinus opens into the inferior right atrium near the triangle of Koch, a landmark for the atrioventricular node.",
+        "C": "The pulmonary trunk arises from the right ventricle and carries blood to the lungs rather than joining the right atrium.",
+        "D": "The tricuspid valve guards the right atrioventricular opening; the sinoatrial node is situated higher in the right atrial wall."
+      },
       "topicId": "cardiac-conduction",
       "subtopic": "Conduction system",
       "difficulty": "medium"
@@ -190,7 +220,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The AV node lies in the posterior interatrial septum, just behind the tricuspid valve.",
+      "why": "The atrioventricular node lies in the inferior interatrial septal region, within the triangle of Koch near the coronary sinus ostium and septal tricuspid annulus. It delays atrial impulses before ventricular activation.",
+      "notes": {
+        "B": "The anterior left atrial wall contains working atrial myocardium; the atrioventricular node is approached from the right atrial septal side.",
+        "C": "The left ventricular apex receives excitation through the distal Purkinje network and is far from the atrioventricular nodal region.",
+        "D": "The superior vena caval junction is a landmark for the sinoatrial node, not the more inferior atrioventricular node.",
+        "E": "The ventricular septal apex contains distal conduction fibres, whereas the atrioventricular node lies above the ventricular septum near the tricuspid annulus."
+      },
       "topicId": "cardiac-conduction",
       "subtopic": "Conduction system",
       "difficulty": "medium"
@@ -222,7 +258,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The impulse passes SA node to AV node to bundle of His to Purkinje fibres.",
+      "why": "Excitation originates in the sinoatrial node, spreads through atrial myocardium and reaches the atrioventricular node. After nodal delay, the His bundle and bundle branches deliver it to the Purkinje network.",
+      "notes": {
+        "A": "This sequence starts in the atrioventricular node and places the sinoatrial node downstream of His, reversing the normal atrial initiation pathway.",
+        "C": "Normal excitation starts in the sinoatrial node, and the His bundle must activate before its distal Purkinje network.",
+        "D": "The atrioventricular node normally delays the impulse before it reaches the His bundle, not after transmission into the bundle.",
+        "E": "This sequence describes conduction in reverse; Purkinje fibres normally receive impulses from the bundle branches rather than initiating each heartbeat."
+      },
       "topicId": "cardiac-conduction",
       "subtopic": "Conduction system",
       "difficulty": "easy"
@@ -254,7 +296,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The three internodal tracts are anterior (Bachmann), middle (Wenckebach) and posterior (Thorel).",
+      "why": "In the classical description of atrial conduction, the anterior internodal pathway is associated with Bachmann, with an interatrial branch carrying excitation to the left atrium. Modern anatomy emphasises preferential conduction through atrial muscle.",
+      "notes": {
+        "A": "Purkinje fibres form the terminal ventricular conducting network and are not an anterior atrial internodal pathway.",
+        "B": "The bundle of His connects the atrioventricular node to the ventricular bundle branches rather than linking the sinoatrial and atrioventricular nodes.",
+        "D": "Wenckebach is associated with the middle internodal pathway in the classical description, not the anterior pathway.",
+        "E": "Thorel is associated with the posterior internodal pathway in the classical description, rather than the anterior route."
+      },
       "topicId": "cardiac-conduction",
       "subtopic": "Conduction system",
       "difficulty": "hard"
@@ -318,7 +366,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Roughly 70% of filling is passive; atrial systole adds the remaining ~30%.",
+      "why": "Most ventricular filling occurs passively after atrioventricular valves open, driven by the atrioventricular pressure gradient. In the lecture convention, about 70% is passive and atrial contraction contributes the remaining 30%.",
+      "notes": {
+        "A": "About 30% is the active atrial contribution in the stated teaching convention, not the predominant passive component.",
+        "B": "Half of filling would overestimate the usual dependence on atrial contraction in a healthy resting heart.",
+        "C": "Ten per cent substantially underestimates the passive filling that occurs before atrial contraction in normal resting physiology.",
+        "D": "Passive filling can vary with heart rate and compliance, but 90% exceeds the usual approximate teaching value of 70–80%."
+      },
       "topicId": "cardiac-cycle",
       "subtopic": "Cardiac cycle",
       "difficulty": "medium"
@@ -350,7 +404,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "With all valves shut the ventricle builds pressure without ejecting blood - isovolumetric contraction.",
+      "why": "During isovolumetric contraction, ventricular pressure rises after atrioventricular valve closure but before semilunar valve opening. With no inlet or outlet open, ventricular volume remains constant at end-diastolic volume.",
+      "notes": {
+        "B": "Rapid ejection begins when ventricular pressure exceeds arterial pressure and opens the semilunar valves, allowing ventricular volume to fall.",
+        "C": "Isovolumetric relaxation also occurs with all valves closed, but ventricular pressure falls rather than rising as the myocardium relaxes.",
+        "D": "Rapid filling follows atrioventricular valve opening and increases ventricular volume as blood enters from the atria.",
+        "E": "Atrial systole increases ventricular filling through open atrioventricular valves, rather than raising ventricular pressure at constant volume."
+      },
       "topicId": "cardiac-cycle",
       "subtopic": "Cardiac cycle",
       "difficulty": "medium"
@@ -382,7 +442,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The aortic valve opens once LV pressure exceeds aortic diastolic pressure (~80 mmHg).",
+      "why": "The aortic valve opens when left ventricular pressure exceeds the pressure in the aortic root, which at end-diastole is approximately 80 mmHg in a normotensive adult.",
+      "notes": {
+        "A": "Around 25 mmHg is closer to normal peak right ventricular systolic pressure, far below the usual aortic opening pressure.",
+        "C": "Around 10 mmHg may approximate left ventricular end-diastolic pressure but is insufficient to overcome normal aortic diastolic pressure.",
+        "D": "About 120 mmHg is typical peak left ventricular systolic pressure reached during ejection, after the aortic valve has opened.",
+        "E": "A pressure of 40 mmHg remains below typical aortic diastolic pressure, so the valve would normally remain closed."
+      },
       "topicId": "cardiac-cycle",
       "subtopic": "Cardiac cycle",
       "difficulty": "medium"
@@ -414,7 +480,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "A full ventricle holds about 130 ml at end-diastole.",
+      "why": "End-diastolic volume is the amount of blood in a ventricle immediately before systole, after passive filling and atrial contraction. A typical teaching value is about 120–130 mL.",
+      "notes": {
+        "A": "A volume of 200 mL exceeds the usual resting end-diastolic volume and may occur with marked ventricular dilatation or increased filling.",
+        "B": "A volume of 90 mL is lower than the standard resting end-diastolic teaching value and closer to a large resting stroke volume.",
+        "D": "Approximately 70 mL is a typical resting stroke volume, the amount expelled rather than the total volume before contraction.",
+        "E": "Approximately 50 mL is a typical end-systolic residual volume left in the ventricle after ejection, not the filled volume."
+      },
       "topicId": "cardiac-cycle",
       "subtopic": "Cardiac cycle",
       "difficulty": "medium"
@@ -446,7 +518,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Stroke volume is roughly 70-90 ml at rest.",
+      "why": "Stroke volume equals end-diastolic volume minus end-systolic volume. A ventricle containing about 130 mL before contraction and 50 mL afterwards ejects approximately 80 mL per beat.",
+      "notes": {
+        "A": "A volume of 130–150 mL is closer to normal end-diastolic volume, not the amount normally ejected at rest.",
+        "B": "A volume of 40–50 mL is closer to a typical end-systolic volume and would represent a relatively low resting stroke volume.",
+        "C": "A stroke volume of 100–120 mL can occur with increased filling or exercise but exceeds the usual resting teaching range.",
+        "E": "A stroke volume of 10–20 mL would be markedly reduced for an adult and is not typical of normal resting cardiac function."
+      },
       "topicId": "cardiac-cycle",
       "subtopic": "Cardiac cycle",
       "difficulty": "easy"
@@ -478,7 +556,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Ejection fraction (SV/EDV) is normally about 65%.",
+      "why": "Ejection fraction is stroke volume divided by end-diastolic volume, expressed as a percentage. A ventricle ejecting around 80 mL from 125 mL has an ejection fraction of approximately 64%.",
+      "notes": {
+        "A": "An ejection fraction of 100% would require complete ventricular emptying, whereas a normal ventricle retains blood after systole.",
+        "B": "An ejection fraction around 40% indicates reduced left ventricular systolic function rather than normal resting emptying.",
+        "C": "An ejection fraction of 85% exceeds the usual normal resting range and may reflect a small hyperdynamic ventricle.",
+        "D": "An ejection fraction of 25% indicates severely reduced systolic emptying, not the normal proportion of end-diastolic blood ejected."
+      },
       "topicId": "cardiac-cycle",
       "subtopic": "Cardiac cycle",
       "difficulty": "medium"
@@ -510,7 +594,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Protodiastole is the short fall in ventricular pressure ending as the aortic and pulmonary valves close.",
+      "why": "Protodiastole is the brief transitional period at the end of ventricular ejection when ventricular pressure falls and forward flow decelerates. Semilunar valve closure marks its end.",
+      "notes": {
+        "B": "Isovolumetric relaxation begins after semilunar valve closure, so it follows rather than describes the protodiastolic interval.",
+        "C": "Rapid ejection occurs earlier in systole, when ventricular contraction drives brisk blood flow through open semilunar valves.",
+        "D": "Reduced filling occurs later in diastole, after atrioventricular valves open and the initial rapid filling phase slows.",
+        "E": "Atrial systole occurs near the end of ventricular diastole and augments filling before the next ventricular contraction."
+      },
       "topicId": "cardiac-cycle",
       "subtopic": "Cardiac cycle",
       "difficulty": "hard"
@@ -542,7 +632,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Starling's law: energy of contraction is proportional to the initial (end-diastolic) fibre length.",
+      "why": "The Frank–Starling mechanism increases the force developed by cardiac muscle when its initial fibre length increases within the physiological range. Greater filling therefore normally increases stroke volume without increased intrinsic contractility.",
+      "notes": {
+        "A": "Ventricular wall thickness influences wall stress and pressure-generating capacity, but it is not the length-dependent variable in the Frank–Starling relationship.",
+        "C": "Afterload opposes ventricular ejection and can alter stroke volume, but the Frank–Starling law specifically concerns initial myocardial fibre length.",
+        "D": "Heart rate affects filling time and cardiac output; the Frank–Starling mechanism links contraction strength to initial stretch rather than pacing rate.",
+        "E": "Adrenaline increases contractility at a given fibre length through adrenergic signalling, which is distinct from length-dependent Frank–Starling regulation."
+      },
       "topicId": "cardiac-muscle",
       "subtopic": "Frank-Starling",
       "difficulty": "medium"
@@ -574,7 +670,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Preload is the stretch of the myocardium before it contracts (related to end-diastolic volume).",
+      "why": "Preload describes myocardial fibre stretch immediately before contraction, commonly approximated clinically by ventricular end-diastolic volume or pressure. Increased preload normally increases contraction force through the Frank–Starling mechanism.",
+      "notes": {
+        "A": "The rate of ventricular relaxation is a lusitropic property that influences filling but does not itself define the initial fibre stretch.",
+        "B": "The volume ejected per beat is stroke volume, which is an outcome affected by preload, afterload and contractility.",
+        "D": "Resistance opposing ventricular ejection describes afterload, a mechanical load during contraction rather than stretch before contraction.",
+        "E": "The force developed during contraction depends partly on preload and intrinsic contractility, but preload refers to the preceding stretch."
+      },
       "topicId": "cardiac-muscle",
       "subtopic": "Frank-Starling",
       "difficulty": "medium"
@@ -606,7 +708,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Afterload is the resistance (largely aortic pressure/peripheral resistance) the ventricle works against.",
+      "why": "Left ventricular afterload is the load opposing myocardial shortening during ejection. It depends largely on aortic pressure and ventricular wall stress, with arterial resistance and compliance influencing that pressure.",
+      "notes": {
+        "A": "Venous return supplies ventricular filling and therefore influences preload, rather than directly defining the load opposing left ventricular ejection.",
+        "B": "The intrinsic pacemaker rate determines the frequency of spontaneous cardiac excitation, not the mechanical load against which the ventricle contracts.",
+        "C": "End-diastolic muscle fibre length represents initial myocardial stretch and is related to preload rather than afterload.",
+        "E": "Diastolic stretch describes preload established before ventricular contraction, not the arterial load opposing blood ejection."
+      },
       "topicId": "cardiac-muscle",
       "subtopic": "Frank-Starling",
       "difficulty": "medium"
@@ -638,7 +746,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Length-dependent (Starling) regulation is heterometric; contractility changes at constant length are homometric.",
+      "why": "Heterometric regulation adjusts contraction force through changes in initial myocardial fibre length, as in the Frank–Starling mechanism. Homometric regulation changes contractility without requiring an increase in fibre length.",
+      "notes": {
+        "A": "Homometric regulation changes force at a given initial fibre length, rather than using altered filling and fibre stretch.",
+        "B": "Chronotropic regulation alters heart rate and can influence cardiac output, but does not specifically describe length-dependent changes in force.",
+        "C": "Autoregulation is a broader term for intrinsic regulation and does not identify the specific length-dependent mechanism requested.",
+        "D": "Neural regulation uses autonomic input to alter cardiac performance, whereas heterometric regulation is an intrinsic response to initial fibre stretch."
+      },
       "topicId": "cardiac-muscle",
       "subtopic": "Frank-Starling",
       "difficulty": "hard"
@@ -670,7 +784,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "An inotropic effect changes contractile strength; a chronotropic effect changes rate.",
+      "why": "An inotropic effect changes intrinsic myocardial contractility at a given initial fibre length and loading condition. Positive inotropy increases force development, as occurs with sympathetic stimulation.",
+      "notes": {
+        "B": "A chronotropic effect changes the rate of cardiac impulse generation rather than directly describing myocardial contractile strength.",
+        "C": "A dromotropic effect changes conduction velocity, especially through the atrioventricular node, rather than the force of contraction.",
+        "D": "A bathmotropic effect changes myocardial excitability or the ease with which an action potential is triggered, not intrinsic contractile strength.",
+        "E": "A lusitropic effect changes myocardial relaxation, influencing diastolic filling rather than defining systolic contractile force."
+      },
       "topicId": "cardiac-muscle",
       "subtopic": "Contractility",
       "difficulty": "medium"
@@ -702,7 +822,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Adrenaline/noradrenaline act via beta-1 receptors and adenylyl cyclase to raise cAMP and contractility.",
+      "why": "Cardiac beta-1 adrenergic receptors activate Gs proteins, adenylyl cyclase and the cAMP–protein kinase A pathway. Increased calcium entry and sarcoplasmic reticulum calcium release strengthen contraction.",
+      "notes": {
+        "A": "Nicotinic receptors mediate cholinergic transmission in autonomic ganglia but are not the main myocardial receptors for catecholamine-induced inotropy.",
+        "C": "Alpha-1 receptors mainly mediate vascular smooth muscle contraction, although cardiac alpha-1 signalling can contribute to inotropy in some circumstances.",
+        "D": "Cardiac muscarinic M2 receptors mediate parasympathetic signalling and tend to reduce cAMP and nodal activity rather than mediate sympathetic positive inotropy.",
+        "E": "Beta-2 receptors can contribute to cardiac responses and mediate smooth muscle relaxation, but beta-1 receptors predominate in the normal myocardial response."
+      },
       "topicId": "cardiac-muscle",
       "subtopic": "Contractility",
       "difficulty": "medium"
@@ -734,7 +860,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Xanthines inhibit phosphodiesterase, so cAMP accumulates and the positive inotropic effect is sustained.",
+      "why": "Methylxanthines such as theophylline can inhibit phosphodiesterases, decreasing cAMP breakdown and enhancing calcium-dependent contractility. Adenosine receptor antagonism also contributes to methylxanthine cardiac effects, particularly at lower concentrations.",
+      "notes": {
+        "A": "Reducing calcium entry generally weakens cardiac contraction because less trigger calcium is available for sarcoplasmic reticulum calcium release.",
+        "B": "Depleting catecholamines would reduce adrenergic stimulation rather than explain the positive inotropic effect of methylxanthines.",
+        "D": "Blocking beta-1 receptors reduces adrenergic cAMP production and generally decreases contractility rather than producing the stated positive inotropic response.",
+        "E": "Vagal stimulation predominantly slows nodal activity and can reduce atrial contractility, rather than explaining methylxanthine-induced increases in contraction force."
+      },
       "topicId": "cardiac-muscle",
       "subtopic": "Contractility",
       "difficulty": "hard"
@@ -766,7 +898,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The long refractory period of the cardiac action potential prevents summation and tetany.",
+      "why": "The prolonged cardiac action potential, particularly its calcium-dependent plateau, produces a refractory period that overlaps most of the contraction. A second effective excitation cannot arrive early enough for sustained tetanic summation.",
+      "notes": {
+        "A": "Cardiac muscle receives autonomic innervation, although its intrinsic pacemaker activity does not depend on nerves; innervation does not explain the absence of tetany.",
+        "B": "Abundant mitochondria provide ATP for continuous aerobic cardiac work, but do not determine the electrical refractory period preventing tetanic summation.",
+        "C": "Calcium entry during the plateau contributes to contraction and action potential duration, but a continuous pathological calcium leak is not the normal anti-tetany mechanism.",
+        "E": "Cardiomyocytes are relatively small branched cells, but cell size does not prevent repeated excitation during a prolonged refractory period."
+      },
       "topicId": "cardiac-muscle",
       "subtopic": "Cardiac muscle",
       "difficulty": "medium"
@@ -798,7 +936,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The P wave is the spread of depolarisation through the atria from the SA node.",
+      "why": "The P wave records the summed electrical activity of atrial depolarisation as excitation spreads from the sinoatrial region through both atria. Atrial mechanical contraction follows this electrical event.",
+      "notes": {
+        "A": "Ventricular depolarisation generates the QRS complex because the large ventricular muscle mass produces a prominent electrical deflection.",
+        "B": "Ventricular repolarisation generates the T wave, which occurs after ventricular depolarisation rather than before ventricular activation.",
+        "C": "Atrial repolarisation usually overlaps the QRS complex and is obscured by the much larger ventricular electrical signal.",
+        "D": "The ventricular action potential plateau corresponds broadly to the ST segment, when most ventricular muscle remains depolarised."
+      },
       "topicId": "ecg",
       "subtopic": "ECG waves",
       "difficulty": "easy"
@@ -830,7 +974,13 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The QRS complex reflects ventricular depolarisation.",
+      "why": "The QRS complex represents the spread of depolarisation through the ventricles via the His–Purkinje system and ventricular myocardium. Its electrical activation precedes the development of ventricular contraction.",
+      "notes": {
+        "B": "Atrial depolarisation produces the P wave before ventricular activation, rather than the larger QRS deflection.",
+        "C": "Ventricular repolarisation produces the T wave as ventricular muscle returns towards its resting electrical state.",
+        "D": "Atrial repolarisation is usually concealed within the QRS complex but is not the principal electrical event generating that complex.",
+        "E": "Atrioventricular nodal delay contributes to the PR interval and segment before ventricular depolarisation begins."
+      },
       "topicId": "ecg",
       "subtopic": "ECG waves",
       "difficulty": "easy"
@@ -862,7 +1012,13 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The PR interval (atrial depolarisation to onset of ventricular depolarisation) is 0.12-0.20 s.",
+      "why": "The PR interval extends from the onset of the P wave to the onset of the QRS complex. Normally 0.12–0.20 seconds, it includes atrial conduction and atrioventricular conduction delay.",
+      "notes": {
+        "A": "A PR interval of 0.40–0.60 seconds would be markedly prolonged and could indicate severe atrioventricular conduction delay.",
+        "C": "A PR interval of 0.06–0.10 seconds is abnormally short for an adult and may suggest pre-excitation or an abnormal atrial origin.",
+        "D": "Values above 0.20 seconds represent prolonged atrioventricular conduction; the proposed range extends well beyond the normal upper limit.",
+        "E": "An interval of 0.02–0.08 seconds is too short to account for normal atrial activation and atrioventricular conduction delay."
+      },
       "topicId": "ecg",
       "subtopic": "ECG waves",
       "difficulty": "medium"
@@ -894,7 +1050,13 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The T wave is ventricular repolarisation and is longer than depolarisation.",
+      "why": "The T wave reflects ventricular repolarisation, as ventricular myocytes restore their resting membrane potential after the action potential plateau. Its direction depends on the sequence of repolarisation.",
+      "notes": {
+        "A": "Atrial depolarisation produces the P wave before the QRS complex, not the later T wave.",
+        "B": "Atrioventricular conduction is reflected mainly in the PR interval between atrial and ventricular activation, not the T wave.",
+        "D": "Ventricular depolarisation produces the QRS complex, preceding the ST segment and subsequent ventricular repolarisation.",
+        "E": "Atrial repolarisation is usually hidden by the QRS complex and does not generate the normal T wave."
+      },
       "topicId": "ecg",
       "subtopic": "ECG waves",
       "difficulty": "easy"
@@ -926,7 +1088,13 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The ST segment shifts with ventricular ischaemia or hypoxia.",
+      "why": "Myocardial ischaemia alters ventricular action potentials and creates regional electrical potential differences that may shift the ST segment. ST elevation or depression can support an ischaemic diagnosis when interpreted with symptoms and other ECG findings.",
+      "notes": {
+        "A": "First-degree atrioventricular block is identified by a prolonged PR interval, not primarily by ST-segment displacement.",
+        "B": "Bundle branch block primarily widens and changes QRS morphology; secondary ST-T changes may occur but are not its defining finding.",
+        "C": "Sinus arrhythmia changes successive RR intervals with preserved sinus activation rather than primarily shifting the ST segment.",
+        "E": "Atrial enlargement alters P-wave amplitude or duration, whereas ischaemic ST changes reflect altered ventricular electrical behaviour."
+      },
       "topicId": "ecg",
       "subtopic": "ECG waves",
       "difficulty": "medium"
@@ -958,7 +1126,13 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "At 25 mm/s each 1 mm square is 0.04 s; a large (5 mm) square is 0.2 s.",
+      "why": "At the standard ECG recording speed of 25 mm per second, each 1 mm horizontal division represents 1/25 second, or 0.04 seconds. Five small squares equal 0.20 seconds.",
+      "notes": {
+        "A": "At 25 mm per second, 0.10 seconds spans 2.5 small horizontal squares rather than a single division.",
+        "B": "A duration of 0.20 seconds corresponds to one large 5 mm square at standard recording speed, not one small square.",
+        "C": "A single small square represents 0.02 seconds at 50 mm per second, not at the specified standard speed.",
+        "D": "A duration of 0.01 seconds would require 100 mm per second for each millimetre, rather than standard ECG paper speed."
+      },
       "topicId": "ecg",
       "subtopic": "ECG calibration",
       "difficulty": "medium"
