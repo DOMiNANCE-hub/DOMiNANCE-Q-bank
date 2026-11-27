@@ -196,5 +196,158 @@
       "D": "Binocular viewing usually provides comparable or somewhat better acuity than monocular viewing when both eyes function well.",
       "E": "Common red–green colour vision deficiency can occur with otherwise normal spatial acuity."
     }
+  },
+  "phy-senses-523": {
+    "why": "Age-related stiffening of the lens reduces its ability to increase curvature during near accommodation. The maximum extra refractive power therefore falls, even when distance refraction has changed little.",
+    "notes": {
+      "A": "The cornea provides most of the eye's resting refractive power. The lens provides the major adjustable component.",
+      "B": "The largest refractive index change is at the outer air–cornea surface. The back surface contributes much less net refraction.",
+      "C": "Accommodation can add several dioptres in a young eye. It does not ordinarily double the total power of the cornea and lens.",
+      "D": "The anterior lens surface changes curvature more markedly during ordinary accommodation than the posterior surface."
+    }
+  },
+  "phy-senses-525": {
+    "why": "The pupillary light reflex depends on an intact retina and optic nerve, midbrain connections, and parasympathetic output to the iris sphincter. Local atropine blocks the muscarinic response in the treated eye. Brainstem death abolishes the reflex.",
+    "notes": {
+      "A": "Cutting the illuminated eye's optic nerve interrupts its afferent response. Its pupil can still constrict consensually if the intact opposite eye is illuminated.",
+      "B": "Sympathetic activity acts chiefly on the pupillary dilator. Constriction to light is mediated by parasympathetic nerves.",
+      "D": "In the normal light reflex, the illuminated pupil and the opposite pupil both constrict because the midbrain pathway projects bilaterally.",
+      "E": "Brainstem death abolishes this brainstem reflex. The pupils do not constrict in response to light."
+    }
+  },
+  "phy-senses-526": {
+    "why": "The cornea and lens produce a retinal image inverted vertically and reversed horizontally. An object in the right visual field is therefore projected to the left of each fovea, on nasal retina in the right eye and temporal retina in the left.",
+    "notes": {
+      "A": "In the right eye the image falls on the nasal side of the fovea, which is to its left in visual coordinates.",
+      "B": "In the left eye, a right-field image is formed on temporal hemiretina, physically to the left of that eye’s fovea.",
+      "C": "Conscious visual perception depends on occipital visual cortex and associated areas. Frontal eye fields chiefly help direct gaze.",
+      "D": "The optical system produces an inverted and horizontally reversed retinal image."
+    }
+  },
+  "phy-senses-528": {
+    "why": "Rods are spread widely across the retina and are especially numerous outside the central fovea. The foveal centre contains densely packed cones and no rods, making rods particularly important for dim peripheral vision.",
+    "notes": {
+      "A": "Rhodopsin is most sensitive near the blue–green region and has relatively low sensitivity to long red wavelengths.",
+      "B": "Bright daylight can saturate rods and bleach their pigment. Rod sensitivity recovers during dark adaptation.",
+      "D": "Rod sensitivity reflects light absorption by rhodopsin. Preferential reflection is not the mechanism of phototransduction.",
+      "E": "The foveal centre contains cones and no rods. The proportion of rods increases away from the centre."
+    }
+  },
+  "phy-senses-533": {
+    "why": "Rhodopsin is the rod pigment formed by opsin and 11-cis retinal. After bleaching by light it regenerates during dark adaptation. It absorbs blue–green light most strongly and is relatively insensitive to long red wavelengths.",
+    "notes": {
+      "A": "Rhodopsin is traditionally called visual purple because of its appearance, not a yellow visual pigment.",
+      "B": "Long red wavelengths are relatively inefficient at activating rhodopsin compared with blue–green wavelengths.",
+      "C": "Rod pigment has its main sensitivity peak near 500 nm, in the blue–green region rather than violet.",
+      "E": "Darkness allows rhodopsin regeneration after bleaching, and blue–green light can be absorbed effectively."
+    }
+  },
+  "phy-senses-534": {
+    "why": "The optics of the eye invert the image vertically and horizontally. A target in the upper temporal visual field of the left eye therefore projects to its lower nasal retina.",
+    "notes": {
+      "B": "The centre of the visual field is normally projected onto the fovea, where acuity is best. The optic disc has no photoreceptors.",
+      "C": "The optic disc lies nasal to the fovea and produces a blind spot in the temporal visual field.",
+      "D": "Fibres from left nasal retina cross at the chiasm. Left temporal-field information is therefore carried in the right optic tract.",
+      "E": "The far temporal crescent can be monocular because of the nose and orbital geometry. The nasal field usually overlaps with the other eye over a wide range."
+    }
+  },
+  "phy-senses-536": {
+    "why": "Axial myopia commonly results from an eye that is too long for its refractive power. Parallel rays from a distant object then come to a focus in front of the retina when accommodation is relaxed.",
+    "notes": {
+      "B": "A concave diverging lens shifts the focus of distant rays backward toward the retina.",
+      "C": "Distance vision is usually blurred more than near vision in uncorrected myopia.",
+      "D": "An uncorrected myopic eye commonly has a closer far point. The near point also depends on the available accommodative amplitude.",
+      "E": "An oval or directionally distorted image is more suggestive of unequal meridional focus, as in astigmatism, than simple myopia."
+    }
+  },
+  "phy-senses-537": {
+    "why": "Common red–green colour vision deficiencies arise from absent or altered long- or medium-wavelength cone pigments. They reduce the ability to distinguish hues that normally produce different signals in the two cone classes.",
+    "notes": {
+      "A": "The three cone classes are most sensitive to long, medium or short wavelengths. There is no separate cone class with a specific yellow pigment.",
+      "C": "Complete absence of normal colour discrimination is uncommon. Red–green deficiencies are much more frequent.",
+      "D": "Common inherited red–green deficiencies are more frequent in males because the relevant opsin genes are X-linked.",
+      "E": "The principal long- and medium-wavelength opsin genes are on the X chromosome, rather than the Y chromosome."
+    }
+  },
+  "phy-senses-541": {
+    "why": "The left optic tract carries signals from the right visual field of both eyes. It contains crossed right nasal retinal fibres and uncrossed left temporal retinal fibres. A complete left tract lesion therefore causes right homonymous hemianopia.",
+    "notes": {
+      "B": "A central chiasmal lesion damages crossing nasal retinal fibres and usually causes bitemporal, rather than binasal, field loss.",
+      "C": "Left optic radiations carry right visual-field information. The pattern depends on whether the lesion affects the full tract or only part of it.",
+      "D": "Pupillary light reflex fibres branch to the pretectal region before the visual cortex, so an isolated occipital lesion can spare the light reflex.",
+      "E": "An occipital lesion often causes a contralateral field defect. Some lesions preserve central vision instead of selectively removing it."
+    }
+  },
+  "phy-senses-544": {
+    "why": "Severe vitamin A deficiency can cause xerophthalmia and corneal surface damage. A rough or opaque cornea scatters light and reduces acuity even in bright illumination, when vision normally depends largely on cones.",
+    "notes": {
+      "A": "Iris and choroidal pigment generally reduce stray light. Dense pigmentation does not normally generate the corneal scatter described.",
+      "B": "Astigmatism causes unequal focusing in different meridians. The blur does not chiefly arise from randomly scattered light.",
+      "D": "Rod dysfunction in vitamin A deficiency causes night blindness. It does not explain the bright-light acuity loss as well as corneal damage.",
+      "E": "Cataract decreases acuity mainly through lens opacity and light scatter. Loss of accommodation primarily affects near focusing."
+    }
+  },
+  "phy-senses-545": {
+    "why": "In hypermetropia, the eye's refractive power is insufficient relative to its length when accommodation is relaxed. An eye with enough ciliary reserve can increase lens curvature to bring targets into focus, so it may accommodate even for intermediate or distant vision.",
+    "notes": {
+      "A": "A hypermetropic eye with relaxed accommodation focuses parallel rays behind the retina, but a young person may compensate by accommodating.",
+      "B": "With inadequate accommodation, rays from a near object are focused behind the retina rather than in front of it.",
+      "D": "Hypermetropia can use up part of the accommodative reserve even for distance and may move the near point farther away.",
+      "E": "A convex converging lens supplies extra positive power. A concave lens would increase the focusing problem."
+    }
+  },
+  "phy-senses-508": {
+    "why": "Movement of the stapes at the oval window creates pressure waves in cochlear fluid. Differences in fluid pressure move the cochlear partition, and hair cells later convert this mechanical input to electrical signalling.",
+    "notes": {
+      "A": "Auditory fibres carry neural signals after transduction. Mechanical vibration travels through cochlear fluid before that step.",
+      "B": "Sound reaches the outer and middle ear through air, but the cochlear spaces are filled with liquid.",
+      "D": "Bone can conduct sound to the cochlea by an alternative route. The main movement inside the cochlea is transmitted through fluid.",
+      "E": "Cartilage contributes to structures of the external ear. It is not the principal medium inside the cochlea."
+    }
+  },
+  "phy-senses-509": {
+    "why": "Balance depends on integrated visual, vestibular and proprioceptive input. The semicircular canals detect angular acceleration, the saccule senses linear acceleration and position relative to gravity, and proprioceptors indicate body and limb position.",
+    "notes": {
+      "A": "Visual information helps determine body motion and orientation relative to the surroundings.",
+      "B": "Rotations are detected by the semicircular canals through movement of endolymph and displacement of the cupula.",
+      "C": "The saccule is an otolith organ that responds to linear acceleration and gravitational forces, particularly in a roughly vertical plane.",
+      "D": "Muscle and joint proprioceptors provide information about limb position, movement and contact with the support surface."
+    }
+  },
+  "phy-senses-514": {
+    "why": "A pure tone drives basilar membrane motion at the frequency of that tone. The point of greatest displacement varies with frequency, with higher frequencies peaking near the base and lower frequencies closer to the apex.",
+    "notes": {
+      "B": "A higher frequency moves the peak toward the base. The size of the displacement is also influenced by sound level and cochlear mechanics.",
+      "C": "Increasing sound level generally increases displacement, with nonlinear compression over parts of the range. The relationship is not inverse.",
+      "D": "High-frequency waves peak nearer the base and decay before reaching much of the apical cochlea. Low-frequency waves travel farther apically.",
+      "E": "Speech contains a wide range of frequencies, which excite different regions of the cochlea rather than mainly the extreme base."
+    }
+  },
+  "phy-senses-522": {
+    "why": "The tympanic membrane follows the pattern of pressure changes in incoming sound. Damping in the membrane and middle-ear system causes the resulting vibration to decay rapidly when the stimulus stops.",
+    "notes": {
+      "A": "The membrane and ossicles transmit the frequency components of sound. Their efficiency varies with frequency, but they do not normally change those frequencies.",
+      "C": "Eustachian tube obstruction commonly lowers middle-ear pressure as gas is absorbed. Higher external pressure then tends to retract the membrane inward.",
+      "D": "Contraction of middle-ear muscles generally stiffens the transmission system and attenuates some sound, especially at lower frequencies.",
+      "E": "Any residual ringing is brief because the system is damped. A sustained vibration after sound stops is not expected."
+    }
+  },
+  "phy-senses-524": {
+    "why": "When the head starts rotating, inertia causes endolymph to move relative to the canal wall. The resulting cupula displacement bends hair-cell stereocilia and changes vestibular nerve activity.",
+    "notes": {
+      "A": "The fluid inside the membranous semicircular ducts is endolymph, which acts on the cupula.",
+      "B": "Linear acceleration is detected principally by the utricle and saccule, rather than by the semicircular canals.",
+      "C": "At constant rotational velocity, endolymph eventually moves with the canal and cupula deflection subsides. The initial change in rotation is the effective stimulus.",
+      "D": "Gravity acts on the otolith membranes of the utricle and saccule. Semicircular canals normally detect angular acceleration."
+    }
+  },
+  "phy-senses-531": {
+    "why": "Sound pressure level is usually expressed in decibels on a logarithmic scale. An increase in decibels corresponds to a multiplicative change in sound pressure or intensity rather than a linear one.",
+    "notes": {
+      "B": "A level of 60 decibels is commonly comparable to ordinary conversation and is clearly audible to most people with normal hearing.",
+      "C": "Sound near 140 decibels can cause severe hearing injury and may reach or exceed the pain threshold.",
+      "D": "A 90-decibel sound can be hazardous with prolonged exposure, but it is usually below the threshold of pain.",
+      "E": "An octave is a twofold increase in frequency. An eightfold increase corresponds to three octaves."
+    }
   }
 }
