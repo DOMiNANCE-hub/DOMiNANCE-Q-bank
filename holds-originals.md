@@ -95,3 +95,57 @@
 - Key: D — chloride into the lumen via the CFTR channel.
 - Concern: Net chloride secretion depends indirectly on active transport, but chloride crosses the apical CFTR channel passively down its electrochemical gradient. Basolateral NKCC1 uses the sodium gradient maintained by Na+/K+-ATPase to accumulate intracellular chloride. The wording implies active transport through CFTR itself. Recommend distinguishing secondary active chloride accumulation from passive apical efflux. Original explanation and key untouched.
 - Reference: standard epithelial ion transport physiology (Ganong/Guyton & Hall; exact edition/page not independently checked).
+
+## dq-phys-renal-020 — Postvoid residual volume
+- Stem: After normal voiding, the adult bladder typically retains a residual volume of about
+- Key: E — 50 ml.
+- Concern: Normal residual volume is usually small and varies with age and measurement. Both 5 mL and 50 mL can occur normally; 50 mL is often used as an upper reference rather than a universal typical residual. Confirm lecture convention. Original explanation and key untouched.
+- Reference: Standard clinical bladder physiology and postvoid residual assessment. (exact edition/page not independently checked).
+
+## dq-phys-renal-022 — Glomerular charge selectivity
+- Stem: The negative charge carried by all three layers of the filtration barrier mainly acts to
+- Key: B — retard the filtration of anionic molecules.
+- Concern: Classical charge-selectivity teaching attributes albumin restriction to negative charges throughout the barrier, but the relative contribution of charge, especially basement-membrane charge, is debated. The stem generalises the mechanism across all three layers. Confirm intended textbook model. Original explanation and key untouched.
+- Reference: Guyton & Hall, glomerular filtration; modern glomerular barrier physiology. (exact edition/page not independently checked).
+
+## dq-phys-renal-024 — Glomerular hydrostatic pressure
+- Stem: The unusually high glomerular capillary hydrostatic pressure (about 55 mmHg) results from
+- Key: D — the efferent arteriole being narrower than the afferent.
+- Concern: High glomerular pressure depends on the balance of preglomerular and postglomerular resistance, not an invariant anatomical diameter relation alone. Efferent resistance is important but the wording overstates a fixed diameter explanation. Confirm course convention. Original explanation and key untouched.
+- Reference: Guyton & Hall, glomerular haemodynamics. (exact edition/page not independently checked).
+
+## dq-phys-renal-041 — Descending limb permeability
+- Stem: The descending limb of the loop of Henle is characterised by being
+- Key: A — permeable to water but not to solute.
+- Concern: Thin descending limbs vary along their length and by nephron type; some show appreciable urea and other solute permeability and terminal segments may lack AQP1. The absolute absence of solute permeability is inaccurate. Qualify the classical model. Original explanation and key untouched.
+- Reference: Boron & Boulpaep, renal concentrating mechanism. (exact edition/page not independently checked).
+
+## dq-phys-renal-043 — Loop-tip osmolality
+- Stem: At the bend of the loop of Henle in a juxtamedullary nephron, the tubular fluid reaches an osmolality of about
+- Key: C — 1200 mOsm.
+- Concern: Approximately 1200 mOsm/kg is a possible deep medullary value during maximal antidiuresis, not a fixed normal loop-tip value. Hydration, ADH and loop length change this value. Confirm whether maximal concentration was intended. Original explanation and key untouched.
+- Reference: Guyton & Hall, urinary concentration and dilution. (exact edition/page not independently checked).
+
+## dq-phys-renal-059 — Bicarbonate reclamation versus hydrogen excretion
+- Stem: A convenient physiological way to view acid-base handling is that reabsorbing a bicarbonate ion is equivalent to
+- Key: D — losing a hydrogen ion.
+- Concern: Reclaiming filtered bicarbonate prevents bicarbonate loss but does not itself produce net hydrogen excretion: the secreted proton is recycled. Generating new bicarbonate is coupled to net acid excretion. The equivalence is only an acid-base accounting shorthand and needs qualification. Original explanation and key untouched.
+- Reference: Standard renal acid–base physiology, Ganong/Guyton & Hall. (exact edition/page not independently checked).
+
+## dq-phys-renal-067 — Acute respiratory acidosis
+- Stem: In a patient with respiratory acidosis the typical arterial picture is
+- Key: B — pH below 7.35 with a raised PaCO2 and initially normal bicarbonate.
+- Concern: Acute respiratory acidosis already increases bicarbonate modestly through nonrenal buffering (about 1 mEq/L per 10 mmHg PaCO2 rise), and renal compensation increases it further. Initially normal bicarbonate is an oversimplification; closest option but requires qualification. Original explanation and key untouched.
+- Reference: Standard clinical acid–base physiology. (exact edition/page not independently checked).
+
+## dq-phys-renal-068 — Metabolic acidosis and PaCO2
+- Stem: Metabolic acidosis (for example from diabetic ketoacidosis) is characterised by
+- Key: C — a low bicarbonate with a normal PaCO2.
+- Concern: Low bicarbonate is the primary disturbance, but respiratory compensation typically lowers PaCO2 promptly. Normal PaCO2 is possible before compensation or with an additional respiratory disorder; not a general characteristic of established metabolic acidosis. Original explanation and key untouched.
+- Reference: Standard clinical acid–base physiology, expected respiratory compensation. (exact edition/page not independently checked).
+
+## dq-phys-renal-070 — Absolute pH limits of survival
+- Stem: The absolute blood pH limits compatible with life are approximately
+- Key: E — 7.0 to 7.8.
+- Concern: There are documented survivors outside this range; extreme acidemia or alkalemia carries serious risk, but no fixed universal absolute limits can be asserted. Confirm the intended historical teaching approximation and revise the absolute wording. Original explanation and key untouched.
+- Reference: Standard clinical acid–base physiology; exact source of quoted limits unverified. (exact edition/page not independently checked).
