@@ -682,5 +682,212 @@
       "D": "Oxygen content depends strongly on haemoglobin concentration and saturation. PO₂ chiefly determines the small dissolved fraction and helps set saturation.",
       "E": "Increased consumption can be met by increasing oxygen extraction as well as delivery, so delivery need not increase in exact proportion."
     }
+  },
+  "phy-resp-627": {
+    "why": "For the stated reversible reaction, adding bicarbonate shifts the equilibrium toward the left and consumes part of the added bicarbonate and available hydrogen ions. In the body, ventilation and other buffers also affect the resulting concentrations.",
+    "notes": {
+      "A": "Carbon monoxide is not a reactant or product in the bicarbonate buffer system.",
+      "B": "Adding a product shifts the reaction toward consumption of some of that product, rather than favouring its formation.",
+      "C": "The leftward reaction combines bicarbonate with hydrogen ions, which tends to decrease free hydrogen ions.",
+      "E": "The initial disturbance is addition of a product, so the expected equilibrium shift is leftward without a required preceding rightward shift."
+    }
+  },
+  "phy-resp-628": {
+    "why": "A typical textbook estimate for resting peripheral interstitial fluid is PCO₂ around 45–46 mm Hg and PO₂ around 40 mm Hg. Oxygen is consumed and carbon dioxide is produced, so the actual values vary with metabolism and perfusion.",
+    "notes": {
+      "A": "PCO₂ of 60 mm Hg exceeds the usual resting estimate and may occur with greater carbon dioxide accumulation.",
+      "B": "This pair gives an oxygen pressure higher than the common resting interstitial value and a carbon dioxide pressure closer to arterial blood.",
+      "D": "Both values are above the standard resting tissue estimates given for these gases.",
+      "E": "A PO₂ near 100 mm Hg is closer to normal systemic arterial blood than to resting peripheral interstitial fluid."
+    }
+  },
+  "phy-resp-630": {
+    "why": "Systemic tissues release carbon dioxide into blood. Some binds to amino groups on globin to form carbaminohaemoglobin, especially after oxygen unloads. Most tissue carbon dioxide is converted to bicarbonate.",
+    "notes": {
+      "A": "Haemoglobin tends to release oxygen in systemic capillaries because tissue PO₂ is lower than arterial PO₂.",
+      "C": "Breakdown of carbaminohaemoglobin is favoured in the lungs, where carbon dioxide is released and haemoglobin is oxygenated.",
+      "D": "Net carbon dioxide uptake in systemic capillaries favours bicarbonate formation. Conversion of bicarbonate back toward carbon dioxide is favoured in the lungs.",
+      "E": "Sodium and bicarbonate are present as dissociated ions. Their association is not the haemoglobin reaction involved in tissue carbon dioxide uptake."
+    }
+  },
+  "phy-resp-647": {
+    "why": "Metabolic activity produces carbon dioxide and can lower tissue pH. Higher PCO₂ and lower pH reduce haemoglobin affinity for oxygen, shifting the dissociation curve right and supporting oxygen unloading.",
+    "notes": {
+      "A": "Lower carbon dioxide generally increases haemoglobin oxygen affinity and favours loading.",
+      "B": "Lower pH favours unloading, but lower PCO₂ tends to increase affinity. The paired changes do not both support a right shift.",
+      "C": "Lower temperature generally increases haemoglobin oxygen affinity and shifts the curve to the left.",
+      "E": "Low carbon dioxide, high pH and cooling generally increase oxygen affinity rather than decreasing it."
+    }
+  },
+  "phy-resp-652": {
+    "why": "Oxygen and carbon dioxide diffuse between systemic capillary blood and cells down their separate partial-pressure gradients. Metabolism usually maintains lower cellular PO₂ and higher cellular PCO₂ than in incoming arterial blood.",
+    "notes": {
+      "A": "Osmosis is the movement of water. It does not describe the movement of respiratory gases.",
+      "C": "Filtration is bulk movement of fluid driven by pressure differences and is distinct from diffusion of dissolved gases.",
+      "D": "Respiratory gases can cross lipid membranes without needing transport through specialised aqueous pores.",
+      "E": "Reabsorption describes return of fluid or solutes to blood in another context. Gas transfer follows partial-pressure gradients."
+    }
+  },
+  "phy-resp-579": {
+    "why": "Peripheral chemoreceptors reside in the carotid bodies near the bifurcations of the common carotid arteries and in aortic bodies near the aortic arch. They sense arterial oxygen, carbon dioxide and pH.",
+    "notes": {
+      "A": "Central chemoreceptors in the ventrolateral medulla respond mainly to changes associated with carbon dioxide and brain extracellular pH.",
+      "B": "Dorsal medullary circuits receive and integrate afferents, but the primary peripheral sensors are outside the brainstem.",
+      "D": "Great-vein and atrial receptors chiefly signal filling or stretch. They are not the main arterial chemoreceptor sites.",
+      "E": "The hypothalamus participates in autonomic regulation. The peripheral respiratory chemoreceptors are associated with major arteries."
+    }
+  },
+  "phy-resp-581": {
+    "why": "Increased arterial carbon dioxide and decreased arterial oxygen stimulate ventilation. Carbon dioxide acts through central and peripheral chemoreceptors, while the response to low arterial oxygen relies mainly on the peripheral chemoreceptors.",
+    "notes": {
+      "A": "A fall in arterial carbon dioxide decreases the drive from carbon dioxide-sensitive chemoreceptors.",
+      "B": "Rising arterial oxygen reduces the hypoxic stimulus to peripheral chemoreceptors.",
+      "C": "Alkalaemia generally reduces the chemical drive to breathe, particularly when associated with low carbon dioxide.",
+      "D": "Both lower PCO₂ and higher PO₂ tend to reduce rather than increase the usual chemoreceptor drive."
+    }
+  },
+  "phy-resp-591": {
+    "why": "An arterial blood pH below 7.35 is called acidaemia. Acidosis is the physiological process that tends to lower pH and may be present even when a second process or compensation brings the measured pH near normal.",
+    "notes": {
+      "A": "A pH of 7.05 indicates marked acidaemia. It is well below the conventional lower limit of normal.",
+      "B": "A pH of 7.15 is already substantially below the threshold for arterial acidaemia.",
+      "C": "A pH of 7.25 indicates acidaemia. The normal adult arterial range begins around 7.35.",
+      "E": "A pH of 6.50 is profoundly abnormal and is not the boundary used to define acidaemia."
+    }
+  },
+  "phy-resp-593": {
+    "why": "Carotid and aortic bodies are peripheral chemoreceptors. Low arterial oxygen increases their afferent firing and drives ventilation, with the carotid bodies providing the main hypoxic ventilatory response in humans.",
+    "notes": {
+      "A": "Stretch-sensitive baroreceptors lie in the carotid sinus. The adjacent carotid body is a chemoreceptor organ.",
+      "B": "Carotid bodies have exceptionally high blood flow relative to their tissue mass, allowing rapid sampling of arterial blood.",
+      "C": "Higher arterial carbon dioxide stimulates, rather than inhibits, the peripheral chemoreceptor response.",
+      "D": "Rising arterial hydrogen ion concentration can increase chemoreceptor discharge and stimulate ventilation."
+    }
+  },
+  "phy-resp-595": {
+    "why": "A fall in arterial oxygen partial pressure stimulates peripheral chemoreceptors in the carotid and aortic bodies. The response becomes particularly strong when arterial PO₂ drops substantially below normal.",
+    "notes": {
+      "A": "Low PCO₂ usually decreases the chemical stimulus. An increased PCO₂ can stimulate the peripheral chemoreceptors.",
+      "B": "Higher pH decreases the hydrogen-ion stimulus to carotid body chemoreceptors.",
+      "C": "Higher arterial PO₂ decreases the hypoxic input from peripheral chemoreceptors.",
+      "E": "Plasma osmolality is primarily monitored by osmoregulatory circuits and is not the standard respiratory chemoreceptor stimulus."
+    }
+  },
+  "phy-resp-600": {
+    "why": "Elevated arterial carbon dioxide, sufficiently low arterial oxygen and increased hydrogen ion concentration can all stimulate ventilation. Carbon dioxide also acts centrally by lowering brain extracellular fluid pH, whereas the peripheral chemoreceptors sense arterial oxygen and pH directly.",
+    "notes": {
+      "A": "Low carbon dioxide reduces central chemical drive by decreasing the acidic stimulus in brain extracellular fluid.",
+      "B": "Higher oxygen decreases the hypoxic input from peripheral chemoreceptors.",
+      "C": "Alkalaemia generally decreases rather than increases the respiratory chemical stimulus.",
+      "D": "This collection contains changes that usually suppress chemical drive to breathe rather than reinforce it."
+    }
+  },
+  "phy-resp-604": {
+    "why": "Carbon dioxide crosses the blood–brain barrier and increases hydrogen ion concentration in brain extracellular fluid, activating central chemoreceptor pathways. Increased arterial carbon dioxide also stimulates peripheral chemoreceptors, so ventilation rises.",
+    "notes": {
+      "B": "Both central and peripheral input normally increase ventilation in response to rising arterial carbon dioxide.",
+      "C": "Blood pressure can respond through several competing mechanisms. A rise in ventilation is the characteristic direct homeostatic response.",
+      "D": "Acute carbon dioxide elevation generally dilates cerebral vessels and increases cerebral blood flow.",
+      "E": "Acute respiratory acidosis can slightly raise plasma bicarbonate through buffering. Sustained hypercapnia raises it further through renal compensation."
+    }
+  },
+  "phy-resp-633": {
+    "why": "Pontine respiratory circuits help terminate inspiration and shape inspiratory duration. Lung inflation can also activate a separate vagal feedback reflex from pulmonary stretch receptors, which limits further inflation.",
+    "notes": {
+      "B": "The traditional apneustic concept refers to sustained inspiratory drive. Pontine inspiratory off-switch functions are associated with other pontine circuits.",
+      "C": "Blood gases influence ventilation through chemoreceptors but are not a brain region that regulates inspiratory duration.",
+      "D": "The medulla generates and coordinates the respiratory rhythm. Pontine input helps shape how inspiration ends.",
+      "E": "Pulmonary stretch receptors detect inflation and signal through the vagus. They are peripheral sensors, not a brain region."
+    }
+  },
+  "phy-resp-636": {
+    "why": "Carbon dioxide provides the dominant minute-to-minute chemical drive to breathe under ordinary resting conditions. Increased arterial carbon dioxide acidifies brain extracellular fluid and stimulates ventilation through central and peripheral chemoreceptors.",
+    "notes": {
+      "A": "Oxygen is important during hypoxaemia, but normal resting ventilation is usually more sensitive to carbon dioxide changes.",
+      "B": "Hydrogen ions are key chemical stimuli, especially in brain extracellular fluid and arterial blood. They are not a respiratory gas.",
+      "D": "Nitrogen is the major component of inspired air but is not the principal chemical regulator of ventilation.",
+      "E": "Carbon monoxide impairs oxygen carriage when present. It does not normally maintain alveolar ventilation."
+    }
+  },
+  "phy-resp-642": {
+    "why": "Lower arterial PCO₂ and lower hydrogen ion concentration decrease chemical respiratory drive. Higher arterial PO₂ also reduces the peripheral hypoxic stimulus. Together these changes favour lower ventilation if other inputs are unchanged.",
+    "notes": {
+      "A": "These changes reduce the chemical drive to breathe rather than stimulating an increase in ventilation.",
+      "C": "The defining change in the stem is decreased PCO₂, which removes an important chemical stimulus for ventilation.",
+      "D": "The stem describes increased oxygen pressure. That change does not represent hypoxia.",
+      "E": "A fall in ventilation is a recognised response to reduced carbon dioxide and hydrogen ion stimulation."
+    }
+  },
+  "phy-resp-645": {
+    "why": "Complete airway obstruction prevents ventilation. Arterial carbon dioxide rises and acidifies brain extracellular fluid, stimulating central chemoreceptor pathways and increasing respiratory drive even though airflow cannot occur.",
+    "notes": {
+      "A": "Circulatory collapse can reduce blood pressure later, but increased chemoreceptor drive is the typical early response to rising carbon dioxide.",
+      "C": "Carbon dioxide accumulates when alveolar ventilation ceases, so arterial PCO₂ rises rather than falls.",
+      "D": "Rising carbon dioxide and falling oxygen usually increase respiratory muscle effort while the obstruction persists.",
+      "E": "Pupil size is not the principal physiological response described here. The immediate respiratory problem is loss of gas exchange."
+    }
+  },
+  "phy-resp-612": {
+    "why": "Muscle can briefly sustain work through phosphocreatine breakdown and anaerobic glycolysis before oxygen uptake meets demand. Recovery oxygen consumption is elevated partly to restore those energy stores, although several other factors also contribute.",
+    "notes": {
+      "A": "Total oxygen consumed during exercise is the oxygen used while working. The historical debt refers to oxygen use above baseline during recovery.",
+      "B": "An early oxygen deficit reflects the time needed for oxidative ATP production and delivery to rise. It is not generally due to the capillary wall alone.",
+      "D": "Blood lactate can rise during intense work. Its removal is one aspect of recovery and does not define the extra oxygen consumption.",
+      "E": "Intense exercise often produces a transient acid load. Metabolic alkalosis is not the mechanism behind elevated recovery oxygen use."
+    }
+  },
+  "phy-resp-619": {
+    "why": "At 30 metres in seawater, ambient absolute pressure is about four atmospheres. A diver breathing compressed air at that pressure has a higher inspired and alveolar nitrogen partial pressure than at the surface.",
+    "notes": {
+      "A": "Absolute pressure increases with depth because it includes atmospheric pressure plus the weight of the overlying water.",
+      "C": "Haemoglobin is already near full saturation at the surface. Higher PO₂ increases dissolved oxygen, but does not ordinarily quadruple total blood oxygen content.",
+      "D": "Alveolar water vapour pressure is determined primarily by body temperature, not multiplied fourfold by ambient pressure.",
+      "E": "Breathing dense gas can increase airway resistance and the work of breathing at depth."
+    }
+  },
+  "phy-resp-634": {
+    "why": "At elevated pressure, more nitrogen dissolves in tissues. If ambient pressure subsequently falls too quickly, nitrogen can come out of solution as bubbles, producing decompression sickness and pain in joints or muscles.",
+    "notes": {
+      "B": "Carbon dioxide is readily eliminated by ventilation. The characteristic bubbles after breathing compressed air chiefly contain inert gas such as nitrogen.",
+      "C": "Fatigue can cause discomfort, but it does not account for the characteristic pressure-related joint pain of decompression sickness.",
+      "D": "Higher pressure increases nitrogen loading. Symptoms develop when decompression permits bubbles to form.",
+      "E": "Oxygen is consumed by tissues and is not the usual inert gas causing bubbles after compressed-air exposure."
+    }
+  },
+  "phy-resp-638": {
+    "why": "At high altitude, barometric pressure falls and lowers inspired and alveolar oxygen partial pressure. Hypoxia stimulates ventilation, which lowers alveolar carbon dioxide partial pressure.",
+    "notes": {
+      "A": "Falling alveolar oxygen stimulates hyperventilation, so alveolar carbon dioxide usually decreases rather than rises.",
+      "C": "Lower barometric pressure lowers inspired oxygen pressure, so both partial pressures do not increase.",
+      "D": "The oxygen fraction of air is similar, but the lower ambient pressure reduces its partial pressure despite increased ventilation.",
+      "E": "Alveolar PO₂ decreases because of lower barometric pressure, and PCO₂ decreases because ventilation rises."
+    }
+  },
+  "phy-resp-640": {
+    "why": "Prolonged microgravity is associated with loss of muscle strength and bone mineral, and fluid shifts can reduce plasma volume. Spaceflight has also been associated with reduced red-cell mass and increased red-cell destruction rather than a typical increase in mass.",
+    "notes": {
+      "A": "Fluid redistribution and adaptation can reduce circulating plasma volume during spaceflight.",
+      "B": "Reduced mechanical loading can lead to muscle atrophy and loss of strength despite countermeasures.",
+      "D": "Loss of skeletal loading increases bone resorption, particularly in weight-bearing regions.",
+      "E": "Persistent bone mineral loss can reduce bone density and produce an osteoporosis-like change in affected sites."
+    }
+  },
+  "phy-resp-644": {
+    "why": "During sustained aerobic exercise at a similar fuel mixture, a doubling of metabolic rate is accompanied by an approximately proportional increase in oxygen consumption. The estimate can differ during transient anaerobic effort or with a major change in fuel use.",
+    "notes": {
+      "B": "By the Fick principle, oxygen uptake can rise through both higher cardiac output and greater tissue extraction. Cardiac output need not double.",
+      "C": "Stroke volume is only one component of cardiac output. Heart rate and oxygen extraction can also rise.",
+      "D": "Ventilation normally increases with carbon dioxide production and usually prevents a proportional rise in arterial PCO₂.",
+      "E": "Ventilation and perfusion both increase during exercise. Their ratio need not double."
+    }
+  },
+  "phy-resp-646": {
+    "why": "At 5,000 metres, lower barometric pressure reduces inspired oxygen partial pressure. Hypoxic stimulation of the carotid bodies increases alveolar ventilation. Later renal bicarbonate loss helps compensate for the resulting respiratory alkalosis.",
+    "notes": {
+      "B": "During acclimatisation, the kidneys increase bicarbonate excretion, lowering plasma bicarbonate rather than raising it.",
+      "C": "Appetite often falls at high altitude. Increased appetite is not the usual defining response to acute hypoxia.",
+      "D": "Less oxygen is available at altitude, which usually reduces maximal aerobic exercise capacity at first.",
+      "E": "Muscle strength does not characteristically rise from acute hypoxic exposure. The immediate adaptation is increased ventilation."
+    }
   }
 }
