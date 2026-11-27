@@ -149,3 +149,87 @@
 - Key: E — 7.0 to 7.8.
 - Concern: There are documented survivors outside this range; extreme acidemia or alkalemia carries serious risk, but no fixed universal absolute limits can be asserted. Confirm the intended historical teaching approximation and revise the absolute wording. Original explanation and key untouched.
 - Reference: Standard clinical acid–base physiology; exact source of quoted limits unverified. (exact edition/page not independently checked).
+
+## dq-phys-resp-013 — Neonatal respiratory distress syndrome and corticosteroids
+- Stem: A premature newborn with respiratory distress syndrome from surfactant deficiency may be treated with
+- Key: C — exogenous bovine surfactant and corticosteroids.
+- Concern: Exogenous surfactant is used in selected premature infants with respiratory distress syndrome, but antenatal corticosteroids are generally administered to the pregnant mother before expected preterm birth to accelerate fetal lung maturation. Routine corticosteroid treatment of an affected newborn is not interchangeable with this preventive intervention. Clarify timing and indication. Original explanation and key untouched.
+- Reference: Standard neonatal respiratory distress syndrome management and antenatal corticosteroid physiology. (exact edition/page not independently checked).
+
+## dq-phys-resp-018 — Pulmonary blood reservoir and postural volume
+- Stem: Lying down shifts roughly 400 ml of blood into the pulmonary circulation, which illustrates that the pulmonary veins act as a
+- Key: C — distensible blood reservoir.
+- Concern: Pulmonary vessels are distensible and central blood volume generally increases on lying supine, but the specific 400 mL increment is not universal or independently source-verified. See related CVS hold dq-phys-cvs-124. Confirm the course's measurement convention. Original explanation and key untouched.
+- Reference: Guyton & Hall, pulmonary circulation and blood reservoir function. (exact edition/page not independently checked).
+
+## dq-phys-resp-020 — Positioning with unilateral lung disease
+- Stem: A patient with one healthy and one diseased lung is generally advised to lie
+- Key: E — on the side of the good lung.
+- Concern: Good-lung-down positioning can improve oxygenation in some spontaneously breathing patients with unilateral parenchymal disease, but this is not universal; airway bleeding or contamination risk, ventilation mode and pathology can alter the preferred position. The generic clinical recommendation needs qualification. Original explanation and key untouched.
+- Reference: Standard respiratory physiology and clinical positioning principles. (exact edition/page not independently checked).
+
+## dq-phys-resp-042 — Cherry-red skin in carbon monoxide poisoning
+- Stem: A patient with severe carbon monoxide poisoning characteristically shows
+- Key: B — a cherry-red skin colour rather than cyanosis.
+- Concern: Cherry-red discoloration is a classical association with carboxyhaemoglobin but is uncommon in living patients and is not a reliable characteristic clinical sign of severe poisoning. Lack of cyanosis or cherry-red skin cannot exclude or diagnose poisoning. Qualify the historical teaching description. Original explanation and key untouched.
+- Reference: Standard clinical toxicology and carbon monoxide physiology. (exact edition/page not independently checked).
+
+## dq-phys-resp-044 — Gas diffusion across the respiratory barrier
+- Stem: Oxygen and carbon dioxide cross the respiratory membrane readily because they
+- Key: D — are lipid soluble and diffuse through the membrane directly.
+- Concern: Oxygen and carbon dioxide diffuse across lipid membranes but also dissolve in alveolar lining fluid and cross aqueous compartments of the respiratory barrier. The original explanation incorrectly contrasts membrane diffusion with passage through water, and the water-layer option is also physiologically plausible. Clarify the distinction between passive diffusion and carrier-mediated transport. Original explanation and key untouched.
+- Reference: West's Respiratory Physiology, diffusion across the blood–gas barrier. (exact edition/page not independently checked).
+
+## dq-phys-resp-045 — Relative carbon dioxide diffusivity
+- Stem: The diffusing capacity of the lung is greater for CO2 than for O2 — by about 20% — mainly because CO2 is
+- Key: E — much more soluble in the membrane fluids.
+- Concern: Carbon dioxide is roughly twenty times as diffusible as oxygen through tissue for a comparable partial-pressure gradient, primarily because of greater solubility; the stem states 20% greater, not twentyfold. Effective whole-lung diffusing capacity also depends on measurement conditions. Correct the numerical premise during review. Original explanation and key untouched.
+- Reference: Guyton & Hall and West's Respiratory Physiology, pulmonary gas diffusion. (exact edition/page not independently checked).
+
+## dq-phys-resp-047 — Infinite ventilation–perfusion ratio and duplicate plausible options
+- Stem: A lung unit with a ventilation/perfusion ratio approaching infinity has alveolar gas that
+- Key: B — resembles inspired air — high O2, very low CO2.
+- Concern: With no perfusion and continuing ventilation, alveolar gas approaches humidified inspired gas. However, the option stating that the unit cannot exchange gas with blood is also defensible in the limiting case of zero perfusion. Clarify whether the question asks about alveolar gas composition specifically and make distractors mutually exclusive. Original explanation and key untouched.
+- Reference: West's Respiratory Physiology, ventilation–perfusion extremes. (exact edition/page not independently checked).
+
+## dq-phys-resp-048 — Apical predilection of tuberculosis
+- Stem: Why is the lung apex, where V/Q is high, the site most prone to tuberculosis?
+- Key: C — high local O2 with relatively poor perfusion.
+- Concern: High apical oxygen tension is a traditional proposed contributor to upper-lobe predilection of post-primary pulmonary tuberculosis, but the distribution is multifactorial and primary tuberculosis is not necessarily apical. The stem overgeneralises all tuberculosis and implies an established single mechanism. Original explanation and key untouched.
+- Reference: Standard pulmonary tuberculosis pathophysiology and regional ventilation–perfusion physiology. (exact edition/page not independently checked).
+
+## dq-phys-resp-064 — Hypoxic ventilatory drive and hypocapnic braking
+- Stem: Giving a very low concentration of oxygen raises ventilation only weakly because the hyperventilation it causes
+- Key: D — washing out CO2, which inhibits breathing.
+- Concern: Hypoxia increases ventilatory drive, while the resulting fall in arterial CO2 can oppose it; the strength of ventilation depends on severity of hypoxia and prevailing CO2. Very severe hypoxia can strongly stimulate ventilation and eventually depress central function. The stem and keyed wording are ambiguous about which gas inhibits breathing and the severity of exposure. Original explanation and key untouched.
+- Reference: Standard respiratory chemoreflex physiology, Ganong/Guyton & Hall. (exact edition/page not independently checked).
+
+## dq-phys-resp-065 — Oxygen-associated hypercapnia and hypoxic drive
+- Stem: In a patient with chronic CO2 retention whose drive to breathe has become dependent on hypoxia, the danger of giving 100% oxygen is that it may
+- Key: E — remove the hypoxic drive and depress ventilation.
+- Concern: Oxygen-induced hypercapnia in susceptible patients is multifactorial, importantly involving worsening ventilation–perfusion matching and the Haldane effect, not simply abolition of hypoxic respiratory drive. The stem and existing explanation reinforce an unsafe oversimplification. Oxygen should not be withheld from hypoxaemic patients on this basis; clinical oxygen targets depend on context. Original explanation and key untouched.
+- Reference: Standard respiratory physiology and oxygen-induced hypercapnia clinical literature. (exact edition/page not independently checked).
+
+## dq-phys-resp-075 — Erythropoietin and timing of altitude acclimatisation
+- Stem: Erythropoietin released during acclimatization to altitude acts to
+- Key: E — raise haemoglobin and red cell mass over a few days.
+- Concern: Erythropoietin rises early during hypoxic exposure and stimulates erythropoiesis; reticulocyte changes can appear within days, but substantial red-cell mass expansion generally develops over weeks. Early haemoglobin concentration increases may instead reflect reduced plasma volume. Clarify the time course. Original explanation and key untouched.
+- Reference: Standard altitude acclimatisation and erythropoiesis physiology. (exact edition/page not independently checked).
+
+## dq-phys-resp-076 — Altitude illness and oedema mechanisms
+- Stem: Acute mountain sickness some hours after arrival at altitude is attributed partly to arteriolar dilatation that raises capillary hydrostatic pressure and causes
+- Key: A — cerebral and pulmonary oedema.
+- Concern: Acute mountain sickness is distinct from high-altitude cerebral oedema and high-altitude pulmonary oedema, although they can coexist. Pulmonary oedema at altitude is associated with uneven hypoxic pulmonary vasoconstriction and raised pulmonary vascular pressures, not pulmonary arteriolar dilatation. The original explanation incorrectly combines cerebral and pulmonary mechanisms. Original explanation and key untouched.
+- Reference: Standard high-altitude illness pathophysiology. (exact edition/page not independently checked).
+
+## dq-phys-resp-083 — Freshwater drowning and haemolysis
+- Stem: A victim of fresh-water (hypotonic) near-drowning is at particular risk of
+- Key: C — intravascular haemolysis of red cells.
+- Concern: The historical freshwater-versus-seawater distinction based on major systemic electrolyte changes and haemolysis is not generally a clinically important feature of human drowning. Aspirated volumes usually cause hypoxaemia, surfactant disruption and lung injury rather than predictable clinically significant intravascular haemolysis. Revise the premise. Original explanation and key untouched.
+- Reference: Standard modern drowning pathophysiology and resuscitation teaching. (exact edition/page not independently checked).
+
+## dq-phys-resp-085 — Early cardiovascular response to asphyxia
+- Stem: Asphyxia from airway occlusion combines low O2 with high CO2 and characteristically causes an early
+- Key: E — raised blood pressure and heart rate.
+- Concern: Asphyxia can evoke sympathetic vasoconstriction and a pressor response, but heart rate depends on ventilation, duration, age and reflex interactions. Apnoea with hypoxia can produce vagally mediated bradycardia; a universal early tachycardia cannot be assumed. Specify the experimental or clinical context. Original explanation and key untouched.
+- Reference: Standard cardiovascular chemoreflex and asphyxia physiology. (exact edition/page not independently checked).
