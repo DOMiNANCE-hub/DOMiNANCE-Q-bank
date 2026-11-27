@@ -31,12 +31,12 @@
       }
      ],
      "correctAnswer": "D",
-     "why": "Oxytocin operates via a positive feedback loop (e.g., uterine contractions stimulate more oxytocin release).",
+     "why": "Oxytocin release during labour is a classic positive-feedback reflex. Cervical stretch increases oxytocin release, contractions intensify and further stretch occurs until delivery interrupts the cycle. Negative feedback predominates in many endocrine axes.",
      "notes": {
-      "A": "Progesterone is controlled by negative feedback on LH.",
-      "B": "Oestrogen is mostly negative feedback; its mid-cycle positive feedback is the exception, not its rule.",
-      "C": "Prolactin feeds back negatively by raising hypothalamic dopamine.",
-      "E": "Oxytocin is the exception."
+      "A": "Progesterone typically slows hypothalamic GnRH pulsatility and contributes to negative feedback on gonadotropin release.",
+      "B": "Oestradiol usually provides negative feedback. Sustained high oestradiol before ovulation can temporarily switch the response to positive feedback and trigger the LH surge.",
+      "C": "Prolactin can increase hypothalamic dopamine release, which feeds back to inhibit prolactin secretion.",
+      "E": "The labour reflex provides a clear example of oxytocin amplifying the stimulus that caused its release."
      },
      "topicId": "endo-general",
      "subtopic": "",
@@ -70,12 +70,12 @@
       }
      ],
      "correctAnswer": "D",
-     "why": "Steroid hormones (like cortisol, aldosterone, testosterone, estrogen) are derived from cholesterol.",
+     "why": "Steroid hormones are synthesised from cholesterol. The adrenal cortex and gonads convert cholesterol to pregnenolone and then to different steroid hormones, depending on the enzymes expressed.",
      "notes": {
-      "A": "Proteins are made from amino acids.",
-      "B": "Amino acid hormones (thyroid hormones, catecholamines) come from tyrosine.",
-      "C": "Polypeptides are made from amino acids.",
-      "E": "Eicosanoids come from arachidonic acid."
+      "A": "Protein hormones are chains of amino acids synthesised by ribosomes, not derivatives of cholesterol.",
+      "B": "Amino acid-derived hormones include catecholamines and thyroid hormones, which are derived from tyrosine.",
+      "C": "Polypeptide hormones are synthesised from amino acids as precursors that can be processed before secretion.",
+      "E": "Eicosanoids are derived from polyunsaturated fatty acids such as arachidonic acid, rather than from cholesterol."
      },
      "topicId": "endo-general",
      "subtopic": "",
@@ -108,12 +108,12 @@
       }
      ],
      "correctAnswer": "A",
-     "why": "Water-soluble hormones (peptides, proteins, catecholamines) cannot cross the lipid bilayer and must bind to cell surface receptors.",
+     "why": "Water-soluble peptide hormones generally cannot cross the lipid bilayer directly. They bind to receptors on the cell surface, which convey the signal through intracellular pathways.",
      "notes": {
-      "B": "Lipid-soluble hormones cross the membrane to intracellular receptors.",
-      "C": "Steroids bind intracellular receptors.",
-      "D": "Lipid-soluble hormones do not need a surface receptor.",
-      "E": "Both describe hormones with intracellular receptors."
+      "B": "Many lipid-soluble hormones can reach intracellular receptors. Some lipid-derived signals use surface receptors, so this broad class does not require them exclusively.",
+      "C": "Steroid hormones commonly cross into target cells and act on intracellular receptors that regulate gene expression.",
+      "D": "Polypeptides normally signal through surface receptors, while many lipid-soluble hormones use intracellular receptors.",
+      "E": "Steroids are lipid-soluble and often bind cytoplasmic or nuclear receptors to alter transcription."
      },
      "topicId": "endo-general",
      "subtopic": "",
@@ -146,12 +146,12 @@
       }
      ],
      "correctAnswer": "D",
-     "why": "Endocrine glands can be stimulated by other hormones (e.g., TSH), blood chemical levels (e.g., glucose, calcium), and neural input (e.g., sympathetic stimulation of the adrenal medulla).",
+     "why": "Endocrine secretion can respond to another hormone, to a change in the blood, or to a neural signal. Examples include TSH acting on the thyroid, glucose stimulating insulin and sympathetic nerves activating the adrenal medulla.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "E": "True, but so are the other statements."
+      "A": "A tropic hormone can regulate another gland. For example, TSH stimulates thyroid hormone production and release.",
+      "B": "Changes in circulating substances can directly control secretion. Rising blood glucose promotes insulin release.",
+      "C": "Preganglionic sympathetic neurons can stimulate adrenal chromaffin cells to release catecholamines.",
+      "E": "Each of the listed mechanisms provides a recognised route for regulating endocrine secretion."
      },
      "topicId": "endo-general",
      "subtopic": "",
@@ -185,12 +185,12 @@
       }
      ],
      "correctAnswer": "B",
-     "why": "The anterior pituitary secretes endorphins (as part of POMC), along with GH, TSH, ACTH, FSH, LH, and Prolactin. Oxytocin and ADH are posterior pituitary.",
+     "why": "Corticotrophs in the anterior pituitary process pro-opiomelanocortin into ACTH and other peptides. Beta-endorphin derives from the same precursor, and pituitary release can increase during stress.",
      "notes": {
-      "A": "Oxytocin is released from the posterior pituitary.",
-      "C": "ADH is released from the posterior pituitary.",
-      "D": "TRH is a hypothalamic hormone.",
-      "E": "Catecholamines come from the adrenal medulla."
+      "A": "Oxytocin is made by hypothalamic neurons and released from their endings in the posterior pituitary.",
+      "C": "Vasopressin is made in the hypothalamus, then carried to the posterior pituitary for release.",
+      "D": "Thyrotropin-releasing hormone comes from the hypothalamus. It travels in portal blood to stimulate anterior pituitary TSH secretion.",
+      "E": "Catecholamines are released mainly from sympathetic neurons and the adrenal medulla, rather than being anterior pituitary hormones."
      },
      "topicId": "endo-general",
      "subtopic": "",
@@ -223,12 +223,12 @@
       }
      ],
      "correctAnswer": "B",
-     "why": "The thymus is responsible for T-lymphocyte maturation and involutes (shrinks) after puberty.",
+     "why": "The thymus is the primary site of T-cell differentiation and selection, supported by thymic epithelial cells and their signalling molecules. It undergoes involution after puberty, although some functional tissue remains.",
      "notes": {
-      "A": "Lymph nodes do not mature T cells.",
-      "C": "The spleen filters blood.",
-      "D": "GALT is mucosal lymphoid tissue.",
-      "E": "Tonsils are secondary lymphoid organs."
+      "A": "Lymph nodes support immune responses to antigens in lymph. Mature T cells respond there after their principal developmental selection in the thymus.",
+      "C": "The spleen filters blood and supports responses to blood-borne antigens. It is not the primary site of T-cell development.",
+      "D": "Gut-associated lymphoid tissue supports mucosal immunity and tolerance. Its lymphocytes are not selected there in the same way as developing thymocytes.",
+      "E": "Tonsils sample inhaled and ingested antigens. They are secondary lymphoid structures, unlike the thymus."
      },
      "topicId": "endo-general",
      "subtopic": "",
@@ -261,12 +261,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "ACTH is stimulated by CRH (hypothalamic), low cortisol (loss of negative feedback), circadian rhythms (peaking before waking), and stress (trauma).",
+     "why": "Hypothalamic CRH and vasopressin stimulate ACTH secretion. Reduced cortisol removes negative feedback, ACTH pulses increase toward the usual waking period, and major stress can activate this axis.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "Stimulating relevant hypothalamic terminals in the median eminence can release CRH into portal blood and increase ACTH.",
+      "B": "A fall in cortisol reduces inhibition of hypothalamic and pituitary signalling, allowing ACTH to rise.",
+      "C": "Pulses of ACTH tend to increase late in the sleep period before the usual time of awakening.",
+      "D": "Severe trauma activates the stress response and can increase hypothalamic drive to anterior pituitary corticotrophs."
      },
      "topicId": "endo-general",
      "subtopic": "",
@@ -300,12 +300,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "Melatonin is produced by the pineal gland from serotonin, peaks at night, and regulates circadian rhythms and reproductive/pituitary hormones.",
+     "why": "The pineal gland makes melatonin from serotonin and releases most of it at night. Melatonin signals biological night and can affect endocrine timing, including regulation of pituitary hormone secretion in some settings.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "The pineal gland is the main source of the rhythmic melatonin signal found in circulating blood.",
+      "B": "Serotonin is converted to N-acetylserotonin and then to melatonin in pineal cells.",
+      "C": "Pineal melatonin secretion normally rises in darkness and decreases with light exposure at night.",
+      "D": "Melatonin can influence hypothalamic–pituitary signalling, with effects depending on the species, hormone and timing."
      },
      "topicId": "endo-general",
      "subtopic": "",
@@ -339,12 +339,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "GH promotes protein synthesis (positive nitrogen balance), is controlled by GHRH/somatostatin, surges in deep sleep, and acts via IGF-1 (somatomedins).",
+     "why": "Growth hormone promotes protein synthesis and retention of nitrogen and phosphate. Hypothalamic signals regulate its pulses, a prominent pulse occurs during sleep, and insulin-like growth factor 1 mediates many of its effects on bone and cartilage.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "Growth hormone increases protein anabolism and can promote renal phosphate retention during growth.",
+      "B": "Hypothalamic GHRH stimulates release, while hypothalamic somatostatin restrains it.",
+      "C": "A major growth hormone pulse is normally associated with deep non-REM sleep, especially early in the night.",
+      "D": "The liver secretes circulating IGF-1 in response to growth hormone. Locally produced IGF-1 also contributes to skeletal growth."
      },
      "topicId": "endo-general",
      "subtopic": "",
@@ -378,12 +378,12 @@
       }
      ],
      "correctAnswer": "A",
-     "why": "ADH is synthesized in the hypothalamus and released from the posterior pituitary. It increases water reabsorption in the collecting ducts, lowering plasma osmolality.",
+     "why": "Vasopressin is made in hypothalamic neurons and transported down their axons to nerve endings in the posterior pituitary. From there it enters the blood and promotes water reabsorption in collecting ducts.",
      "notes": {
-      "B": "ADH LOWERS plasma osmolality by retaining water.",
-      "C": "Its main water effect is on the collecting duct.",
-      "D": "Osmolality is the main regulator of ADH.",
-      "E": "ADH INCREASES water reabsorption."
+      "B": "Increased water reabsorption generally lowers plasma osmolality toward its set point rather than raising it.",
+      "C": "The principal adjustable water permeability is in the late distal nephron and collecting ducts, through aquaporin-2.",
+      "D": "Hypothalamic osmoreceptors are sensitive to changes in plasma tonicity, which strongly influences vasopressin release.",
+      "E": "Vasopressin increases renal water reabsorption and decreases the excretion of free water."
      },
      "topicId": "endo-general",
      "subtopic": "",
@@ -493,12 +493,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "GH secretion increases with hypoglycemia, has some prolactin-like effects, causes organomegaly, and stimulates IGF-1.",
+     "why": "Hypoglycaemia can stimulate growth hormone secretion. Human growth hormone can have lactogenic activity at the prolactin receptor, and persistent excess can enlarge viscera. It also increases hepatic production of IGF-1.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "A fall in circulating glucose can activate growth hormone release as part of the counter-regulatory response.",
+      "B": "Human growth hormone can activate the prolactin receptor, although prolactin is the main physiological driver of milk synthesis.",
+      "C": "Sustained excess growth hormone and IGF-1 can produce enlargement of internal organs, as in acromegaly.",
+      "D": "Growth hormone stimulates the liver to produce IGF-1, formerly called somatomedin C."
      },
      "topicId": "endo-general",
      "subtopic": "",
@@ -532,12 +532,12 @@
       }
      ],
      "correctAnswer": "C",
-     "why": "Prolactin is unique in that it is tonically inhibited by dopamine (PIF) from the hypothalamus. Suckling stimulates its release.",
+     "why": "Hypothalamic dopamine tonically inhibits prolactin secretion through D2 receptors on anterior pituitary lactotrophs. Suckling decreases the inhibitory input, allowing prolactin release to increase.",
      "notes": {
-      "A": "Prolactin resembles GH, not LH.",
-      "B": "Oestrogen drives pubertal breast growth.",
-      "D": "Suckling STIMULATES prolactin.",
-      "E": "Milk ejection is due to oxytocin."
+      "A": "Prolactin is structurally related to growth hormone. LH is a glycoprotein that acts chiefly on the gonads.",
+      "B": "Oestrogens are major drivers of ductal growth at puberty. Prolactin supports mammary differentiation and milk synthesis, especially around pregnancy and lactation.",
+      "D": "Suckling increases prolactin by reducing dopaminergic inhibition of lactotrophs.",
+      "E": "Oxytocin contracts myoepithelial cells for milk ejection. Prolactin supports milk production."
      },
      "topicId": "endo-general",
      "subtopic": "",
@@ -570,12 +570,12 @@
       }
      ],
      "correctAnswer": "B",
-     "why": "Untreated diabetes insipidus produces 10–20 L of dilute urine a day (about 7–14 ml/min). With ADH the collecting ducts reabsorb water again, so urine output falls to the normal ~1 ml/min and urine becomes concentrated.",
+     "why": "In central diabetes insipidus, effective vasopressin replacement increases collecting-duct water reabsorption and reduces dilute polyuria. A urine flow around one millilitre per minute is a representative normal value, not an exact treatment target.",
      "notes": {
-      "A": "Urine flow falls much more than 50%.",
-      "C": "Urine becomes concentrated, well above plasma (about 300 mOsm).",
-      "D": "Plasma osmolality FALLS back to normal as water is retained.",
-      "E": "Salt restriction is not part of ADH treatment."
+      "A": "The percentage fall depends on starting urine flow, water intake and response. There is no fixed 50 percent reduction.",
+      "C": "Effective replacement increases the ability to concentrate urine. A urine osmolality of 100–200 still describes dilute urine.",
+      "D": "Retention of water tends to lower a previously raised plasma osmolality toward normal.",
+      "E": "The direct response to vasopressin is increased renal water reabsorption. This option does not describe that physiological effect."
      },
      "topicId": "endo-general",
      "subtopic": "",
@@ -608,12 +608,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "Excess GH causes acromegaly in adults and raises blood glucose (diabetogenic effect) due to insulin antagonism.",
+     "why": "In adults, excess growth hormone causes acromegaly and can antagonise insulin action in muscle and adipose tissue. The resulting insulin resistance can increase blood glucose despite compensatory insulin secretion.",
      "notes": {
-      "A": "Myxoedema is due to hypothyroidism.",
-      "B": "Gigantism needs open epiphyses (childhood).",
-      "C": "Somatomedin levels RISE.",
-      "D": "Cretinism is congenital hypothyroidism."
+      "A": "Myxoedema is associated with severe hypothyroidism, not a characteristic direct effect of growth hormone excess.",
+      "B": "Gigantism occurs if excess growth hormone acts before epiphyseal closure. In adults, the growth plates are closed.",
+      "C": "Growth hormone usually increases hepatic IGF-1, one of the circulating somatomedins.",
+      "D": "Severe untreated congenital hypothyroidism causes a different disorder from adult growth hormone excess."
      },
      "topicId": "endo-general",
      "subtopic": "",
@@ -646,12 +646,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "Hypophysectomy removes gonadotropins (LH/FSH), causing amenorrhea, loss of libido, loss of secondary sexual hair (via adrenal androgen loss), and breast atrophy.",
+     "why": "Pituitary removal can cause gonadotropin deficiency and reduce gonadal steroid production. Menstrual cycles can stop, sexual desire and axillary hair can decrease, and loss of hormonal support can reduce mammary tissue.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "Lower LH and FSH can impair ovarian cyclic activity and decrease the frequency of menstruation.",
+      "B": "Reduced adrenal and gonadal androgen support can cause loss of axillary hair, particularly in women.",
+      "C": "Gonadal steroid deficiency can reduce libido, although sexual desire has other determinants as well.",
+      "D": "Reduced ovarian steroid support can lead to mammary gland involution and a decrease in breast tissue."
      },
      "topicId": "endo-general",
      "subtopic": "",
@@ -685,12 +685,12 @@
       }
      ],
      "correctAnswer": "D",
-     "why": "The largest GH pulse occurs in the first episode of deep slow-wave (non-REM) sleep. Hyperglycaemia and obesity SUPPRESS GH.",
+     "why": "The largest sleep-related growth hormone pulse is typically associated with slow-wave non-REM sleep, often during the first deep sleep period. Release is pulsatile and also occurs during wakefulness.",
      "notes": {
-      "A": "GH falls during REM sleep.",
-      "B": "Hyperglycaemia SUPPRESSES GH.",
-      "C": "Obesity SUPPRESSES GH.",
-      "E": "Option D is correct."
+      "A": "The prominent nocturnal pulse is generally linked to deep non-REM sleep rather than REM sleep.",
+      "B": "Oral glucose often suppresses growth hormone in healthy people. Failure of suppression can occur in acromegaly.",
+      "C": "Obesity is commonly associated with reduced spontaneous and stimulated growth hormone secretion.",
+      "E": "Slow-wave non-REM sleep has a well-established association with an increase in growth hormone secretion."
      },
      "topicId": "endo-general",
      "subtopic": "",
@@ -724,12 +724,12 @@
       }
      ],
      "correctAnswer": "C",
-     "why": "The pineal gland secretes melatonin, which regulates circadian rhythms.",
+     "why": "The pineal gland secretes melatonin, particularly during darkness. It lies in the epithalamic region near the roof of the third ventricle and helps signal the timing of biological night.",
      "notes": {
-      "A": "The pineal is in the epithalamus.",
-      "B": "Adrenaline comes from the adrenal medulla.",
-      "D": "Appetite is controlled by the hypothalamus.",
-      "E": "Melanin is made by melanocytes."
+      "A": "The pineal gland is in the epithalamus. Hypothalamic circadian pathways help regulate its timing.",
+      "B": "Epinephrine is produced mainly by chromaffin cells in the adrenal medulla, rather than by the pineal gland.",
+      "D": "Hypothalamic and brainstem circuits integrate many appetite signals. The pineal gland is chiefly associated with circadian melatonin.",
+      "E": "Melanin is a pigment, whereas melatonin is a circulating signalling molecule derived from serotonin."
      },
      "topicId": "endo-general",
      "subtopic": "",
@@ -762,12 +762,12 @@
       }
      ],
      "correctAnswer": "A",
-     "why": "Excess GH in adults (after epiphyseal closure) causes acromegaly (enlargement of hands, feet, face).",
+     "why": "In an adult with closed growth plates, persistent growth hormone excess causes acromegaly. High IGF-1 contributes to enlargement of the hands, feet, jaw, soft tissues and internal organs.",
      "notes": {
-      "B": "Gigantism occurs before the epiphyses close.",
-      "C": "GH REDUCES glucose uptake (insulin antagonism).",
-      "D": "GH excess does not cause hypothyroidism.",
-      "E": "Cretinism is congenital hypothyroidism."
+      "B": "Gigantism occurs if excess growth hormone is present before epiphyseal plates close, when long bones can still lengthen.",
+      "C": "Sustained growth hormone excess often increases insulin resistance and can impair glucose uptake rather than improving it.",
+      "D": "Hypothyroidism reflects inadequate thyroid hormone action and is not the characteristic consequence of growth hormone excess.",
+      "E": "Severe untreated congenital hypothyroidism is unrelated to the skeletal and soft tissue effects of adult growth hormone excess."
      },
      "topicId": "endo-general",
      "subtopic": "",
@@ -800,12 +800,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "Hyperthyroidism increases BMR, GI motility, energy expenditure, and heart rate (partly via direct myocardial effects independent of autonomic receptors).",
+     "why": "Thyroid hormone excess increases resting energy expenditure and can increase the oxygen cost of a given workload. It speeds intestinal transit and can raise intrinsic heart rate through direct cardiac effects in addition to autonomic effects.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "Excess thyroid hormone increases the resting metabolic activity of many tissues, raising basal energy expenditure.",
+      "B": "Faster gastrointestinal transit can increase the frequency of bowel movements.",
+      "C": "Increased tissue energy turnover can increase total energy expenditure at a given level of physical work.",
+      "D": "Thyroid hormone acts directly on cardiac pacemaker and myocardial function, so a higher intrinsic rate can remain after autonomic blockade."
      },
      "topicId": "endo-thyroid",
      "subtopic": "",
@@ -839,12 +839,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "TSH increases when thyroid hormone levels fall (loss of negative feedback) due to partial removal, agenesis, or iodine deficiency.",
+     "why": "Reduced thyroid hormone synthesis removes negative feedback and can increase TSH after thyroid tissue loss, thyroid agenesis or iodine deficiency. TSH is also often modestly higher in colder seasons in human populations, although this is variable.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "If partial thyroid removal lowers hormone output, diminished negative feedback can increase TSH.",
+      "B": "Thyroid agenesis causes severe primary hypothyroidism, so TSH rises when the pituitary–hypothalamic axis is intact.",
+      "C": "Many studies report higher average TSH during colder months. The seasonal effect varies between populations and individuals.",
+      "D": "Inadequate iodine can reduce thyroid hormone synthesis and thereby increase TSH through negative feedback."
      },
      "topicId": "endo-thyroid",
      "subtopic": "",
@@ -878,12 +878,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "T4 increases BMR (CO2 production), is critical for brain development, stimulates erythropoiesis, and has a slower onset than T3.",
+     "why": "Thyroxine supports metabolic activity, early brain development and normal erythropoiesis. It acts relatively slowly because much of its action follows conversion to the more active T3, and it circulates with a longer half-life.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "Increased resting oxidative metabolism increases carbon dioxide production as well as oxygen consumption.",
+      "B": "Adequate thyroid hormone is crucial for normal brain development during fetal and early postnatal life.",
+      "C": "Thyroid hormone supports normal erythropoiesis through effects on metabolic demand and erythroid development. Hypothyroidism can cause anaemia.",
+      "D": "T3 is the more active receptor ligand and generally acts sooner than T4, much of which is converted to T3."
      },
      "topicId": "endo-thyroid",
      "subtopic": "",
@@ -917,12 +917,12 @@
       }
      ],
      "correctAnswer": "C",
-     "why": "Hyperthyroidism mimics sympathetic overactivity (tachycardia, tremor) because thyroid hormone increases beta-adrenergic receptor sensitivity.",
+     "why": "Tremor, palpitations and tachycardia in hyperthyroidism resemble heightened beta-adrenergic activity. Thyroid hormones also have direct tissue effects, so these signs do not require abnormally high circulating catecholamine levels.",
      "notes": {
-      "A": "Nitrogen balance is NEGATIVE (protein breakdown).",
-      "B": "Urinary calcium is INCREASED.",
-      "D": "BMR is RAISED.",
-      "E": "Thyroxine-binding protein does not rise."
+      "A": "Excess thyroid hormone can increase protein breakdown and cause a negative nitrogen balance.",
+      "B": "Increased bone turnover in thyrotoxicosis can increase urinary calcium, rather than lowering it.",
+      "D": "Excess thyroid hormone raises resting oxygen use and basal metabolic rate.",
+      "E": "Thyroxine-binding globulin affects total hormone measurements, but a rise is not a defining feature of hyperthyroidism."
      },
      "topicId": "endo-thyroid",
      "subtopic": "",
@@ -955,12 +955,12 @@
       }
      ],
      "correctAnswer": "C",
-     "why": "Thyroid hormones are stored in the follicle colloid as iodinated thyroglobulin.",
+     "why": "Thyroid follicles store iodinated thyroglobulin in their colloid. T3 and T4 remain part of this protein until thyroglobulin is taken up by follicular cells and proteolysed to release the hormones.",
      "notes": {
-      "A": "Free hormone is released into blood, not stored.",
-      "B": "Free hormone is released into blood, not stored.",
-      "D": "TBG carries hormone in plasma.",
-      "E": "Not a real hormone."
+      "A": "T3 is usually released from thyroglobulin after endocytosis and proteolysis. Free T3 is not the main stored form in the follicle.",
+      "B": "Most stored T4 is incorporated into thyroglobulin rather than stored as free hormone in the colloid.",
+      "D": "Thyroxine-binding globulin is a circulating transport protein. Thyroglobulin is the colloid storage protein.",
+      "E": "Thyrotropin is made by the anterior pituitary and stimulates the thyroid. It is not a thyroid hormone stored in follicular colloid."
      },
      "topicId": "endo-thyroid",
      "subtopic": "",
@@ -993,12 +993,12 @@
       }
      ],
      "correctAnswer": "B",
-     "why": "Parathyroid hormone (PTH) increases blood calcium levels by stimulating bone resorption, renal calcium reabsorption, and activating vitamin D.",
+     "why": "Excess parathyroid hormone can raise blood calcium by promoting bone resorption, increasing renal calcium reabsorption and stimulating calcitriol production. Calcitriol in turn increases intestinal calcium absorption.",
      "notes": {
-      "A": "Calcitonin LOWERS blood calcium.",
-      "C": "Glucocorticoids lower gut calcium absorption.",
-      "D": "Glucagon does not raise calcium.",
-      "E": "Testosterone does not control plasma calcium."
+      "A": "Calcitonin inhibits osteoclast activity and tends to lower rather than raise circulating calcium.",
+      "C": "Excess glucocorticoids usually reduce intestinal calcium absorption and can promote bone loss without ordinarily causing hypercalcaemia.",
+      "D": "Glucagon primarily raises blood glucose through effects on liver metabolism. It is not the principal hormone that raises serum calcium.",
+      "E": "Testosterone influences bone and muscle, but it is not a usual cause of hormone-mediated hypercalcaemia."
      },
      "topicId": "endo-calcium",
      "subtopic": "",
@@ -1070,12 +1070,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "Ionized calcium regulates PTH, is ~50% of total calcium, decreases in alkalosis (binds to albumin more), and is independent of albumin changes (which affect total calcium).",
+     "why": "Ionised calcium is the biologically active fraction and normally accounts for about half of total plasma calcium. It regulates PTH secretion and falls during alkalosis as more calcium binds to albumin. A change in albumin usually affects total calcium more than ionised calcium.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "Parathyroid calcium-sensing receptors detect free calcium. Low ionised calcium stimulates PTH release.",
+      "B": "Roughly half of plasma calcium is free. The remainder is bound to proteins or complexed with small anions.",
+      "C": "Higher pH increases calcium binding to albumin, decreasing ionised calcium even when total calcium changes little.",
+      "D": "In stable conditions, low albumin can lower measured total calcium without a proportional fall in ionised calcium. Direct measurement is preferable when the distinction matters."
      },
      "topicId": "endo-calcium",
      "subtopic": "",
@@ -1109,12 +1109,12 @@
       }
      ],
      "correctAnswer": "C",
-     "why": "Calcitonin (from parafollicular C cells) lowers blood calcium by inhibiting osteoclasts, even in the absence of parathyroids.",
+     "why": "Calcitonin can lower blood calcium by inhibiting osteoclast-mediated bone resorption. It acts directly on osteoclasts, so its calcium-lowering action can occur even when the parathyroid glands have been removed.",
      "notes": {
-      "A": "It comes from the parafollicular C cells.",
-      "B": "It has no effect on metabolic rate.",
-      "D": "Its secretion is triggered by high CALCIUM.",
-      "E": "It INHIBITS osteoclasts."
+      "A": "Calcitonin is secreted by parafollicular C cells. Thyroid follicular cells make T3 and T4.",
+      "B": "Basal metabolic rate is raised by thyroid hormones such as T3. This is not the principal action of calcitonin.",
+      "D": "An increase in ionised calcium is the classic physiological stimulus for calcitonin secretion. Phosphate is not the usual primary signal.",
+      "E": "Calcitonin inhibits osteoclast activity and decreases bone resorption."
      },
      "topicId": "endo-calcium",
      "subtopic": "",
@@ -1147,12 +1147,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "Active Vitamin D (calcitriol) increases calcium absorption, is crucial for bone health, requires liver and kidney hydroxylation, and its deficiency causes secondary hyperparathyroidism.",
+     "why": "Vitamin D is hydroxylated in the liver and then the kidney to form calcitriol. Calcitriol increases intestinal calcium and phosphate absorption, supporting bone mineralisation. Deficiency can decrease calcium absorption and lead to secondary hyperparathyroidism.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "Calcitriol promotes active intestinal calcium uptake by increasing the expression of calcium transport proteins.",
+      "B": "Adequate vitamin D supports mineralisation of growing bone. Deficiency in children can cause rickets.",
+      "C": "The liver converts vitamin D to 25-hydroxyvitamin D. The main final activation step occurs in the kidney.",
+      "D": "Inadequate calcium absorption can increase PTH release as the parathyroid glands respond to the threat to ionised calcium."
      },
      "topicId": "endo-calcium",
      "subtopic": "",
@@ -1186,12 +1186,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "PTH decreases phosphate reabsorption, directly stimulates osteoclasts, rises in hypocalcemia, and activates 1-alpha-hydroxylase in the kidney.",
+     "why": "Low ionised calcium stimulates PTH secretion. PTH increases renal phosphate clearance, promotes mobilisation of skeletal calcium and stimulates renal production of calcitriol. These effects help defend extracellular calcium.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "PTH reduces sodium–phosphate cotransporter activity in the proximal tubule, increasing phosphate excretion.",
+      "B": "Sustained PTH can increase bone resorption through signalling by osteoblast-lineage cells to osteoclasts. This is a separate target-tissue effect from its renal actions.",
+      "C": "A fall in ionised calcium is sensed by parathyroid calcium-sensing receptors and increases PTH secretion.",
+      "D": "PTH stimulates proximal tubular 1-alpha-hydroxylase, increasing conversion of 25-hydroxyvitamin D to calcitriol."
      },
      "topicId": "endo-calcium",
      "subtopic": "",
@@ -1225,12 +1225,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "Hypocalcemia causes tetany (spasms), can be fatal, and is treated acutely with IV calcium and chronically with Vitamin D.",
+     "why": "Abrupt loss of PTH can cause severe hypocalcaemia and neuromuscular hyperexcitability. Severe symptomatic hypocalcaemia may require monitored intravenous calcium. Long-term treatment commonly includes calcium and an active vitamin D preparation.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "Low ionised calcium increases neuromuscular excitability and can cause carpopedal spasm or tetany.",
+      "B": "Severe hypocalcaemia can lead to seizures, laryngospasm or arrhythmias, which can be life-threatening.",
+      "C": "Intravenous calcium can rapidly restore circulating ionised calcium in severe symptomatic hypocalcaemia and is administered with monitoring.",
+      "D": "Active vitamin D such as calcitriol helps maintain intestinal calcium absorption when PTH-driven renal activation is impaired."
      },
      "topicId": "endo-calcium",
      "subtopic": "",
@@ -1302,12 +1302,12 @@
       }
      ],
      "correctAnswer": "A",
-     "why": "Calcitonin is secreted by the parafollicular C cells of the thyroid gland.",
+     "why": "Calcitonin is secreted by parafollicular C cells of the thyroid gland. Raised circulating ionised calcium stimulates release, and calcitonin can decrease osteoclast-mediated bone resorption.",
      "notes": {
-      "B": "It comes from thyroid C cells.",
-      "C": "The parathyroids make PTH.",
-      "D": "It has no such action; the stomach does not absorb calcium.",
-      "E": "The kidney activates vitamin D."
+      "B": "The hypothalamus produces regulatory hormones such as TRH, but is not the source of circulating calcitonin.",
+      "C": "Parathyroid chief cells secrete PTH, which acts to defend blood calcium when it falls.",
+      "D": "Calcitonin's characteristic action is inhibition of bone resorption. Regulated dietary calcium absorption occurs mainly in the small intestine.",
+      "E": "The kidney makes calcitriol and responds to calcium-regulating hormones. Circulating calcitonin comes mainly from the thyroid."
      },
      "topicId": "endo-calcium",
      "subtopic": "",
@@ -1378,12 +1378,12 @@
       }
      ],
      "correctAnswer": "B",
-     "why": "GH acts largely through somatomedins (IGF-1), which stimulate chondrocyte proliferation at the epiphyseal plates. Plate closure itself is driven by sex steroids (oestrogen).",
+     "why": "Growth hormone stimulates production of insulin-like growth factor 1, historically called somatomedin C. Local and circulating IGF-1 contribute to growth plate chondrocyte proliferation and longitudinal bone growth.",
      "notes": {
-      "A": "Calcitonin acts on osteoclasts, not plate growth.",
-      "C": "Calcitriol mineralises bone; it does not drive plate growth.",
-      "D": "Thyroxine is permissive and speeds maturation, but IGF-1 drives growth.",
-      "E": "Aldosterone has no role in bone growth."
+      "A": "Calcitonin inhibits osteoclast-mediated resorption. It is not the main mediator of growth hormone at the growth plate.",
+      "C": "Calcitriol supports calcium and phosphate availability for mineralisation. It does not mediate the principal growth hormone signal to chondrocytes.",
+      "D": "Thyroid hormone supports normal skeletal development and maturation. The main mediator named in this question is IGF-1.",
+      "E": "Aldosterone regulates renal sodium and potassium handling. It does not drive chondrocyte proliferation."
      },
      "topicId": "endo-calcium",
      "subtopic": "",
@@ -1416,12 +1416,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "Aldosterone is stimulated by angiotensin II (RAAS), hyperkalemia, and ACTH (minorly).",
+     "why": "Angiotensin II and extracellular potassium are the main direct stimuli for aldosterone secretion by the zona glomerulosa. Increased renin acts indirectly by raising angiotensin II. ACTH can contribute, usually as a relatively brief or secondary stimulus.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "Angiotensin II acts on zona glomerulosa cells and increases aldosterone synthesis.",
+      "B": "A rise in extracellular potassium depolarises glomerulosa cells and increases calcium entry and aldosterone release.",
+      "C": "Renin increases formation of angiotensin I and then angiotensin II, which is the direct adrenal stimulus.",
+      "D": "ACTH can transiently increase aldosterone, although it is less important than angiotensin II and potassium for sustained control."
      },
      "topicId": "endo-adrenal",
      "subtopic": "",
@@ -1455,12 +1455,12 @@
       }
      ],
      "correctAnswer": "D",
-     "why": "Glucocorticoids (like cortisol) promote bone resorption and inhibit bone formation, leading to osteoporosis.",
+     "why": "Glucocorticoid excess can increase osteoclast-mediated bone resorption early in exposure. With continued exposure, suppression of osteoblast activity and bone formation is especially important in producing osteoporosis.",
      "notes": {
-      "A": "Glucocorticoids SHRINK lymphoid tissue.",
-      "B": "They inhibit fibroblasts (poor wound healing).",
-      "C": "They are catabolic in muscle.",
-      "E": "They suppress inflammation and immunity."
+      "A": "Glucocorticoids can cause involution of lymphoid tissue and decrease immune cell activity rather than enlarge lymph glands.",
+      "B": "Glucocorticoids suppress fibroblast activity and collagen synthesis, contributing to slower wound repair.",
+      "C": "Excess glucocorticoids increase muscle protein breakdown and can cause muscle wasting rather than increased anabolism.",
+      "E": "Inflammatory and immune responses are generally suppressed by glucocorticoid signalling."
      },
      "topicId": "endo-adrenal",
      "subtopic": "",
@@ -1493,12 +1493,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "Cortisol is bound to transcortin (alpha globulin), causes hypertension (mineralocorticoid effect), inhibits ACTH (negative feedback), and peaks in the morning.",
+     "why": "Cortisol circulates mostly bound to corticosteroid-binding globulin and albumin. Its secretion ordinarily peaks near waking, it inhibits ACTH by negative feedback, and elevated glucocorticoid exposure can raise arterial pressure.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "Corticosteroid-binding globulin, also called transcortin, is an alpha globulin that carries much of circulating cortisol.",
+      "B": "Glucocorticoids support vascular responsiveness to catecholamines. Sustained or high exposure can also increase blood pressure.",
+      "C": "Cortisol inhibits both hypothalamic CRH and anterior pituitary ACTH release through negative feedback.",
+      "D": "Cortisol is secreted in a circadian pattern, with concentrations generally highest near the start of the active period."
      },
      "topicId": "endo-adrenal",
      "subtopic": "",
@@ -1532,12 +1532,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "Epinephrine (adrenaline) triggers the fight-or-flight response, increasing glucose, FFA, muscle blood flow (via beta-2), and renin release (via beta-1).",
+     "why": "Epinephrine mobilises fuel by increasing hepatic glucose output and adipose lipolysis. Beta-2 activation can dilate skeletal muscle vessels at lower concentrations, and beta-1 stimulation can promote renal renin release. Vascular effects vary with receptor activation and dose.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "Epinephrine increases hepatic glycogenolysis and can raise blood glucose during stress.",
+      "B": "Adrenergic stimulation of adipose lipolysis releases non-esterified fatty acids into blood.",
+      "C": "At concentrations that favour beta-2 effects, epinephrine can dilate skeletal muscle vessels. Stronger alpha effects can oppose this.",
+      "D": "Beta-1 adrenergic activation of juxtaglomerular cells can increase renin release."
      },
      "topicId": "endo-adrenal",
      "subtopic": "",
@@ -1571,12 +1571,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "Adrenaline acts strongly on β2 receptors (bronchodilation, skeletal muscle vasodilation) and β1 receptors, so heart rate rises. Noradrenaline causes widespread vasoconstriction, and the reflex bradycardia this produces lowers heart rate. About 80% of adrenal medullary output is adrenaline.",
+     "why": "Epinephrine is the predominant catecholamine released by the adrenal medulla. It activates cardiac beta-1 receptors and, through beta-2 receptors, is more effective than noradrenaline at dilating bronchi and skeletal muscle vessels. Net effects after injection depend on dose and reflex responses.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "Epinephrine can increase heart rate through beta-1 stimulation. Noradrenaline can raise arterial pressure enough to evoke reflex slowing despite its cardiac action.",
+      "B": "The adrenal medulla converts some noradrenaline to epinephrine, which is usually the larger share of its circulating catecholamine output.",
+      "C": "Epinephrine provides stronger beta-2-mediated bronchial relaxation than noradrenaline.",
+      "D": "Beta-2 stimulation can dilate skeletal muscle vessels, especially at lower epinephrine concentrations."
      },
      "topicId": "endo-adrenal",
      "subtopic": "",
@@ -1610,12 +1610,12 @@
       }
      ],
      "correctAnswer": "B",
-     "why": "Adrenal cortex hormones (steroids like cortisol, aldosterone) are lipophilic and travel bound to plasma proteins (e.g., transcortin, albumin).",
+     "why": "Most circulating adrenal cortical steroids are carried bound to plasma proteins, with a free fraction available to act on tissues. Cortisol binds strongly to corticosteroid-binding globulin. Aldosterone also binds proteins but has a larger free fraction.",
      "notes": {
-      "A": "Cholesterol is the precursor, not a secreted hormone.",
-      "C": "Catecholamines come from the medulla.",
-      "D": "They are excreted mainly in urine after conjugation in the liver.",
-      "E": "The placenta maintains pregnancy hormonally."
+      "A": "Cholesterol is the precursor of adrenal steroids. It is not itself one of the main adrenal cortical hormones.",
+      "C": "Catecholamines are released by adrenal medullary chromaffin cells, rather than by the cortex.",
+      "D": "Steroid metabolites are often conjugated in the liver and excreted chiefly in urine. Biliary excretion is not the predominant route for most of them.",
+      "E": "Progesterone from the corpus luteum and later the placenta supports pregnancy. This does not describe the adrenal cortical steroids as a class."
      },
      "topicId": "endo-adrenal",
      "subtopic": "",
@@ -1648,12 +1648,12 @@
       }
      ],
      "correctAnswer": "A",
-     "why": "ACE inhibitors block the conversion of Angiotensin I to Angiotensin II, decreasing vasoconstriction and aldosterone secretion.",
+     "why": "ACE converts angiotensin I to angiotensin II. Inhibiting ACE decreases this formation pathway and generally reduces angiotensin II-mediated vasoconstriction and the stimulus for aldosterone secretion.",
      "notes": {
-      "B": "Renin RISES, because angiotensin II feedback is lost.",
-      "C": "Diuresis tends to rise as aldosterone falls.",
-      "D": "Angiotensin I RISES because it is not converted.",
-      "E": "Potassium tends to RISE as aldosterone falls."
+      "B": "Reduced angiotensin II removes some negative feedback on renin, so renin often rises during ACE inhibition.",
+      "C": "Urinary flow depends on volume, perfusion and tubular handling. A fall in diuresis is not the primary pharmacological effect.",
+      "D": "Lower conversion of angiotensin I and increased renin can raise angiotensin I rather than lower it.",
+      "E": "Lower aldosterone can reduce renal potassium excretion and permit potassium retention."
      },
      "topicId": "endo-adrenal",
      "subtopic": "",
@@ -1686,12 +1686,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "Pheochromocytoma secretes excess catecholamines, causing hypertension, tremor, increased BMR, and elevated urinary catecholamines.",
+     "why": "A phaeochromocytoma can release excess catecholamines, causing sustained or episodic hypertension, tremor and increased energy expenditure. Urinary catecholamines or their metabolites can be elevated. The pattern varies with the tumour and its secretory activity.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "Adrenergic stimulation can produce persistent or episodic hypertension through vascular and cardiac effects.",
+      "B": "Excess adrenergic activity can produce a fine tremor, including in the outstretched hands.",
+      "C": "Catecholamine excess can increase energy expenditure and contribute to weight loss in some people.",
+      "D": "Tumour catecholamine secretion can increase urinary catecholamines. Metanephrines are generally preferred for biochemical testing."
      },
      "topicId": "endo-adrenal",
      "subtopic": "",
@@ -1725,12 +1725,12 @@
       }
      ],
      "correctAnswer": "C",
-     "why": "Cushing's syndrome causes hyperglycemia (gluconeogenesis) and hypertension (mineralocorticoid effect), while decreasing immunity and bone strength.",
+     "why": "Chronic glucocorticoid excess increases hepatic glucose output and insulin resistance, leading to higher blood glucose. It can also increase arterial pressure through effects on vascular responsiveness and, in some cases, renal sodium handling.",
      "notes": {
-      "A": "The skin becomes THIN.",
-      "B": "Bone is weakened (osteoporosis).",
-      "D": "Immunity is suppressed.",
-      "E": "Wound healing is delayed."
+      "A": "Excess glucocorticoid commonly thins skin through protein catabolism and reduced collagen formation.",
+      "B": "Bone strength tends to fall because glucocorticoid excess suppresses bone formation and increases fracture risk.",
+      "D": "Glucocorticoids suppress many inflammatory and immune responses. This can increase susceptibility to infection.",
+      "E": "Reduced collagen synthesis and impaired inflammatory responses slow wound healing."
      },
      "topicId": "endo-adrenal",
      "subtopic": "",
@@ -1763,12 +1763,12 @@
       }
      ],
      "correctAnswer": "C",
-     "why": "Cortisol stimulates gluconeogenesis in the liver, raising blood glucose.",
+     "why": "Cortisol increases hepatic gluconeogenesis by altering enzyme expression and mobilising substrates. It can also oppose insulin-mediated glucose uptake, helping raise circulating glucose during a sustained stress response.",
      "notes": {
-      "A": "Lipolysis supplies glycerol but is not the main mechanism.",
-      "B": "Cortisol BREAKS DOWN muscle protein.",
-      "D": "Not the mechanism.",
-      "E": "Insulin LOWERS glucose."
+      "A": "Lipolysis can supply glycerol for gluconeogenesis, but the direct hepatic pathway that produces glucose is gluconeogenesis.",
+      "B": "Cortisol tends to promote muscle protein breakdown, which provides amino acids that can be used by the liver.",
+      "D": "Increasing growth hormone release is not the principal mechanism of cortisol-induced glucose production.",
+      "E": "Insulin normally lowers blood glucose by increasing uptake and restraining hepatic glucose production."
      },
      "topicId": "endo-adrenal",
      "subtopic": "",
@@ -1801,12 +1801,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "Glucagon is an alpha-cell polypeptide that opposes insulin, increasing blood glucose via glycogenolysis when glucose is low.",
+     "why": "Glucagon is a peptide from pancreatic alpha cells. Secretion generally rises when glucose falls and decreases after carbohydrate intake, although it is also regulated by other signals. In the liver it promotes glycogen breakdown and glucose production.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "Pancreatic alpha cells are the principal source of glucagon in the islets of Langerhans.",
+      "B": "Glucagon is a small peptide hormone, formed by processing the precursor proglucagon.",
+      "C": "Lower glucose generally stimulates glucagon release, but the relationship is not a fixed inverse proportion across all conditions.",
+      "D": "Glucagon activates hepatic signalling that increases glycogenolysis and helps maintain circulating glucose during fasting."
      },
      "topicId": "endo-pancreas",
      "subtopic": "",
@@ -1840,12 +1840,12 @@
       }
      ],
      "correctAnswer": "E",
-     "why": "Insulin promotes glucose and amino acid uptake into muscle. Its secretion is stimulated by parasympathetic (vagal) tone and inhibited by sympathetic tone.",
+     "why": "Insulin promotes uptake of glucose and some amino acids into skeletal muscle and supports protein synthesis. Vagal activity can stimulate meal-related insulin release, while sympathetic alpha-2 signalling usually restrains secretion during stress.",
      "notes": {
-      "A": "True, but so are the other statements.",
-      "B": "True, but so are the other statements.",
-      "C": "True, but so are the other statements.",
-      "D": "True, but so are the other statements."
+      "A": "Alpha-2 adrenergic signalling on beta cells can decrease insulin release. Other adrenergic receptor subtypes may have different effects.",
+      "B": "Insulin increases glucose uptake in skeletal muscle by moving GLUT4 transporters to the cell surface.",
+      "C": "Insulin promotes uptake of some amino acids and supports protein synthesis while reducing proteolysis.",
+      "D": "Vagal cholinergic activity can stimulate beta-cell secretion and contributes to early meal-related insulin release."
      },
      "topicId": "endo-pancreas",
      "subtopic": "",
@@ -1879,12 +1879,12 @@
       }
      ],
      "correctAnswer": "D",
-     "why": "Insulin is a polypeptide that has been synthesized in the lab (recombinant DNA technology). It is not a steroid and is degraded if taken orally.",
+     "why": "Insulin is a peptide with two chains joined by disulphide bonds. Its structure can be reproduced in the laboratory, and human insulin for clinical use can be produced by recombinant DNA methods.",
      "notes": {
-      "A": "Insulin is a peptide.",
-      "B": "Insulin differs slightly between species.",
-      "C": "It is digested if taken by mouth.",
-      "E": "Option D is correct."
+      "A": "Insulin is made of amino acids linked into peptide chains and contains no steroid-type sterol ring.",
+      "B": "Insulin sequences are similar across many mammals but can differ at particular amino acid positions.",
+      "C": "Ordinary oral insulin is poorly effective because digestive enzymes can degrade it and intact insulin is poorly absorbed.",
+      "E": "Laboratory synthesis and recombinant production demonstrate that the insulin molecule can be produced outside the body."
      },
      "topicId": "endo-pancreas",
      "subtopic": "",
@@ -1918,12 +1918,12 @@
       }
      ],
      "correctAnswer": "C",
-     "why": "Secretin stimulates the pancreas to secrete a bicarbonate-rich, watery juice. CCK stimulates enzyme-rich juice and gallbladder contraction.",
+     "why": "Secretin is released by duodenal S cells in response to acid and stimulates pancreatic duct cells to secrete watery, bicarbonate-rich fluid. Cholecystokinin mainly stimulates pancreatic acinar enzyme release and gallbladder contraction.",
      "notes": {
-      "A": "Both are made by mucosal cells in the upper small intestine.",
-      "B": "That is CCK's action.",
-      "D": "CCK contracts the gallbladder.",
-      "E": "Secretin REDUCES gastric motility."
+      "A": "Both hormones are made by specialised mucosal cells in the upper small intestine, so their site of origin does not distinguish them.",
+      "B": "Enzyme-rich secretion is the characteristic cholecystokinin response at the pancreatic acini. Secretin primarily increases ductal bicarbonate.",
+      "D": "Cholecystokinin is the stronger physiological stimulus for gallbladder smooth muscle contraction after a meal.",
+      "E": "Secretin participates in intestinal feedback to the stomach and can slow emptying rather than increasing gastric motility."
      },
      "topicId": "endo-pancreas",
      "subtopic": "",
@@ -1956,12 +1956,12 @@
       }
      ],
      "correctAnswer": "D",
-     "why": "Obesity causes insulin resistance, increasing the body's requirement for insulin.",
+     "why": "Obesity can increase insulin resistance, so more insulin may be needed to achieve a given metabolic effect. Actual insulin requirements depend on sensitivity, diet, activity and the degree of endogenous insulin secretion.",
      "notes": {
-      "A": "Needs vary with meals and the night-time rise in GH.",
-      "B": "The half-life is not reduced.",
-      "C": "Insulin circulates mostly UNBOUND (half-life about 5 minutes).",
-      "E": "Exercise LOWERS insulin needs."
+      "A": "Insulin needs vary over the day with meals, activity and circadian physiology. Day and night doses are not generally assumed equal.",
+      "B": "Diabetes does not by itself reliably shorten insulin half-life. Clearance depends in part on liver and kidney function and the preparation used.",
+      "C": "Circulating endogenous insulin is a soluble peptide and is not mostly carried by plasma binding proteins.",
+      "E": "Exercise can increase muscle glucose uptake and insulin sensitivity, often decreasing rather than increasing insulin needs."
      },
      "topicId": "endo-pancreas",
      "subtopic": "",
@@ -1994,12 +1994,12 @@
       }
      ],
      "correctAnswer": "C",
-     "why": "In diabetic ketosis (insulin deficiency), glucose cannot be utilized (decreased breakdown), so the body breaks down fat (ketogenesis) and protein instead.",
+     "why": "In diabetic ketosis, insulin deficiency reduces glucose uptake and use in insulin-sensitive tissues even though blood glucose may be high. Increased fatty acid delivery to the liver and beta-oxidation support ketone production.",
      "notes": {
-      "A": "Ketones are produced in excess, not broken down less.",
-      "B": "Glycogen breakdown is INCREASED.",
-      "D": "Fat breakdown is INCREASED.",
-      "E": "Protein breakdown is INCREASED."
+      "A": "Ketone production exceeds clearance during diabetic ketosis. The core defect is not a general blockade of ketone use.",
+      "B": "Low insulin and high counter-regulatory signalling can increase breakdown of liver glycogen and hepatic glucose output.",
+      "D": "Breakdown of adipose triglyceride increases, providing fatty acids for hepatic ketone production.",
+      "E": "Insulin deficiency can increase proteolysis and the use of amino acids for gluconeogenesis."
      },
      "topicId": "endo-pancreas",
      "subtopic": "",
