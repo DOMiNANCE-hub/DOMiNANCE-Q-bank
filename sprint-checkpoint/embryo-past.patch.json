@@ -1875,5 +1875,236 @@
       "C": "The implant releases a hormone for a limited duration and can be removed when the user wants to discontinue it.",
       "D": "The surgical methods meet the permanent category. The implant is a long-acting reversible method, so including it makes this combination incorrect."
     }
+  },
+  "ana-emb-eg24-135-p23": {
+    "why": "During the acrosome reaction, membranes at the anterior sperm head fuse and vesiculate. Acrosomal enzymes are released and help the sperm interact with the oocyte’s coverings.",
+    "notes": {
+      "B": "The acrosome contains hydrolytic enzymes rather than a hormone-secreting system. Exocytosis releases its enzymatic contents.",
+      "C": "Acrosomal membranes are remodelled and can shed vesicles. The characteristic released soluble contents asked for are enzymes.",
+      "D": "Enzyme release is correct, but the additional claim of hormone release is not part of acrosomal exocytosis.",
+      "E": "This combination includes hormone release and omits the enzymatic contents characteristically released from the acrosome."
+    }
+  },
+  "ana-emb-eg24-137-p23": {
+    "why": "Implantation usually starts about six to seven days after fertilisation. By then a hatched blastocyst can appose and attach to receptive secretory endometrium.",
+    "notes": {
+      "A": "At one to two days, cleavage is under way while the early embryo is still moving along the uterine tube.",
+      "B": "Around days two to three the embryo has several blastomeres. The enclosing zona is still usually present.",
+      "C": "Compaction and early blastocyst formation occur around this period. Endometrial attachment usually begins after hatching.",
+      "E": "By ten to twelve days implantation is usually well advanced. The first attachment takes place several days sooner."
+    }
+  },
+  "ana-emb-sj-ivf": {
+    "why": "In vitro fertilisation can bypass obstructed tubes and can use retrieved, stored or donated gametes. Embryo transfer also requires a receptive uterus, which can be hormonally prepared.",
+    "notes": {
+      "A": "IVF brings sperm and oocytes together outside the body. Embryo transfer bypasses the blocked uterine tubes.",
+      "B": "Bilateral ovary removal eliminates new oocyte retrieval. Donor oocytes are needed if the patient has no previously stored oocytes or embryos.",
+      "C": "A person without a functional uterus cannot carry an intrauterine pregnancy. A gestational carrier can carry the transferred embryo.",
+      "D": "Some causes of azoospermia allow sperm retrieval from the testis or epididymis, depending on the cause and extent of sperm production.",
+      "E": "A low sperm count does not necessarily prevent using the patient’s sperm. Laboratory techniques can help when viable sperm are available.",
+      "F": "Vasectomy blocks the ductus deferens rather than sperm production. In selected cases, sperm can be retrieved for assisted fertilisation.",
+      "G": "A urethral obstruction can prevent semen delivery. Selected patients may have sperm retrieved upstream if spermatogenesis is intact.",
+      "H": "Cryopreserved sperm can be thawed and assessed for use in assisted reproduction if sufficient viable cells remain.",
+      "I": "Sperm can undergo the acrosome reaction in conventional IVF. Direct intracytoplasmic injection bypasses its usual role in zona penetration.",
+      "J": "A postmenopausal endometrium generally needs hormonal preparation for embryo transfer because it lacks the usual cyclic ovarian support."
+    }
+  },
+  "ana-emb-sj-fert": {
+    "why": "Sperm–oocyte fusion activates the secondary oocyte, modifies its coat and completes meiosis II. Combining the parental genomes establishes the zygote and enables the first cleavage divisions.",
+    "notes": {
+      "A": "Oocyte activation releases cortical granules that modify the zona pellucida and limit additional sperm entry.",
+      "B": "The fertilising sperm usually contributes either an X or a Y chromosome, establishing the zygote’s sex chromosome complement.",
+      "C": "The acrosome reaction occurs in the sperm before membrane fusion and helps enable interaction with the oocyte’s extracellular coverings.",
+      "D": "Meiosis I normally finishes just before ovulation. Fertilisation activates completion of the second meiotic division.",
+      "E": "Activation allows the metaphase II-arrested oocyte to separate sister chromatids and extrude its second polar body.",
+      "F": "Oocyte activation initiates development leading to cleavage, the mitotic division sequence of the new embryo.",
+      "G": "The fusion and activation events establish the fertilised single cell known as the zygote.",
+      "H": "Formation of a blastocyst requires several days of cleavage and organisation after the zygote has formed.",
+      "I": "Combining independently assorted and recombined maternal and paternal genomes creates a new genetic combination in the zygote.",
+      "J": "The second polar body is expelled. The maternal chromosome set retained in the oocyte forms the female pronucleus."
+    }
+  },
+  "ana-emb-sj-inf": {
+    "why": "Infertility can reflect problems with intercourse, delivery or function of gametes, and passage through reproductive ducts. Clinical effect depends on the specific site, severity and associated findings.",
+    "notes": {
+      "A": "An undescended testis in infancy needs follow-up, but this finding alone does not establish adult infertility, particularly if the other testis is normal.",
+      "B": "Pelvic infection can scar the uterine tubes, preventing gametes from meeting or impairing embryo transport.",
+      "C": "Genital infection can alter secretions or cause inflammation that impairs sperm passage. General vaginal acidity alone is not a diagnosis.",
+      "D": "Erectile or ejaculatory dysfunction can prevent effective deposition of semen even when sperm production is intact.",
+      "E": "Severe obesity can affect ovulation and other reproductive functions through endocrine and metabolic mechanisms.",
+      "F": "Absent ejaculation can prevent sperm delivery to the female reproductive tract even if sperm are produced.",
+      "G": "Female orgasm is not required for sperm deposition, fertilisation or normal implantation.",
+      "H": "An obstructed vaginal outlet can prevent penetrative intercourse or access to the cervix, depending on the anatomy.",
+      "I": "A single length threshold does not determine whether intercourse or semen deposition is possible.",
+      "J": "Kartagener syndrome is a form of primary ciliary dyskinesia. It can impair sperm flagellar motility.",
+      "K": "Fallopian tube ciliary dysfunction can impair gamete or embryo transport in those with primary ciliary dyskinesia.",
+      "L": "Abnormally thick or poorly penetrable cervical mucus can impede sperm passage, although clinically significant cervical-factor infertility is uncommon.",
+      "M": "Ductal scarring can obstruct delivery of sperm from the male reproductive tract into the urethra.",
+      "N": "The female urethra is a urinary passage. Obstruction there is not itself a blockage of the sperm or oocyte route."
+    }
+  },
+  "ana-emb-sa-b-13": {
+    "why": "The embryoblast separates into epiblast and hypoblast. The hypoblast is the early layer called primitive endoderm, which contributes to yolk-sac lining rather than the definitive embryonic gut.",
+    "notes": {
+      "A": "The amnion develops around the early amniotic cavity adjacent to the epiblast. It is a membrane rather than the primitive endodermal layer.",
+      "B": "The chorion combines trophoblast and extraembryonic somatic mesoderm. It does not arise as the first embryoblast layer.",
+      "D": "Definitive embryonic ectoderm is derived from the epiblast during gastrulation, after the bilaminar disc has formed.",
+      "E": "Intraembryonic mesoderm forms when epiblast cells migrate through the primitive streak during gastrulation."
+    }
+  },
+  "ana-emb-sa-i-27": {
+    "why": "The syncytiotrophoblast is the outer multinucleated trophoblast layer at early implantation. It penetrates the endometrium and forms the early interface with surrounding maternal tissue.",
+    "notes": {
+      "A": "The embryoblast is the inner cell mass that forms the embryonic disc. Maternal contact is made by the overlying trophoblast.",
+      "B": "The amniotic membrane surrounds the forming cavity next to the epiblast. It lies within the conceptus.",
+      "C": "The primary yolk sac forms toward the hypoblast inside the conceptus. It is not the invasive maternal interface.",
+      "D": "Cytotrophoblast is the inner cellular trophoblast layer that supplies cells to the overlying syncytium during initial implantation."
+    }
+  },
+  "ana-emb-sa-i-28": {
+    "why": "The embryoblast, or inner cell mass, gives rise to the epiblast and hypoblast. These layers form the early bilaminar embryonic disc before the primitive streak develops.",
+    "notes": {
+      "B": "Trophoblast derives from the outer cells of the early blastocyst, whereas the embryoblast is its inner cell population.",
+      "C": "Extraembryonic mesoderm develops later around embryonic cavities. It is not one of the initial layers formed directly by segregation of the embryoblast.",
+      "D": "Intraembryonic mesoderm comes from epiblast cells passing through the primitive streak during gastrulation, after the bilaminar disc stage.",
+      "E": "The epiblast is a direct derivative of the embryoblast and is included among the choices."
+    }
+  },
+  "ana-emb-sa-i-32": {
+    "why": "Implantation begins when the blastocyst hatches and attaches to receptive endometrium. Its outer trophoblast then differentiates and invades the uterine lining.",
+    "notes": {
+      "A": "The zygote is the single cell immediately after fertilisation and is still in the uterine tube at this stage.",
+      "B": "A sixteen-cell embryo is usually at or approaching the morula stage, before the blastocyst forms and hatches.",
+      "C": "Cell number alone does not define readiness for implantation. A cavitated, hatched blastocyst attaches through its trophoblast.",
+      "E": "The bilaminar disc describes differentiation within the embryoblast during early implantation. The whole conceptus attaches as a blastocyst."
+    }
+  },
+  "ana-emb-sa-i-33": {
+    "why": "Loss of the zona pellucida lets the blastocyst’s trophoblast contact the receptive endometrium directly. This hatching step enables the apposition and adhesion that start implantation.",
+    "notes": {
+      "B": "Endometrial decidual changes support implantation. Hatching is the immediate physical prerequisite that exposes the trophoblast for contact.",
+      "C": "The inner and outer cell populations segregate earlier as the blastocyst forms. The surrounding coat still has to be shed.",
+      "D": "The other processes contribute to development or uterine response, but neither substitutes for exposing the trophoblast by hatching.",
+      "E": "Zona shedding opens access to the endometrial surface, so a recognised prerequisite is present among the choices."
+    }
+  },
+  "ana-emb-sa-i-34": {
+    "why": "The blastocyst attaches during the postovulatory secretory phase. Progesterone from the corpus luteum makes the endometrial glands secretory and helps establish a receptive implantation window.",
+    "notes": {
+      "A": "The proliferative phase precedes ovulation and is driven mainly by oestrogen. Implantation usually starts after the luteal phase begins.",
+      "B": "Decidualisation can begin in the secretory phase and intensifies around implantation. Secretory is the cycle phase asked for here.",
+      "D": "The postovulatory secretory phase is a standard term and is included among the choices.",
+      "E": "The endometrium is not in every listed phase. Progesterone-dependent secretory maturation precedes attachment."
+    }
+  },
+  "ana-emb-es-40": {
+    "why": "Monozygotic twins form when one early conceptus separates into two embryonic lineages. In the classical model, the time of separation influences which fetal membranes are shared.",
+    "notes": {
+      "A": "Separation of the inner embryonic population at the blastocyst stage is classically associated with a shared chorion.",
+      "B": "Very early cleavage-stage separation can produce two separate blastocysts with their own chorions and amnions.",
+      "C": "Cells can also separate at the morula stage, before a single chorion has been established.",
+      "D": "The conventional model places ordinary complete twinning earlier. Very late incomplete separation is sometimes invoked to explain conjoined twinning.",
+      "E": "Neurulation follows early axis formation and is well beyond the usual time assigned to separation into two embryos."
+    }
+  },
+  "ana-emb-eg24-22-p4": {
+    "why": "Most ectopic pregnancies implant in a uterine tube, particularly its ampullary region. Tubal implantation occurs before the blastocyst reaches the usual site in the uterine cavity.",
+    "notes": {
+      "A": "Cervical implantation is a recognised but uncommon form of ectopic pregnancy. Tubal locations are substantially more frequent.",
+      "B": "The ovary can be an ectopic implantation site, but ovarian pregnancies account for a small minority of ectopic pregnancies.",
+      "C": "An abdominal implant occurs outside the uterine cavity and tube. It is less frequent than tubal implantation.",
+      "E": "The uterine tube is the most common ectopic site, and it appears explicitly among the options."
+    }
+  },
+  "ana-emb-eg24-26-p4": {
+    "why": "As the morula compacts, outer cells adopt trophectoderm identity and inner cells form the embryoblast. The outer lineage supplies the trophoblast of the developing blastocyst.",
+    "notes": {
+      "A": "The amnion forms later around the cavity adjacent to the epiblast, after the primary outer and inner lineages separate.",
+      "B": "The chorion is a membrane formed later from trophoblast and extraembryonic somatic mesoderm.",
+      "C": "The hypoblast separates later within the inner cell mass. It is not the early outer lineage of the morula.",
+      "D": "The epiblast is specified within the embryoblast after the outer trophectoderm lineage is established."
+    }
+  },
+  "ana-emb-eg24-53-p9": {
+    "why": "Decidualisation is the progesterone-responsive transformation of endometrial stromal cells. It begins during the secretory phase and becomes more pronounced around the implanting conceptus.",
+    "notes": {
+      "A": "Capacitation alters sperm membranes and signalling during preparation for fertilisation. It does not describe an endometrial change.",
+      "B": "Gastrulation reorganises the embryonic epiblast into germ layers. Decidualisation occurs in maternal tissue.",
+      "D": "Nidation is implantation itself. The associated stromal transformation of the uterine lining is a separate process.",
+      "E": "Fertilisation unites sperm and oocyte and normally occurs in the uterine tube, before the endometrial response."
+    }
+  },
+  "ana-emb-eg24-75-p12": {
+    "why": "Cleavage divides the zygote mitotically into smaller cells without corresponding overall growth. These individual cells are blastomeres, which later compact and contribute to blastocyst lineages.",
+    "notes": {
+      "A": "A blastocyst is the entire later structure containing a cavity and specialised cell populations. Individual cleavage cells have a different name.",
+      "C": "Trophoblast cells belong to an outer lineage established after early cleavage and compaction. The earlier cells are blastomeres.",
+      "D": "The embryoblast is the inner cell mass in the blastocyst. It represents one population descended from blastomeres.",
+      "E": "Only one term describes the individual products of cleavage. The other terms refer to later structures or lineages."
+    }
+  },
+  "ana-emb-eg24-79-p13": {
+    "why": "Low uterine implantation can leave the placenta near the internal cervical opening. Placenta praevia is diagnosed when placental tissue overlies that opening later in pregnancy.",
+    "notes": {
+      "A": "Tubal implantation is an ectopic pregnancy. Placenta praevia concerns placental location in a pregnancy within the uterus.",
+      "C": "Fundal implantation is high in the uterus and usually places the placenta away from the internal cervical opening.",
+      "D": "Ovarian implantation is an ectopic pregnancy and cannot produce the usual placental relationship to the cervical opening.",
+      "E": "Abdominal implantation is ectopic. The relationship defining placenta praevia occurs within the lower uterus."
+    }
+  },
+  "ana-emb-eg24-121-p20": {
+    "why": "Fertilisation establishes a single-cell zygote containing maternal and paternal chromosome sets. Its pronuclear envelopes later break down so the chromosomes can participate in the first mitosis.",
+    "notes": {
+      "A": "The first polar body is produced when the primary oocyte completes meiosis I. It forms before the paternal genome enters.",
+      "B": "The second polar body results from completion of meiosis II after activation. It does not retain both parental genomes.",
+      "C": "A pronucleus contains one parental chromosome set before the first zygotic mitosis. The whole fertilised cell is the zygote.",
+      "E": "A blastomere is produced when the zygote starts cleavage. It is a daughter cell rather than the initial fertilised cell."
+    }
+  },
+  "ana-emb-eg24-170-p29": {
+    "why": "The syncytiotrophoblast secretes human chorionic gonadotrophin after implantation begins. The hormone maintains the early corpus luteum and thereby sustains progesterone production until placental production increases.",
+    "notes": {
+      "B": "Decidua basalis is maternal endometrial tissue beneath the implant. The syncytiotrophoblast contributes to the fetal placental component.",
+      "C": "Around day four the conceptus is usually at the morula or early blastocyst transition. Invasive syncytium appears with implantation.",
+      "D": "The zona pellucida is the surrounding glycoprotein coat that is shed before implantation. Syncytiotrophoblast is derived from trophoblast.",
+      "E": "The villous syncytiotrophoblast remains present and provides an exchange and endocrine surface. Cytotrophoblast cells replenish it by fusion."
+    }
+  },
+  "ana-emb-sj-dz": {
+    "why": "Dizygotic twins arise when two separate oocytes are fertilised. Each twin usually has a separate chorion, amnion and cord, although adjacent placental discs can fuse.",
+    "notes": {
+      "A": "Each oocyte is fertilised separately, so there are two zygotes rather than separation of one zygote.",
+      "B": "Dizygotic twins are genetically comparable to other full siblings. Each inherits a different combination of parental alleles.",
+      "C": "Two adjacent placental discs can join and appear as one mass, while the pregnancy remains dichorionic.",
+      "D": "Dizygotic twins ordinarily form separate amniotic sacs because they originate from two separate conceptuses.",
+      "E": "Two oocytes may be released from follicles in the same ovary within one ovulatory cycle.",
+      "F": "Ovulatory follicles in both ovaries can release oocytes that are subsequently fertilised in the same cycle.",
+      "G": "The two fertilisations are independent. The twins can have the same or different sex chromosome complements.",
+      "H": "Each fetus has its own umbilical cord, even when the outer placental discs are fused."
+    }
+  },
+  "ana-emb-sj-impl": {
+    "why": "A hatched blastocyst attaches at its embryonic pole to secretory endometrium. Trophoblast invades at that site, where persistent villi form the chorion frondosum against decidua basalis.",
+    "notes": {
+      "A": "The zona pellucida is shed before attachment, exposing the trophoblast so it can contact the endometrial surface.",
+      "B": "The morula is an earlier solid cell mass. Implantation begins after blastocyst formation and hatching.",
+      "C": "Attachment usually begins on the side of the blastocyst containing the embryoblast, known as the embryonic pole.",
+      "D": "Decidua basalis lies deep to the conceptus toward the myometrium. Capsularis covers the opposite side.",
+      "E": "Decidua capsularis faces the uterine cavity. Decidua basalis lies beneath the site of implantation.",
+      "F": "Villi regress on the capsular side, producing smooth chorion, or chorion laeve, against the decidua capsularis.",
+      "G": "Branching villi persist at the maternal placental bed, which is decidua basalis rather than the parietal lining.",
+      "H": "Implantation begins in progesterone-conditioned secretory endometrium during the postovulatory phase.",
+      "I": "The endometrium undergoes further decidual change after attachment. It does not return to its preovulatory proliferative state.",
+      "J": "Syncytiotrophoblast is the outer invasive layer and directly contacts surrounding maternal tissue at the implantation site."
+    }
+  },
+  "ana-emb-sa-a-3": {
+    "why": "The amnion includes amniotic epithelium with a supporting outer layer of extraembryonic somatic mesoderm. This layer is also called somatopleuric mesoderm.",
+    "notes": {
+      "A": "Extraembryonic splanchnic mesoderm covers the yolk sac. The mesoderm applied to the amnion is the somatic layer.",
+      "C": "Lateral plate terminology describes a broader somatic and splanchnic distinction. The specific extraembryonic layer at the amnion is somatic.",
+      "D": "Intermediate mesoderm contributes to the urogenital system. It does not supply the amniotic supporting layer.",
+      "E": "Paraxial mesoderm forms somites and their axial derivatives. It is distinct from extraembryonic mesoderm at the amnion."
+    }
   }
 }
