@@ -399,5 +399,173 @@
       "C": "The assertion is false because ALT is principally used in the evaluation of hepatocellular damage.",
       "D": "Kidney damage is not the usual reason for a raised ALT, making the stated explanation inaccurate."
     }
+  },
+  "bio-402": {
+    "why": "The Lineweaver–Burk plot graphs reciprocal velocity against reciprocal substrate concentration. For ideal Michaelis–Menten data it gives a straight line, with intercepts that can be used to estimate the kinetic constants. In real data, the transform can amplify error at low substrate concentrations.",
+    "notes": {
+      "A": "The straight-line transformation is real, but it was introduced to make the intercepts easier to estimate from ideal data.",
+      "B": "The reason correctly identifies the linear relation. The assertion does not describe the usual purpose of that transformation.",
+      "C": "The plot does produce a straight line for ideal data, so the reason should not be marked false.",
+      "E": "The linear relationship is valid in the model even though fitting untransformed data is often more reliable in practice."
+    }
+  },
+  "bio-453": {
+    "why": "The anticodon pairs antiparallel to the mRNA codon. With the codon written 5′-AUG-3′, the complementary RNA sequence is 3′-UAC-5′, or 5′-CAU-3′ if the anticodon is written in its own 5′-to-3′ direction.",
+    "notes": {
+      "B": "Transfer RNA uses uracil rather than thymine. The specified orientation must also be opposite to the aligned codon.",
+      "C": "UAC is the aligned complement only when written 3′ to 5′ against the codon. Reversing its end labels changes the molecule described.",
+      "D": "The end labels are antiparallel, but thymine is not the base used at that position in the usual RNA anticodon."
+    }
+  },
+  "bio-454": {
+    "why": "RNA polymerase reads the DNA template in the 3′-to-5′ direction. For this written template, the RNA is complementary and antiparallel. Written in the usual 5′-to-3′ direction, it is 5′-CAU-3′.",
+    "notes": {
+      "B": "AUG would correspond to an ATG coding strand. Here the given sequence is explicitly the template strand.",
+      "C": "UAC is the aligned complement from left to right, but in that alignment its direction is 3′ to 5′, not 5′ to 3′.",
+      "D": "The proposed strand contains thymine. RNA uses uracil in the usual complement to adenine."
+    }
+  },
+  "bio-258": {
+    "why": "Antibodies and complement are major means of protection against extracellular bacteria. They can neutralise toxins and promote bacterial clearance by phagocytes. T cells help organise some of these responses, but direct toxin neutralisation is usually antibody mediated.",
+    "notes": {
+      "A": "Neither claim describes the usual primary mechanism. Antibodies can neutralise extracellular toxins and promote bacterial removal.",
+      "B": "The overall division of labour and the claim of direct cell-mediated toxin inactivation are both inaccurate.",
+      "C": "The assertion is incorrect as a general rule because extracellular bacteria are major targets of humoral immunity.",
+      "D": "Neutralising many bacterial toxins directly is a role of antibodies rather than of the cell-mediated response."
+    }
+  },
+  "bio-260": {
+    "why": "A cytokine cascade occurs when an initial signal induces responding cells to produce additional cytokines. The secondary mediators can then recruit more cells or change their activity, expanding the original response.",
+    "notes": {
+      "B": "Induction of additional cytokines is what makes the response a cascade, so the two statements describe the same linked process.",
+      "C": "A cascading response is an established feature of cytokine signalling and can involve induction of further cytokines.",
+      "D": "The assertion is supported because a cell can respond to one cytokine by releasing others.",
+      "E": "Both statements describe how a primary cytokine signal can lead to a sequence of secondary responses."
+    }
+  },
+  "bio-261": {
+    "why": "Chemokines are a family of cytokines that guide cell migration. In addition to immediate recruitment, some help organise lymphoid tissues or position developing and mature T cells, which can influence differentiation and behaviour.",
+    "notes": {
+      "A": "Roles in tissue organisation are valid, but they are broader consequences of chemokine signalling rather than the definition of a chemoattractant.",
+      "C": "Chemokines can contribute to lymphoid organisation and T-cell development by directing where cells migrate and interact.",
+      "D": "The assertion is correct because directed cell migration is a defining action of chemokines.",
+      "E": "Both statements describe recognised chemokine biology, with the reason addressing wider roles beyond the definition."
+    }
+  },
+  "bio-262": {
+    "why": "T-cell-mediated immunity is especially important against organisms within host cells. Helper T cells can activate macrophages, and cytotoxic T cells can remove infected cells. Neutralisation of soluble bacterial toxins is ordinarily an antibody function.",
+    "notes": {
+      "A": "The assertion is generally correct. The reason assigns direct toxin neutralisation to the wrong arm of adaptive immunity.",
+      "B": "Toxin neutralisation is not an additional true statement about the primary cell-mediated mechanism.",
+      "D": "Cell-mediated responses are important against intracellular organisms. The toxin explanation does not describe that role.",
+      "E": "The assertion is supported even though the reason is inaccurate. Intracellular targets require responses directed at infected cells."
+    }
+  },
+  "bio-263": {
+    "why": "Innate defences, including barriers and rapid antiviral responses, act before a new adaptive response develops. Adaptive antibodies can later neutralise extracellular viral particles by blocking attachment or entry.",
+    "notes": {
+      "A": "Antibody production is part of adaptive immunity, but it is not the first newly activated line of defence during an initial infection.",
+      "B": "The reason is valid, whereas the assertion incorrectly places a newly generated adaptive response before innate protection.",
+      "C": "Adaptive antibodies can block an early step in infection of cells. The claim that adaptive immunity is the body's first line is false.",
+      "E": "The assertion is inaccurate, but neutralisation by adaptive antibodies is a recognised mechanism."
+    }
+  },
+  "bio-264": {
+    "why": "Neutralising antibodies can bind extracellular viral particles and help limit spread to other cells during acute infection. They do not remove viral genetic material that has become integrated in a host cell.",
+    "notes": {
+      "A": "The acute containment role is valid, but antibodies cannot directly eradicate a genome integrated into host DNA.",
+      "B": "Both statements cannot be accepted because extracellular neutralisation does not excise an intracellular integrated genome.",
+      "D": "The assertion is true. The reason confuses limiting spread with removing genetic material already present inside host cells.",
+      "E": "Antibodies can contribute to containment during acute infection even though the proposed mechanism of eliminating integration is wrong."
+    }
+  },
+  "bio-265": {
+    "why": "The main clinical symptoms of malaria generally reflect the blood stage, when parasites multiply in red blood cells and trigger inflammatory responses. An earlier stage develops in the liver and is often clinically silent.",
+    "notes": {
+      "A": "Liver stage development occurs, but it is not the principal cause of the characteristic fever and other major symptoms.",
+      "B": "The reason is true while the assertion attributes the main symptoms to the wrong stage.",
+      "C": "The main symptomatic phase is the blood stage. The stated early liver stage is real.",
+      "E": "The assertion is inaccurate, but the reason correctly identifies development in hepatocytes before the symptomatic phase."
+    }
+  },
+  "bio-266": {
+    "why": "Cytokine redundancy means that different cytokines can produce overlapping effects on a responding cell. It contrasts with pleiotropy, in which one cytokine can have several effects or act on different cell types.",
+    "notes": {
+      "A": "A lack of response can result from absent receptors or other factors. Redundancy requires overlapping actions from distinct cytokines.",
+      "B": "Action at a distant site describes endocrine signalling rather than redundancy between cytokines.",
+      "D": "Multiple effects from one cytokine describe pleiotropy. Redundancy concerns similar effects from more than one cytokine."
+    }
+  },
+  "bio-267": {
+    "why": "A cytokine cascade is a sequence in which one mediator causes a responding cell to release additional cytokines. Here a TNF signal prompts macrophages to produce IL-1 and further TNF.",
+    "notes": {
+      "A": "Synergy means signals acting together have a stronger combined effect. The example instead describes a signal inducing more mediators.",
+      "C": "Redundancy means that different mediators produce a similar effect. It does not describe sequential amplification by release of more cytokines.",
+      "D": "Pleiotropy is the ability of one mediator to affect different cells or processes. The defining feature here is induction of another wave of cytokines."
+    }
+  },
+  "bio-268": {
+    "why": "Activated macrophages can use reactive oxygen and nitrogen species as part of their intracellular antimicrobial defences. Signals from helper T cells can enhance macrophage activity, but the macrophage generates the effector molecules.",
+    "notes": {
+      "A": "Helper T-cell cytokines activate or strengthen macrophage responses. They are not generally the direct chemical agents killing bacteria inside phagosomes.",
+      "B": "Antibodies can coat extracellular bacteria, but they do not directly supply the main intracellular killing mechanism in activated macrophages.",
+      "C": "Cytotoxic T cells can remove infected host cells. The question instead asks what kills bacteria within the macrophage."
+    }
+  },
+  "bio-270": {
+    "why": "Macrophages normally move engulfed material through vesicles that mature and fuse with lysosomes, where degradative processes support killing. A block in that maturation or fusion step reduces clearance of the engulfed bacterium.",
+    "notes": {
+      "B": "A capsule can reduce uptake of some other bacteria. The mechanism the question is testing concerns the processing of material after engulfment.",
+      "C": "Complement can help mark extracellular microbes for clearance. The particular interaction tested here is within the macrophage vesicle.",
+      "D": "An immune-privileged site is a tissue context. This question concerns survival after uptake by a phagocytic cell."
+    }
+  },
+  "bio-271": {
+    "why": "Antibodies and complement can coat extracellular bacteria with molecules recognised by phagocytes. Macrophages can then engulf and degrade the marked bacteria. Complement can also directly damage some susceptible bacterial membranes.",
+    "notes": {
+      "A": "Macrophages can ingest bacteria alone, but antibody and complement opsonisation can make recognition and uptake more efficient.",
+      "B": "Complement helps mark some bacteria and may lyse susceptible species. Phagocytes provide an additional route for removal.",
+      "C": "Antibodies can neutralise or coat bacteria. Complement and phagocytes often act alongside them to clear the organism more effectively."
+    }
+  },
+  "bio-272": {
+    "why": "Hypersensitivity is an immune response that causes tissue injury or symptoms rather than a proportionate protective response. Allergy to a relatively harmless environmental substance is one familiar example.",
+    "notes": {
+      "B": "Autoimmunity is directed against self antigens. A harmful response to an otherwise innocuous external antigen is more generally a hypersensitivity reaction.",
+      "C": "Immunodeficiency is impaired immune protection, rather than excessive or damaging reactivity to an antigen.",
+      "D": "Tolerance means antigen-specific unresponsiveness. It prevents responses rather than describing the harmful response in this question."
+    }
+  },
+  "bio-273": {
+    "why": "Immediate allergic reactions commonly involve IgE bound to high-affinity receptors on mast cells and basophils. An allergen can cross-link these surface-bound antibodies and trigger mediator release.",
+    "notes": {
+      "A": "IgG contributes to some hypersensitivity reactions, but it is not the main antibody class in classic immediate allergy.",
+      "B": "IgM is prominent early in many primary responses and can activate complement. Immediate allergy chiefly involves IgE.",
+      "D": "IgA is important in mucosal secretions and helps defend surfaces. It is not the typical mediator of mast-cell immediate allergy."
+    }
+  },
+  "bio-274": {
+    "why": "Immune tolerance is antigen-specific unresponsiveness despite the ability to respond to other stimuli. Tolerance to self antigens helps prevent autoimmune disease.",
+    "notes": {
+      "A": "Autoimmunity is an immune response against self. It can result when relevant self-tolerance mechanisms fail.",
+      "B": "Immunodeficiency generally refers to impaired immune function, not unresponsiveness to one defined antigen with other responses intact.",
+      "D": "Recognition can occur without a harmful response. The state of antigen-specific unresponsiveness is called tolerance."
+    }
+  },
+  "bio-276": {
+    "why": "Type IV hypersensitivity is mediated by sensitised T cells. They can activate inflammatory cells or directly injure target cells. The reaction is often delayed compared with immediate IgE-mediated allergy.",
+    "notes": {
+      "A": "Type I reactions are usually immediate and involve IgE-dependent mast-cell or basophil activation.",
+      "B": "Type II reactions involve antibodies against cell-associated antigens or receptors rather than a chiefly T-cell-mediated mechanism.",
+      "C": "Type III reactions arise from immune complexes depositing in tissues and activating inflammatory pathways."
+    }
+  },
+  "bio-277": {
+    "why": "Autoimmune disease can arise when immune tolerance to self fails and lymphocytes or their products attack the body's own cells and tissues. This differs from an inadequate response to infection.",
+    "notes": {
+      "A": "Hypersensitivity is a broad term for damaging immune reactions and can involve external antigens. A response specifically directed at self is autoimmune.",
+      "C": "Immunodeficiency impairs defence. Losing the distinction between self and non-self instead risks inappropriate attack on the body's tissues.",
+      "D": "Tolerance is a mechanism that normally limits responses to self antigens. Its failure can contribute to autoimmunity."
+    }
   }
 }
