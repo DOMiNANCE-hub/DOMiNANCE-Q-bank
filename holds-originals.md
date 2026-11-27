@@ -833,3 +833,39 @@
 - Key: A — FSH from the anterior pituitary.
 - Concern: Pubertal spermatogenesis requires coordinated FSH action on Sertoli cells and high intratesticular testosterone generated under LH stimulation. The stem asks for a single direct initiator despite listing both FSH and testosterone; neither alone adequately explains initiation. Original explanation and key untouched.
 - Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-g-067 — Key or premise review
+- Stem: After the acrosome reaction, penetration of the zona pellucida is mediated mainly by
+- Key: A — acrosin.
+- Concern: Zona penetration depends on hyperactivated sperm motility and multiple molecular interactions, not a single universally essential protease. Acrosin can facilitate penetration, but evidence does not establish it as the sole or principal mechanism in all mammals; the stem requires qualification. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-g-072 — Key or premise review
+- Stem: Within the female genital tract, spermatozoa may survive for up to about
+- Key: A — 72 hours.
+- Concern: Human sperm can remain viable and fertilisation-capable for up to approximately five days in favourable cervical mucus. Seventy-two hours is a common shorter estimate, not a reliable maximum; the best modern answer is absent. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-g-075 — Key or premise review
+- Stem: During cleavage the blastomeres stay enclosed within the zona pellucida, which prevents
+- Key: A — premature splitting into monozygotic twins.
+- Concern: The key is A (prevention of premature monozygotic splitting), which is not an established principal function of the zona pellucida. The protective coat helps prevent premature adhesion of the cleavage-stage conceptus to the uterine tube (option E). The answer key must be reviewed. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-g-079 — Key or premise review
+- Stem: Slight bleeding that sometimes accompanies implantation results from
+- Key: E — trophoblast eroding endometrial blood vessels.
+- Concern: Early pregnancy spotting can occur, but a distinct 'implantation bleeding' mechanism attributable to trophoblast erosion of endometrial vessels is not well established clinically. The causal premise needs qualification or a source. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-g-082 — Key or premise review
+- Stem: Dizygotic (fraternal) twins always have which membrane arrangement?
+- Key: C — dichorionic, diamniotic.
+- Concern: Dizygotic twins are ordinarily dichorionic diamniotic; rare monochorionic dizygotic configurations have been documented, including after assisted reproduction. The word 'always' makes this an absolute claim requiring revision. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
+
+## dq-embryo-g-084 — Key or premise review
+- Stem: Conjoined twinning results from incomplete splitting that occurs after formation of
+- Key: E — the bilaminar embryonic disc.
+- Concern: Late incomplete splitting after bilaminar disc formation is the traditional teaching model of conjoined twinning. Its precise mechanism and timing are not directly established in humans, and alternative fusion or axial duplication models exist. The categorical causal statement should be qualified. Original explanation and key untouched.
+- Reference: standard embryology; exact lecture and textbook page not independently checked.
