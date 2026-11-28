@@ -11396,10 +11396,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Cortisol is the predominant glucocorticoid in humans.",
+      "why": "Cortisol is the principal glucocorticoid made by the human adrenal cortex, primarily in the zona fasciculata. It regulates metabolic and inflammatory responses to stress.",
       "topicId": "endocrine",
       "subtopic": "Steroid hormone synthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Corticosterone has glucocorticoid activity, but humans normally produce more cortisol as their principal glucocorticoid.",
+        "B": "Aldosterone is the main mineralocorticoid and regulates renal sodium handling rather than serving as the main glucocorticoid.",
+        "C": "Progesterone is a reproductive steroid and an intermediate in some adrenal pathways rather than the predominant glucocorticoid.",
+        "E": "Testosterone is an androgen, with major actions distinct from those of cortisol."
+      }
     },
     {
       "id": "dq-bio-endocrine-030",
@@ -11428,10 +11434,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Aldosterone stimulates distal nephron sodium reabsorption and usually promotes potassium secretion.",
+      "why": "Aldosterone activates mineralocorticoid receptors in the aldosterone-sensitive distal nephron. It promotes sodium entry and reabsorption and can increase potassium secretion, depending on tubular conditions.",
       "topicId": "endocrine",
       "subtopic": "Steroid hormone action",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Aldosterone promotes sodium reabsorption rather than excreting more sodium from the body.",
+        "C": "The increased sodium reabsorption can favour potassium secretion rather than directly suppressing it.",
+        "D": "Aldosterone stimulates selected distal transport proteins, including epithelial sodium channels, instead of broadly inhibiting them.",
+        "E": "Most glucose reabsorption takes place in the proximal tubule and is not the characteristic aldosterone-regulated process."
+      }
     },
     {
       "id": "dq-bio-endocrine-031",
@@ -11460,10 +11472,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Cortisol increases gluconeogenic capacity and mobilizes substrates during stress.",
+      "why": "Cortisol can increase hepatic expression of gluconeogenic enzymes and mobilise substrates from other tissues. This helps maintain glucose availability during stress and during periods without recent food intake.",
       "topicId": "endocrine",
       "subtopic": "Steroid hormone action",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Cortisol can increase protein breakdown in some peripheral tissues, providing substrates for hepatic glucose production.",
+        "B": "Cortisol acts chiefly through the glucocorticoid receptor and can reduce insulin sensitivity, rather than permanently activating insulin receptors.",
+        "D": "Cortisol favours maintenance or an increase of hepatic glucose output in the stress response.",
+        "E": "Insulin promotes glucose uptake in skeletal muscle, while cortisol can oppose some insulin actions and support hepatic glucose production."
+      }
     },
     {
       "id": "dq-bio-endocrine-032",
@@ -11492,10 +11510,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Hypothalamic CRH stimulates pituitary ACTH, which stimulates adrenal cortisol production.",
+      "why": "Hypothalamic corticotropin-releasing hormone stimulates corticotrophs in the anterior pituitary to release ACTH. ACTH then acts on the adrenal cortex to increase cortisol production.",
       "topicId": "endocrine",
       "subtopic": "Steroid hormone regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "ACTH is released in response to hypothalamic CRH, so the proposed first two steps are reversed.",
+        "B": "Cortisol is the adrenal product and usually feeds back to restrain ACTH and CRH, rather than starting the forward sequence.",
+        "C": "TSH stimulates the thyroid axis and is not the hypothalamic signal that initiates ACTH release.",
+        "D": "Parathyroid hormone regulates calcium and phosphate rather than driving the hypothalamic–pituitary–adrenal axis."
+      }
     },
     {
       "id": "dq-bio-endocrine-033",
@@ -11524,10 +11548,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Cortisol feeds back to inhibit CRH and ACTH secretion.",
+      "why": "Rising cortisol acts through glucocorticoid receptors in the hypothalamus and pituitary. This negative feedback restrains CRH and ACTH release, limiting further stimulation of cortisol synthesis.",
       "topicId": "endocrine",
       "subtopic": "Steroid hormone regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "The forward pathway normally runs from CRH to ACTH to cortisol, while cortisol feeds back in the opposite regulatory direction.",
+        "C": "CRH stimulates a separate pituitary hormone to be released and is not chemically converted to ACTH.",
+        "D": "ACTH signals the adrenal cortex to synthesise cortisol from cholesterol rather than serving as the steroid precursor.",
+        "E": "Feedback can alter secretion without requiring permanent loss of the adrenal receptor for ACTH."
+      }
     },
     {
       "id": "dq-bio-endocrine-034",
@@ -11556,10 +11586,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Hepatic metabolic reactions, including glucuronidation/sulfation, facilitate steroid hormone excretion.",
+      "why": "The liver metabolises many circulating steroids and adds water-soluble groups such as glucuronide or sulphate. The resulting metabolites are more readily excreted in urine or bile.",
       "topicId": "endocrine",
       "subtopic": "Steroid hormone regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The thymus supports T-cell maturation and is not a major site of whole-body steroid clearance.",
+        "B": "Pancreatic islets secrete metabolic hormones and are not the main site of circulating steroid conjugation.",
+        "C": "The retinal pigment epithelium processes visual retinoids rather than clearing most circulating steroid hormones.",
+        "E": "Bone marrow chiefly supports blood-cell production and does not carry out most steroid conjugation."
+      }
     },
     {
       "id": "dq-bio-endocrine-035",
@@ -11588,10 +11624,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Thyroid hormones exert widespread genomic effects on metabolic activity.",
+      "why": "Circulating thyroxine is converted in many tissues to triiodothyronine, which binds nuclear thyroid hormone receptors. The broad distribution of responsive tissues helps thyroid hormones influence basal metabolism.",
       "topicId": "endocrine",
       "subtopic": "Endocrine basics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Calcitonin acts on calcium-related targets and is not the major widespread regulator of basal energy expenditure.",
+        "C": "Oxytocin acts on selected tissues such as uterine smooth muscle and mammary myoepithelium rather than regulating basal metabolism.",
+        "D": "Prolactin is classically associated with lactation and does not have the characteristic whole-body metabolic role of thyroid hormone.",
+        "E": "Renin is an enzyme initiating the renin–angiotensin pathway rather than a ligand that widely sets cellular metabolic rate."
+      }
     },
     {
       "id": "dq-bio-molbio-001",
@@ -11620,10 +11662,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Miescher isolated nuclein from cell nuclei in 1869.",
+      "why": "Friedrich Miescher isolated a phosphorus-rich material from cell nuclei in 1869 and called it nuclein. The work preceded the discovery of DNA's hereditary role and double-helical structure.",
       "topicId": "molbio",
       "subtopic": "Nucleic acid structure",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Rosalind Franklin used X-ray diffraction to investigate DNA structure many decades after nuclein was isolated.",
+        "C": "James Watson helped propose the double-helix model rather than first isolating the nuclear substance.",
+        "D": "Francis Crick contributed to the double-helix model and molecular genetics after Miescher's earlier isolation.",
+        "E": "Frederick Sanger developed sequencing methods and did not perform the first isolation of nuclein."
+      }
     },
     {
       "id": "dq-bio-molbio-002",
@@ -11652,10 +11700,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Franklin's X-ray data helped establish the helical geometry of DNA.",
+      "why": "Rosalind Franklin's X-ray diffraction work on DNA provided evidence about its helical geometry and dimensions. Those observations helped constrain structural models of the molecule.",
       "topicId": "molbio",
       "subtopic": "Nucleic acid structure",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Edward Jenner is associated with smallpox vaccination rather than X-ray analysis of DNA.",
+        "B": "Elie Metchnikoff established a role for phagocytosis in defence and did not provide DNA diffraction evidence.",
+        "C": "Paul Ehrlich contributed to immunology and chemotherapy rather than the diffraction analysis that informed DNA structure.",
+        "D": "Louis Pasteur studied fermentation, microbes and vaccination rather than the X-ray structure of DNA."
+      }
     },
     {
       "id": "dq-bio-molbio-003",
@@ -11684,10 +11738,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The central dogma describes transcription of DNA into RNA and translation into protein.",
+      "why": "A protein-coding gene is ordinarily transcribed from DNA into RNA. Ribosomes translate the message carried by RNA into the amino acid sequence of a polypeptide.",
       "topicId": "molbio",
       "subtopic": "Nucleic acid structure",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "RNA can be translated into protein, but the resulting protein does not normally serve as a template for DNA.",
+        "B": "Proteins are products of translation and are not the ordinary sequence templates used for transcription.",
+        "D": "Ribosomes translate mRNA and do not normally make an encoded protein directly from DNA.",
+        "E": "The protein sequence is generally produced after transcription and is not the starting template of this information flow."
+      }
     },
     {
       "id": "dq-bio-molbio-004",
@@ -11716,10 +11776,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "A phosphodiester linkage joins the 3′ hydroxyl of one sugar to the 5′ phosphate of the next.",
+      "why": "A phosphodiester linkage joins the 3′ oxygen of one sugar to the 5′ phosphate on the adjacent nucleotide. Repeating this covalent linkage forms the sugar–phosphate backbone.",
       "topicId": "molbio",
       "subtopic": "Nucleic acid structure",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Hydrogen bonds help pair bases across a duplex, but do not covalently link nucleotides within one strand.",
+        "C": "Peptide bonds join amino acids in proteins rather than linking the sugars of a nucleic acid backbone.",
+        "D": "Disulphide bonds can join cysteine residues in proteins, rather than normally linking purine bases.",
+        "E": "A glycosidic bond attaches a base to its sugar, not one phosphate-bearing nucleotide to the next."
+      }
     },
     {
       "id": "dq-bio-molbio-005",
@@ -11748,10 +11814,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "One strand runs 5′ to 3′ while the complementary strand runs 3′ to 5′.",
+      "why": "Each DNA strand has a 5′ end and a 3′ end. In a conventional duplex, one strand runs in the opposite direction to the other, allowing complementary bases to align.",
       "topicId": "molbio",
       "subtopic": "Nucleic acid structure",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Parallel strands would run with the same backbone polarity, whereas ordinary DNA pairing uses opposite polarities.",
+        "B": "The two strands wind around a common helical axis rather than forming separate nested rings.",
+        "C": "The strands are paired along the same length of the duplex and do not run at right angles to one another.",
+        "E": "Each strand has a polarity, but the two polarities are opposed in a conventional duplex."
+      }
     },
     {
       "id": "dq-bio-molbio-006",
@@ -11780,10 +11852,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "G–C pairs form three canonical hydrogen bonds; A–T pairs form two.",
+      "why": "In standard Watson–Crick pairing, the exposed groups of guanine and cytosine align to form three hydrogen bonds. Adenine and thymine pair through two.",
       "topicId": "molbio",
       "subtopic": "Nucleic acid structure",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The adenine–thymine pair has two hydrogen bonds rather than three in the normal DNA duplex.",
+        "C": "Adenine and uracil usually form two hydrogen bonds in RNA-containing pairs, rather than the three-bond DNA pair.",
+        "D": "Thymine and uracil are both pyrimidines and do not constitute a normal complementary DNA pair.",
+        "E": "Adenine and guanine are both purines, whereas standard pairs contain one purine and one pyrimidine."
+      }
     },
     {
       "id": "dq-bio-molbio-007",
@@ -11812,10 +11890,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "In double-stranded DNA, A equals T and G equals C. A+T is 60%, leaving 40% for G+C.",
+      "why": "For double-stranded DNA, adenine and thymine have equal proportions, so 30% adenine implies 30% thymine. The remaining 40% is split equally between guanine and cytosine.",
       "topicId": "molbio",
       "subtopic": "Nucleic acid structure",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Fifteen per cent guanine would also require 15% cytosine, leaving proportions that do not add to 100%.",
+        "B": "Twenty-five per cent guanine plus the same cytosine would exceed the 40% available to these two bases.",
+        "C": "Thirty per cent is the expected thymine fraction rather than the guanine fraction.",
+        "D": "Forty per cent is left for guanine and cytosine together, not for either one separately."
+      }
     },
     {
       "id": "dq-bio-molbio-009",
@@ -11844,10 +11928,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Strand separation exposes bases and increases absorbance at 260 nm (hyperchromic effect).",
+      "why": "Base stacking in intact double-stranded DNA reduces UV absorption by the bases. Denaturation separates and un-stacks them, increasing absorbance around 260 nm through the hyperchromic effect.",
       "topicId": "molbio",
       "subtopic": "Nucleic acid structure",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "An absorbance decrease is more consistent with base stacking restored during renaturation rather than strand separation.",
+        "C": "Nucleic acid bases still absorb ultraviolet light after denaturation, so absorbance at 260 nm does not vanish.",
+        "D": "Absorbance at 280 nm is not expected to drop to zero as a direct result of unstacking DNA bases.",
+        "E": "The DNA bases have characteristic absorbance near 260 nm, with no new absorption maximum at 320 nm on denaturation."
+      }
     },
     {
       "id": "dq-bio-molbio-011",
@@ -11876,10 +11966,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "DNA wraps around a histone octamer to form a nucleosome.",
+      "why": "A nucleosome contains roughly 147 base pairs of DNA wrapped around a core histone octamer. Repetition of these particles helps organise eukaryotic DNA into chromatin.",
       "topicId": "molbio",
       "subtopic": "Nucleic acid structure",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Ribosomes synthesise proteins from mRNA and are not the histone-based chromatin particle.",
+        "C": "Proteasomes degrade selected proteins rather than forming repeated units of eukaryotic chromatin.",
+        "D": "Centrosomes help organise microtubules and do not wrap chromosomal DNA around histones.",
+        "E": "Spliceosomes process pre-mRNA by removing introns, rather than providing structural packaging for DNA."
+      }
     },
     {
       "id": "dq-bio-molbio-012",
@@ -11908,10 +12004,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Negative supercoiling makes duplex unwinding energetically easier.",
+      "why": "Negative supercoiling introduces torsional strain that can be partly relieved by opening the duplex locally. This can make transient strand separation easier during processes such as transcription.",
       "topicId": "molbio",
       "subtopic": "Nucleic acid structure",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Local opening need not permanently destroy pairing, because the strands can reanneal after the required process.",
+        "B": "RNA-to-DNA synthesis requires reverse transcriptase rather than simply relieving helical torsional strain.",
+        "C": "DNA supercoiling changes DNA topology and does not directly hydrolyse histone proteins.",
+        "D": "Peptide cross-links are covalent protein modifications rather than a consequence of underwinding DNA."
+      }
     },
     {
       "id": "dq-bio-molbio-013",
@@ -11940,10 +12042,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Each new DNA double helix contains one old and one newly synthesized strand.",
+      "why": "The two parental DNA strands separate and each acts as a template. Each resulting duplex therefore contains one old strand paired with a complementary strand synthesised during replication.",
       "topicId": "molbio",
       "subtopic": "DNA replication",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Keeping both original strands together would be conservative replication rather than semiconservative replication.",
+        "B": "An all-new duplex would leave the two parental strands elsewhere, instead of incorporating one in each daughter.",
+        "D": "Both parental strands serve as templates, allowing each daughter duplex to inherit one of them.",
+        "E": "RNA primers assist initiation, but most of each new DNA strand is copied from a parental DNA template."
+      }
     },
     {
       "id": "dq-bio-molbio-014",
@@ -11972,10 +12080,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "DNA polymerase adds nucleotides to the free 3′-OH of a growing strand.",
+      "why": "DNA polymerase adds each incoming nucleotide to the free 3′ hydroxyl of the growing strand. The new strand therefore elongates in the 5′ to 3′ direction.",
       "topicId": "molbio",
       "subtopic": "DNA replication",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "The template is read in the 3′ to 5′ direction, while the new strand grows in the opposite direction.",
+        "C": "A continuous DNA strand has different polar ends, and polymerase does not elongate from one 5′ end to another.",
+        "D": "Nucleotides are added to the 3′ end, but naming that end twice does not describe the direction of synthesis.",
+        "E": "DNA synthesis has a defined chemical polarity, even though separate proofreading activity can remove residues from an end."
+      }
     },
     {
       "id": "dq-bio-molbio-015",
@@ -12004,10 +12118,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Most DNA polymerases cannot begin de novo; primase supplies a short primer with a 3′-OH.",
+      "why": "Most replicative DNA polymerases need a pre-existing 3′ hydroxyl to attach their first incoming nucleotide. Primase provides that hydroxyl on a short complementary primer.",
       "topicId": "molbio",
       "subtopic": "DNA replication",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The incoming deoxynucleotide substrates are supplied separately, rather than being donated by the RNA primer.",
+        "B": "Helicases separate DNA strands, while the primer supplies an extendable end on a template.",
+        "C": "DNA ligase seals remaining backbone nicks rather than using the RNA primer to join fragments.",
+        "E": "A polymerase proofreading activity can remove mismatches, but the primer instead supplies the chemical group needed for extension."
+      }
     },
     {
       "id": "dq-bio-molbio-017",
@@ -12036,10 +12156,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Topoisomerases transiently cut and reseal DNA to relieve superhelical stress.",
+      "why": "As a helicase opens DNA, unwinding creates torsional strain ahead of the fork. Topoisomerases permit transient DNA backbone cleavage and resealing to relax that strain.",
       "topicId": "molbio",
       "subtopic": "DNA replication",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Primase makes a short primer for DNA synthesis rather than relieving torsional tension in the parental duplex.",
+        "B": "Ligase is used to seal backbone nicks during replication, while topoisomerases temporarily change strand linkage to relieve stress.",
+        "C": "Ribonucleases cut RNA molecules rather than relaxing supercoils in duplex DNA.",
+        "D": "Polymerase alpha extends primers near the fork but does not remove the torsional strain ahead of it."
+      }
     },
     {
       "id": "dq-bio-molbio-018",
@@ -12068,10 +12194,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "SSB proteins (RPA in eukaryotes) stabilize the exposed single-stranded template.",
+      "why": "Single-strand binding proteins coat exposed DNA after the helicase separates the duplex. Their binding protects the template and helps keep it from reannealing before copying.",
       "topicId": "molbio",
       "subtopic": "DNA replication",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "DNA ligase seals breaks in a backbone rather than holding separated parental strands apart.",
+        "B": "Transcription initiation factors recruit transcription machinery and are separate from proteins stabilising a replication template.",
+        "D": "Restriction endonucleases cleave DNA at recognised sites, rather than coating exposed strands to keep them available.",
+        "E": "Spliceosomal proteins act in pre-mRNA processing and are not the single-strand protectors at a replication fork."
+      }
     },
     {
       "id": "dq-bio-molbio-019",
@@ -12100,10 +12232,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Because the templates are antiparallel, synthesis opposing fork movement must proceed discontinuously.",
+      "why": "The templates are antiparallel but DNA polymerases extend only 5′ to 3′. The lagging strand must therefore start from multiple primers and grow in fragments as the fork exposes more template.",
       "topicId": "molbio",
       "subtopic": "DNA replication",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Helicase opens DNA as replication advances, rather than waiting until synthesis has terminated.",
+        "C": "The leading strand also needs an initial primer, while the lagging strand repeatedly starts new primers.",
+        "D": "Double-stranded DNA provides two templates, whose opposite polarity creates the need for discontinuous copying on one side.",
+        "E": "Incoming deoxynucleoside triphosphates provide phosphate groups, so fragment formation reflects synthesis direction rather than missing substrate groups."
+      }
     },
     {
       "id": "dq-bio-molbio-020",
@@ -12132,10 +12270,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "DNA ligase seals nicks by making the remaining phosphodiester bonds.",
+      "why": "After the primers have been removed and replaced with DNA, adjacent fragments can still have a nick in the sugar–phosphate backbone. DNA ligase forms the missing phosphodiester bond.",
       "topicId": "molbio",
       "subtopic": "DNA replication",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Helicase unwinds the parental helix but does not join the discontinuously produced fragments.",
+        "B": "Primase makes primers for starting new fragments rather than sealing the processed ends.",
+        "C": "DNA gyrase helps control DNA supercoiling and does not seal ordinary nicks between completed fragments.",
+        "E": "RNA polymerase makes transcripts and is not the enzyme that closes the DNA backbone."
+      }
     },
     {
       "id": "dq-bio-molbio-021",
@@ -12164,10 +12308,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Pol III is the principal replicative DNA polymerase in E. coli.",
+      "why": "In the standard Escherichia coli model, the DNA polymerase III holoenzyme extends most leading and lagging strand DNA at the fork. Its associated clamp helps maintain processivity.",
       "topicId": "molbio",
       "subtopic": "DNA replication",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "DNA polymerase I participates in primer replacement and repair rather than synthesising most DNA at the fork.",
+        "C": "DNA polymerase II contributes to repair and recovery rather than being the principal elongating enzyme in this model.",
+        "D": "RNA polymerase transcribes RNA and does not catalyse the bulk of bacterial DNA replication.",
+        "E": "Terminal transferase adds nucleotides without a template in specific contexts rather than copying the bacterial chromosome."
+      }
     },
     {
       "id": "dq-bio-molbio-022",
@@ -12196,10 +12346,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Pol I removes RNA primers and replaces them with DNA, leaving ligase to seal the remaining nick.",
+      "why": "Bacterial DNA polymerase I can remove a primer ahead of itself using a 5′ to 3′ exonuclease activity. It can fill the site with DNA before ligase seals the nick.",
       "topicId": "molbio",
       "subtopic": "DNA replication",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "DNA polymerase III synthesises most bacterial DNA and has proofreading activity, while polymerase I performs this primer removal.",
+        "B": "DNA polymerase II has roles in repair and does not supply the classic primer-removing 5′ to 3′ exonuclease.",
+        "C": "A sigma factor helps bacterial RNA polymerase recognise promoters rather than removing RNA primers from replication products.",
+        "D": "DNA ligase seals the final backbone nick after primer removal and replacement, rather than degrading the primer."
+      }
     },
     {
       "id": "dq-bio-molbio-023",
@@ -12228,10 +12384,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Proofreading removes an incorrectly added nucleotide from the nascent 3′ terminus.",
+      "why": "When a mismatched nucleotide is added, the new strand's 3′ end can move to an exonuclease site. Removal in the 3′ to 5′ direction restores a suitable end for extension.",
       "topicId": "molbio",
       "subtopic": "DNA replication",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Ligase joins backbone ends and does not remove the incorrect terminal nucleotide during proofreading.",
+        "B": "The mismatch is removed from the 3′ end, so a 5′ to 5′ direction does not describe the exonuclease action.",
+        "D": "Removing a whole mismatched nucleotide requires cleavage of the backbone, not just dephosphorylation.",
+        "E": "RNA transcription copies a template into RNA and does not remove errors from the end of a nascent DNA strand."
+      }
     },
     {
       "id": "dq-bio-molbio-024",
@@ -12260,10 +12422,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Multiple origins allow large eukaryotic chromosomes to finish replication within S phase.",
+      "why": "Replication starting at many origins can proceed in parallel at many forks. This allows each long human chromosome to be copied within the time available in S phase.",
       "topicId": "molbio",
       "subtopic": "DNA replication",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "The ordinary genetic code is shared across genes, and origins solve a copying-time constraint rather than a decoding problem.",
+        "C": "Each polymerase can add many nucleotides during extension, but a single origin would make copying the whole chromosome too slow.",
+        "D": "Histones can be reorganised during replication, allowing forks to pass rather than stopping all copying.",
+        "E": "Telomerase contributes to chromosome-end maintenance and does not establish the ordinary origins distributed across chromosomes."
+      }
     },
     {
       "id": "dq-bio-molbio-025",
@@ -12324,10 +12492,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Telomerase is a reverse transcriptase that adds telomeric repeats to chromosome ends.",
+      "why": "Telomerase carries an RNA sequence that serves as a template to add telomeric DNA repeats. It extends the chromosome's 3′ end and helps cells compensate for terminal loss.",
       "topicId": "molbio",
       "subtopic": "DNA replication",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Ligase joins available DNA ends but cannot copy an internal RNA template to add repeat sequences.",
+        "C": "Helicases separate strands and do not synthesise new telomeric DNA.",
+        "D": "Topoisomerase II changes DNA topology rather than extending chromosome ends using RNA.",
+        "E": "RNA polymerase II transcribes RNA from DNA, whereas telomerase makes DNA using an RNA template."
+      }
     },
     {
       "id": "dq-bio-molbio-028",
@@ -12356,10 +12530,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The Pol α–primase complex lays down an RNA primer followed by a short DNA segment.",
+      "why": "The polymerase alpha–primase complex starts a strand by synthesising a short RNA primer. Polymerase alpha extends it briefly with DNA before more processive polymerases take over.",
       "topicId": "molbio",
       "subtopic": "DNA replication",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Polymerase gamma principally replicates mitochondrial DNA and does not form the usual nuclear RNA–DNA primer complex.",
+        "B": "Polymerase beta helps fill gaps in base-excision repair, rather than working with helicase to initiate chromosomal strands.",
+        "D": "RNA polymerase II transcribes nuclear RNA and does not combine with a bacterial sigma factor for replication priming.",
+        "E": "Telomerase extends chromosome ends and topoisomerases regulate torsion, separate from synthesis of ordinary RNA–DNA primers."
+      }
     },
     {
       "id": "dq-bio-molbio-029",
@@ -12388,10 +12568,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "UV light induces covalent links between neighbouring pyrimidines, often thymine dimers.",
+      "why": "Ultraviolet light can induce a covalent cyclobutane link between adjacent pyrimidines, commonly two thymines. This lesion can distort the DNA and impede its use as a template.",
       "topicId": "molbio",
       "subtopic": "DNA damage and repair",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "A transversion is a substitution across base classes and is not the immediate covalent UV lesion between adjacent bases.",
+        "C": "The UV lesion affects neighbouring bases rather than replacing a phosphate with a sugar in the backbone.",
+        "D": "Histone cross-links would involve proteins, while the specified UV lesion joins adjacent pyrimidines in DNA.",
+        "E": "A pyrimidine dimer forms between bases after light absorption, without converting a guanine nucleotide into free sugar."
+      }
     },
     {
       "id": "dq-bio-molbio-030",
@@ -12420,10 +12606,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Deamination changes cytosine to uracil, which is typically removed by base-excision repair.",
+      "why": "Cytosine deamination replaces its amino group with a carbonyl, yielding uracil in DNA. A glycosylase can recognise and remove this abnormal base.",
       "topicId": "molbio",
       "subtopic": "DNA damage and repair",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Thymine can result from deamination of 5-methylcytosine rather than ordinary unmethylated cytosine.",
+        "B": "Guanine is a purine and is not formed by simply removing the amino group of cytosine.",
+        "C": "Adenine is a different purine base rather than the product of cytosine deamination.",
+        "E": "Xanthine can arise from deamination of a guanine base, not from the deamination of cytosine."
+      }
     },
     {
       "id": "dq-bio-molbio-031",
@@ -12452,10 +12644,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "DNA glycosylases remove abnormal bases, followed by backbone repair and gap filling.",
+      "why": "Base-excision repair begins when a DNA glycosylase removes a small altered base such as uracil. Other enzymes process the resulting site, insert the missing nucleotide and seal the backbone.",
       "topicId": "molbio",
       "subtopic": "DNA damage and repair",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Mismatch repair primarily corrects replication errors that escaped proofreading rather than initiating with the removal of uracil alone.",
+        "C": "Nucleotide-excision repair removes a short stretch around a bulky helix-distorting lesion instead of first removing only the base.",
+        "D": "Homologous recombination can use a homologous sequence to repair double-strand breaks rather than excising a single abnormal base.",
+        "E": "End joining repairs broken DNA ends and does not normally start by removing an abnormal base from an intact strand."
+      }
     },
     {
       "id": "dq-bio-molbio-032",
@@ -12484,10 +12682,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Nucleotide excision repair recognizes bulky helix-distorting lesions and excises a short DNA segment.",
+      "why": "Human nucleotide-excision repair recognises helix distortions caused by UV photoproducts. It removes a short DNA segment containing the lesion before polymerase and ligase restore the strand.",
       "topicId": "molbio",
       "subtopic": "DNA damage and repair",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Deamination chemically alters a base and can create damage rather than removing an existing bulky lesion.",
+        "B": "Ribosomal proofreading improves translation accuracy, rather than repairing damage to chromosomal DNA.",
+        "C": "Spliceosomes process RNA transcripts and cannot excise a UV lesion from DNA.",
+        "D": "Ubiquitination can help regulate cellular responses, but it does not itself excise the damaged DNA segment."
+      }
     },
     {
       "id": "dq-bio-molbio-033",
@@ -12516,10 +12720,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Mismatch repair detects mispaired bases after replication and replaces a section of the newly synthesized strand.",
+      "why": "Mismatch repair detects bases paired incorrectly after replication and directs removal from the newly synthesised strand. Polymerase then replaces the removed sequence with the correct complementary DNA.",
       "topicId": "molbio",
       "subtopic": "DNA damage and repair",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Base-excision repair chiefly addresses chemically altered bases rather than the usual replication mismatches.",
+        "B": "Nucleotide-excision repair chiefly targets bulky lesions that distort DNA, including UV photoproducts.",
+        "D": "Transcriptional termination stops RNA synthesis and does not correct base-pairing mistakes left during DNA replication.",
+        "E": "Telomerase maintains chromosome ends rather than scanning newly synthesised DNA for mismatches."
+      }
     },
     {
       "id": "dq-bio-molbio-034",
@@ -12548,10 +12758,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "A nonsense variant introduces premature translation termination.",
+      "why": "A nonsense point mutation converts a sense codon into a premature stop. The ribosome can terminate early, and some transcripts are instead reduced by nonsense-mediated decay.",
       "topicId": "molbio",
       "subtopic": "DNA damage and repair",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "A codon change that replaces one amino acid with another is a missense mutation.",
+        "C": "A synonymous substitution changes the codon without changing the encoded amino acid.",
+        "D": "An insertion is a different class of sequence change and does not necessarily create a premature stop.",
+        "E": "Chromosomal duplication increases the amount of a region rather than changing a single codon into a stop."
+      }
     },
     {
       "id": "dq-bio-molbio-035",
@@ -12580,10 +12796,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Missense mutations alter one encoded amino acid, as in the β-globin variant associated with HbS.",
+      "why": "A missense mutation changes a codon so it specifies a different amino acid. Depending on the position and replacement residue, this can alter the protein's structure or function.",
       "topicId": "molbio",
       "subtopic": "DNA damage and repair",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Changing a codon to a stop is a nonsense mutation and terminates translation rather than substituting an amino acid.",
+        "B": "A codon change that leaves the amino acid unchanged is synonymous rather than missense.",
+        "C": "Loss of telomeres can destabilise chromosome ends but does not define an amino acid substitution at a codon.",
+        "E": "Ribose is a sugar, not an alternative DNA base that can be substituted to create a missense codon."
+      }
     },
     {
       "id": "dq-bio-molbio-036",
@@ -12612,10 +12834,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "A one-base deletion shifts the reading frame unless it is compensated, changing downstream codons.",
+      "why": "Coding sequences are read as consecutive groups of three bases. Deleting one base changes the grouping of downstream codons and may introduce a premature stop.",
       "topicId": "molbio",
       "subtopic": "DNA damage and repair",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A synonymous substitution changes one base without changing the encoded amino acid or grouping of later bases.",
+        "C": "An unchanged downstream frame is more consistent with an in-frame deletion of a multiple of three nucleotides.",
+        "D": "Deleting a base changes the DNA sequence but does not turn the DNA strand into RNA.",
+        "E": "The stem specifies a deletion in the coding sequence rather than a substitution confined to an intron."
+      }
     },
     {
       "id": "dq-bio-molbio-037",
@@ -12644,10 +12872,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Transversions exchange a purine and a pyrimidine; transitions substitute within a base class.",
+      "why": "Adenine and guanine are purines, while cytosine and thymine are pyrimidines. A transversion substitutes a member of one class for a member of the other.",
       "topicId": "molbio",
       "subtopic": "DNA damage and repair",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A transition is a substitution between two bases in the same purine or pyrimidine class.",
+        "B": "A synonymous change is defined by preservation of the amino acid, regardless of whether its substitution changes base class.",
+        "C": "Gene conversion involves sequence transfer between related DNA copies and does not name this chemical class of substitution.",
+        "D": "Tandem duplication repeats a continuous sequence rather than substituting a purine for a pyrimidine."
+      }
     },
     {
       "id": "dq-bio-molbio-038",
@@ -12676,10 +12910,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Photolyase uses light to directly reverse certain UV-induced pyrimidine dimers in organisms expressing it.",
+      "why": "Photolyase absorbs light energy and uses it to reverse certain UV-induced pyrimidine dimers directly. This repair process is photoreactivation in organisms that possess the enzyme.",
       "topicId": "molbio",
       "subtopic": "DNA damage and repair",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Somatic hypermutation diversifies antibody variable regions and does not directly reverse a UV photoproduct.",
+        "B": "Transcriptional attenuation controls how far a transcript extends rather than repairing a covalent DNA lesion.",
+        "D": "Ribosome recycling releases translation machinery after synthesis and has no role in photolyase-mediated repair.",
+        "E": "Antibody class switching changes heavy-chain constant regions rather than splitting a pyrimidine dimer."
+      }
     },
     {
       "id": "dq-bio-molbio-039",
@@ -12708,10 +12948,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "mRNA carries a protein-coding sequence to the translation machinery.",
+      "why": "Messenger RNA carries the ordered nucleotide triplets copied from a protein-coding gene. A ribosome reads those codons to assemble a polypeptide in the corresponding amino acid order.",
       "topicId": "molbio",
       "subtopic": "RNA structure and function",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Ribosomal RNA forms structural and catalytic parts of the ribosome rather than carrying gene-specific codon information.",
+        "B": "Transfer RNA pairs its anticodon with a codon and brings an amino acid, rather than carrying the complete coding message.",
+        "C": "Small nucleolar RNAs help modify or process some RNAs and do not carry the protein-coding message.",
+        "E": "MicroRNAs often regulate other transcripts and are not the mRNAs that ribosomes read for a polypeptide sequence."
+      }
     },
     {
       "id": "dq-bio-molbio-040",
@@ -12740,10 +12986,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Each tRNA carries an anticodon used to decode mRNA during protein synthesis.",
+      "why": "A transfer RNA has an anticodon loop that pairs with a complementary codon in mRNA. The amino acid attached to the tRNA then contributes to the growing protein.",
       "topicId": "molbio",
       "subtopic": "RNA structure and function",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Messenger RNA provides the codon, while the complementary anticodon belongs to the transfer RNA.",
+        "C": "Ribosomal RNA helps position the substrates and catalyse peptide-bond formation but does not provide each codon's matching anticodon.",
+        "D": "MicroRNAs regulate transcripts through base pairing, rather than delivering an amino acid using a translation anticodon.",
+        "E": "Small interfering RNA can guide silencing of matching transcripts, rather than decoding mRNA as an amino acid carrier."
+      }
     },
     {
       "id": "dq-bio-molbio-041",
@@ -12772,10 +13024,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The ribosome's catalytic centre is formed by large-subunit rRNA, making it a ribozyme.",
+      "why": "Ribosomal RNA in the large subunit forms the peptidyl-transferase centre. It positions the aminoacyl and peptidyl tRNAs and contributes directly to catalysing peptide-bond formation.",
       "topicId": "molbio",
       "subtopic": "RNA structure and function",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The messenger RNA provides the codons, but does not make up the catalytic peptidyl-transferase centre.",
+        "B": "Transfer RNAs carry the reacting amino acid and peptide, whereas the ribosomal RNA provides the catalytic environment.",
+        "D": "DNA encodes the RNA and protein components but is not a direct catalytic part of the assembled ribosome.",
+        "E": "Signal recognition pathways help direct nascent proteins to membranes rather than catalysing the peptide bond."
+      }
     },
     {
       "id": "dq-bio-molbio-043",
@@ -12804,10 +13062,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "RNA contains uracil rather than thymine under standard conditions.",
+      "why": "Uracil is the ordinary RNA pyrimidine that pairs with adenine. DNA usually uses thymine at the corresponding positions, although some RNAs contain modified bases.",
       "topicId": "molbio",
       "subtopic": "RNA structure and function",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Cytosine is an ordinary component of both RNA and DNA and typically pairs with guanine.",
+        "C": "Guanine occurs in both nucleic acids and does not replace thymine as adenine's usual RNA partner.",
+        "D": "Adenine is shared by RNA and DNA, while its usual pyrimidine partner differs between them.",
+        "E": "Hypoxanthine occurs in inosine and some modified RNA contexts, rather than being the standard replacement for thymine."
+      }
     },
     {
       "id": "dq-bio-molbio-044",
@@ -12836,10 +13100,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Ribosomes decode successive mRNA triplets to select amino acids.",
+      "why": "Ribosomes read the mRNA in consecutive triplets. Each sense codon specifies an amino acid, so the order of codons determines the order of residues in the protein.",
       "topicId": "molbio",
       "subtopic": "RNA structure and function",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Lamins are nuclear proteins and do not provide the message decoded by a ribosome.",
+        "B": "Histone octamers package DNA into chromatin and are not triplets read during translation.",
+        "C": "A centromere helps segregate a chromosome rather than encoding the order of an mRNA's translated residues.",
+        "E": "Disulphide bonds can stabilise a folded protein after synthesis rather than specifying amino acid order."
+      }
     },
     {
       "id": "dq-bio-molbio-045",
@@ -12868,10 +13138,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "RNA polymerase catalyses transcription of RNA complementary to the DNA template.",
+      "why": "DNA-dependent RNA polymerase reads a DNA template and links complementary ribonucleotides into RNA. This transfer of sequence information from DNA into RNA is transcription.",
       "topicId": "molbio",
       "subtopic": "Transcription",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "A DNA-dependent DNA polymerase uses a DNA template but makes DNA rather than RNA.",
+        "C": "RNA-dependent DNA polymerase is reverse transcriptase and produces DNA from an RNA template.",
+        "D": "Nucleoside phosphorylase cleaves nucleosides rather than linking ribonucleotides according to a DNA template.",
+        "E": "Ribonucleotide reductase makes deoxynucleotide precursors rather than extending an RNA chain."
+      }
     },
     {
       "id": "dq-bio-molbio-046",
@@ -12900,10 +13176,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "RNA polymerase adds ribonucleotides to the RNA 3′ hydroxyl.",
+      "why": "RNA polymerase joins each incoming nucleotide to the free 3′ hydroxyl of the nascent RNA. The RNA therefore grows from its 5′ end towards its 3′ end.",
       "topicId": "molbio",
       "subtopic": "Transcription",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The DNA template is read 3′ to 5′, while the complementary RNA grows in the opposite direction.",
+        "B": "The transcript has chemically distinct 5′ and 3′ ends, so a 5′ to 5′ direction does not describe its elongation.",
+        "D": "Extension is at the 3′ end, but that does not make the overall direction 3′ to 3′.",
+        "E": "The polymerase's chemistry fixes the direction of RNA synthesis rather than allowing either direction."
+      }
     },
     {
       "id": "dq-bio-molbio-047",
@@ -12932,10 +13214,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "RNA polymerase can initiate RNA synthesis de novo.",
+      "why": "RNA polymerase can join the first two nucleotides without needing an existing strand to extend. Ordinary replicative DNA polymerases instead require a pre-existing 3′ hydroxyl.",
       "topicId": "molbio",
       "subtopic": "Transcription",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "DNA-dependent RNA polymerase uses a DNA template, even though it does not require a pre-existing primer.",
+        "B": "Ribonucleoside triphosphates are required as substrates for making the RNA chain.",
+        "C": "Divalent metals help catalyse phosphodiester bond formation in the RNA polymerase active site.",
+        "D": "A promoter and associated initiation machinery ordinarily help specify where transcription should begin."
+      }
     },
     {
       "id": "dq-bio-molbio-048",
@@ -12964,10 +13252,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Sigma provides promoter recognition to the bacterial RNA polymerase holoenzyme.",
+      "why": "A bacterial sigma factor associates with core RNA polymerase and helps it recognise promoters. Different sigma factors can direct initiation towards different sets of genes.",
       "topicId": "molbio",
       "subtopic": "Transcription",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Rho helps terminate certain bacterial transcripts rather than helping polymerase recognise a promoter at initiation.",
+        "C": "Telomerase extends linear chromosome ends and does not direct bacterial transcription initiation.",
+        "D": "DNA ligase seals breaks in DNA strands rather than conferring promoter specificity on RNA polymerase.",
+        "E": "Translation release factors recognise stop codons on ribosomes, not bacterial promoter DNA."
+      }
     },
     {
       "id": "dq-bio-molbio-049",
@@ -12996,10 +13290,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Conserved upstream promoter sequences are recognized by sigma-associated RNA polymerase.",
+      "why": "In many bacterial promoters, upstream elements near positions −10 and −35 are recognised by the sigma-associated initiation machinery. This helps position RNA polymerase to begin transcription.",
       "topicId": "molbio",
       "subtopic": "Transcription",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Ribosomes translate mRNA into polypeptide after transcription, rather than using these promoter regions as codons.",
+        "B": "Ribosome assembly is distinct from recognition of an upstream region by transcription machinery.",
+        "C": "Okazaki fragments belong to lagging-strand DNA replication rather than initiation of RNA transcription.",
+        "E": "DNA repair addresses lesions or errors and does not describe the ordinary purpose of these promoter elements."
+      }
     },
     {
       "id": "dq-bio-molbio-050",
@@ -13028,10 +13328,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Pol II transcribes precursors of protein-coding messenger RNAs.",
+      "why": "RNA polymerase II transcribes most nuclear protein-coding genes in eukaryotes. Its primary transcripts can be capped, spliced and polyadenylated before functioning as messenger RNAs.",
       "topicId": "molbio",
       "subtopic": "Transcription",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "RNA polymerase I chiefly makes a large precursor for most ribosomal RNAs, not common protein-coding pre-mRNAs.",
+        "C": "RNA polymerase III chiefly produces small RNAs such as tRNAs and 5S rRNA.",
+        "D": "DNA polymerase alpha participates in replication initiation and does not produce nuclear messenger RNA.",
+        "E": "DNA polymerase gamma replicates mitochondrial DNA rather than transcribing eukaryotic nuclear protein-coding genes."
+      }
     },
     {
       "id": "dq-bio-molbio-051",
@@ -13060,10 +13366,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "RNA polymerase I transcribes the large rRNA precursor in the nucleolus.",
+      "why": "RNA polymerase I makes a large ribosomal RNA precursor within the nucleolus. Processing yields the 18S, 5.8S and 28S rRNAs in humans, while 5S is made separately.",
       "topicId": "molbio",
       "subtopic": "Transcription",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "RNA polymerase II makes most protein-coding pre-mRNAs and some noncoding RNAs rather than the large nucleolar precursor.",
+        "B": "RNA polymerase III is responsible for transcribing 5S rRNA and tRNAs, which are separate from the large precursor.",
+        "D": "DNA polymerase beta fills certain repair gaps and does not transcribe ribosomal RNA.",
+        "E": "DNA polymerase delta is involved in chromosomal DNA replication and does not transcribe rRNA."
+      }
     },
     {
       "id": "dq-bio-molbio-052",
@@ -13092,10 +13404,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Pol III synthesizes most tRNAs and 5S rRNA.",
+      "why": "Eukaryotic RNA polymerase III transcribes many short noncoding RNAs, including tRNAs and 5S rRNA. This separates 5S production from processing of the larger RNA polymerase I transcript.",
       "topicId": "molbio",
       "subtopic": "Transcription",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "RNA polymerase I makes the large ribosomal precursor but does not ordinarily produce 5S rRNA or tRNAs.",
+        "B": "RNA polymerase II makes most protein-coding pre-mRNAs rather than being the main enzyme for tRNA transcription.",
+        "C": "Bacterial DNA polymerase III is a replicative enzyme rather than the eukaryotic polymerase that synthesises these RNAs.",
+        "D": "DNA polymerase epsilon chiefly copies chromosomal DNA and is not an RNA transcription enzyme."
+      }
     },
     {
       "id": "dq-bio-molbio-053",
@@ -13124,10 +13442,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "TBP, a subunit of TFIID, binds the TATA box and helps organize Pol II initiation.",
+      "why": "TATA-binding protein can recognise the TATA box and distort DNA in a way that helps organise the eukaryotic initiation complex. It functions within TFIID for many RNA polymerase II promoters.",
       "topicId": "molbio",
       "subtopic": "Transcription",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Rho is a bacterial transcription termination factor rather than a reader of the eukaryotic TATA box.",
+        "C": "DNA ligase I seals backbone nicks and does not position the eukaryotic transcription machinery at a promoter.",
+        "D": "Topoisomerase II changes DNA topology, rather than specifically recognising a TATA sequence to recruit polymerase.",
+        "E": "Dicer processes certain double-stranded RNAs into small regulatory RNAs rather than recognising promoter DNA."
+      }
     },
     {
       "id": "dq-bio-molbio-054",
@@ -13156,10 +13480,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Rho uses ATP to translocate along RNA and dissociate certain transcription complexes.",
+      "why": "The bacterial Rho protein uses ATP to move along certain nascent RNA transcripts. When it reaches the transcription complex, it can help dissociate the RNA and terminate transcription.",
       "topicId": "molbio",
       "subtopic": "Transcription",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Sigma helps RNA polymerase start at promoters rather than acting as the ATP-dependent helicase in termination.",
+        "B": "Spliceosomes remove introns from eukaryotic RNA and are not the usual machinery of bacterial Rho-dependent termination.",
+        "C": "Telomerase extends chromosome ends, which is a separate mechanism from transcript release.",
+        "E": "DNA ligase joins backbone nicks rather than using ATP to move on RNA and terminate transcription."
+      }
     },
     {
       "id": "dq-bio-molbio-055",
@@ -13188,10 +13518,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Bacterial ribosomes can access nascent transcripts because transcription and translation share the cytoplasmic space.",
+      "why": "Bacteria lack a nuclear envelope separating DNA transcription from cytoplasmic ribosomes. As an mRNA emerges from RNA polymerase, ribosomes can bind and translate the exposed portion before transcription ends.",
       "topicId": "molbio",
       "subtopic": "Transcription",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Bacteria do not rely on lysosomes to make mRNA, which is directly accessible to ribosomes in the cell.",
+        "C": "Ribosomes and nascent transcripts occupy the same cellular compartment rather than being separated by a nucleus.",
+        "D": "Transcription can proceed without the conventional eukaryotic nucleosomal histone arrangement.",
+        "E": "Bacterial ribosomes still require an mRNA template but can engage it before the transcript is completed."
+      }
     },
     {
       "id": "dq-bio-molbio-056",
@@ -13220,10 +13556,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The 5′ cap aids mRNA stability, processing and initiation of translation.",
+      "why": "Most RNA polymerase II pre-mRNAs acquire a 7-methylguanosine cap joined by an unusual 5′ to 5′ linkage. The cap assists stability, processing and later translation initiation.",
       "topicId": "molbio",
       "subtopic": "RNA processing",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A polyuridine tail is not the usual eukaryotic mRNA cap, which contains methylated guanosine.",
+        "B": "N-terminal methionine is added to a growing polypeptide during translation rather than to the RNA end.",
+        "D": "Histone octamers package DNA and are not covalent modifications of pre-mRNA.",
+        "E": "Telomeric repeats occur at chromosome ends and do not form the 5′ cap on a messenger RNA."
+      }
     },
     {
       "id": "dq-bio-molbio-057",
@@ -13252,10 +13594,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Polyadenylation helps mRNA stability and multiple aspects of export and translation.",
+      "why": "A poly(A) tail recruits proteins that help protect many mature eukaryotic mRNAs and support their export. It can also influence translation efficiency and transcript lifetime.",
       "topicId": "molbio",
       "subtopic": "RNA processing",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Polyadenylation occurs near the transcript's 3′ end and does not require removal of coding stop codons.",
+        "B": "Messenger RNA retains its coding function, while rRNA is made through separate transcription and processing pathways.",
+        "C": "Adding a tail to a transcript does not insert an origin into the chromosomal DNA.",
+        "D": "Polyadenylation affects stability and processing and does not normally convert an mRNA into a catalytic RNA."
+      }
     },
     {
       "id": "dq-bio-molbio-058",
@@ -13284,10 +13632,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The spliceosome excises introns and joins exons in the mature transcript.",
+      "why": "The spliceosome is a complex of small nuclear RNAs and proteins that recognises intron boundaries. It removes the intron and joins the flanking exons.",
       "topicId": "molbio",
       "subtopic": "RNA processing",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Ribosomes translate already processed mRNA rather than excising most nuclear introns.",
+        "C": "Nucleosomes organise chromatin through histones and DNA rather than catalysing RNA splicing.",
+        "D": "Proteasomes degrade proteins and do not remove intervening sequences from pre-mRNA.",
+        "E": "Centrosomes organise microtubules and are unrelated to recognition and removal of introns."
+      }
     },
     {
       "id": "dq-bio-molbio-059",
@@ -13316,10 +13670,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Different exon combinations can produce distinct RNA and protein products from one gene.",
+      "why": "Alternative splicing can join different subsets of exons or use different splice boundaries. A single primary transcript can therefore produce several mature RNA isoforms and sometimes distinct proteins.",
       "topicId": "molbio",
       "subtopic": "RNA processing",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Mature isoforms retain selected exons, so removal of every exon is not the usual consequence.",
+        "B": "Splicing changes the RNA sequence retained from a transcript, while translation later assembles amino acids.",
+        "C": "Splice choices can change without any permanent alteration of the promoter DNA.",
+        "E": "Chromosome replication copies DNA, whereas alternative splicing creates diversity in RNA processing."
+      }
     },
     {
       "id": "dq-bio-molbio-060",
@@ -13348,10 +13708,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Exons are RNA regions retained after splicing; they may include coding or untranslated sequences.",
+      "why": "An exon is a segment retained in a mature RNA after splicing. It can contribute protein-coding sequence or an untranslated region, depending on its position.",
       "topicId": "molbio",
       "subtopic": "RNA processing",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "An intron is generally removed during splicing, whereas retained regions are called exons.",
+        "C": "DNA replication proteins copy the genome and are not the retained components of a processed RNA.",
+        "D": "A histamine receptor is a signalling protein and does not define an exon in RNA processing.",
+        "E": "Hydrogen bonding pairs bases, while an exon is a nucleotide sequence retained in mature RNA."
+      }
     },
     {
       "id": "dq-bio-molbio-061",
@@ -13380,10 +13746,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "AUG codes methionine and is the usual start codon.",
+      "why": "Initiation typically occurs when the initiator tRNA pairs with AUG in an appropriate mRNA context. AUG specifies methionine in standard translation, including modified initiator methionine in bacteria.",
       "topicId": "molbio",
       "subtopic": "Translation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "UAA normally signals termination and recruits a release factor rather than an initiator tRNA.",
+        "B": "UAG is a standard stop codon and does not ordinarily start translation.",
+        "D": "UGA usually indicates termination, though some specialised reading contexts can assign it another meaning.",
+        "E": "AAA encodes lysine in the standard code rather than being the usual initiation codon."
+      }
     },
     {
       "id": "dq-bio-molbio-062",
@@ -13412,10 +13784,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "UAA, UAG and UGA signal termination rather than recruitment of a normal aminoacyl-tRNA.",
+      "why": "UAA, UAG and UGA are the three standard termination codons. When one enters the ribosomal decoding site, a release factor can trigger release of the completed chain.",
       "topicId": "molbio",
       "subtopic": "Translation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "UAA is a stop, but AUG and GUG commonly encode methionine and valine rather than being standard stops.",
+        "B": "These are sense codons for phenylalanine, tyrosine and cysteine, rather than signals for release.",
+        "C": "CAA and CAG specify glutamine and CGA specifies arginine, so this set contains no standard stop.",
+        "D": "GGA, GGG and GGC are synonymous glycine codons rather than termination signals."
+      }
     },
     {
       "id": "dq-bio-molbio-063",
@@ -13444,10 +13822,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Aminoacyl-tRNA synthetases charge their cognate tRNAs using ATP and proofreading mechanisms.",
+      "why": "An aminoacyl-tRNA synthetase activates an amino acid using ATP and transfers it to its matching tRNA. Correct charging is essential because the ribosome primarily checks codon–anticodon pairing.",
       "topicId": "molbio",
       "subtopic": "Translation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "RNA polymerase II transcribes pre-mRNA and does not attach amino acids to transfer RNAs.",
+        "C": "DNA polymerase I participates in DNA synthesis and primer replacement rather than producing aminoacyl-tRNA.",
+        "D": "Ribonucleotide reductase supplies deoxynucleotides for DNA synthesis, not charged tRNAs for translation.",
+        "E": "Peptidyl-prolyl isomerase helps proteins fold and does not select and attach amino acids to tRNAs."
+      }
     },
     {
       "id": "dq-bio-molbio-064",
@@ -13508,10 +13892,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The aminoacyl (A) site receives incoming charged tRNA matching the next codon.",
+      "why": "The A site is the aminoacyl site of the ribosome. During elongation it admits a charged tRNA whose anticodon can recognise the next codon in the mRNA.",
       "topicId": "molbio",
       "subtopic": "Translation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Deacylated tRNA usually leaves through the E site after translocation, rather than through the incoming A site.",
+        "C": "The P site has the peptidyl-tRNA before peptide transfer, followed by movement of the tRNAs during elongation.",
+        "D": "A completed chain is released at termination rather than being retained as a final product within the A site.",
+        "E": "mRNA decay is separate from the A site's function of selecting an incoming charged tRNA."
+      }
     },
     {
       "id": "dq-bio-molbio-066",
@@ -13540,10 +13930,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The peptidyl (P) site holds the tRNA carrying the growing polypeptide chain.",
+      "why": "The peptidyl site holds the tRNA carrying the nascent polypeptide before the peptide is transferred to the amino acid at the A site. It also binds initiator tRNA during initiation.",
       "topicId": "molbio",
       "subtopic": "Translation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Post-termination recycling factors help release ribosomal components after translation rather than defining the P site's elongation role.",
+        "B": "The ribosome uses amino acids attached to tRNAs rather than accepting a free initial amino acid at the P site.",
+        "D": "Reverse transcription makes DNA from RNA, while the ribosomal P site participates in polypeptide synthesis.",
+        "E": "Decapping enzymes remove mRNA caps in turnover pathways rather than acting at the ribosomal peptidyl site."
+      }
     },
     {
       "id": "dq-bio-molbio-067",
@@ -13572,10 +13968,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "After translocation, uncharged tRNA leaves through the E site.",
+      "why": "After peptide transfer and translocation, the uncharged tRNA enters the ribosomal exit site. It is released from the E site to be reused in later rounds of translation.",
       "topicId": "molbio",
       "subtopic": "Translation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The A site receives the next aminoacyl-tRNA, so it is the entry site for a charged substrate.",
+        "B": "The P site normally holds the peptidyl-tRNA before the deacylated tRNA moves to the exit site.",
+        "C": "D is not one of the three standard tRNA-binding sites used during ribosomal elongation.",
+        "D": "T is not the standard designation for the site from which uncharged tRNA departs."
+      }
     },
     {
       "id": "dq-bio-molbio-068",
@@ -13604,10 +14006,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Peptidyl transferase is an RNA-based catalytic function of the ribosomal large subunit.",
+      "why": "The active site of peptidyl transferase is largely formed by rRNA in the ribosome's large subunit. It promotes transfer of the growing peptide onto the incoming aminoacyl-tRNA.",
       "topicId": "molbio",
       "subtopic": "Translation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The small subunit contains ribosomal RNA and proteins for decoding and has no catalytic DNA component.",
+        "C": "The initiator tRNA anticodon recognises the start codon, but it does not form the peptidyl-transferase centre.",
+        "D": "Histones primarily package DNA in the nucleus and are not the catalytic components of ribosomes.",
+        "E": "Poly(A)-binding protein can support translation initiation rather than catalysing each peptide bond."
+      }
     },
     {
       "id": "dq-bio-molbio-069",
@@ -13636,10 +14044,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Most amino acids have more than one synonymous codon.",
+      "why": "A degenerate genetic code has more than one codon for many amino acids. For example, several triplets can encode the same residue even though each triplet has a defined standard meaning.",
       "topicId": "molbio",
       "subtopic": "Translation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Degeneracy gives one amino acid several possible codons, rather than assigning several ordinary amino acids to one codon.",
+        "B": "Ribosomes read codons along the 5′ to 3′ direction of the mRNA, independently of whether each has synonyms.",
+        "C": "Most amino acids have several codons, so a strict one-to-one assignment would not be degenerate.",
+        "E": "Standard stop codons recruit release factors, while methionyl-tRNA recognises codons for methionine in appropriate contexts."
+      }
     },
     {
       "id": "dq-bio-molbio-070",
@@ -13668,10 +14082,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Nonstandard pairing at the third codon base allows fewer tRNAs to recognize multiple synonymous codons.",
+      "why": "The third codon base pairs with the first base of the tRNA anticodon. Flexibility at this position allows a tRNA to recognise more than one synonymous codon.",
       "topicId": "molbio",
       "subtopic": "Translation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "The length of the amino acid chain depends mainly on initiation and termination positions rather than alternative pairing at one codon base.",
+        "C": "Wobble pairs an mRNA codon with a tRNA anticodon, rather than linking two messenger RNAs.",
+        "D": "Some specialised processes recode particular stop codons, but wobble does not eliminate normal termination signals.",
+        "E": "Replication forks act on DNA and do not rely on tRNA decoding of codons."
+      }
     },
     {
       "id": "dq-bio-molbio-071",
@@ -13700,10 +14120,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Bacterial ribosomes comprise 30S and 50S subunits, together described as 70S.",
+      "why": "The typical bacterial ribosome is a 70S particle made of 30S and 50S subunits. Sedimentation coefficients reflect size and shape, so the subunit values are not simply added.",
       "topicId": "molbio",
       "subtopic": "Translation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The 30S particle is the bacterial small subunit rather than the complete functional ribosome.",
+        "B": "A 40S small subunit is typical of eukaryotic cytoplasmic ribosomes, rather than bacteria.",
+        "D": "The 60S particle is the large subunit of a eukaryotic cytoplasmic ribosome.",
+        "E": "An 80S ribosome is typical of eukaryotic cytoplasm, whereas bacteria typically use 70S ribosomes."
+      }
     },
     {
       "id": "dq-bio-molbio-072",
@@ -13732,10 +14158,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Eukaryotic cytoplasmic ribosomes comprise 40S and 60S subunits.",
+      "why": "Eukaryotic cytoplasmic ribosomes contain a 40S small subunit and a 60S large subunit. Together they sediment as 80S particles, distinct from the typical bacterial ribosome.",
       "topicId": "molbio",
       "subtopic": "Translation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A 30S particle is the bacterial small subunit rather than a complete eukaryotic cytoplasmic ribosome.",
+        "B": "The 40S particle is only the small subunit of a eukaryotic cytoplasmic ribosome.",
+        "C": "A 50S subunit is characteristic of bacterial ribosomes rather than the complete eukaryotic cytoplasmic complex.",
+        "D": "A 70S particle is typical of bacteria, not the ordinary ribosome in eukaryotic cytosol."
+      }
     },
     {
       "id": "dq-bio-molbio-073",
@@ -13764,10 +14196,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Protein release factors recognize stop codons and trigger hydrolysis of the peptidyl-tRNA bond.",
+      "why": "When a standard stop codon reaches the ribosomal A site, a protein release factor recognises it. This promotes hydrolysis of the bond linking the finished chain to its tRNA.",
       "topicId": "molbio",
       "subtopic": "Translation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Aminoacyl-tRNA synthetases charge tRNAs before translation and do not normally recognise stop codons in the ribosome.",
+        "C": "Sigma factors help bacterial RNA polymerase recognise DNA promoters rather than ending translation at a stop codon.",
+        "D": "Procollagen peptidases process matrix proteins after secretion, rather than releasing completed chains from ribosomal tRNAs.",
+        "E": "Restriction endonucleases cleave DNA at recognised sites and do not catalyse release of a nascent polypeptide."
+      }
     },
     {
       "id": "dq-bio-molbio-074",
@@ -13796,10 +14234,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "A polyribosome permits concurrent synthesis of multiple protein chains from one mRNA.",
+      "why": "Multiple ribosomes can initiate at different times and move along the same mRNA concurrently. This polyribosome arrangement makes several polypeptides from one transcript in parallel.",
       "topicId": "molbio",
       "subtopic": "Translation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The ribosomes use an RNA template and do not permanently change the DNA sequence.",
+        "B": "Multiple ribosomes can translate a transcript and do not inherently prevent its production by RNA polymerase.",
+        "C": "Introns are RNA processing features and do not become DNA promoters as a result of concurrent translation.",
+        "E": "Multiple translating ribosomes require charged tRNAs and do not block their formation."
+      }
     },
     {
       "id": "dq-bio-molbio-075",
@@ -13828,10 +14272,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Promoters are recognized by transcription machinery; operators bind regulatory proteins.",
+      "why": "The promoter is the DNA region used to position bacterial RNA polymerase for transcription initiation. Regulatory proteins can bind nearby elements to alter the efficiency of that initiation.",
       "topicId": "molbio",
       "subtopic": "Gene regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The operator is usually a regulatory binding site, although it can overlap a promoter in some operons.",
+        "B": "Activator-binding elements can stimulate transcription, but the ordinary initiation site for RNA polymerase is the promoter.",
+        "D": "A terminator helps stop transcription rather than positioning polymerase at the start of an operon.",
+        "E": "Telomeres protect the ends of linear chromosomes and are not the standard initiation region of an operon."
+      }
     },
     {
       "id": "dq-bio-molbio-076",
@@ -13860,10 +14310,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Operators bind repressors or other regulatory factors controlling nearby transcription.",
+      "why": "An operator is a regulatory DNA sequence that binds a protein such as a repressor. Occupancy of the operator can alter transcription of the neighbouring operon.",
       "topicId": "molbio",
       "subtopic": "Gene regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "RNA polymerase makes RNA after promoter recognition, whereas the operator supplies a regulatory binding site.",
+        "B": "Ribosomes translate the resulting RNA and do not use the DNA operator as their binding site.",
+        "C": "A replication origin recruits machinery to copy DNA, rather than regulating nearby transcription through an operator.",
+        "D": "Telomeres protect linear chromosome ends, which is distinct from regulation at an operon."
+      }
     },
     {
       "id": "dq-bio-molbio-077",
@@ -13892,10 +14348,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Housekeeping genes support basic cellular maintenance and are expressed relatively continuously.",
+      "why": "A housekeeping gene provides a product needed for basic cell maintenance or metabolism. Its expression is often relatively continuous, although the level can still vary by tissue or condition.",
       "topicId": "molbio",
       "subtopic": "Gene regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "A gene activated only after a specific stimulus is inducible rather than constitutively expressed.",
+        "C": "Housekeeping genes can be needed during cell division as well as at other times.",
+        "D": "Antibody-chain genes are expressed in particular immune lineages rather than supporting basic functions in most cells.",
+        "E": "Routine expression does not normally depend on acquiring an activating mutation first."
+      }
     },
     {
       "id": "dq-bio-molbio-078",
@@ -13924,10 +14386,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Negative regulators inhibit gene expression, commonly by blocking initiation.",
+      "why": "A repressor is a negative regulator because its binding lowers gene expression. At an operator, it can interfere with initiation or otherwise prevent productive transcription.",
       "topicId": "molbio",
       "subtopic": "Gene regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Positive regulation uses an activator to increase transcription, the opposite effect on the operating gene.",
+        "B": "Post-translational modification changes a protein after synthesis and does not name this repression of RNA production.",
+        "C": "Proofreading corrects DNA synthesis errors rather than reducing transcription through an operator.",
+        "E": "Attenuation can regulate transcription through another mechanism, but the stem specifies operator binding by a repressor."
+      }
     },
     {
       "id": "dq-bio-molbio-079",
@@ -13956,10 +14424,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Activators increase transcription by recruiting or stabilizing the transcription machinery.",
+      "why": "A promoter-associated activator can recruit or stabilise RNA polymerase and other components of the initiation machinery. This increases the probability of productive transcription.",
       "topicId": "molbio",
       "subtopic": "Gene regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Spliceosomes remove introns from pre-mRNA after it is made, rather than recruiting polymerase to a promoter.",
+        "C": "The ribosomal A site functions during translation and is not the target of a promoter-bound activator.",
+        "D": "Proteases cleave proteins, whereas a transcriptional activator increases RNA synthesis from a gene.",
+        "E": "Telomere length concerns chromosome-end maintenance, not the immediate consequence of activating a promoter."
+      }
     },
     {
       "id": "dq-bio-molbio-080",
@@ -13988,10 +14462,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The lacZYA genes enable lactose transport and metabolism.",
+      "why": "The lac operon encodes products involved in bringing lactose into the cell and metabolising it. Its expression responds to lactose availability and the cell's use of other sugars.",
       "topicId": "molbio",
       "subtopic": "Gene regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The trp operon contains genes for tryptophan biosynthesis rather than lactose utilisation.",
+        "B": "The his operon supports histidine biosynthesis and is distinct from the system for lactose utilisation.",
+        "D": "The ara operon regulates utilisation of arabinose rather than the distinct sugar lactose.",
+        "E": "Ribosomal operons provide components for protein synthesis rather than products specific to lactose transport and breakdown."
+      }
     },
     {
       "id": "dq-bio-molbio-083",
@@ -14020,10 +14500,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "LacI encodes a regulatory repressor that controls lacZYA transcription.",
+      "why": "lacI encodes the lac repressor, a regulatory protein that can bind the operator and reduce lac operon transcription. It is distinct from the lactose-utilisation genes it regulates.",
       "topicId": "molbio",
       "subtopic": "Gene regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "lacZ encodes beta-galactosidase, an enzyme acting on lactose rather than the operator-binding repressor.",
+        "B": "The lacY product is lactose permease, a transporter that brings lactose into the cell.",
+        "C": "lacA encodes a transacetylase and is part of the controlled structural operon.",
+        "E": "trpA encodes part of tryptophan synthase and is not the gene for the lac repressor."
+      }
     },
     {
       "id": "dq-bio-molbio-084",
@@ -14052,10 +14538,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The inducer changes repressor conformation, allowing transcription of the lac operon.",
+      "why": "Allolactose acts as an inducer by binding the lac repressor and changing its conformation. This lowers the repressor's affinity for the operator and permits more transcription.",
       "topicId": "molbio",
       "subtopic": "Gene regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Operator binding falls after allolactose binds, rather than increasing and blocking the operon more strongly.",
+        "C": "Induction changes repressor binding and does not require RNA polymerase to lose its promoter affinity.",
+        "D": "Beta-galactosidase participates in lactose metabolism and need not be degraded for allolactose to act.",
+        "E": "Releasing the repressor allows transcription to start more readily rather than forcing premature termination."
+      }
     },
     {
       "id": "dq-bio-molbio-085",
@@ -14084,10 +14576,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Low glucose raises cAMP, enabling CAP activation; lactose releases operator repression.",
+      "why": "Low glucose favours cAMP-dependent activation of CAP, while lactose-derived allolactose relieves repression. The combination increases activation of the lac promoter and allows high transcription.",
       "topicId": "molbio",
       "subtopic": "Gene regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "High glucose generally lowers the cAMP signal used for CAP-dependent activation rather than stimulating it directly.",
+        "B": "Lactose-derived allolactose relieves repressor action rather than directly inhibiting RNA polymerase.",
+        "D": "The tryptophan repressor regulates a distinct biosynthetic operon and does not explain high lac expression.",
+        "E": "High cAMP enables CAP to help recruit polymerase rather than preventing promoter recognition."
+      }
     },
     {
       "id": "dq-bio-molbio-086",
@@ -14116,10 +14614,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Binding of tryptophan activates the trp repressor, reducing transcription when tryptophan is abundant.",
+      "why": "Tryptophan binds the trp repressor and enables it to bind its operator more effectively. When tryptophan is abundant, this reduces transcription of the enzymes that make it.",
       "topicId": "molbio",
       "subtopic": "Gene regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "An inducer generally increases expression, while tryptophan assists repression of its biosynthetic operon.",
+        "B": "A ribosome translates mRNA, whereas tryptophan is the small molecule that activates the repressor.",
+        "C": "A polymerase synthesises a nucleic acid chain and is not the molecular role of tryptophan in this control.",
+        "D": "An exonuclease removes nucleotides from a strand end, distinct from the effect of binding the trp repressor."
+      }
     },
     {
       "id": "dq-bio-molbio-087",
@@ -14148,10 +14652,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Attenuation couples translation of a leader sequence to transcriptional termination.",
+      "why": "Attenuation uses translation of a bacterial leader peptide to influence what RNA structures form in the nascent transcript. Those structures can determine whether transcription stops early or continues.",
       "topicId": "molbio",
       "subtopic": "Gene regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Alternative splicing selects among exon combinations and is not the usual bacterial mechanism linking a leader peptide to transcriptional termination.",
+        "C": "Chromatin methylation affects DNA or histone regulation rather than being the leader-RNA mechanism described.",
+        "D": "Retrotransposition can copy RNA-derived sequences into DNA and does not name this early transcript termination.",
+        "E": "Telomere elongation maintains chromosome ends rather than sensing translation of an operon leader."
+      }
     },
     {
       "id": "dq-bio-molbio-088",
@@ -14180,10 +14690,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Histone acetylation often weakens DNA–histone interactions and promotes gene accessibility.",
+      "why": "Acetylation of histone lysines can reduce positive charge and recruit proteins associated with accessible chromatin. Histone acetylation is therefore often associated with greater access and transcription.",
       "topicId": "molbio",
       "subtopic": "Gene regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Acetylation changes a histone modification and does not delete the corresponding promoter DNA.",
+        "B": "Reverse transcription converts RNA into DNA and is not a consequence of adding acetyl groups to histones.",
+        "C": "Histone acetylation can support binding of transcription-associated proteins rather than blocking all transcription factors.",
+        "E": "Increased accessibility is a common association of acetylated regions, while compact inactive chromatin often has lower acetylation."
+      }
     },
     {
       "id": "dq-bio-molbio-089",
@@ -14212,10 +14728,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Promoter CpG methylation is frequently associated with stable transcriptional repression.",
+      "why": "Methylated promoter CpG sites can reduce binding of some activators and recruit proteins associated with repressive chromatin. Promoter CpG island methylation is therefore often linked to lower transcription.",
       "topicId": "molbio",
       "subtopic": "Gene regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "DNA methylation is a regulatory mark and does not ordinarily increase recombination as its direct promoter effect.",
+        "C": "Methylated promoter DNA can recruit repressive factors rather than causing wholesale eviction of its histones.",
+        "D": "Transcription makes a separate RNA copy of DNA, which is not what methylation itself does.",
+        "E": "Peptidyl transferase acts at the ribosome during translation rather than at methylated promoter DNA."
+      }
     },
     {
       "id": "dq-bio-molbio-090",
@@ -14244,10 +14766,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Chromatin looping permits enhancer-bound factors to contact promoter-associated machinery.",
+      "why": "An enhancer can recruit regulatory proteins while far from its target promoter along the DNA sequence. Chromatin looping brings them into proximity with promoter-associated machinery and can increase transcription.",
       "topicId": "molbio",
       "subtopic": "Gene regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "RNA polymerase transcribes the gene and does not become the telomere-extending enzyme as part of enhancer action.",
+        "B": "An enhancer is a regulatory DNA element and need not encode a peptide to influence transcription.",
+        "D": "Looping changes spatial proximity within chromatin and does not require moving the promoter to a different chromosome.",
+        "E": "Enhancers can act through reversible molecular contacts without permanently cleaving both strands of DNA."
+      }
     },
     {
       "id": "dq-bio-molbio-091",
@@ -14276,10 +14804,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Differential exon inclusion can produce distinct transcripts and proteins.",
+      "why": "Alternative splicing selects different combinations of coding exons or splice boundaries from a primary transcript. These RNA differences can specify polypeptides with different domains or sequences.",
       "topicId": "molbio",
       "subtopic": "Gene regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Promoter methylation can influence the amount of transcription but does not by itself specify alternate coding exon combinations.",
+        "B": "Replication copies the DNA sequence and does not generate multiple mRNA forms from one gene.",
+        "C": "Ribosomal translocation advances translation along an existing mRNA, after its exon composition has been set.",
+        "D": "Random DNA destruction causes damage, while physiological isoform generation uses regulated processing of transcripts."
+      }
     },
     {
       "id": "dq-bio-molbio-092",
@@ -14308,10 +14842,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "IRP binding to the 5′ UTR IRE of ferritin mRNA inhibits translation when iron is low.",
+      "why": "When cellular iron is low, iron-regulatory proteins bind the iron-responsive element in the 5′ untranslated region of ferritin mRNA. This makes translation initiation less efficient and reduces iron storage.",
       "topicId": "molbio",
       "subtopic": "Gene regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "A reduction in ferritin translation keeps limited cellular iron available rather than increasing storage.",
+        "C": "The response occurs at the mRNA level and does not change how ferritin DNA is copied.",
+        "D": "Iron-regulatory proteins act on ferritin mRNA, reducing new protein production rather than directly destroying existing ferritin.",
+        "E": "Haemoglobin breakdown uses separate pathways rather than following directly from regulation of ferritin translation."
+      }
     },
     {
       "id": "dq-bio-molbio-093",
@@ -14340,10 +14880,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "IRP binding to 3′ UTR IREs stabilizes transferrin receptor mRNA to support iron uptake.",
+      "why": "At low iron, iron-regulatory proteins bind iron-responsive elements in the 3′ untranslated region of transferrin receptor mRNA. Protection from degradation keeps more message available for receptor synthesis and favours iron uptake.",
       "topicId": "molbio",
       "subtopic": "Gene regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Binding protects the receptor transcript from degradation rather than shortening its lifetime.",
+        "B": "The RNA interaction is reversible and does not require deletion of promoter DNA.",
+        "C": "The pathway increases the availability of receptor mRNA rather than immediately secreting ferritin.",
+        "E": "More transferrin receptor can support increased uptake of transferrin-bound iron, helping meet a deficiency."
+      }
     },
     {
       "id": "dq-bio-molbio-094",
@@ -14372,10 +14918,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Microarrays estimate expression across many transcripts through sequence-specific hybridization.",
+      "why": "A DNA microarray contains many distinct probes on a surface. Sample-derived nucleic acids hybridise to complementary probes, allowing comparison of relative signals across many genes.",
       "topicId": "molbio",
       "subtopic": "Gene regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "DNA ligase joins nucleic acid backbone ends but does not by itself measure expression across a large probe set.",
+        "C": "Osmotic fragility testing measures erythrocyte response to hypotonic conditions, rather than gene expression.",
+        "D": "Thrombin time assesses conversion of fibrinogen to fibrin and does not measure nucleic acid hybridisation.",
+        "E": "Fibrinogen precipitation deals with a circulating protein rather than transcript-specific binding on an array."
+      }
     },
     {
       "id": "dq-bio-molbio-095",
@@ -14404,10 +14956,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Reverse transcriptase makes cDNA from RNA, enabling subsequent PCR or cloning.",
+      "why": "Reverse transcriptase uses the RNA sequence as a template to form a complementary DNA strand. Because mature mRNA is often spliced, the resulting cDNA reflects the processed transcript.",
       "topicId": "molbio",
       "subtopic": "Gene regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Transfer RNA is a separate cellular RNA produced by transcription and processing, rather than the product of reverse transcription.",
+        "B": "Collagen is a protein made by ribosomes and does not form when an RNA template is copied into DNA.",
+        "D": "Translation produces a polypeptide, whereas reverse transcriptase produces a complementary nucleic acid strand.",
+        "E": "Nucleosomes consist of DNA wrapped around histones, rather than being produced by reverse transcriptase alone."
+      }
     },
     {
       "id": "dq-bio-molbio-096",
@@ -14436,10 +14994,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Malignant cells invade surrounding tissue and may spread to distant sites.",
+      "why": "Malignant tumours can invade adjacent tissues and may spread to distant sites. This invasive potential distinguishes them from benign tumours, which generally remain localised.",
       "topicId": "molbio",
       "subtopic": "Cancer molecular biology",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A cell membrane is present in both benign and malignant tumour cells and does not distinguish them.",
+        "B": "Housekeeping genes support common cell functions in both tumour types rather than conferring invasive behaviour.",
+        "C": "Both tumour types can use glucose, and energy metabolism alone does not establish malignancy.",
+        "D": "Protein synthesis also occurs in benign lesions, while invasion is the more defining distinction."
+      }
     },
     {
       "id": "dq-bio-molbio-097",
@@ -14468,10 +15032,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Oncogenes often overactivate proliferative pathways through gain-of-function changes.",
+      "why": "Proto-oncogenes normally promote processes such as controlled growth or survival. An activating change can make their signals excessive or persistent, contributing to uncontrolled proliferation.",
       "topicId": "molbio",
       "subtopic": "Cancer molecular biology",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "DNA proofreading ordinarily promotes genome stability rather than accounting for a gain of growth-promoting oncogene function.",
+        "C": "Permanent elimination through apoptosis would oppose tumour growth rather than providing the typical acquired advantage.",
+        "D": "Complete loss of translation would prevent many essential cell functions and is not the usual growth-promoting effect.",
+        "E": "Suppression of cell division is a tumour suppressor function, whereas activated oncogenes generally favour division or survival."
+      }
     },
     {
       "id": "dq-bio-molbio-098",
@@ -14500,10 +15070,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "An activated proto-oncogene can drive signalling even if the second allele is normal.",
+      "why": "A gain-of-function allele can produce a protein with excessive or persistent activity even when the other copy is normal. This makes many oncogene effects dominant at the cellular level.",
       "topicId": "molbio",
       "subtopic": "Cancer molecular biology",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Loss of both copies is the usual textbook model for many tumour suppressors rather than activating an oncogene.",
+        "B": "A single activating change can affect signalling without deletion of unrelated chromosomes.",
+        "C": "Many oncogenes encode regulators such as receptors or signalling proteins, not just structural collagen.",
+        "E": "Oncogenes can encode proteins, and their dominance often reflects an altered protein's activity."
+      }
     },
     {
       "id": "dq-bio-molbio-099",
@@ -14532,10 +15108,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Tumour suppressors normally restrain growth, maintain genome integrity or promote cell death.",
+      "why": "Tumour suppressors usually restrain division, maintain genome integrity or remove damaged cells. Inactivating both alleles can therefore eliminate an important safeguard against inappropriate growth.",
       "topicId": "molbio",
       "subtopic": "Cancer molecular biology",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Constitutive activity of a growth receptor is more typical of an activated oncogene than loss of suppressor function.",
+        "C": "Some tumours alter inflammatory signals, but increased cytokine secretion does not define loss of both suppressor alleles.",
+        "D": "Viral capsids require viral genes and are not automatically produced when a host growth safeguard is removed.",
+        "E": "DNA dimers arise from particular forms of chemical or radiation damage rather than being an inevitable effect of gene loss."
+      }
     },
     {
       "id": "dq-bio-molbio-100",
@@ -14564,10 +15146,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "p53 can induce arrest, repair, senescence or apoptosis in response to cellular stress.",
+      "why": "p53 can accumulate after DNA damage and regulate genes that stop the cell cycle, promote senescence or trigger apoptosis. These responses limit propagation of damaged genomes.",
       "topicId": "molbio",
       "subtopic": "Cancer molecular biology",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Ras transduces growth signals and does not supply p53's characteristic DNA-damage checkpoint response.",
+        "B": "Myc regulates genes involved in growth and proliferation rather than being the named genome guardian.",
+        "D": "Cyclin D1 promotes cell-cycle progression and is different from the stress-responsive transcriptional regulator p53.",
+        "E": "BCR–ABL is a constitutively active fusion kinase associated with certain leukaemias rather than this damage-response protein."
+      }
     },
     {
       "id": "dq-bio-molbio-101",
