@@ -74,3 +74,7 @@ The explanations and answer keys for these questions are preserved pending revie
 ## data/biochem/immunology-advanced-curated.json
 
 - **dq-bio-imm2-028** (keyed E (Alternative pathway)). The alternative pathway does operate without antigen-specific antibodies, but classical complement can also start without antibody through C1q recognition of a surface or an acute-phase protein such as C-reactive protein. Identify the pathway by spontaneous C3 activation and factor B involvement to make the key unique.
+
+## data/biochem/nucleic-expression-curated.json
+
+- **dq-bio-mol2-052** (keyed A (Diffusion alone cannot supply enough oxygen)). The diffusion limit is a sound reason many avascular tumours induce angiogenesis, but some tumours grow using pre-existing vessels by vessel co-option without producing new vessels (PMCID PMC5104270). Replace the absolute premise with why growing avascular tumours often induce angiogenesis.
