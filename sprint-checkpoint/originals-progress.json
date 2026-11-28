@@ -903,6 +903,169 @@
         "dq-bio-lipoprotein-021",
         "dq-bio-lipoprotein-022"
       ]
+    },
+    "data/biochem/coag-mixed-curated.json": {
+      "total": 5,
+      "reviewed": 5,
+      "revised": 5,
+      "held": [],
+      "remaining_ids": [],
+      "source_blob": "be0a2031b8d5ded5afb18dabae1e65f129363726",
+      "data_blob": "2f2cd73ef21aac06fcd31fb5fb0b584de59d966d",
+      "previous_review_commit": "82e015049515436e0698ebcba7f0f537cc47c9f8",
+      "references": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4260295/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK53455/"
+      ]
+    },
+    "data/biochem/visual-curated.json": {
+      "total": 33,
+      "reviewed": 33,
+      "revised": 32,
+      "held": [
+        "dq-bio-vis-031"
+      ],
+      "remaining_ids": [],
+      "source_blob": "5b9d2d6d99a46a109d38afe8dbff583f70cba0a7",
+      "data_blob": "9acc36908416e9c7a087a330b70df46bd5339ae2",
+      "previous_review_commit": "82e015049515436e0698ebcba7f0f537cc47c9f8",
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK10806/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK52768/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC1279132/",
+        "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+      ]
+    },
+    "data/biochem/collagen-curated.json": {
+      "total": 40,
+      "reviewed": 40,
+      "revised": 39,
+      "held": [
+        "dq-bio-coll-017"
+      ],
+      "remaining_ids": [],
+      "source_blob": "93e24fabb8c4d3739c40c7bf5d41b5521343c7a4",
+      "data_blob": "4cef52e37af1430c0e77c345fa2570f337b584b5",
+      "previous_review_commit": "82e015049515436e0698ebcba7f0f537cc47c9f8",
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK507709/",
+        "https://reactome.org/content/detail/R-HSA-1650814",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4235766/",
+        "https://pubmed.ncbi.nlm.nih.gov/3571223/"
+      ]
+    },
+    "data/biochem/endocrine-curated.json": {
+      "total": 34,
+      "reviewed": 34,
+      "revised": 34,
+      "held": [],
+      "remaining_ids": [],
+      "source_blob": "aed3c3a8078b88404c881e36185a6c878c2b43dd",
+      "data_blob": "fb6580a73f076c3fa82d7cf09775369bd15d4f50",
+      "previous_review_commit": "82e015049515436e0698ebcba7f0f537cc47c9f8",
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK20/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK28144/"
+      ]
+    },
+    "data/biochem/immunology-core-curated.json": {
+      "total": 53,
+      "reviewed": 53,
+      "revised": 53,
+      "held": [],
+      "remaining_ids": [],
+      "source_blob": "ab3e3928e47c04d9436fcd9fd9be1c61ee1c5dcf",
+      "data_blob": "8cf70e95de23a717c3df2eded2418aa9a072f17b",
+      "previous_review_commit": "82e015049515436e0698ebcba7f0f537cc47c9f8",
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK27090/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK10766/"
+      ]
+    },
+    "data/biochem/immunology-advanced-curated.json": {
+      "total": 60,
+      "reviewed": 60,
+      "revised": 59,
+      "held": [
+        "dq-bio-imm2-028"
+      ],
+      "remaining_ids": [],
+      "source_blob": "5b643b29ed439ddf97a727be1ad81d9f55fb0bdb",
+      "data_blob": "4b06e30ebe338959d04cfe803faf97df4d0e152c",
+      "previous_review_commit": "82e015049515436e0698ebcba7f0f537cc47c9f8",
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK27090/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK459482/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7607509/"
+      ]
+    },
+    "data/biochem/nucleic-structure-curated.json": {
+      "total": 47,
+      "reviewed": 47,
+      "revised": 47,
+      "held": [],
+      "remaining_ids": [],
+      "source_blob": "4f9c62df39512f3647f2af98b5bfce6de889e23b",
+      "data_blob": "260359c9a4a4a13b4cb7bde31aff683916be2d04",
+      "previous_review_commit": "82e015049515436e0698ebcba7f0f537cc47c9f8",
+      "references": [
+        "https://openstax.org/books/biology-2e/pages/14-2-dna-structure-and-sequencing",
+        "https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+        "https://openstax.org/books/biology-2e/pages/14-5-dna-replication-in-eukaryotes",
+        "https://openstax.org/books/biology-2e/pages/14-6-dna-repair"
+      ]
+    },
+    "data/biochem/nucleic-expression-curated.json": {
+      "total": 54,
+      "reviewed": 54,
+      "revised": 53,
+      "held": [
+        "dq-bio-mol2-052"
+      ],
+      "remaining_ids": [],
+      "source_blob": "c51daaefc64aa9cf644c7f2f58a665741ed7b6d7",
+      "data_blob": "6e7901adc79e4bd68f2c43de9118bfa8851b0114",
+      "previous_review_commit": "82e015049515436e0698ebcba7f0f537cc47c9f8",
+      "references": [
+        "https://openstax.org/books/biology-2e/pages/15-3-eukaryotic-transcription",
+        "https://openstax.org/books/biology-2e/pages/15-4-rna-processing-in-eukaryotes",
+        "https://openstax.org/books/biology-2e/pages/15-5-ribosomes-and-protein-synthesis",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC330601/",
+        "https://www.cancer.gov/about-cancer/understanding/what-is-cancer",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5104270/"
+      ]
+    },
+    "data/biochem/recombinant-curated.json": {
+      "total": 32,
+      "reviewed": 32,
+      "revised": 32,
+      "held": [],
+      "remaining_ids": [],
+      "source_blob": "05463b6e7aa952289c57bc9f3ec0ec6c41ce3ac8",
+      "data_blob": "ebc278fff5b193a5fdd1ae5c28a4cd90021178b1",
+      "previous_review_commit": "82e015049515436e0698ebcba7f0f537cc47c9f8",
+      "references": [
+        "https://openstax.org/books/biology-2e/pages/17-1-biotechnology",
+        "https://www.fda.gov/about-fda/fda-history-exhibits/100-years-insulin"
+      ]
+    },
+    "data/biochem/sem2-mixed-curated.json": {
+      "total": 17,
+      "reviewed": 17,
+      "revised": 17,
+      "held": [],
+      "remaining_ids": [],
+      "source_blob": "288ccdb9608cf3385752bed8be2c3fd9116ea2dc",
+      "data_blob": "00d220a9e55fe6287a4bd74fa22f96d90bc38314",
+      "previous_review_commit": "82e015049515436e0698ebcba7f0f537cc47c9f8",
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK10806/",
+        "https://reactome.org/content/detail/R-HSA-1650814",
+        "https://www.ncbi.nlm.nih.gov/books/NBK459482/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK20/",
+        "https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+        "https://openstax.org/books/biology-2e/pages/15-4-rna-processing-in-eukaryotes"
+      ]
     }
   },
   "archive": {

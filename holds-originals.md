@@ -1157,3 +1157,27 @@
 - Stem: Which method detects a soluble antigen by attaching it to carrier particles that visibly aggregate with antibody?
 - Key: A — Passive agglutination
 - Concern: The described antigen-coated particles indicate classical passive agglutination, but they are normally used to detect or measure antibody. For detection of an unknown soluble antigen, reverse passive agglutination ordinarily uses antibody-coated particles. Ask which method detects antibody using known antigen-coated particles, or revise the coating and option.
+
+## dq-bio-vis-031 — Answer-key review
+- Stem: Which approximate wavelength corresponds to the lecture's blue cone absorption maximum?
+- Key: C — Approximately 455 nm
+- Concern: The stem asks for a lecture-specific value and keys 455 nm, but the referenced lecture figure was unavailable. Direct human cone pigment measurements peak near 420 nm for the short-wave pigment (PMCID PMC1279132). Verify the lecture figure and specify whether it plots pigment absorbance or whole-eye spectral sensitivity.
+- References: https://www.ncbi.nlm.nih.gov/books/NBK10806/, https://www.ncbi.nlm.nih.gov/books/NBK52768/, https://pmc.ncbi.nlm.nih.gov/articles/PMC1279132/, https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/
+
+## dq-bio-coll-017 — Answer-key review
+- Stem: When are proline and lysine residues hydroxylated during collagen biosynthesis?
+- Key: E — After translation on nascent chains
+- Concern: The keyed wording says hydroxylation occurs after translation, but proline hydroxylation can begin on nascent chains before their translation is complete (PMID 3571223). If the key means after individual residues enter the chain, specify the ER stage before triple-helix formation.
+- References: https://www.ncbi.nlm.nih.gov/books/NBK507709/, https://reactome.org/content/detail/R-HSA-1650814, https://pmc.ncbi.nlm.nih.gov/articles/PMC4235766/, https://pubmed.ncbi.nlm.nih.gov/3571223/
+
+## dq-bio-imm2-028 — Answer-key review
+- Stem: Which complement pathway can be initiated on microbial surfaces without antigen-specific antibody?
+- Key: E — Alternative pathway
+- Concern: The alternative pathway does operate without antigen-specific antibodies, but classical complement can also start without antibody through C1q recognition of a surface or an acute-phase protein such as C-reactive protein. Identify the pathway by spontaneous C3 activation and factor B involvement to make the key unique.
+- References: https://www.ncbi.nlm.nih.gov/books/NBK27090/, https://www.ncbi.nlm.nih.gov/books/NBK459482/, https://pmc.ncbi.nlm.nih.gov/articles/PMC7607509/
+
+## dq-bio-mol2-052 — Answer-key review
+- Stem: Why must a growing solid tumour stimulate new blood vessel formation beyond a small size?
+- Key: A — Diffusion alone cannot supply enough oxygen
+- Concern: The diffusion limit is a sound reason many avascular tumours induce angiogenesis, but some tumours grow using pre-existing vessels by vessel co-option without producing new vessels (PMCID PMC5104270). Replace the absolute premise with why growing avascular tumours often induce angiogenesis.
+- References: https://openstax.org/books/biology-2e/pages/15-3-eukaryotic-transcription, https://openstax.org/books/biology-2e/pages/15-4-rna-processing-in-eukaryotes, https://openstax.org/books/biology-2e/pages/15-5-ribosomes-and-protein-synthesis, https://pmc.ncbi.nlm.nih.gov/articles/PMC330601/, https://www.cancer.gov/about-cancer/understanding/what-is-cancer, https://pmc.ncbi.nlm.nih.gov/articles/PMC5104270/
