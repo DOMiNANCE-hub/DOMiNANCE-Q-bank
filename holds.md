@@ -70,3 +70,7 @@ The explanations and answer keys for these questions are preserved pending revie
 ## data/biochem/collagen-curated.json
 
 - **dq-bio-coll-017** (keyed E (After translation on nascent chains)). The keyed wording says hydroxylation occurs after translation, but proline hydroxylation can begin on nascent chains before their translation is complete (PMID 3571223). If the key means after individual residues enter the chain, specify the ER stage before triple-helix formation.
+
+## data/biochem/immunology-advanced-curated.json
+
+- **dq-bio-imm2-028** (keyed E (Alternative pathway)). The alternative pathway does operate without antigen-specific antibodies, but classical complement can also start without antibody through C1q recognition of a surface or an acute-phase protein such as C-reactive protein. Identify the pathway by spontaneous C3 activation and factor B involvement to make the key unique.
