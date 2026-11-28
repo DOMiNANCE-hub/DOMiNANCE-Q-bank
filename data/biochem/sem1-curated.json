@@ -1170,15 +1170,15 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "It loses CO₂ as it is converted to isopentenyl pyrophosphate.",
+      "why": "HMG-CoA reductase reduces HMG-CoA to six-carbon mevalonate using NADPH. Mevalonate is phosphorylated and decarboxylated to form five-carbon isopentenyl pyrophosphate, the building block for larger isoprenoids.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "B": "A 15-carbon isoprenoid.",
-        "C": "A 30-carbon chain.",
-        "D": "The first sterol.",
-        "E": "A 10-carbon isoprenoid."
+        "B": "Farnesyl pyrophosphate contains 15 carbons and forms after three five-carbon isoprenoid units combine.",
+        "C": "Squalene contains 30 carbons and forms by reductive condensation of two farnesyl pyrophosphate molecules.",
+        "D": "Lanosterol is the first cyclic sterol, formed from squalene after epoxidation and cyclisation.",
+        "E": "Geranyl pyrophosphate contains ten carbons and is formed from two five-carbon isoprenoid units."
       }
     },
     {
@@ -1208,15 +1208,15 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "It is then converted to cholesterol.",
+      "why": "Squalene monooxygenase converts squalene to 2,3-oxidosqualene, which lanosterol synthase cyclises into lanosterol. Subsequent demethylation, reduction and double-bond rearrangements produce cholesterol.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "A much earlier intermediate.",
-        "C": "Precedes squalene.",
-        "D": "The final product.",
-        "E": "Precedes squalene."
+        "A": "Mevalonate is an early six-carbon precursor formed before the five-carbon isoprenoid building blocks.",
+        "C": "Farnesyl pyrophosphate is a 15-carbon precursor that combines with another molecule to form squalene.",
+        "D": "Cholesterol forms after several modifications of lanosterol, rather than directly from squalene cyclisation.",
+        "E": "Geranyl pyrophosphate is a ten-carbon intermediate used to make farnesyl pyrophosphate before squalene formation."
       }
     },
     {
@@ -1246,15 +1246,15 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "These are branch products of the pathway.",
+      "why": "Farnesyl pyrophosphate supplies the hydroxyethylfarnesyl side chain of haem O, which is subsequently oxidised to haem A. Haem A is a prosthetic group of mitochondrial cytochrome c oxidase.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "A product of cholesterol.",
-        "B": "A product of cholesterol.",
-        "D": "Made from cholesterol.",
-        "E": "Not from this pathway."
+        "A": "Bile acids form by hydroxylation and modification of cholesterol rather than as a separate farnesyl pyrophosphate branch.",
+        "B": "Steroid hormones arise from cholesterol through pregnenolone formation and subsequent tissue-specific enzymatic reactions.",
+        "D": "Vitamin D3 originates from 7-dehydrocholesterol by ultraviolet irradiation rather than direct utilisation of farnesyl pyrophosphate.",
+        "E": "Sphingosine derives from the condensation of serine with palmitoyl-CoA, followed by reduction and desaturation."
       }
     },
     {
@@ -1284,15 +1284,15 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Acyl-CoA:cholesterol acyltransferase.",
+      "why": "Acyl-CoA:cholesterol acyltransferase, also called sterol O-acyltransferase, transfers a fatty acyl group from acyl-CoA to free cholesterol in the endoplasmic reticulum. The resulting cholesteryl esters can accumulate in lipid droplets.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "Esterifies cholesterol in plasma, not the cell interior as taught here.",
-        "B": "A synthesis enzyme.",
-        "C": "Starts bile-acid synthesis.",
-        "E": "Hydrolyses triglyceride."
+        "A": "Lecithin:cholesterol acyltransferase esterifies cholesterol on circulating lipoproteins, especially HDL, using phosphatidylcholine as the acyl donor.",
+        "B": "HMG-CoA reductase produces mevalonate during cholesterol synthesis rather than esterifying existing intracellular cholesterol for storage.",
+        "C": "Cholesterol 7α-hydroxylase initiates the classical bile acid pathway by hydroxylating cholesterol rather than storing it.",
+        "E": "Lipoprotein lipase hydrolyses triacylglycerols in circulating chylomicrons and VLDL, rather than esterifying intracellular cholesterol."
       }
     },
     {
@@ -1322,15 +1322,15 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "HDL carries cholesterol back from tissues.",
+      "why": "LDL receptors recognise apolipoprotein B-100 on LDL and internalise the particle by receptor-mediated endocytosis. Lysosomal hydrolysis of LDL cholesteryl esters releases free cholesterol for cellular use.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "Moves cholesterol away from tissues.",
-        "B": "An intracellular reaction.",
-        "C": "Not the main route.",
-        "D": "Delivers dietary fat."
+        "A": "HDL participates in reverse cholesterol transport by accepting cholesterol from peripheral cells rather than primarily delivering LDL cholesterol into them.",
+        "B": "ACAT esterifies free cholesterol already inside cells and does not transport circulating lipoproteins across cell membranes.",
+        "C": "Free cholesterol can exchange between membranes and lipoproteins, but passive diffusion does not account for the principal regulated uptake of LDL.",
+        "D": "Chylomicron remnants deliver dietary cholesterol mainly to the liver, rather than providing the principal route of LDL cholesterol uptake."
       }
     },
     {
@@ -1360,15 +1360,15 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Four distinct mechanisms in all.",
+      "why": "Sterols accelerate HMG-CoA reductase ubiquitination and proteasomal degradation through its endoplasmic reticulum membrane domain. Changing enzyme abundance complements transcriptional regulation and reversible phosphorylation in controlling cholesterol synthesis.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "B": "That controls acetyl-CoA carboxylase.",
-        "C": "Not a mechanism here.",
-        "D": "Not as taught.",
-        "E": "Not as taught."
+        "B": "Citrate activates acetyl-CoA carboxylase in fatty acid synthesis; it is not the characteristic allosteric regulator of HMG-CoA reductase.",
+        "C": "Covalently attached biotin transfers activated carbon dioxide in carboxylases; HMG-CoA reductase instead uses NADPH for reduction.",
+        "D": "Substrate channelling transfers intermediates between active sites but is not an established major regulatory mechanism of HMG-CoA reductase.",
+        "E": "Zymogen activation requires conversion of an inactive enzyme precursor; HMG-CoA reductase is regulated without proteolytic activation."
       }
     },
     {
@@ -1398,15 +1398,15 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Phosphorylation decreases its activity.",
+      "why": "HMG-CoA reductase is active in its dephosphorylated state. AMP-activated protein kinase phosphorylates and inhibits it during energy stress, reducing the ATP- and NADPH-demanding synthesis of cholesterol.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "Less active.",
-        "C": "Marked for degradation.",
-        "D": "Feedback-inhibited.",
-        "E": "Not as taught."
+        "A": "Phosphorylation by AMP-activated protein kinase suppresses HMG-CoA reductase catalytic activity rather than stimulating mevalonate formation.",
+        "C": "Ubiquitination targets the enzyme for proteasomal degradation, lowering its abundance instead of activating its catalytic site.",
+        "D": "Sterol accumulation promotes feedback regulation and enzyme degradation, rather than serving as an activating signal for cholesterol synthesis.",
+        "E": "Glycosylation is not the established reversible regulatory switch that determines HMG-CoA reductase activity in this pathway."
       }
     },
     {
@@ -1436,15 +1436,15 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Formerly called HMGR kinase.",
+      "why": "AMP-activated protein kinase responds to cellular energy stress and phosphorylates HMG-CoA reductase, decreasing its catalytic activity. This conserves energy by limiting cholesterol biosynthesis when ATP availability is low.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "Not the named kinase.",
-        "B": "Not as taught.",
-        "D": "Not as taught.",
-        "E": "Not as taught."
+        "A": "Protein kinase A mediates many cyclic AMP-dependent hormonal responses, but AMPK directly phosphorylates the established inhibitory regulatory site.",
+        "B": "Protein kinase C participates in diacylglycerol-dependent signalling and is not the principal direct energy-sensing kinase for HMG-CoA reductase.",
+        "D": "Cyclin-dependent kinases control cell-cycle progression rather than mediating the canonical energy-dependent inhibition of HMG-CoA reductase.",
+        "E": "Casein kinases phosphorylate numerous cellular proteins, but the established inhibitory phosphorylation of HMG-CoA reductase is mediated by AMPK."
       }
     },
     {
@@ -1474,15 +1474,15 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The enzyme has a sterol-sensing domain; cholesterol drives its polyubiquitination.",
+      "why": "High sterol levels promote association of HMG-CoA reductase with Insig proteins in the endoplasmic reticulum, leading to ubiquitination and proteasomal degradation. This reduces the amount of enzyme available to synthesise mevalonate.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "The opposite occurs.",
-        "B": "Not as taught.",
-        "C": "Transcription falls.",
-        "E": "Not as taught."
+        "A": "Increased sterol availability reduces the need for endogenous cholesterol synthesis and does not stimulate production of HMG-CoA reductase.",
+        "B": "Phosphatase-mediated dephosphorylation would activate the reductase, whereas excess sterols principally promote negative feedback and degradation.",
+        "C": "High sterol levels retain the SREBP–SCAP complex in the endoplasmic reticulum, suppressing transcription of cholesterol synthesis genes.",
+        "E": "Sterol feedback lowers reductase abundance through reduced expression and accelerated degradation rather than increasing its translation."
       }
     },
     {
@@ -1512,15 +1512,15 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Glucagon and epinephrine act oppositely.",
+      "why": "Insulin favours the active, dephosphorylated form of HMG-CoA reductase in the fed state. This supports cholesterol synthesis when nutrients and energy are available, alongside longer-term regulation of enzyme expression.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "Would decrease activity.",
-        "B": "Marks for degradation.",
-        "C": "Lowers activity.",
-        "D": "Not as taught."
+        "A": "Phosphorylation of HMG-CoA reductase by AMPK inhibits its catalytic activity rather than promoting cholesterol synthesis after feeding.",
+        "B": "Ubiquitination targets HMG-CoA reductase for degradation, reducing the enzyme pool rather than mediating its acute activation.",
+        "C": "Accelerated proteasomal degradation reduces the amount of active reductase and therefore opposes increased cholesterol biosynthesis.",
+        "D": "HMG-CoA reductase is an endoplasmic reticulum membrane enzyme; nuclear export is not its established acute activation mechanism."
       }
     },
     {
@@ -1550,15 +1550,15 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "It forms 7-hydroxycholesterol using NADPH and O₂.",
+      "why": "Cholesterol 7α-hydroxylase (CYP7A1) catalyses the first and rate-limiting step of the classical hepatic bile acid pathway, introducing a 7α-hydroxyl group using oxygen and NADPH.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "B": "Rate-limiting for cholesterol synthesis.",
-        "C": "Esterifies cholesterol.",
-        "D": "A steroidogenesis enzyme.",
-        "E": "A cholesterol-synthesis step."
+        "B": "HMG-CoA reductase produces mevalonate and controls cholesterol synthesis rather than initiating conversion of cholesterol to bile acids.",
+        "C": "ACAT transfers fatty acyl groups to cholesterol for intracellular storage rather than hydroxylating it for bile acid synthesis.",
+        "D": "3β-hydroxysteroid dehydrogenase participates in steroid metabolism, but it does not catalyse the initial 7α-hydroxylation of cholesterol.",
+        "E": "Squalene epoxidase produces oxidosqualene during sterol biosynthesis, upstream of cholesterol formation rather than initiating bile acid synthesis."
       }
     },
     {
@@ -1588,15 +1588,15 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Secondary bile acids are made by gut bacteria.",
+      "why": "Hepatocytes synthesise cholic acid and chenodeoxycholic acid from cholesterol. These primary bile acids differ in hydroxylation pattern and can subsequently undergo bacterial modification in the intestine.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "A secondary bile acid.",
-        "C": "A secondary bile acid.",
-        "D": "A conjugated form.",
-        "E": "A conjugated form."
+        "A": "Deoxycholic acid is a secondary bile acid formed by bacterial removal of the 7α-hydroxyl group from cholic acid.",
+        "C": "Lithocholic acid is a secondary bile acid produced by bacterial 7α-dehydroxylation of chenodeoxycholic acid.",
+        "D": "Taurochenodeoxycholic acid is the taurine conjugate of chenodeoxycholic acid rather than a distinct unconjugated primary bile acid.",
+        "E": "Glycocholic acid is cholic acid conjugated with glycine, rather than the other unconjugated primary bile acid."
       }
     },
     {
@@ -1626,15 +1626,15 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "They are made from the primary bile acids in the gut.",
+      "why": "Intestinal bacteria convert primary bile acids to secondary bile acids through 7α-dehydroxylation: cholic acid yields deoxycholic acid, whereas chenodeoxycholic acid yields lithocholic acid.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "Make the primary bile acids.",
-        "B": "Stores bile.",
-        "D": "Not as taught.",
-        "E": "Not involved."
+        "A": "Hepatocytes synthesise the primary bile acids from cholesterol and can reconjugate absorbed secondary bile acids, but bacterial modification generates them.",
+        "B": "Gallbladder epithelium concentrates stored bile by absorbing water and electrolytes rather than producing secondary bile acids.",
+        "D": "Pancreatic enzymes hydrolyse dietary macromolecules, whereas bacterial bile acid enzymes carry out the required dehydroxylation.",
+        "E": "Renal tubular cells regulate urinary solute handling and are not the intestinal site of secondary bile acid formation."
       }
     },
     {
@@ -1664,15 +1664,15 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Giving glycocholic and taurocholic acids.",
+      "why": "Hepatic bile acid-CoA:amino acid N-acyltransferase links activated bile acids to glycine or taurine. Conjugation lowers their effective pKa and promotes ionisation and detergent activity at intestinal pH.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "Not the conjugate here.",
-        "B": "Not the conjugate here.",
-        "C": "Not as taught.",
-        "E": "Not as taught."
+        "A": "Glucuronidation can facilitate elimination of certain bile acids and other compounds, but is not the main physiological amidation with glycine or taurine.",
+        "B": "Sulphation provides an alternative detoxification route for some bile acids rather than forming the usual conjugated bile salts.",
+        "C": "Glutamate participates in amino acid metabolism and is not one of the two principal amino-containing bile acid conjugation substrates.",
+        "E": "Cysteine is a metabolic precursor of taurine, but taurine itself is the usual conjugation substrate in bile acid amidation."
       }
     },
     {
@@ -1702,15 +1702,15 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "This is one of four physiological roles of bile acids.",
+      "why": "Net elimination of cholesterol occurs mainly through faecal loss of biliary sterols and bile acids, including cholesterol converted to bile acids in the liver. Enterohepatic recycling recovers most bile acids, so only the fraction lost in faeces represents net disposal.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "Not a significant route.",
-        "B": "Uses only a small amount.",
-        "C": "Not a route.",
-        "D": "Storage, not elimination."
+        "A": "Free cholesterol is poorly water-soluble and is not normally excreted in urine in quantities sufficient for cholesterol homeostasis.",
+        "B": "Steroid hormone production consumes cholesterol but uses only a small fraction compared with biliary and faecal sterol elimination.",
+        "C": "Humans cannot completely degrade the cholesterol steroid nucleus to carbon dioxide as a major disposal pathway.",
+        "D": "Adipose deposition retains cholesterol within the body rather than removing it through an excretory route."
       }
     },
     {
@@ -1740,15 +1740,15 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "They render fats accessible to pancreatic lipase.",
+      "why": "Bile acids are amphipathic detergents that stabilise small lipid droplets and facilitate mixed micelle formation. Emulsification increases the lipid–water interface available to pancreatic lipase, while micelles assist absorption of digestion products.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "B": "They assist enzymes, they are not enzymes.",
-        "C": "Not their role.",
-        "D": "Not their role.",
-        "E": "They form micelles."
+        "B": "Pancreatic lipase catalyses triacylglycerol hydrolysis, whereas bile acids facilitate access to substrate without acting as hydrolytic enzymes.",
+        "C": "Proton pumps transport hydrogen ions across membranes; bile acids disperse lipids through their amphipathic molecular structure.",
+        "D": "Transport proteins bind or carry substrates, whereas bile acids are small amphipathic molecules acting as biological detergents.",
+        "E": "Bile acids promote formation of mixed micelles containing lipids and fat-soluble vitamins rather than preventing their assembly."
       }
     },
     {
@@ -1778,15 +1778,15 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "They also aid absorption of fat-soluble vitamins.",
+      "why": "Amphipathic bile salts and phosphatidylcholine form mixed micelles and other lipid aggregates that keep poorly water-soluble cholesterol dispersed in bile. Cholesterol supersaturation relative to these components favours cholesterol gallstone formation.",
       "topicId": "lipids",
       "subtopic": "Cholesterol and bile acids",
       "difficulty": "medium",
       "notes": {
-        "A": "Not possible.",
-        "C": "Not as taught.",
-        "D": "Occurs in cells, not bile here.",
-        "E": "The opposite of what is wanted."
+        "A": "Conversion to carbon dioxide is not the physiological mechanism for keeping cholesterol soluble within stored gallbladder bile.",
+        "C": "Cholesterol solubility depends on biliary lipid composition rather than active transfer of the stored cholesterol into blood.",
+        "D": "Intracellular cholesterol esterification facilitates lipid storage, but biliary cholesterol is maintained in solution mainly by bile salts and phospholipids.",
+        "E": "Crystallisation removes cholesterol from solution and can initiate gallstone formation, the opposite of biliary solubilisation."
       }
     },
     {
@@ -1816,15 +1816,15 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Its R group is a hydrogen, so the molecule is not optically active.",
+      "why": "Glycine has hydrogen as its side chain, so its α-carbon is bonded to two identical hydrogen atoms. It therefore lacks the four different substituents required for chirality at that carbon.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "easy",
       "notes": {
-        "B": "Has a methyl side chain.",
-        "C": "Has a secondary amino group.",
-        "D": "Has a thiol side chain.",
-        "E": "Has a hydroxymethyl side chain."
+        "B": "Alanine has a methyl side chain distinct from hydrogen, giving its α-carbon four different substituents.",
+        "C": "Proline has a cyclic side chain attached to nitrogen, but its α-carbon still has four distinct substituents.",
+        "D": "Cysteine has a thiol-containing side chain distinct from hydrogen, so its α-carbon is stereogenic.",
+        "E": "Serine has a hydroxymethyl side chain distinct from hydrogen and therefore possesses a chiral α-carbon."
       }
     },
     {
@@ -1854,15 +1854,15 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "It carries both a positive and a negative charge.",
+      "why": "At physiological pH, the α-carboxyl group of a typical free amino acid is predominantly deprotonated and the α-amino group protonated. This produces a zwitterionic structure, with net charge also depending on ionisable side chains.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "easy",
       "notes": {
-        "A": "Favoured at low pH.",
-        "C": "Favoured at high pH.",
-        "D": "Not at pH 7.",
-        "E": "Not a charge state."
+        "A": "A net cationic form is favoured at low pH for amino acids without an additional ionisable side chain.",
+        "C": "An anionic form predominates at sufficiently alkaline pH for a typical amino acid when the α-amino group loses its proton.",
+        "D": "The unionised form with both α-carboxyl and α-amino groups uncharged is not the predominant aqueous species near physiological pH.",
+        "E": "A free radical contains an unpaired electron, whereas zwitterion formation reflects acid–base proton transfer without creating a radical."
       }
     },
     {
@@ -1892,15 +1892,15 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The carboxyl is the stronger acid.",
+      "why": "The α-carboxyl group typically has a pKa near 2 and readily loses a proton; the protonated α-amino group has a pKa near 9–10. Exact values vary with the amino acid and its molecular environment.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "medium",
       "notes": {
-        "A": "Not as taught.",
-        "B": "Not as taught.",
-        "D": "Not as taught.",
-        "E": "Not as taught."
+        "A": "A pKa near 4 is more characteristic of acidic side-chain carboxyl groups than the usual α-carboxyl group; the α-amino group is closer to 9–10.",
+        "B": "A pKa near 6 resembles the histidine imidazole side chain rather than the more acidic α-carboxyl group.",
+        "D": "A pKa of 7 is substantially above the usual α-carboxyl pKa, and 11 is higher than most free α-amino group values.",
+        "E": "A pKa near 5 is too low for the protonated α-amino group, which generally deprotonates near pH 9–10."
       }
     },
     {
@@ -1930,15 +1930,15 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "It does not move in an electric field at its pI.",
+      "why": "At its isoelectric point, an amino acid has zero average net charge because positive and negative charges balance. It therefore has no net electrophoretic migration in an ideal electric field.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "medium",
       "notes": {
-        "A": "Occurs below the pI.",
-        "B": "Occurs above the pI.",
-        "C": "Not defined this way.",
-        "E": "Not related."
+        "A": "At sufficiently low pH the ionisable groups are protonated, so a typical amino acid carries a net positive charge.",
+        "B": "At sufficiently high pH, deprotonation of ionisable groups makes the typical amino acid negatively charged rather than electrically neutral.",
+        "C": "Solubility may be reduced near the isoelectric point for some compounds, but solubility does not define the isoelectric point.",
+        "E": "Ultraviolet absorption reflects the electronic structure of chromophores such as aromatic rings, not the balance of ionic charges."
       }
     },
     {
@@ -1968,15 +1968,15 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "For glycine this gives about 5.97.",
+      "why": "For glycine and other amino acids without ionisable side chains, the neutral zwitterionic species lies between the two backbone pKa values. The isoelectric point is their arithmetic mean; glycine has a pI near 5.97.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "medium",
       "notes": {
-        "A": "Not the formula.",
-        "B": "Not the formula.",
-        "C": "Not the formula.",
-        "D": "Not the formula."
+        "A": "Adding both pKa values without dividing by two gives the sum rather than the midpoint between the two ionisation equilibria.",
+        "B": "Subtracting the pKa values gives their separation, not the pH at which average positive and negative charges balance.",
+        "C": "Doubling the carboxyl pKa ignores the amino group equilibrium that also determines the charge of the zwitterion.",
+        "D": "Halving the amino group pKa ignores the carboxyl group equilibrium and therefore does not locate the charge-neutral midpoint."
       }
     },
     {
@@ -2006,15 +2006,15 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "It behaves as an anion.",
+      "why": "Above its isoelectric point, an amino acid loses more protons as the pH increases and its average net charge becomes negative. The negatively charged species migrate towards the positive electrode during electrophoresis.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "medium",
       "notes": {
-        "B": "Occurs below the pI.",
-        "C": "Occurs at the pI.",
-        "D": "Not as taught.",
-        "E": "It can be predicted."
+        "B": "A positive average net charge occurs below the isoelectric point, where protonation of ionisable groups is favoured.",
+        "C": "Zero average net charge defines the isoelectric point itself, rather than a pH above that value.",
+        "D": "A positive charge of two requires appropriate protonated basic groups and cannot describe the average net charge above the pI.",
+        "E": "Although the exact charge requires the relevant pKa values, its sign can be predicted from pH relative to pI."
       }
     },
     {
@@ -2044,15 +2044,15 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Proteins are built from L-alpha amino acids; D-isomers and beta-amino acids are not used in ribosomal protein synthesis.",
+      "why": "Ribosomal protein synthesis uses the genetically encoded L-α-amino acids; their amino and carboxyl groups are attached to the α-carbon. Glycine is an achiral exception to the L designation.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "medium",
       "notes": {
-        "A": "Not found in proteins.",
-        "C": "Not the backbone form.",
-        "D": "Not found in proteins.",
-        "E": "Not as taught."
+        "A": "D-α-amino acids occur in some biological products, including bacterial peptidoglycan, but are not the standard substrates for ribosomal protein synthesis.",
+        "C": "β-Amino acids have the amino group on the β-carbon rather than the α-carbon used in the standard polypeptide backbone.",
+        "D": "D-β-amino acids differ in amino-group position and stereochemistry from the usual chiral substrates charged onto transfer RNAs.",
+        "E": "A racemic mixture contains equal amounts of opposite enantiomers, whereas ribosomal incorporation of the standard chiral amino acids is stereoselective."
       }
     },
     {
@@ -2082,15 +2082,15 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Sulphur is present in cysteine and methionine.",
+      "why": "Sulphur is a constituent of the standard amino acids cysteine and methionine. It is therefore conventionally listed with carbon, hydrogen, oxygen and nitrogen among the elements of protein, although individual proteins vary in composition.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "medium",
       "notes": {
-        "A": "Found in nucleotides.",
-        "B": "A trace metal in some proteins.",
-        "D": "In thyroid hormone.",
-        "E": "In selenocysteine only."
+        "A": "Phosphorus occurs in phosphorylated proteins and some associated groups but is not present in the side chains of the standard amino acids.",
+        "B": "Iron occurs in selected metalloproteins and haem proteins as an associated metal rather than a normal constituent of the standard amino acid backbone.",
+        "D": "Iodine occurs in iodinated tyrosine derivatives in thyroid physiology but is not a general constituent of the common protein amino acids.",
+        "E": "Selenium is incorporated into specialised selenoproteins as selenocysteine, rather than being a constituent of the usual twenty-amino-acid set."
       }
     },
     {
@@ -2125,10 +2125,10 @@
       "subtopic": "Amino acids and proteins",
       "difficulty": "easy",
       "notes": {
-        "A": "Local α-helix/β-sheet.",
-        "B": "The overall fold.",
-        "C": "Arrangement of subunits.",
-        "E": "Not a defined level here."
+        "A": "Secondary structure describes local backbone conformations such as α-helices and β-sheets, rather than the order of residues along the chain.",
+        "B": "Tertiary structure describes the overall three-dimensional fold of an individual polypeptide, not simply its covalent amino acid sequence.",
+        "C": "Quaternary structure describes the arrangement and association of separate polypeptide subunits in a protein complex.",
+        "E": "Supersecondary motifs combine recurring local structures, such as a β-hairpin or helix–turn–helix, rather than defining the linear sequence."
       }
     },
     {
@@ -2158,15 +2158,15 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Both are stabilised by hydrogen bonds.",
+      "why": "Secondary structure comprises regular local conformations of the polypeptide backbone, including α-helices and β-pleated sheets. Their characteristic hydrogen bonds form between backbone carbonyl and amide groups.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "medium",
       "notes": {
-        "A": "The amino-acid sequence.",
-        "B": "The whole fold.",
-        "C": "Multiple subunits.",
-        "D": "Not a structural level."
+        "A": "Primary structure specifies the covalent amino acid sequence and does not describe the local backbone folding into helices or sheets.",
+        "B": "Tertiary structure is the complete three-dimensional organisation of one polypeptide, including the arrangement of its local secondary elements.",
+        "C": "Quaternary structure describes the assembly of multiple polypeptide chains and does not refer to local backbone conformations.",
+        "D": "Denaturation disrupts native folding and is a change in conformation rather than one of the normal hierarchical levels of protein structure."
       }
     },
     {
@@ -2196,15 +2196,15 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "They form between peptide-bond atoms above and below along the spiral.",
+      "why": "The α-helix is stabilised by hydrogen bonds between backbone carbonyl oxygen atoms and amide hydrogen atoms four residues further along the chain. This repeating pattern supports the regular helical conformation.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "medium",
       "notes": {
-        "B": "Stabilise some tertiary structures.",
-        "C": "A tertiary interaction.",
-        "D": "The covalent backbone links.",
-        "E": "A weaker tertiary force."
+        "B": "Disulphide bonds form covalent links between cysteine side chains and can stabilise the overall fold rather than the repeating α-helical backbone.",
+        "C": "Ionic interactions between charged side chains can influence helical stability, but they do not form its characteristic repeating backbone bond pattern.",
+        "D": "Peptide bonds connect the amino acids covalently and remain present in unfolded proteins; hydrogen bonds maintain the helical arrangement.",
+        "E": "Van der Waals contacts contribute to molecular packing, but the characteristic regular α-helical pattern is maintained principally by backbone hydrogen bonds."
       }
     },
     {
@@ -2234,15 +2234,15 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "These act between the side chains.",
+      "why": "Tertiary folding is stabilised by multiple interactions, including ionic attractions between oppositely charged side chains, hydrogen bonds, van der Waals contacts and hydrophobic packing. Disulphide cross-links also stabilise some proteins.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "medium",
       "notes": {
-        "A": "Backbone links, not stabilisers of the fold.",
-        "C": "Found in nucleic acids.",
-        "D": "Found in polysaccharides.",
-        "E": "Not as taught."
+        "A": "Peptide bonds establish the covalent backbone sequence; they do not provide the characteristic long-range salt bridges stabilising tertiary folding.",
+        "C": "Phosphodiester bonds connect nucleotide sugars in nucleic acid backbones rather than stabilising a folded polypeptide through side-chain interactions.",
+        "D": "Glycosidic bonds link sugars in carbohydrates and glycoconjugates rather than providing the ionic side-chain interactions of a protein fold.",
+        "E": "Ester bonds occur in lipids and certain modified biomolecules, but are not the standard salt-bridge interactions between charged amino acid residues."
       }
     },
     {
@@ -2272,15 +2272,15 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Haemoglobin, with four globin chains, is the example.",
+      "why": "Quaternary structure describes the spatial organisation and interactions of two or more polypeptide subunits in a functional protein. Adult haemoglobin illustrates this with two α and two β globin chains.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "medium",
       "notes": {
-        "A": "A single chain fold.",
-        "B": "Local conformation.",
-        "D": "The sequence.",
-        "E": "Not a level."
+        "A": "Tertiary structure describes the complete three-dimensional fold of an individual chain, whether or not that chain associates with additional subunits.",
+        "B": "Secondary structure describes recurring local backbone patterns and does not specify how separate polypeptide chains associate into a complex.",
+        "D": "Primary structure records the sequence of amino acids linked within a chain rather than the association of multiple chains.",
+        "E": "Denatured structure describes disruption of native conformation and is not the structural classification for a protein containing multiple subunits."
       }
     },
     {
@@ -2310,15 +2310,15 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "It is the classic example of quaternary structure.",
+      "why": "The globin chains of adult haemoglobin associate into a tetramer primarily through non-covalent interactions at their interfaces, including hydrophobic contacts, hydrogen bonds and ionic interactions. These interfaces permit cooperative conformational changes.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "medium",
       "notes": {
-        "A": "Link subunits in some proteins, but not here.",
-        "B": "Join residues within a chain.",
-        "C": "Not in protein.",
-        "E": "Not the main force here."
+        "A": "Disulphide bonds covalently connect cysteine residues in some multimeric proteins, but they do not principally link the four haemoglobin subunits.",
+        "B": "Peptide bonds connect amino acid residues within each globin chain rather than covalently joining the four separate globin chains.",
+        "C": "Phosphodiester bonds form the sugar–phosphate backbone of nucleic acids and do not connect haemoglobin polypeptide subunits.",
+        "E": "Ionic interactions contribute to haemoglobin subunit association, but other non-covalent forces also stabilise the interfaces; salt bridges alone are insufficient."
       }
     },
     {
@@ -2348,15 +2348,15 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "All three have branched aliphatic side chains.",
+      "why": "Leucine, isoleucine and valine are the branched-chain amino acids because each has a branched aliphatic hydrocarbon side chain. They are nutritionally essential and share initial catabolic enzymes.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "medium",
       "notes": {
-        "A": "Unbranched aliphatic.",
-        "B": "Side chain is a hydrogen.",
-        "C": "A cyclic imino acid.",
-        "D": "Sulphur-containing."
+        "A": "Alanine contains a single methyl side chain, which does not have the branching characteristic of the three branched-chain amino acids.",
+        "B": "Glycine has a hydrogen atom as its side chain and therefore has no aliphatic carbon branch.",
+        "C": "Proline has a cyclic side chain that links back to the amino nitrogen, rather than an open branched aliphatic side chain.",
+        "D": "Methionine contains an unbranched thioether-containing side chain and belongs to the sulphur-containing amino acid group."
       }
     },
     {
@@ -2386,15 +2386,15 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Phenylalanine, tyrosine and tryptophan.",
+      "why": "Aromatic side chains absorb ultraviolet radiation because their conjugated electronic systems undergo electronic excitation. Protein absorbance at 280 nm is due mainly to tryptophan and tyrosine, with a much weaker contribution from phenylalanine.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "medium",
       "notes": {
-        "B": "Do not absorb at 280 nm.",
-        "C": "Do not absorb strongly.",
-        "D": "Do not absorb strongly.",
-        "E": "Do not absorb at 280 nm."
+        "B": "Branched-chain amino acids have saturated aliphatic side chains lacking the aromatic chromophores responsible for strong absorbance near 280 nm.",
+        "C": "Basic side chains such as those of lysine and arginine do not provide the principal chromophores for protein absorbance at 280 nm.",
+        "D": "Aspartate and glutamate contain carboxylate side chains rather than the aromatic ring systems responsible for substantial protein absorbance near 280 nm.",
+        "E": "Sulphur-containing residues lack the aromatic chromophores of tryptophan and tyrosine, although cystine can contribute weakly to protein ultraviolet absorbance."
       }
     },
     {
@@ -2424,15 +2424,15 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Cystine forms from the condensation of two cysteines.",
+      "why": "Among the standard twenty amino acids, cysteine contains a thiol group and methionine contains a thioether group. Both contain sulphur and are directly incorporated into proteins by ribosomes.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "medium",
       "notes": {
-        "A": "Cystine is not incorporated directly.",
-        "C": "Serine has no sulphur.",
-        "D": "Threonine has no sulphur.",
-        "E": "Taurine is not proteinogenic."
+        "A": "Cystine consists of two cysteine residues joined by an oxidatively formed disulphide bond; it is not separately encoded for ribosomal incorporation.",
+        "C": "Serine has a hydroxymethyl side chain containing oxygen rather than sulphur, so only methionine belongs to the requested group.",
+        "D": "Threonine has a hydroxyl-containing side chain with no sulphur, whereas cysteine contains a sulphur-bearing thiol group.",
+        "E": "Taurine is a sulphur-containing amino sulphonic acid but is not a standard amino acid directly incorporated into proteins by ribosomes."
       }
     },
     {
@@ -2462,15 +2462,15 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Arginine has a guanidino group; histidine an imidazole ring.",
+      "why": "Lysine, arginine and histidine are classified as basic amino acids because their side chains can accept protons. Histidine has an imidazole ring with a pKa near 6, allowing participation in acid–base catalysis.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "medium",
       "notes": {
-        "A": "Acidic.",
-        "B": "Acidic.",
-        "D": "Polar uncharged.",
-        "E": "Aromatic."
+        "A": "Aspartate has a side-chain carboxyl group that is predominantly deprotonated and negatively charged at physiological pH, making it acidic.",
+        "B": "Glutamate has an additional carboxyl group and carries a negative side-chain charge at physiological pH rather than a basic side chain.",
+        "D": "Serine has a hydroxymethyl side chain that is polar but normally uncharged near physiological pH, rather than a basic nitrogen-containing group.",
+        "E": "Tyrosine has an aromatic phenolic side chain and is usually uncharged at physiological pH rather than classed as a basic amino acid."
       }
     },
     {
@@ -2500,15 +2500,15 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "They carry extra carboxyl groups.",
+      "why": "Aspartate and glutamate possess an additional carboxyl group in their side chains. These groups are predominantly deprotonated at physiological pH, giving the side chains a negative charge.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "medium",
       "notes": {
-        "A": "Positively charged.",
-        "B": "Polar uncharged.",
-        "C": "Polar uncharged amides.",
-        "E": "Non-polar."
+        "A": "Lysine and arginine possess protonated basic side chains at physiological pH, so their characteristic side-chain charges are positive.",
+        "B": "Serine and threonine contain hydroxyl groups that are polar but remain largely uncharged at physiological pH.",
+        "C": "Asparagine and glutamine have polar carboxamide side chains that are electrically neutral under normal physiological conditions.",
+        "E": "Alanine and valine contain non-polar aliphatic side chains and lack the ionisable carboxyl groups required for a negative side-chain charge."
       }
     },
     {
@@ -2538,15 +2538,15 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "They are polar but uncharged.",
+      "why": "Asparagine and glutamine are the side-chain carboxamides of aspartate and glutamate, respectively. Replacing the side-chain carboxylate with an amide makes their side chains polar but generally uncharged at physiological pH.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "medium",
       "notes": {
-        "A": "They are not basic.",
-        "B": "They contain no sulphur.",
-        "C": "They are not aromatic.",
-        "D": "They are not branched aliphatic."
+        "A": "Basic amino acids have proton-accepting side chains, whereas the carboxamide groups of asparagine and glutamine are not appreciably basic at physiological pH.",
+        "B": "Sulphur-containing amino acids have thiol or thioether groups, whereas the side chains of asparagine and glutamine contain carboxamide groups without sulphur.",
+        "C": "Aromatic amino acids contain conjugated ring systems; asparagine and glutamine instead have open-chain carboxamide side chains.",
+        "D": "Branched-chain amino acids possess branched hydrocarbon side chains, whereas asparagine and glutamine contain unbranched chains terminating in carboxamide groups."
       }
     },
     {
@@ -2614,15 +2614,15 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Phenylalanine then cannot be converted to tyrosine.",
+      "why": "Phenylketonuria usually results from deficient phenylalanine hydroxylase activity, reducing conversion of phenylalanine to tyrosine. Tyrosine consequently becomes conditionally essential and must be supplied in sufficient amounts in the diet.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "medium",
       "notes": {
-        "A": "A defect of melanin synthesis.",
-        "C": "A defect further down tyrosine catabolism.",
-        "D": "A branched-chain disorder.",
-        "E": "A methionine/cysteine disorder."
+        "A": "Albinism involves impaired melanin synthesis, often owing to defective tyrosinase activity, rather than impaired production of tyrosine from phenylalanine.",
+        "C": "Alkaptonuria results from homogentisate dioxygenase deficiency, which blocks a later step in phenylalanine and tyrosine degradation rather than tyrosine synthesis.",
+        "D": "Maple syrup urine disease impairs branched-chain α-ketoacid dehydrogenase and therefore branched-chain amino acid degradation, not phenylalanine hydroxylation.",
+        "E": "Classical homocystinuria results from cystathionine β-synthase deficiency, disrupting methionine metabolism and potentially making cysteine conditionally essential rather than tyrosine."
       }
     },
     {
@@ -2652,15 +2652,15 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Arginine is conditionally essential: it can be synthesised but not fast enough during growth, pregnancy or illness, so dietary intake is then needed.",
+      "why": "Arginine is conditionally essential: endogenous synthesis can be insufficient to meet demand during rapid growth, critical illness or other metabolic stress. Dietary provision then becomes particularly important.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "medium",
       "notes": {
-        "A": "Strictly essential.",
-        "B": "Strictly essential.",
-        "D": "Strictly essential.",
-        "E": "Strictly essential."
+        "A": "Leucine is an indispensable branched-chain amino acid whose carbon skeleton cannot be synthesised adequately by humans even under normal conditions.",
+        "B": "Lysine is indispensable because humans lack a biosynthetic pathway for its carbon skeleton; its dietary requirement is not limited to special conditions.",
+        "D": "Valine is an indispensable branched-chain amino acid and must be obtained from the diet under ordinary physiological conditions.",
+        "E": "Tryptophan is indispensable because humans cannot synthesise its carbon skeleton, even though it can serve as a precursor for other metabolites."
       }
     },
     {
@@ -2690,15 +2690,15 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Leucine and lysine are the two purely ketogenic amino acids.",
+      "why": "Purely ketogenic amino acids yield ketogenic carbon products such as acetyl-CoA or acetoacetate without providing a net gluconeogenic carbon skeleton. Leucine and lysine are the two standard examples.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "medium",
       "notes": {
-        "A": "Give glucose precursors.",
-        "B": "Give both kinds of product.",
-        "C": "All are metabolised.",
-        "E": "A nutritional, not catabolic, class."
+        "A": "Purely glucogenic amino acids yield pyruvate or suitable citric acid cycle intermediates that can support net glucose production.",
+        "B": "Amino acids with both glucogenic and ketogenic degradation products supply gluconeogenic precursors as well as ketogenic carbon fragments.",
+        "C": "The ketogenic classification refers to degradation products of metabolised amino acids, not amino acids that cannot undergo metabolic breakdown.",
+        "E": "Essential amino acids are defined by the dietary requirement for their carbon skeletons, independently of whether their degradation is ketogenic or glucogenic."
       }
     },
     {
@@ -2728,15 +2728,15 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Leucine and lysine are the only two purely ketogenic amino acids; the rest are glucogenic or both.",
+      "why": "Leucine and lysine are the only standard amino acids classified as exclusively ketogenic. Their degradation produces ketogenic carbon compounds rather than intermediates that can contribute carbon to net gluconeogenesis.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "medium",
       "notes": {
-        "A": "Isoleucine is both; valine is glucogenic.",
-        "B": "Glucogenic.",
-        "C": "Both glucogenic and ketogenic.",
-        "D": "Glucogenic."
+        "A": "Isoleucine yields acetyl-CoA and succinyl-CoA precursors, whereas valine yields a succinyl-CoA precursor; both therefore have glucogenic carbon products.",
+        "B": "Alanine and serine are glucogenic because their carbon skeletons can be converted to pyruvate for gluconeogenesis.",
+        "C": "Phenylalanine and tyrosine yield fumarate as well as acetoacetate, making both glucogenic and ketogenic rather than exclusively ketogenic.",
+        "D": "Glycine can contribute to glucose production through serine, and threonine can yield a succinyl-CoA precursor; neither pair is exclusively ketogenic."
       }
     },
     {
@@ -2766,15 +2766,15 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "These feed gluconeogenesis.",
+      "why": "Succinyl-CoA is one of the recognised entry products of glucogenic amino acid degradation. It can proceed through the citric acid cycle to oxaloacetate, which provides substrate for hepatic gluconeogenesis.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "medium",
       "notes": {
-        "B": "A ketogenic product.",
-        "C": "A ketogenic product.",
-        "D": "A fatty-acid precursor.",
-        "E": "Not an exit point here."
+        "B": "Acetoacetyl-CoA yields acetyl-CoA or ketone bodies and does not furnish a net gluconeogenic carbon skeleton in humans.",
+        "C": "Acetyl-CoA enters the citric acid cycle, but its carbons cannot support net glucose synthesis in humans because the cycle loses carbon dioxide.",
+        "D": "Malonyl-CoA is mainly a committed precursor of fatty acid synthesis and is not a standard product used to classify glucogenic amino acid degradation.",
+        "E": "Citrate is formed by condensation of acetyl-CoA and oxaloacetate, rather than serving as a standard direct entry product of glucogenic amino acid catabolism."
       }
     },
     {
@@ -2804,15 +2804,15 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "They are modifications of the common amino acids.",
+      "why": "Hydroxyproline, ornithine and norleucine fall outside the usual twenty genetically encoded amino acids. Hydroxyproline forms by post-translational modification, ornithine participates in the urea cycle, and norleucine is a nonstandard amino acid.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "medium",
       "notes": {
-        "A": "Not dietary essentials.",
-        "C": "Not branched-chain.",
-        "D": "Not aromatic.",
-        "E": "Not classed this way."
+        "A": "These compounds are not members of the standard group of indispensable amino acids required in the normal human diet.",
+        "C": "The standard branched-chain amino acids are valine, leucine and isoleucine, whereas these nonstandard compounds do not form that group.",
+        "D": "Aromatic amino acids contain aromatic ring systems, which are absent from hydroxyproline, ornithine and norleucine.",
+        "E": "The ketogenic classification concerns particular degradation products of amino acids; it does not define this collection of nonstandard structures."
       }
     },
     {
@@ -2842,15 +2842,15 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Oligopeptides have 2–10; proteins more than 100.",
+      "why": "Under the numerical convention stated in this question, a polypeptide contains 11–100 amino acid residues linked by peptide bonds. These size cut-offs are teaching conventions rather than universal boundaries between peptides and proteins.",
       "topicId": "nitrogen",
       "subtopic": "Amino acids and proteins",
       "difficulty": "medium",
       "notes": {
-        "A": "2–10 residues.",
-        "B": "More than 100 residues.",
-        "D": "Two residues.",
-        "E": "A sugar-protein complex."
+        "A": "Under the stated convention, an oligopeptide contains fewer residues, typically two to ten, rather than the range of 11–100.",
+        "B": "The stated size convention places proteins above the given range, although in broader biochemical usage functional proteins may be shorter.",
+        "D": "A dipeptide contains exactly two amino acid residues joined by a peptide bond, rather than a longer chain of 11–100 residues.",
+        "E": "A proteoglycan consists of a core protein bearing glycosaminoglycan chains and is defined by its carbohydrate composition rather than a peptide-length range."
       }
     },
     {
