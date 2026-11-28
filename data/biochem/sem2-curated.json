@@ -15184,10 +15184,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Apoptosis is regulated cell death with caspase activation and controlled cellular dismantling.",
+      "why": "Severe DNA damage can trigger intrinsic apoptosis. Activated caspases dismantle the cell, and membrane-bound fragments are cleared with relatively little inflammation.",
       "topicId": "molbio",
       "subtopic": "Cancer molecular biology",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Necrosis typically involves loss of membrane integrity and release of material that promotes inflammation.",
+        "B": "Pyroptosis is a form of regulated cell death that typically ruptures the membrane and promotes inflammation.",
+        "C": "Metastasis is the spread and growth of malignant cells at other sites.",
+        "D": "Autophagy primarily uses lysosomes to recycle cellular components."
+      }
     },
     {
       "id": "dq-bio-molbio-102",
@@ -15216,10 +15222,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Necrotic membrane rupture releases contents and commonly triggers inflammation.",
+      "why": "Necrotic cells often swell and lose membrane integrity, releasing intracellular contents that can provoke inflammation. Apoptotic cells instead tend to shrink and fragment within intact membranes.",
       "topicId": "molbio",
       "subtopic": "Cancer molecular biology",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Cleavage of cellular proteins by executioner caspases is a hallmark of apoptosis.",
+        "C": "Apoptotic bodies are membrane-bound fragments formed during orderly apoptosis.",
+        "D": "Preservation of the membrane until clearance is characteristic of apoptosis.",
+        "E": "Clearance with little inflammation is typical of prompt removal of apoptotic cells."
+      }
     },
     {
       "id": "dq-bio-molbio-103",
@@ -15248,10 +15260,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "New blood-vessel growth supplies oxygen and nutrients for expanding tumours.",
+      "why": "Tumour angiogenesis is the formation of new vessels in and around a tumour. These vessels can increase delivery of oxygen and nutrients as the tumour grows.",
       "topicId": "molbio",
       "subtopic": "Cancer molecular biology",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Introns are sequences within genes and are unrelated to the definition of angiogenesis.",
+        "B": "Thymic T-cell maturation is an immune process rather than blood-vessel formation.",
+        "C": "Collagen is a structural extracellular matrix protein and transfer of tumour RNA to collagen does not describe vessel growth.",
+        "E": "Platelet activity and fibrin formation are parts of haemostasis rather than the formation of new vessels."
+      }
     },
     {
       "id": "dq-bio-molbio-104",
@@ -15280,10 +15298,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Initiation introduces a heritable genetic lesion that permits subsequent tumour development.",
+      "why": "In the classical multistage model, initiation creates a lasting genetic alteration in a cell that can be passed to its descendants. Promotion can then expand this altered clone.",
       "topicId": "molbio",
       "subtopic": "Cancer molecular biology",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Transient growth signals can stimulate proliferation but do not in themselves establish a heritable lesion.",
+        "C": "Tissue hydration is unrelated to the defining genetic change in initiation.",
+        "D": "Metastasis is a later feature of malignant progression and involves spread from the primary site.",
+        "E": "Restoring cell-cycle control would counter abnormal proliferation rather than establish the initiated clone."
+      }
     },
     {
       "id": "dq-bio-molbio-105",
@@ -15312,10 +15336,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Promoters favour clonal expansion after initiation, and need not directly cause mutations.",
+      "why": "A tumour promoter favours expansion of a previously initiated clone. It can act by increasing proliferation or survival without directly causing the initiating mutation.",
       "topicId": "molbio",
       "subtopic": "Cancer molecular biology",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "An initiator causes the lasting initial genetic alteration in the classical model.",
+        "B": "Mismatch repair corrects replication errors and does not refer to stimulation of an initiated clone.",
+        "D": "A telomerase inhibitor is defined by its effect on maintenance of chromosome ends.",
+        "E": "Proofreading is a mechanism that removes certain misincorporated bases during DNA synthesis."
+      }
     },
     {
       "id": "dq-bio-molbio-106",
@@ -15344,10 +15374,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Metastasis requires local invasion, entry into transport pathways and successful growth at distant sites.",
+      "why": "Metastasis requires local invasion, dissemination through a route such as blood or lymph, and colonisation of a distant tissue. The final step requires survival and growth in a new environment.",
       "topicId": "molbio",
       "subtopic": "Cancer molecular biology",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Mitosis, transcription and translation are ordinary cellular processes that can occur without tumour spread.",
+        "B": "Replication and splicing are processes of genome duplication and RNA processing, respectively.",
+        "C": "Repair, arrest and apoptosis are potential responses to damage within a cell.",
+        "D": "Antigen recognition and phagocytosis are immune processes and do not define the steps of tumour spread."
+      }
     },
     {
       "id": "dq-bio-molbio-107",
@@ -15376,10 +15412,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Reduced DNA repair permits genomic alterations to accumulate, facilitating malignant transformation.",
+      "why": "A damaging mutation in a repair gene can let normally corrected DNA lesions persist. When copied or misrepaired, some lesions become mutations that can affect genes controlling growth and survival.",
       "topicId": "molbio",
       "subtopic": "Cancer molecular biology",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "A repair defect may affect how a cell transcribes damaged DNA, but the general cancer risk stems from genome instability.",
+        "C": "Cytokine receptors use signalling pathways distinct from the core function of repairing DNA lesions.",
+        "D": "Stability of a collagen triple helix is determined by the collagen protein and its processing.",
+        "E": "Cells still need to replicate their genomes before normal division, even when a repair pathway is defective."
+      }
     },
     {
       "id": "dq-bio-molbio-108",
@@ -15408,10 +15450,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Persistent high-risk HPV infection expresses viral proteins that disrupt cell-cycle regulators.",
+      "why": "Persistent infection with a high-risk type of human papillomavirus can disrupt normal growth control in cervical epithelium. It is the major cause of cervical carcinoma.",
       "topicId": "molbio",
       "subtopic": "Cancer molecular biology",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Influenza A is a respiratory virus and is not an established cause of cervical carcinoma.",
+        "B": "Rhinovirus is a common cause of upper respiratory infections and lacks this established cancer association.",
+        "C": "Norovirus is typically associated with acute gastroenteritis.",
+        "E": "Rotavirus is an important cause of acute diarrhoeal disease, particularly in young children."
+      }
     },
     {
       "id": "dq-bio-molbio-109",
@@ -15440,10 +15488,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Chronic HBV infection contributes to hepatocellular carcinoma through inflammation and viral oncogenic mechanisms.",
+      "why": "Chronic hepatitis B increases the risk of hepatocellular carcinoma through prolonged liver injury, among other mechanisms. The association is with persistent infection.",
       "topicId": "molbio",
       "subtopic": "Cancer molecular biology",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Epstein–Barr virus is associated with certain lymphomas and nasopharyngeal carcinoma, among other cancers.",
+        "C": "Influenza A is primarily a respiratory pathogen with no comparable established link to chronic carcinogenic hepatitis.",
+        "D": "Rhinovirus is a common cause of upper respiratory tract infection.",
+        "E": "Rotavirus is chiefly associated with acute gastroenteritis rather than chronic liver injury."
+      }
     },
     {
       "id": "dq-bio-molbio-110",
@@ -15472,10 +15526,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Checkpoint pathways assess genomic integrity and can stop the cycle for repair.",
+      "why": "DNA damage can trigger checkpoints that inhibit cell-cycle progression, allowing time for repair before division. Persistent or severe damage may instead lead to senescence or apoptosis.",
       "topicId": "molbio",
       "subtopic": "Cancer molecular biology",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Loss of all ribosomes would prevent normal protein synthesis and is not a regulated response to DNA damage.",
+        "B": "Loss of mitochondrial DNA impairs mitochondrial function and is not the mechanism that checks nuclear DNA before division.",
+        "D": "Unrestricted cyclin activity can drive progression through checkpoints rather than impose a pause.",
+        "E": "Constitutive oncogene activation commonly favours growth signalling instead of providing a regulated DNA damage checkpoint."
+      }
     },
     {
       "id": "dq-bio-molbio-111",
@@ -15504,10 +15564,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Restriction enzymes recognize short DNA sequences and cleave at or near those sites.",
+      "why": "A restriction endonuclease recognises a particular motif in DNA and cleaves at or near that motif. Sequence recognition explains why different restriction enzymes cut different sites.",
       "topicId": "molbio",
       "subtopic": "Recombinant DNA",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "DNA ligase is the enzyme that seals a break in the sugar-phosphate backbone.",
+        "B": "RNA polymerase is responsible for transcribing a gene into RNA.",
+        "C": "Ribosomes translate messenger RNA into a polypeptide rather than directly reading DNA.",
+        "E": "Plasmid DNA replication requires DNA synthesis machinery. Cleaving DNA is a separate activity."
+      }
     },
     {
       "id": "dq-bio-molbio-112",
@@ -15536,10 +15602,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Ligase seals the sugar-phosphate backbone between compatible DNA ends.",
+      "why": "DNA ligase creates a phosphodiester bond across a nick in the DNA backbone. This covalently joins adjacent DNA ends.",
       "topicId": "molbio",
       "subtopic": "Recombinant DNA",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "DNA helicase is responsible for separating paired nucleic acid strands.",
+        "C": "Primase makes a short RNA primer and does not seal DNA ends together.",
+        "D": "Topoisomerase reshapes DNA topology by transient cleavage and resealing, rather than joining separate fragments into a stable product.",
+        "E": "Reverse transcriptase is an RNA-directed DNA polymerase and does not seal nicks."
+      }
     },
     {
       "id": "dq-bio-molbio-113",
@@ -15568,10 +15640,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Complementary cohesive ends transiently anneal, facilitating ligase-mediated joining.",
+      "why": "Compatible sticky ends have complementary single-stranded overhangs. Base pairing between them can align the fragments, while a separate ligation reaction makes the backbone continuous.",
       "topicId": "molbio",
       "subtopic": "Recombinant DNA",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Complementarity permits base pairing at the overhangs.",
+        "B": "Cohesive ends can help align fragments but do not provide a vector's replication functions.",
+        "C": "Annealing of compatible DNA ends is a property of base pairing and does not inherently block cellular uptake.",
+        "D": "A promoter requires an appropriate regulatory sequence, which is not guaranteed by joining cohesive ends."
+      }
     },
     {
       "id": "dq-bio-molbio-114",
@@ -15600,10 +15678,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Host DNA methylation protects appropriate sites from the matching restriction endonuclease.",
+      "why": "In a typical restriction–modification system, a methyltransferase marks the bacterium's DNA at the relevant sequence. The paired restriction enzyme ordinarily cuts unmodified versions of that site.",
       "topicId": "molbio",
       "subtopic": "Recombinant DNA",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "A bacterial chromosome consists of DNA, which can contain sites recognised by restriction enzymes.",
+        "C": "Recognition sites can occur in bacterial DNA, which is why chemical protection from the matching enzyme matters.",
+        "D": "Bacterial cells use DNA ligase in processes including replication and repair.",
+        "E": "A restriction endonuclease recognises a DNA motif as its substrate. It is not a protein-cleaving enzyme."
+      }
     },
     {
       "id": "dq-bio-molbio-115",
@@ -15632,10 +15716,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Plasmids replicate inside hosts, enabling amplification of inserted DNA.",
+      "why": "A plasmid origin of replication lets the plasmid be copied as a distinct DNA molecule in a compatible host. The origin is recognised by replication machinery.",
       "topicId": "molbio",
       "subtopic": "Recombinant DNA",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Bacteria lack a membrane-bound nucleus, so a human nuclear envelope is irrelevant.",
+        "B": "Selectable genetic markers are commonly useful features of a cloning vector.",
+        "D": "Plasmids are DNA molecules that do not require permanent attachment to protein-synthesising ribosomes.",
+        "E": "Human telomerase extends the ends of linear chromosomes and is unnecessary for a typical circular bacterial plasmid."
+      }
     },
     {
       "id": "dq-bio-molbio-116",
@@ -15664,10 +15754,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Cells retaining a vector with the resistance marker survive on the corresponding antibiotic medium.",
+      "why": "The resistance marker is a selectable trait: it distinguishes cells carrying the plasmid from susceptible cells by their response to the relevant antibiotic. The marker and the gene being studied serve separate functions.",
       "topicId": "molbio",
       "subtopic": "Recombinant DNA",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "DNA cleavage at specific sites is a restriction enzyme function.",
+        "B": "Production of a target protein depends on expression of its coding region rather than the marker's role in selection.",
+        "C": "Resistance is a specific trait and does not supply protection against all mutations.",
+        "E": "PCR uses DNA primers, which are distinct from a plasmid's selectable marker."
+      }
     },
     {
       "id": "dq-bio-molbio-117",
@@ -15696,10 +15792,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "A shuttle vector contains elements supporting replication in two different host species.",
+      "why": "A shuttle vector can be propagated in two different host types. It contains replication features recognised by the respective hosts.",
       "topicId": "molbio",
       "subtopic": "Recombinant DNA",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A cosmid is defined by the presence of phage cos sites and is not necessarily compatible with two hosts.",
+        "C": "A capsid is the protein shell of a virus, rather than a vector defined by dual host compatibility.",
+        "D": "A restriction site is a short sequence recognised by an enzyme and does not define the host range of a vector.",
+        "E": "A reporter or probe is used to detect an event or target, rather than to define a vector's ability to propagate in two hosts."
+      }
     },
     {
       "id": "dq-bio-molbio-119",
@@ -15728,10 +15830,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "BACs can carry much larger DNA inserts than most standard plasmids.",
+      "why": "A bacterial artificial chromosome is a vector designed to maintain much larger genomic inserts than an ordinary cloning plasmid. This capacity makes it suitable for retaining long contiguous regions.",
       "topicId": "molbio",
       "subtopic": "Recombinant DNA",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "A conventional small plasmid has a more limited insert capacity.",
+        "C": "A transient expression plasmid is selected for short-term expression rather than for maintaining very large genomic fragments.",
+        "D": "A phagemid combines features of a plasmid and a phage but is not typically used for inserts as large as those a BAC can maintain.",
+        "E": "A PCR primer is a short starting strand for polymerase and is not a vector for maintaining genomic DNA."
+      }
     },
     {
       "id": "dq-bio-molbio-120",
@@ -15760,10 +15868,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "cDNA is generated from processed mRNA and thus usually lacks intervening intron sequences.",
+      "why": "Complementary DNA derived from a mature mRNA reflects the splice pattern of that transcript. Introns present in the genomic copy are usually absent from the cDNA.",
       "topicId": "molbio",
       "subtopic": "Recombinant DNA",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Centromeres are chromosomal structures and do not typically appear in cDNA copied from a processed protein-coding transcript.",
+        "B": "Genomic DNA may contain both introns and exons at a gene.",
+        "D": "Telomeric repeats occur at chromosome ends and are not a defining feature of cDNA.",
+        "E": "Genomic DNA can serve as a template for amplification."
+      }
     },
     {
       "id": "dq-bio-molbio-121",
@@ -15792,10 +15906,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Reverse transcriptase creates DNA from RNA, including mRNA used for constructing cDNA libraries.",
+      "why": "Reverse transcriptase catalyses DNA synthesis on an RNA template. The resulting complementary DNA follows the sequence of the copied RNA.",
       "topicId": "molbio",
       "subtopic": "Recombinant DNA",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "DNA ligase creates backbone bonds between adjacent DNA ends and does not copy an RNA template.",
+        "B": "DNA gyrase is a bacterial topoisomerase that changes DNA supercoiling.",
+        "C": "RNA polymerase II transcribes DNA into RNA rather than synthesising DNA from RNA.",
+        "E": "A restriction endonuclease is a sequence-specific DNA-cutting enzyme."
+      }
     },
     {
       "id": "dq-bio-molbio-122",
@@ -15824,10 +15944,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "E. coli lacks the spliceosome to process most eukaryotic introns; intron-free cDNA is more practical.",
+      "why": "A cDNA copy of mature human mRNA usually has its coding exons joined. Ordinary E. coli lacks the spliceosome that would remove typical human introns, so a continuous coding sequence avoids that processing requirement.",
       "topicId": "molbio",
       "subtopic": "Recombinant DNA",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A human centromere is used in chromosome segregation and is not needed to read the coding sequence in a bacterium.",
+        "C": "A continuous coding sequence does not guarantee proper folding or processing of every human protein.",
+        "D": "Transcription in E. coli still requires a promoter recognised by bacterial transcription machinery.",
+        "E": "A cDNA coding sequence cannot itself prevent degradation of the expressed protein."
+      }
     },
     {
       "id": "dq-bio-molbio-123",
@@ -15856,10 +15982,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Genomic libraries contain DNA regardless of whether sequences are transcribed; cDNA libraries reflect expressed RNAs.",
+      "why": "A genomic library represents DNA from across the genome, including intervening and intergenic regions. A tissue cDNA library represents the RNAs copied from that tissue, so sequences absent from those RNAs are generally missing.",
       "topicId": "molbio",
       "subtopic": "Recombinant DNA",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Expressed messenger RNA sequences can be represented in the cDNA library as DNA copies.",
+        "B": "Coding exons incorporated into expressed transcripts can be present in both kinds of library.",
+        "C": "Protein-coding transcripts are among the main sequences represented in a typical mRNA-derived cDNA library.",
+        "D": "Ribosomal RNA representation depends on RNA selection, so it is not the defining difference from a genomic library."
+      }
     },
     {
       "id": "dq-bio-molbio-124",
@@ -15888,10 +16020,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "PCR separates DNA, anneals primers and extends strands with a thermostable polymerase.",
+      "why": "In one PCR cycle the DNA strands separate, primers pair with complementary sites and DNA polymerase extends the primers. Repeating these events increases copies of the target.",
       "topicId": "molbio",
       "subtopic": "PCR and electrophoresis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Translation makes protein, splicing processes RNA and ligation joins adjacent nucleic acid ends.",
+        "C": "Transcription and secretion involve making RNA and exporting cellular products, respectively, neither of which is required for PCR.",
+        "D": "Glycosylation, hydroxylation and folding are examples of protein processing events.",
+        "E": "Fragmentation, staining and imaging may be used in analysis but are not the repeating DNA copying steps."
+      }
     },
     {
       "id": "dq-bio-molbio-126",
@@ -15920,10 +16058,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Lowering temperature permits primers to bind complementary target sequences.",
+      "why": "Annealing is the association of primers with complementary sequences on the separated template strands. A paired primer can then provide the starting end for DNA synthesis.",
       "topicId": "molbio",
       "subtopic": "PCR and electrophoresis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A thermostable polymerase remains usable during repeated PCR cycles rather than being irreversibly inactivated at annealing.",
+        "B": "Translation is ribosome-mediated synthesis of a polypeptide from RNA.",
+        "C": "Restriction enzymes are DNA-cleaving enzymes and are not required to join DNA during annealing.",
+        "E": "PCR occurs in a cell-free reaction, so plasmid entry into cells is irrelevant to primer annealing."
+      }
     },
     {
       "id": "dq-bio-molbio-127",
@@ -15952,10 +16096,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "A thermostable DNA polymerase extends primers using dNTPs, commonly near 72°C for Taq.",
+      "why": "During extension, DNA polymerase adds complementary deoxyribonucleotides to the paired primer's free 3′ end. This produces a new strand complementary to the template.",
       "topicId": "molbio",
       "subtopic": "PCR and electrophoresis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Ligase seals backbone nicks and does not carry out chain elongation.",
+        "C": "Primers supply a starting end for polymerase and do not cleave duplex DNA.",
+        "D": "Ribosomes make polypeptides and have no role in the DNA extension reaction.",
+        "E": "Spliceosomes remove introns from RNA, not intervening regions of a DNA template."
+      }
     },
     {
       "id": "dq-bio-molbio-128",
@@ -15984,10 +16134,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Thermostability allows polymerase activity to persist through repeated denaturation cycles.",
+      "why": "A thermostable DNA polymerase remains active through many rounds of heating to separate DNA strands. The same enzyme can therefore support repeated extensions.",
       "topicId": "molbio",
       "subtopic": "PCR and electrophoresis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "DNA polymerase synthesises DNA. Protein synthesis is performed by ribosomes.",
+        "B": "Extension requires deoxyribonucleotide substrates as building blocks for the new DNA strand.",
+        "C": "Polymerase requires a primer to provide a pre-existing 3′ end.",
+        "D": "Thermostability refers to enzyme activity after heating and does not ensure a contamination-free reaction."
+      }
     },
     {
       "id": "dq-bio-molbio-129",
@@ -16016,10 +16172,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Ideal amplification is exponential, producing about 2^10 or 1,024 copies.",
+      "why": "Each full cycle ideally doubles the number of copies, so starting from one gives 2 to the power of 10 after 10 cycles. The result is 1,024 copies under the stated assumption.",
       "topicId": "molbio",
       "subtopic": "PCR and electrophoresis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "A total of 100 is not the result of doubling the starting amount 10 times.",
+        "C": "A total of 256 is reached after eight ideal doublings.",
+        "D": "A total of 512 is reached after nine ideal doublings.",
+        "E": "A total of 2,048 is reached after eleven ideal doublings."
+      }
     },
     {
       "id": "dq-bio-molbio-130",
@@ -16048,10 +16210,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Primer sequences hybridize to flanking target sites and define amplification specificity.",
+      "why": "Forward and reverse primers bind complementary sites on opposite strands. Their binding sites specify the two boundaries of the amplified region.",
       "topicId": "molbio",
       "subtopic": "PCR and electrophoresis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Magnesium and other salts can affect polymerase activity and binding conditions but cannot specify a unique target sequence.",
+        "B": "Loading dye and agarose are used to analyse DNA by electrophoresis.",
+        "D": "Antibiotic selection is a way to distinguish cells with a selectable trait, rather than a way to delimit a region of DNA for copying.",
+        "E": "DNA stains and illumination can help visualise products after amplification but do not select the target sequence."
+      }
     },
     {
       "id": "dq-bio-molbio-131",
@@ -16080,10 +16248,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The polyanionic phosphate backbone gives DNA net negative charge.",
+      "why": "Ionised phosphate groups give DNA a net negative charge under typical electrophoresis conditions. The electric field draws the molecules towards the positive electrode.",
       "topicId": "molbio",
       "subtopic": "PCR and electrophoresis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The phosphate backbone, rather than a net positive charge on the bases, is responsible for the direction of migration.",
+        "B": "Both DNA and RNA have negatively charged phosphate backbones.",
+        "C": "Histones are basic proteins and are not the basis of migration of purified DNA in a standard gel.",
+        "E": "Deoxyribose is a sugar in the backbone. Its role is structural rather than determining attraction to the positive electrode."
+      }
     },
     {
       "id": "dq-bio-molbio-132",
@@ -16112,10 +16286,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Smaller fragments generally move through agarose pores with less resistance.",
+      "why": "Agarose forms a molecular sieve. Smaller linear DNA fragments pass more readily through its pores, so they usually migrate farther than larger linear fragments under the same conditions.",
       "topicId": "molbio",
       "subtopic": "PCR and electrophoresis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Larger linear fragments experience more resistance passing through the gel pores.",
+        "C": "GC content is not the main determinant of mobility in ordinary size separation of linear DNA.",
+        "D": "Adenine content does not usually determine migration distance above the effect of fragment size.",
+        "E": "Standard agarose sizing compares purified DNA fragments, not the number of histones bound to them."
+      }
     },
     {
       "id": "dq-bio-molbio-133",
@@ -16144,10 +16324,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Southern blotting uses hybridization probes to identify specific DNA fragments.",
+      "why": "A Southern blot transfers DNA fragments to a membrane after separation. A complementary nucleic acid probe can identify the fragment containing the target DNA sequence.",
       "topicId": "molbio",
       "subtopic": "Molecular diagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A Northern blot is used to detect RNA sequences following separation and transfer to a membrane.",
+        "B": "A Western blot uses antibodies to detect specific proteins.",
+        "C": "A far-Western blot is used to study protein–protein binding.",
+        "D": "A dot blot applies material directly to a membrane rather than separating the fragments by electrophoresis first."
+      }
     },
     {
       "id": "dq-bio-molbio-134",
@@ -16176,10 +16362,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Northern blotting detects RNA after separation and probe hybridization.",
+      "why": "Northern blotting separates RNA, transfers it to a membrane and identifies the transcript by recognising a complementary sequence. The position of a band also gives information about transcript size.",
       "topicId": "molbio",
       "subtopic": "Molecular diagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "A Southern blot uses a nucleic acid probe to recognise particular DNA fragments rather than RNA transcripts.",
+        "C": "A Western blot primarily detects proteins via antibody binding.",
+        "D": "A protein immunoblot uses antibodies to detect a protein target rather than an RNA transcript.",
+        "E": "Restriction mapping describes cleavage sites or fragment sizes in DNA rather than detecting a specific RNA."
+      }
     },
     {
       "id": "dq-bio-molbio-135",
@@ -16208,10 +16400,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Western blotting identifies proteins with specific antibody probes after electrophoresis.",
+      "why": "A Western blot separates proteins and transfers them to a membrane. An antibody specific for the target protein can reveal the band corresponding to it.",
       "topicId": "molbio",
       "subtopic": "Molecular diagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A Southern blot uses a complementary probe to detect a DNA sequence.",
+        "B": "A Northern blot is a method for detecting a specific RNA.",
+        "D": "A restriction map shows enzyme cleavage sites in DNA and does not detect a protein on a membrane.",
+        "E": "DNA sequencing is used to determine the order of nucleotides."
+      }
     },
     {
       "id": "dq-bio-molbio-136",
@@ -16240,10 +16438,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Sequence variation can add/remove restriction sites or change intervening lengths, producing distinct fragments.",
+      "why": "A sequence variant can create or abolish a restriction site, or alter the length between fixed sites. The resulting restriction fragments then differ in length and can distinguish alleles.",
       "topicId": "molbio",
       "subtopic": "Molecular diagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A uniform sequence would give no sequence-based polymorphism in restriction fragment lengths.",
+        "B": "Restriction enzymes are needed to reveal cleavage fragment sizes in conventional RFLP analysis.",
+        "C": "Identical tandem repeat lengths cannot by themselves create a length polymorphism.",
+        "E": "Transcribing DNA into RNA is a separate process from cutting DNA into diagnostic fragments."
+      }
     },
     {
       "id": "dq-bio-molbio-138",
@@ -16272,10 +16476,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "PCR primers must be complementary to flanking sequences of the chosen target.",
+      "why": "Targeted PCR depends on the primers recognising the intended template. Information about the flanking sequence allows the primers to define the segment copied.",
       "topicId": "molbio",
       "subtopic": "Molecular diagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A primer's main role is to initiate synthesis on a complementary template. PCR does not correct mutations already present in the target.",
+        "B": "Conventional PCR does not rely on restriction digestion, regardless of how the flanking sequence was identified.",
+        "C": "The template supplies the sequence that polymerase copies. Knowledge of primer-binding sequence cannot replace it.",
+        "D": "Contamination control is separate from selecting a complementary primer."
+      }
     },
     {
       "id": "dq-bio-molbio-140",
@@ -16304,10 +16514,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Integration creates a risk of insertional mutagenesis, including proto-oncogene activation.",
+      "why": "Integration is one way to maintain therapeutic sequences as cells divide. If insertion alters the activity of a host gene, it can produce unwanted effects, including clonal expansion.",
       "topicId": "molbio",
       "subtopic": "Gene therapy",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Delivery into mammalian cells is a property these therapeutic vectors are designed to provide.",
+        "B": "Gene transfer into target cells is distinct from giving a patient preformed antibodies.",
+        "D": "The vector carries genetic material whose insertion is the source of this risk.",
+        "E": "The ability to maintain an integrated sequence is a reason to use this type of vector and is also why effects of insertion matter."
+      }
     },
     {
       "id": "dq-bio-molbio-141",
@@ -16336,10 +16552,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Recombinant insulin is produced by expressing human insulin sequences in engineered production hosts.",
+      "why": "Recombinant human insulin is a therapeutic protein produced by cells expressing a human insulin coding sequence. It illustrates manufacture by a production organism rather than extraction from a donor.",
       "topicId": "molbio",
       "subtopic": "Gene therapy",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Red-cell transfusion uses cells collected from donors.",
+        "B": "An autologous graft is tissue taken from the patient's own body.",
+        "C": "Centrifugation is a physical separation method and does not produce a recombinant protein.",
+        "E": "Purifying urinary electrolytes is chemical separation of small ions, not protein production."
+      }
     },
     {
       "id": "dq-bio-molbio-142",
@@ -16368,10 +16590,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Gene therapy must achieve sufficient corrected-cell numbers without unsafe integration or expression.",
+      "why": "Ex vivo transfer modifies a patient's cells outside the body. A practical challenge is obtaining enough viable cells with the intended modification and acceptable safety and expression profiles.",
       "topicId": "molbio",
       "subtopic": "Gene therapy",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Human cells contain RNA needed for normal expression of genes.",
+        "C": "Susceptibility to vector delivery differs by cell type and vector, rather than being universally absent.",
+        "D": "A therapeutic modification may be intended to change expression. Unwanted effects on expression are also possible.",
+        "E": "Many types of human cells can be cultured under suitable conditions."
+      }
     },
     {
       "id": "dq-bio-molbio-143",
@@ -16400,10 +16628,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "An allele-specific oligonucleotide can distinguish a normal from a mutant sequence under controlled hybridization.",
+      "why": "An allele-specific probe is designed to distinguish sequences that differ at a known base. Complementary binding reports which allele the sample contains.",
       "topicId": "molbio",
       "subtopic": "Molecular diagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Serum protein electrophoresis measures patterns of separated proteins and does not directly identify a particular DNA base.",
+        "B": "Osmotic fragility testing assesses red-cell lysis in hypotonic conditions. It does not identify an individual nucleotide.",
+        "C": "Platelet agglutination is a cellular response measured in some assays, rather than evidence that a probe recognised a DNA allele.",
+        "D": "Trichrome staining distinguishes tissue components, including collagen, in sections."
+      }
     },
     {
       "id": "dq-bio-molbio-144",
@@ -16432,10 +16666,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Probes detect matching DNA or RNA sequences through complementary base pairing.",
+      "why": "A labelled probe binds to a complementary sequence. Its detectable label reveals the presence or position of matching target DNA.",
       "topicId": "molbio",
       "subtopic": "Molecular diagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "DNA synthesis is catalysed by a polymerase. The probe's job here is detection.",
+        "C": "Translation of mRNA into a peptide is catalysed by a ribosome.",
+        "D": "A probe can bind a complementary target but does not digest noncoding DNA.",
+        "E": "The spliceosome is responsible for removal of introns from precursor RNA, rather than from genomic DNA."
+      }
     },
     {
       "id": "dq-bio-molbio-145",
@@ -16464,10 +16704,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Successful expression requires transcriptional and translational regulatory elements that function in the chosen host.",
+      "why": "An expression vector has regulatory sequences that function in the chosen host. These allow transcription of the cloned coding sequence and translation of the resulting RNA.",
       "topicId": "molbio",
       "subtopic": "Recombinant DNA",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A replication origin is generally useful for maintaining a cloning plasmid, though it does not by itself drive expression.",
+        "B": "A selectable marker can be useful for finding cells that retain the vector.",
+        "D": "An appropriate translation initiation signal is needed for efficient synthesis of a protein.",
+        "E": "Lack of replication could limit maintenance of a cloning vector and is not a feature that enables expression."
+      }
     },
     {
       "id": "dq-bio-nuc-080",
@@ -16496,10 +16742,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "HGPRT deficiency impairs purine salvage, increasing PRPP-driven synthesis and uric acid formation.",
+      "why": "HGPRT recycles hypoxanthine and guanine into IMP and GMP using PRPP. Severe loss of this salvage activity favours urate overproduction and causes classic Lesch–Nyhan syndrome.",
       "topicId": "nucleotides",
       "subtopic": "Purine disorders",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "APRT salvages adenine. Its deficiency is associated with 2,8-dihydroxyadenine stone disease.",
+        "B": "CPS II is part of pyrimidine synthesis and does not salvage purines.",
+        "C": "Xanthine oxidase is involved in urate formation. Loss of its activity can cause xanthinuria.",
+        "D": "Adenosine deaminase deficiency can cause severe combined immunodeficiency."
+      }
     },
     {
       "id": "dq-bio-nuc-081",
@@ -16528,10 +16780,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Severe HGPRT deficiency causes the classic neurological and hyperuricaemic features of Lesch–Nyhan syndrome.",
+      "why": "Severe HGPRT deficiency combines urate overproduction with a characteristic neurological and behavioural disorder. Self-injury in a child with this metabolic pattern strongly supports Lesch–Nyhan syndrome.",
       "topicId": "nucleotides",
       "subtopic": "Purine disorders",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Hereditary orotic aciduria results from impaired UMP formation and has a characteristic pyrimidine abnormality.",
+        "C": "Von Gierke disease can cause hyperuricaemia, but its core finding is defective glucose release with fasting hypoglycaemia.",
+        "D": "Maple syrup urine disease involves impaired branched-chain amino acid catabolism.",
+        "E": "Familial hypercholesterolaemia causes elevated LDL cholesterol and premature atherosclerotic risk."
+      }
     },
     {
       "id": "dq-bio-nuc-082",
@@ -16560,10 +16818,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "ADA deficiency causes toxic deoxyadenosine/dATP accumulation and can cause severe combined immunodeficiency.",
+      "why": "With severe ADA deficiency, deoxyadenosine accumulates and can be converted to excess dATP. This disrupts ribonucleotide reductase and deoxynucleotide balance, to which developing lymphocytes are particularly vulnerable.",
       "topicId": "nucleotides",
       "subtopic": "Purine disorders",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The direct block involves purine nucleoside degradation rather than formation of pyrimidine rings.",
+        "B": "Mitochondrial carbamoyl phosphate is involved in urea synthesis.",
+        "C": "Collagen cross-linking occurs in the extracellular matrix and does not explain lymphocyte toxicity from ADA loss.",
+        "E": "Uracil breakdown is a separate pyrimidine catabolic pathway."
+      }
     },
     {
       "id": "dq-bio-nuc-083",
@@ -16592,10 +16856,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "ADA deficiency can result in marked T- and B-cell dysfunction, producing SCID.",
+      "why": "Severe ADA deficiency impairs lymphocyte development and survival through accumulation of purine metabolites. Loss of effective T- and B-cell immunity accounts for the severe, recurrent infections of SCID.",
       "topicId": "nucleotides",
       "subtopic": "Purine disorders",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Neutrophil elastase-related congenital neutropenia is a disorder of myeloid cells and is distinct from ADA-related lymphocyte deficiency.",
+        "C": "Anaphylaxis is an immediate hypersensitivity reaction rather than a combined deficiency of adaptive immunity.",
+        "D": "Factor VIII deficiency is a coagulation disorder that causes bleeding.",
+        "E": "Vitamin K malabsorption can impair coagulation factor function but does not explain combined lymphocyte deficiency."
+      }
     },
     {
       "id": "dq-bio-nuc-084",
@@ -16624,10 +16894,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Allopurinol is converted to oxypurinol, a xanthine oxidoreductase inhibitor used for lowering urate.",
+      "why": "Allopurinol is converted to oxypurinol. Inhibition of xanthine oxidoreductase reduces oxidation of hypoxanthine and xanthine towards urate.",
       "topicId": "nucleotides",
       "subtopic": "Purine disorders",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Azathioprine is a precursor of 6-mercaptopurine and acts through thiopurine metabolites.",
+        "B": "Methotrexate is an antifolate that interferes with nucleotide biosynthesis, rather than inhibiting the terminal steps of purine degradation.",
+        "D": "Hydroxyurea inhibits ribonucleotide reductase, reducing deoxynucleotide synthesis.",
+        "E": "Trimethoprim is an inhibitor of bacterial dihydrofolate reductase rather than xanthine oxidase."
+      }
     },
     {
       "id": "dq-bio-nuc-085",
@@ -16656,10 +16932,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Xanthine oxidase catalyses the terminal steps toward uric acid; inhibition decreases urate synthesis.",
+      "why": "Xanthine oxidase activity is responsible for the last oxidation step in human purine degradation, from xanthine to urate. Inhibiting the enzyme reduces that conversion directly.",
       "topicId": "nucleotides",
       "subtopic": "Purine disorders",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Conversion of guanine to GMP is catalysed by HGPRT in the purine salvage pathway.",
+        "B": "Thymine is a pyrimidine base, outside the purine degradation pathway.",
+        "C": "Uracil degradation to beta-alanine is part of pyrimidine breakdown.",
+        "D": "Carbamoyl phosphate is made by carbamoyl phosphate synthetases, independently of terminal purine oxidation."
+      }
     },
     {
       "id": "dq-bio-nuc-086",
@@ -16688,10 +16970,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "High PRPP supports increased purine synthesis and eventually increased purine degradation to urate.",
+      "why": "PRPP is a substrate and a positive regulator of the committed step of purine biosynthesis. Greater production of purine nucleotides can increase the substrate eventually degraded to urate.",
       "topicId": "nucleotides",
       "subtopic": "Purine disorders",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The effect described is on purine production, rather than direct injury to renal urate transporters.",
+        "C": "PRPP is also used in pyrimidine synthesis when orotate is converted to OMP.",
+        "D": "Humans do not use PRPP to reverse uric acid degradation back to inosine.",
+        "E": "Xanthine oxidase acts downstream in degradation. PRPP affects substrate generation, not inhibition of that enzyme."
+      }
     },
     {
       "id": "dq-bio-nuc-087",
@@ -16720,10 +17008,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Hyperuricaemia promotes monosodium urate deposition, typically causing painful synovial inflammation.",
+      "why": "Monosodium urate can crystallise in joints when local conditions favour precipitation. These crystals trigger the acute inflammatory response of gout.",
       "topicId": "nucleotides",
       "subtopic": "Purine disorders",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Calcium oxalate crystals are typical of a common form of kidney stone.",
+        "B": "Calcium pyrophosphate crystals are characteristic of calcium pyrophosphate deposition disease, which can mimic gout.",
+        "C": "Cholesterol deposition can occur in other chronic conditions but does not define acute gout.",
+        "E": "Cystine crystals are associated with cystinuria and urinary stone disease."
+      }
     },
     {
       "id": "dq-bio-nuc-088",
@@ -16752,10 +17046,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "With failed salvage, PRPP accumulates and inhibitory nucleotide pools fall, encouraging de novo synthesis.",
+      "why": "HGPRT normally consumes PRPP when it salvages purine bases. Deficiency leaves more PRPP available and reduces inhibitory feedback from salvaged nucleotides, favouring de novo purine synthesis.",
       "topicId": "nucleotides",
       "subtopic": "Purine disorders",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Greater urate production can arise from more substrate reaching an otherwise existing xanthine oxidase pathway.",
+        "C": "Ligase seals nucleic acid backbones and does not synthesise purine bases.",
+        "D": "Ribose phosphate remains available and can supply PRPP through normal metabolism.",
+        "E": "Purine synthesis uses glutamine as a nitrogen donor. Reduced glutamine supply would not explain increased synthesis."
+      }
     },
     {
       "id": "dq-bio-nuc-089",
@@ -16816,10 +17116,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "HGPRT salvages 6-mercaptopurine with PRPP to form thio-IMP, which interferes with purine synthesis.",
+      "why": "HGPRT uses PRPP to convert 6-mercaptopurine into thioinosine monophosphate. This is an activation step on the route to thiopurine metabolites that interfere with nucleotide metabolism.",
       "topicId": "nucleotides",
       "subtopic": "Nucleotide therapeutics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Thymidylate synthase is used to make dTMP from dUMP and does not activate the thiopurine base.",
+        "B": "Prolyl hydroxylases act on protein proline residues, not purine drugs.",
+        "C": "Lysyl oxidase is involved in extracellular matrix cross-linking and is not a thiopurine salvage enzyme.",
+        "D": "CPS I uses ammonia to make carbamoyl phosphate in the urea cycle."
+      }
     },
     {
       "id": "dq-bio-nuc-091",
@@ -16848,10 +17154,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "CPS I initiates mitochondrial urea synthesis using ammonia; CPS II initiates cytosolic pyrimidine synthesis using glutamine.",
+      "why": "CPS I works in mitochondria and uses free ammonia for urea synthesis. CPS II is a cytosolic activity of the CAD enzyme complex that uses glutamine nitrogen for de novo pyrimidine synthesis.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine synthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The compartments are reversed in this option. CPS I is mitochondrial and CPS II is cytosolic.",
+        "C": "The reactions occur in the mitochondrial matrix or cytosol, rather than exclusively within the nucleus.",
+        "D": "Free ammonia is the nitrogen substrate of CPS I, whereas CPS II obtains its nitrogen from glutamine.",
+        "E": "CPS II supplies carbamoyl phosphate for pyrimidines. The urea-cycle enzyme is CPS I."
+      }
     },
     {
       "id": "dq-bio-immun-127",
@@ -16880,10 +17192,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Buffers resist pH changes and help maintain product stability.",
+      "why": "A buffer resists a shift in pH when small amounts of acid or base are introduced. Maintaining the specified pH can help keep vaccine components stable.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: formulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "An adjuvant helps enhance the immune response to a vaccine antigen.",
+        "C": "The antigen is the target presented to the immune system.",
+        "D": "A preservative is used to limit microbial contamination in some formulations, especially multidose products.",
+        "E": "A surfactant can help limit aggregation or improve dispersion. A buffer is responsible for pH control."
+      }
     },
     {
       "id": "dq-bio-immun-128",
@@ -16912,10 +17230,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Sodium chloride can adjust tonicity to improve tolerability.",
+      "why": "Sodium chloride can be used to adjust the concentration of osmotically active particles. A formulation closer to physiological tonicity reduces osmotic stress on local tissues.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: formulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Formaldehyde has a role in inactivating certain organisms or toxins during manufacture and is not used to adjust tonicity.",
+        "B": "Ethidium bromide is a nucleic acid stain rather than a vaccine tonicity agent.",
+        "C": "Acetic anhydride is a reactive chemical and does not serve this formulation role.",
+        "E": "Potassium cyanide is toxic and is not a vaccine excipient used to adjust tonicity."
+      }
     },
     {
       "id": "dq-bio-immun-129",
@@ -16944,10 +17268,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Stabilizers such as gelatin can help preserve vaccine components during storage.",
+      "why": "Gelatin is a stabiliser in some vaccines. It helps preserve susceptible formulation components through storage, including in some freeze-dried products.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: formulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Urea can destabilise protein structure at sufficient concentration and is not the standard stabiliser identified here.",
+        "C": "Heparin is an anticoagulant, not the specified vaccine stabiliser.",
+        "D": "Thrombin is a clotting enzyme that converts fibrinogen to fibrin.",
+        "E": "Histamine is a signalling molecule involved in inflammatory responses."
+      }
     },
     {
       "id": "dq-bio-immun-130",
@@ -16976,10 +17306,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Formaldehyde may be used during controlled inactivation or detoxification and is largely removed during purification.",
+      "why": "In manufacture of some vaccines, formaldehyde is used to inactivate an organism or detoxify a toxin while preserving useful antigenic properties. The final product can contain trace residual formaldehyde.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: formulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Inactivation is intended to remove infectivity or toxicity, rather than increase virulence.",
+        "B": "T-cell receptors are generated by developing lymphocytes, not by formaldehyde treatment.",
+        "C": "The relevant function is inactivation or detoxification. Linking vaccine antigens to collagen is not its stated purpose.",
+        "D": "Interferons are immune signalling proteins produced by cells, not released directly by vaccine inactivation."
+      }
     },
     {
       "id": "dq-bio-immun-131",
@@ -17008,10 +17344,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Vaccination is administration of a vaccine; immunization refers to the resulting process of making a person immune.",
+      "why": "Vaccination refers to administering a vaccine. Immunisation describes the broader process of acquiring protection, which can follow vaccination.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: immunization",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Immunisation describes development or provision of protection and is broader than the administration itself.",
+        "B": "Seroconversion is development of detectable specific antibodies in the blood.",
+        "D": "Opsonisation is coating of a target to improve its uptake by phagocytes.",
+        "E": "Neutralisation is blockade of a pathogen or toxin's activity, often through antibody binding."
+      }
     },
     {
       "id": "dq-bio-immun-132",
@@ -17040,10 +17382,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Antigen-specific memory B and T cells produce faster and generally stronger secondary responses.",
+      "why": "Vaccination generates antigen-specific memory B and T cells. On re-exposure these cells can respond more rapidly than naïve cells, supporting faster antibody and cellular responses.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: immunization",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Rearrangement of antigen-receptor genes is a feature of adaptive B and T cells, rather than a change acquired by all innate receptors.",
+        "C": "Neutrophils are relatively short-lived and do not account for antigen-specific recall across a lifetime.",
+        "D": "A recall response still requires antigen recognition and activation of relevant cells.",
+        "E": "Immune memory can persist after the original antigen has been cleared."
+      }
     },
     {
       "id": "dq-bio-immun-133",
@@ -17072,10 +17420,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Efficacy measures protection under controlled clinical trial conditions.",
+      "why": "Efficacy estimates protection under controlled trial conditions, usually by comparing the risk of a specified outcome between vaccinated and comparison groups. The design helps reduce bias and confounding.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: efficacy",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A population survey may contribute to assessment of real-world effectiveness but is an uncontrolled setting.",
+        "B": "Stock inventories track supply and contain no comparison of disease rates.",
+        "C": "Billing records can provide observational data. Alone they do not provide a controlled efficacy comparison.",
+        "E": "Microscopy can support a laboratory measurement but cannot itself estimate clinical protection in a trial."
+      }
     },
     {
       "id": "dq-bio-immun-134",
@@ -17104,10 +17458,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Effectiveness assesses vaccine performance in populations outside highly controlled trials.",
+      "why": "Effectiveness measures how well a vaccine protects in routine use. The estimate reflects real-world populations and delivery conditions, whereas efficacy typically comes from a controlled trial.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: efficacy",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Protection measured under controlled trial conditions gives an efficacy estimate.",
+        "C": "Presence of antigen is a product property rather than evidence of protection in routine use.",
+        "D": "Antibody affinity is a molecular measurement and does not directly quantify population protection.",
+        "E": "Manufacturing method describes the product's origin rather than its real-world impact."
+      }
     },
     {
       "id": "dq-bio-immun-135",
@@ -17136,10 +17496,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Poor temperature control can degrade some vaccines, reducing field performance.",
+      "why": "A cold chain maintains vaccines within product-specific temperature limits during storage and transport. This protects potency from damage due to excessive warmth or, for susceptible products, freezing.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: efficacy",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Sunlight can damage some vaccine products and is not protective of potency.",
+        "B": "Temperature tracking is needed to detect damaging excursions before administration.",
+        "C": "Sterile technique is essential for safe administration but does not maintain potency in storage.",
+        "D": "Diluent alone does not provide the vaccine antigen needed for the intended immune response."
+      }
     },
     {
       "id": "dq-bio-immun-136",
@@ -17168,10 +17534,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "High community immunity can interrupt transmission chains and reduce exposure.",
+      "why": "When vaccination reduces acquisition or onward transmission, high coverage can interrupt chains of infection. This lowers the chance that susceptible unvaccinated people encounter the pathogen.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: efficacy",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Reduced exposure can indirectly protect the individual without directly converting their B cells into plasma cells.",
+        "B": "Unvaccinated people still rely on innate and adaptive defences when exposed.",
+        "D": "Population effects result from reduced transmission, not transfer of vaccine antigen between people.",
+        "E": "T-cell receptors remain those produced by the individual's own lymphocytes."
+      }
     },
     {
       "id": "dq-bio-immun-137",
@@ -17200,10 +17572,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Real-world delivery conditions, including temperature management, can reduce effectiveness.",
+      "why": "A break in recommended storage or transport conditions can damage a vaccine and reduce its potency. This can lower protection achieved in routine delivery despite high efficacy under controlled conditions.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: efficacy",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Exposure of stored doses to unsuitable temperatures does not imply that recipients have lost all antigen receptors.",
+        "C": "Stronger adjuvant activity is not the expected consequence of a cold-chain failure.",
+        "D": "Reduced potency reflects damage to the stored product rather than a need to invoke genetic changes in recipients.",
+        "E": "Lower coverage commonly reduces population protection and does not account for loss of potency during storage."
+      }
     },
     {
       "id": "dq-bio-immun-138",
@@ -17232,10 +17610,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Inactivated pathogens cannot replicate; live attenuated vaccines retain limited replication capacity.",
+      "why": "The organisms in a whole inactivated vaccine retain antigenic material but cannot replicate. Live attenuated organisms retain limited replication capacity.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: platforms",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The immune system can still recognise antigens on inactivated organisms.",
+        "B": "Replication competence is characteristic of the live attenuated option rather than a successfully inactivated preparation.",
+        "C": "Donor immunoglobulin is passive immunisation, with preformed antibodies rather than whole antigens.",
+        "E": "A self-amplifying RNA vaccine is a distinct platform from a whole inactivated organism."
+      }
     },
     {
       "id": "dq-bio-immun-139",
@@ -17264,10 +17648,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Virus-like particles mimic viral structure while lacking the full infectious genome.",
+      "why": "A virus-like particle contains structural proteins assembled into a particle that resembles a virus. It presents antigenic surfaces without carrying a complete infectious viral genome.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: platforms",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A live virulent virus has a genome capable of supporting infection.",
+        "C": "A whole inactivated bacterial vaccine contains nonreplicating bacteria, which are distinct from particles built from viral structural proteins.",
+        "D": "DNA repair enzymes have no defining role in this vaccine platform.",
+        "E": "Passive immunoglobulin supplies ready-made antibodies rather than particles that present antigen."
+      }
     },
     {
       "id": "dq-bio-immun-140",
@@ -17296,10 +17686,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Peptide vaccines use defined antigenic segments rather than whole pathogens.",
+      "why": "Synthetic peptide vaccines use defined short amino acid sequences derived from antigens. These sequences provide epitopes that can be recognised by the immune system.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: platforms",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A bacterial chromosome is genetic material rather than a defined peptide antigen.",
+        "B": "Preformed donor antibodies confer passive protection.",
+        "C": "Live virus is a whole-organism vaccine platform rather than a synthetic peptide formulation.",
+        "D": "Host lymphocytes are immune cells, not the selected amino acid sequences that supply peptide epitopes."
+      }
     },
     {
       "id": "dq-bio-immun-141",
@@ -17328,10 +17724,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Vaccine mRNA is translated by host ribosomes to produce antigen that can stimulate immune responses.",
+      "why": "Host ribosomes translate the delivered mRNA into antigen. Recognition of that antigen can then generate antibody and T-cell responses.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: platforms",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "mRNA is a set of instructions for making an antigen, rather than a molecule that turns into antibody.",
+        "B": "Translation occurs from RNA and does not require integration into the cell's DNA.",
+        "D": "An mRNA vaccine contains RNA encoding the antigen. It does not rely on delivery of intact virulent microbes.",
+        "E": "Passive immunoglobulin therapy supplies preformed antibodies. An mRNA vaccine stimulates the recipient's own response."
+      }
     },
     {
       "id": "dq-bio-immun-142",
@@ -17360,10 +17762,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Vectors deliver an antigen-encoding gene so host cells express an immunogen.",
+      "why": "The vector delivers genetic information for an antigen. Antigen expressed by recipient cells then provides a target for the immune response.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: platforms",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Ready-made IgG is administered in passive immunisation.",
+        "C": "Antigen presentation helps initiate the response and does not require wholesale destruction of presenting cells.",
+        "D": "Complement proteins are soluble immune effectors. They are not converted to RNA.",
+        "E": "Providing a limited genetic message does not entail replacing the recipient's genome."
+      }
     },
     {
       "id": "dq-bio-immun-143",
@@ -17392,10 +17800,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Limited replication resembles infection and can generate robust immunity, but requires caution in severe immunosuppression.",
+      "why": "Live attenuated vaccines use a weakened organism capable of limited replication. This exposure can stimulate active immunity while the organism's ability to cause disease is reduced.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: platforms",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A whole inactivated organism lacks the ability to replicate.",
+        "B": "A toxoid is an inactivated toxin that retains useful antigenicity.",
+        "C": "A purified polysaccharide is an antigen component without a living organism.",
+        "E": "Passive infusion transfers antibodies rather than a pathogen capable of limited replication."
+      }
     },
     {
       "id": "dq-bio-immun-144",
@@ -17424,10 +17838,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "OPV contains live attenuated poliovirus, unlike injected IPV.",
+      "why": "Oral poliovirus vaccine contains live attenuated poliovirus, which can generate immunity at the intestinal mucosa. The injected inactivated poliovirus vaccine contains nonreplicating antigen.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: platforms",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Inactivated polio vaccine is administered by injection and does not contain live attenuated virus.",
+        "C": "Tetanus vaccine contains a detoxified bacterial protein rather than an attenuated organism.",
+        "D": "Recombinant hepatitis B vaccine uses a viral surface antigen rather than a live organism.",
+        "E": "Pneumococcal conjugate vaccine uses capsular polysaccharide linked to a carrier protein."
+      }
     },
     {
       "id": "dq-bio-immun-145",
@@ -17456,10 +17876,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Phase I first-in-human studies evaluate safety and early immune responses in relatively small cohorts.",
+      "why": "Phase I usually studies a small group to obtain early evidence of safety, tolerability and sometimes immunogenicity in humans. Larger studies follow if the initial findings justify them.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: trials",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Phase II is a larger stage that explores dose and expands safety and immunogenicity data.",
+        "B": "Phase III is typically a large confirmatory stage that assesses protective efficacy and safety.",
+        "C": "Phase IV studies are conducted after a vaccine has been approved and introduced.",
+        "D": "Postmarketing surveillance begins after introduction, rather than providing the first safety evaluation in people."
+      }
     },
     {
       "id": "dq-bio-immun-146",
@@ -17488,10 +17914,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Phase II expands assessment of dose, immune response and common adverse effects.",
+      "why": "Phase II usually expands enrolment to study dose and schedule while measuring immune responses and further characterising safety. It follows the smaller initial human evaluation.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: trials",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Phase I is usually smaller and emphasises initial safety and tolerability.",
+        "B": "Phase III is generally larger and commonly designed to test clinical efficacy.",
+        "D": "Phase IV occurs after approval and can assess safety or protection in routine use.",
+        "E": "The preclinical phase is undertaken before studies in human participants."
+      }
     },
     {
       "id": "dq-bio-immun-147",
@@ -17520,10 +17952,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Phase III trials test protective efficacy and gather larger-scale safety data.",
+      "why": "Phase III usually enrols enough participants to compare clinical outcomes and estimate protective efficacy. The larger sample also provides additional safety data.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: trials",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Phase I is designed primarily to assess initial safety and tolerability in a small group.",
+        "C": "Phase II is usually an investigation of dose, immune response and safety in a group larger than in Phase I.",
+        "D": "Phase IV occurs after authorisation rather than before initial approval.",
+        "E": "Candidate discovery is an early stage and does not measure protective efficacy in thousands of people."
+      }
     },
     {
       "id": "dq-bio-immun-148",
@@ -17552,10 +17990,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Phase IV and postmarketing surveillance identify longer-term or rare problems in routine use.",
+      "why": "Phase IV is postauthorisation study, when use in larger and more diverse populations can reveal rare adverse events and inform estimates of real-world protection. Broader safety surveillance also continues after introduction.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: trials",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Phase I is the initial human testing stage and generally involves only a small number of participants.",
+        "B": "Phase II is an earlier study of dose, immune responses and safety.",
+        "C": "Phase III is generally used to test efficacy and safety before authorisation.",
+        "E": "Proof of concept is an early milestone rather than postmarketing follow-up."
+      }
     },
     {
       "id": "dq-bio-immun-149",
@@ -17584,10 +18028,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "EPI aims to deliver routine immunization to protect populations, especially children, against vaccine-preventable diseases.",
+      "why": "The WHO programme was established to expand access to routine vaccination against preventable diseases, initially with a focus on children. Its current remit supports equitable vaccination across the life course.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: programme",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Surveillance remains important for monitoring vaccine-preventable diseases, and vaccination is a preventive intervention.",
+        "C": "Antibiotics do not treat most childhood viral diseases and are not the programme's main intervention.",
+        "D": "Laboratory testing supports investigation and surveillance rather than being eliminated by vaccination.",
+        "E": "Antithrombotic medicines are used for clot-related indications, outside the programme's vaccination objective."
+      }
     },
     {
       "id": "dq-bio-immun-150",
@@ -17616,10 +18066,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The lecture identifies 1974 as the WHO EPI establishment year.",
+      "why": "WHO launched the Expanded Programme on Immunization in 1974. The aim was to extend protection from routine childhood vaccines globally.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: programme",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "In 1964 the global programme had yet to be launched.",
+        "B": "The global programme was launched in 1974, five years after the date given in this option.",
+        "C": "Ghana's national programme was first implemented in 1978, following the global launch.",
+        "D": "The global programme was already operating by 1988."
+      }
     },
     {
       "id": "dq-bio-immun-151",
@@ -17648,10 +18104,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The lecture identifies 1978 as the year Ghana adopted EPI.",
+      "why": "Ghana Health Service dates the first national implementation of EPI to 1978. Ghana's programme followed the global initiative launched by WHO in 1974.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: programme",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The Ghanaian programme was not yet in operation in 1968.",
+        "B": "The year 1974 is the launch date of WHO's global programme, which preceded Ghana's first implementation.",
+        "D": "Ghana's national programme was already in operation by 1984, having started six years earlier.",
+        "E": "In 1998 the national programme had already been operating for about two decades."
+      }
     },
     {
       "id": "dq-bio-immun-152",
@@ -17712,10 +18174,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Vasovagal syncope associated with anxiety is classified as an immunization anxiety-related event.",
+      "why": "Injection-related fear can trigger vasovagal syncope around vaccination. This fits the older anxiety-related AEFI category, now commonly addressed under immunisation stress-related responses.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: safety",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A product-related reaction is caused by inherent properties of a correctly manufactured and administered vaccine.",
+        "B": "A quality defect-related reaction involves a defect in the manufactured product or supplied device.",
+        "C": "An error-related reaction results from improper handling or administration, which is not described here.",
+        "E": "Malaria or another unrelated cause of fever can be coincidental, but this event is linked to procedural stress."
+      }
     },
     {
       "id": "dq-bio-immun-154",
@@ -17744,10 +18212,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Preventable handling or administration mistakes are immunization error-related AEFIs.",
+      "why": "An unsterile needle is an administration error. Infection attributable to that preventable lapse is an immunisation error-related reaction.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: safety",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A product-related reaction arises from the vaccine's inherent properties as supplied and used correctly.",
+        "C": "A vaccine quality defect originates in manufacture or the supplied product, rather than the described technique error.",
+        "D": "A stress-related response may include fainting but does not explain infection transmitted through equipment.",
+        "E": "A coincidental event is causally independent of vaccination, unlike an infection traced to a needle used for the injection."
+      }
     },
     {
       "id": "dq-bio-immun-155",
@@ -17776,10 +18250,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "A manufacturing quality failure is a vaccine-quality-defect-related adverse event.",
+      "why": "Incomplete inactivation during manufacture is a defect in the batch. An infection caused by that faulty product is a vaccine quality defect-related reaction.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: safety",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A product-related reaction arises from inherent properties of a product that meets quality requirements.",
+        "B": "Procedural anxiety can cause a stress response but cannot explain infection from incomplete inactivation.",
+        "C": "A coincidental event has no causal relationship to the vaccine or vaccination process.",
+        "D": "An incorrectly scheduled dose is distinct from a defect introduced during manufacture."
+      }
     },
     {
       "id": "dq-bio-immun-156",
@@ -17808,10 +18288,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Temporal association alone does not establish causation; independent illness is coincidental.",
+      "why": "An adverse event following immunisation can occur near a vaccination in time without being caused by it. Malaria established as an independent cause makes the fever a coincidental event.",
       "topicId": "immunology",
       "subtopic": "Vaccinology: safety",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A quality defect requires evidence of an issue with the manufactured product or supplied device.",
+        "B": "A product reaction is attributable to an inherent property of the vaccine.",
+        "D": "Administration errors involve failures such as improper handling or injection technique.",
+        "E": "An immunisation stress-related response can cause symptoms around the procedure but does not account for confirmed malaria."
+      }
     },
     {
       "id": "dq-bio-immun-157",
@@ -17840,10 +18326,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "A monoclonal antibody product has uniform specificity derived from a single antibody-producing clone.",
+      "why": "A monoclonal preparation represents a single antibody-producing clone or a single cloned antibody design. Its molecules thus share defined antigen-binding specificity.",
       "topicId": "immunology",
       "subtopic": "Monoclonal antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Recognition of multiple unrelated targets by a mixture typically reflects different antibody populations rather than monoclonality.",
+        "B": "Ordinary serum contains antibodies from many different B-cell clones.",
+        "C": "A monoclonal antibody can retain constant domains, which contribute to isotype and effector function.",
+        "D": "The range of human isotypes does not determine whether the antibody population is clonal."
+      }
     },
     {
       "id": "dq-bio-immun-158",
@@ -17872,10 +18364,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Polyclonal responses contain antibody populations from distinct B-cell clones.",
+      "why": "Polyclonal antibodies arise from many B-cell clones, each with its own binding specificity. Together they can recognise several epitopes on the same antigen.",
       "topicId": "immunology",
       "subtopic": "Monoclonal antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Uniform recognition of one epitope is typical of a conventional monoclonal reagent.",
+        "B": "Antibodies can bind exposed epitopes on native proteins.",
+        "D": "Polyclonal antibodies are produced by multiple antibody-secreting clones.",
+        "E": "The contributing clones have different rearranged antibody genes."
+      }
     },
     {
       "id": "dq-bio-immun-159",
@@ -17904,10 +18402,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Hybridomas combine antibody production with immortal growth of the myeloma fusion partner.",
+      "why": "Conventional hybridomas combine the antigen-specific antibody production of a B cell with the sustained capacity for growth of a myeloma cell. A single hybridoma clone can secrete monoclonal antibody.",
       "topicId": "immunology",
       "subtopic": "Monoclonal antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Macrophages are phagocytes and mature erythrocytes lack nuclei. Neither is an antibody-producing B cell.",
+        "C": "Dendritic cells and neutrophils have roles in defence but do not provide the required B-cell antibody specificity.",
+        "D": "NK cells and basophils are innate immune cells rather than sources of antibody secretion.",
+        "E": "Platelets and helper T cells do not secrete immunoglobulin."
+      }
     },
     {
       "id": "dq-bio-immun-160",
@@ -17936,10 +18440,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Aminopterin blocks de novo nucleotide synthesis; hybridomas can use salvage pathways and proliferate.",
+      "why": "Aminopterin blocks folate-dependent de novo nucleotide pathways. A selected hybridoma can use salvage pathways supplied by the B-cell partner, allowing growth when the unfused salvage-deficient myeloma cannot proliferate.",
       "topicId": "immunology",
       "subtopic": "Monoclonal antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "De novo production of critical nucleotides is blocked, preventing growth of the unfused salvage-deficient myeloma.",
+        "B": "Platelets have no role in providing antibody specificity or sustainable growth.",
+        "C": "Thymidine is one of the compounds provided in HAT medium for salvage.",
+        "E": "The selection tests metabolic capacity and continued growth rather than directly mutating antibody-binding sites."
+      }
     },
     {
       "id": "dq-bio-immun-161",
@@ -17968,10 +18478,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Chimeric antibodies combine nonhuman variable regions with human constant regions.",
+      "why": "The variable domains are mouse-derived while the constant domains are human. Combining domains from different species in this way is the classical chimeric design.",
       "topicId": "immunology",
       "subtopic": "Monoclonal antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Humanisation usually retains selected nonhuman antigen-binding loops within largely human variable frameworks.",
+        "C": "A fully human antibody has human-derived variable as well as constant regions.",
+        "D": "An unmodified mouse antibody has murine constant regions as well as variable regions.",
+        "E": "Polyclonal serum contains antibodies from multiple clones, rather than one defined design."
+      }
     },
     {
       "id": "dq-bio-immun-162",
@@ -18000,10 +18516,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Humanized antibodies retain selected nonhuman antigen-contact loops within largely human sequences.",
+      "why": "The complementarity-determining regions, or CDRs, supply much of the antigen-contact surface. Keeping murine CDRs in mainly human domains is a classical humanisation strategy.",
       "topicId": "immunology",
       "subtopic": "Monoclonal antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A classical chimera retains the entire nonhuman variable domains, including their frameworks.",
+        "B": "A fully murine antibody has mouse-derived frameworks and constant domains too.",
+        "C": "Polyclonal serum contains products of multiple B-cell clones rather than a defined CDR-grafted antibody.",
+        "D": "An unmodified anti-mouse antibody is described by what it targets, not by the grafted sequence architecture."
+      }
     },
     {
       "id": "dq-bio-immun-163",
@@ -18032,10 +18554,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Fully human antibodies have human-derived framework and CDR sequences.",
+      "why": "A fully human monoclonal antibody has human-derived variable and constant regions. The human origin applies to its frameworks and antigen-contact sequences.",
       "topicId": "immunology",
       "subtopic": "Monoclonal antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A chimeric antibody has nonhuman variable domains combined with human constant domains.",
+        "B": "A humanised antibody can retain nonhuman antigen-binding loops.",
+        "D": "An unmodified murine antibody has mouse sequence across its antibody domains.",
+        "E": "A mouse–rabbit hybrid would contain components of nonhuman origin rather than solely human sequence."
+      }
     },
     {
       "id": "dq-bio-immun-164",
@@ -18064,10 +18592,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Foreign mouse sequences are more immunogenic, potentially producing anti-mouse antibody responses.",
+      "why": "Mouse antibody sequences can be recognised as foreign by a human recipient, leading to anti-drug antibodies. These responses can change drug clearance or reduce therapeutic activity.",
       "topicId": "immunology",
       "subtopic": "Monoclonal antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "A functional murine antibody has variable regions that bind its target.",
+        "C": "Murine antibodies can recognise mammalian antigens if their specificity is appropriate.",
+        "D": "Covalent binding to human DNA is not an inherent property of therapeutic murine antibodies.",
+        "E": "Murine antibodies have disulfide bonds that contribute to immunoglobulin structure."
+      }
     },
     {
       "id": "dq-bio-immun-165",
@@ -18096,10 +18630,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Naked mAbs have no linked drug or radionuclide and may work by receptor blockade or immune recruitment.",
+      "why": "A naked monoclonal antibody has no attached drug, toxin or radionuclide. Its activity can come from direct target binding or recruitment of immune effector functions.",
       "topicId": "immunology",
       "subtopic": "Monoclonal antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "An attached cytotoxic drug makes the product an antibody–drug conjugate.",
+        "B": "An attached radionuclide makes it a radiolabelled antibody.",
+        "C": "Binding two receptors describes target specificity. It does not establish whether the antibody carries a payload.",
+        "E": "Fab arms provide binding sites and can be present in an unconjugated antibody."
+      }
     },
     {
       "id": "dq-bio-immun-166",
@@ -18128,10 +18668,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Antibody–drug conjugates target a cytotoxic payload toward cells expressing a chosen antigen.",
+      "why": "An antibody–drug conjugate links an antibody to a pharmacologically active drug payload. Antigen recognition can concentrate delivery to cells bearing the target.",
       "topicId": "immunology",
       "subtopic": "Monoclonal antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A naked antibody has no attached therapeutic payload.",
+        "C": "An unlabelled diagnostic antibody has no such attached cytotoxic compound.",
+        "D": "Polyclonal antitoxin serum is a mixture of antibodies intended to neutralise a toxin.",
+        "E": "Recombinant cytokines are signalling proteins rather than antibody–payload conjugates."
+      }
     },
     {
       "id": "dq-bio-immun-167",
@@ -18160,10 +18706,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Bispecific antibodies have binding regions directed to distinct antigens or epitopes.",
+      "why": "A bispecific antibody has binding sites with two different specificities. It can therefore engage two targets, unlike a conventional monospecific antibody.",
       "topicId": "immunology",
       "subtopic": "Monoclonal antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A polyclonal mixture can collectively bind different targets, but separate antibodies supply the different specificities.",
+        "B": "Class switching changes antibody constant regions and does not provide a second target specificity.",
+        "C": "Murine origin only describes the source of the antibody sequence.",
+        "D": "A single conventional Fab fragment has one antigen-binding site."
+      }
     },
     {
       "id": "dq-bio-immun-168",
@@ -18192,10 +18744,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Radiolabelled antibodies carry radioactive material for imaging or targeted therapy.",
+      "why": "A radiolabelled antibody carries a radionuclide that gives a detectable or therapeutic radiation signal. Its binding specificity can localise the signal to a target.",
       "topicId": "immunology",
       "subtopic": "Monoclonal antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Antigen binding is generally retained so the radiolabel can be localised to the desired target.",
+        "B": "Disulfide bond loss is not a defining property of a radioactive label.",
+        "D": "The labelled product is a protein conjugate, not a gene encoding a receptor.",
+        "E": "A radiolabelled antibody can have an intact heavy chain."
+      }
     },
     {
       "id": "dq-bio-immun-169",
@@ -18224,10 +18782,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The historical naming scheme used -zumab for humanized antibodies; naming conventions have subsequently evolved.",
+      "why": "In the older WHO naming system, the source substem in -zumab identified a humanised antibody. This convention is historical and should be applied to names assigned under that system.",
       "topicId": "immunology",
       "subtopic": "Monoclonal antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "The older -omab ending indicated a mouse-derived antibody.",
+        "C": "The older -ximab ending indicated a chimeric antibody.",
+        "D": "The older -umab ending indicated a human antibody.",
+        "E": "The -cept stem is associated with receptor-based products, not the historical humanised antibody source substem."
+      }
     },
     {
       "id": "dq-bio-immun-170",
@@ -18256,10 +18820,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Older antibody nomenclature used -ximab for chimeric antibodies.",
+      "why": "In the older WHO naming system, -ximab identified a chimeric antibody. It described a design such as nonhuman variable domains and human constant domains.",
       "topicId": "immunology",
       "subtopic": "Monoclonal antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The older -omab ending is associated with a mouse-derived antibody rather than a chimeric antibody.",
+        "B": "The older -zumab ending referred to a humanised antibody.",
+        "C": "The older -umab ending referred to a human antibody.",
+        "E": "The -cept stem is used for some receptor-based products and is not the older chimeric antibody ending."
+      }
     },
     {
       "id": "dq-bio-immun-171",
@@ -18288,10 +18858,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The direct Coombs test detects in vivo sensitization of red cells with antibody or complement.",
+      "why": "The direct antiglobulin test detects immunoglobulin or complement already attached to a patient's red cells in vivo. Antiglobulin reagent demonstrates that the sampled cells are coated.",
       "topicId": "immunology",
       "subtopic": "Immunodiagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The indirect test detects serum antibodies that can bind red cells in vitro.",
+        "C": "Complement fixation assays detect complement consumption in an antigen–antibody reaction, rather than assessing the patient's own cell coating directly.",
+        "D": "Ouchterlony diffusion forms precipitin lines between soluble reagents in a gel.",
+        "E": "Competitive radioimmunoassay measures competition for binding and is not the method for detecting in vivo coated red cells."
+      }
     },
     {
       "id": "dq-bio-immun-172",
@@ -18320,10 +18896,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The indirect Coombs test looks for serum antibodies that can bind reagent red cells.",
+      "why": "In the indirect antiglobulin test, serum antibodies are allowed to bind reagent red cells in vitro. Antiglobulin reagent then reveals antibodies that coated the reagent cells.",
       "topicId": "immunology",
       "subtopic": "Immunodiagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The direct antiglobulin test is performed on patient cells that may already have been coated in vivo.",
+        "B": "Radial immunodiffusion measures a soluble antigen from the size of its precipitin ring.",
+        "C": "Radial immunodiffusion uses the size of a precipitin ring to measure soluble antigen in a sample.",
+        "D": "Neutralisation assays assess inhibition of a toxin's action and do not test serum against reagent red cells."
+      }
     },
     {
       "id": "dq-bio-immun-173",
@@ -18352,10 +18934,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "A positive test consumes complement, leaving none to lyse the indicator red cells.",
+      "why": "In a positive complement fixation test, antibody and test antigen consume available complement. Too little remains to lyse the sensitised indicator red cells, so lack of haemolysis is the positive endpoint.",
       "topicId": "immunology",
       "subtopic": "Immunodiagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Lysis implies complement remained available, as expected in a negative test under valid control conditions.",
+        "B": "Fibrinogen is a coagulation protein and its production is not a readout of the assay.",
+        "D": "Direct fluorescence is used in other immunoassays rather than this complement-dependent haemolysis test.",
+        "E": "Labelled DNA fragments are readouts of some nucleic acid methods, not the classical fixation assay."
+      }
     },
     {
       "id": "dq-bio-immun-174",
