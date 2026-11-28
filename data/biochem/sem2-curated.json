@@ -19004,10 +19004,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Antibody-coated particles agglutinate when bound by a matching multivalent antigen.",
+      "why": "Reverse passive agglutination uses particles coated with capture antibody. A matching soluble antigen can link particles together through antigen–antibody binding and produce visible clumping.",
       "topicId": "immunology",
       "subtopic": "Immunodiagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Antigen-coated particles are used in conventional passive agglutination to detect matching antibody.",
+        "B": "Messenger RNA is not the binding reagent used to capture antigen in this assay.",
+        "C": "The membrane attack complex can lyse susceptible targets but does not provide the specificity of a capture antibody.",
+        "E": "A protein kinase catalyses phosphorylation and is not the antigen-capture reagent."
+      }
     },
     {
       "id": "dq-bio-immun-176",
@@ -19036,10 +19042,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "A larger antigen load generally produces a larger precipitation ring; diameter squared can relate to concentration.",
+      "why": "Antigen diffuses radially into gel containing antibody and precipitates where the two reach the necessary proportions. With the same sample volume and endpoint conditions, more antigen produces a wider ring, and its squared diameter can be related to concentration.",
       "topicId": "immunology",
       "subtopic": "Immunodiagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Additional antigen normally shifts the position of the ring outward rather than causing instant disappearance.",
+        "C": "Antigen still spreads away from the well through the gel. Its diffusion does not reverse.",
+        "D": "The measurement is of ring diameter, which typically increases with antigen concentration under the assay conditions.",
+        "E": "Visible precipitation is due to antigen–antibody complexes, rather than covalent fluorescent labelling."
+      }
     },
     {
       "id": "dq-bio-immun-177",
@@ -19068,10 +19080,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Ouchterlony double diffusion permits diffusion of both antigen and antibody and comparison of precipitation lines.",
+      "why": "In Ouchterlony double diffusion, soluble antigen and antibody diffuse from separate wells. A precipitin line forms where their local proportions permit extensive immune complex formation.",
       "topicId": "immunology",
       "subtopic": "Immunodiagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Direct fluorescent staining uses a fluorescently labelled primary reagent to mark a target rather than forming diffusion lines in gel.",
+        "B": "Western immunoblotting uses a membrane to detect proteins already separated by electrophoresis.",
+        "C": "Radioimmunoassay uses a radioactive label to measure binding, rather than two sets of gel wells.",
+        "D": "Tube haemagglutination uses red-cell clumping as the readout."
+      }
     },
     {
       "id": "dq-bio-immun-178",
@@ -19100,10 +19118,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "An indirect ELISA detects serum antibody using immobilized antigen and labelled secondary antibody.",
+      "why": "The patient's antibody is the analyte. It binds immobilised antigen and is detected indirectly by an enzyme-labelled antibody directed against human immunoglobulin.",
       "topicId": "immunology",
       "subtopic": "Immunodiagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A sandwich ELISA uses capture and detection antibodies to measure an antigen between them.",
+        "B": "The direct Coombs test measures immunoglobulin or complement already attached to the patient's red cells.",
+        "D": "A neutralisation assay measures inhibition of a biological effect rather than binding to an antigen-coated well.",
+        "E": "Rocket electrophoresis uses the height of an antigen–antibody precipitin peak, rather than an enzyme-labelled secondary antibody."
+      }
     },
     {
       "id": "dq-bio-immun-179",
@@ -19132,10 +19156,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Sandwich assays use a capture antibody and a detecting antibody recognizing antigen.",
+      "why": "The solid-phase capture antibody immobilises antigen, and a second antibody recognises another accessible site on that antigen. This two-antibody arrangement gives the sandwich format its name.",
       "topicId": "immunology",
       "subtopic": "Immunodiagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "An indirect antibody ELISA uses antigen on the solid phase and detects the bound sample antibody with a secondary antibody.",
+        "C": "A competitive ELISA uses competition for a limited number of binding sites rather than binding of antigen by two antibodies at once.",
+        "D": "The Coombs test uses antiglobulin reagent to detect coating of red blood cells.",
+        "E": "A Western blot detects protein bands after electrophoresis and transfer rather than capturing soluble antigen in an ELISA well."
+      }
     },
     {
       "id": "dq-bio-immun-180",
@@ -19164,10 +19194,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Unlabelled patient antigen competes with labelled reagent for limited binding sites, giving an inverse relationship.",
+      "why": "Unlabelled antigen from the sample competes with a labelled antigen for a limited number of antibody binding sites. More sample antigen leaves less labelled competitor bound, reducing the bound-label signal.",
       "topicId": "immunology",
       "subtopic": "Immunodiagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "More unlabelled antigen competes away labelled antigen, so signal from bound label falls.",
+        "B": "The assay depends on the signal changing with concentration when measured within its working range.",
+        "C": "Competition is due to binding and does not require damage to either antigen's epitopes.",
+        "E": "Antibodies are proteins and do not turn into DNA during the assay."
+      }
     },
     {
       "id": "dq-bio-immun-181",
@@ -19196,10 +19232,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Direct IF uses a labelled primary antibody; indirect IF typically uses a labelled anti-immunoglobulin secondary antibody.",
+      "why": "In direct immunofluorescence, the antibody recognising the target carries the fluorophore. In indirect immunofluorescence, the labelled secondary antibody binds the primary antibody.",
       "topicId": "immunology",
       "subtopic": "Immunodiagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "DNA and RNA primers are nucleic acid reagents and do not distinguish the two antibody labelling formats.",
+        "C": "Rhodopsin is a visual pigment rather than the reagent that distinguishes direct from indirect antibody detection.",
+        "D": "Both formats can use monoclonal or polyclonal reagents. The distinction concerns which antibody carries the label.",
+        "E": "Cytokine or chemokine receptors can be targets of detection, but the identity of the target does not define the labelling format."
+      }
     },
     {
       "id": "dq-bio-immun-182",
@@ -19228,10 +19270,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Western blots transfer separated proteins and detect them immunologically.",
+      "why": "In Western immunoblotting, proteins are first separated and then transferred to a membrane. Antibodies reveal the separated bands corresponding to the target proteins.",
       "topicId": "immunology",
       "subtopic": "Immunodiagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A Southern blot uses nucleic acid hybridisation to detect DNA fragments.",
+        "B": "A Northern blot uses a probe to identify RNA transcripts.",
+        "C": "Radial immunodiffusion measures a precipitin ring formed as antigen diffuses into antibody-containing gel.",
+        "D": "A complement fixation test uses complement consumption and an indicator system rather than separated protein bands."
+      }
     },
     {
       "id": "dq-bio-immun-183",
@@ -19260,10 +19308,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Lateral-flow immunochromatographic tests move the sample along a strip to develop visible detection lines.",
+      "why": "Lateral-flow immunochromatography uses capillary action to move a sample along a membrane. At designated lines, captured complexes form a visible or otherwise detectable signal.",
       "topicId": "immunology",
       "subtopic": "Immunodiagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Rocket electrophoresis uses an electric field and forms precipitin peaks in a gel.",
+        "B": "Double immunodiffusion relies on diffusion from wells and forms precipitin lines in a gel.",
+        "D": "A radioimmunoassay uses a radioactive signal, rather than capillary flow through a membrane as its defining feature.",
+        "E": "Complement fixation is assessed by a complement-dependent indicator system rather than membrane capture lines."
+      }
     },
     {
       "id": "dq-bio-immun-184",
@@ -19292,10 +19346,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Classical RIA uses labelled and unlabelled ligand competition to quantify small amounts of analyte.",
+      "why": "Classical competitive radioimmunoassay measures competition between radiolabelled antigen and unlabelled analyte for antibody. The fraction of bound tracer can indicate the analyte concentration.",
       "topicId": "immunology",
       "subtopic": "Immunodiagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Direct immunofluorescence uses a fluorophore on the antibody that binds the target.",
+        "C": "Passive latex agglutination uses clumping of coated particles as a visible readout.",
+        "D": "Ouchterlony immunodiffusion forms precipitin lines as antigen and antibody diffuse through gel.",
+        "E": "Direct antiglobulin testing uses antiglobulin reagent to detect coating of a patient's red cells."
+      }
     }
   ]
 }

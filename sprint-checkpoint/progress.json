@@ -126,8 +126,8 @@
     },
     "data/biochem/sem2-curated.json": {
       "total": 511,
-      "reviewed": 500,
-      "revised": 490,
+      "reviewed": 511,
+      "revised": 500,
       "retained": 0,
       "holds": {
         "dq-bio-nuc-024": "The stem asks about lecture-specific emphasis, but the lecture source was unavailable. Salvage is important in brain and immune cells, but leucocytes vary and activated lymphocytes can have substantial de novo synthesis. Verify the named tissues against the lecture and clarify the cell state if needed.",
@@ -139,25 +139,14 @@
         "dq-bio-molbio-025": "The problem after removal of the terminal lagging-strand primer is the lack of an upstream extendable 3′ hydroxyl on the new strand, not absence of the parental DNA template. The rationale recognises the primer problem, but the keyed option should be reworded.",
         "dq-bio-molbio-064": "ATP is consumed to activate the amino acid as aminoacyl-AMP, releasing pyrophosphate. The object being activated is the amino acid, so ask which nucleotide is used to activate it rather than “which nucleotide is activated”.",
         "dq-bio-nuc-089": "Excess dATP and disturbed deoxynucleotide balance explain lymphocyte toxicity, but the mechanism of neurological manifestations is uncertain. The USIDNet analysis (PMC8216639) reports correlations in some cohorts, not a proven shared mechanism. Narrow the stem to the immune phenotype or acknowledge the neurological uncertainty.",
-        "dq-bio-immun-152": "Eradication means permanent reduction of worldwide incidence of infection to zero, not physical absence of the agent. Laboratory stocks can remain, as with smallpox. The keyed statement describes extinction if taken literally. Replace it with worldwide interruption of naturally occurring infection."
+        "dq-bio-immun-152": "Eradication means permanent reduction of worldwide incidence of infection to zero, not physical absence of the agent. Laboratory stocks can remain, as with smallpox. The keyed statement describes extinction if taken literally. Replace it with worldwide interruption of naturally occurring infection.",
+        "dq-bio-immun-174": "The described antigen-coated particles indicate classical passive agglutination, but they are normally used to detect or measure antibody. For detection of an unknown soluble antigen, reverse passive agglutination ordinarily uses antibody-coated particles. Ask which method detects antibody using known antigen-coated particles, or revise the coating and option."
       },
-      "hold_audit_failures": 10,
-      "remaining_audit_failures": 11,
+      "hold_audit_failures": 11,
+      "remaining_audit_failures": 0,
       "source_blob": "efda2c6788004f2c6562b797b03ba6d3d43c053c",
-      "data_blob": "f22bb2b92315ef31b71dee82a70134c4849e3e78",
-      "remaining_ids": [
-        "dq-bio-immun-174",
-        "dq-bio-immun-175",
-        "dq-bio-immun-176",
-        "dq-bio-immun-177",
-        "dq-bio-immun-178",
-        "dq-bio-immun-179",
-        "dq-bio-immun-180",
-        "dq-bio-immun-181",
-        "dq-bio-immun-182",
-        "dq-bio-immun-183",
-        "dq-bio-immun-184"
-      ],
+      "data_blob": "bef396738a5a2c3b94ce0d7d7f3d42a403b6cbb8",
+      "remaining_ids": [],
       "references": [
         "https://accessmedicine.mhmedical.com/content.aspx?aid=1160190604",
         "https://reactome.org/content/detail/R-HSA-199220",
@@ -200,7 +189,11 @@
         "https://ghs.gov.gh/resources-hub/policy-documents",
         "https://www.cdc.gov/mmwr/preview/mmwrhtml/su48a7.htm",
         "https://www.who.int/publications/i/item/9789241515948",
-        "https://www.who.int/publications/m/item/inn-22-542"
+        "https://www.who.int/publications/m/item/inn-22-542",
+        "https://openstax.org/books/microbiology/pages/20-3-agglutination-assays",
+        "https://openstax.org/books/microbiology/pages/20-2-detecting-antigen-antibody-complexes",
+        "https://www.ncbi.nlm.nih.gov/books/NBK92434/",
+        "https://pubmed.ncbi.nlm.nih.gov/22889381/"
       ]
     }
   }
