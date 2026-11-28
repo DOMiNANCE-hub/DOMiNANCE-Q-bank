@@ -3814,10 +3814,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "NOD receptors recognize bacterial peptidoglycan-derived molecules in the cytosol.",
+      "why": "NOD1 and NOD2 are cytosolic innate sensors for fragments derived from bacterial peptidoglycan. Detection activates signalling that helps initiate inflammatory responses within the cell.",
       "topicId": "immunology",
       "subtopic": "Pathogen recognition",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "IgG Fc is recognised by Fc receptors on immune cells, rather than by cytosolic bacterial pattern sensors.",
+        "B": "B-cell receptors and antibodies can bind folded antigens, but NOD proteins recognise bacterial wall fragments inside cells.",
+        "C": "Histamine acts through its own surface receptors and is a host mediator rather than a peptidoglycan pattern.",
+        "D": "Thyroid hormones act mainly through intracellular nuclear receptors, rather than activating NOD recognition of microbial material."
+      }
     },
     {
       "id": "dq-bio-immun-024",
@@ -3846,10 +3852,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "NADPH oxidase reduces molecular oxygen to superoxide in activated phagocytes.",
+      "why": "During the respiratory burst, phagocyte NADPH oxidase transfers electrons from NADPH to molecular oxygen to generate superoxide. Superoxide can then give rise to additional reactive oxygen species.",
       "topicId": "immunology",
       "subtopic": "Phagocyte killing",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Nitric oxide synthase generates nitric oxide from arginine rather than initiating the superoxide-producing burst.",
+        "C": "Adenylate cyclase converts ATP to cyclic AMP for signalling rather than reducing oxygen.",
+        "D": "Myeloperoxidase can use hydrogen peroxide downstream of the burst to form hypochlorous acid.",
+        "E": "Lysyl oxidase helps crosslink extracellular matrix proteins and is not the phagocyte oxidase that makes superoxide."
+      }
     },
     {
       "id": "dq-bio-immun-025",
@@ -3878,10 +3890,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "iNOS produces nitric oxide and citrulline from arginine.",
+      "why": "Inducible nitric oxide synthase uses L-arginine to produce nitric oxide and L-citrulline. The nitric oxide can contribute to antimicrobial activity in activated immune cells.",
       "topicId": "immunology",
       "subtopic": "Phagocyte killing",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Lysine is incorporated into proteins and is not the substrate for iNOS-mediated nitric oxide formation.",
+        "B": "Histidine can be decarboxylated to histamine, which is a distinct inflammatory mediator from nitric oxide.",
+        "C": "Tyrosine is used in catecholamine and thyroid hormone pathways rather than as the iNOS substrate.",
+        "E": "Proline is abundant in collagen and can be metabolised through different reactions from nitric oxide synthesis."
+      }
     },
     {
       "id": "dq-bio-immun-026",
@@ -3910,10 +3928,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Lysozyme degrades peptidoglycan, an oxygen-independent antimicrobial mechanism.",
+      "why": "Lysozyme hydrolyses a glycosidic bond in bacterial peptidoglycan, weakening the wall of susceptible bacteria. It therefore provides an oxygen-independent mechanism of antimicrobial defence.",
       "topicId": "immunology",
       "subtopic": "Phagocyte killing",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Perforin facilitates granzyme delivery into target cells rather than cutting the bacterial peptidoglycan backbone.",
+        "B": "Catalase breaks down hydrogen peroxide, which is a redox reaction rather than cleavage of a cell-wall polysaccharide.",
+        "D": "Elastase is a protease and cleaves proteins rather than hydrolysing the peptidoglycan glycan backbone.",
+        "E": "Caspases are proteases involved in pathways such as apoptosis and inflammation, rather than bacterial wall hydrolases."
+      }
     },
     {
       "id": "dq-bio-immun-027",
@@ -3942,10 +3966,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Antigenicity is specific binding; immunogenicity includes the ability to induce an immune response.",
+      "why": "An antigen can bind a specific antibody or receptor. An immunogen also elicits a specific immune response in the host, so its defining property is induction rather than binding alone.",
       "topicId": "immunology",
       "subtopic": "Antigens",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Fc receptors recognise antibody constant regions, but Fc binding does not define the ability to induce an immune response.",
+        "C": "Specific antibody production requires B-lineage cells, which differentiate into antibody-secreting plasma cells.",
+        "D": "Complement can bind or be recruited to some targets, but that interaction alone does not establish specific immunogenicity.",
+        "E": "Immediate lysis is an effector outcome, whereas immunogenicity describes induction of a specific response after exposure."
+      }
     },
     {
       "id": "dq-bio-immun-028",
@@ -3974,10 +4004,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Haptens may bind specific antibodies but require carriers to become effective immunogens.",
+      "why": "A hapten is small enough to be recognised by a specific antibody but usually cannot elicit an effective response on its own. Attachment to an immunogenic carrier can supply the needed context.",
       "topicId": "immunology",
       "subtopic": "Antigens",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A mitogen drives proliferation of many lymphocytes and is not defined by a need for a carrier protein.",
+        "B": "A toxoid is an inactivated toxin that retains antigenic properties, rather than a small carrier-dependent determinant.",
+        "C": "An adjuvant enhances responses to an antigen but is not the small molecule that binds the specific antibody in this stem.",
+        "D": "An alloantigen differs between members of the same species and does not necessarily require attachment to a carrier."
+      }
     },
     {
       "id": "dq-bio-immun-029",
@@ -4006,10 +4042,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "An epitope is an antigenic determinant, whereas the antibody's combining surface is the paratope.",
+      "why": "The epitope is the particular region or molecular feature of an antigen recognised by an antibody. The complementary binding surface is the antibody's paratope.",
       "topicId": "immunology",
       "subtopic": "Antigens",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The paratope lies on the antibody and binds the determinant on the antigen.",
+        "C": "Isotype identifies immunoglobulin classes or subclasses through differences in constant regions.",
+        "D": "An idiotype is the set of distinctive antigenic features associated with an antibody's variable regions.",
+        "E": "An allotype is an inherited allelic variant of an immunoglobulin, rather than the target feature bound by it."
+      }
     },
     {
       "id": "dq-bio-immun-030",
@@ -4038,10 +4080,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The paratope comprises variable-region residues that recognize a corresponding epitope.",
+      "why": "The paratope is the antigen-binding surface of an antibody, formed mainly by loops in its heavy- and light-chain variable regions. It contacts the corresponding epitope.",
       "topicId": "immunology",
       "subtopic": "Antigens",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The epitope is the recognised determinant on the antigen, opposite the antibody surface that binds it.",
+        "B": "A hapten is a small antigenic molecule that can bind antibody, rather than part of the immunoglobulin.",
+        "C": "An adjuvant enhances an immune response to an antigen and does not make up the antibody binding site.",
+        "E": "An immunoglobulin allotype is an inherited variant, rather than the surface that makes direct antigen contact."
+      }
     },
     {
       "id": "dq-bio-immun-031",
@@ -4070,10 +4118,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Conformational determinants depend on the folded three-dimensional protein structure.",
+      "why": "A conformational epitope depends on the protein's folded shape, which can bring distant residues together. Unfolding can separate those residues and abolish recognition even when the sequence remains intact.",
       "topicId": "immunology",
       "subtopic": "Antigens",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A linear epitope comprises contiguous residues and can often remain available after the protein unfolds.",
+        "B": "A free amino acid does not account for recognition of a surface created by the folding of a native protein.",
+        "D": "The antibody's heavy-chain constant region controls effector properties rather than defining the folded site on the antigen.",
+        "E": "An isolated phosphate group alone would not explain the dependence on the protein's native three-dimensional arrangement."
+      }
     },
     {
       "id": "dq-bio-immun-032",
@@ -4102,10 +4156,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Extracellular antigens are generally presented by MHC II to CD4 T cells.",
+      "why": "Conventional CD4 T cells use their antigen receptors to recognise peptides on MHC class II. Their CD4 coreceptor binds class II, which is expressed by professional antigen-presenting cells.",
       "topicId": "immunology",
       "subtopic": "Antigens",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Peptide presentation on MHC class I is chiefly recognised by CD8 cells rather than conventional CD4 helper T cells.",
+        "C": "Secretory IgA binds mucosal antigens as an antibody and does not display peptides to CD4 T cells.",
+        "D": "Surface IgE may be bound to Fc receptors, but it is not a peptide-presenting molecule.",
+        "E": "C3b acts mainly as an opsonin and complement component rather than directly presenting peptide to CD4 cells."
+      }
     },
     {
       "id": "dq-bio-immun-033",
@@ -4134,10 +4194,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "MHC I presents endogenous peptides to CD8 cytotoxic T lymphocytes.",
+      "why": "MHC class I on nucleated cells can display peptides derived from cytosolic proteins. CD8 T cells recognise appropriate peptide–class I complexes and can respond to infected cells.",
       "topicId": "immunology",
       "subtopic": "Antigens",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "MHC class II is mainly used by professional antigen-presenting cells to display peptides to CD4 T cells.",
+        "B": "Surface IgD serves as a B-cell receptor and does not present cytosolic peptides to CD8 cells.",
+        "C": "C5b initiates assembly of terminal complement, rather than acting as a peptide display molecule.",
+        "D": "IgM binds antigen as an antibody and does not present processed peptides for CD8 recognition."
+      }
     },
     {
       "id": "dq-bio-immun-034",
@@ -4166,10 +4232,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Alloantigens differ between individuals of the same species.",
+      "why": "ABO antigen structures vary between individuals within the human species. A person can therefore recognise an ABO determinant from another individual as an alloantigen.",
       "topicId": "immunology",
       "subtopic": "Antigens",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "An autoantigen is a constituent of the individual's own body, rather than a differing antigen from another human.",
+        "C": "A xenoantigen is derived from a different species, whereas ABO differences occur within humans.",
+        "D": "A hapten is a small antigenic compound with limited immunogenicity alone, not a term for inherited blood-group differences.",
+        "E": "A tolerogen induces immune tolerance, rather than naming the between-person origin of an ABO antigen."
+      }
     },
     {
       "id": "dq-bio-immun-035",
@@ -4198,10 +4270,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "T-independent polysaccharides generally induce a limited-memory, largely IgM response.",
+      "why": "Some polysaccharides activate B cells through repeated epitopes without conventional cognate T-cell help. The response is often largely IgM, with less affinity maturation and durable memory than a T-dependent response.",
       "topicId": "immunology",
       "subtopic": "Antigens",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Strong germinal-centre switching generally needs cognate T-cell help, which is absent from the situation described.",
+        "B": "A polysaccharide acting on B cells does not usually generate the dominant CD8 T-cell expansion listed here.",
+        "C": "MHC class I displays peptides rather than directly presenting intact polysaccharide to a B-cell receptor.",
+        "E": "Follicular helper T cells support T-dependent germinal centres, whereas these polysaccharides can stimulate B cells without that contact."
+      }
     },
     {
       "id": "dq-bio-immun-036",
@@ -4230,10 +4308,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Shared or structurally similar epitopes can permit recognition of more than one antigen.",
+      "why": "An antibody remains specific for molecular features rather than for an entire antigen. Two distinct antigens can therefore bind the same antibody if they share sufficiently similar epitopes.",
       "topicId": "immunology",
       "subtopic": "Antigens",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Cross-reactivity can occur despite specificity, because both antigens can share features recognised by the same binding site.",
+        "B": "Heavy-chain identity alone does not explain why two antigens bind, because the relevant similarity is between their epitopes.",
+        "D": "Typical antigen recognition is mediated by variable regions, while Fc binds effector molecules and receptors.",
+        "E": "Variable-region residues create the paratope and are generally needed for specific binding to shared determinants."
+      }
     },
     {
       "id": "dq-bio-immun-037",
@@ -4262,10 +4346,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Adjuvants enhance antigen presentation and innate activation to strengthen adaptive immune responses.",
+      "why": "A vaccine adjuvant changes the context in which the immune system sees the antigen. It can enhance innate activation and antigen presentation, leading to a stronger or more durable adaptive response.",
       "topicId": "immunology",
       "subtopic": "Antigens",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "The antigen provides the target specificity and remains necessary even when an adjuvant improves the response.",
+        "C": "Many adjuvants support dendritic-cell activation or function rather than preventing their maturation.",
+        "D": "Increased antigen-specific B-cell activation is often an intended outcome rather than something the adjuvant blocks.",
+        "E": "Many adjuvants enhance local innate signals that support adaptive priming instead of broadly suppressing them."
+      }
     },
     {
       "id": "dq-bio-immun-038",
@@ -4294,10 +4384,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Superantigens bind MHC II and selected TCR Vβ regions outside the conventional antigen-binding groove, activating many T cells.",
+      "why": "A superantigen can link MHC class II on an antigen-presenting cell to particular T-cell receptor variable regions outside ordinary peptide-specific recognition. Many T cells can then become activated together.",
       "topicId": "immunology",
       "subtopic": "Antigens",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Surface IgM is a B-cell receptor, whereas these superantigens activate T cells through MHC class II and a T-cell receptor.",
+        "B": "CD19 is associated with B-cell signalling and C3 is a complement protein, rather than partners in this T-cell activation.",
+        "C": "CD14 helps detect LPS and albumin is a carrier protein, neither forming the classic superantigen bridge.",
+        "D": "CD16 binds IgG Fc and surface IgD is a B-cell receptor, rather than the pair that links antigen-presenting and T cells."
+      }
     },
     {
       "id": "dq-bio-immun-039",
@@ -4326,10 +4422,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Plasma cells are terminally differentiated B-lineage cells specialized for immunoglobulin secretion.",
+      "why": "A plasma cell is a differentiated B-lineage cell with extensive machinery for protein synthesis. It secretes large quantities of immunoglobulin carrying the specificity selected during B-cell activation.",
       "topicId": "immunology",
       "subtopic": "Antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Dendritic cells present antigen and provide costimulation, rather than secreting large amounts of antigen-specific antibody.",
+        "C": "Neutrophils phagocytose microbes and release antimicrobial products, but are not antibody-secreting cells.",
+        "D": "Natural killer cells can kill targets via Fc receptors and cytotoxic granules but do not make those antibodies.",
+        "E": "Cytotoxic T cells use antigen receptors to recognise and kill targets, rather than differentiating into antibody-secreting plasma cells."
+      }
     },
     {
       "id": "dq-bio-immun-040",
@@ -4358,10 +4460,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The basic antibody has two identical heavy and two identical light chains.",
+      "why": "A basic immunoglobulin unit contains two identical heavy chains and two identical light chains, linked by disulphide bonds. The paired variable regions create two antigen-binding arms.",
       "topicId": "immunology",
       "subtopic": "Antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Two chains would describe one heavy–light pair and omit the second arm of the immunoglobulin unit.",
+        "B": "Two chains account for a single heavy–light pair, whereas the antibody unit has two such pairs.",
+        "C": "A J chain can associate with some polymeric antibody forms but is not a fifth chain of the basic monomer.",
+        "D": "Six chains exceeds the four in the two matched heavy–light pairs of a basic antibody unit."
+      }
     },
     {
       "id": "dq-bio-immun-041",
@@ -4390,10 +4498,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The heavy-chain constant domain defines the immunoglobulin class and associated effector properties.",
+      "why": "The heavy-chain constant region specifies immunoglobulin class and influences its effector functions. B cells can replace that region during class switching while retaining their antigen-binding variable regions.",
       "topicId": "immunology",
       "subtopic": "Antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The light-chain variable region contributes to antigen recognition rather than defining the immunoglobulin class.",
+        "B": "The epitope determines what the antibody binds, while its class is determined by the antibody's own heavy chain.",
+        "D": "Disulphide bonds stabilise antibody structure, but the number on light chains does not set the antibody class.",
+        "E": "An antigen can be a protein or other molecule, and its sequence does not directly determine the heavy-chain isotype."
+      }
     },
     {
       "id": "dq-bio-immun-042",
@@ -4422,10 +4536,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Each antibody uses either κ or λ light chains, not a mixture of both in one molecule.",
+      "why": "Human immunoglobulins use either kappa or lambda light chains. The two light chains in one basic antibody are of the same type, independently of its heavy-chain class.",
       "topicId": "immunology",
       "subtopic": "Antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Alpha and gamma are heavy-chain classes associated with IgA and IgG rather than light-chain types.",
+        "C": "Mu and delta are heavy chains defining IgM and IgD respectively, not alternative light chains.",
+        "D": "Alpha is the heavy chain of IgA, and epsilon is the heavy chain of IgE.",
+        "E": "Gamma and epsilon are constant-region types of IgG and IgE heavy chains respectively."
+      }
     },
     {
       "id": "dq-bio-immun-043",
@@ -4454,10 +4574,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "VH and VL domains together form the antigen-combining site.",
+      "why": "The heavy- and light-chain variable domains meet at the end of each antibody arm. Their exposed complementarity-determining loops together form most of the surface that recognises an epitope.",
       "topicId": "immunology",
       "subtopic": "Antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Constant regions support antibody structure and effector properties rather than providing the principal antigen-contacts.",
+        "B": "The Fc consists of heavy-chain constant domains that can recruit effector systems rather than binding the specific epitope.",
+        "C": "Hinge disulphides connect heavy chains and support arm flexibility near the centre of the antibody.",
+        "E": "Tailpieces can contribute to polymeric antibody assembly but are remote from the antigen-binding site."
+      }
     },
     {
       "id": "dq-bio-immun-044",
@@ -4486,10 +4612,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The hinge allows Fab arms to adjust their orientation for binding antigens.",
+      "why": "The hinge lets the two Fab arms alter their angle and spacing relative to Fc. This flexibility helps them contact epitopes that are separated by different distances.",
       "topicId": "immunology",
       "subtopic": "Antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "MHC class II recognition is a function of peptide-specific T-cell receptors rather than the antibody hinge.",
+        "C": "Complement factors are produced by host cells, and the hinge is a structural antibody segment rather than a secretory apparatus.",
+        "D": "Antibody hinges allow conformational movement and generally do not catalyse peptide hydrolysis.",
+        "E": "Plasma-cell maturation is a B-lineage differentiation process, separate from an antibody's structural flexibility."
+      }
     },
     {
       "id": "dq-bio-immun-045",
@@ -4518,10 +4650,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "CDRs create much of the antibody-binding surface; framework segments structurally support them.",
+      "why": "Complementarity-determining regions are the variable-domain loops that form much of an antibody's contact surface. Adjacent framework residues hold the loops in position, although some also contribute to binding.",
       "topicId": "immunology",
       "subtopic": "Antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Framework regions provide the structural scaffold around the more variable loops that usually make most antigen contacts.",
+        "B": "Heavy-chain constant regions determine antibody class and help recruit effector systems rather than forming the hypervariable loops.",
+        "C": "The secretory component is retained from a transport receptor associated with mucosal antibodies and is not an antigen-binding loop.",
+        "D": "Hinge segments provide flexibility between the Fab and Fc portions, away from the loops at each arm tip."
+      }
     },
     {
       "id": "dq-bio-immun-046",
@@ -4550,10 +4688,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Papain produces two monovalent Fab fragments and one Fc fragment.",
+      "why": "Papain cleavage of IgG separates the two antigen-binding arms as individual Fab fragments. Each Fab retains one combining site, while the detached Fc region lacks those variable domains.",
       "topicId": "immunology",
       "subtopic": "Antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Fc contains heavy-chain constant regions for effector interactions and has no specific antigen-combining site.",
+        "B": "C3b is a complement opsonin generated from C3, rather than a product of immunoglobulin cleavage.",
+        "D": "C1q is a recognition component of the classical complement pathway rather than an IgG fragment.",
+        "E": "The J chain helps assemble polymeric IgM and IgA and is not an antigen-binding fragment of IgG."
+      }
     },
     {
       "id": "dq-bio-immun-047",
@@ -4582,10 +4726,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Pepsin generates bivalent F(ab′)2 while most of the Fc is degraded.",
+      "why": "Pepsin cleaves IgG so that the two Fab arms remain connected through the hinge as an F(ab′)₂ fragment. The resulting fragment retains two antigen-binding sites.",
       "topicId": "immunology",
       "subtopic": "Antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "An isolated Fab has only one binding site, whereas this fragment retains both connected arms.",
+        "C": "Fc contains constant domains rather than the two variable-region binding sites, and much of it is degraded.",
+        "D": "Fc gamma receptors are cellular receptors for IgG, not proteolytic fragments of the antibody.",
+        "E": "C3b is produced by cleavage of complement C3 rather than by pepsin acting on IgG."
+      }
     },
     {
       "id": "dq-bio-immun-048",
@@ -4614,10 +4764,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The constant Fc portion mediates many effector functions after antibody binding to antigen.",
+      "why": "The Fc portion consists of heavy-chain constant regions outside the antigen-binding arms. It links antigen recognition to effector responses by interacting with Fc receptors and, for suitable isotypes, complement.",
       "topicId": "immunology",
       "subtopic": "Antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Fab contains the specific antigen-binding site rather than the main Fc receptor or C1q-binding surfaces.",
+        "B": "CDR3 is an antigen-contact loop within a variable region and does not mediate typical Fc interactions.",
+        "C": "The light-chain variable domain helps form the paratope and is absent from the Fc portion.",
+        "E": "The paratope binds the antigen's epitope, while Fc provides the separate interface with effector molecules."
+      }
     },
     {
       "id": "dq-bio-immun-049",
@@ -4646,10 +4802,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "IgG is transported by the neonatal Fc receptor and supplies maternal passive immunity.",
+      "why": "The neonatal Fc receptor moves maternal IgG across the placenta and releases it into fetal circulation. It gives temporary systemic protection without requiring the fetus to make that antibody.",
       "topicId": "immunology",
       "subtopic": "Antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Secretory IgA is transferred mainly in breast milk and protects mucosal surfaces rather than crossing the placenta efficiently.",
+        "C": "IgM is usually a large pentamer in serum and does not normally cross the placenta by this route.",
+        "D": "IgD is most familiar as a surface receptor on B cells and is not the major transferred antibody.",
+        "E": "IgE binds mast cell Fc receptors and is not the usual class providing placentally transferred systemic protection."
+      }
     },
     {
       "id": "dq-bio-immun-050",
@@ -4678,10 +4840,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Naïve B-cell activation initially produces IgM; switching may generate other isotypes later.",
+      "why": "Newly activated naïve B cells can secrete IgM before changing heavy-chain constant regions. Later switching can generate other isotypes without changing the original antigen specificity.",
       "topicId": "immunology",
       "subtopic": "Antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "IgE generally requires isotype switching driven by appropriate helper signals rather than being the usual first secreted class.",
+        "B": "IgA is prominent in mucosal secretions and generally appears after class switching.",
+        "C": "IgD is commonly coexpressed on naïve B cells but is not usually the predominant early secreted class.",
+        "D": "IgG can become abundant after class switching and is often prominent in secondary responses."
+      }
     },
     {
       "id": "dq-bio-immun-051",
@@ -4710,10 +4878,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Secreted IgM is usually pentameric and is highly effective at complement activation and agglutination.",
+      "why": "Most secreted serum IgM consists of five basic units joined with a J chain. Their multiple binding sites give high avidity, and bound IgM is effective at activating classical complement.",
       "topicId": "immunology",
       "subtopic": "Antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Membrane IgM is monomeric on a B cell, while serum IgM is usually assembled into a larger polymer.",
+        "B": "A dimer is the usual form of secretory IgA rather than the predominant circulating form of IgM.",
+        "D": "Three basic units do not describe the usual J-chain-containing secreted IgM structure.",
+        "E": "A tetramer is not the typical circulating arrangement, although structural forms can vary."
+      }
     },
     {
       "id": "dq-bio-immun-052",
@@ -4742,10 +4916,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Dimeric secretory IgA protects mucosal surfaces against microbial attachment.",
+      "why": "Secretory IgA is abundant at mucosal surfaces and in colostrum. Its secretory component helps protect it from degradation, allowing it to limit microbial attachment at epithelial surfaces.",
       "topicId": "immunology",
       "subtopic": "Antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "IgD is mainly a naïve B-cell surface receptor and is not the predominant secretory antibody.",
+        "C": "Serum IgM is important for early systemic responses, though polymeric IgM can also appear in secretions.",
+        "D": "IgE typically acts through Fc receptors on mast cells and is not the main antibody in colostrum.",
+        "E": "IgG is abundant in serum, but epithelial transport of dimeric IgA predominates in most mucosal secretions."
+      }
     },
     {
       "id": "dq-bio-immun-053",
@@ -4774,10 +4954,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The J chain links IgA monomers; a secretory component aids transport and protects IgA in mucosal fluids.",
+      "why": "The J chain joins two IgA units and helps them bind the polymeric immunoglobulin receptor. After epithelial passage, a portion of that receptor remains attached as the secretory component.",
       "topicId": "immunology",
       "subtopic": "Antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Gamma denotes an IgG heavy chain and CD3 is a T-cell signalling complex rather than part of secretory IgA.",
+        "B": "Fibrinogen acts in coagulation and complement proteins can support immunity, but neither forms the IgA dimer.",
+        "C": "Alpha-2-macroglobulin binds certain proteases and C3b is an opsonin rather than a component of secretory IgA.",
+        "E": "Perforin and granzymes are cytotoxic granule proteins, not structural elements of a mucosal antibody."
+      }
     },
     {
       "id": "dq-bio-immun-054",
@@ -4806,10 +4992,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "IgE binds high-affinity Fcε receptors on mast cells and contributes to responses against parasitic worms.",
+      "why": "IgE binds high-affinity receptors on mast cells and basophils. Antigen-dependent activation can trigger immediate allergy, and related type 2 responses contribute to defence against parasitic worms.",
       "topicId": "immunology",
       "subtopic": "Antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "IgD mainly serves as a surface antigen receptor on naïve B cells rather than arming mast cells.",
+        "C": "IgG has major roles in opsonisation and neutralisation but is not the classic immunoglobulin driving immediate allergic degranulation.",
+        "D": "IgA primarily promotes immune exclusion at mucosal surfaces rather than binding high-affinity IgE receptors on mast cells.",
+        "E": "IgM is an early antibody and an effective complement activator rather than the characteristic class in immediate allergy."
+      }
     },
     {
       "id": "dq-bio-immun-055",
@@ -4838,10 +5030,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Mature naïve B cells typically coexpress membrane IgM and IgD.",
+      "why": "Mature naïve B cells typically coexpress surface IgM and IgD with the same antigen specificity. Alternative RNA processing produces the two heavy-chain constant regions without class switching.",
       "topicId": "immunology",
       "subtopic": "Antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "IgE usually appears after class switching and is not the characteristic receptor on a mature naïve cell.",
+        "B": "Surface IgA marks some antigen-experienced cells after switching, rather than the usual pre-activation IgM and IgD pattern.",
+        "C": "IgG4 is a switched IgG subclass and is not the usual naïve receptor class.",
+        "D": "Secretory IgA is released at mucosal surfaces and is different from an unswitched B-cell surface receptor."
+      }
     },
     {
       "id": "dq-bio-immun-056",
@@ -4870,10 +5068,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Antibody neutralization blocks the interaction of toxins or pathogens with host target cells.",
+      "why": "A neutralising antibody binds a toxin in a way that blocks its interaction with the host-cell receptor. It can prevent the toxin from acting without relying on direct killing of a cell.",
       "topicId": "immunology",
       "subtopic": "Antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Agglutination links particles into clumps, rather than specifically blocking a soluble toxin's receptor-binding interaction.",
+        "B": "Opsonisation coats a target for phagocytic recognition, which is a different consequence from directly preventing receptor binding.",
+        "D": "Fibrinolysis breaks down fibrin clots and is unrelated to antibody blocking of a toxin.",
+        "E": "Clonal deletion removes selected lymphocytes during tolerance and does not directly block a toxin from attaching."
+      }
     },
     {
       "id": "dq-bio-immun-057",
@@ -4902,10 +5106,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Avidity combines all binding interactions, whereas affinity describes one binding site–epitope interaction.",
+      "why": "Avidity is the combined strength of several binding contacts between an antibody and its target. It depends on intrinsic site affinity, how many sites engage and their arrangement.",
       "topicId": "immunology",
       "subtopic": "Antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Affinity is the strength of a single binding-site interaction, rather than the combined effect of multiple contacts.",
+        "C": "Valence refers to the number of binding sites or determinants, which can influence overall binding strength.",
+        "D": "Isotype denotes an antibody's constant-region class rather than the combined strength of its contacts.",
+        "E": "Allotype refers to an inherited immunoglobulin variant, rather than how strongly multiple sites bind."
+      }
     },
     {
       "id": "dq-bio-immun-058",
@@ -4934,10 +5144,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Affinity is the intrinsic strength of a single antigen-binding interaction.",
+      "why": "Affinity describes the intrinsic strength of the interaction between a single antibody combining site and its epitope. It can be expressed through the equilibrium dissociation constant.",
       "topicId": "immunology",
       "subtopic": "Antibodies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Avidity combines the effects of multiple binding interactions and their positions rather than measuring one site alone.",
+        "B": "Isotype classifies immunoglobulin constant regions, which often determine effector properties rather than site affinity.",
+        "C": "Allotype describes inherited allelic differences in immunoglobulin structure rather than binding strength.",
+        "E": "Valence counts potential binding sites, rather than measuring the strength with which one site binds."
+      }
     },
     {
       "id": "dq-bio-immun-059",
@@ -4966,10 +5182,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The classical pathway is initiated by complement recognition of appropriate antibody–antigen complexes.",
+      "why": "C1q recognises accessible Fc regions in certain antibodies after they bind antigen. This activates the C1 enzymes and starts the classical complement cascade.",
       "topicId": "immunology",
       "subtopic": "Complement",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The alternative pathway uses C3 activation and factors B and D without requiring C1q to attach to antibodies.",
+        "C": "The lectin pathway starts when recognition proteins such as mannose-binding lectin bind carbohydrates rather than antibody Fc.",
+        "D": "The kallikrein pathway is part of the plasma contact system, not the C1q-triggered complement pathway.",
+        "E": "Fibrinolysis breaks down fibrin clots rather than transmitting an antibody-dependent C1 activation signal."
+      }
     },
     {
       "id": "dq-bio-immun-060",
@@ -4998,10 +5220,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Mannose-binding lectin recognizes microbial carbohydrate patterns and activates MASP proteases.",
+      "why": "Mannose-binding lectin recognises patterns of sugars on microbial surfaces. Its associated proteases activate complement by cleaving components that also feed into the classical pathway's C3 convertase.",
       "topicId": "immunology",
       "subtopic": "Complement",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Classical initiation usually uses C1q recognition of clustered antibody Fc rather than mannose-binding lectin.",
+        "B": "The alternative pathway amplifies C3b deposition through factors B and D instead of being initiated by lectin binding.",
+        "C": "The contact pathway involves factor XII and related coagulation proteins rather than mannose-binding lectin.",
+        "D": "Fibrinolytic enzymes remove fibrin and are separate from the recognition step of lectin complement activation."
+      }
     },
     {
       "id": "dq-bio-immun-062",
@@ -5030,10 +5258,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "C3b and its fragments act as opsonins recognized by complement receptors on phagocytes.",
+      "why": "C3 cleavage generates C3b, which can attach to a microbial surface. Complement receptors on phagocytes recognise deposited C3b or its derivatives, promoting ingestion of the coated organism.",
       "topicId": "immunology",
       "subtopic": "Complement",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "C3a is a soluble inflammatory signal and is not the main surface-deposited C3 fragment used for opsonisation.",
+        "C": "C5a strongly recruits and activates inflammatory cells but does not form the principal opsonic coat.",
+        "D": "C1q can bind recognition targets in the classical pathway, while C3b is the main downstream complement opsonin.",
+        "E": "C9 contributes to the terminal membrane pore rather than providing the usual tag for phagocyte uptake."
+      }
     },
     {
       "id": "dq-bio-immun-063",
@@ -5062,10 +5296,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "C5a is a major anaphylatoxin and chemoattractant that recruits and activates leukocytes.",
+      "why": "C5a is released when C5 is cleaved, and its concentration gradient can recruit neutrophils. It also activates inflammatory responses and is a potent anaphylatoxin.",
       "topicId": "immunology",
       "subtopic": "Complement",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "C3b mainly attaches to surfaces for opsonisation rather than serving as the potent soluble attractant.",
+        "B": "C1q recognises targets to initiate classical activation rather than providing the C5-derived neutrophil signal.",
+        "C": "C4b is a deposited component of classical or lectin convertase, not the major soluble neutrophil chemoattractant.",
+        "E": "C9 assembles in terminal membrane pores and does not direct neutrophil migration."
+      }
     },
     {
       "id": "dq-bio-immun-064",
@@ -5094,10 +5334,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Terminal complement components C5b–C9 generate pores in susceptible target membranes.",
+      "why": "C5b recruits C6 and C7 to form a membrane-associated complex. C8 inserts into the membrane before C9 assembles. Multiple C9 molecules complete the terminal pore.",
       "topicId": "immunology",
       "subtopic": "Complement",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "C1q and C4 participate in classical activation and early convertase assembly rather than forming the terminal pore.",
+        "C": "C2 and C4 fragments help form the classical and lectin C3 convertase, upstream of membrane attack.",
+        "D": "C3a and C5a act as soluble inflammatory mediators and do not assemble into the membrane attack complex.",
+        "E": "Factors B and D help form the alternative pathway convertase rather than joining the terminal membrane pore."
+      }
     },
     {
       "id": "dq-bio-immun-065",
@@ -5126,10 +5372,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The classical/lectin C3 convertase C4b2a cleaves C3 into C3a and C3b.",
+      "why": "Classical and lectin activation cleave C4 and C2 to assemble C4b2a on a surface. This complex cleaves C3 into soluble C3a and surface-binding C3b.",
       "topicId": "immunology",
       "subtopic": "Complement",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "C3bBb is the alternative pathway C3 convertase, using factor B rather than the C4 and C2 components.",
+        "B": "C5b–9 is the assembled terminal membrane attack complex and does not function as the C3-cleaving enzyme.",
+        "C": "The C1 complex recognises classical pathway targets and starts early proteolysis, before C3 convertase is formed.",
+        "D": "C3a and C5a are inflammatory cleavage products rather than the protease complex that acts on C3."
+      }
     },
     {
       "id": "dq-bio-immun-067",
@@ -5158,10 +5410,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Complement fragments such as C3b coat pathogens and facilitate uptake by phagocytic complement receptors.",
+      "why": "Complement opsonisation coats a microbial surface with products such as C3b and iC3b. Phagocyte receptors bind these deposited fragments and help the phagocyte ingest the tagged microbe.",
       "topicId": "immunology",
       "subtopic": "Complement",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "T-cell receptor rearrangement occurs in developing T cells and is not regulated by coating a microbe with complement.",
+        "C": "Antibody class switching is a B-cell process and is separate from complement-mediated uptake of a target.",
+        "D": "Complement can damage host cells when poorly regulated, but the protective purpose of opsonisation is microbial clearance.",
+        "E": "Fibrin clotting depends on coagulation enzymes, while complement opsonisation marks a target for immune uptake."
+      }
     },
     {
       "id": "dq-bio-immun-068",
@@ -5190,10 +5448,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "C5b–C9 forms the membrane attack complex; defects predispose particularly to Neisseria infections.",
+      "why": "Late complement components from C5b to C9 form the terminal membrane attack complex. A deficiency impairs lytic pore formation and particularly increases susceptibility to invasive Neisseria infections.",
       "topicId": "immunology",
       "subtopic": "Complement",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "B-cell maturation takes place mainly in bone marrow and does not require assembly of the terminal complement pore.",
+        "B": "MHC class II processing uses intracellular proteolysis and loading, not the terminal complement components.",
+        "C": "Plasma cells chiefly secrete antibodies, a separate function from lysis by the membrane attack complex.",
+        "E": "Switching to IgA depends on B-cell signals and DNA recombination, rather than on terminal pore formation."
+      }
     },
     {
       "id": "dq-bio-immun-069",
@@ -5222,10 +5486,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Autocrine cytokines act on the secreting cell via its own receptors.",
+      "why": "Autocrine signalling occurs when the secreting cell also has receptors for its own cytokine. This can reinforce that cell's activation or help regulate the duration of its response.",
       "topicId": "immunology",
       "subtopic": "Cytokines and receptors",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A paracrine signal acts chiefly on neighbouring cells rather than returning to the same secreting cell.",
+        "C": "Endocrine signalling relies on a circulating messenger to act at a distant site.",
+        "D": "Juxtacrine signalling requires direct cell contact or a membrane-bound interaction rather than soluble signalling to the same cell.",
+        "E": "Neurocrine release refers to signalling from neurons, rather than defining a cytokine acting back on its producer."
+      }
     },
     {
       "id": "dq-bio-immun-070",
@@ -5254,10 +5524,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Paracrine signalling describes local action on neighbouring target cells.",
+      "why": "A paracrine cytokine diffuses a short distance from its source to nearby target cells. It can therefore coordinate local tissue responses without requiring transport through the circulation.",
       "topicId": "immunology",
       "subtopic": "Cytokines and receptors",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "In autocrine signalling the releasing cell responds to its own messenger rather than acting mainly on neighbours.",
+        "B": "Endocrine signalling involves transport over longer distances, typically in the circulation.",
+        "C": "Intracrine signalling acts within the cell producing the signal, instead of diffusing to neighbouring cells.",
+        "D": "Neurocrine describes signals released by neurons and does not define local diffusion of cytokines between tissue cells."
+      }
     },
     {
       "id": "dq-bio-immun-071",
@@ -5286,10 +5562,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Pleiotropy means a single cytokine has distinct activities on different target cells.",
+      "why": "Pleiotropy describes one cytokine producing different responses in different target cells. Receptor expression and downstream signalling programmes can vary between those cells.",
       "topicId": "immunology",
       "subtopic": "Cytokines and receptors",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Redundancy means different cytokines can produce a similar response, rather than one cytokine having several effects.",
+        "B": "Antagonism occurs when one signal diminishes another signal's effect, not simply when cell types respond differently.",
+        "D": "Synergy involves combined cytokine effects rather than the range of responses elicited by an individual cytokine.",
+        "E": "Chemotaxis describes directed movement along a gradient, which is only one possible effect."
+      }
     },
     {
       "id": "dq-bio-immun-072",
@@ -5318,10 +5600,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Redundancy means distinct cytokines can share a function.",
+      "why": "Cytokine redundancy means distinct signals can produce overlapping biological outcomes. This can preserve a function even when one of the cytokines that normally supports it is absent.",
       "topicId": "immunology",
       "subtopic": "Cytokines and receptors",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Pleiotropy is the converse pattern: one cytokine has multiple effects on different cell populations.",
+        "C": "Antagonism occurs when one cytokine opposes or dampens another rather than both producing the same outcome.",
+        "D": "Chemotaxis is a directional motility response, not a term for cytokines with overlapping effects.",
+        "E": "Tolerance is reduced responsiveness to an antigen and does not describe two cytokines sharing a function."
+      }
     },
     {
       "id": "dq-bio-immun-073",
@@ -5382,10 +5670,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "CXCL8 is a neutrophil chemoattractant and participates in acute inflammation.",
+      "why": "CXCL8 recruits neutrophils by activating chemokine receptors and guiding them along a concentration gradient. This is a major component of many acute inflammatory responses.",
       "topicId": "immunology",
       "subtopic": "Cytokines and receptors",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "CCL2 mainly recruits monocytes rather than serving as the classic acute neutrophil chemoattractant.",
+        "C": "CXCL12 helps regulate cell homing and marrow retention through CXCR4, rather than being the textbook neutrophil signal.",
+        "D": "CCL5 recruits targets such as T cells and eosinophils rather than being the principal chemokine identified here.",
+        "E": "CXCL10 is associated with recruitment of activated lymphocytes through CXCR3, rather than classic neutrophil recruitment."
+      }
     },
     {
       "id": "dq-bio-immun-075",
@@ -5414,10 +5708,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Activated T cells produce IL-2 to support their proliferation and differentiation.",
+      "why": "Activated T cells can produce IL-2 and increase expression of its high-affinity receptor. This signal promotes clonal expansion and supports differentiation after the initial antigen response.",
       "topicId": "immunology",
       "subtopic": "Cytokines and receptors",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "IL-4 promotes type 2 differentiation and can support particular class-switching pathways rather than being the principal T-cell growth factor.",
+        "B": "IL-5 supports eosinophil development and activation rather than driving the main clonal expansion signal in activated T cells.",
+        "C": "IL-8 is a chemokine for neutrophil recruitment rather than the T-cell autocrine growth signal.",
+        "D": "IL-10 generally limits inflammatory activation rather than serving as the classical cytokine for activated T-cell proliferation."
+      }
     },
     {
       "id": "dq-bio-immun-076",
@@ -5446,10 +5746,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "IFN-γ from Th1 and NK cells enhances macrophage activity against intracellular microbes.",
+      "why": "Th1 cells can release interferon gamma, which signals macrophages to increase antimicrobial functions. It is particularly important for controlling some microbes that survive inside phagocytes.",
       "topicId": "immunology",
       "subtopic": "Cytokines and receptors",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "IL-4 supports type 2 responses and can promote alternative macrophage activation rather than the classical Th1 pattern.",
+        "B": "IL-5 promotes eosinophil responses rather than strongly inducing the classic Th1 macrophage programme.",
+        "D": "IL-8 drives neutrophil recruitment, rather than being the hallmark cytokine for Th1-dependent macrophage activation.",
+        "E": "IL-10 can suppress macrophage inflammatory and antigen-presenting functions rather than activating the classic microbicidal response."
+      }
     },
     {
       "id": "dq-bio-immun-077",
@@ -5478,10 +5784,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Type I interferons induce antiviral responses in infected and nearby cells.",
+      "why": "Interferon alpha and interferon beta are type I interferons that signal after viral recognition. They induce antiviral gene expression in infected and nearby cells early in the response.",
       "topicId": "immunology",
       "subtopic": "Cytokines and receptors",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "IL-4 and IL-5 are associated with type 2 immunity, rather than the early virus-induced type I interferon response.",
+        "C": "IL-2 and IL-7 regulate T-cell growth or survival, rather than constituting the early type I interferon pair.",
+        "D": "IL-10 and TGF-beta often limit or regulate inflammation rather than producing the prototypical antiviral interferon signal.",
+        "E": "TNF-alpha and IL-6 are important inflammatory cytokines but do not make up the type I interferon pair."
+      }
     },
     {
       "id": "dq-bio-immun-078",
@@ -5510,10 +5822,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Excess TNF-α and IL-1 drive systemic inflammatory responses, vascular leakage and hypotension.",
+      "why": "Activated macrophages can release TNF-alpha and IL-1 during severe infection. Excess systemic signalling contributes to fever and endothelial activation, while vascular leak and altered tone can contribute to shock.",
       "topicId": "immunology",
       "subtopic": "Cytokines and receptors",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "IL-4 and IL-5 mainly coordinate type 2 inflammation and eosinophil-associated responses rather than being the classic pair driving shock.",
+        "B": "IL-2 and IL-7 support lymphocyte proliferation and survival, unlike the named mediators of acute systemic inflammation.",
+        "C": "IFN-gamma activates macrophages, while IL-10 often constrains inflammatory signalling rather than forming the classic fever and shock pair.",
+        "E": "IL-13 contributes to type 2 immunity and IL-17 supports inflammatory cell recruitment, but neither defines the classic pair."
+      }
     },
     {
       "id": "dq-bio-immun-079",
@@ -5542,10 +5860,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The shared IL-2Rγ chain is used by several cytokine receptors; defects cause X-linked SCID.",
+      "why": "The IL2RG protein is a shared receptor chain for multiple cytokines, including those needed for T-cell and NK-cell development. Loss of its function can cause X-linked severe combined immunodeficiency.",
       "topicId": "immunology",
       "subtopic": "Cytokines and receptors",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Autoimmune haemolytic anaemia involves immune destruction of red cells, not the typical congenital failure of lymphocyte development.",
+        "C": "Haemophilia A is caused by factor VIII deficiency rather than by impaired common gamma-chain cytokine signalling.",
+        "D": "Familial hypercholesterolaemia involves defective LDL clearance rather than a shared receptor defect in developing lymphocytes.",
+        "E": "Hereditary angioedema commonly involves abnormal control of bradykinin, separate from common gamma-chain signalling."
+      }
     },
     {
       "id": "dq-bio-immun-080",
@@ -5574,10 +5898,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "IFN-γ is critical for macrophage activation in mycobacterial defence.",
+      "why": "Interferon gamma receptor signalling helps macrophages control intracellular mycobacteria. Defects can therefore cause a marked susceptibility to mycobacterial infections, including otherwise relatively weak organisms.",
       "topicId": "immunology",
       "subtopic": "Cytokines and receptors",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Helminth defence often involves type 2 responses and eosinophils rather than relying primarily on the macrophage IFN-gamma pathway.",
+        "B": "Early control of many respiratory viruses relies strongly on type I interferons, distinct from the IFN-gamma susceptibility described here.",
+        "C": "Chronic mucocutaneous Candida susceptibility is more closely linked to impaired IL-17 immunity than to this classic receptor defect.",
+        "D": "Malaria immunity includes multiple responses, but the characteristic susceptibility in this defect is to mycobacteria."
+      }
     },
     {
       "id": "dq-bio-immun-081",
@@ -5606,10 +5936,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Many cytokine receptors recruit JAK kinases and STAT transcription factors to alter gene expression.",
+      "why": "Many class I and II cytokine receptors signal through associated Janus kinases, which phosphorylate STAT proteins. Activated STATs enter the nucleus and help regulate transcription.",
       "topicId": "immunology",
       "subtopic": "Cytokines and receptors",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Wnt signalling can stabilise beta-catenin, but it is not the canonical route from these cytokine receptors.",
+        "B": "Nuclear steroid receptors bind lipid-soluble hormones and directly regulate transcription rather than using receptor-associated JAKs.",
+        "D": "DNA repair pathways respond to genomic damage rather than relaying this extracellular cytokine signal.",
+        "E": "Thromboxane signals through a G-protein-coupled receptor in platelet activation, separate from JAK–STAT signalling."
+      }
     },
     {
       "id": "dq-bio-immun-082",
@@ -5638,10 +5974,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Blocking TNF-α reduces a pro-inflammatory cytokine cascade implicated in rheumatoid arthritis.",
+      "why": "TNF-alpha can amplify inflammatory activity in rheumatoid arthritis. Neutralising it reduces signalling through its receptors and lowers downstream inflammatory responses in affected tissues.",
       "topicId": "immunology",
       "subtopic": "Cytokines and receptors",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Fibrinogen cross-linking involves coagulation enzymes and is not the intended target of anti-TNF therapy.",
+        "C": "T-cell receptor rearrangement occurs during lymphocyte development rather than being an intended consequence of TNF neutralisation.",
+        "D": "Vitamin K recycling supports clotting factor synthesis, which is separate from the TNF receptor pathway.",
+        "E": "Eosinophil degranulation is associated chiefly with type 2 pathways and is not the intended effect of TNF blockade."
+      }
     },
     {
       "id": "dq-bio-immun-083",
@@ -5670,10 +6012,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "IFN-α and IFN-β promote antiviral states in infected and nearby cells before full adaptive responses.",
+      "why": "Type I interferons can be produced early after cells detect viral material. Their signalling induces an antiviral state before a new antigen-specific lymphocyte response has fully developed.",
       "topicId": "immunology",
       "subtopic": "Immunity to infectious agents",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "IgE production generally involves class switching and is associated more with allergy and type 2 immune responses.",
+        "B": "Germinal-centre affinity maturation is part of a later adaptive B-cell response after activation.",
+        "C": "Antibody memory can matter on re-exposure, but new memory is not the usual first response to a novel infection.",
+        "D": "Antigen-driven expansion of cytotoxic T cells usually takes longer than innate type I interferon signalling."
+      }
     },
     {
       "id": "dq-bio-immun-084",
@@ -5702,10 +6050,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "CD8 CTLs recognize viral peptide–MHC I and induce apoptosis through granzyme or Fas-mediated pathways.",
+      "why": "A cytotoxic CD8 T cell recognises a suitable peptide–MHC class I complex on the infected cell. The activated effector can trigger apoptosis through cytotoxic granules or death-receptor signalling.",
       "topicId": "immunology",
       "subtopic": "Immunity to infectious agents",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Conventional CD4 helper T cells chiefly recognise MHC class II and support immune activation rather than performing the usual class-I-restricted killing.",
+        "C": "Mature B cells recognise antigen and can differentiate into antibody-secreting cells rather than directly killing through peptide–MHC I.",
+        "D": "Plasma cells are differentiated antibody-secreting cells and do not perform the CD8 T-cell killing response.",
+        "E": "Follicular dendritic cells display native antigen to B cells in follicles rather than killing class-I-bearing infected cells."
+      }
     },
     {
       "id": "dq-bio-immun-085",
@@ -5734,10 +6088,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Opsonizing IgG and complement mark bacteria for phagocyte ingestion.",
+      "why": "Opsonising IgG can bind to bacterial surfaces, leaving Fc exposed to receptors on phagocytes. Complement deposition can add recognition sites, improving ingestion of extracellular bacteria.",
       "topicId": "immunology",
       "subtopic": "Immunity to infectious agents",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Cytotoxic T-cell killing targets infected host cells and is not an antibody-mediated route of bacterial uptake.",
+        "B": "Type I interferon production primarily establishes antiviral responses rather than tagging extracellular pyogenic bacteria.",
+        "C": "Intracellular peptide processing helps antigen presentation, not the direct coating of extracellular targets for phagocytes.",
+        "E": "The thymic medulla supports T-cell development and tolerance rather than functioning as an antibody effector."
+      }
     },
     {
       "id": "dq-bio-immun-086",
@@ -5766,10 +6126,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Polysaccharide capsules reduce phagocytosis; specific antibody helps overcome this defence.",
+      "why": "A bacterial capsule can make surface recognition and engulfment less efficient. Antibody and complement can improve recognition by phagocytes, helping overcome that barrier to clearance.",
       "topicId": "immunology",
       "subtopic": "Immunity to infectious agents",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "IgA is made by host plasma cells, rather than being synthesised by a bacterial capsule.",
+        "C": "Capsules can impede ingestion, but they do not eliminate all neutrophils or account for so broad an effect.",
+        "D": "T-cell receptors are made by host lymphocytes rather than being expressed by a bacterial capsule.",
+        "E": "A capsule can impair uptake without preventing all cytokine signalling by host immune cells."
+      }
     },
     {
       "id": "dq-bio-immun-087",
@@ -5798,10 +6164,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Secretory IgA provides immune exclusion at mucosal surfaces.",
+      "why": "Secretory IgA binds microbes and their products in mucosal secretions. By limiting adhesion to epithelial surfaces it supports immune exclusion without requiring strong local inflammation.",
       "topicId": "immunology",
       "subtopic": "Immunity to infectious agents",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "IgD is chiefly a naïve B-cell surface receptor rather than the main antibody coating mucosal surfaces.",
+        "B": "IgE binds mast-cell receptors and participates in immediate allergy and helminth responses rather than routine mucosal exclusion.",
+        "D": "IgG4 is a serum IgG subclass and is not the standard predominant secretory antibody at mucosal sites.",
+        "E": "Secretory IgM can contribute to mucosal defence, but IgA is the predominant specialised antibody there."
+      }
     },
     {
       "id": "dq-bio-immun-088",
@@ -5830,10 +6202,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Th1-derived IFN-γ enhances macrophage microbicidal activity against intracellular mycobacteria.",
+      "why": "Th1 cells release interferon gamma and promote macrophage activation in tuberculosis. This improves control of mycobacteria residing within macrophages, where circulating antibodies have limited access.",
       "topicId": "immunology",
       "subtopic": "Immunity to infectious agents",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "IgE and eosinophils are more characteristic of type 2 responses against parasites outside host cells.",
+        "B": "Mucosal IgA can block attachment at epithelial surfaces, but it cannot substitute for control of organisms inside macrophages.",
+        "C": "Mast-cell histamine supports acute inflammatory and allergic responses rather than providing the critical intracellular macrophage programme.",
+        "D": "Platelet factor IV is linked to platelet biology and does not provide the main Th1-mediated defence."
+      }
     },
     {
       "id": "dq-bio-immun-089",
@@ -5862,10 +6240,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Drift results from accumulated mutations that subtly change viral antigens.",
+      "why": "Antigenic drift is the gradual accumulation of small changes that can alter recognition of influenza surface antigens. Existing immunity may therefore recognise later variants less well.",
       "topicId": "immunology",
       "subtopic": "Immunity to infectious agents",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Antigenic shift is an abrupt major antigenic change, rather than the gradual process described.",
+        "C": "Class switching alters the constant region of a host antibody and does not change a viral antigen.",
+        "D": "Clonal deletion is a mechanism of host lymphocyte tolerance rather than accumulation of changes in influenza.",
+        "E": "Complement fixation is an immune effector process, not the name for gradual change in an antigen."
+      }
     },
     {
       "id": "dq-bio-immun-090",
@@ -5894,10 +6278,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Shift creates major antigenic changes through reassortment among influenza A strains.",
+      "why": "Antigenic shift is an abrupt major change in influenza A surface antigens. Natural changes of this kind are distinct from the smaller changes that accumulate during seasonal antigenic drift.",
       "topicId": "immunology",
       "subtopic": "Immunity to infectious agents",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Drift describes gradual antigenic changes rather than the abrupt emergence of a substantially different antigen pattern.",
+        "B": "Affinity maturation changes how strongly host antibodies bind antigen rather than changing the influenza antigen itself.",
+        "C": "Antibody gene recombination occurs in host B cells and is distinct from natural changes in an influenza genome.",
+        "E": "V(D)J rearrangement creates receptor diversity in developing lymphocytes rather than causing abrupt influenza antigen change."
+      }
     },
     {
       "id": "dq-bio-immun-091",
@@ -5926,10 +6316,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Some non-neutralizing or cross-reactive antibodies facilitate infection of Fc-receptor-bearing cells.",
+      "why": "In some dengue infections, pre-existing antibodies bind without neutralising the virus effectively. Fc receptors can take up these complexes, which can contribute to more severe disease.",
       "topicId": "immunology",
       "subtopic": "Immunity to infectious agents",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Activated platelets have roles in haemostasis and inflammation rather than driving the antibody-dependent Fc receptor pathway.",
+        "C": "Neutralising IgA would block attachment and protect the host rather than explain antibody-dependent enhancement.",
+        "D": "Complement can contribute to immune responses, but enhancement here involves Fc receptor uptake of antibody-bound material.",
+        "E": "Class-switch recombination alters host immunoglobulin genes and does not occur in dengue viral genomes."
+      }
     },
     {
       "id": "dq-bio-immun-092",
@@ -5958,10 +6354,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Th2 cytokines favour IgE-associated immunity and eosinophil activity against helminths.",
+      "why": "Th2 cells produce cytokines such as IL-4 and IL-5. These support IgE-associated responses and eosinophil recruitment or activation, a pattern typical of defence against many helminths.",
       "topicId": "immunology",
       "subtopic": "Immunity to infectious agents",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Th1 responses use interferon gamma to activate macrophages, particularly against many intracellular microbes.",
+        "B": "Th17 cells can promote neutrophil responses to some extracellular bacteria and fungi rather than driving the classic IgE response.",
+        "D": "Regulatory T cells restrain immune activation and do not characteristically drive IgE and eosinophil responses.",
+        "E": "Cytotoxic CD8 cells kill selected target cells and are distinct from the helper programme associated with helminths."
+      }
     },
     {
       "id": "dq-bio-immun-093",
@@ -5990,10 +6392,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Intracellular pathogens often require Th1 and macrophage-mediated immunity.",
+      "why": "Th1-associated interferon gamma can activate macrophages and increase their ability to control organisms already inside them. This addresses the intracellular location of the protozoan.",
       "topicId": "immunology",
       "subtopic": "Immunity to infectious agents",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Secretory IgD in bronchial mucus is not the characteristic defence against organisms residing within macrophages.",
+        "B": "Platelet aggregation forms a haemostatic plug and does not provide the principal antimicrobial response inside macrophages.",
+        "C": "IgE-associated responses are more useful against some large extracellular parasites than against protozoa inside macrophages.",
+        "D": "Fibrin formation limits bleeding but does not replace cytokine-driven activation of an infected macrophage."
+      }
     },
     {
       "id": "dq-bio-immun-094",
@@ -6022,10 +6430,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Gastric acidity is a first-line non-specific barrier against ingested organisms.",
+      "why": "Gastric acid creates a low-pH environment that reduces survival of many swallowed organisms. It is a nonspecific chemical barrier that acts before an antigen-specific immune response is needed.",
       "topicId": "immunology",
       "subtopic": "Immunity to infectious agents",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "IgE chiefly acts through mast cells and basophils and is not the principal antimicrobial property of gastric juice.",
+        "C": "Circulating T cells participate in adaptive responses rather than suppressing organisms inside the stomach lumen by acidity.",
+        "D": "C9 helps form complement pores, but gastric acid is the main luminal barrier identified here.",
+        "E": "Intestinal MHC class I presents peptides to CD8 T cells and does not establish the low pH of the stomach."
+      }
     },
     {
       "id": "dq-bio-immun-095",
@@ -6054,10 +6468,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Excess inflammatory cytokines promote vasodilation, increased permeability and circulatory shock.",
+      "why": "Excess systemic TNF-alpha contributes to inflammatory endothelial activation during severe sepsis. Increased vascular permeability and altered vascular tone can reduce effective circulating volume and lower blood pressure.",
       "topicId": "immunology",
       "subtopic": "Immunity to infectious agents",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Bone collagen synthesis is a matrix-building process rather than the immediate circulatory effect of excess TNF-alpha.",
+        "B": "Endothelial permeability often increases during severe systemic inflammation, allowing fluid to leave the vasculature.",
+        "C": "Red-cell oxygen affinity is governed mainly by haemoglobin properties and local conditions, rather than this cytokine-mediated leak.",
+        "E": "Coagulation and platelets may be affected in sepsis, but the characteristic systemic finding includes leaky vessels and hypotension."
+      }
     },
     {
       "id": "dq-bio-immun-096",
@@ -6086,10 +6506,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "IgA proteases impair secretory IgA-dependent blockade of mucosal colonization.",
+      "why": "Secretory IgA normally protects mucosa by binding microbial surfaces and limiting attachment. If that antibody is cleaved, the mucosal barrier loses some of its antibody-dependent protection.",
       "topicId": "immunology",
       "subtopic": "Immunity to infectious agents",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "MHC class I assembly occurs inside host cells and is separate from the actions of secretory antibodies on mucosal surfaces.",
+        "C": "Thymic positive selection concerns recognition of self MHC by developing T cells, rather than luminal mucosal protection.",
+        "D": "Macrophages can generate nitric oxide in innate defence, a pathway distinct from secretory IgA activity.",
+        "E": "Granzymes are cytotoxic lymphocyte effectors and are not the same defence as secretory IgA on an epithelial surface."
+      }
     },
     {
       "id": "dq-bio-immun-097",
@@ -6118,10 +6544,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Deposited immune complexes activate complement and recruit inflammatory cells, producing tissue injury.",
+      "why": "Soluble antigen–antibody complexes can lodge in glomeruli and activate complement locally. Recruitment of inflammatory cells then damages tissue, forming a classic immune complex-mediated pattern.",
       "topicId": "immunology",
       "subtopic": "Immunity to infectious agents",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "T-cell receptor rearrangement occurs during lymphocyte development rather than explaining inflammatory deposits in glomeruli.",
+        "B": "Fc-epsilon receptor desensitisation affects IgE-mediated mast-cell responses, not the deposition of circulating complexes.",
+        "D": "Keratin production supports some epithelial structures and is unrelated to immune complex deposition and complement activation.",
+        "E": "Vitamin K recycling supports coagulation factor function and does not produce antibody–antigen deposits in the kidney."
+      }
     },
     {
       "id": "dq-bio-immun-098",
@@ -6150,10 +6582,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Serum is the liquid after clotting and generally lacks fibrinogen; plasma comes from anticoagulated blood.",
+      "why": "Serum is the liquid remaining after blood clots and the clot is removed. Plasma comes from anticoagulated blood and therefore retains fibrinogen and other clotting components.",
       "topicId": "immunology",
       "subtopic": "Immunodiagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Plasma contains immunoglobulins, many of which are also present in serum after clotting.",
+        "B": "Fibrinogen is converted to fibrin during clotting, so intact fibrinogen is largely absent from serum.",
+        "C": "Albumin is a soluble protein present in both plasma and serum and does not distinguish them.",
+        "D": "Much of the platelet material is trapped in the clot, so separated serum is not a preparation of functional platelets."
+      }
     },
     {
       "id": "dq-bio-immun-099",
@@ -6182,10 +6620,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Titre is the highest dilution at which a defined antigen–antibody reaction remains detectable.",
+      "why": "An antibody titre is conventionally the reciprocal of the greatest dilution at which a defined reaction is still detectable. It reports a dilution endpoint rather than a directly weighed amount of antibody.",
       "topicId": "immunology",
       "subtopic": "Immunodiagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The endpoint is the highest dilution still meeting the assay criterion, rather than the lowest dilution showing haemolysis.",
+        "C": "Albumin measurement reports a different serum protein and is not the dilution endpoint for an antibody reaction.",
+        "D": "Complement may participate in some assays, but the antibody titre describes how far the sample can be diluted.",
+        "E": "Initial pH is an assay condition, while titre is an observed endpoint of the dilution series."
+      }
     },
     {
       "id": "dq-bio-immun-100",
@@ -6214,10 +6658,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Sensitivity is the proportion of truly affected individuals who test positive.",
+      "why": "Sensitivity is the proportion of people with the target condition who test positive. If that proportion is high, fewer affected people are missed and classified as negative.",
       "topicId": "immunology",
       "subtopic": "Immunodiagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "False positives occur among unaffected people and their frequency is chiefly related to specificity.",
+        "B": "True positives are detected cases and increase as the test detects a larger proportion of affected individuals.",
+        "C": "True negatives are the unaffected people correctly identified and are associated with test specificity.",
+        "E": "Cross-reactivity can affect assay specificity, while high sensitivity specifically limits missed cases."
+      }
     },
     {
       "id": "dq-bio-immun-101",
@@ -6246,10 +6696,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Specificity is the proportion of unaffected individuals who test negative.",
+      "why": "Specificity is the proportion of people without the condition who are correctly identified as negative. Higher specificity therefore gives fewer positive results among unaffected people.",
       "topicId": "immunology",
       "subtopic": "Immunodiagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "False negatives occur among affected people and are chiefly determined by sensitivity.",
+        "C": "True positives are correctly detected affected individuals and are used to calculate sensitivity rather than specificity.",
+        "D": "True negatives are the desired correct results among unaffected people and increase with higher specificity.",
+        "E": "Detection of a target when truly present is generally desirable, rather than something a specific test is meant to minimise."
+      }
     },
     {
       "id": "dq-bio-immun-102",
@@ -6278,10 +6734,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The prozone effect occurs when antibody excess limits lattice formation; dilution can restore the visible reaction.",
+      "why": "In the prozone, excess antibody saturates available antigen sites without efficiently bridging antigen molecules. Diluting the antibody can restore proportions that allow a visible precipitating lattice.",
       "topicId": "immunology",
       "subtopic": "Immunodiagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The postzone occurs with excess antigen, which is the opposite imbalance from the one in this specimen.",
+        "B": "Equivalence supports cross-linking and maximal precipitation rather than a falsely weak result.",
+        "D": "Precipitation can occur through direct antigen–antibody cross-linking and does not require complement to make the lattice.",
+        "E": "Enzyme inhibition affects some assay signals, but this pattern is explained by the proportions of antigen and antibody."
+      }
     },
     {
       "id": "dq-bio-immun-103",
@@ -6310,10 +6772,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Antigen excess may prevent extensive lattice formation in a precipitation assay.",
+      "why": "A postzone effect occurs when antigen greatly exceeds available antibody. Individual binding events still take place, but there are too few antibody bridges to form large visible complexes.",
       "topicId": "immunology",
       "subtopic": "Immunodiagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The prozone is a weak reaction caused by antibody excess, whereas this sample has antigen excess.",
+        "B": "The equivalence zone permits efficient cross-linking and is usually where precipitation is strongest.",
+        "C": "Increasing avidity can reflect stronger multivalent binding, but the weak result in the stem is caused by reagent proportions.",
+        "D": "Complement exhaustion does not determine whether a direct antigen–antibody precipitating lattice can form."
+      }
     },
     {
       "id": "dq-bio-immun-104",
@@ -6342,10 +6810,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "At equivalence, multivalent antigen and antibodies form large cross-linked lattices.",
+      "why": "At equivalence, available antigen and antibody sites are balanced enough for extensive cross-linking. Large insoluble lattices form more readily than when either reactant is in marked excess.",
       "topicId": "immunology",
       "subtopic": "Immunodiagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Excess antibody can saturate epitopes without bridging many antigens, weakening visible precipitation.",
+        "C": "Excess antigen can occupy binding sites without producing sufficiently large cross-linked complexes.",
+        "D": "The prozone corresponds to antibody excess and typically gives less precipitation than the equivalence zone.",
+        "E": "The postzone corresponds to antigen excess, which limits lattice formation instead of maximising it."
+      }
     },
     {
       "id": "dq-bio-immun-105",
@@ -6374,10 +6848,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Agglutination forms visible aggregates of particulate antigens or cells.",
+      "why": "Agglutination occurs when multivalent binding forms bridges between particles or cells. Those bridges generate visible clumps, rather than the precipitate formed from originally soluble antigen.",
       "topicId": "immunology",
       "subtopic": "Immunodiagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Precipitation forms insoluble lattices from soluble antigens and is distinguished from visible clumping of particles.",
+        "B": "Neutralisation blocks a biological interaction such as toxin attachment without requiring visible groups of cells.",
+        "C": "Opsonisation enhances phagocyte recognition by coating a target rather than necessarily forming visible clumps.",
+        "E": "Dialysis separates molecules across a membrane and does not depend on antibody bridges between cells."
+      }
     },
     {
       "id": "dq-bio-immun-106",
@@ -6438,10 +6918,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Radioimmunoassays use radiolabelled tracers to measure antigen–antibody reactions.",
+      "why": "Radioimmunoassay uses a radionuclide-labelled tracer as part of an antigen–antibody measurement. The readout is radioactivity associated with a bound or free fraction.",
       "topicId": "immunology",
       "subtopic": "Immunodiagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Enzyme immunoassays detect enzyme activity through a reporter reaction rather than using a radionuclide tracer.",
+        "B": "Immunofluorescence relies on a fluorophore emitting light after excitation rather than counting radioactive decay.",
+        "D": "Agglutination can be detected by visible clumping and does not inherently require a labelled radionuclide.",
+        "E": "Typical lateral-flow assays use visible particles or another optical reporter rather than requiring a radioactive tracer."
+      }
     },
     {
       "id": "dq-bio-immun-108",
@@ -6470,10 +6956,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Avidity integrates multivalent interactions; affinity concerns one epitope–paratope contact.",
+      "why": "Affinity describes binding strength for one antigen–antibody contact. Avidity describes the combined stability when multiple contacts form together and can remain engaged despite release at one site.",
       "topicId": "immunology",
       "subtopic": "Immunodiagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Fab and Fc describe antibody regions, whereas affinity and avidity describe binding interactions.",
+        "B": "Both terms apply to binding and do not distinguish activation of the innate immune system from the adaptive system.",
+        "C": "Serum and plasma are sample types, and either can contain antibodies whose binding has affinity and avidity.",
+        "D": "Protein manufacture and transport do not define the difference between the strength of one contact and combined binding."
+      }
     },
     {
       "id": "dq-bio-immun-109",
@@ -6502,10 +6994,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Cross-reactivity can cause false-positive serology when related antigens have similar determinants.",
+      "why": "Antibodies can recognise similar or shared epitopes on antigens from related organisms. A serological assay can therefore react with a related species even in the absence of the target infection.",
       "topicId": "immunology",
       "subtopic": "Immunodiagnostics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "High specificity would tend to exclude such reactions rather than explain a positive result to a related antigen.",
+        "C": "Binding to the related species shows that an antigenic determinant is still recognised by the antibody.",
+        "D": "A serum reaction based on antibody requires immunoglobulin to be present, even if its target is cross-reactive.",
+        "E": "A cross-reaction requires some affinity for the shared epitope, rather than a complete absence of binding."
+      }
     },
     {
       "id": "dq-bio-immun-110",
@@ -6534,10 +7032,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Active immunization stimulates host B- and T-cell responses and can generate memory.",
+      "why": "Routine vaccination exposes the immune system to an antigen or instructions for producing it. The recipient's own lymphocytes respond and can persist as memory cells, producing active immunity.",
       "topicId": "immunology",
       "subtopic": "Vaccinology",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Donor antibodies confer passive immunity because the recipient receives the protective products without making them.",
+        "B": "Innate mechanisms help initiate the response, but active vaccination depends on adaptive lymphocytes for specificity and memory.",
+        "C": "Transferred donor plasma provides temporary passive antibodies rather than generating active vaccination responses.",
+        "E": "Vaccines prime host immune responses and do not act as enzymes that digest microbes in circulation."
+      }
     },
     {
       "id": "dq-bio-immun-111",
@@ -6566,10 +7070,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The antigen is recognized by adaptive immunity and determines the specificity of the response.",
+      "why": "The vaccine antigen contains the structures recognised by specific lymphocytes and their receptors. It determines the target of immune memory, while other ingredients support delivery or stability.",
       "topicId": "immunology",
       "subtopic": "Vaccinology",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "An adjuvant strengthens or shapes a response but does not provide the principal antigenic target.",
+        "C": "A preservative limits contamination in certain formulations rather than defining what lymphocytes recognise.",
+        "D": "A buffer helps maintain pH during storage and does not determine immunological specificity.",
+        "E": "A stabiliser protects the formulation from deterioration rather than serving as the main antigenic determinant."
+      }
     },
     {
       "id": "dq-bio-immun-112",
@@ -6598,10 +7108,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Adjuvants improve immune activation and can enhance the resulting adaptive response.",
+      "why": "An adjuvant is included to improve the immune response to an antigen. It can enhance innate activation or antigen presentation, supporting a more effective or durable adaptive response.",
       "topicId": "immunology",
       "subtopic": "Vaccinology",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Buffers maintain an appropriate pH and do not primarily serve as immune stimulants.",
+        "B": "Stabilisers help preserve antigen integrity during storage rather than directly enhancing the immune response to it.",
+        "D": "Preservatives limit microbial contamination during storage or use rather than acting chiefly as immune enhancers.",
+        "E": "Diluents restore or adjust the dose's fluid volume and are not the component that principally improves immunogenicity."
+      }
     },
     {
       "id": "dq-bio-immun-113",
@@ -6630,10 +7146,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Preservatives inhibit unintended microbial growth during storage and use of certain vaccine formulations.",
+      "why": "A preservative in certain multidose vaccines prevents unintended microbial growth after repeated access to the container. It serves a formulation safety role rather than determining the immune response's specificity.",
       "topicId": "immunology",
       "subtopic": "Vaccinology",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "An adjuvant enhances the host response to antigen and is not included principally to inhibit contamination.",
+        "B": "The antigen provides the immune target rather than protecting a vial against organisms introduced during use.",
+        "C": "A buffer maintains pH and is distinct from the ingredient chiefly used to prevent microbial growth.",
+        "D": "A stabiliser preserves the activity of formulation components and is not chiefly intended to prevent contamination."
+      }
     },
     {
       "id": "dq-bio-immun-114",
@@ -6662,10 +7184,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Toxoids are inactivated toxins that preserve antigenic structures capable of inducing neutralizing antibody.",
+      "why": "A toxoid has lost the harmful activity of a toxin but retains enough antigenic structure to induce an immune response. The antibodies generated can neutralise the corresponding active toxin.",
       "topicId": "immunology",
       "subtopic": "Vaccinology",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Retaining recognisable epitopes is necessary to induce antibodies that recognise the active toxin.",
+        "C": "A toxoid is made inactive, so the preparation does not require a toxin that still has its harmful activity.",
+        "D": "Toxoid vaccination can produce memory lymphocytes rather than destroying those that respond to the antigen.",
+        "E": "Induction of antibodies is the protective goal, not a process the toxoid is intended to block."
+      }
     },
     {
       "id": "dq-bio-immun-115",
@@ -6694,10 +7222,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Conjugation recruits T-dependent help, supporting improved class switching and memory.",
+      "why": "A B cell that recognises the polysaccharide can present peptides from the linked carrier to helper T cells. The helper signals support class switching and more durable memory.",
       "topicId": "immunology",
       "subtopic": "Vaccinology",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Conjugate vaccination uses antigen processing and presentation to recruit help, rather than suppressing those functions.",
+        "B": "The added T-cell help generally supports memory B-cell formation instead of preventing it.",
+        "C": "Class switching can be enhanced, but the response does not require all antibodies to become IgE.",
+        "E": "The conjugate is an immunogen that primes the host response rather than directly killing organisms in the formulation."
+      }
     },
     {
       "id": "dq-bio-immun-116",
@@ -6726,10 +7260,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Live attenuated organisms replicate to a limited extent and can induce strong adaptive immunity.",
+      "why": "A live attenuated vaccine contains a weakened organism that can still replicate to a limited degree. This permits antigen exposure and stimulation of adaptive immunity without the usual disease of natural infection.",
       "topicId": "immunology",
       "subtopic": "Vaccinology",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "An inactivated whole-organism vaccine contains organisms that cannot replicate after administration.",
+        "C": "A subunit preparation contains selected antigens rather than an intact organism capable of limited replication.",
+        "D": "A toxoid is an inactive antigenic form of a toxin, not a replicating organism.",
+        "E": "A purified polysaccharide consists of nonliving carbohydrate antigen that cannot multiply in the recipient."
+      }
     },
     {
       "id": "dq-bio-immun-117",
@@ -6758,10 +7298,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Boosters recall memory clones and generally increase the magnitude and durability of immune responses.",
+      "why": "A booster exposes the immune system to the antigen again after priming. Antigen-specific memory cells can respond more rapidly, increasing or renewing the level of protection.",
       "topicId": "immunology",
       "subtopic": "Vaccinology",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Innate cells still contribute to vaccine responses, but a booster does not replace those cell populations.",
+        "B": "The antigen need only be presented again, rather than persisting permanently in the recipient.",
+        "D": "A secondary antibody response is commonly amplified after a booster rather than suppressed.",
+        "E": "Existing memory T cells can be recalled by the booster and are not meant to be eliminated."
+      }
     },
     {
       "id": "dq-bio-immun-118",
@@ -6790,10 +7336,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Type I hypersensitivity follows sensitization and IgE cross-linking on mast cells during re-exposure.",
+      "why": "In classic type I hypersensitivity, IgE attaches to high-affinity receptors on mast cells during sensitisation. Re-exposure can cross-link the bound IgE and trigger rapid mediator release.",
       "topicId": "immunology",
       "subtopic": "Hypersensitivity",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "IgG against fixed cell-associated antigen is typical of type II hypersensitivity rather than classic immediate allergy.",
+        "B": "Soluble immune complex deposition characterises type III hypersensitivity, not mast-cell activation through bound IgE.",
+        "C": "Delayed T-cell inflammation is a type IV mechanism and usually appears later than immediate IgE-dependent symptoms.",
+        "D": "Antibody-independent cytotoxicity uses other effector pathways rather than cross-linking IgE on sensitised mast cells."
+      }
     },
     {
       "id": "dq-bio-immun-119",
@@ -6822,10 +7374,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Histamine is stored in mast-cell granules and causes vasodilation, permeability and bronchoconstrictor effects.",
+      "why": "Histamine is stored in mast-cell granules and can be released rapidly after activation. It contributes to immediate changes in vascular permeability and can contract airway smooth muscle.",
       "topicId": "immunology",
       "subtopic": "Hypersensitivity",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "IL-2 is a cytokine associated with activated T-cell growth, rather than the chief preformed vasoactive granule mediator.",
+        "C": "C3b is generated by complement cleavage and attaches to surfaces instead of being stored as mast-cell histamine.",
+        "D": "Perforin is stored in cytotoxic lymphocyte granules and serves a different role in target-cell killing.",
+        "E": "Fibrinogen is a circulating coagulation protein, rather than a vasoactive mediator released from mast-cell granules."
+      }
     },
     {
       "id": "dq-bio-immun-120",
@@ -6854,10 +7412,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Type II involves IgG or IgM directed against cell-surface or extracellular-matrix antigens.",
+      "why": "Transfusion reactions can occur when recipient IgM or IgG recognises an antigen fixed on donor red cells. Complement and other effector mechanisms can destroy those cells, fitting type II hypersensitivity.",
       "topicId": "immunology",
       "subtopic": "Hypersensitivity",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Type I involves IgE-dependent mast-cell activation rather than antibodies targeting red-cell surface antigens for destruction.",
+        "B": "Type III involves deposition of soluble immune complexes rather than antibody binding directly to the transfused cells.",
+        "C": "Type IV is driven by sensitised T cells rather than antibodies against red-cell surface antigens.",
+        "E": "Mechanical or chemical haemolysis can be nonimmune, but this stem explicitly describes antibody-mediated destruction."
+      }
     },
     {
       "id": "dq-bio-immun-121",
@@ -6886,10 +7450,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Type III immune complexes can lodge in vessels or glomeruli and activate complement.",
+      "why": "In type III hypersensitivity, soluble antigen and antibody form complexes that are deposited in tissues such as vessel walls or glomeruli. Complement and recruited cells can then cause inflammation.",
       "topicId": "immunology",
       "subtopic": "Hypersensitivity",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Type I is immediate IgE-mediated mast-cell activation rather than tissue deposition of soluble complexes.",
+        "C": "Type II targets antigens already fixed to a cell or matrix, rather than complexes formed in solution.",
+        "D": "Type IV involves antigen-specific T cells and does not depend on antibody complexes for the defining tissue injury.",
+        "E": "Innate inflammatory pathways can execute injury, but formation of specific antigen–antibody complexes requires an adaptive component."
+      }
     },
     {
       "id": "dq-bio-immun-122",
@@ -6918,10 +7488,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Contact dermatitis is typically a type IV delayed hypersensitivity reaction mediated by sensitized T cells.",
+      "why": "Sensitising chemicals can generate antigens recognised by T cells after binding to skin proteins. On later exposure, those T cells drive a delayed local inflammatory response in the skin.",
       "topicId": "immunology",
       "subtopic": "Hypersensitivity",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "An IgE-dependent mast-cell reaction is typically immediate rather than the usual delayed reaction to contact sensitisation.",
+        "B": "IgM-mediated haemolysis targets red cells and represents an antibody-mediated process rather than a skin T-cell response.",
+        "D": "Circulating immune complexes produce a type III mechanism rather than typical delayed contact dermatitis.",
+        "E": "Terminal complement pores are not the characteristic cause of the local T-cell inflammation in contact dermatitis."
+      }
     },
     {
       "id": "dq-bio-immun-123",
@@ -6950,10 +7526,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Delayed-type hypersensitivity is driven by antigen-specific T cells and recruited macrophages.",
+      "why": "The skin response reflects sensitised antigen-specific T cells releasing cytokines and recruiting inflammatory cells. This delayed cellular reaction produces induration over roughly 48–72 hours.",
       "topicId": "immunology",
       "subtopic": "Hypersensitivity",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Type I reactions usually develop rapidly through IgE on mast cells, rather than producing the delayed induration described.",
+        "B": "Type II reactions involve antibody against fixed cell or matrix structures rather than the tuberculin-specific cellular response.",
+        "C": "Type III reactions involve tissue deposition of soluble immune complexes, not the main cause of delayed tuberculin induration.",
+        "D": "The response requires prior antigen sensitisation and is not explained by an immediate nonspecific reaction."
+      }
     },
     {
       "id": "dq-bio-immun-124",
@@ -6982,10 +7564,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Type II usually involves antibody against fixed cellular or matrix targets; type III involves deposited soluble immune complexes.",
+      "why": "Type II hypersensitivity involves antibodies binding targets already fixed on cells or tissue matrix. In type III, soluble antigen–antibody complexes form first and can then deposit where they cause inflammation.",
       "topicId": "immunology",
       "subtopic": "Hypersensitivity",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "IgE is typical of type I, while T-cell-driven reactions are type IV rather than the two mechanisms described.",
+        "C": "Type II injury can occur in blood and other tissues and is not restricted to the respiratory epithelium.",
+        "D": "CD8 perforin release is a cellular effector process rather than a requirement for soluble complex-mediated injury.",
+        "E": "Antibodies are essential constituents of type III immune complexes, even though recruited innate cells can produce much of the injury."
+      }
     },
     {
       "id": "dq-bio-immun-125",
