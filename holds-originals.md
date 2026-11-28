@@ -882,3 +882,278 @@
 - Key: A — Ten (live; archive labels may differ).
 - Concern: Standard adult nutrition identifies nine indispensable amino acids. Arginine may be conditionally essential; the stem explicitly references course teaching, so confirm whether the digest counts arginine or uses a different age group. Nine is absent from the options. Key and explanation unchanged.
 - Reference: https://www.ncbi.nlm.nih.gov/books/NBK557845/ ; https://pubmed.ncbi.nlm.nih.gov/30060014/
+
+## dq-g-gv1 — Answer-key review
+- Stem: About the organisation of the vascular system:
+- Key: A T, B T, C T, D F, E T
+- Concern: The key treats the portal route as a third independent circulation and makes an internal elastic lamina a universal component of the intima. The hepatic portal route is part of systemic circulation, and a distinct lamina is characteristic of arteries rather than all vessels. Check the intended course convention.
+
+## dq-g-gv5 — Answer-key review
+- Stem: Sinusoidal (discontinuous) capillaries are found in all of the following EXCEPT the:
+- Key: B — kidney
+- Concern: The kidney is the intended answer, with fenestrated glomerular endothelium and a continuous basal lamina, but adrenal medullary sinusoids are also described as fenestrated with a continuous basal lamina. Specify which histological definition of discontinuous is intended, or replace the adrenal option.
+
+## dq-g-gv6 — Answer-key review
+- Stem: Veins:
+- Key: A T, B T, C T, D T, E F
+- Concern: The vein-wall statement keyed true excludes an elastic lamina altogether, but histological descriptions recognise a thin or inconspicuous internal elastic lamina in some veins. Qualify the claim before explaining it as a rule.
+
+## dq-g-gvs9 — Answer-key review
+- Stem: Which pulmonary artery is longer and wider?
+- Key: A — Right, passing under the aortic arch
+- Concern: The right pulmonary artery is longer and larger, but the keyed answer adds that it passes under the aortic arch. The defining right-sided route is behind the ascending aorta and superior vena cava, while the left pulmonary artery emerges within the concavity of the arch. Clarify the intended relation and revise the option if needed.
+
+## dq-g-gvg11 — Answer-key review
+- Stem: The left pulmonary artery lies in front of the:
+- Key: C — left bronchus and descending aorta
+- Concern: The left pulmonary artery is anterior to the descending aorta, but its relation to the left main bronchus changes along its course. At the root it arches superior to the left main bronchus before descending posterolaterally. Specify the segment if retaining the keyed anterior relation.
+
+## dq-g-gvh1 — Answer-key review
+- Stem: The three circulatory systems are the pulmonary, the systemic (caval) and the:
+- Key: E — portal system
+- Concern: The key names the hepatic portal pathway as a third circulation alongside systemic and pulmonary. Standard anatomy treats it as a specialised route within the systemic circulation. Confirm the course-specific classification and state it in the stem if intended.
+
+## dq-g-gvh3 — Answer-key review
+- Stem: The tunica intima consists of the endothelium and:
+- Key: B — an elastic lamina in collagenous tissue
+- Concern: The elastic lamina is prominent in many arterial intimas, but is inconspicuous or absent in many veins, and capillaries have no equivalent multilayered intima. Specify an artery or the vessel type intended by the keyed description.
+
+## dq-g-gvh4 — Answer-key review
+- Stem: In the vascular lecture, an arteriovenous shunt is also called a:
+- Key: C — metarteriole
+- Concern: The key equates an arteriovenous shunt with a metarteriole. In the capillary-bed model a metarteriole can feed the throughfare channel, while direct arteriovenous anastomoses are a distinct arrangement. Check the lecture terminology and clarify which structure is intended.
+
+## dq-g-gvh8 — Answer-key review
+- Stem: Which is NOT on the list of palpable arteries used clinically?
+- Key: B — Ulnar artery
+- Concern: The keyed ulnar artery is clinically palpable at the wrist, and the stem does not identify a specific list. If it tests the lecture's chosen list, cite that list or replace the distractor with a genuinely nonpalpable artery.
+
+## dq-g-gvh19 — Answer-key review
+- Stem: The ventral branches of the abdominal aorta are the coeliac trunk, SMA, IMA and:
+- Key: C — median sacral artery
+- Concern: The median sacral artery arises from the posterior aspect of the aorta near the bifurcation. The coeliac, superior mesenteric and inferior mesenteric arteries are the three unpaired anterior visceral branches, so there is no correct fourth ventral branch among the options.
+
+## dq-g-go3 — Answer-key review
+- Stem: Tubular (hollow) organs:
+- Key: A T, B T, C T, D T, E F
+- Concern: The stem includes blood and lymphatic vessels, but the key applies the mucosa–muscularis–adventitia model and immediate luminal epithelium across hollow organs. Vascular channels have endothelium and their own tunics, while many digestive segments have a distinct submucosa. Specify the system before keying the general wall plan.
+
+## dq-g-gos2 — Answer-key review
+- Stem: The innermost coat of a tubular organ consists of:
+- Key: B — epithelium and lamina propria
+- Concern: Epithelium and lamina propria describe a mucosa, but the stem applies to all tubular organs. The vascular tunica intima, for example, has endothelium and subendothelial tissue rather than a lamina propria. Specify a mucosa-lined tract.
+
+## dq-g-gog3 — Answer-key review
+- Stem: In a tubular organ, the vessels and nerves mainly run in the:
+- Key: C — connective tissue between muscle layers
+- Concern: The stem gives no organ. In the gut, major vessels and the submucosal plexus are chiefly in submucosa, while the myenteric plexus lies between muscularis externa layers. The keyed location describes only part of the distribution and cannot be applied generally.
+
+## dq-g-gog9 — Answer-key review
+- Stem: The left superior intercostal (highest intercostal) vein is found in the:
+- Key: D — superior mediastinum
+- Concern: The course described is that of the left superior intercostal vein, which crosses the aortic arch. The highest or supreme intercostal vein principally drains the first intercostal space and usually reaches the brachiocephalic vein separately. Clarify the intended vessel.
+
+## dq-g-gog15 — Answer-key review
+- Stem: Venous blood from the pericardium drains mainly into the:
+- Key: E — azygos system
+- Concern: Pericardial veins drain via both azygos tributaries and pericardiacophrenic veins that reach the brachiocephalic veins. The sources confirm the azygos pathway but do not establish that it carries most pericardial drainage. Specify the territory or ask for one route.
+
+## dq-g-goh7 — Answer-key review
+- Stem: Which system is given as having tubular organs with VARIED coats?
+- Key: C — Respiratory system
+- Concern: Wall coats vary among different airway segments, but other systems in the options also have substantial segmental variation. The stem asks for a teaching example without supplying the classification or specifying features such as cartilage. Confirm the intended lecture framing.
+
+## dq-g-goh22 — Answer-key review
+- Stem: The oblique sinus is formed by the reflection of serous pericardium around the:
+- Key: C — venae cavae and pulmonary veins
+- Concern: The oblique sinus is the blind recess between pulmonary venous reflections and the inferior vena cava behind the left atrium. The keyed option says both venae cavae, but the superior vena cava relates to the transverse sinus rather than bounding the oblique recess. Change the option to inferior vena cava and pulmonary veins.
+
+## dq-g-goh41 — Answer-key review
+- Stem: The tricuspid area of auscultation is the:
+- Key: B — right 5th intercostal space
+- Concern: The key specifies the right fifth intercostal space, but standard surface anatomy places tricuspid auscultation at the lower left sternal border, typically the fourth or fifth space. The stem does not specify a local lecture convention. Clarify that convention or key the left parasternal site.
+
+## dq-g-gr1 — Answer-key review
+- Stem: Components of the respiratory system:
+- Key: A T, B T, C T, D F, E T
+- Concern: The keyed respiratory division includes the lungs wholesale even though much of the airway inside them is conducting. The key also places trachea in the upper tract and excludes the larynx from the lower tract. Specify the course classification, and distinguish the gas-exchanging zone from the whole lung.
+
+## dq-g-gr13 — Answer-key review
+- Stem: The smooth muscle and blood vessels of the trachea are supplied by the:
+- Key: D — upper sympathetic trunk ganglia
+- Concern: The trachealis has parasympathetic supply via vagal and recurrent laryngeal fibres as well as sympathetic input. The sympathetic route is appropriate for vascular tone, but the stem combines vascular supply with smooth-muscle innervation without specifying which autonomic division.
+
+## dq-g-grs10 — Answer-key review
+- Stem: After puberty, the larynx in males differs most because:
+- Key: B — the rima glottidis nearly doubles
+- Concern: Male laryngeal growth after puberty lengthens the vocal folds and lowers voice pitch. Gray's nearly doubled measurement refers to the sagittal diameter of the thyroid cartilage, not a fixed measure of the rima glottidis, whose opening varies with position. Specify the structure and measurement.
+
+## dq-g-grs28 — Answer-key review
+- Stem: Bronchodilation is produced by:
+- Key: E — sympathetic fibres from T2–4
+- Concern: In humans, direct sympathetic innervation of airway smooth muscle is sparse or absent, and adrenergic bronchodilation is largely mediated by circulating adrenaline acting on beta-2 receptors. Clarify whether the item is testing the traditional general autonomic scheme or human physiology.
+
+## dq-g-grg1 — Answer-key review
+- Stem: The lower respiratory tract is made up of the:
+- Key: C — bronchi, bronchioles and lungs
+- Concern: The key places the trachea in the upper tract. Standard anatomical descriptions typically include the trachea in the lower respiratory tract, making trachea, bronchi and lungs the better choice under that convention. Specify the course classification if the current key is intentional.
+
+## dq-g-grg7 — Answer-key review
+- Stem: Which is an INTRINSIC laryngeal membrane or ligament?
+- Key: D — Quadrangular membrane
+- Concern: The quadrangular membrane is intrinsic, but the thyroepiglottic ligament also connects two laryngeal cartilages and is conventionally classified as intrinsic. Replace that distractor or specify an intrinsic membrane.
+
+## dq-g-grg18 — Answer-key review
+- Stem: The fibres of the right crus that encircle the oesophagus are supplied by the:
+- Key: E — left phrenic nerve
+- Concern: Both phrenic nerves supply parts of the right-crural sling around the oesophagus. The left supplies right-crural fibres to the left of the oesophagus, and the right supplies fibres on its right. Specify the side of the oesophagus to make the keyed answer unique.
+
+## dq-g-grh25 — Answer-key review
+- Stem: The left dome of the diaphragm reaches up to the:
+- Key: C — 6th costal cartilage
+- Concern: The height of the left diaphragmatic dome changes with breathing, posture and the reference line on the chest. Some standard descriptions put it near the fifth rib at expiration. Specify the conditions and source for the sixth costal cartilage.
+
+## dq-g-grh39 — Answer-key review
+- Stem: The manubriosternal and xiphisternal joints are classed as:
+- Key: B — synchondroses
+- Concern: The two joints should not share this standard classification. Gray describes the manubriosternal joint as usually a symphysis and the xiphisternal joint as a synchondrosis that commonly ossifies. Split the item or specify the lecturer's alternative convention.
+
+## dq-g-grh49 — Answer-key review
+- Stem: The receptors for the cough reflex in the tracheobronchial tree are:
+- Key: B — unmyelinated endings in the epithelium
+- Concern: The key only names unmyelinated epithelial endings. The cough reflex also depends on specialised myelinated vagal mechanoreceptors in the larynx, trachea and large bronchi, alongside unmyelinated C fibres. Specify one receptor class or include both in the keyed option.
+
+## dq-g-aaw-008 — Answer-key review
+- Stem: McBurney's point, used in the diagnosis of appendicitis, lies one-third of the way along a line from the umbilicus to the:
+- Key: C — anterior superior iliac spine
+- Concern: The right anterior superior iliac spine is the correct landmark for the line, but McBurney's point is one-third of the distance from that spine towards the umbilicus, or two-thirds from the umbilicus. Reverse the direction in the stem.
+
+## dq-g-aaw-014 — Answer-key review
+- Stem: A characteristic feature of the anterior abdominal wall compared with the limbs is that it has:
+- Key: D — no deep fascia
+- Concern: The wall lacks a thick continuous investing sheath like deep limb fascia, but thin investing fascia covers abdominal muscles and transversalis fascia lines the wall deeply. Qualify “no deep fascia” to distinguish the limb-type layer from these fascias.
+
+## dq-g-aaw-024 — Answer-key review
+- Stem: A defect in which layer is the fundamental basis of an abdominal wall hernia?
+- Key: D — transversalis fascia
+- Concern: Transversalis fascia is a key barrier at the groin, especially in a direct inguinal hernia, but anterior abdominal wall hernias can arise through defects elsewhere in the musculofascial wall, including the linea alba. Specify which anatomical hernia is meant.
+
+## dq-g-paw-001 — Answer-key review
+- Stem: The quadratus lumborum muscle inserts onto the:
+- Key: A — internal lip of the iliac crest
+- Concern: Standard attachment tables list the iliac crest and iliolumbar ligament as the origin. They list the twelfth rib and upper lumbar transverse processes as insertions. Rephrase as an inferior attachment if the crest is intended, or key the lumbar transverse processes for a conventional insertion.
+
+## dq-g-paw-022 — Answer-key review
+- Stem: In a type IV hiatus hernia, the characteristic finding is that the:
+- Key: B — entire stomach lies within the thorax
+- Concern: Type IV is defined by herniation of an organ or structure other than the stomach through the oesophageal hiatus, such as colon or omentum. An entirely intrathoracic stomach can occur in type III. Replace the keyed characteristic with the presence of additional herniated contents.
+
+## dq-g-git-006 — Answer-key review
+- Stem: The cardiac orifice of the stomach lies to the left of the midline at the level of:
+- Key: A — T10
+- Concern: The key places the cardiac orifice at T10, which usually describes the oesophageal hiatus. The short abdominal oesophagus continues to the cardia near T11, as another item in this file states. Add T11 as an option or clarify the intended reference.
+
+## dq-g-git-032 — Answer-key review
+- Stem: A carcinoma arising ABOVE the pectinate line of the anal canal is typically a(n):
+- Key: B — adenocarcinoma
+- Concern: Squamous cell carcinoma can arise above the dentate line and is the dominant histological type of anal canal cancer. Location alone does not make adenocarcinoma typical. Specify an origin in glandular or colorectal-type epithelium if adenocarcinoma is the intended diagnosis.
+
+## dq-g-git-039 — Answer-key review
+- Stem: The porta hepatis transmits the portal triad, which consists of the hepatic portal vein, common bile duct and the:
+- Key: D — proper hepatic artery
+- Concern: The proper hepatic artery is the intended arterial answer, but the stem puts the common bile duct at the porta hepatis. The duct at the hilum is hepatic, and the common bile duct starts after the cystic duct joins the common hepatic duct. Clarify the level or ask about the hepatoduodenal ligament.
+
+## dq-g-git-045 — Answer-key review
+- Stem: The cystohepatic triangle of Calot is bounded by the common hepatic duct, the cystic duct and the:
+- Key: E — cystic artery
+- Concern: In Calot's original triangle the cystic artery was the superior boundary. In the modern hepatocystic triangle the inferior liver surface is the superior boundary. The stem uses both names, and both structures are offered. Specify the historical or modern definition.
+
+## dq-g-urinary-005 — Answer-key review
+- Stem: During quiet respiration the kidneys move within their fascial sheath by about
+- Key: E — 2 to 3 cm, vertically only
+- Concern: Motion during quiet breathing varies substantially between people, between kidneys and by direction. It is predominantly craniocaudal, but 2–3 cm is towards the upper end of measured quiet-breathing excursion and is not exclusively vertical. Specify the intended conditions and use “predominantly” if retained.
+
+## dq-g-urinary-008 — Answer-key review
+- Stem: Downward tracking of a perinephric abscess toward the pelvis is possible because the renal fascia is
+- Key: C — weakly attached or open inferiorly
+- Concern: The traditional account describes an open inferior cone, but CT and anatomic studies show fusion of the fascial leaves inferiorly in many cases. Fluid can track through interfascial or other extraperitoneal planes without a universally open inferior fascia. Clarify the model asked about.
+
+## dq-g-urinary-014 — Answer-key review
+- Stem: At the renal hilum, the structures from superior to inferior are arranged as
+- Key: D — artery, vein, pelvis
+- Concern: The usual teaching order is vein, artery and pelvis from anterior to posterior. Superior-to-inferior relationships depend on the branching and configuration of the hilum. Verify the course's specific diagram or rephrase to test the standard front-to-back relationship.
+
+## dq-g-urinary-038 — Answer-key review
+- Stem: At the pelvic brim the ureter is constricted as it crosses the
+- Key: C — common iliac artery bifurcation
+- Concern: The ureter usually crosses at or near the common iliac bifurcation, but studies and modern anatomy sources distinguish that landmark or bend from a consistent intrinsic ureteral narrowing. Ask where the ureter crosses the pelvic brim if retaining the keyed vessel.
+
+## dq-g-urinary-063 — Answer-key review
+- Stem: The longest and widest, most dilatable part of the male urethra is the
+- Key: C — prostatic urethra
+- Concern: The prostatic urethra is the widest and most distensible part, but it is only about 3 cm long. The spongy urethra is the longest. Remove “longest” if retaining the prostatic segment as the key.
+
+## dq-g-urinary-066 — Answer-key review
+- Stem: The prostatic utricle, opening on the seminal colliculus, is a remnant of the
+- Key: A — paramesonephric ducts
+- Concern: The traditional description calls the utricle a Müllerian remnant, but human fetal immunohistochemical studies support development from urogenital sinus epithelium. Both origins are offered. Specify the historical model or update the key in light of the evidence.
+
+## dq-g-urinary-067 — Answer-key review
+- Stem: The spongy urethra drains lymph mainly to the
+- Key: B — superficial inguinal nodes
+- Concern: Distal spongy urethral lymph can reach both superficial and deep inguinal nodes, and sources differ regarding which group is primary. Specify the urethral segment and drainage convention, or offer both inguinal groups together.
+
+## dq-bio-nuc-024 — Answer-key review
+- Stem: Which tissues are emphasized in the lecture as strongly relying on purine salvage?
+- Key: C — Brain and leucocytes
+- Concern: The stem asks about lecture-specific emphasis, but the lecture source was unavailable. Salvage is important in brain and immune cells, but leucocytes vary and activated lymphocytes can have substantial de novo synthesis. Verify the named tissues against the lecture and clarify the cell state if needed.
+
+## dq-bio-nuc-064 — Answer-key review
+- Stem: Beta-alanine generated during uracil degradation can contribute to synthesis of which compound?
+- Key: D — Coenzyme A
+- Concern: Beta-alanine is part of the structure of pantothenate, a precursor of coenzyme A. Humans require dietary pantothenate and do not generally use uracil-derived free beta-alanine to make it. Specify an organism that synthesises pantothenate or ask for the structural relationship.
+
+## dq-bio-nuc-077 — Answer-key review
+- Stem: How many separate proteins contain the six key enzyme activities of mammalian de novo pyrimidine synthesis?
+- Key: B — Three multifunctional proteins
+- Concern: There are three proteins when counting CAD, dihydroorotate dehydrogenase and UMP synthase. Dihydroorotate dehydrogenase contributes one activity, so the keyed wording “three multifunctional proteins” is inaccurate. Replace it with “three proteins”.
+
+## dq-bio-immun-073 — Answer-key review
+- Stem: Two cytokines together produce a stronger effect than either alone. Their interaction is:
+- Key: D — Synergistic
+- Concern: An effect stronger than either cytokine alone can still be additive. To establish synergy in the strict sense, the combined response must exceed the expected additive response. Say “greater than the sum” or specify the course's broader convention.
+
+## dq-bio-immun-106 — Answer-key review
+- Stem: Which technique relies on an enzyme-linked reagent to produce a measurable colour signal?
+- Key: A — ELISA colour assay
+- Concern: ELISA is a standard enzyme-linked colour assay, but Western blots can also use enzyme-linked antibodies with chromogenic substrates. Both fit the detection description in the stem. Specify a plate-based immunosorbent assay or qualify the blot distractor.
+
+## dq-bio-collagen-011 — Answer-key review
+- Stem: In which cellular compartment does translation of collagen precursor chains begin?
+- Key: E — Rough endoplasmic reticulum
+- Concern: Translation starts on cytosolic ribosomes, and the emerging signal peptide then directs the ribosome to rough ER for cotranslational entry and continued synthesis. Key rough ER after rephrasing to ask where chains enter the secretory pathway or where most translation occurs.
+
+## dq-bio-molbio-025 — Answer-key review
+- Stem: What molecular problem arises when the final lagging-strand RNA primer is removed from a linear chromosome?
+- Key: D — The end lacks a template for gap filling
+- Concern: The problem after removal of the terminal lagging-strand primer is the lack of an upstream extendable 3′ hydroxyl on the new strand, not absence of the parental DNA template. The rationale recognises the primer problem, but the keyed option should be reworded.
+
+## dq-bio-molbio-064 — Answer-key review
+- Stem: Which nucleotide is activated during charging of a tRNA with its amino acid?
+- Key: D — ATP
+- Concern: ATP is consumed to activate the amino acid as aminoacyl-AMP, releasing pyrophosphate. The object being activated is the amino acid, so ask which nucleotide is used to activate it rather than “which nucleotide is activated”.
+
+## dq-bio-nuc-089 — Answer-key review
+- Stem: Which metabolic result explains the neurological and immune phenotype of severe ADA deficiency?
+- Key: C — dATP disrupts deoxynucleotide balance
+- Concern: Excess dATP and disturbed deoxynucleotide balance explain lymphocyte toxicity, but the mechanism of neurological manifestations is uncertain. The USIDNet analysis (PMC8216639) reports correlations in some cohorts, not a proven shared mechanism. Narrow the stem to the immune phenotype or acknowledge the neurological uncertainty.
+
+## dq-bio-immun-152 — Answer-key review
+- Stem: What distinguishes eradication of infection from elimination in a defined region?
+- Key: A — Eradication implies worldwide absence of the agent
+- Concern: Eradication means permanent reduction of worldwide incidence of infection to zero, not physical absence of the agent. Laboratory stocks can remain, as with smallpox. The keyed statement describes extinction if taken literally. Replace it with worldwide interruption of naturally occurring infection.
+
+## dq-bio-immun-174 — Answer-key review
+- Stem: Which method detects a soluble antigen by attaching it to carrier particles that visibly aggregate with antibody?
+- Key: A — Passive agglutination
+- Concern: The described antigen-coated particles indicate classical passive agglutination, but they are normally used to detect or measure antibody. For detection of an unknown soluble antigen, reverse passive agglutination ordinarily uses antibody-coated particles. Ask which method detects antibody using known antigen-coated particles, or revise the coating and option.
