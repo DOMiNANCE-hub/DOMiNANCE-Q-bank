@@ -19078,10 +19078,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Meckel's (ileal) diverticulum is a persistent portion of the vitelline duct.",
+      "why": "Meckel's diverticulum forms when part of the vitelline duct remains attached to the antimesenteric ileum. It is a true diverticulum because it contains all layers of the bowel wall.",
       "topicId": "g-gi",
       "subtopic": "Jejunum and ileum",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A false diverticulum does not contain all bowel-wall layers, unlike a typical congenital Meckel diverticulum.",
+        "C": "A Zenker diverticulum arises at the pharyngo-oesophageal junction rather than in the distal small bowel.",
+        "D": "Sigmoid diverticula are usually acquired outpouchings where vessels penetrate the colonic wall.",
+        "E": "A duodenal diverticulum arises in the proximal small intestine and has no connection to the vitelline duct."
+      }
     },
     {
       "id": "dq-g-git-023",
@@ -19110,10 +19116,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The ileum ends at the ileocaecal valve, entering the caecum.",
+      "why": "The terminal ileum enters the caecum through the ileocaecal opening. Its valve regulates movement into the large bowel and limits reflux of caecal contents.",
       "topicId": "g-gi",
       "subtopic": "Large intestine",
-      "difficulty": "easy"
+      "difficulty": "easy",
+      "notes": {
+        "A": "The anorectal junction is where the rectum meets the anal canal, far downstream from the ileum.",
+        "B": "The duodenojejunal flexure is the transition from duodenum to jejunum within the small bowel.",
+        "D": "The pyloric sphincter regulates gastric emptying, where chyme passes into the duodenum before reaching the ileum.",
+        "E": "The hepatic flexure connects ascending and transverse colon and lies beyond the caecum."
+      }
     },
     {
       "id": "dq-g-git-024",
@@ -19142,10 +19154,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The three teniae coli converge at the base of the appendix, guiding the surgeon to it.",
+      "why": "The taeniae coli converge on the caecum at the base of the vermiform appendix. This fixed point locates the appendix even when its tip lies behind the caecum or extends into the pelvis.",
       "topicId": "g-gi",
       "subtopic": "Large intestine",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The inferior epigastric vessels run in the abdominal wall rather than following the caecal surface.",
+        "B": "The right ureter descends behind the peritoneum, separate from the relatively fixed appendix base.",
+        "C": "The greater omentum can adhere to inflamed structures, but its edge is not a fixed caecal landmark.",
+        "E": "The small bowel mesentery carries vessels to the ileum rather than tracing the appendix's attachment."
+      }
     },
     {
       "id": "dq-g-git-025",
@@ -19174,10 +19192,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The ascending and descending colon are retroperitoneal; the transverse and sigmoid have a mesocolon.",
+      "why": "The ascending and descending colon usually become secondarily retroperitoneal as their mesocolons fuse to the posterior abdominal wall. Most of their anterior surfaces remain covered by peritoneum.",
       "topicId": "g-gi",
       "subtopic": "Large intestine",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The transverse and sigmoid segments have mesocolons that permit greater mobility within the peritoneal cavity.",
+        "B": "The caecum is usually peritonealised, while peritoneal coverage of the rectum varies with level.",
+        "C": "The transverse colon has its own mesocolon and is usually intraperitoneal and mobile.",
+        "D": "The sigmoid mesocolon suspends the sigmoid colon, allowing a mobile loop within the pelvis."
+      }
     },
     {
       "id": "dq-g-git-026",
@@ -19206,10 +19230,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Teniae coli are the three longitudinal muscle bands of the caecum and colon.",
+      "why": "The colon's outer longitudinal smooth muscle is concentrated in three bands called taeniae coli. Their tonic shortening contributes to the sacculated shape of the colon.",
       "topicId": "g-gi",
       "subtopic": "Large intestine",
-      "difficulty": "easy"
+      "difficulty": "easy",
+      "notes": {
+        "B": "Plicae circulares are circular mucosal and submucosal folds of the small intestine.",
+        "C": "Haustra are pouches of colonic wall between constrictions, partly shaped by the taeniae.",
+        "D": "Anal columns are longitudinal mucosal folds inside the upper anal canal, not external muscle bands.",
+        "E": "Omental appendices contain fat and project from the peritoneal surface of the colon."
+      }
     },
     {
       "id": "dq-g-git-027",
@@ -19238,10 +19268,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Haustra are the pouches produced by the relatively short teniae coli.",
+      "why": "The taeniae are shorter than the colonic wall they run along. Their tone contributes to segmenting the wall into bulging compartments called haustra.",
       "topicId": "g-gi",
       "subtopic": "Large intestine",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Papillae are small surface projections, such as the major papilla where ducts open into the duodenum.",
+        "C": "Villi are mucosal projections increasing the absorptive area of the small intestine.",
+        "D": "Rugae are distensible folds in the stomach rather than visible external colonic sacculations.",
+        "E": "Circular plicae are small-intestinal wall folds and differ from the large bowel's pouch-like shape."
+      }
     },
     {
       "id": "dq-g-git-028",
@@ -19270,10 +19306,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Omental (epiploic) appendices are fat-filled tags of visceral peritoneum on the colon.",
+      "why": "Epiploic appendices are small fat-filled projections suspended from the colonic surface by a peritoneal covering. They are separate from the wall outpouchings that form the haustra.",
       "topicId": "g-gi",
       "subtopic": "Large intestine",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The columns of Morgagni are mucosal ridges within the anal canal rather than external fat tags.",
+        "B": "Mesenteric fat is in a sheet that carries vessels to the bowel rather than discrete appendages on the colon.",
+        "D": "Haustra are sacculations of the whole colonic wall and can contain bowel contents.",
+        "E": "Taeniae coli are smooth muscle bands running lengthwise on the colon beneath its serosal covering."
+      }
     },
     {
       "id": "dq-g-git-029",
@@ -19302,10 +19344,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The rectum begins at S3, following the sacral curve.",
+      "why": "The sigmoid colon becomes the rectum around S3, near the termination of the sigmoid mesocolon. The rectum then follows the curve of the sacrum and coccyx.",
       "topicId": "g-gi",
       "subtopic": "Rectum and anal canal",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "S5 lies low in the pelvis, along the distal course of the rectum rather than its beginning.",
+        "B": "L5 is near the lumbosacral transition, above the usual rectosigmoid junction.",
+        "C": "S2 is superior to the usual anatomical landmark for the start of the rectum.",
+        "E": "S1 is near the sacral promontory, above the portion of sigmoid colon that continues as rectum."
+      }
     },
     {
       "id": "dq-g-git-030",
@@ -19334,10 +19382,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The rectum has no teniae coli, haustra or omental appendices; the teniae broaden into continuous muscle.",
+      "why": "At the rectosigmoid junction the longitudinal bands broaden and merge into a continuous outer muscle coat. As a result the rectum has no separate taeniae coli.",
       "topicId": "g-gi",
       "subtopic": "Rectum and anal canal",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Transverse rectal folds, often called valves of Houston, project into the rectal lumen.",
+        "B": "The rectum has a distal ampulla that can expand to retain faeces temporarily.",
+        "C": "The wall contains smooth muscle, with a continuous longitudinal layer rather than separate bands.",
+        "D": "The rectum is lined by mucosa with intestinal epithelium, continuous with the lining of the colon."
+      }
     },
     {
       "id": "dq-g-git-031",
@@ -19366,10 +19420,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The pectinate line divides the endodermal upper two-thirds from the ectodermal lower third.",
+      "why": "The pectinate line follows the anal valves at the lower ends of the anal columns. It marks an important boundary between upper and lower anal canal regions with different embryological and neurovascular origins.",
       "topicId": "g-gi",
       "subtopic": "Rectum and anal canal",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "The anorectal ring is a higher muscular landmark near the transition from rectum to anal canal.",
+        "C": "The white line of Hilton is below the pectinate line near the intersphincteric groove.",
+        "D": "The anal verge is the external opening and lies below the internal pectinate line.",
+        "E": "The perineal body is a fibromuscular structure anterior to the canal, outside its lumen."
+      }
     },
     {
       "id": "dq-g-git-032",
@@ -19430,10 +19490,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The external anal sphincter is skeletal muscle; the internal sphincter is smooth muscle.",
+      "why": "The external anal sphincter consists of striated skeletal muscle under somatic control. It can contract voluntarily to help maintain continence, complementing the resting tone of the internal smooth muscle sphincter.",
       "topicId": "g-gi",
       "subtopic": "Rectum and anal canal",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Elastic connective tissue provides passive support but cannot contract voluntarily to close the canal.",
+        "B": "Transitional epithelium lines much of the urinary tract and is a surface tissue, not a sphincter.",
+        "D": "The thickened circular smooth muscle of the canal forms the internal rather than external anal sphincter.",
+        "E": "Cardiac muscle is specialised for the myocardium and does not make up the external sphincter."
+      }
     },
     {
       "id": "dq-g-git-034",
@@ -19462,10 +19528,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The liver is the largest gland, about 1.5 kg.",
+      "why": "The liver is the largest gland, typically weighing around 1.5 kg in adults. Its hepatocytes produce bile and carry out extensive metabolic, synthetic and detoxification functions.",
       "topicId": "g-gi",
       "subtopic": "Liver",
-      "difficulty": "easy"
+      "difficulty": "easy",
+      "notes": {
+        "A": "The spleen is a lymphoid organ that filters blood and is normally much smaller than the liver.",
+        "B": "The parotid is the largest salivary gland, but its mass is far below that of the liver.",
+        "C": "The kidney filters plasma and produces urine but is neither as large nor classed as the largest gland.",
+        "E": "The pancreas is a mixed endocrine and exocrine gland, considerably smaller than the liver."
+      }
     },
     {
       "id": "dq-g-git-035",
@@ -19494,10 +19566,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The quadrate lobe lies between the gallbladder fossa and the fissure for the round ligament.",
+      "why": "The quadrate lobe is on the visceral surface of the liver. Its side boundaries are the gallbladder fossa and the fissure containing the round ligament, with the porta hepatis behind it.",
       "topicId": "g-gi",
       "subtopic": "Liver",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The inferior caval groove lies beside the caudate lobe rather than the anterior quadrate area.",
+        "B": "The fissure for ligamentum venosum is behind the porta hepatis and borders the caudate lobe.",
+        "C": "The porta hepatis forms a posterior boundary of the quadrate lobe rather than the boundary opposite the gallbladder.",
+        "D": "The bare area lies posterosuperiorly against the diaphragm, away from the quadrate lobe's margins."
+      }
     },
     {
       "id": "dq-g-git-036",
@@ -19526,10 +19604,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The caudate lobe lies between the IVC, the fissure for the ligamentum venosum and the porta hepatis.",
+      "why": "The caudate lobe lies on the posterior visceral surface between the groove for the inferior vena cava and the fissure for ligamentum venosum. The porta hepatis separates it from the quadrate lobe below.",
       "topicId": "g-gi",
       "subtopic": "Liver",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "The round ligament lies in the anterior left fissure, next to the quadrate rather than caudate lobe.",
+        "C": "The gallbladder fossa is next to the quadrate lobe, anterior to the porta hepatis.",
+        "D": "The falciform ligament attaches to the anterior surface and is not one of the caudate lobe's side boundaries.",
+        "E": "The coronary ligament encloses the bare area farther posterosuperiorly and does not bound the caudate lobe medially."
+      }
     },
     {
       "id": "dq-g-git-037",
@@ -19558,10 +19642,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The ligamentum teres is the obliterated left umbilical vein, lying in the free edge of the falciform ligament.",
+      "why": "The fetal left umbilical vein carries placental blood towards the liver. After birth it obliterates and forms the round ligament within the free margin of the falciform ligament.",
       "topicId": "g-gi",
       "subtopic": "Liver",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "After closure the ductus arteriosus forms the ligamentum arteriosum between the arch and left pulmonary artery.",
+        "C": "The ductus venosus forms ligamentum venosum in a more posterior hepatic fissure.",
+        "D": "Distal portions of the umbilical arteries form the paired medial umbilical ligaments on the abdominal wall.",
+        "E": "The vitelline duct joins the developing midgut to the yolk sac and may persist as Meckel's diverticulum."
+      }
     },
     {
       "id": "dq-g-git-038",
@@ -19590,10 +19680,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The ligamentum venosum is the fibrous remnant of the fetal ductus venosus.",
+      "why": "The fetal ductus venosus provides a route for placental blood to bypass much of the hepatic circulation. Its closure after birth leaves ligamentum venosum in the posterior left hepatic fissure.",
       "topicId": "g-gi",
       "subtopic": "Liver",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The ductus arteriosus forms the ligamentum arteriosum in the thorax rather than a ligament in the liver.",
+        "B": "The vitelline duct can persist at its intestinal end as Meckel's diverticulum and does not form ligamentum venosum.",
+        "D": "The left umbilical vein forms the round ligament in the free margin of the falciform ligament.",
+        "E": "The distal umbilical arteries form medial umbilical ligaments alongside the anterior midline of the pelvis and abdomen."
+      }
     },
     {
       "id": "dq-g-git-039",
@@ -19654,10 +19750,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Cantlie's line runs from the IVC to the gallbladder fossa, dividing the liver functionally.",
+      "why": "Cantlie's line runs from the gallbladder fossa to the inferior vena cava. It corresponds to the main portal scissura, approximately along the middle hepatic vein, separating right and left functional hepatic territories.",
       "topicId": "g-gi",
       "subtopic": "Liver",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The falciform ligament is an anatomical surface landmark, while the functional plane follows major vascular territories.",
+        "B": "The fissure for the round ligament forms an anatomical surface landmark left of the functional division.",
+        "C": "The coronary ligament forms peritoneal reflections around the bare area rather than defining the main portal scissura.",
+        "D": "The bare area relates to direct contact with the diaphragm and does not separate vascular territories."
+      }
     },
     {
       "id": "dq-g-git-041",
@@ -19686,10 +19788,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The liver is held chiefly by the hepatic veins draining into the IVC.",
+      "why": "Short hepatic veins anchor the liver to the inferior vena cava where it runs in the posterior caval groove. Peritoneal ligaments and surrounding pressure also contribute to keeping the liver in place.",
       "topicId": "g-gi",
       "subtopic": "Liver",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "The falciform ligament suspends the liver anteriorly but provides less fixation than its short hepatic venous connections.",
+        "C": "The round ligament is the obliterated umbilical vein and connects the liver region to the umbilicus.",
+        "D": "The coronary ligament is a peritoneal connection at the bare area, whereas hepatic veins fix the liver to the cava.",
+        "E": "The lesser omentum links the liver to the stomach and duodenum but does not provide its strongest posterior fixation."
+      }
     },
     {
       "id": "dq-g-git-042",
@@ -19718,10 +19826,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Bile leaves the gallbladder via the cystic duct, which joins the common hepatic duct to form the CBD.",
+      "why": "The cystic duct connects the gallbladder to the main biliary pathway. It meets the common hepatic duct to form the common bile duct, which carries bile towards the duodenum.",
       "topicId": "g-gi",
       "subtopic": "Gallbladder",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "An accessory hepatic duct can provide variant liver drainage, rather than being the usual outlet of the gallbladder.",
+        "C": "The common hepatic duct drains the liver before joining the cystic duct, which carries bile from the gallbladder.",
+        "D": "The main pancreatic duct carries pancreatic secretion and usually approaches the bile duct near their duodenal opening.",
+        "E": "The right hepatic duct drains the right liver and joins the left hepatic duct upstream of the gallbladder junction."
+      }
     },
     {
       "id": "dq-g-git-043",
@@ -19750,10 +19864,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The ducts join at the ampulla of Vater, which opens at the major duodenal papilla.",
+      "why": "The ampulla of Vater is the common channel usually formed when the main pancreatic duct and common bile duct unite within the duodenal wall. It opens at the major duodenal papilla.",
       "topicId": "g-gi",
       "subtopic": "Gallbladder",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Oddi denotes the sphincter surrounding the distal ductal and ampullary region, rather than the ampulla itself.",
+        "B": "The sphincter of Oddi controls the terminal ducts and ampulla rather than naming the common channel.",
+        "D": "Santorini is the name of the accessory pancreatic duct, which can open at the minor duodenal papilla.",
+        "E": "The duct of Wirsung is the main pancreatic duct upstream of its usual union with the common bile duct."
+      }
     },
     {
       "id": "dq-g-git-044",
@@ -19782,10 +19902,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "CCK (with vagal input) contracts the gallbladder and relaxes the sphincter of Oddi.",
+      "why": "Fat and amino acids reaching the small intestine stimulate cholecystokinin release. Cholecystokinin contracts the gallbladder and coordinates relaxation of the biliary sphincter to release bile, with support from vagal pathways.",
       "topicId": "g-gi",
       "subtopic": "Gallbladder",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Gastrin mainly promotes gastric acid secretion and does not drive the main postprandial gallbladder contraction.",
+        "B": "Somatostatin inhibits several gastrointestinal secretions and hormonal signals rather than being the main stimulus for bile expulsion.",
+        "C": "Motilin helps initiate the migrating motor complex in the fasting state, rather than coordinating meal-stimulated gallbladder emptying.",
+        "E": "Secretin increases bicarbonate-rich fluid from pancreatic and biliary ducts, while cholecystokinin contracts the gallbladder."
+      }
     },
     {
       "id": "dq-g-git-045",
@@ -19846,10 +19972,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The tail of the pancreas is the only intraperitoneal part, lying in the splenorenal ligament.",
+      "why": "Most of the pancreas becomes secondarily retroperitoneal, but its tail can extend to the splenic hilum between layers of the splenorenal ligament. This is the exception to the main retroperitoneal position.",
       "topicId": "g-gi",
       "subtopic": "Pancreas",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "The head lies within the duodenal curve and is fixed to the posterior abdominal wall.",
+        "C": "The neck lies in front of the portal venous confluence and is part of the main retroperitoneal gland.",
+        "D": "The uncinate process extends from the head behind the mesenteric vessels in the retroperitoneal region.",
+        "E": "The body crosses the posterior abdominal wall behind the lesser sac before continuing into the tail."
+      }
     },
     {
       "id": "dq-g-git-047",
@@ -19878,10 +20010,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The uncinate process projects behind the superior mesenteric artery.",
+      "why": "The uncinate process projects medially from the pancreatic head and curves behind the superior mesenteric vessels. The pancreatic neck lies in front of the vessels higher up.",
       "topicId": "g-gi",
       "subtopic": "Pancreas",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The left renal vein crosses in front of the aorta behind the mesenteric artery and is generally a deeper relation.",
+        "C": "The common bile duct runs along the posterior pancreatic head, rather than passing in front of the uncinate process.",
+        "D": "Splenic vessels run mainly along the pancreatic body and tail, leftward and superior to the uncinate process.",
+        "E": "The portal vein forms behind the neck higher up, whereas the superior mesenteric artery crosses the uncinate process anteriorly."
+      }
     },
     {
       "id": "dq-g-git-048",
@@ -19910,10 +20048,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The pancreatic tail ends at the splenic hilum and contains the most islets of Langerhans.",
+      "why": "The pancreatic tail extends left between layers of the splenorenal ligament to the splenic hilum. Splenic vessels are closely related to the tail near this termination.",
       "topicId": "g-gi",
       "subtopic": "Pancreas",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The left colic flexure lies inferiorly near the spleen and does not receive the pancreatic tail.",
+        "B": "The porta hepatis is on the liver and lies away from the leftward course of the pancreatic tail.",
+        "D": "The left kidney is posterior and medial to the splenic hilum, where the pancreatic tail ends.",
+        "E": "The gastric fundus is anterior to the spleen nearby but is not the pancreatic tail's termination."
+      }
     },
     {
       "id": "dq-g-git-049",
@@ -19942,10 +20086,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The main pancreatic duct is the duct of Wirsung; the accessory duct is that of Santorini.",
+      "why": "The duct of Wirsung is the main pancreatic duct that collects secretion along the length of the pancreas. It usually joins the common bile duct before opening at the major duodenal papilla.",
       "topicId": "g-gi",
       "subtopic": "Pancreas",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Vater names the ampulla formed where the main pancreatic and common bile ducts usually unite.",
+        "B": "Oddi names the muscular sphincter that regulates flow near the end of those ducts.",
+        "C": "Wharton's duct drains the submandibular salivary gland into the oral cavity, far from the pancreas.",
+        "E": "Santorini is the accessory pancreatic duct, typically associated with the minor duodenal papilla."
+      }
     },
     {
       "id": "dq-g-git-050",
@@ -19974,10 +20124,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Islet beta cells secrete insulin; alpha cells glucagon; delta cells somatostatin.",
+      "why": "Pancreatic beta cells are endocrine cells that release insulin into islet capillaries when blood glucose rises. Insulin promotes nutrient uptake and storage and helps lower circulating glucose.",
       "topicId": "g-gi",
       "subtopic": "Pancreas",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Alpha cells secrete glucagon, which supports glucose availability between meals rather than mediating insulin's actions.",
+        "B": "Delta cells release somatostatin, which modulates secretion of other hormones within the islet.",
+        "C": "Pancreatic polypeptide cells release pancreatic polypeptide rather than being the principal source of insulin.",
+        "D": "Acinar cells are exocrine cells that secrete digestive enzymes into ducts rather than hormones into blood."
+      }
     },
     {
       "id": "dq-g-git-051",
@@ -20006,10 +20162,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The spleen lies in the left hypochondrium beneath ribs 9-11.",
+      "why": "The spleen lies against the left diaphragmatic dome behind ribs 9–11. Its long axis follows roughly the tenth rib, which helps locate it in the left hypochondrium.",
       "topicId": "g-gi",
       "subtopic": "Spleen",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "The fifth to seventh ribs are higher than the usual projection of the spleen under the left costal cage.",
+        "C": "The ninth rib is near the superior aspect, but this range omits the tenth and eleventh ribs covering the organ.",
+        "D": "The eleventh rib is near its lower projection, but most of the spleen lies above the twelfth rib.",
+        "E": "The second through fourth ribs are high in the chest and far above the normal splenic position."
+      }
     },
     {
       "id": "dq-g-git-052",
@@ -20038,10 +20200,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The gastrosplenic and splenorenal (lienorenal) ligaments attach at the splenic hilum.",
+      "why": "The splenorenal ligament connects the splenic hilum to the posterior abdominal wall near the left kidney. It carries the splenic vessels and pancreatic tail, while the gastrosplenic ligament connects the hilum to the stomach.",
       "topicId": "g-gi",
       "subtopic": "Spleen",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The hepatoduodenal ligament runs from liver to proximal duodenum and encloses the portal triad.",
+        "C": "The falciform ligament connects the liver region to the anterior abdominal wall, without attaching to the spleen.",
+        "D": "The coronary ligament forms peritoneal reflections around the hepatic bare area, separate from the splenic hilum.",
+        "E": "The phrenicocolic ligament forms a shelf below the spleen but does not attach to its hilum."
+      }
     },
     {
       "id": "dq-g-git-053",
@@ -20070,10 +20238,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The vagus supplies foregut and midgut; pelvic splanchnics supply the hindgut.",
+      "why": "Vagal trunks carry preganglionic parasympathetic fibres to foregut and midgut organs. They act through local ganglia to influence gastrointestinal secretion and motility, while the distal hindgut receives sacral parasympathetic input.",
       "topicId": "g-ans",
       "subtopic": "Autonomic innervation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Lumbar splanchnic nerves carry sympathetic fibres to abdominal and pelvic plexuses, rather than parasympathetic foregut supply.",
+        "B": "The phrenic nerve supplies diaphragmatic muscle and central serosal sensation, rather than gastrointestinal parasympathetic fibres.",
+        "D": "Pelvic splanchnic nerves carry sacral parasympathetic fibres chiefly to the hindgut and pelvic organs.",
+        "E": "The greater splanchnic nerve primarily carries thoracic sympathetic preganglionic fibres to upper abdominal ganglia."
+      }
     },
     {
       "id": "dq-g-git-054",
@@ -20102,10 +20276,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Pelvic splanchnic nerves (S2-S4) supply the hindgut; the vagus supplies foregut and midgut.",
+      "why": "Pelvic splanchnic nerves arise from S2–S4 anterior rami and carry preganglionic parasympathetic fibres to the hindgut and pelvic organs. Their fibres travel through pelvic plexuses towards the distal bowel.",
       "topicId": "g-ans",
       "subtopic": "Autonomic innervation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Greater splanchnic fibres are mainly preganglionic sympathetic fibres to upper abdominal ganglia.",
+        "B": "The least splanchnic nerve carries thoracic sympathetic fibres towards upper abdominal plexuses, particularly the renal region.",
+        "C": "Lumbar splanchnic nerves provide sympathetic routes to lower abdominal and pelvic plexuses.",
+        "E": "Vagal parasympathetic supply serves foregut and midgut structures rather than the standard sacral hindgut territory."
+      }
     },
     {
       "id": "dq-g-git-055",
@@ -20134,10 +20314,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The greater splanchnic nerve synapses in the coeliac ganglion.",
+      "why": "The greater thoracic splanchnic nerve carries chiefly preganglionic sympathetic fibres from about T5–T9. Most pass through the sympathetic trunk and synapse in the coeliac ganglia supplying foregut territories.",
       "topicId": "g-ans",
       "subtopic": "Autonomic innervation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Superior mesenteric ganglia primarily serve midgut territories, while the coeliac ganglia are the usual principal target of the greater splanchnic nerve.",
+        "B": "The aorticorenal ganglion is associated with renal sympathetic supply and commonly receives fibres from the lesser splanchnic nerve.",
+        "C": "The inferior mesenteric ganglion lies lower and supplies sympathetic fibres to hindgut territories.",
+        "D": "The fibres pass through the thoracic sympathetic trunk before reaching prevertebral ganglia rather than chiefly synapsing in the chain."
+      }
     },
     {
       "id": "dq-g-git-056",
@@ -20166,10 +20352,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Sympathetic preganglionics synapse in the coeliac, superior and inferior mesenteric ganglia.",
+      "why": "Preganglionic sympathetic fibres reach ganglia near the roots of the gut arteries, including the coeliac and superior and inferior mesenteric ganglia. Postganglionic fibres then follow arterial branches to the viscera.",
       "topicId": "g-ans",
       "subtopic": "Autonomic innervation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Intramural terminal ganglia receive many parasympathetic synapses and are not the main site for preganglionic sympathetic gut fibres.",
+        "C": "Dorsal root ganglia contain sensory cell bodies and are not sites of autonomic efferent synapses.",
+        "D": "The otic and ciliary ganglia are parasympathetic ganglia of the head, unrelated to sympathetic gut supply.",
+        "E": "The geniculate ganglion contains sensory cell bodies of the facial nerve rather than sympathetic neurons supplying the bowel."
+      }
     },
     {
       "id": "dq-g-git-057",
@@ -20198,10 +20390,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Parasympathetic preganglionics synapse in terminal (intramural) ganglia within the gut wall.",
+      "why": "Vagal and pelvic splanchnic preganglionic fibres approach the gut and synapse in small terminal ganglia within or near its wall. Short postganglionic neurons influence secretion, smooth muscle and local circuits.",
       "topicId": "g-ans",
       "subtopic": "Autonomic innervation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The superior mesenteric ganglion is mainly a sympathetic relay, even though parasympathetic fibres can traverse nearby plexuses.",
+        "C": "The sympathetic chain contains relay ganglia for some sympathetic outputs rather than the gut's parasympathetic relays.",
+        "D": "The coeliac ganglia relay sympathetic fibres supplying foregut structures rather than the usual vagal parasympathetic synapses.",
+        "E": "Dorsal root ganglia contain sensory neuron cell bodies and do not relay parasympathetic efferent signals."
+      }
     },
     {
       "id": "dq-g-git-058",
@@ -20230,10 +20428,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Foregut pain (T5-T9) is referred to the epigastric region.",
+      "why": "Visceral pain from foregut organs enters upper and middle thoracic spinal segments and is commonly perceived in the midline epigastrium. It can be poorly localised until adjacent parietal structures are involved.",
       "topicId": "g-ans",
       "subtopic": "Autonomic innervation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Right iliac fossa pain can develop when the parietal peritoneum near an inflamed appendix is irritated.",
+        "B": "The left hypochondrium overlies part of the stomach, but the typical foregut referral pattern is midline epigastric.",
+        "D": "The umbilical region is the usual referral area for visceral pain from midgut structures.",
+        "E": "Suprapubic referral is associated more with hindgut or pelvic structures than with foregut."
+      }
     },
     {
       "id": "dq-g-git-059",
@@ -20262,10 +20466,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Midgut pain (T10-T11) is referred to the umbilical region before localising.",
+      "why": "Early appendiceal inflammation stimulates visceral afferents from the midgut, commonly entering spinal levels near T10. The brain initially refers the pain to the umbilical region before local peritoneal irritation can sharpen it.",
       "topicId": "g-ans",
       "subtopic": "Autonomic innervation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The suprapubic region is more typical of referred pain from hindgut or pelvic organs.",
+        "B": "The right iliac fossa becomes painful when adjacent parietal peritoneum is involved, rather than being the usual early midgut referral.",
+        "C": "The left lumbar region is not the typical segmental referral area for an inflamed midgut derivative.",
+        "E": "Epigastric referral is more typical of foregut visceral pain."
+      }
     },
     {
       "id": "dq-g-git-060",
@@ -20294,10 +20504,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Hindgut pain (L1-L2) is referred to the suprapubic (hypogastric) region.",
+      "why": "Visceral afferents from hindgut structures enter lower thoracic and upper lumbar segments. Pain is often perceived in the lower midline hypogastric or suprapubic region rather than being sharply localised to descending colon.",
       "topicId": "g-ans",
       "subtopic": "Autonomic innervation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Epigastric referral is typical for foregut structures such as the stomach.",
+        "B": "The umbilical region is the classic initial referral site for midgut pain.",
+        "C": "The right hypochondrium lies over hepatobiliary structures and is lateral to the usual hindgut referral area.",
+        "D": "The right iliac fossa is the common site of localised appendiceal pain after parietal peritoneal irritation."
+      }
     },
     {
       "id": "dq-g-urinary-001",
@@ -20326,10 +20542,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The kidneys lie against the posterior abdominal wall from about T12 to L3.",
+      "why": "In a supine adult the kidneys usually span about T12 to L3 on the posterior abdominal wall. The right kidney sits a little lower because of the liver.",
       "topicId": "g-urinary",
       "subtopic": "Kidney location",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "T8 to T12 lies mostly in the thorax and is too high for the full renal projection.",
+        "C": "L2 to L5 omits the upper parts of the kidneys and extends below their usual lower poles.",
+        "D": "The T10 to L1 range is too high overall and does not include the usual lower poles.",
+        "E": "The L1 to S1 range is too low overall and extends beyond the kidneys towards the pelvis."
+      }
     },
     {
       "id": "dq-g-urinary-002",
@@ -20358,10 +20580,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Each kidney lies obliquely with its long axis along the lateral border of psoas major.",
+      "why": "Each kidney lies obliquely on the posterior wall along the lateral border of psoas major. Its upper pole is consequently nearer the midline than its lower pole.",
       "topicId": "g-urinary",
       "subtopic": "Kidney location",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Iliacus primarily fills the iliac fossa below the kidneys and does not determine their longitudinal orientation.",
+        "C": "Quadratus lumborum is a posterior relation, but the oblique renal axis follows the lateral margin of psoas.",
+        "D": "Transversus abdominis is a broad sheet in the abdominal wall, lateral to the psoas alignment of the kidneys.",
+        "E": "Erector spinae runs posterior to the vertebral processes, behind the posterior abdominal wall and renal bed."
+      }
     },
     {
       "id": "dq-g-urinary-003",
@@ -20390,10 +20618,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The oblique lie brings the upper pole closer to the midline (and more posterior) than the lower pole.",
+      "why": "The kidneys follow the oblique course of psoas major on the posterior abdominal wall. Their upper poles converge towards the midline, while their lower poles sit farther lateral.",
       "topicId": "g-urinary",
       "subtopic": "Kidney location",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The upper pole is generally more posterior rather than leaning forward, and its medial position is the key relation.",
+        "B": "The upper pole relates to the diaphragm and lower ribs above the level of the iliac crest.",
+        "D": "The lower poles are farther apart because the kidneys' long axes slope downwards and outwards.",
+        "E": "The renal axes are oblique, so each upper pole is medial as well as superior to its lower pole."
+      }
     },
     {
       "id": "dq-g-urinary-004",
@@ -20422,10 +20656,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The transpyloric plane (L1) crosses the upper right hilum and the lower left hilum.",
+      "why": "The transpyloric plane near L1 reaches both renal hila, but the right kidney usually sits lower. The plane therefore cuts high in the right hilum and low in the left.",
       "topicId": "g-urinary",
       "subtopic": "Kidney location",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The kidneys are offset vertically, so the same horizontal plane usually does not bisect both hila.",
+        "B": "The lower poles extend below the hilar level and do not normally lie on the transpyloric plane.",
+        "C": "The upper poles lie above the hila, nearer the diaphragm and lower thoracic levels.",
+        "E": "This reverses the usual relation because the left kidney is higher than the right."
+      }
     },
     {
       "id": "dq-g-urinary-005",
@@ -20486,10 +20726,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Inside to outside: true fibrous capsule, perirenal fat, renal (Gerota's) fascia, then pararenal fat.",
+      "why": "A fibrous capsule is directly applied to the kidney. Perirenal fat surrounds it inside the renal fascia, while pararenal fat lies outside the fascia, especially posteriorly.",
       "topicId": "g-urinary",
       "subtopic": "Kidney coverings",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Renal fascia is external to the perirenal fat and does not directly contact the kidney surface.",
+        "C": "The fibrous capsule lies underneath the perirenal fat, and pararenal fat lies outside the fascia.",
+        "D": "These layers describe the reverse direction, starting outside the renal fascia and ending on the kidney.",
+        "E": "Perirenal fat is between the capsule and the renal fascia, rather than outside both layers."
+      }
     },
     {
       "id": "dq-g-urinary-007",
@@ -20518,10 +20764,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Renal fascia encloses the kidney, perirenal fat, vessels, upper ureter and the suprarenal gland.",
+      "why": "Renal fascia bounds the perirenal compartment, which contains the kidney, perirenal fat and suprarenal gland. A fascial partition and fat normally separate the adrenal region from the upper renal pole.",
       "topicId": "g-urinary",
       "subtopic": "Kidney coverings",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The second duodenal part is anterior to the right kidney but lies outside its perirenal fascia.",
+        "C": "The liver contacts the upper right renal region across tissue planes and is not inside the perirenal compartment.",
+        "D": "The spleen is peritonealised on the left and lies outside the fascia that surrounds the kidney and adrenal.",
+        "E": "Most of the pancreas is secondarily retroperitoneal, but it is in a separate compartment anterior to renal fascia."
+      }
     },
     {
       "id": "dq-g-urinary-008",
@@ -20582,10 +20834,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Nephroptosis ('floating kidney') is descent >5 cm from poor fascial/fat support and can kink the ureter.",
+      "why": "Nephroptosis is excessive downward kidney displacement on standing compared with lying down, conventionally about 5 cm or two vertebral bodies. The kidney may return to its higher position when the person lies down.",
       "topicId": "g-urinary",
       "subtopic": "Clinical",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Nephrolithiasis refers to stones within the kidney rather than abnormal mobility of the whole organ.",
+        "B": "A horseshoe kidney results from fusion, usually at the lower poles, and is a developmental anomaly.",
+        "C": "Polycystic kidney disease is characterised by multiple cysts, rather than descent on changes in posture.",
+        "E": "Hydronephrosis is dilatation of the renal collecting system and can occur with obstruction, rather than naming abnormal renal movement."
+      }
     },
     {
       "id": "dq-g-urinary-010",
@@ -20614,10 +20872,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The renal sinus, entered through the hilum, contains the renal pelvis, calyces, vessels and nerves in fat.",
+      "why": "The renal sinus is a central recess entered through the hilum. It contains the calyces, renal pelvis, vessels and nerves embedded in fat that continues with the surrounding perirenal fat.",
       "topicId": "g-urinary",
       "subtopic": "Kidney structure",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A renal column is cortical tissue lying between pyramids, rather than an internal space containing calyces and vessels.",
+        "B": "A renal pyramid is collecting tissue in the medulla and projects towards the sinus at its papilla.",
+        "C": "A renal papilla is the tip of a pyramid through which collecting ducts discharge into a minor calyx.",
+        "D": "Perinephric space surrounds the kidney externally, while the sinus extends inside the hilum."
+      }
     },
     {
       "id": "dq-g-urinary-011",
@@ -20646,10 +20910,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The pelvicalyceal system holds roughly 8 ml, which matters when injecting contrast.",
+      "why": "The pelvis and calyces form a small collecting space rather than a reservoir for stored urine. A usual anatomical estimate for their combined capacity is about 8 mL, with individual variation.",
       "topicId": "g-urinary",
       "subtopic": "Kidney structure",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Eighty millilitres is about ten times the usual estimate and far exceeds a normal collecting space.",
+        "C": "Forty millilitres is much larger than the volume normally held by a nondilated pelvicalyceal system.",
+        "D": "One millilitre underestimates the combined space of the renal pelvis and all the calyces.",
+        "E": "Twenty-five millilitres is several times the usual estimate for a normal nondilated system."
+      }
     },
     {
       "id": "dq-g-urinary-012",
@@ -20678,10 +20948,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Renal columns of Bertin are cortical extensions separating the pyramids.",
+      "why": "Renal columns are projections of the cortex that extend inward between the medullary pyramids. Their cortical tissue separates neighbouring pyramids and contains vessels that run between them.",
       "topicId": "g-urinary",
       "subtopic": "Kidney structure",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The renal sinus is a fat-containing central recess rather than a continuation of the cortex.",
+        "C": "Renal papillae are the tips of medullary pyramids and project into minor calyces.",
+        "D": "Medullary rays are bundles of straight tubules within cortex, not broad cortical columns between pyramids.",
+        "E": "Minor calyces are urine-collecting cups around papillae, rather than extensions of renal parenchyma."
+      }
     },
     {
       "id": "dq-g-urinary-013",
@@ -20710,10 +20986,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The papilla is the pyramid apex; its papillary ducts open into the minor calyx.",
+      "why": "A renal papilla is the apex of a medullary pyramid projecting into its minor calyx. Openings of papillary ducts at the tip allow urine to enter the collecting system.",
       "topicId": "g-urinary",
       "subtopic": "Kidney structure",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The renal sinus contains the collecting structures and other hilar contents rather than forming a pyramid apex.",
+        "B": "A major calyx receives several minor calyces, so it is downstream from the papillary opening.",
+        "D": "A renal column lies between adjacent pyramids and consists of cortical rather than medullary tissue.",
+        "E": "The hilum is the medial opening for the renal vessels and pelvis, not an individual pyramid tip."
+      }
     },
     {
       "id": "dq-g-urinary-014",
@@ -20774,10 +21056,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "A pelvis that protrudes outside the parenchyma is easier to open surgically for stones than a buried (intrarenal) pelvis.",
+      "why": "An extrarenal pelvis projects beyond the renal sinus and is easier to expose without traversing as much parenchyma. This can make direct surgical access to pelvic stones easier than with an intrarenal pelvis.",
       "topicId": "g-urinary",
       "subtopic": "Clinical",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The projection does not prevent removal of the kidney and may make exposure of the pelvis easier.",
+        "B": "An extrarenal pelvis is an anatomical variant and can drain urine normally from a functioning kidney.",
+        "C": "Hydronephrosis requires dilation of the collecting system, while a prominent extrarenal pelvis can occur without obstruction.",
+        "D": "The shape of the renal pelvis does not by itself determine the overall length of the ureter."
+      }
     },
     {
       "id": "dq-g-urinary-016",
@@ -20806,10 +21094,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The renal arteries leave the aorta at L2, just below the superior mesenteric artery.",
+      "why": "Renal arteries usually arise from the lateral aorta just below the superior mesenteric artery, near the L1–L2 disc or upper L2 level. The precise level can vary.",
       "topicId": "g-urinary",
       "subtopic": "Renal vessels",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "T12 is near the coeliac origin and is above the usual levels of the renal arteries.",
+        "C": "At L4 the aorta usually bifurcates into the common iliac arteries, below the typical renal origins.",
+        "D": "The renal arteries arise below the coeliac trunk, even when their level is close to L1.",
+        "E": "The inferior mesenteric artery usually originates at L3, below the main renal arteries."
+      }
     },
     {
       "id": "dq-g-urinary-017",
@@ -20838,10 +21132,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The kidneys take about 20-25% of resting cardiac output.",
+      "why": "At rest, both kidneys together receive roughly one-fifth to one-quarter of cardiac output. This high flow supplies the filtration process and exceeds what would be needed for renal metabolism alone.",
       "topicId": "g-urinary",
       "subtopic": "Renal vessels",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Three-quarters would divert most systemic output to the kidneys, far above their normal resting share.",
+        "C": "A fraction of one to two per cent is far below the high perfusion that supports filtration.",
+        "D": "A share over half the cardiac output is considerably higher than usual resting renal perfusion.",
+        "E": "Five to ten per cent is smaller than the typical combined resting renal blood flow fraction."
+      }
     },
     {
       "id": "dq-g-urinary-018",
@@ -20870,10 +21170,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The left renal vein passes anterior to the aorta (and behind the SMA) and is about three times longer than the right.",
+      "why": "The left renal vein runs from the left hilum across the front of the aorta to reach the inferior vena cava on the right. It normally lies behind the superior mesenteric artery.",
       "topicId": "g-urinary",
       "subtopic": "Renal vessels",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The inferior vena cava is the receiving vessel on the right, not the midline structure behind which the left renal vein crosses.",
+        "B": "The vein does lie behind the superior mesenteric artery, but it also crosses directly in front of the aorta.",
+        "D": "A retroaortic left renal vein is a variant, while the usual route runs in front of the aorta.",
+        "E": "The vein joins the left side of the cava after crossing the aorta rather than passing anterior to the cava."
+      }
     },
     {
       "id": "dq-g-urinary-019",
@@ -20902,10 +21208,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The left renal vein receives the left suprarenal, gonadal and a lumbar vein; the right gonadal and suprarenal veins drain directly to the IVC.",
+      "why": "The left gonadal and suprarenal veins usually drain into the left renal vein before it crosses to the cava. Their right-sided counterparts generally drain separately into the inferior vena cava.",
       "topicId": "g-urinary",
       "subtopic": "Renal vessels",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The portal vein carries gut and splenic blood to the liver and is outside the normal renal venous pathway.",
+        "B": "Hepatic veins drain directly into the inferior vena cava high in the abdomen rather than into a renal vein.",
+        "C": "The inferior mesenteric vein drains hindgut to the portal system, usually via the splenic vein.",
+        "E": "The right gonadal vein normally enters the inferior vena cava, while the left drains into the left renal vein."
+      }
     },
     {
       "id": "dq-g-urinary-020",
@@ -20934,10 +21246,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Nutcracker syndrome is left-renal-vein compression, giving haematuria, flank pain and sometimes a left varicocele.",
+      "why": "Compression between the superior mesenteric artery and aorta can raise pressure in the left renal vein. When this produces symptoms such as haematuria or flank pain it is called nutcracker syndrome.",
       "topicId": "g-urinary",
       "subtopic": "Clinical",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Wilkie syndrome refers to compression of the third duodenal part between the same artery and aorta.",
+        "B": "Nephroptosis is excessive descent of a kidney on standing rather than venous entrapment.",
+        "C": "A horseshoe kidney is a developmental fusion anomaly and does not mean compression of the renal vein.",
+        "D": "Renal colic describes pain most commonly from ureteric obstruction, rather than the syndrome of renal venous compression."
+      }
     },
     {
       "id": "dq-g-urinary-021",
@@ -20966,10 +21284,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The avascular line of Brodel lies between the anterior and posterior arterial territories, on the posterolateral border.",
+      "why": "Brodel's line is a relatively avascular posterolateral renal plane between anterior and posterior arterial territories. It provides a potential route through the parenchyma with less bleeding than a major arterial territory.",
       "topicId": "g-urinary",
       "subtopic": "Renal vessels",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Toldt's line is a peritoneal reflection alongside the colon, outside the renal parenchyma.",
+        "C": "The white line of Hilton is in the lower anal canal rather than in the kidney.",
+        "D": "The arcuate line is the inferior margin of the posterior rectus sheath in the abdominal wall.",
+        "E": "The linea alba is the midline fusion of abdominal aponeuroses and does not divide renal arterial territories."
+      }
     },
     {
       "id": "dq-g-urinary-022",
@@ -20998,10 +21322,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "A lower polar artery can cross the pelviureteric junction and obstruct it, producing hydronephrosis.",
+      "why": "A lower polar renal artery can pass across the pelviureteric junction. The crossing vessel may contribute to outflow obstruction and dilatation of the upstream renal pelvis and calyces.",
       "topicId": "g-urinary",
       "subtopic": "Renal vessels",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "A polar branch serves a renal segment through the arterial circulation and does not normally bypass its glomeruli.",
+        "C": "An inferior polar artery generally supplies the lower pole rather than replacing the blood supply to the entire kidney.",
+        "D": "A polar artery supplies blood to a renal segment, while renal veins carry blood away from the kidney.",
+        "E": "A renal artery cannot substitute for the renal vein because the two carry blood in opposite functional pathways."
+      }
     },
     {
       "id": "dq-g-urinary-023",
@@ -21030,10 +21360,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Renal lymph drains to the para-aortic (lateral aortic) nodes at L2.",
+      "why": "Renal lymphatics follow the renal vessels to lateral aortic nodes in the upper lumbar region. Right-sided drainage can also reach adjacent caval or interaortocaval groups.",
       "topicId": "g-urinary",
       "subtopic": "Renal vessels",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Coeliac nodes lie near the coeliac trunk and primarily receive lymph from foregut structures.",
+        "B": "Superior mesenteric nodes receive lymph from midgut organs rather than being the principal renal nodes.",
+        "D": "Superficial inguinal nodes drain superficial lower limb and selected perineal regions, not the retroperitoneal kidneys.",
+        "E": "Internal iliac nodes receive lymph from much of the pelvis, below the principal renal drainage."
+      }
     },
     {
       "id": "dq-g-urinary-024",
@@ -21062,10 +21398,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Renal sympathetics (T10-L1) relay chiefly in the aorticorenal ganglion and form the renal plexus.",
+      "why": "Many preganglionic renal sympathetic fibres reach aorticorenal and related prevertebral ganglia. Postganglionic fibres then form part of the renal plexus around the renal artery.",
       "topicId": "g-urinary",
       "subtopic": "Kidney innervation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Superior mesenteric ganglia principally distribute fibres along midgut vessels rather than forming the chief renal relay.",
+        "B": "Inferior mesenteric ganglia lie lower and mainly serve hindgut territories.",
+        "C": "Dorsal root ganglia contain sensory cell bodies rather than serving as synapses for sympathetic efferent fibres.",
+        "E": "Coeliac ganglia can contribute, but renal fibres also relay in aorticorenal and related ganglia."
+      }
     },
     {
       "id": "dq-g-urinary-025",
@@ -21094,10 +21436,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Sympathetic activity causes renal vasoconstriction, lowers GFR and stimulates renin release.",
+      "why": "Noradrenaline from renal sympathetic fibres constricts renal vessels and can lower renal blood flow. Beta-1 stimulation of juxtaglomerular cells also increases renin release and helps defend circulating volume.",
       "topicId": "g-urinary",
       "subtopic": "Kidney innervation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Renal sympathetic input causes vasoconstriction, which at higher levels can reduce renal blood flow and filtration.",
+        "B": "Sympathetic activity generally promotes sodium retention and tends to reduce urine output rather than increasing it.",
+        "C": "The detrusor is bladder smooth muscle and normally contracts during voiding chiefly through pelvic parasympathetic pathways.",
+        "D": "Ureteric smooth muscle is a different effector from the renal arterioles and renin-secreting cells."
+      }
     },
     {
       "id": "dq-g-urinary-026",
@@ -21126,10 +21474,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Renal pain is referred to the flank/loin in the T12-L1 distribution and may radiate to the groin.",
+      "why": "Stretch of the renal capsule or collecting system sends visceral afferent signals through lower thoracic and upper lumbar segments. Pain is often felt in the flank or loin and can radiate towards the groin.",
       "topicId": "g-urinary",
       "subtopic": "Kidney innervation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "The epigastrium is the typical referral area for many foregut organs rather than the usual site of renal capsular pain.",
+        "C": "Suprapubic discomfort more often relates to bladder or pelvic structures rather than the upper urinary tract.",
+        "D": "Right iliac fossa pain can reflect appendiceal inflammation and is not the usual primary site of renal capsular pain.",
+        "E": "The umbilicus is a classic midgut referral site, whereas renal pain is generally farther lateral."
+      }
     },
     {
       "id": "dq-g-urinary-027",
@@ -21158,10 +21512,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Costovertebral-angle tenderness points to renal inflammation such as acute pyelonephritis.",
+      "why": "An inflamed kidney or surrounding tissue can be tender when gently percussed over the costovertebral angle. In an appropriate clinical setting this supports acute pyelonephritis, although the sign alone is nonspecific.",
       "topicId": "g-urinary",
       "subtopic": "Clinical",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Splenic injury typically produces left upper quadrant tenderness and can refer pain towards the left shoulder.",
+        "C": "Appendicitis commonly migrates towards right iliac fossa tenderness rather than typical costovertebral tenderness.",
+        "D": "Cholecystitis usually produces right upper quadrant tenderness, classically with inspiratory arrest during palpation there.",
+        "E": "Peptic ulcer pain is usually epigastric and does not typically produce focal tenderness over the renal angle."
+      }
     },
     {
       "id": "dq-g-urinary-028",
@@ -21190,10 +21550,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The right adrenal is pyramidal; the left is crescentic (semilunar).",
+      "why": "The right suprarenal is typically pyramidal, fitting next to the cava and behind the liver. The left is semilunar, curving along the upper medial border of the left kidney.",
       "topicId": "g-urinary",
       "subtopic": "Suprarenal gland",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The left gland has a recognisable crescentic contour rather than a typical radiating star shape.",
+        "B": "The left gland can be flattened, but its gross outline curves along the kidney rather than forming a square.",
+        "D": "A spherical contour would omit the curved, elongated relation of the left gland to the upper medial kidney.",
+        "E": "The normal left gland is flattened and curved rather than a uniform cylinder."
+      }
     },
     {
       "id": "dq-g-urinary-029",
@@ -21222,10 +21588,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Although both lie within the renal fascia, perirenal fat separates the suprarenal gland from the kidney.",
+      "why": "The suprarenal gland and kidney occupy the same broad fascial compartment but are separated by fat and a fascial septum. The intervening fat is inside the renal fascia, so it is perirenal.",
       "topicId": "g-urinary",
       "subtopic": "Suprarenal gland",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Both organs are retroperitoneal, so peritoneum is not the intervening layer between them.",
+        "B": "Diaphragm lies posterior and superior to this region rather than between the upper kidney and its adrenal.",
+        "C": "Pararenal fat lies outside renal fascia, whereas the separation here is inside that compartment.",
+        "E": "The renal capsule directly covers the kidney, but there is also intervening fat and a fascial partition."
+      }
     },
     {
       "id": "dq-g-urinary-030",
@@ -21254,10 +21626,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Superior suprarenal (from inferior phrenic), middle (from aorta) and inferior (from renal artery) supply the gland.",
+      "why": "In the usual pattern, the superior suprarenal artery arises from inferior phrenic, the middle from aorta and the inferior from the renal artery. The branches form a rich capsular supply.",
       "topicId": "g-urinary",
       "subtopic": "Suprarenal gland",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The gonadal artery descends towards the gonad rather than providing the usual inferior suprarenal branch.",
+        "B": "The coeliac trunk supplies foregut structures and can give variant branches, but it is not the usual third source in this series.",
+        "C": "The superior mesenteric artery supplies the midgut, separate from the usual three suprarenal arterial sources.",
+        "D": "Lumbar arteries supply the posterior wall, while the lower suprarenal branch usually arises from the renal artery."
+      }
     },
     {
       "id": "dq-g-urinary-031",
@@ -21286,10 +21664,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The short right suprarenal vein enters the IVC; the left drains into the left renal vein.",
+      "why": "The left suprarenal vein usually descends into the left renal vein, sometimes joining the inferior phrenic vein on the way. The short right suprarenal vein empties directly into the inferior vena cava.",
       "topicId": "g-urinary",
       "subtopic": "Suprarenal gland",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "The portal vein receives venous blood from digestive organs, not normal suprarenal drainage.",
+        "C": "The splenic vein drains the spleen and enters the portal system rather than carrying left adrenal venous blood.",
+        "D": "The left inferior phrenic vein may unite with the suprarenal vein, but their common outflow is typically the left renal vein.",
+        "E": "The left gonadal vein also drains into the left renal vein, as a separate tributary from the adrenal route."
+      }
     },
     {
       "id": "dq-g-urinary-032",
@@ -21318,10 +21702,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Preganglionic sympathetic fibres (greater splanchnic, via the coeliac plexus) synapse directly on medullary chromaffin cells; the medulla has no parasympathetic supply.",
+      "why": "The adrenal medulla acts like a modified sympathetic ganglion. Preganglionic sympathetic fibres release acetylcholine directly onto chromaffin cells, prompting secretion of catecholamines into the bloodstream.",
       "topicId": "g-urinary",
       "subtopic": "Suprarenal gland",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Sensory fibres alone cannot drive secretion, which is activated by preganglionic sympathetic input.",
+        "C": "Ordinary sympathetic postganglionic neurons innervate target tissues, while adrenal chromaffin cells themselves are the modified counterparts.",
+        "D": "The vagus supplies parasympathetic fibres to many viscera, but the adrenal medulla receives a sympathetic secretomotor supply.",
+        "E": "The pudendal nerve is a somatic nerve serving the perineum, far from the adrenal autonomic pathway."
+      }
     },
     {
       "id": "dq-g-urinary-033",
@@ -21350,10 +21740,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The ureter is a 25-30 cm retroperitoneal fibromuscular tube.",
+      "why": "Each adult ureter is usually about 25–30 cm long as it descends from the renal pelvis down the posterior abdominal wall, enters the pelvis and runs to the bladder.",
       "topicId": "g-urinary",
       "subtopic": "Ureter",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Five to eight centimetres is too short to cover the abdominal and pelvic portions together.",
+        "B": "Fifty centimetres is substantially longer than the usual renal pelvis-to-bladder distance in an adult.",
+        "D": "Ten to fifteen centimetres is enough for only part of the ureter's course between renal pelvis and bladder.",
+        "E": "Forty to forty-five centimetres is longer than the usual adult ureter, even allowing for individual variation."
+      }
     },
     {
       "id": "dq-g-urinary-034",
@@ -21382,10 +21778,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "A ureter is whitish, non-pulsatile and shows peristalsis when pinched (Kelly's sign).",
+      "why": "The ureter has a smooth muscle wall that can produce a visible peristaltic wave when stimulated. This movement helps distinguish it from blood vessels or fibrous strands during anatomical identification.",
       "topicId": "g-urinary",
       "subtopic": "Ureter",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A ureter is a muscular tube and normally retains continuity rather than remaining permanently collapsed after light stimulation.",
+        "B": "Brisk bleeding would suggest injury and is not a normal identifying response of an intact ureter.",
+        "C": "The ureter is typically pale, and a blue change is not its characteristic response to stimulation.",
+        "E": "Rhythmic vascular pulsation suggests an artery, whereas the ureter produces a travelling peristaltic wave."
+      }
     },
     {
       "id": "dq-g-urinary-035",
@@ -21414,10 +21816,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The pelvic ureter is enveloped by Waldeyer's sheath, anchoring it to the bladder.",
+      "why": "Waldeyer's sheath is the fibromuscular investment of the terminal pelvic ureter near the ureterovesical junction. It supports the intramural course and helps anchor it to the bladder wall.",
       "topicId": "g-urinary",
       "subtopic": "Ureter",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Gerota's fascia forms the boundary of the perirenal compartment rather than supporting the bladder entry.",
+        "B": "Denonvilliers' fascia separates the male prostate and seminal vesicle region from the anterior rectum.",
+        "C": "Buck's fascia is the deep fascia investing the erectile structures of the penis.",
+        "D": "Colles' fascia is the superficial membranous layer of the perineum rather than a sheath of the ureter."
+      }
     },
     {
       "id": "dq-g-urinary-036",
@@ -21446,10 +21854,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The oblique intramural course acts as a flap valve, preventing reflux when the bladder contracts.",
+      "why": "The ureter travels obliquely through the bladder wall before opening into the lumen. Pressure compresses this intramural segment when the bladder fills or contracts, helping close the route against backflow.",
       "topicId": "g-urinary",
       "subtopic": "Ureter",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Urine is propelled down the ureter by peristalsis, whereas the oblique segment chiefly prevents backflow.",
+        "C": "The bladder lumen stores urine, while the short intramural segment helps make the ureteric opening one-way.",
+        "D": "Pacemaker activity in the upper collecting system initiates peristalsis rather than the angle of entry into the bladder.",
+        "E": "The ureteric orifices are two corners of the trigone, but the oblique tunnel helps prevent reflux."
+      }
     },
     {
       "id": "dq-g-urinary-037",
@@ -21478,10 +21892,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The ureterovesical junction, where the ureter pierces the bladder, is the narrowest of the three constrictions.",
+      "why": "The ureterovesical junction is a true narrow point where the ureter enters the bladder wall. It is part of the classical three-site teaching scheme, though the iliac crossing is not always an intrinsic narrowing.",
       "topicId": "g-urinary",
       "subtopic": "Ureter",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The membranous urethra lies below the bladder and carries urine after it has left the ureters.",
+        "C": "The mid-abdominal ureter runs on the posterior wall and has no corresponding junction with the bladder.",
+        "D": "The renal papilla drains a medullary pyramid into a minor calyx, upstream of the ureter.",
+        "E": "The trigone is a region of bladder mucosa, while the actual terminal narrowing is at the ureter's junction with the bladder."
+      }
     },
     {
       "id": "dq-g-urinary-038",
@@ -21542,10 +21962,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The vas deferens crosses superficial (anterior) to the ureter in the male pelvis.",
+      "why": "Near the male bladder base, the ductus deferens crosses anterior and superior to the terminal ureter. The ureter continues into the bladder as the duct approaches the seminal vesicle.",
       "topicId": "g-urinary",
       "subtopic": "Ureter",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The prostatic urethra passes through the prostate, inferior to the entry of the ureter at the bladder base.",
+        "B": "The spermatic cord is in the inguinal canal, while the ductus deferens continues separately into the pelvis.",
+        "C": "The rectum lies behind the bladder and is separated from this crossing by intervening pelvic structures.",
+        "E": "The seminal vesicle relates to the bladder base, but the ductus deferens is the cord-like structure crossing the ureter."
+      }
     },
     {
       "id": "dq-g-urinary-040",
@@ -21574,10 +22000,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The uterine artery crosses above (anterior to) the ureter near the lateral vaginal fornix - 'water under the bridge'.",
+      "why": "The ureter passes deep to the uterine artery near the lateral cervix and upper vaginal fornix. The relationship explains why ureteric injury is possible during surgery near the uterine vessels.",
       "topicId": "g-urinary",
       "subtopic": "Ureter",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The ovarian artery lies across the ureter higher up near the pelvic brim rather than at the lateral fornix.",
+        "B": "The internal iliac artery supplies pelvic branches, including the uterine artery that crosses near the cervix.",
+        "C": "The vaginal artery supplies the vagina, but the crossing at the lateral cervix is classically made by the uterine artery.",
+        "D": "The round ligament runs towards the inguinal canal from the uterine horn, well above the stated crossing."
+      }
     },
     {
       "id": "dq-g-urinary-041",
@@ -21606,10 +22038,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Pacemaker cells in the renal pelvis/minor calyces drive peristalsis; autonomic input is only modulatory.",
+      "why": "Pacemaker activity starts in specialised cells near the renal pelvis and proximal collecting system. Electrical activity spreads through ureteric smooth muscle to generate waves that propel urine towards the bladder.",
       "topicId": "g-urinary",
       "subtopic": "Ureter",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Sympathetic input can modify ureteric activity, but waves can be initiated within the upper urinary tract itself.",
+        "C": "The pudendal nerve supplies striated pelvic outlet muscles and does not generate intrinsic ureteric waves.",
+        "D": "The trigone receives the ureteric openings, while ureteral waves usually originate much farther upstream.",
+        "E": "Psoas major lies behind the abdominal ureter, but contractions of ureteric smooth muscle propel urine."
+      }
     },
     {
       "id": "dq-g-urinary-042",
@@ -21638,10 +22076,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Ureteric colic (T11-L2 afferents) refers pain from the loin to the groin, scrotum/labia or tip of penis.",
+      "why": "A stone distending or obstructing the ureter stimulates visceral afferents entering lower thoracic and upper lumbar segments. Pain commonly begins in the flank or loin and radiates towards the groin.",
       "topicId": "g-urinary",
       "subtopic": "Clinical",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Umbilical pain is a characteristic midgut referral pattern rather than the full ureteric distribution.",
+        "C": "Epigastric pain radiating to the back is associated with some upper abdominal organs, especially the pancreas.",
+        "D": "Pain across the upper abdomen does not describe the typical downward radiation as a ureteric stone migrates.",
+        "E": "Shoulder-tip pain is associated with central diaphragm irritation through phrenic afferents, rather than a ureteric stone."
+      }
     },
     {
       "id": "dq-g-urinary-043",
@@ -21670,10 +22114,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Abdominal ureteric vessels come from medial sources, so dissection is kept lateral; in the pelvis vessels are lateral, so dissection is medial.",
+      "why": "Many abdominal ureteric branches approach from medial vessels such as renal, aortic and gonadal branches. Their branches run longitudinally in its adventitia, making preservation of that layer important.",
       "topicId": "g-urinary",
       "subtopic": "Ureter",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The ureter lies retroperitoneally, but the main abdominal arterial branches tend to approach it from the medial side.",
+        "B": "The upper ureter receives branches from above as well as lower levels, so origin from below is not the general relation.",
+        "D": "The pelvic ureter can receive vessels from laterally, whereas many abdominal branches approach from its medial side.",
+        "E": "The exact course can vary, but the useful abdominal relation is the medial source of the arterial branches."
+      }
     },
     {
       "id": "dq-g-urinary-044",
@@ -21702,10 +22152,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The detrusor is the bladder-wall smooth muscle that contracts to expel urine.",
+      "why": "The detrusor is the interlacing smooth muscle of the bladder wall. Coordinated contraction raises pressure in the bladder and expels urine when the outlet relaxes.",
       "topicId": "g-urinary",
       "subtopic": "Bladder",
-      "difficulty": "easy"
+      "difficulty": "easy",
+      "notes": {
+        "A": "Levator ani supports pelvic organs and helps maintain continence, but it does not form the bladder wall.",
+        "B": "Obturator internus forms part of the lateral pelvic wall and also acts on the hip, outside the bladder.",
+        "C": "Cremaster is striated muscle associated with the spermatic cord and elevates the testis.",
+        "E": "Psoas is a posterior abdominal wall muscle that helps flex the hip, not a muscle in the bladder."
+      }
     },
     {
       "id": "dq-g-urinary-045",
@@ -21734,10 +22190,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "In children the bladder lies in the abdomen; it becomes a pelvic organ in the adult (except when very full).",
+      "why": "In infants and young children the bladder sits relatively high, largely in the lower abdomen. It descends into the enlarging pelvis with development, though an adult bladder can rise when full.",
       "topicId": "g-urinary",
       "subtopic": "Bladder",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The bladder is below the diaphragm and is never normally in the thoracic cavity.",
+        "B": "The bladder is a midline anterior organ rather than a retroperitoneal structure in the renal flank.",
+        "C": "The perineum lies below the pelvic floor, whereas the young child's bladder sits relatively high above it.",
+        "D": "The urinary bladder develops before birth and is already functional during fetal life."
+      }
     },
     {
       "id": "dq-g-urinary-046",
@@ -21766,10 +22228,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The adult bladder comfortably holds about 400-600 ml.",
+      "why": "A healthy adult bladder commonly holds several hundred millilitres, with about 400–600 mL a useful teaching range. Sensation and comfortable capacity vary with filling rate and individual anatomy.",
       "topicId": "g-urinary",
       "subtopic": "Bladder",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Fifty to one hundred millilitres is well below the usual comfortable capacity of the adult bladder.",
+        "C": "A litre or more is above the usual adult capacity and may occur with marked distension or retention.",
+        "D": "A volume of 150–200 mL may be enough to produce awareness of filling, before usual functional capacity is reached.",
+        "E": "Two litres is far beyond ordinary bladder capacity and indicates extreme distension if retained."
+      }
     },
     {
       "id": "dq-g-urinary-047",
@@ -21798,10 +22266,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The trigone is the smooth triangle between the two ureteric orifices and the internal urethral orifice.",
+      "why": "The bladder trigone is the triangle on the internal base between the two ureteric openings above and the internal urethral opening below. Its mucosa is relatively smooth.",
       "topicId": "g-urinary",
       "subtopic": "Bladder",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The interureteric bar forms the upper edge between the ureteric openings rather than providing the third corner.",
+        "C": "The external urethral opening is at the end of the urethra, outside the bladder.",
+        "D": "The bladder apex points anteriorly towards the urachus and is remote from the outlet corner of the trigone.",
+        "E": "The uvula vesicae is a small elevation behind the outlet rather than the opening that defines the inferior corner."
+      }
     },
     {
       "id": "dq-g-urinary-048",
@@ -21830,10 +22304,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The trigone mucosa is smooth and firmly bound down, lacking the rugae of the rest of the bladder.",
+      "why": "Trigonal mucosa is firmly attached to underlying tissue and remains relatively smooth even when the bladder is empty. Much of the remaining mucosa folds into rugae as the bladder wall relaxes.",
       "topicId": "g-urinary",
       "subtopic": "Bladder",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The trigone is lined by urothelium, a urinary tract epithelium rather than external skin.",
+        "B": "The trigone has underlying smooth muscle, but its luminal surface is covered by urothelium.",
+        "D": "Rugae can develop in the relaxed bladder wall elsewhere, while the trigone remains relatively fixed and smooth.",
+        "E": "Peritoneum covers parts of the external superior bladder surface, not its internal trigonal lining."
+      }
     },
     {
       "id": "dq-g-urinary-049",
@@ -21862,10 +22342,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The interureteric bar (bar of Mercier) connects the ureteric orifices and guides cystoscopy.",
+      "why": "The interureteric bar is a mucosal ridge connecting the two ureteric openings along the upper boundary of the trigone. Its ends help locate the orifices during cystoscopy.",
       "topicId": "g-urinary",
       "subtopic": "Bladder",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The urethral crest is a longitudinal ridge inside the prostatic urethra, rather than between the ureteric openings.",
+        "B": "The median umbilical fold lies over the urachus on the anterior abdominal wall, away from the ureteric openings.",
+        "C": "The seminal colliculus is a prominence along the urethral crest and receives the ejaculatory duct openings.",
+        "E": "The uvula vesicae is a separate elevation near the internal urethral opening at the lower end of the trigone."
+      }
     },
     {
       "id": "dq-g-urinary-050",
@@ -21894,10 +22380,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The uvula vesicae overlies the prostatic median lobe, which is prone to benign hyperplasia.",
+      "why": "The uvula vesicae is a small midline elevation immediately behind the internal urethral opening. In males, the underlying median lobe of the prostate can make it more prominent, particularly when enlarged.",
       "topicId": "g-urinary",
       "subtopic": "Bladder",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Detrusor forms the general smooth muscle wall, while a median prostatic projection accentuates this local elevation.",
+        "B": "Trigonal muscle underlies the smooth triangle, but prostatic tissue can project up at its outlet.",
+        "C": "Seminal vesicles lie behind the bladder base, while the uvula is a midline prominence at the bladder neck.",
+        "D": "The bladder apex is anterior and joins the median umbilical ligament, away from the internal urethral opening."
+      }
     },
     {
       "id": "dq-g-urinary-051",
@@ -21926,10 +22418,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The retropubic space (of Retzius) separates the anterior bladder from the pubic symphysis.",
+      "why": "The space of Retzius is the extraperitoneal retropubic space between the pubic symphysis and the anterior bladder. Its loose tissue allows the bladder to change position during filling.",
       "topicId": "g-urinary",
       "subtopic": "Bladder",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "The pouch of Douglas is the peritoneal recess between uterus and rectum, posterior to the bladder.",
+        "C": "The space of Bogros is an extraperitoneal space lateral to the central retropubic space in the groin.",
+        "D": "The rectovesical pouch is a peritoneal recess between the male bladder and rectum, behind rather than in front of bladder.",
+        "E": "The ischioanal fossa is a fat-filled perineal space beside the anal canal below the pelvic floor."
+      }
     },
     {
       "id": "dq-g-urinary-052",
@@ -21958,10 +22456,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The median umbilical ligament is the fibrous remnant of the urachus (allantois).",
+      "why": "The urachus is the fetal channel related to the allantois between the bladder apex and umbilicus. It normally obliterates, leaving the single median umbilical ligament.",
       "topicId": "g-urinary",
       "subtopic": "Bladder",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Distal umbilical arteries form the paired medial umbilical ligaments, rather than the single median one.",
+        "C": "The vitelline duct connected ileum to the yolk sac and can persist as a Meckel diverticulum.",
+        "D": "The ductus venosus leaves ligamentum venosum in the liver and has no attachment to the bladder apex.",
+        "E": "The mesonephric duct forms parts of the male reproductive tract, rather than the channel from bladder to umbilicus."
+      }
     },
     {
       "id": "dq-g-urinary-053",
@@ -21990,10 +22494,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The male bladder base relates to the seminal vesicles and the ampullae of the vasa deferentia.",
+      "why": "The male bladder base faces posteriorly and is related to the seminal vesicles and ampullae of the ductus deferens. The prostate sits below the bladder neck.",
       "topicId": "g-urinary",
       "subtopic": "Bladder",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The uterus is a posterior neighbour of the female bladder and is absent in the male pelvis.",
+        "B": "Ovaries are female pelvic structures lying more laterally, rather than behind a male bladder.",
+        "D": "The prostate lies mainly at the bladder neck inferiorly, while seminal structures relate to the posterior base.",
+        "E": "Sigmoid colon can lie above or nearby, but seminal vesicles are direct and typical posterior relations of the male bladder."
+      }
     },
     {
       "id": "dq-g-urinary-054",
@@ -22022,10 +22532,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Denonvilliers' (rectovesical) fascia lies between the male bladder base/prostate and the rectum.",
+      "why": "Denonvilliers' fascia is a connective tissue plane separating the male rectum from the seminal vesicles and prostate. It is related superiorly to the region behind the bladder base.",
       "topicId": "g-urinary",
       "subtopic": "Bladder",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "A vesicovaginal septum lies between female bladder and vagina rather than between male bladder structures and rectum.",
+        "B": "Gerota's fascia forms a boundary around the kidney and perirenal structures, above the rectal dissection plane.",
+        "C": "Buck's fascia invests the deep penile structures and does not form the rectoprostatic partition.",
+        "E": "Waldeyer's ureteric sheath surrounds the terminal ureter, rather than separating the rectum and male bladder base."
+      }
     },
     {
       "id": "dq-g-urinary-055",
@@ -22054,10 +22570,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The vesical arteries arise from the internal iliac artery; in females the inferior vesical is replaced by the vaginal artery.",
+      "why": "Vesical arteries are usually branches of the anterior division of the internal iliac circulation. Superior vesical branches commonly stem from the patent umbilical artery, while inferior bladder supply varies by sex.",
       "topicId": "g-urinary",
       "subtopic": "Bladder",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The external iliac artery principally supplies the lower limb and deep anterior abdominal wall.",
+        "B": "The inferior mesenteric artery supplies hindgut rather than the main arterial supply to the bladder.",
+        "C": "The internal pudendal artery is an internal iliac branch mainly supplying the perineum and external genitalia.",
+        "D": "The median sacral artery provides small branches in the posterior pelvis rather than the main vesical vessels."
+      }
     },
     {
       "id": "dq-g-urinary-056",
@@ -22086,10 +22608,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Pelvic splanchnic (S2-S4) parasympathetic activity empties the bladder: detrusor contraction with internal-sphincter relaxation.",
+      "why": "Pelvic parasympathetic activity contracts detrusor smooth muscle during voiding. At the same time, reduced storage signals and coordinated relaxation of the bladder outlet allow urine to pass.",
       "topicId": "g-urinary",
       "subtopic": "Bladder",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Detrusor relaxation with bladder neck contraction is the sympathetic storage pattern rather than the parasympathetic voiding response.",
+        "C": "Contraction of the bladder outlet would resist emptying, which requires the outlet to relax while the bladder contracts.",
+        "D": "The parasympathetic supply activates detrusor muscle through muscarinic receptors and therefore has a major effect on it.",
+        "E": "The external sphincter is striated muscle controlled mainly by somatic pudendal fibres, rather than being the parasympathetic target."
+      }
     },
     {
       "id": "dq-g-urinary-057",
@@ -22118,10 +22646,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Sympathetic activity relaxes the detrusor and contracts the internal urethral sphincter, favouring storage.",
+      "why": "During storage, sympathetic activity relaxes the detrusor and increases smooth muscle tone at the bladder neck. These effects allow the bladder to accommodate urine while the outlet remains closed.",
       "topicId": "g-urinary",
       "subtopic": "Bladder",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Micturition requires increased parasympathetic drive and decreased storage-phase tone in the outlet.",
+        "C": "Parasympathetic pathways contract the detrusor during emptying, while sympathetic pathways favour its relaxation during filling.",
+        "D": "The external sphincter receives somatic supply and its tone can help maintain continence during filling.",
+        "E": "Bladder contraction with outlet relaxation describes voiding, the opposite phase from the sympathetic storage response."
+      }
     },
     {
       "id": "dq-g-urinary-058",
@@ -22150,10 +22684,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The male internal sphincter (smooth muscle, sympathetic T11-L2) also prevents retrograde ejaculation.",
+      "why": "During ejaculation, sympathetic contraction of smooth muscle at the male bladder neck closes the internal urethral opening. This blocks semen from passing backwards into the bladder.",
       "topicId": "g-urinary",
       "subtopic": "Bladder",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Peristalsis of the ureter originates in the upper collecting system rather than at the bladder neck.",
+        "B": "Voluntary control depends chiefly on striated external urethral sphincter muscle rather than the internal smooth muscle.",
+        "D": "The kidneys produce urine, while the internal urethral sphincter regulates passage out of the bladder.",
+        "E": "Mucus is produced by secretory glands, whereas the bladder neck sphincter provides mechanical closure."
+      }
     },
     {
       "id": "dq-g-urinary-059",
@@ -22182,10 +22722,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The voluntary external sphincter in the urogenital diaphragm is innervated by the pudendal nerve (S2-S4).",
+      "why": "The external urethral sphincter contains striated muscle and receives somatic motor supply chiefly through pudendal pathways from S2–S4. Its contraction helps maintain continence and can be voluntarily controlled.",
       "topicId": "g-urinary",
       "subtopic": "Bladder",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The hypogastric plexus carries autonomic fibres to pelvic organs rather than the principal somatic motor supply of the external sphincter.",
+        "B": "The obturator nerve supplies most medial thigh adductors rather than the urethral sphincter.",
+        "C": "The genitofemoral nerve supplies cremaster and skin near the groin, rather than the striated urethral outlet.",
+        "E": "Pelvic splanchnic nerves supply parasympathetic fibres to the detrusor and other pelvic targets, not the principal somatic sphincter supply."
+      }
     },
     {
       "id": "dq-g-urinary-060",
@@ -22214,10 +22760,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The short female urethra predisposes to ascending UTI and is easy to catheterize.",
+      "why": "The short female urethra gives bacteria a shorter route from the external opening to the bladder. Its relatively direct short course also generally makes passage of a catheter easier.",
       "topicId": "g-urinary",
       "subtopic": "Urethra",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Short length gives organisms a shorter ascending route to the bladder, rather than protecting against infection.",
+        "B": "The opening sometimes requires careful identification, but the short urethral course generally facilitates passage once located.",
+        "C": "The female urethra has striated sphincter components despite being much shorter than the male urethra.",
+        "D": "The female urethra carries urine, while the separate vaginal opening is part of the reproductive tract."
+      }
     },
     {
       "id": "dq-g-urinary-061",
@@ -22246,10 +22798,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The external urethral orifice lies in the vestibule, anterior to the vaginal opening and behind the clitoris.",
+      "why": "The external urethral meatus is in the vulval vestibule between the clitoris and the vaginal orifice. It is posterior to the clitoris and anterior to the opening of the vagina.",
       "topicId": "g-urinary",
       "subtopic": "Urethra",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Posterior to the vaginal opening lies the posterior vestibular region rather than the usual external urethral meatus.",
+        "C": "The urethra and vagina have separate external openings, both associated with the vestibule.",
+        "D": "The clitoris is anterior to the external urethral meatus, so this reverses their anteroposterior positions.",
+        "E": "The perineal body is posterior to the vaginal opening and lies farther back than the meatus."
+      }
     },
     {
       "id": "dq-g-urinary-062",
