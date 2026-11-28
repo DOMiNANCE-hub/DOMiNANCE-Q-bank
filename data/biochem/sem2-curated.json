@@ -7602,10 +7602,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Cross-linking FcεRI-bound IgE triggers mast-cell mediator release during immediate hypersensitivity.",
+      "why": "An allergen can bridge IgE molecules already bound to high-affinity receptors on a mast cell. The cell responds rapidly by degranulating and releasing mediators such as histamine.",
       "topicId": "immunology",
       "subtopic": "Hypersensitivity",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Positive selection occurs during T-cell development in the thymus rather than immediately after allergen exposure.",
+        "B": "Innate pattern receptors are encoded in the germline and do not rearrange during immediate hypersensitivity.",
+        "C": "Existing mast cells respond to the allergen, rather than generating newly formed naïve B cells.",
+        "E": "IgD expression is not the immediate effector response, which uses IgE already attached to mast cells."
+      }
     },
     {
       "id": "dq-bio-immun-126",
@@ -7634,10 +7640,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Th2 cytokines recruit eosinophils, which contribute to later tissue inflammation.",
+      "why": "Eosinophils are recruited during many late allergic responses by chemokines and type 2 signals such as IL-5. Their granule contents can sustain local inflammation after the immediate phase.",
       "topicId": "immunology",
       "subtopic": "Hypersensitivity",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Erythrocytes carry oxygen and are not inflammatory cells recruited to maintain the late allergic response.",
+        "C": "Platelets can modulate inflammation, but eosinophils are characteristic late-phase granulocytes in many allergic tissues.",
+        "D": "Osteocytes are resident bone cells and are unrelated to typical inflammatory recruitment following allergen exposure.",
+        "E": "Fibroblasts can contribute to chronic tissue remodelling rather than being the characteristic recruited late-phase granulocytes."
+      }
     },
     {
       "id": "dq-bio-visual-001",
@@ -7666,10 +7678,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Rods are more light-sensitive and mediate scotopic, mainly monochromatic vision.",
+      "why": "Rods generate detectable responses to very weak light and converge on shared retinal pathways. They support vision in dim conditions, with poorer spatial and colour discrimination than cone-mediated vision.",
       "topicId": "visual",
       "subtopic": "Photoreceptors",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Cones are most effective in brighter light and support colour vision and fine detail.",
+        "C": "Bipolar cells relay signals from photoreceptors rather than capturing photons themselves.",
+        "D": "Ganglion cells carry retinal output, while ordinary dim-light image formation depends on rods.",
+        "E": "Horizontal cells mediate lateral interactions in retinal circuits rather than serving as the main dim-light receptors."
+      }
     },
     {
       "id": "dq-bio-visual-002",
@@ -7698,10 +7716,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Cones mediate photopic vision and have different opsins underlying colour discrimination.",
+      "why": "The three main cone classes have opsins with different wavelength sensitivities. Comparing their signals allows the visual system to distinguish colours when light levels are high enough.",
       "topicId": "visual",
       "subtopic": "Photoreceptors",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Rods work well in dim light but have a single main pigment class and do not support ordinary colour discrimination.",
+        "B": "Ganglion cells convey processed retinal signals, while colour discrimination begins with cone photopigments.",
+        "C": "Amacrine cells shape retinal signalling, especially in time and contrast, rather than being the colour photoreceptors.",
+        "E": "Horizontal cells connect laterally across photoreceptor circuits but do not serve as the principal detectors of bright-light colour."
+      }
     },
     {
       "id": "dq-bio-visual-003",
@@ -7730,10 +7754,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Rods respond to low photon intensities, whereas cones require brighter illumination.",
+      "why": "Rods amplify a weak light signal and integrate it over a relatively long time. Their responses are therefore detectable at light levels that are too low for cone pathways to work well.",
       "topicId": "visual",
       "subtopic": "Photoreceptors",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Rod-mediated vision largely lacks colour discrimination, even though it works at very low illumination.",
+        "C": "The foveal centre is densely packed with cones that support high acuity rather than the rod advantage in dim light.",
+        "D": "Rod responses can saturate in bright light, but detection of weak light explains their greater dim-light sensitivity.",
+        "E": "Rods use graded potentials and relay through bipolar pathways, rather than directly exciting optic nerve axons."
+      }
     },
     {
       "id": "dq-bio-visual-004",
@@ -7762,10 +7792,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The chromophore of dark-adapted rhodopsin is 11-cis-retinal derived from vitamin A.",
+      "why": "Dark-adapted rhodopsin contains opsin linked to 11-cis-retinal by a Schiff base. Light converts the retinal to the all-trans configuration and thereby activates the protein.",
       "topicId": "visual",
       "subtopic": "Photoreceptors",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "All-trans-retinoic acid regulates nuclear gene expression and is not the light-sensitive aldehyde bound in rhodopsin.",
+        "B": "Beta-carotene is a dietary precursor of vitamin A and is not directly bound as the rhodopsin chromophore.",
+        "C": "Retinyl palmitate is a storage ester of vitamin A, not the aldehyde attached to opsin.",
+        "D": "The 11-cis retinoic acid option has a carboxyl group, whereas rhodopsin uses the aldehyde retinal."
+      }
     },
     {
       "id": "dq-bio-visual-005",
@@ -7794,10 +7830,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Vitamin A supplies retinoids, including retinal required for visual pigment regeneration.",
+      "why": "Vitamin A supplies retinoids that the visual cycle converts into 11-cis-retinal. This chromophore binds opsin and is required to regenerate light-sensitive visual pigment.",
       "topicId": "visual",
       "subtopic": "Vitamin A and retinal",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Vitamin D regulates calcium and phosphate physiology rather than providing the retinal chromophore.",
+        "B": "Vitamin E helps protect lipids against oxidation but is not converted into retinal.",
+        "D": "Vitamin K supports carboxylation of certain proteins and does not provide the visual pigment chromophore.",
+        "E": "Vitamin C supports antioxidant and enzyme reactions, such as collagen hydroxylation, rather than producing retinal."
+      }
     },
     {
       "id": "dq-bio-visual-006",
@@ -7826,10 +7868,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Inadequate vitamin A impairs rhodopsin regeneration and causes poor vision in dim light.",
+      "why": "Vitamin A deficiency reduces the supply of 11-cis-retinal needed to regenerate rhodopsin. Rod function and dark adaptation can therefore deteriorate early, producing night blindness.",
       "topicId": "visual",
       "subtopic": "Vitamin A and retinal",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Diplopia arises when the two eyes' images are misaligned and is not the usual early retinal effect.",
+        "C": "Blue–yellow colour discrimination involves cone pathways, whereas poor rod function in deficiency first affects dim-light vision.",
+        "D": "Glaucoma is an optic neuropathy often associated with raised intraocular pressure rather than the classic early deficiency finding.",
+        "E": "Cortical blindness arises from injury to visual processing areas rather than a shortage of retinal chromophore."
+      }
     },
     {
       "id": "dq-bio-visual-007",
@@ -7858,10 +7906,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Beta-carotene is a carotenoid that can be cleaved to supply vitamin A.",
+      "why": "Beta-carotene is a plant carotenoid that can be cleaved to yield retinal. Retinal can be converted into other vitamin A forms or enter pathways supplying the visual chromophore.",
       "topicId": "visual",
       "subtopic": "Vitamin A and retinal",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Cholecalciferol is vitamin D3 and is involved in calcium and phosphate regulation, not the synthesis of vitamin A.",
+        "B": "Alpha-tocopherol is a vitamin E form with antioxidant properties, rather than a carotenoid precursor of retinal.",
+        "C": "Phylloquinone is vitamin K1 and contributes to protein carboxylation rather than retinoid production.",
+        "E": "Ascorbic acid is vitamin C and does not provide the carotenoid skeleton needed to form retinal."
+      }
     },
     {
       "id": "dq-bio-visual-008",
@@ -7890,10 +7944,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Cone pigments share the 11-cis-retinal chromophore; differences in opsin tune their absorption spectra.",
+      "why": "The short-, medium- and long-wavelength cone pigments use different opsin proteins with the same 11-cis-retinal chromophore. Each protein environment shifts the wavelengths to which its pigment is most sensitive.",
       "topicId": "visual",
       "subtopic": "Vitamin A and retinal",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The same 11-cis-retinal chromophore is used in the principal cone pigment classes.",
+        "C": "Retinal has the same carbon skeleton in all three classes, while the surrounding protein differs.",
+        "D": "Vitamin A provides a common retinal precursor and is not a different side chain in each class.",
+        "E": "A Schiff linkage joins retinal to opsin in the different classes, so that basic bond does not distinguish them."
+      }
     },
     {
       "id": "dq-bio-visual-009",
@@ -7922,10 +7982,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Light rapidly isomerizes the chromophore from 11-cis to all-trans, triggering opsin activation.",
+      "why": "Photon absorption changes the geometry of retinal at its 11-cis double bond, making it all-trans. The change in shape shifts opsin into a signalling conformation.",
       "topicId": "visual",
       "subtopic": "Vitamin A and retinal",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Regeneration returns the chromophore to the 11-cis form later, rather than during the initial light-triggered event.",
+        "B": "Conversion of ribose to deoxyribose is a nucleotide reaction unrelated to the light response of rhodopsin.",
+        "C": "Beta-carotene can be a precursor of retinoids, but activated rhodopsin does not convert retinol into carotene.",
+        "D": "Opsin changes conformation after retinal isomerises and is not decarboxylated to make retinal."
+      }
     },
     {
       "id": "dq-bio-visual-010",
@@ -7954,10 +8020,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Activated rhodopsin (metarhodopsin II) catalyses activation of transducin.",
+      "why": "Metarhodopsin II is the active rhodopsin conformation formed after light changes the retinal chromophore. It promotes GDP release from transducin and initiates the G-protein response.",
       "topicId": "visual",
       "subtopic": "Phototransduction",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Dark rhodopsin contains 11-cis-retinal in an inactive conformation before light absorption.",
+        "B": "Retinyl esters are storage or visual-cycle intermediates rather than signalling conformations of the receptor.",
+        "D": "All-trans-retinol is a retinoid-cycle intermediate after processing of the released chromophore.",
+        "E": "Unbound opsin lacks the attached chromophore, while metarhodopsin II is the principal signalling state following light absorption."
+      }
     },
     {
       "id": "dq-bio-visual-011",
@@ -7986,10 +8058,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Activated rhodopsin promotes GDP release and GTP binding on the transducin alpha subunit.",
+      "why": "Activated rhodopsin promotes release of GDP from transducin alpha. A free GTP molecule then binds in its place, switching transducin into its active form.",
       "topicId": "visual",
       "subtopic": "Phototransduction",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Bound GDP is released before GTP binds, rather than being directly phosphorylated into GTP.",
+        "C": "GTP is converted to cGMP by guanylate cyclase, not by the nucleotide exchange on transducin.",
+        "D": "The visual G protein uses guanine nucleotides rather than ATP or cyclic AMP for this switch.",
+        "E": "Transducin is activated by binding GTP instead of GDP, rather than replacing GTP with ATP."
+      }
     },
     {
       "id": "dq-bio-visual-012",
@@ -8018,10 +8096,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "GTP-bound transducin activates PDE6, which hydrolyses cGMP.",
+      "why": "GTP-bound transducin alpha relieves inhibition of the rod phosphodiesterase PDE6. This increases hydrolysis of cGMP and lowers its concentration in the outer segment.",
       "topicId": "visual",
       "subtopic": "Phototransduction",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Guanylate cyclase makes cGMP and helps restore it during recovery rather than serving as the main activated effector.",
+        "B": "Adenylyl cyclase produces cyclic AMP, while the rod visual response relies primarily on cGMP.",
+        "C": "Rhodopsin kinase phosphorylates active rhodopsin during shutoff rather than hydrolysing cGMP downstream of transducin.",
+        "E": "Retinal-processing enzymes participate in the visual cycle, not the immediate change in cGMP after transducin activation."
+      }
     },
     {
       "id": "dq-bio-visual-013",
@@ -8050,10 +8134,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "PDE hydrolyses cGMP, lowering free cGMP in the outer segment.",
+      "why": "Activated transducin stimulates PDE6 in the rod outer segment. PDE6 hydrolyses cGMP into 5′-GMP, so free cGMP falls after the phototransduction cascade begins.",
       "topicId": "visual",
       "subtopic": "Phototransduction",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Guanylate cyclase can restore cGMP during recovery, while the initial phosphodiesterase response reduces it.",
+        "C": "Light stimulates cGMP hydrolysis, so its concentration does not remain fixed during the response.",
+        "D": "cGMP is hydrolysed to GMP rather than being converted into an adenine nucleotide.",
+        "E": "GMP synthetase is an enzyme in purine biosynthesis rather than a compound made from visual cGMP."
+      }
     },
     {
       "id": "dq-bio-visual-014",
@@ -8082,10 +8172,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Reduced cGMP closes cyclic-nucleotide-gated channels, diminishing Na⁺ and Ca²⁺ entry.",
+      "why": "Rod outer-segment cation channels need cGMP to stay open. When light lowers cGMP, these channels close and less sodium and calcium enter the cell.",
       "topicId": "visual",
       "subtopic": "Phototransduction",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "cGMP binding promotes opening, so lower cGMP favours closure of these channels rather than opening them.",
+        "B": "Rod hyperpolarisation reflects loss of inward cation current rather than activation of ligand-gated chloride channels.",
+        "C": "The affected channels are cyclic-nucleotide-gated rather than the voltage-gated sodium channels that generate many action potentials.",
+        "D": "Potassium efflux can continue in the inner segment while the light-sensitive inward current falls."
+      }
     },
     {
       "id": "dq-bio-visual-015",
@@ -8114,10 +8210,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Light closes the dark-current cation channels, making rods more negative.",
+      "why": "Light reduces cGMP and closes outer-segment cation channels. Potassium efflux continues while inward current falls, moving the rod membrane potential to a more negative value.",
       "topicId": "visual",
       "subtopic": "Phototransduction",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Rods have a relatively depolarised dark state, whereas the light response reduces inward current and makes them more negative.",
+        "B": "An afterdepolarisation occurs after another electrical event rather than naming the initial graded rod response.",
+        "D": "Rods signal mainly through graded potential changes, not an action-potential overshoot at light onset.",
+        "E": "Closing cation channels shifts the membrane potential, so the dark steady state is not maintained."
+      }
     },
     {
       "id": "dq-bio-visual-016",
@@ -8146,10 +8248,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "In darkness, high cGMP keeps channels open, permitting inward dark current.",
+      "why": "In darkness, enough cGMP is present to keep outer-segment cation channels open. Sodium and calcium entry through this dark current keeps the rod relatively depolarised.",
       "topicId": "visual",
       "subtopic": "Phototransduction",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Rhodopsin kinase acts mainly to shut off activated rhodopsin, rather than creating the dark current.",
+        "C": "Transducin activation stimulates PDE6 in light and would lower cGMP instead of maintaining inward current.",
+        "D": "The sodium–potassium pump maintains ionic gradients and is present even when the rod is relatively depolarised.",
+        "E": "Dark-adapted visual pigment contains 11-cis-retinal, while light converts it to the all-trans form."
+      }
     },
     {
       "id": "dq-bio-visual-017",
@@ -8178,10 +8286,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Light closes Ca²⁺-permeable channels while extrusion continues, lowering free calcium.",
+      "why": "Light closes the rod outer-segment channels that admit calcium. Calcium extrusion continues, so intracellular free calcium falls and helps initiate recovery mechanisms.",
       "topicId": "visual",
       "subtopic": "Phototransduction",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Potassium conductance is important for membrane potential, but calcium is the ion with the characteristic light-dependent feedback fall.",
+        "B": "Hydrolysis of cGMP does not make free cytosolic phosphate the characteristic ionic signal in the rod response.",
+        "C": "Bicarbonate contributes to buffering and is not the main intracellular ion reduced by light-evoked channel closure.",
+        "E": "The characteristic change involves calcium entry and extrusion, rather than a fall in cytosolic magnesium."
+      }
     },
     {
       "id": "dq-bio-visual-018",
@@ -8210,10 +8324,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Rod hyperpolarization reduces tonic glutamate secretion at its synapse.",
+      "why": "Rods release glutamate tonically in darkness. Light-induced hyperpolarisation reduces calcium entry at the synaptic terminal, decreasing glutamate release onto downstream retinal cells.",
       "topicId": "visual",
       "subtopic": "Phototransduction",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Increased glutamate release is associated with the more depolarised dark state rather than illumination.",
+        "C": "The main transmitter released by rods is glutamate rather than acetylcholine.",
+        "D": "Dopamine participates in retinal adaptation through other cells and is not the rod's main synaptic transmitter.",
+        "E": "Rods reduce release of glutamate, not serotonin, when they hyperpolarise in response to light."
+      }
     },
     {
       "id": "dq-bio-visual-019",
@@ -8242,10 +8362,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Rhodopsin kinase phosphorylates activated rhodopsin at C-terminal serine/threonine residues.",
+      "why": "Rhodopsin kinase, also called GRK1 in rods, phosphorylates activated rhodopsin. Those phosphorylations promote arrestin binding and help terminate further transducin activation.",
       "topicId": "visual",
       "subtopic": "Recovery and adaptation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Guanylate cyclase synthesises cGMP and does not transfer phosphate to active rhodopsin.",
+        "B": "Phosphodiesterase hydrolyses cGMP rather than phosphorylating the receptor that activated the pathway.",
+        "C": "Retinoid isomerisation restores the chromophore and does not transfer phosphate onto the activated protein.",
+        "D": "Protein phosphatase activity removes phosphates, opposite to the kinase step asked about."
+      }
     },
     {
       "id": "dq-bio-visual-020",
@@ -8274,10 +8400,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Arrestin binds phosphorylated activated rhodopsin and prevents additional G-protein coupling.",
+      "why": "Visual arrestin binds the phosphorylated, light-activated receptor and prevents further productive interaction with transducin. This stops the active rhodopsin molecule from repeatedly triggering the cascade.",
       "topicId": "visual",
       "subtopic": "Recovery and adaptation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Transducin is the G protein activated by rhodopsin, not the protein that blocks additional coupling.",
+        "B": "Recoverin is a calcium-sensitive regulator of rhodopsin kinase and does not cap the phosphorylated receptor.",
+        "D": "Calmodulin is a calcium sensor that can modulate channel behaviour, rather than the main protein binding phosphorylated rhodopsin.",
+        "E": "Rhodopsin is the receptor being switched off, while arrestin is the protein that binds and blocks its signalling."
+      }
     },
     {
       "id": "dq-bio-visual-021",
@@ -8306,10 +8438,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Intrinsic GTPase activity returns transducin alpha to the GDP-bound inactive state.",
+      "why": "Transducin alpha has GTPase activity and hydrolyses its bound GTP to GDP. The GDP-bound protein no longer activates PDE6 and can reassociate with its other subunits.",
       "topicId": "visual",
       "subtopic": "Recovery and adaptation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "GTP binding activates transducin, whereas inactivation requires conversion of its bound GTP to GDP.",
+        "C": "PDE6 hydrolyses cGMP to GMP, which does not directly change the nucleotide bound to transducin.",
+        "D": "Separation from beta–gamma is associated with activation rather than providing the main deactivation step.",
+        "E": "ATP synthesis does not reset the guanine nucleotide state that controls transducin activity."
+      }
     },
     {
       "id": "dq-bio-visual-022",
@@ -8338,10 +8476,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Guanylate cyclase replenishes cGMP, supporting channel reopening.",
+      "why": "Retinal guanylate cyclase converts GTP into cGMP to restore its concentration. As the signalling response subsides, the replenished cGMP binds outer-segment cation channels and helps reopen them.",
       "topicId": "visual",
       "subtopic": "Recovery and adaptation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "PDE6 hydrolyses cGMP and therefore lowers its concentration rather than replenishing it.",
+        "B": "Rhodopsin kinase phosphorylates the receptor during shutoff and does not release cGMP.",
+        "C": "Transducin uses GTP as a molecular switch but does not make cGMP from ATP.",
+        "E": "Arrestin blocks further receptor signalling and does not transport cGMP into the photoreceptor."
+      }
     },
     {
       "id": "dq-bio-visual-023",
@@ -8370,10 +8514,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Lower Ca²⁺ stimulates guanylate cyclase through calcium-sensitive regulatory proteins.",
+      "why": "When intracellular calcium falls, calcium-sensitive guanylate cyclase-activating proteins shift to a state that increases cyclase activity. The resulting cGMP helps the outer-segment channels reopen.",
       "topicId": "visual",
       "subtopic": "Recovery and adaptation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Phosphodiesterase lowers cGMP and is first activated through transducin during the light response.",
+        "C": "Transducin loads GTP when active rhodopsin promotes exchange, rather than being the key calcium feedback target here.",
+        "D": "The fall in calcium helps alter signalling recovery, not directly increase rhodopsin's absorption of photons.",
+        "E": "Further breakdown would reduce cGMP, but recovery involves increasing its synthesis through cyclase."
+      }
     },
     {
       "id": "dq-bio-visual-024",
@@ -8402,10 +8552,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "A Na⁺/Ca²⁺,K⁺ exchanger continues to extrude Ca²⁺ after channel-mediated entry diminishes.",
+      "why": "Closing cyclic-nucleotide-gated channels reduces calcium influx. The outer-segment sodium–calcium–potassium exchanger continues to extrude calcium, so net efflux temporarily lowers the intracellular concentration.",
       "topicId": "visual",
       "subtopic": "Recovery and adaptation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Reduced outer-segment influx and continued exchanger activity explain the fall without requiring mitochondrial transport to stop.",
+        "B": "Rhodopsin binds retinal as its chromophore and does not irreversibly sequester the calcium removed in light.",
+        "C": "Guanylate cyclase uses GTP to make cGMP, while calcium regulates the enzyme indirectly through associated proteins.",
+        "D": "Transducin is a G protein and has no role as a calcium pump into the lens."
+      }
     },
     {
       "id": "dq-bio-visual-025",
@@ -8434,10 +8590,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Kinase phosphorylation followed by arrestin binding terminates continued rhodopsin signalling.",
+      "why": "Rhodopsin kinase phosphorylates the receptor after light activation, enabling arrestin to bind it. Arrestin then blocks further transducin coupling without waiting for new pigment synthesis.",
       "topicId": "visual",
       "subtopic": "Recovery and adaptation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The visual chromophore is retinal derived from vitamin A, not a compound attached to vitamin D.",
+        "B": "New mRNA can support long-term protein renewal but is too indirect to stop one active receptor promptly.",
+        "D": "Lowering cGMP alters ion channel activity downstream without directly preventing rhodopsin from activating more transducin.",
+        "E": "Channel opening is a downstream electrical event rather than the mechanism that turns off receptor coupling."
+      }
     },
     {
       "id": "dq-bio-visual-026",
@@ -8466,10 +8628,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "All-trans-retinoids are processed in the retinoid cycle to regenerate 11-cis-retinal.",
+      "why": "Bleaching converts the visual chromophore to all-trans-retinal. The retinoid cycle restores the 11-cis form, which recombines with opsin to regenerate rhodopsin that can respond to light.",
       "topicId": "visual",
       "subtopic": "Recovery and adaptation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "All-trans-retinal is the form produced by bleaching and must be processed before it can regenerate dark visual pigment.",
+        "C": "The chromophore of dark rhodopsin has its defining cis configuration at the 11-position rather than the 6-position.",
+        "D": "The required geometry is 11-cis, while the suggested 3-trans configuration does not describe the regenerated chromophore.",
+        "E": "The regenerated chromophore has the 11-cis geometry rather than a 1,4-cis configuration."
+      }
     },
     {
       "id": "dq-bio-visual-027",
@@ -8498,10 +8666,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Dark adaptation includes pigment regeneration and neural adjustments that increase visual sensitivity.",
+      "why": "During dark adaptation, rods recover sensitivity after bright light as visual pigment regenerates and retinal circuits adjust. This improves detection of weak light over time.",
       "topicId": "visual",
       "subtopic": "Recovery and adaptation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Light adaptation reduces sensitivity in brighter surroundings, the reverse of recovering sensitivity in darkness.",
+        "B": "Photobleaching occurs when light alters visual pigment, while dark adaptation includes its regeneration.",
+        "C": "Neural convergence can increase sensitivity, but the time-dependent recovery after entering darkness is called dark adaptation.",
+        "E": "Chromatic aberration is an optical effect of wavelength-dependent refraction rather than recovery of retinal sensitivity."
+      }
     },
     {
       "id": "dq-bio-visual-028",
@@ -8530,10 +8704,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Light adaptation limits saturation and helps vision function across large changes in illumination.",
+      "why": "Light adaptation reduces the gain of the visual response during sustained illumination. Calcium-dependent feedback and other retinal mechanisms help preserve the ability to detect changes against a bright background.",
       "topicId": "visual",
       "subtopic": "Recovery and adaptation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Dark adaptation increases sensitivity after illumination falls, whereas bright backgrounds drive the system to reduce sensitivity.",
+        "C": "Pigment regeneration contributes to visual function but does not by itself describe adjustment to a sustained bright background.",
+        "D": "Amplifying an already strong rod signal would tend to worsen saturation rather than improve adaptation to brightness.",
+        "E": "Adaptation preserves useful signalling across changing illumination rather than making photoreceptors entirely silent."
+      }
     },
     {
       "id": "dq-bio-visual-029",
@@ -8562,10 +8742,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The retinoid cycle converts bleached all-trans chromophore back to the 11-cis form for pigment regeneration.",
+      "why": "The visual retinoid cycle recycles the all-trans product of light absorption to regenerate 11-cis-retinal. This replenishes the chromophore available for binding to opsin.",
       "topicId": "visual",
       "subtopic": "Recovery and adaptation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Cyclic AMP is formed by adenylyl cyclases and is not the main product of the visual retinoid cycle.",
+        "B": "Retinal ganglion cells are neurons, while the retinoid cycle changes a small-molecule chromophore.",
+        "C": "Rhodopsin kinase is a separate protein that helps shut off the receptor rather than being converted from opsin.",
+        "D": "The retinoid cycle regenerates a vitamin A derivative rather than primarily making phospholipids for cell membranes."
+      }
     },
     {
       "id": "dq-bio-visual-030",
@@ -8594,10 +8780,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Different opsin environments shift the wavelengths at which cone pigments absorb most strongly.",
+      "why": "Different cone opsins interact with the same retinal chromophore in slightly different ways. This shifts each pigment's absorption peak and gives the cone classes different wavelength sensitivities.",
       "topicId": "visual",
       "subtopic": "Colour vision",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The common retinal chromophore has the same number of carbon atoms in all three cone classes.",
+        "B": "The three cone pigments use the same vitamin A-derived chromophore rather than different vitamins.",
+        "D": "The chromophore has the same basic ring structure in all cone pigments.",
+        "E": "Each cone visual pigment contains retinal bound to opsin rather than differing primarily in the binding ratio."
+      }
     },
     {
       "id": "dq-bio-visual-031",
@@ -8626,10 +8818,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Red–green colour vision defects commonly arise from X-linked cone opsin gene changes.",
+      "why": "Common inherited red–green colour deficiencies involve changes affecting the long- or medium-wavelength cone opsins. The altered or missing pigment changes how strongly the cones respond to red and green wavelengths.",
       "topicId": "visual",
       "subtopic": "Colour vision",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Rod rhodopsin kinase defects chiefly affect recovery in dim-light vision rather than selective red–green discrimination.",
+        "C": "Transducin is part of phototransduction, whereas a one-pigment red–green defect points to the cone opsin itself.",
+        "D": "A retinoid-cycle defect can reduce chromophore supply more broadly rather than selectively changing one red or green pigment.",
+        "E": "Cone guanylate cyclase contributes to signal recovery, while the described specificity is better explained by an opsin difference."
+      }
     },
     {
       "id": "dq-bio-visual-032",
@@ -8658,10 +8856,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The red- and green-sensitive cone opsin genes are located on the X chromosome.",
+      "why": "Genes for the usual red- and green-sensitive cone opsins are on the X chromosome. With one X chromosome, males are more likely to express a defect when that copy is affected.",
       "topicId": "visual",
       "subtopic": "Colour vision",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Maternal IgG provides temporary immune protection rather than determining inherited cone pigment differences.",
+        "B": "Mitochondrial inheritance does not describe the nuclear X-linked positions of these cone opsin genes.",
+        "C": "Rhodopsin is a rod pigment, whereas the common sex difference reflects inheritance of cone opsin genes.",
+        "E": "Rod calcium regulates adaptation and does not explain the sex distribution of inherited red–green colour deficiency."
+      }
     },
     {
       "id": "dq-bio-visual-033",
@@ -8690,10 +8894,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "A shared 11-cis-retinal chromophore is spectrally tuned by different opsin amino-acid environments.",
+      "why": "Cone opsins place the shared 11-cis-retinal in distinct molecular environments. Interactions with nearby protein residues shift the energy of light absorption and tune each pigment to different wavelengths.",
       "topicId": "visual",
       "subtopic": "Colour vision",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The three usual cone classes use the same retinal isomer in their unbleached pigments.",
+        "C": "Different opsins help tune the same retinal chromophore, without a separate metal cofactor for each cone class.",
+        "D": "Vitamin A supplies a common retinoid chromophore, so different vitamins do not distinguish cone classes.",
+        "E": "Each cone pigment includes an opsin protein, which provides the distinct environment around the chromophore."
+      }
     },
     {
       "id": "dq-bio-visual-034",
@@ -8722,10 +8932,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Activated transducin stimulates PDE6, lowering cGMP and closing cation channels.",
+      "why": "Light activates rhodopsin and transducin, leading to cGMP hydrolysis by PDE6. As cGMP falls, outer-segment cation channels close and the rod hyperpolarises.",
       "topicId": "visual",
       "subtopic": "Integrated visual cycle",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Illumination initially lowers cGMP and reduces inward current, rather than promoting the more depolarised dark state.",
+        "B": "A fall in cGMP is correct, but closing cation channels makes the membrane more negative.",
+        "C": "Hyperpolarisation is correct, but it follows cGMP breakdown rather than an increase in cGMP.",
+        "D": "The early response involves a measurable fall in cGMP and a more negative membrane potential."
+      }
     },
     {
       "id": "dq-bio-visual-035",
@@ -8754,10 +8970,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "GTP loading activates transducin so it can stimulate PDE; failure blunts the light response.",
+      "why": "Transducin must bind GTP to activate PDE6 efficiently. If GDP cannot be exchanged, less PDE6 is activated and the normal fall in cGMP and glutamate release is blunted.",
       "topicId": "visual",
       "subtopic": "Integrated visual cycle",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Transducin regulates PDE6 rather than directly hydrolysing cGMP, and failed activation reduces the normal response.",
+        "B": "Rhodopsin kinase can still act on the receptor, but excessive phosphorylation is not the direct effect of failure to activate transducin.",
+        "D": "Production of 11-cis-retinal is a visual-cycle reaction rather than the immediate target of transducin.",
+        "E": "Less light-induced cGMP breakdown reduces hyperpolarisation and therefore weakens the normal suppression of glutamate."
+      }
     },
     {
       "id": "dq-bio-collagen-001",
@@ -8786,10 +9008,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Collagen fibrils are major load-bearing elements of skin, tendon, bone and many other tissues.",
+      "why": "Collagens assemble into extracellular structures that resist pulling forces. Fibrillar collagens provide much of the tensile strength in tissues such as skin, tendon and bone.",
       "topicId": "collagen",
       "subtopic": "Collagen structure",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Elastin provides recoil and stretch in elastic fibres, whereas collagen provides the main resistance to tensile loading in many tissues.",
+        "B": "Actin is chiefly an intracellular cytoskeletal and contractile protein, rather than the main extracellular tensile framework.",
+        "C": "Histones package DNA into chromatin rather than building strength in the extracellular matrix.",
+        "D": "Keratins are intracellular intermediate filament proteins, distinct from the collagen fibrils that bear much extracellular tension."
+      }
     },
     {
       "id": "dq-bio-collagen-002",
@@ -8818,10 +9046,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Tropocollagen contains three alpha chains arranged into an elongated triple helix.",
+      "why": "One tropocollagen unit consists of three collagen alpha chains wound together in an elongated triple helix. Many such units can assemble into a fibril.",
       "topicId": "collagen",
       "subtopic": "Collagen structure",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "A single globular chain would not provide the three intertwined chains of a collagen molecule.",
+        "C": "Beta sheets are common protein structures, but the collagen molecule has a distinct triple-helical conformation.",
+        "D": "Disulphides help chain alignment in some procollagens, but mature tropocollagen is not four separate globules.",
+        "E": "Transmembrane alpha helices are not the core structure of a soluble fibrillar tropocollagen molecule."
+      }
     },
     {
       "id": "dq-bio-collagen-003",
@@ -8850,10 +9084,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Glycine's small side chain permits close packing toward the helix axis.",
+      "why": "Every third residue faces the closely packed centre of a collagen triple helix. Glycine fits because its side chain is a single hydrogen atom.",
       "topicId": "collagen",
       "subtopic": "Collagen structure",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Proline commonly occupies a neighbouring position in the repeat and has a larger, cyclic side chain.",
+        "B": "Lysine can be modified or involved in cross-links but cannot occupy every crowded central position.",
+        "C": "Alanine has a methyl side chain and is bulkier than glycine at the helix axis.",
+        "E": "Valine has a branched side chain that is too bulky for regular positioning at the helix centre."
+      }
     },
     {
       "id": "dq-bio-collagen-004",
@@ -8882,10 +9122,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Collagen has a Gly-X-Y repeat, commonly with proline and hydroxyproline at X/Y positions.",
+      "why": "Collagen's triple-helical regions repeat glycine followed by two variable residues. Proline is common in the second position and hydroxyproline in the third, but glycine at every third position is the defining feature.",
       "topicId": "collagen",
       "subtopic": "Collagen structure",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Proline can occur frequently, but the second and third positions are variable and neither requires fixed proline.",
+        "C": "A repeat without a specified glycine misses the requirement for a small residue at regularly spaced core positions.",
+        "D": "Lysine can participate in modification or cross-linking, but successive lysines do not define the collagen sequence.",
+        "E": "The core requires a glycine at every third position rather than two obligatory glycines per triplet."
+      }
     },
     {
       "id": "dq-bio-collagen-005",
@@ -8914,10 +9160,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Only glycine is small enough for the crowded inner helix; substitutions can destabilize assembly.",
+      "why": "Glycine's single hydrogen fits near the centre where the three collagen chains are tightly packed. Replacing it with a larger side chain can distort the helix and impair fibril assembly.",
       "topicId": "collagen",
       "subtopic": "Collagen structure",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Substitution changes which residue is inserted and can disrupt folding, but it does not stop all peptide bond formation.",
+        "B": "Collagenases are separate enzymes that degrade collagen rather than products of a glycine replacement in collagen.",
+        "D": "Replacing a glycine affects protein structure and does not inherently increase the cell's amount of nuclear DNA.",
+        "E": "Fibrin derives from fibrinogen during coagulation and does not form when the collagen glycine pattern is disrupted."
+      }
     },
     {
       "id": "dq-bio-collagen-006",
@@ -8946,10 +9198,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Type I forms thick tensile fibrils in bone, skin, tendon and ligaments.",
+      "why": "Type I collagen forms strong fibrils in bone, dermis and tendon. In bone these fibrils provide a tensile matrix that is strengthened further by mineral.",
       "topicId": "collagen",
       "subtopic": "Collagen types",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Type II is the main fibrillar collagen of hyaline cartilage rather than the dominant collagen in tendon and bone.",
+        "B": "Type III is associated with fine reticular fibres and can accompany type I in tissues such as skin.",
+        "C": "Type IV forms a network in basement membranes rather than the major tensile fibrils of bone.",
+        "D": "Type VII forms anchoring fibrils at sites such as the dermal–epidermal junction, distinct from abundant type I fibrils."
+      }
     },
     {
       "id": "dq-bio-collagen-007",
@@ -8978,10 +9236,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Type II collagen is characteristic of cartilage and contributes to its fibrillar framework.",
+      "why": "Type II collagen forms the main fibrillar framework in hyaline cartilage. Its network helps contain the hydrated proteoglycan matrix under mechanical load.",
       "topicId": "collagen",
       "subtopic": "Collagen types",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Type I predominates in tendon and bone and is abundant in fibrocartilage rather than ordinary hyaline cartilage.",
+        "C": "Type III forms fine reticular support in several organs rather than being the principal hyaline cartilage collagen.",
+        "D": "Type IV forms sheets in basement membranes instead of the fibrils that reinforce hyaline cartilage.",
+        "E": "Type VII provides anchoring fibrils at epithelial basement membrane interfaces and is not the main hyaline cartilage collagen."
+      }
     },
     {
       "id": "dq-bio-collagen-008",
@@ -9010,10 +9274,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Type III forms reticular fibrils and occurs in vessels, skin and internal organs.",
+      "why": "Type III collagen forms much of the fine, branching reticular fibre network that supports blood vessels and many internal organs. It can also be found alongside type I.",
       "topicId": "collagen",
       "subtopic": "Collagen types",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Type I forms stronger, often thicker fibrils in tissues such as tendon, rather than being the classic reticular collagen.",
+        "B": "Type II chiefly supports cartilage and is not the typical collagen of reticular fibres in organs.",
+        "C": "Type IV forms basement membrane networks, separate from the fibrillar reticular meshwork.",
+        "E": "Type XVII is a transmembrane component of hemidesmosomes rather than a secreted collagen forming reticular fibres."
+      }
     },
     {
       "id": "dq-bio-collagen-009",
@@ -9042,10 +9312,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Type IV forms network-like scaffolds of the basal lamina rather than typical long fibrils.",
+      "why": "Type IV collagen forms interconnected networks in basal laminae. Its molecules associate through their ends and provide a sheet-like scaffold with other basement membrane proteins.",
       "topicId": "collagen",
       "subtopic": "Collagen types",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Type I provides tensile fibrils in bone, skin and tendon rather than the characteristic basal lamina network.",
+        "C": "Type II forms cartilage fibrils and is not the principal collagen of basement membrane sheets.",
+        "D": "Type III forms reticular fibrils in organs rather than the specialised type IV network.",
+        "E": "Type V coassembles with fibrillar collagens and influences fibril size rather than forming the core basement membrane network."
+      }
     },
     {
       "id": "dq-bio-collagen-011",
@@ -9106,10 +9382,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Prolyl hydroxylase acts on selected proline residues already incorporated into procollagen chains.",
+      "why": "Collagen prolyl hydroxylase acts on selected proline residues already incorporated in procollagen. The resulting hydroxyproline helps stabilise the mature triple helix.",
       "topicId": "collagen",
       "subtopic": "Collagen biosynthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Glycosylation attaches sugars, often to hydroxylysine, and does not generate hydroxyproline from free proline.",
+        "C": "Deamination of lysine can generate aldehydes for cross-links rather than hydroxylating procollagen proline.",
+        "D": "Glycine is important for core packing but its phosphorylation does not produce hydroxyproline.",
+        "E": "Acetylation modifies a side chain by adding an acetyl group rather than hydroxylating a proline residue."
+      }
     },
     {
       "id": "dq-bio-collagen-013",
@@ -9138,10 +9420,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Ascorbate maintains iron in the Fe²⁺ state required for efficient collagen hydroxylation.",
+      "why": "Collagen prolyl hydroxylase requires ferrous iron in its active site. Ascorbate helps restore the reduced iron state and maintain hydroxylase activity during procollagen processing.",
       "topicId": "collagen",
       "subtopic": "Collagen biosynthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Retinoic acid regulates nuclear gene expression and is not the reducing cofactor that maintains prolyl hydroxylase iron.",
+        "B": "Folic acid supports one-carbon metabolism rather than returning catalytic iron to its ferrous state.",
+        "C": "Pantothenic acid is a component of coenzyme A precursors, not the reducing nutrient required here.",
+        "E": "Nicotinic acid is a vitamin B3 precursor of NAD, whereas the immediate support for prolyl hydroxylase is ascorbate."
+      }
     },
     {
       "id": "dq-bio-collagen-014",
@@ -9170,10 +9458,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Prolyl hydroxylase is an Fe²⁺-dependent dioxygenase using oxygen and alpha-ketoglutarate; ascorbate maintains Fe²⁺.",
+      "why": "Prolyl hydroxylase is a ferrous iron-dependent dioxygenase that uses oxygen and alpha-ketoglutarate to hydroxylate a proline residue. Ascorbate helps maintain the enzyme in an active reduced state.",
       "topicId": "collagen",
       "subtopic": "Collagen biosynthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Magnesium and acetate have roles in other reactions, but collagen hydroxylation uses iron and oxygen rather than nitrogen gas.",
+        "C": "Zinc supports some metalloenzymes, but this reaction requires ferrous iron, oxygen and alpha-ketoglutarate instead.",
+        "D": "Copper is associated with lysyl oxidase later in fibril maturation, rather than with the prolyl hydroxylase reaction.",
+        "E": "Succinate is a product of alpha-ketoglutarate turnover in this reaction rather than the required starting cosubstrate."
+      }
     },
     {
       "id": "dq-bio-collagen-015",
@@ -9202,10 +9496,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Lysyl hydroxylase acts intracellularly on lysine residues prior to full triple-helix assembly.",
+      "why": "Lysyl hydroxylase modifies selected lysine side chains on procollagen in the rough endoplasmic reticulum. Hydroxylysines can then become sites of glycosylation or contribute to later cross-links.",
       "topicId": "collagen",
       "subtopic": "Collagen biosynthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Lysyl oxidase acts extracellularly to create reactive aldehydes rather than installing hydroxyl groups in the ER.",
+        "B": "Prolyl hydroxylase modifies proline residues rather than lysines in procollagen.",
+        "D": "Procollagen peptidases remove terminal propeptides after secretion instead of hydroxylating lysine residues.",
+        "E": "Galactosyltransferase adds a sugar to an already hydroxylated lysine, rather than first generating that residue."
+      }
     },
     {
       "id": "dq-bio-collagen-016",
@@ -9234,10 +9534,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Galactose and sometimes glucose are linked to selected hydroxylysine residues.",
+      "why": "Specific hydroxylysine residues in collagen can accept galactose and sometimes an additional glucose. The hydroxyl group created by lysyl hydroxylase provides the attachment site.",
       "topicId": "collagen",
       "subtopic": "Collagen biosynthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Hydroxyproline stabilises the collagen triple helix but is not the usual site for these galactose-containing groups.",
+        "B": "Glycine fits the core of the triple helix and has no side-chain hydroxyl for this glycosylation.",
+        "C": "Methionine contains sulfur and does not normally receive the collagen hydroxylysine-linked carbohydrates.",
+        "D": "Histidine can participate in protein chemistry, but the characteristic collagen sugar attachment occurs on hydroxylysine."
+      }
     },
     {
       "id": "dq-bio-collagen-017",
@@ -9266,10 +9572,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Nascent collagen can be glycosylated on hydroxylysine with galactosyl and glucosyl residues.",
+      "why": "Collagen glycosyltransferases attach galactose directly to selected hydroxylysine residues. A glucose can then be added to that galactose, giving a glucosylgalactose group.",
       "topicId": "collagen",
       "subtopic": "Collagen biosynthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Fructose and mannose are not the standard pair of sugars attached to collagen hydroxylysine.",
+        "C": "Glucose can be present, but it is attached after galactose rather than paired with ribose.",
+        "D": "Mannose participates in other protein glycosylation pathways, while sucrose is not attached to collagen in this modification.",
+        "E": "Galactose is correct as the first sugar, but glucose rather than ribose can extend it."
+      }
     },
     {
       "id": "dq-bio-collagen-018",
@@ -9298,10 +9610,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Proline hydroxylation stabilizes collagen's triple helix near physiological temperature.",
+      "why": "Hydroxyproline favours conformations and hydration that stabilise the collagen triple helix. This increases its resistance to unfolding at physiological temperature.",
       "topicId": "collagen",
       "subtopic": "Collagen biosynthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Fibrin degradation involves plasmin and is unrelated to hydroxylation of collagen proline.",
+        "B": "DNA repair enzymes act on nucleic acids and do not depend on hydroxyproline within collagen helices.",
+        "C": "Haem synthesis involves porphyrin intermediates rather than modifications that stabilise a structural protein.",
+        "E": "Avidity refers to multivalent antibody binding and is not increased by hydroxylating collagen proline."
+      }
     },
     {
       "id": "dq-bio-collagen-019",
@@ -9330,10 +9648,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "N- and C-terminal propeptides keep procollagen soluble before extracellular processing.",
+      "why": "Terminal propeptides keep procollagen soluble and prevent premature fibril assembly before secretion. Once they are cleaved outside the cell, collagen molecules can pack into growing fibrils.",
       "topicId": "collagen",
       "subtopic": "Collagen biosynthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Glycine is needed for triple-helix packing and is retained while propeptides prevent premature assembly.",
+        "C": "Lysyl oxidase functions after secretion to promote cross-linking, rather than keeping intracellular procollagen separate.",
+        "D": "Procollagen must remain as an intact macromolecule for secretion and is not normally converted to free amino acids.",
+        "E": "Terminal disulphides can help align chains before secretion, rather than being removed to provide intracellular solubility."
+      }
     },
     {
       "id": "dq-bio-collagen-021",
@@ -9362,10 +9686,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Procollagen proteinases cleave terminal propeptides outside cells, allowing fibril self-assembly.",
+      "why": "After secretion, extracellular propeptidases remove the terminal extensions from procollagen. The resulting triple-helical collagen molecules can then pack into fibrils.",
       "topicId": "collagen",
       "subtopic": "Collagen biosynthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Elastin is a separately synthesised matrix protein and is not formed by converting procollagen.",
+        "B": "The glycine-rich triple-helical domain is retained, while specific terminal extensions are removed.",
+        "C": "Hydroxyproline remains in mature collagen and helps stabilise the triple helix rather than being degraded.",
+        "D": "The triple helix persists after processing and supplies the building unit for extracellular fibrils."
+      }
     },
     {
       "id": "dq-bio-collagen-022",
@@ -9394,10 +9724,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Lysyl oxidase oxidatively deaminates lysine/hydroxylysine residues, producing reactive aldehydes for cross-links.",
+      "why": "Lysyl oxidase oxidatively deaminates selected lysine or hydroxylysine residues in extracellular collagen. The aldehydes can react with nearby residues to form covalent cross-links.",
       "topicId": "collagen",
       "subtopic": "Collagen cross-linking",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Lysyl hydroxylase adds hydroxyl groups in procollagen inside the cell and does not make the reactive aldehyde.",
+        "C": "Prolyl hydroxylase helps stabilise the triple helix through a different modification on proline.",
+        "D": "Procollagen peptidases remove terminal propeptides to permit assembly rather than converting lysine side chains into aldehydes.",
+        "E": "Dopamine beta-hydroxylase acts in catecholamine synthesis rather than forming collagen cross-links."
+      }
     },
     {
       "id": "dq-bio-collagen-023",
@@ -9426,10 +9762,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Allysine is an aldehyde-bearing derivative of lysine involved in covalent collagen cross-links.",
+      "why": "Lysyl oxidase converts the terminal amino group of a selected lysine side chain into an aldehyde. This lysine-derived aldehyde is allysine and can participate in covalent cross-link formation.",
       "topicId": "collagen",
       "subtopic": "Collagen cross-linking",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Hydroxyproline is formed by hydroxylating proline, not by oxidatively deaminating a lysine residue.",
+        "B": "Hydroxylysine is formed by lysyl hydroxylase before the extracellular aldehyde-forming step.",
+        "C": "Homocysteine is an intermediate in methionine metabolism rather than a collagen side-chain aldehyde.",
+        "E": "Desmosine forms from several lysine-derived residues during elastin maturation and is not the initial collagen aldehyde."
+      }
     },
     {
       "id": "dq-bio-collagen-024",
@@ -9458,10 +9800,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Lysyl oxidase is a copper-dependent amine oxidase required for collagen and elastin cross-linking.",
+      "why": "Lysyl oxidase is a copper-dependent enzyme that generates lysine-derived aldehydes. Those reactive groups form covalent bonds between collagen or elastin molecules.",
       "topicId": "collagen",
       "subtopic": "Collagen cross-linking",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Ferrous iron is used by some collagen hydroxylases rather than being the defining lysyl oxidase metal.",
+        "C": "Zinc supports various proteases, but lysyl oxidase depends on copper for its amine oxidase activity.",
+        "D": "Magnesium supports many ATP-dependent reactions, while the relevant extracellular oxidation requires copper.",
+        "E": "Selenium participates in selenoproteins such as glutathione peroxidase, not the metal-dependent collagen cross-linking reaction."
+      }
     },
     {
       "id": "dq-bio-collagen-025",
@@ -9490,10 +9838,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Covalent cross-links strengthen mature fibrils and provide resistance to mechanical pulling.",
+      "why": "Covalent cross-links join adjacent collagen molecules within mature fibrils. This reduces sliding under load and makes the matrix more resistant to tensile forces.",
       "topicId": "collagen",
       "subtopic": "Collagen cross-linking",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Cross-linking generally makes the mature fibril less soluble rather than turning it into a soluble globular protein.",
+        "B": "Cross-linking strengthens existing fibril structure without requiring a reduction in collagen quantity.",
+        "D": "Collagenase participates in matrix turnover, whereas formation of cross-links does not chiefly increase collagenase secretion.",
+        "E": "Cross-links reinforce the fibril as a whole, rather than intentionally destabilising the individual collagen helices."
+      }
     },
     {
       "id": "dq-bio-collagen-026",
@@ -9522,10 +9876,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Scurvy lowers collagen stability, causing weak capillaries, gingival bleeding and impaired wound healing.",
+      "why": "Vitamin C deficiency limits adequate proline hydroxylation and weakens the collagen matrix. Fragile small vessels and impaired tissue repair explain bleeding gums, bruising and poor wound healing in scurvy.",
       "topicId": "collagen",
       "subtopic": "Clinical collagen disorders",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Lathyrism can impair collagen cross-linking through lysyl oxidase inhibition, rather than through vitamin C deficiency.",
+        "B": "Marfan syndrome involves fibrillin-related elastic microfibrils rather than failure to hydroxylate collagen proline.",
+        "C": "Haemophilia A is a clotting factor VIII deficiency rather than a nutritional defect of collagen synthesis.",
+        "D": "Alkaptonuria arises from impaired homogentisate metabolism and can cause pigment deposition in connective tissues."
+      }
     },
     {
       "id": "dq-bio-collagen-027",
@@ -9554,10 +9914,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Vitamin C deficiency causes defective collagen hydroxylation and fragile connective tissues.",
+      "why": "Ascorbate supports collagen hydroxylases, so deficiency can weaken connective tissues around vessels and in healing wounds. The combination of perifollicular bleeding and gum changes is characteristic of scurvy.",
       "topicId": "collagen",
       "subtopic": "Clinical collagen disorders",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Vitamin A deficiency can impair dim-light vision and epithelial health rather than blocking collagen hydroxylation.",
+        "C": "Vitamin D deficiency affects calcium balance and bone mineralisation, rather than causing the classic scorbutic vascular pattern.",
+        "D": "Vitamin E has an antioxidant role and deficiency can affect nerves or erythrocytes, not collagen hydroxylation directly.",
+        "E": "Vitamin K deficiency impairs clotting factor carboxylation and can cause bleeding without the characteristic connective-tissue defects."
+      }
     },
     {
       "id": "dq-bio-collagen-028",
@@ -9586,10 +9952,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Scurvy produces vascular fragility due to collagen defects, even without a primary coagulation factor defect.",
+      "why": "Scurvy weakens connective tissues through impaired maturation of collagen. Small vessels can bleed because their supporting matrix is fragile, even when the coagulation factors themselves are adequate.",
       "topicId": "collagen",
       "subtopic": "Clinical collagen disorders",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Loss of factor VIII activity causes haemophilia A, rather than the vascular support defect of scurvy.",
+        "B": "Impaired prothrombin carboxylation indicates a vitamin K-related coagulation problem rather than ascorbate-dependent collagen weakness.",
+        "C": "Increased plasmin activity would favour breakdown of fibrin clots rather than impairing formation of vascular collagen.",
+        "E": "CD16 is an IgG Fc receptor associated with immune cells and does not explain the fragile vessels of scurvy."
+      }
     },
     {
       "id": "dq-bio-collagen-029",
@@ -9618,10 +9990,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Type I collagen defects can compromise bone matrix and produce brittle bones.",
+      "why": "Type I collagen is a major component of the bone's organic matrix. Pathogenic changes in its quantity or structure can make bone abnormally fragile, leading to osteogenesis imperfecta.",
       "topicId": "collagen",
       "subtopic": "Clinical collagen disorders",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Ehlers–Danlos syndromes more typically cause joint hypermobility, skin findings or vascular fragility, although some collagen genes overlap.",
+        "C": "Scurvy is caused by vitamin C deficiency affecting collagen hydroxylation rather than by a type I collagen mutation.",
+        "D": "Lathyrism impairs cross-link formation through an acquired exposure, not the usual inherited brittle-bone mechanism.",
+        "E": "Marfan syndrome usually involves fibrillin-1 and causes a different pattern of skeletal and cardiovascular findings."
+      }
     },
     {
       "id": "dq-bio-collagen-030",
@@ -9650,10 +10028,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "EDS comprises heritable connective-tissue disorders with variable skin fragility and joint hypermobility.",
+      "why": "Many Ehlers–Danlos syndromes alter the structure or processing of connective tissue. Depending on the subtype, this can produce hyperextensible skin, joint hypermobility and increased tissue fragility.",
       "topicId": "collagen",
       "subtopic": "Clinical collagen disorders",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Night blindness and xerophthalmia are associated with vitamin A deficiency rather than the classic skin and joint pattern.",
+        "B": "Progressive muscle rigidity is more suggestive of a motor problem than of unusually lax joints and skin.",
+        "D": "Isolated haemarthrosis can indicate an inherited bleeding disorder, without the characteristic skin findings.",
+        "E": "Urate deposition occurs in gout or hyperuricaemic conditions and is not a defining feature of Ehlers–Danlos syndrome."
+      }
     },
     {
       "id": "dq-bio-collagen-031",
@@ -9682,10 +10066,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Impaired extracellular removal of procollagen propeptides can disrupt fibrillogenesis.",
+      "why": "In dermatosparaxis Ehlers–Danlos syndrome, deficient ADAMTS2 activity impairs removal of the amino-terminal procollagen propeptide. The incompletely processed collagen assembles into abnormal fibrils.",
       "topicId": "collagen",
       "subtopic": "Clinical collagen disorders",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Adenylyl cyclase generates cAMP for signalling rather than cleaving terminal extensions from procollagen.",
+        "B": "Rhodopsin kinase helps shut off visual signalling and is unrelated to extracellular procollagen processing.",
+        "C": "Thrombin cleaves fibrinogen during clotting rather than acting as the collagen N-propeptidase in this subtype.",
+        "D": "Guanylate cyclase makes cGMP rather than removing a propeptide from procollagen."
+      }
     },
     {
       "id": "dq-bio-collagen-033",
@@ -9714,10 +10104,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Elastin networks provide elastic recoil, contrasting with collagen's tensile rigidity.",
+      "why": "Elastin forms a flexible cross-linked network within elastic fibres. The network stretches when loaded and recoils when the force is removed, as in elastic arteries and lung tissue.",
       "topicId": "collagen",
       "subtopic": "Elastin",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Collagen provides high tensile strength and limits excessive stretch rather than supplying most reversible recoil.",
+        "B": "Keratin forms intracellular intermediate filaments that support epithelial cells rather than a matrix elastic network.",
+        "C": "Fibronectin helps cells adhere to extracellular matrix and does not provide the main elastic recoil.",
+        "E": "Laminin is a basement membrane glycoprotein that helps organise its scaffold rather than functioning as elastin."
+      }
     },
     {
       "id": "dq-bio-collagen-034",
@@ -9746,10 +10142,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Unlike collagen, elastin contains very little hydroxyproline, no hydroxylysine, and many nonpolar residues.",
+      "why": "Mature elastin has relatively little hydroxyproline and generally lacks hydroxylysine, unlike collagen. Its abundant nonpolar residues and lysine-derived cross-links suit a flexible elastic network.",
       "topicId": "collagen",
       "subtopic": "Elastin",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Abundant hydroxyproline is more characteristic of collagen, while elastin contains substantial alanine.",
+        "C": "Hydroxylysine is a collagen modification and is not abundant in mature elastin.",
+        "D": "Elastin is rich in glycine and does not have the high cysteine pattern proposed here.",
+        "E": "Elastin contains abundant hydrophobic residues such as valine rather than being distinguished by high methionine."
+      }
     },
     {
       "id": "dq-bio-collagen-035",
@@ -9778,10 +10180,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Desmosine cross-links derive from four lysine side chains and are characteristic of mature elastin.",
+      "why": "Desmosine is a distinctive cross-link in mature elastin formed from four lysine-derived side chains. It joins flexible elastin molecules into a network that can recoil.",
       "topicId": "collagen",
       "subtopic": "Elastin",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Allysine is a lysine-derived aldehyde that participates in cross-link formation, rather than the final four-residue cross-link.",
+        "B": "Hydroxylysine is a modified residue characteristic of collagen and is not the distinctive elastin cross-link.",
+        "D": "Hydroxyproline helps stabilise collagen helices but does not create the four-lysine structure in elastin.",
+        "E": "Citrulline is an amino acid derivative involved in pathways such as the urea cycle, rather than elastin cross-link formation."
+      }
     },
     {
       "id": "dq-bio-collagen-036",
@@ -9810,10 +10218,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Lysine-derived cross-links connect mobile elastin chains, allowing extensibility and elastic recoil.",
+      "why": "Elastin chains are flexible and linked together by stable covalent cross-links. Stretching rearranges the chains, and after release they tend to return towards their relaxed conformations without losing network integrity.",
       "topicId": "collagen",
       "subtopic": "Elastin",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Elastin is conformationally flexible rather than relying on a rigid globular alpha-helical structure for recoil.",
+        "B": "Elastic recoil is reversible and does not require the peptide backbone to be hydrolysed.",
+        "C": "Collagen fibrils provide tensile support, but elastin can recoil without collagen depolymerisation.",
+        "D": "Fibrin forms during coagulation and is not continuously created to drive recoil in elastic fibres."
+      }
     },
     {
       "id": "dq-bio-collagen-037",
@@ -9842,10 +10256,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Fibroblasts produce extracellular collagen and other matrix proteins during wound healing.",
+      "why": "Fibroblasts make and secrete collagen and other extracellular matrix proteins during repair. The collagen deposited in granulation tissue is reorganised and strengthened as the wound matures.",
       "topicId": "collagen",
       "subtopic": "Wound healing",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Neutrophils participate early by clearing microbes and debris rather than depositing most of the wound's collagen.",
+        "C": "Mature erythrocytes lack a nucleus and protein-synthesis machinery and do not secrete wound collagen.",
+        "D": "Basophils release inflammatory mediators and are not major matrix-producing cells in healing tissue.",
+        "E": "B lymphocytes contribute to adaptive immunity rather than synthesising most of the collagen in a wound."
+      }
     },
     {
       "id": "dq-bio-collagen-038",
@@ -9874,10 +10294,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Remodelling includes increased collagen organization and covalent cross-linking.",
+      "why": "As a scar remodels, collagen fibrils become more ordered and gain intermolecular cross-links. Those changes improve the scar's ability to resist tensile loading.",
       "topicId": "collagen",
       "subtopic": "Wound healing",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Platelets assist early haemostasis, but later tensile strength is mainly a property of the collagen matrix.",
+        "B": "Fibronectin helps organise the early wound matrix, but its depletion alone does not explain greater collagen strength.",
+        "C": "Type I collagen contributes significantly to mature scar strength, so wholesale degradation would remove important load-bearing material.",
+        "E": "Macrophages and fibroblasts have different wound-healing roles, and conversion between them is not required for fibril reinforcement."
+      }
     },
     {
       "id": "dq-bio-collagen-039",
@@ -9906,10 +10332,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Myofibroblasts express contractile proteins and help shrink healing wounds.",
+      "why": "Myofibroblasts develop a contractile apparatus and mechanically attach to surrounding matrix. Their contraction draws parts of the wound closer together while repair tissue forms.",
       "topicId": "collagen",
       "subtopic": "Wound healing",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Osteoclasts resorb bone and do not provide the traction that closes a soft-tissue wound.",
+        "C": "Chondroblasts produce cartilage matrix, while myofibroblasts generate force in granulation tissue.",
+        "D": "Melanocytes produce pigment rather than providing the characteristic wound contraction.",
+        "E": "Eosinophils are immune granulocytes and do not supply the organised contractile force of a healing wound."
+      }
     },
     {
       "id": "dq-bio-endocrine-001",
@@ -9938,10 +10370,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Hormonal target specificity depends primarily on whether responsive cells express the appropriate receptors.",
+      "why": "A circulating hormone can reach many tissues, but only cells expressing an appropriate receptor can recognise it and transduce its signal. Receptor expression is therefore a major determinant of target specificity.",
       "topicId": "endocrine",
       "subtopic": "Endocrine basics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Plasma viscosity can affect flow, but it does not give a target cell the ability to recognise a hormone.",
+        "B": "Red cells carry oxygen, whereas hormonal specificity is established by receptors on or in the target cells.",
+        "D": "Calcium can modify some intracellular responses, but it does not replace the hormone's receptor as the recognition step.",
+        "E": "Receptor recognition is the basis of target cell selectivity once the hormone reaches the tissue."
+      }
     },
     {
       "id": "dq-bio-endocrine-002",
@@ -9970,10 +10408,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Responses depend on circulating hormone, receptor number and hormone–receptor affinity.",
+      "why": "More receptors can increase the number of hormone–receptor complexes available for signalling. Higher binding affinity can also increase receptor occupancy at a given free hormone concentration.",
       "topicId": "endocrine",
       "subtopic": "Endocrine basics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Haemoglobin and albumin have transport roles, but target sensitivity also requires receptors that can bind the hormone.",
+        "B": "Red-cell size and platelet survival affect blood physiology rather than specifying hormone receptor occupancy.",
+        "C": "Collagen properties describe tissue matrix organisation, not the abundance or binding properties of a receptor.",
+        "D": "Glucose concentration can influence metabolism, and viscosity affects flow, but neither describes the requested receptor-level determinants."
+      }
     },
     {
       "id": "dq-bio-endocrine-003",
@@ -10002,10 +10446,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Adipose tissue releases endocrine mediators affecting energy homeostasis and inflammatory signalling.",
+      "why": "Adipose tissue releases signalling molecules such as leptin and adiponectin into circulation. Their actions on distant tissues contribute to regulation of energy balance and metabolism.",
       "topicId": "endocrine",
       "subtopic": "Endocrine basics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Digestive enzyme delivery through a duct is exocrine secretion rather than the endocrine function of adipose tissue.",
+        "C": "Adipocytes have structural proteins, but they also secrete bioactive regulators that can circulate.",
+        "D": "Adipose tissue stores lipids and also releases hormones, so lack of stored bioactive material is not the defining property.",
+        "E": "Adipose tissue contains cells and mediators that can influence inflammation as well as energy homeostasis."
+      }
     },
     {
       "id": "dq-bio-endocrine-004",
@@ -10034,10 +10484,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Islets secrete hormones into blood, while pancreatic acini produce digestive secretions into ducts.",
+      "why": "Pancreatic islets release hormones such as insulin and glucagon into blood. Separate acinar and duct cells deliver digestive enzymes and bicarbonate into ducts that reach the duodenum.",
       "topicId": "endocrine",
       "subtopic": "Endocrine basics",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The pineal gland secretes melatonin and does not have a separate digestive exocrine component.",
+        "B": "Parathyroid glands release parathyroid hormone into the circulation rather than secreting through ducts.",
+        "C": "The anterior pituitary releases hormones into blood and has no pancreatic-type exocrine ducts.",
+        "E": "The adrenal medulla secretes catecholamines into the blood and is an endocrine tissue."
+      }
     },
     {
       "id": "dq-bio-endocrine-005",
@@ -10066,10 +10522,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "TSH is a glycoprotein, as are FSH and LH.",
+      "why": "Thyrotropin is thyroid-stimulating hormone, a glycoprotein made of alpha and beta subunits with carbohydrate chains. Its beta subunit confers much of its receptor specificity.",
       "topicId": "endocrine",
       "subtopic": "Hormone classes",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Insulin is a peptide hormone formed from proinsulin and is not one of the glycoprotein hormone family.",
+        "C": "Glucagon is a peptide produced by pancreatic alpha cells rather than a glycoprotein heterodimer.",
+        "D": "Cortisol is a steroid derived from cholesterol and has no constituent protein subunits.",
+        "E": "Adrenaline is a tyrosine-derived catecholamine rather than a glycosylated polypeptide hormone."
+      }
     },
     {
       "id": "dq-bio-endocrine-007",
@@ -10098,10 +10560,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Thyroid hormones are tyrosine-derived but bind nuclear thyroid hormone receptors to regulate transcription.",
+      "why": "Thyroxine is an iodinated derivative of tyrosine. Much of its genomic effect follows conversion to triiodothyronine, which binds nuclear receptors to change gene transcription.",
       "topicId": "endocrine",
       "subtopic": "Hormone classes",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Adrenaline is tyrosine-derived but acts mainly at adrenergic receptors on the cell surface.",
+        "B": "Noradrenaline is a catecholamine that primarily signals through cell-surface adrenergic receptors.",
+        "C": "Glucagon is a peptide and acts through a cell-surface G protein-coupled receptor.",
+        "D": "Oxytocin is a small peptide that signals mainly through a G protein-coupled receptor at the membrane."
+      }
     },
     {
       "id": "dq-bio-endocrine-008",
@@ -10130,10 +10598,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Insulin and glucagon are peptide hormones, unlike steroids and amino acid derivatives.",
+      "why": "Insulin and glucagon are both made from amino acid chains and processed from larger precursors. They regulate metabolism through membrane receptors despite having different receptor mechanisms.",
       "topicId": "endocrine",
       "subtopic": "Hormone classes",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Cortisol and aldosterone both derive from cholesterol and are adrenal steroid hormones.",
+        "C": "Testosterone and oestradiol are steroids rather than hormones made of amino acid chains.",
+        "D": "Adrenaline and thyroxine are amino acid-derived molecules, but neither is a peptide hormone.",
+        "E": "Progesterone and cortisol are both cholesterol-derived steroids rather than peptide products."
+      }
     },
     {
       "id": "dq-bio-endocrine-009",
@@ -10162,10 +10636,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Steroid hormones diffuse across lipid membranes and regulate gene expression through intracellular receptors.",
+      "why": "Steroid hormones are lipid-soluble cholesterol derivatives that can enter target cells and bind intracellular receptors. The activated receptors can then regulate expression of particular genes.",
       "topicId": "endocrine",
       "subtopic": "Hormone classes",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Peptide hormones are generally water-soluble and usually signal through receptors at the cell surface.",
+        "B": "Protein hormones are too large and polar to routinely diffuse through membranes to reach nuclear receptors.",
+        "C": "Glycoprotein hormones such as TSH bind surface receptors rather than using the classical steroid mechanism.",
+        "E": "Catecholamines are relatively polar and usually activate adrenergic receptors on the outside of target cells."
+      }
     },
     {
       "id": "dq-bio-endocrine-010",
@@ -10194,10 +10674,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Epinephrine is a tyrosine-derived catecholamine acting largely through cell-surface adrenergic receptors.",
+      "why": "Epinephrine, also called adrenaline, is made from tyrosine through the catecholamine pathway. It acts mainly through cell-surface adrenergic receptors rather than intracellular steroid receptors.",
       "topicId": "endocrine",
       "subtopic": "Hormone classes",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Aldosterone is a cholesterol-derived mineralocorticoid rather than a product of tyrosine metabolism.",
+        "C": "Progesterone is a steroid that also serves as an intermediate in several steroidogenic pathways.",
+        "D": "Cortisol is a steroid glucocorticoid made from cholesterol, rather than a tyrosine-derived catecholamine.",
+        "E": "Oestradiol is a steroid formed from androgen precursors, not a product of the catecholamine pathway."
+      }
     },
     {
       "id": "dq-bio-endocrine-011",
@@ -10226,10 +10712,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Gs activates adenylyl cyclase, which converts ATP to cAMP.",
+      "why": "A receptor coupled to Gs activates its G protein alpha subunit. The active subunit stimulates adenylyl cyclase, allowing ATP to be converted into the second messenger cAMP.",
       "topicId": "endocrine",
       "subtopic": "Hormone signalling",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Phospholipase A2 releases fatty acids from membrane phospholipids and is not the direct canonical effector of Gs.",
+        "B": "Guanylate cyclase produces cGMP rather than the cAMP generated downstream of Gs.",
+        "D": "Lysyl hydroxylase modifies collagen in the endoplasmic reticulum and does not mediate the Gs signal.",
+        "E": "Protein phosphatases remove phosphate from proteins rather than serving as the canonical Gs-stimulated second-messenger enzyme."
+      }
     },
     {
       "id": "dq-bio-endocrine-012",
@@ -10258,10 +10750,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Adenylyl cyclase converts ATP into the second messenger cyclic AMP.",
+      "why": "Adenylyl cyclase converts ATP to cyclic AMP by forming a cyclic phosphodiester bond and releasing pyrophosphate. The cAMP then functions as an intracellular second messenger.",
       "topicId": "endocrine",
       "subtopic": "Hormone signalling",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "GTP supplies the nucleotide switch on G proteins, but ATP is the substrate used to make cAMP.",
+        "B": "ADP is an adenine nucleotide, but adenylyl cyclase directly uses the triphosphate rather than ADP.",
+        "C": "Noncyclic AMP is commonly produced when cAMP is hydrolysed and is not the immediate cyclase substrate.",
+        "D": "CTP is a cytidine nucleotide and does not donate the adenine group of cyclic AMP."
+      }
     },
     {
       "id": "dq-bio-endocrine-013",
@@ -10290,10 +10788,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "cAMP activates PKA, leading to phosphorylation-dependent cellular responses.",
+      "why": "Cyclic AMP binds the regulatory subunits of protein kinase A, increasing availability of its active catalytic subunits. The kinase phosphorylates target proteins to produce downstream cellular effects.",
       "topicId": "endocrine",
       "subtopic": "Hormone signalling",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Protein kinase C is classically activated by diacylglycerol, with calcium required for conventional PKC isoforms.",
+        "C": "JAK2 is activated by certain cytokine-family receptors rather than directly by cyclic AMP.",
+        "D": "Calpain is a calcium-activated protease rather than the main kinase responding to cAMP.",
+        "E": "DNA polymerase copies DNA and is not the immediate enzyme activated by cyclic AMP."
+      }
     },
     {
       "id": "dq-bio-endocrine-014",
@@ -10322,10 +10826,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Receptor activation promotes GDP–GTP exchange on the G-protein alpha subunit.",
+      "why": "An activated G protein-coupled receptor promotes GDP release from the G protein alpha subunit. GTP can bind in its place, changing the subunit's conformation and effector activity.",
       "topicId": "endocrine",
       "subtopic": "Hormone signalling",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "ATP is not converted directly into DNA by the receptor or the G protein.",
+        "B": "The G protein uses GTP as a molecular switch, while adenylyl cyclase makes cAMP from ATP.",
+        "C": "GDP is released and replaced by free GTP rather than being phosphorylated while still bound.",
+        "E": "Activated receptors stimulate effectors through G proteins, but the receptor itself does not synthesise cAMP from GTP."
+      }
     },
     {
       "id": "dq-bio-endocrine-015",
@@ -10354,10 +10864,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Gq activates phospholipase C, producing IP3 and DAG from PIP2.",
+      "why": "A Gq-coupled receptor activates the G protein and stimulates phospholipase C beta. This enzyme cleaves membrane PIP2 to form soluble IP3 and membrane-associated diacylglycerol.",
       "topicId": "endocrine",
       "subtopic": "Hormone signalling",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Adenylyl cyclase produces cAMP from ATP and does not cleave a membrane phosphoinositide.",
+        "C": "Guanylate cyclase generates cGMP from GTP and is not the PIP2-cleaving effector of Gq.",
+        "D": "Phosphodiesterase 5 hydrolyses cGMP rather than splitting membrane PIP2.",
+        "E": "Protein kinase A phosphorylates target proteins after cAMP signalling and is not a lipid-cleaving enzyme."
+      }
     },
     {
       "id": "dq-bio-endocrine-016",
@@ -10386,10 +10902,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Phospholipase C hydrolyses PIP2 into inositol trisphosphate and diacylglycerol.",
+      "why": "Phospholipase C splits PIP2 into two signalling products. IP3 diffuses through cytosol towards calcium stores, while diacylglycerol remains in the membrane and helps activate protein kinase C.",
       "topicId": "endocrine",
       "subtopic": "Hormone signalling",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Cyclic AMP and cyclic GMP are made by cyclases, rather than by cleavage of PIP2.",
+        "B": "ATP and GTP are nucleotides used in signalling and metabolism and are not fragments of the phospholipid.",
+        "D": "ADP and AMP are adenine nucleotides rather than the two messengers released by phospholipase C.",
+        "E": "Calcium may rise after IP3 signalling, but neither calcium nor sodium is directly released as a PIP2 cleavage product."
+      }
     },
     {
       "id": "dq-bio-endocrine-017",
@@ -10418,10 +10940,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "IP3 binds IP3 receptors on intracellular stores and releases Ca²⁺.",
+      "why": "Inositol trisphosphate diffuses to the endoplasmic reticulum and binds an IP3 receptor there. The receptor is a calcium channel that opens to release stored calcium into the cytosol.",
       "topicId": "endocrine",
       "subtopic": "Hormone signalling",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Diacylglycerol remains in the membrane and helps activate protein kinase C rather than directly opening ER calcium channels.",
+        "B": "Cyclic AMP can activate protein kinase A, but IP3 directly activates the ER release channel in this pathway.",
+        "C": "Cyclic GMP acts in pathways such as smooth muscle relaxation and is not the ligand for the IP3 receptor.",
+        "D": "Phosphatidylinositol can be phosphorylated to produce membrane signalling lipids, while soluble IP3 directly triggers calcium release."
+      }
     },
     {
       "id": "dq-bio-endocrine-018",
@@ -10450,10 +10978,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "DAG activates PKC, often with calcium contributions, to phosphorylate target proteins.",
+      "why": "Diacylglycerol remains in the cell membrane after phospholipase C cleavage. It helps recruit and activate conventional and novel protein kinase C isoforms, with calcium also required by conventional isoforms.",
       "topicId": "endocrine",
       "subtopic": "Hormone signalling",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Protein kinase A is typically activated by cAMP rather than by diacylglycerol in the membrane.",
+        "C": "Protein kinase G responds to cGMP, which is created by guanylate cyclase.",
+        "D": "DNA polymerase uses nucleotide substrates to copy DNA and is not the immediate diacylglycerol effector.",
+        "E": "Thymidylate synthase forms a DNA precursor through folate-dependent chemistry rather than transducing DAG signals."
+      }
     },
     {
       "id": "dq-bio-endocrine-019",
@@ -10482,10 +11016,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Calmodulin binds Ca²⁺ and regulates diverse enzymes and cellular functions.",
+      "why": "Calmodulin binds calcium and changes shape as its binding sites become occupied. It then regulates enzymes such as calcium–calmodulin-dependent kinases and other cellular targets.",
       "topicId": "endocrine",
       "subtopic": "Hormone signalling",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Albumin carries various substances in plasma and is not the main intracellular calcium signal sensor.",
+        "B": "Collagen provides structural support in extracellular matrix rather than relaying a rise in cytosolic calcium.",
+        "C": "Fibrinogen is a blood clot precursor, not a calcium-responsive regulator of intracellular enzymes.",
+        "E": "Transferrin carries iron in the circulation rather than sensing changes in intracellular calcium."
+      }
     },
     {
       "id": "dq-bio-endocrine-020",
@@ -10514,10 +11054,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Cyclic nucleotide phosphodiesterases convert cAMP into noncyclic AMP.",
+      "why": "Cyclic nucleotide phosphodiesterases hydrolyse the cyclic bond of cAMP, forming noncyclic 5′-AMP. They lower the signal and reduce continued activation of cAMP-dependent effectors.",
       "topicId": "endocrine",
       "subtopic": "Hormone signalling",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Adenylyl cyclase generates cAMP and therefore increases the signal rather than hydrolysing it.",
+        "C": "Protein kinase A responds to cAMP and phosphorylates substrates, but does not degrade cAMP.",
+        "D": "Phospholipase C acts on phosphoinositides and generates different second messengers rather than removing cyclic AMP.",
+        "E": "Blocking ATP synthase affects energy production rather than directly hydrolysing cAMP."
+      }
     },
     {
       "id": "dq-bio-endocrine-021",
@@ -10546,10 +11092,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The insulin receptor has intrinsic tyrosine kinase activity, an important exception to a blanket peptide–GPCR rule.",
+      "why": "The insulin receptor has intrinsic tyrosine kinase activity. Insulin binding promotes receptor autophosphorylation and recruitment of signalling proteins, rather than activating a classical heterotrimeric G protein receptor.",
       "topicId": "endocrine",
       "subtopic": "Hormone signalling",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Glucagon typically signals through a Gs-coupled receptor to increase cyclic AMP.",
+        "B": "TSH signals through a membrane G protein-coupled receptor, with cAMP important in thyroid cells.",
+        "D": "ACTH acts through a melanocortin receptor coupled to Gs rather than through intrinsic receptor kinase activity.",
+        "E": "Adrenaline acts on adrenergic G protein-coupled receptors rather than on an insulin-like receptor tyrosine kinase."
+      }
     },
     {
       "id": "dq-bio-endocrine-022",
@@ -10578,10 +11130,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Growth hormone uses cytokine-like receptors associated with JAK2 and downstream STAT transcription factors.",
+      "why": "The growth hormone receptor associates with JAK2 rather than possessing its own tyrosine kinase domain. Hormone binding activates this pathway and can stimulate STAT-dependent transcription.",
       "topicId": "endocrine",
       "subtopic": "Hormone signalling",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The insulin receptor has its own tyrosine kinase domain, unlike a receptor that relies on associated JAK2.",
+        "B": "Glucagon chiefly uses a G protein-coupled receptor and cyclic AMP, rather than JAK–STAT signalling.",
+        "C": "Epinephrine acts primarily through adrenergic G protein-coupled receptors whose signalling depends on receptor subtype.",
+        "D": "Aldosterone binds the intracellular mineralocorticoid receptor, a ligand-regulated transcription factor rather than a JAK-associated receptor."
+      }
     },
     {
       "id": "dq-bio-endocrine-023",
@@ -10610,10 +11168,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Steroid receptors act as ligand-dependent transcription regulators.",
+      "why": "When a steroid-bound receptor binds its regulatory DNA sequence, it can recruit transcriptional activators or repressors. The immediate genomic consequence is altered transcription of the target gene.",
       "topicId": "endocrine",
       "subtopic": "Steroid hormone action",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Some hormones can affect ion-channel activity indirectly, but receptor binding to DNA does not instantly open all sodium channels.",
+        "C": "Fibrin hydrolysis is mediated by fibrinolytic enzymes, separate from control of transcription by a steroid receptor.",
+        "D": "Cyclic GMP is synthesised from GTP by guanylate cyclase, rather than by a DNA-bound steroid receptor.",
+        "E": "PIP2 cleavage is a phospholipase C reaction in the membrane, not a consequence of the DNA-binding step itself."
+      }
     },
     {
       "id": "dq-bio-endocrine-024",
@@ -10642,10 +11206,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Classical steroid responses involve transcription and subsequent synthesis of proteins.",
+      "why": "Classical steroid responses often depend on changes in gene transcription, followed by translation and accumulation of new proteins. This takes longer than changing the activity of proteins already present.",
       "topicId": "endocrine",
       "subtopic": "Steroid hormone action",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Histamine can be released rapidly from preformed stores, which is a separate mechanism from genomic steroid action.",
+        "B": "Steroid receptors regulate particular genes rather than broadly blocking transcription or protein synthesis.",
+        "C": "Some peptide receptors use G proteins for rapid effects, while classical genomic steroid effects depend on transcriptional regulation.",
+        "E": "Direct channel opening can occur rapidly, whereas the slower response reflects production of new gene products."
+      }
     },
     {
       "id": "dq-bio-endocrine-025",
@@ -10674,10 +11244,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Both adrenal glucocorticoids and mineralocorticoids derive from cholesterol.",
+      "why": "Adrenal cells begin corticosteroid synthesis with cholesterol. Its mitochondrial side-chain cleavage produces pregnenolone, which is processed along pathways leading to glucocorticoids or mineralocorticoids.",
       "topicId": "endocrine",
       "subtopic": "Steroid hormone synthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Glutamate participates in amino acid and neurotransmitter metabolism rather than supplying the steroid ring skeleton.",
+        "C": "Glycogen stores glucose, while corticosteroids derive from an intact cholesterol-derived steroid scaffold.",
+        "D": "Choline is used in phospholipids and acetylcholine rather than as the common steroid precursor.",
+        "E": "Tryptophan can contribute to serotonin or niacin pathways, but it does not provide the corticosteroid skeleton."
+      }
     },
     {
       "id": "dq-bio-endocrine-026",
@@ -10706,10 +11282,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Cholesterol side-chain cleavage yields pregnenolone, the common steroid precursor.",
+      "why": "Mitochondrial cholesterol side-chain cleavage by CYP11A1 converts cholesterol into pregnenolone. This is the first shared steroid intermediate before the pathways diverge into their different hormone products.",
       "topicId": "endocrine",
       "subtopic": "Steroid hormone synthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Cortisol is a glucocorticoid made after several downstream transformations of pregnenolone.",
+        "B": "Aldosterone is a later mineralocorticoid product made through the glomerulosa pathway, not the first mitochondrial product.",
+        "D": "Oestradiol is formed from androgen precursors farther downstream in steroid metabolism.",
+        "E": "Androstenedione is a downstream androgen precursor and does not form directly from cholesterol side-chain cleavage."
+      }
     },
     {
       "id": "dq-bio-endocrine-027",
@@ -10738,10 +11320,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The zona glomerulosa produces mineralocorticoids and lacks significant 17α-hydroxylase activity.",
+      "why": "Zona glomerulosa cells express aldosterone synthase and are specialised for mineralocorticoid production. Angiotensin II and the extracellular potassium concentration are major physiological regulators of aldosterone synthesis.",
       "topicId": "endocrine",
       "subtopic": "Steroid hormone synthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The zona fasciculata chiefly produces glucocorticoids such as cortisol rather than aldosterone.",
+        "B": "The zona reticularis chiefly produces adrenal androgens rather than being the main mineralocorticoid layer.",
+        "C": "The adrenal medulla produces catecholamines and is distinct from the steroid-producing cortex.",
+        "D": "The pituitary pars distalis produces tropic hormones such as ACTH, rather than synthesising adrenal steroids itself."
+      }
     },
     {
       "id": "dq-bio-endocrine-028",
@@ -10770,10 +11358,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The zona glomerulosa does not express CYP17A1 and thus does not follow cortisol/androgen pathways.",
+      "why": "Zona glomerulosa normally lacks CYP17A1 activity, so its steroid pathway does not enter the usual cortisol or androgen branches. It expresses aldosterone synthase to make mineralocorticoids.",
       "topicId": "endocrine",
       "subtopic": "Steroid hormone synthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Cholesterol side-chain cleavage is needed to form pregnenolone at the start of steroid synthesis in this zone.",
+        "C": "3β-hydroxysteroid dehydrogenase helps convert pregnenolone towards progesterone in the mineralocorticoid pathway.",
+        "D": "21-hydroxylase provides a step towards deoxycorticosterone, an intermediate in aldosterone synthesis.",
+        "E": "Aldosterone synthase is a defining enzyme in zona glomerulosa rather than being absent from it."
+      }
     },
     {
       "id": "dq-bio-endocrine-029",
