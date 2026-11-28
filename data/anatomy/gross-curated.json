@@ -22836,10 +22836,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Skene's (paraurethral) glands are the female homologue of the prostate.",
+      "why": "Paraurethral glands develop in association with the female urethra and are homologous to the prostate. Their small ducts open near the external urethral meatus.",
       "topicId": "g-urinary",
       "subtopic": "Urethra",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Cowper's glands are the male bulbourethral glands, whose female counterparts are the greater vestibular glands.",
+        "C": "Bulbourethral glands drain to the male spongy urethra and correspond to greater vestibular rather than paraurethral glands.",
+        "D": "Seminal vesicles develop from mesonephric duct outgrowths and are separate from urethral gland homology.",
+        "E": "Testes develop from gonadal ridges and are homologous to ovaries rather than paraurethral glands."
+      }
     },
     {
       "id": "dq-g-urinary-063",
@@ -22900,10 +22906,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The membranous urethra (~2 cm), passing through the urogenital diaphragm, is the narrowest and least dilatable.",
+      "why": "The membranous segment is short, relatively narrow and poorly distensible as it passes through the external sphincter and perineal membrane. The external meatus itself is usually narrower.",
       "topicId": "g-urinary",
       "subtopic": "Urethra",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The spongy urethra has relatively distensible portions surrounded by erectile tissue, unlike the short fixed segment.",
+        "B": "The penile urethra is part of the spongy course and is longer than the membranous segment.",
+        "C": "The navicular fossa is a dilated region in the glans just proximal to the external meatus.",
+        "E": "The prostatic urethra is usually the widest, passing through the prostate above the membranous part."
+      }
     },
     {
       "id": "dq-g-urinary-065",
@@ -22932,10 +22944,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The bulbourethral (Cowper's) glands open into the spongy urethra; the ejaculatory and prostatic ducts open into the prostatic urethra.",
+      "why": "The bulbourethral glands lie near the external urethral sphincter. Their ducts pass through the perineal membrane to open into the proximal spongy urethra, where they release mucus.",
       "topicId": "g-urinary",
       "subtopic": "Urethra",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The prostatic ducts drain into the prostatic sinuses above the membranous segment.",
+        "B": "Seminal vesicle ducts join the ductus deferens to form ejaculatory ducts that drain to the prostatic urethra.",
+        "C": "Skene's glands are female paraurethral glands opening close to the external urethral meatus.",
+        "D": "The ejaculatory ducts drain to the seminal colliculus in the prostate rather than to the spongy urethra."
+      }
     },
     {
       "id": "dq-g-urinary-066",
@@ -23028,10 +23046,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Voluntary sphincter control awaits myelination of the corticospinal tracts, developing by about 3-6 years.",
+      "why": "Infants void through immature spinal and brainstem circuits before they acquire conscious control. Myelination and maturation of descending pathways, increasing bladder capacity and learned coordination all contribute to later continence.",
       "topicId": "g-urinary",
       "subtopic": "Clinical",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The oblique intramural ureters provide an antireflux mechanism, which is separate from conscious control of urination.",
+        "B": "Infant kidneys are still maturing, but voluntary continence depends on coordination of bladder and outlet by the nervous system.",
+        "D": "Infant bladder capacity is smaller than adult capacity, and capacity alone does not provide voluntary control.",
+        "E": "The detrusor is already present and functional, allowing reflex contraction before voluntary control develops."
+      }
     },
     {
       "id": "dq-g-urinary-069",
@@ -23060,10 +23084,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "About 75% of stones are calcium oxalate/phosphate; struvite (~15%) and uric acid/cystine (~10%) are less common.",
+      "why": "Most urinary stones contain calcium, usually calcium oxalate and sometimes calcium phosphate. The exact proportion varies by population and classification, but calcium-containing stones make up roughly three-quarters overall.",
       "topicId": "g-urinary",
       "subtopic": "Clinical",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Cystine stones are relatively uncommon and occur in cystinuria due to excess urinary cystine.",
+        "B": "Magnesium ammonium phosphate is struvite, which can form in infections caused by urease-producing bacteria.",
+        "C": "Cholesterol is a common component of gallstones, while most urinary calculi are calcium salts.",
+        "E": "Uric acid stones can form in acidic urine but account for a smaller proportion than calcium stones."
+      }
     },
     {
       "id": "dq-g-urinary-070",
@@ -23092,10 +23122,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Extracorporeal shock-wave lithotripsy fragments stones without open surgery.",
+      "why": "Extracorporeal shock-wave lithotripsy focuses pressure waves from outside the body onto a urinary calculus. The waves fragment the stone and can allow smaller pieces to pass through the tract.",
       "topicId": "g-urinary",
       "subtopic": "Clinical",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Nephrolithotomy refers to surgical removal of a kidney stone through an incision or tract into the kidney.",
+        "B": "Pyelolithotomy removes a stone through an incision into the renal pelvis rather than breaking it externally.",
+        "C": "Cystolithotomy is surgical removal of a bladder stone rather than extracorporeal fragmentation.",
+        "D": "Ureteroscopy uses an endoscope within the tract to inspect or treat stones without focusing external shock waves."
+      }
     },
     {
       "id": "dq-g-urinary-071",
@@ -23124,10 +23160,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Renal transplants are placed in the iliac fossa, with anastomosis to the iliac vessels and bladder.",
+      "why": "A renal transplant usually sits extraperitoneally in an iliac fossa. The site gives access to iliac vessels for the graft circulation and places the graft ureter close to the bladder.",
       "topicId": "g-urinary",
       "subtopic": "Clinical",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "The native renal bed is deeper and is not the usual location for an added graft.",
+        "C": "The subhepatic region lies high in the upper abdomen, away from the usual pelvic vascular connections.",
+        "D": "The posterior paravertebral region is near the native kidneys, rather than the usual anterior extraperitoneal placement.",
+        "E": "The perineum lies below the pelvic floor and does not provide the usual access to iliac vessels and bladder."
+      }
     },
     {
       "id": "dq-g-urinary-072",
@@ -23156,10 +23198,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "A horseshoe kidney is caught beneath the inferior mesenteric artery during ascent and remains low.",
+      "why": "A horseshoe kidney consists of two kidneys joined by an isthmus, most often at their lower poles. The fused organ typically remains low, with the isthmus commonly lying below the inferior mesenteric artery.",
       "topicId": "g-urinary",
       "subtopic": "Clinical",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Nephroptosis is excessive positional descent of a kidney rather than congenital fusion across the midline.",
+        "C": "A pelvic kidney is an ectopic kidney that remains low, without necessarily joining the other kidney.",
+        "D": "A duplex kidney has a duplicated collecting system and does not by definition have fused lower poles.",
+        "E": "Polycystic kidney disease produces multiple renal cysts rather than an isthmus joining the kidneys."
+      }
     },
     {
       "id": "dq-g-hn-a-001",
@@ -23188,10 +23236,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "CN I fibres pass through the perforations of the cribriform plate of the ethmoid bone.",
+      "why": "Olfactory receptor axons collect into small bundles in the upper nasal mucosa. They pass through multiple perforations in the ethmoid cribriform plate to synapse in the olfactory bulb above.",
       "topicId": "g-hn",
       "subtopic": "Skull foramina",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "The optic canal carries the optic nerve and ophthalmic artery between the cranial cavity and orbit.",
+        "C": "The superior orbital fissure carries extraocular nerves and the ophthalmic division of the trigeminal nerve.",
+        "D": "Foramen rotundum carries the maxillary division of the trigeminal nerve into the pterygopalatine fossa.",
+        "E": "Foramen ovale carries the mandibular division of the trigeminal nerve towards the infratemporal fossa."
+      }
     },
     {
       "id": "dq-g-hn-a-002",
@@ -23220,10 +23274,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The optic canal carries CN II and the ophthalmic artery.",
+      "why": "The ophthalmic artery usually branches from the internal carotid and enters the orbit alongside the optic nerve through the optic canal. It supplies orbital tissues and contributes arterial supply to the retina.",
       "topicId": "g-hn",
       "subtopic": "Skull foramina",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The internal carotid travels through the carotid canal and gives off the ophthalmic branch before the latter enters the optic canal.",
+        "C": "The middle meningeal artery normally enters the cranial cavity through foramen spinosum to supply dura.",
+        "D": "The maxillary artery supplies deep facial structures and travels through the infratemporal and pterygopalatine fossae.",
+        "E": "The superior ophthalmic vein drains the orbit through the superior orbital fissure to the cavernous sinus."
+      }
     },
     {
       "id": "dq-g-hn-a-003",
@@ -23255,7 +23315,13 @@
       "why": "The oculomotor, trochlear, ophthalmic (V1) and abducens nerves (plus the superior ophthalmic vein) traverse the superior orbital fissure.",
       "topicId": "g-hn",
       "subtopic": "Skull foramina",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The jugular foramen provides the skull exit for the glossopharyngeal, vagus and accessory nerves.",
+        "B": "Olfactory fibres cross the cribriform plate and the optic nerve uses the optic canal, leaving only the ophthalmic division in the fissure.",
+        "D": "Oculomotor and trochlear nerves use the fissure, but the optic nerve has a separate canal.",
+        "E": "Foramen rotundum carries the maxillary nerve, ovale carries the mandibular nerve, and the internal acoustic meatus transmits the facial nerve."
+      }
     },
     {
       "id": "dq-g-hn-a-004",
@@ -23284,10 +23350,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "V2 exits via the foramen rotundum into the pterygopalatine fossa; V3 exits via the foramen ovale.",
+      "why": "The maxillary nerve passes forward through foramen rotundum in the sphenoid to enter the pterygopalatine fossa. Its branches supply the midface, upper teeth, nasal cavity and palate.",
       "topicId": "g-hn",
       "subtopic": "Skull foramina",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Foramen spinosum carries the middle meningeal vessels rather than the sensory maxillary division.",
+        "B": "The superior orbital fissure carries the ophthalmic division, which is the trigeminal branch to the upper orbit.",
+        "C": "Foramen lacerum is largely filled with cartilage, and nerves such as the greater petrosal pass across its upper region.",
+        "E": "Foramen ovale carries the mandibular nerve towards the infratemporal fossa rather than the maxillary nerve."
+      }
     },
     {
       "id": "dq-g-hn-a-005",
@@ -23316,10 +23388,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The middle meningeal artery (and meningeal branch of V3) passes through the foramen spinosum.",
+      "why": "The middle meningeal artery usually branches from the maxillary artery and enters the middle cranial fossa through foramen spinosum. Its branches spread between the skull and dura.",
       "topicId": "g-hn",
       "subtopic": "Skull foramina",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Foramen ovale mainly transmits the mandibular nerve, while the normal middle meningeal artery uses the smaller neighbouring foramen.",
+        "B": "Foramen rotundum carries the maxillary sensory division, not a recurrent artery from the infratemporal fossa.",
+        "C": "The carotid canal transmits the internal carotid artery and accompanying sympathetic fibres into the skull base.",
+        "D": "The jugular foramen carries the glossopharyngeal, vagus and accessory nerves as well as substantial venous drainage."
+      }
     },
     {
       "id": "dq-g-hn-a-006",
@@ -23348,10 +23426,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "CN IX, X and XI exit via the jugular foramen with the internal jugular vein.",
+      "why": "Cranial nerves IX, X and XI leave the posterior cranial fossa through the jugular foramen at the skull base. The sigmoid sinus also becomes continuous with the jugular bulb there.",
       "topicId": "g-hn",
       "subtopic": "Skull foramina",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "The hypoglossal canal carries cranial nerve XII independently near the occipital condyle.",
+        "C": "The spinal roots of the accessory nerve enter through foramen magnum before leaving through the jugular foramen.",
+        "D": "The stylomastoid foramen is the extracranial exit for the main facial nerve trunk.",
+        "E": "The carotid canal carries the internal carotid artery and its sympathetic plexus rather than these three nerves."
+      }
     },
     {
       "id": "dq-g-hn-a-007",
@@ -23380,10 +23464,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "CN VII exits the skull base through the stylomastoid foramen (after giving chorda tympani within the temporal bone).",
+      "why": "The facial nerve passes through the facial canal within the temporal bone and exits between the styloid and mastoid processes. It then enters the parotid region and distributes branches to facial expression muscles.",
       "topicId": "g-hn",
       "subtopic": "Skull foramina",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The jugular foramen carries lower cranial nerves IX through XI rather than the facial nerve.",
+        "C": "The internal acoustic meatus carries the facial nerve into the temporal bone, upstream of its external skull exit.",
+        "D": "Foramen ovale carries the mandibular nerve between the cranial cavity and infratemporal fossa.",
+        "E": "Chorda tympani passes through the petrotympanic fissure, while the main facial nerve exits through the stylomastoid foramen."
+      }
     },
     {
       "id": "dq-g-hn-a-008",
@@ -23412,10 +23502,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "CN XII leaves through the hypoglossal canal in the occipital bone.",
+      "why": "The hypoglossal nerve leaves the posterior cranial fossa through its canal in the occipital bone, above the occipital condyle. It then runs towards the tongue muscles.",
       "topicId": "g-hn",
       "subtopic": "Skull foramina",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The stylomastoid foramen carries the facial nerve rather than the motor nerve to most tongue muscles.",
+        "B": "Foramen ovale is the skull exit for the mandibular division of the trigeminal nerve.",
+        "D": "The jugular foramen carries cranial nerves IX, X and XI, whose exits are separate from the hypoglossal canal.",
+        "E": "Foramen magnum carries the medullary continuation to the spinal cord and admits the spinal roots of the accessory nerve."
+      }
     },
     {
       "id": "dq-g-hn-a-009",
@@ -23444,10 +23540,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The ICA enters through the carotid canal (and crosses the upper part of the foramen lacerum, which nothing fully traverses).",
+      "why": "The internal carotid artery enters the temporal bone through the external opening of the carotid canal. It runs through the petrous temporal bone and then courses above the region of foramen lacerum.",
       "topicId": "g-hn",
       "subtopic": "Skull foramina",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The jugular foramen carries venous drainage and lower cranial nerves rather than admitting the internal carotid artery.",
+        "B": "Foramen ovale transmits the mandibular division of the trigeminal nerve rather than the main arterial supply.",
+        "C": "The optic canal carries the ophthalmic branch of the internal carotid, as well as the optic nerve.",
+        "E": "The petrous internal carotid runs over the upper part of the cartilage-filled foramen lacerum after traversing the carotid canal."
+      }
     },
     {
       "id": "dq-g-hn-a-010",
@@ -23476,10 +23578,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The spinal roots of CN XI ascend through the foramen magnum, then leave with IX and X via the jugular foramen.",
+      "why": "The spinal accessory rootlets arise from upper cervical cord segments and ascend through foramen magnum into the cranial cavity. The nerve then leaves the skull through the jugular foramen.",
       "topicId": "g-hn",
       "subtopic": "Skull foramina",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The jugular foramen is the nerve's exit from the skull after its spinal roots have ascended through foramen magnum.",
+        "B": "The hypoglossal canal carries nerve XII, which innervates most tongue muscles rather than trapezius or sternocleidomastoid.",
+        "C": "Foramen ovale carries the mandibular nerve, a division of the trigeminal nerve.",
+        "D": "The stylomastoid opening is the skull exit of the facial nerve, not the cervical root entry of the accessory nerve."
+      }
     },
     {
       "id": "dq-g-hn-a-011",
@@ -23511,7 +23619,13 @@
       "why": "A blow fracturing the thin pterion may tear the underlying anterior division of the middle meningeal artery, giving an extradural haematoma.",
       "topicId": "g-hn",
       "subtopic": "Skull",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "The superficial temporal artery lies in the scalp outside the skull, whereas the vessel at risk runs inside.",
+        "C": "The maxillary artery is the parent of the middle meningeal artery and remains mainly in deeper extracranial fossae.",
+        "D": "The cavernous sinus is a venous space beside the sella rather than immediately deep to the pterion.",
+        "E": "The internal carotid runs through the skull base and cavernous region rather than under the lateral pterion."
+      }
     },
     {
       "id": "dq-g-hn-a-012",
@@ -23540,10 +23654,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Bregma is the junction of the coronal and sagittal sutures; lambda is where the sagittal meets the lambdoid.",
+      "why": "Bregma is where the sagittal suture between the parietal bones meets the coronal suture behind the frontal bone. It corresponds to the anterior fontanelle before that fontanelle closes.",
       "topicId": "g-hn",
       "subtopic": "Skull",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The nasion is at the frontonasal suture in the midline near the root of the nose.",
+        "C": "Lambda is the more posterior junction of the sagittal and lambdoid sutures.",
+        "D": "The pterion lies on the lateral skull where the frontal, parietal, sphenoid and temporal bones meet.",
+        "E": "The asterion is the posterolateral meeting of the lambdoid, parietomastoid and occipitomastoid sutures."
+      }
     },
     {
       "id": "dq-g-hn-a-013",
@@ -23575,7 +23695,13 @@
       "why": "Valveless emissary veins link extracranial (scalp) veins with the dural venous sinuses, a route for spread of infection.",
       "topicId": "g-hn",
       "subtopic": "Skull",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Cerebrospinal fluid circulates in the ventricular and subarachnoid spaces and does not drain through the scalp emissary veins.",
+        "B": "Cranial nerves travel through named canals and foramina rather than being carried by venous channels.",
+        "D": "The diploe receives arterial blood from skull vessels, while emissary veins conduct venous blood between compartments.",
+        "E": "Dural sinuses drain mainly through internal jugular channels with other connections, so brain drainage is not confined to the facial vein."
+      }
     },
     {
       "id": "dq-g-hn-a-014",
@@ -23604,10 +23730,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The scalp layers spell SCALP: Skin, Connective tissue, Aponeurosis (galea), Loose areolar tissue, Pericranium.",
+      "why": "The pericranium is the external periosteum of the skull and the deepest layer of the scalp. The loose areolar tissue above it allows the more superficial scalp layers to move.",
       "topicId": "g-hn",
       "subtopic": "Scalp",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Dura is an intracranial meningeal layer below the skull rather than a layer of scalp.",
+        "B": "The diploe is spongy bone between the inner and outer tables of the skull.",
+        "C": "The galea is the epicranial aponeurosis, the third layer and therefore already included in the stem.",
+        "E": "The periorbita lines the bony orbit and is separate from the periosteum covering the calvarium."
+      }
     },
     {
       "id": "dq-g-hn-a-015",
@@ -23636,10 +23768,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Fibrous septa of the second (dense connective tissue) layer anchor the vessel walls open, preventing retraction and vasospasm.",
+      "why": "Scalp vessels are tethered by dense fibrous septa in the subcutaneous layer. When cut, the surrounding fibres hold their ends open and hinder retraction, allowing substantial bleeding.",
       "topicId": "g-hn",
       "subtopic": "Scalp",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Arterial pressure is a factor in bleeding generally, but local connective tissue tethering accounts for the scalp's tendency to bleed.",
+        "B": "Scalp arteries contain smooth muscle, although their fibrous attachments can limit retraction of cut ends.",
+        "C": "Emissary links connect to dural sinuses but do not explain why vessels are held open in the dense layer.",
+        "D": "The scalp has extensive venous drainage along with arterial supply and can bleed from vessels held by the septa."
+      }
     },
     {
       "id": "dq-g-hn-a-016",
@@ -23668,10 +23806,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The loose areolar layer transmits emissary veins to the intracranial sinuses, so infection here can spread inward.",
+      "why": "The loose areolar layer provides a plane in which infection or fluid can spread widely. Emissary veins crossing it can also provide communication with intracranial dural sinuses.",
       "topicId": "g-hn",
       "subtopic": "Scalp",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Skin is the superficial barrier, while the underlying loose tissue allows wider spread through the scalp.",
+        "C": "The dense connective layer fixes major vessels, but its fibrous septa limit spread compared with the looser plane.",
+        "D": "Pericranium is the outer periosteum of the skull and is relatively firmly attached at sutures.",
+        "E": "The epicranial aponeurosis is a tough sheet superficial to the loose areolar plane containing emissary channels."
+      }
     },
     {
       "id": "dq-g-hn-a-017",
@@ -23700,10 +23844,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Transverse cuts through the galea aponeurotica let the occipitofrontalis pull the edges apart; cuts sparing it do not gape.",
+      "why": "The frontal and occipital bellies of occipitofrontalis attach to the epicranial aponeurosis. A cut across this sheet can allow their opposing pull to separate the wound edges.",
       "topicId": "g-hn",
       "subtopic": "Scalp",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Temporal fascia covers temporalis on the side of the head and does not transmit the main opposing scalp pull.",
+        "C": "A superficial skin wound can separate, but marked gaping is classically associated with disruption of the deeper galea.",
+        "D": "Pericranium is the periosteal layer on bone rather than the structure connecting the two muscle bellies.",
+        "E": "Loose areolar tissue lets the superficial scalp move over bone but does not transmit tension between the muscle bellies."
+      }
     },
     {
       "id": "dq-g-hn-a-018",
@@ -23732,10 +23882,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Facial expression muscles are second-arch derivatives supplied by CN VII; the muscles of mastication (first arch) are supplied by V3.",
+      "why": "The facial nerve is the nerve of the second pharyngeal arch and supplies its muscle derivatives, including the muscles of facial expression. First-arch jaw muscles have a different motor supply.",
       "topicId": "g-hn",
       "subtopic": "Face",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The hypoglossal nerve supplies most tongue muscles derived from occipital myotomes rather than facial expression muscles.",
+        "B": "The spinal accessory nerve supplies sternocleidomastoid and trapezius, not the second-arch facial musculature.",
+        "D": "The mandibular trigeminal division supplies muscles of mastication, which are derivatives of the first arch.",
+        "E": "The glossopharyngeal nerve is associated with the third arch and supplies stylopharyngeus."
+      }
     },
     {
       "id": "dq-g-hn-a-019",
@@ -23764,10 +23920,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The valveless facial vein links to the cavernous sinus through the superior ophthalmic vein, so infection in the nasolabial region can spread intracranially.",
+      "why": "The facial vein continues superiorly as the angular vein, which communicates with ophthalmic veins in the orbit. This connection can allow infection from the central face to reach the cavernous sinus.",
       "topicId": "g-hn",
       "subtopic": "Face",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The retromandibular vein joins facial venous drainage in the neck rather than providing the direct orbital connection.",
+        "B": "The external jugular drains superficial head and neck regions and does not connect the angular vein through the orbit.",
+        "C": "The internal jugular receives extracranial facial drainage and drains dural sinuses downstream, but it is not the direct orbital route.",
+        "E": "The deep facial vein can reach the pterygoid plexus, but the angular-to-ophthalmic pathway provides another route."
+      }
     },
     {
       "id": "dq-g-hn-a-020",
@@ -23796,10 +23958,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "From superficial to deep the parotid contains the facial nerve, then the retromandibular vein, then the external carotid artery.",
+      "why": "The branches of the facial nerve course in the superficial plane of the parotid. The retromandibular vein lies deeper and the external carotid artery is generally the deepest of these three structures.",
       "topicId": "g-hn",
       "subtopic": "Face",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The retromandibular vein runs within the gland deep to the usual plane of the facial nerve branches.",
+        "B": "The external carotid artery lies deep in the gland before dividing into its two terminal branches.",
+        "C": "The maxillary artery arises deeply as a terminal external carotid branch and heads towards the infratemporal fossa.",
+        "D": "The auriculotemporal nerve carries secretomotor fibres towards the gland but is not the named superficial plane of its main intraglandular structures."
+      }
     },
     {
       "id": "dq-g-hn-a-021",
@@ -23828,10 +23996,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The buccinator (CN VII) compresses the cheek against the teeth; although it aids chewing it is a muscle of facial expression.",
+      "why": "Buccinator forms the muscle of the cheek and compresses its wall against the dental arches. This returns food to the occlusal surfaces during chewing without generating the jaw's closing force.",
       "topicId": "g-hn",
       "subtopic": "Face",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Masseter elevates the mandible to bring teeth together and lies superficial to the mandibular ramus.",
+        "C": "Orbicularis oris forms the muscular ring that closes and purses the lips, in front of buccinator.",
+        "D": "Risorius retracts the angle of the mouth rather than pressing the cheek against the teeth.",
+        "E": "Zygomaticus major elevates the mouth corner during smiling and does not form the main oral cheek wall."
+      }
     },
     {
       "id": "dq-g-hn-a-022",
@@ -23860,10 +24034,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The external carotid artery ends as the superficial temporal and maxillary arteries.",
+      "why": "The external carotid usually terminates within the parotid region by dividing into the maxillary and superficial temporal arteries. The latter ascends across the zygomatic arch to the temporal scalp.",
       "topicId": "g-hn",
       "subtopic": "Temporal fossa",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The common carotid divides into internal and external carotids before either terminal external carotid branch arises.",
+        "C": "The internal carotid enters the skull without usual neck branches and mainly supplies the brain and orbit.",
+        "D": "The maxillary artery is the other terminal branch of the external carotid rather than the parent of superficial temporal.",
+        "E": "The facial artery branches from the external carotid lower in the neck to supply the superficial face."
+      }
     },
     {
       "id": "dq-g-hn-a-023",
@@ -23892,10 +24072,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Temporal arteritis typically affects the superficial temporal artery, giving a tender, thickened, pulseless vessel.",
+      "why": "Giant cell arteritis affects medium and large arteries and often involves the superficial temporal artery. Inflammation can make this accessible scalp vessel tender, thickened and less pulsatile.",
       "topicId": "g-hn",
       "subtopic": "Temporal fossa",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The middle meningeal artery supplies dura and is not the usual superficial vessel assessed in suspected temporal arteritis.",
+        "B": "The occipital artery can also be involved, but the superficial temporal artery is the recognised characteristic site.",
+        "D": "The maxillary artery is a deep external carotid branch rather than the characteristic palpable temporal vessel.",
+        "E": "The facial artery supplies the face, but the classical temporal findings occur over the superficial temporal course."
+      }
     },
     {
       "id": "dq-g-hn-a-024",
@@ -23924,10 +24110,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The maxillary artery passes between the neck of the mandible and the sphenomandibular ligament.",
+      "why": "The first part of the maxillary artery passes deep to the mandibular neck, between it and the sphenomandibular ligament. The artery then has a variable superficial or deep relation to lateral pterygoid.",
       "topicId": "g-hn",
       "subtopic": "Infratemporal fossa",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Lateral pterygoid is a variable relation of the artery's next part after the mandibular-neck segment.",
+        "B": "The parotid contains the external carotid division, but the artery leaves it to pass deep to the mandibular neck.",
+        "C": "The temporalis tendon inserts on the coronoid process, anterior to the narrow interval at the mandibular neck.",
+        "E": "The stylomandibular ligament attaches near the mandibular angle rather than forming the medial boundary of this interval."
+      }
     },
     {
       "id": "dq-g-hn-a-025",
@@ -23956,10 +24148,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The inferior alveolar artery (first part) enters the mandibular foramen; the middle meningeal (also first part) goes to the foramen spinosum.",
+      "why": "The inferior alveolar artery arises from the mandibular portion of the maxillary artery. It accompanies the inferior alveolar nerve through the mandibular foramen to supply the lower teeth and surrounding tissues.",
       "topicId": "g-hn",
       "subtopic": "Infratemporal fossa",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The middle meningeal artery also arises from the first part but enters the cranial cavity through foramen spinosum.",
+        "B": "The deep auricular artery supplies structures of the external acoustic meatus and does not enter the mandibular canal.",
+        "C": "The anterior tympanic artery reaches the middle ear region rather than entering the mandibular foramen.",
+        "D": "The buccal artery runs towards buccinator from the muscular part of the maxillary artery."
+      }
     },
     {
       "id": "dq-g-hn-a-026",
@@ -23988,10 +24186,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Emissary veins through the foramina ovale and Vesalius link the pterygoid plexus to the cavernous sinus, a route for infection.",
+      "why": "Emissary veins connect the pterygoid venous plexus to the cavernous sinus through skull-base openings, including foramen ovale and a variable emissary foramen of Vesalius. These channels can transmit infection.",
       "topicId": "g-hn",
       "subtopic": "Infratemporal fossa",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "The foramen spinosum chiefly carries the middle meningeal vessels, and the plexus has other direct emissary connections.",
+        "C": "The carotid canal contains the internal carotid artery and sympathetic plexus, distinct from the named pterygoid emissary routes.",
+        "D": "The jugular foramen carries major posterior cranial venous drainage and lower cranial nerves rather than the pterygoid emissary connection.",
+        "E": "The superior orbital fissure carries ophthalmic venous drainage, which is a different route into the cavernous sinus."
+      }
     },
     {
       "id": "dq-g-hn-a-027",
@@ -24020,10 +24224,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Postganglionic parasympathetic fibres from the otic ganglion hitch-hike on the auriculotemporal nerve (V3) to the parotid.",
+      "why": "Preganglionic fibres from the glossopharyngeal nerve pass through the lesser petrosal nerve and relay in the otic ganglion. Postganglionic fibres then travel with the auriculotemporal nerve to stimulate parotid secretion.",
       "topicId": "g-hn",
       "subtopic": "Infratemporal fossa",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The geniculate ganglion contains facial sensory neuron cell bodies and is not a parasympathetic synapse for the parotid.",
+        "C": "The submandibular ganglion supplies submandibular and sublingual glands through pathways associated with the lingual nerve.",
+        "D": "The pterygopalatine ganglion supplies lacrimal, nasal and palatal glands rather than the parotid.",
+        "E": "The ciliary ganglion supplies intraocular smooth muscles for pupil constriction and accommodation."
+      }
     },
     {
       "id": "dq-g-hn-a-028",
@@ -24052,10 +24262,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Chorda tympani (from CN VII) carries taste and preganglionic parasympathetic fibres (relaying in the submandibular ganglion) to the submandibular and sublingual glands.",
+      "why": "Chorda tympani carries taste from much of the anterior tongue and preganglionic parasympathetic fibres in the lingual nerve. These fibres relay in the submandibular ganglion and supply the submandibular and sublingual glands.",
       "topicId": "g-hn",
       "subtopic": "Infratemporal fossa",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Palatal and pharyngeal glands receive secretomotor pathways chiefly through the pterygopalatine rather than submandibular ganglion.",
+        "B": "Thyroid and parathyroid are endocrine glands and do not receive this salivary secretomotor pathway.",
+        "D": "The parotid receives parasympathetic supply through the otic ganglion rather than the chorda tympani's submandibular relay.",
+        "E": "Lacrimal and nasal glands receive fibres that relay in the pterygopalatine ganglion after travelling in the greater petrosal pathway."
+      }
     },
     {
       "id": "dq-g-hn-a-029",
@@ -24084,10 +24300,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The nerve to medial pterygoid (from the main trunk of V3) also supplies tensor tympani and tensor veli palatini.",
+      "why": "The nerve to medial pterygoid arises from the mandibular trigeminal division. It gives motor branches to tensor tympani and tensor veli palatini, which are also first-arch muscle derivatives.",
       "topicId": "g-hn",
       "subtopic": "Infratemporal fossa",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Stylopharyngeus is a third-arch muscle supplied by the glossopharyngeal nerve.",
+        "B": "The facial nerve supplies stapedius, a second-arch muscle acting on the stapes.",
+        "C": "Buccinator receives facial nerve motor supply, although the nearby buccal nerve carries trigeminal sensation.",
+        "E": "Levator veli palatini is chiefly supplied through the vagal pharyngeal plexus, unlike the tensor muscle."
+      }
     },
     {
       "id": "dq-g-hn-a-030",
@@ -24116,10 +24338,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The lateral pterygoid protrudes the mandible and begins depression (opening); the others close the jaw.",
+      "why": "Bilateral lateral pterygoid activity draws the condyles and articular discs forwards. This translation protrudes the mandible and assists the early depression of the jaw, with help from suprahyoid muscles.",
       "topicId": "g-hn",
       "subtopic": "Infratemporal fossa",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Medial pterygoid helps elevate and protrude the mandible, but does not initiate opening by pulling the condyles forward.",
+        "B": "Masseter chiefly elevates the mandible to close the jaw, although its superficial part can assist protrusion.",
+        "C": "Temporalis elevates the mandible and its posterior fibres help retract it after protrusion.",
+        "D": "Buccinator compresses the cheek to position food but does not move the mandible at the joint."
+      }
     },
     {
       "id": "dq-g-hn-a-031",
@@ -24148,10 +24376,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The superficial temporal and maxillary veins unite to form the retromandibular vein.",
+      "why": "The superficial temporal vein descends from the scalp and joins the maxillary vein within the parotid. The union forms the retromandibular vein behind the mandibular ramus.",
       "topicId": "g-hn",
       "subtopic": "Infratemporal fossa",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "The facial vein usually joins the anterior retromandibular division farther down to form the common facial vein.",
+        "C": "The posterior auricular vein typically joins the posterior retromandibular division to form the external jugular.",
+        "D": "The internal jugular receives downstream facial drainage and does not form the retromandibular vein in the parotid.",
+        "E": "The pterygoid plexus drains through the maxillary vein, which is the named vessel directly joining the superficial temporal vein."
+      }
     },
     {
       "id": "dq-g-hn-a-032",
@@ -24180,10 +24414,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The pterygopalatine fossa lies behind the maxilla, below the orbital apex, acting as a neurovascular crossroads.",
+      "why": "The pterygopalatine fossa sits behind the maxilla and below the orbital apex. Its superior communication through the inferior orbital fissure helps distribute nerves and vessels to the orbit and face.",
       "topicId": "g-hn",
       "subtopic": "Pterygopalatine fossa",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The nasal septum lies medially and is separated from the fossa by the lateral nasal wall.",
+        "C": "The middle cranial fossa communicates through foramen rotundum, but the orbital apex is the immediate superior surface relation in the stem.",
+        "D": "The mandibular body lies farther lateral and inferior, rather than immediately above the pterygopalatine space.",
+        "E": "The hard palate is below the fossa and receives branches through descending palatine canals."
+      }
     },
     {
       "id": "dq-g-hn-a-033",
@@ -24212,10 +24452,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The posterior surface of the maxilla forms the anterior wall; the pterygoid process forms the posterior wall.",
+      "why": "The posterior surface of the maxilla faces the pterygopalatine fossa and forms its anterior wall. The pterygoid process of the sphenoid forms its posterior boundary.",
       "topicId": "g-hn",
       "subtopic": "Pterygopalatine fossa",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The pyramidal process of the palatine bone relates to the narrow inferior part of the space rather than its anterior wall.",
+        "B": "The greater wing of sphenoid contributes to adjacent cranial and orbital boundaries, while the maxilla forms the front wall.",
+        "D": "The pterygoid process lies behind the fossa and contributes to its posterior wall rather than its anterior wall.",
+        "E": "The perpendicular plate of the palatine bone forms the medial wall next to the nasal cavity."
+      }
     },
     {
       "id": "dq-g-hn-a-034",
@@ -24244,10 +24490,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The sphenopalatine foramen (medial wall) opens into the nasal cavity; foramen rotundum opens to the middle cranial fossa.",
+      "why": "The sphenopalatine foramen connects the medial wall of the pterygopalatine fossa to the lateral nasal wall. It transmits the sphenopalatine vessels and nerves entering the nasal cavity.",
       "topicId": "g-hn",
       "subtopic": "Pterygopalatine fossa",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The inferior orbital fissure connects the fossa with the floor of the orbit rather than with the nasal cavity.",
+        "B": "The pterygomaxillary fissure is a lateral opening between the pterygopalatine and infratemporal fossae.",
+        "C": "The greater palatine canal leads inferiorly towards the hard palate rather than through the medial wall into the nose.",
+        "E": "Foramen rotundum connects the middle cranial fossa with the posterior roof region and carries the maxillary nerve."
+      }
     },
     {
       "id": "dq-g-hn-a-035",
@@ -24276,10 +24528,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The inferior orbital fissure connects the pterygopalatine fossa to the floor of the orbit.",
+      "why": "The medial part of the inferior orbital fissure opens between the pterygopalatine fossa and orbital floor. Infraorbital and zygomatic nerves reach the orbit through this route.",
       "topicId": "g-hn",
       "subtopic": "Pterygopalatine fossa",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The superior orbital fissure connects the orbit directly to the middle cranial fossa, bypassing the pterygopalatine space.",
+        "B": "The optic canal leads from the cranial cavity to the orbit and carries the optic nerve and ophthalmic artery.",
+        "C": "The sphenopalatine foramen connects the pterygopalatine fossa with the nasal cavity rather than the orbit.",
+        "D": "Foramen rotundum carries the maxillary nerve into the fossa from the middle cranial fossa."
+      }
     },
     {
       "id": "dq-g-hn-a-036",
@@ -24308,10 +24566,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The greater petrosal nerve (from CN VII) carries preganglionic parasympathetic fibres that synapse in the pterygopalatine ganglion.",
+      "why": "The greater petrosal nerve carries preganglionic parasympathetic fibres from the facial nerve. These reach the pterygopalatine ganglion through the nerve of the pterygoid canal and synapse there.",
       "topicId": "g-hn",
       "subtopic": "Pterygopalatine fossa",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "The deep petrosal nerve contains postganglionic sympathetic fibres that pass through the pterygopalatine ganglion without relaying.",
+        "C": "The lesser petrosal nerve carries parasympathetic fibres towards the otic ganglion for parotid secretion.",
+        "D": "Chorda tympani carries preganglionic fibres to the submandibular ganglion for submandibular and sublingual secretion.",
+        "E": "The nerve to medial pterygoid supplies first-arch muscles through branches of the mandibular nerve, rather than carrying these preganglionic fibres."
+      }
     },
     {
       "id": "dq-g-hn-a-037",
@@ -24340,10 +24604,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The Vidian nerve = greater petrosal (parasympathetic) + deep petrosal (sympathetic).",
+      "why": "The greater petrosal nerve brings facial parasympathetic fibres, and the deep petrosal brings sympathetic fibres from the carotid plexus. They join near foramen lacerum and continue through the pterygoid canal.",
       "topicId": "g-hn",
       "subtopic": "Pterygopalatine fossa",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The infraorbital nerve is a continuation of the maxillary nerve through the inferior orbital fissure.",
+        "C": "The lesser petrosal nerve carries preganglionic fibres to the otic ganglion rather than forming the nerve of the pterygoid canal.",
+        "D": "Chorda tympani joins the lingual nerve in the infratemporal fossa, leading towards the submandibular ganglion.",
+        "E": "The nasopalatine nerve passes through the sphenopalatine foramen into the nasal cavity, separate from the union forming the Vidian nerve."
+      }
     },
     {
       "id": "dq-g-hn-a-038",
@@ -24372,10 +24642,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The deep petrosal nerve carries postganglionic sympathetic fibres from the internal carotid plexus, which pass through the ganglion without synapsing.",
+      "why": "The deep petrosal nerve arises from the internal carotid sympathetic plexus after its fibres have synapsed in the superior cervical ganglion. They pass through the pterygopalatine ganglion without another synapse.",
       "topicId": "g-hn",
       "subtopic": "Pterygopalatine fossa",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Postganglionic parasympathetic fibres leave the pterygopalatine ganglion after relaying there, rather than entering through the deep petrosal nerve.",
+        "B": "Taste fibres are carried in pathways such as chorda tympani and the greater petrosal nerve, while deep petrosal fibres are sympathetic.",
+        "D": "The sympathetic fibres have already synapsed in the superior cervical ganglion before travelling in the deep petrosal nerve.",
+        "E": "Preganglionic parasympathetic fibres reach this canal through the greater petrosal nerve, which joins the deep petrosal component."
+      }
     },
     {
       "id": "dq-g-hn-a-039",
@@ -24404,10 +24680,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The submandibular (and sublingual) glands are supplied by the submandibular ganglion, not the pterygopalatine ganglion.",
+      "why": "Secretomotor fibres from the pterygopalatine ganglion travel to lacrimal and upper mucosal glands. The submandibular gland instead receives postganglionic fibres from the submandibular ganglion after chorda tympani input.",
       "topicId": "g-hn",
       "subtopic": "Pterygopalatine fossa",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Palatine nerves carry secretomotor fibres from the pterygopalatine ganglion to mucous glands of the palate.",
+        "B": "The lacrimal gland receives pterygopalatine secretomotor fibres conveyed by branches of the maxillary and ophthalmic nerves.",
+        "C": "A pharyngeal branch carries fibres towards mucosal glands in the nasopharyngeal region.",
+        "E": "Nasal branches carry postganglionic parasympathetic fibres to the mucous glands of the nasal cavity."
+      }
     },
     {
       "id": "dq-g-hn-a-040",
@@ -24436,10 +24718,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "V2 continues as the infraorbital nerve through the inferior orbital fissure and infraorbital canal.",
+      "why": "The maxillary nerve continues into the orbit through the inferior orbital fissure as the infraorbital nerve. It runs in the infraorbital groove and canal before emerging onto the face.",
       "topicId": "g-hn",
       "subtopic": "Pterygopalatine fossa",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The zygomatic nerve is a separate maxillary branch that follows a more lateral orbital course.",
+        "B": "The posterior superior alveolar nerve enters the back of the maxilla to supply upper molars and nearby gingiva.",
+        "C": "The greater palatine nerve descends through the palatine canal rather than following the main continuation into the orbit.",
+        "D": "The greater palatine nerve runs through the palatine canal instead of continuing along the orbital floor."
+      }
     },
     {
       "id": "dq-g-hn-a-041",
@@ -24468,10 +24756,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Secretomotor fibres hop from the zygomatic branch of V2 to the lacrimal nerve (V1) to reach the lacrimal gland.",
+      "why": "Pterygopalatine postganglionic fibres travel with the zygomatic nerve into the orbit, often via its zygomaticotemporal branch. A communicating branch transfers them to the lacrimal nerve, which carries them to the gland.",
       "topicId": "g-hn",
       "subtopic": "Pterygopalatine fossa",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "The frontal nerve mainly supplies the forehead and upper eyelid through supraorbital and supratrochlear branches.",
+        "C": "The nasociliary nerve carries sensory fibres from areas including the cornea and medial orbit rather than this lacrimal connection.",
+        "D": "The infraorbital nerve supplies midfacial regions after passing along the orbital floor, away from the usual lacrimal transfer.",
+        "E": "The supraorbital nerve is a frontal branch to the upper eyelid, forehead and scalp rather than the secretomotor route."
+      }
     },
     {
       "id": "dq-g-hn-a-042",
@@ -24500,10 +24794,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "V2 supplies the mid-face: lower eyelid, upper lip, upper teeth, palate and nasal cavity.",
+      "why": "The maxillary division carries sensation from midfacial structures, including the lower eyelid, upper lip and much of the nasal cavity. Blocking it in the fossa can interrupt sensation in those territories.",
       "topicId": "g-hn",
       "subtopic": "Pterygopalatine fossa",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Lower teeth and much of the buccal mucosa are served by mandibular division branches rather than by the maxillary division.",
+        "C": "The mental and lingual nerves are mandibular branches supplying chin, lower lip and much of the anterior tongue's general sensation.",
+        "D": "Upper eyelid, forehead and anterior scalp are primarily ophthalmic division rather than maxillary territories.",
+        "E": "The external ear and posterior scalp receive mixed trigeminal and cervical input rather than being the defining maxillary territory."
+      }
     },
     {
       "id": "dq-g-hn-a-043",
@@ -24532,10 +24832,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The greater palatine nerve supplies most of the hard-palate mucosa and gingiva; the nasopalatine supplies the anterior palate behind the incisors.",
+      "why": "The greater palatine nerve descends to the greater palatine foramen and runs forwards along most of the hard palate. It supplies palatal mucosa and gingiva, with anterior overlap from nasopalatine branches.",
       "topicId": "g-hn",
       "subtopic": "Pterygopalatine fossa",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The nasopalatine nerve supplies much of the nasal septum before continuing to the anterior hard palate.",
+        "B": "Upper molars receive pulpal sensation through superior alveolar branches, while the greater palatine supplies nearby palatal gingiva.",
+        "D": "Lesser palatine nerves principally supply the soft palate, whereas greater palatine supplies most of the hard palate.",
+        "E": "The nasopalatine nerve supplies the most anterior palate near the incisors, though the palatal territories can overlap near the canines."
+      }
     },
     {
       "id": "dq-g-hn-b-001",
@@ -24564,10 +24870,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "C1 has no body and no true spinous process; it is a ring of two lateral masses joined by anterior and posterior arches.",
+      "why": "The atlas is a ring with anterior and posterior arches joining two lateral masses. It supports the skull without a conventional vertebral body or true spinous process.",
       "topicId": "g-hn",
       "subtopic": "Cervical spine",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "The atlas has transverse foramina associated with the course of the vertebral arteries.",
+        "C": "Its lateral masses contain facets above for the occipital condyles and below for the axis.",
+        "D": "Its large vertebral foramen contains the upper spinal cord and accommodates the dens anteriorly.",
+        "E": "The posterior arch is present and has a posterior tubercle in place of a true spinous process."
+      }
     },
     {
       "id": "dq-g-hn-b-002",
@@ -24596,10 +24908,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The dens projects upward from the body of the axis (C2) and forms the pivot for the atlanto-axial joint.",
+      "why": "The dens projects upwards from the body of C2 into the ring of the atlas. It acts as the pivot about which the atlas and head rotate.",
       "topicId": "g-hn",
       "subtopic": "Cervical spine",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "T1 has thoracic features including rib articulations and lacks an odontoid pivot.",
+        "C": "The atlas receives the dens against its anterior arch, but the projection belongs to the axis.",
+        "D": "C7 is recognised for its long spinous process, rather than an upward projection from its body.",
+        "E": "Typical cervical vertebrae have small bodies and transverse foramina, but the dens distinguishes the axis."
+      }
     },
     {
       "id": "dq-g-hn-b-003",
@@ -24628,10 +24946,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "C7, the vertebra prominens, has a long non-bifid spinous process used as a surface landmark.",
+      "why": "C7 is conventionally called vertebra prominens because its long, usually non-bifid spinous process is palpable at the neck base. The adjacent T1 spine can also be prominent in some people.",
       "topicId": "g-hn",
       "subtopic": "Cervical spine",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "C3 is more superior and usually has a shorter, often bifid spinous process.",
+        "B": "T1 can be prominent just below C7, but vertebra prominens conventionally names the seventh cervical vertebra.",
+        "D": "The atlas has a posterior tubercle on its arch rather than a long spinous process.",
+        "E": "The axis has a substantial spinous process higher in the neck and is distinguished by its dens."
+      }
     },
     {
       "id": "dq-g-hn-b-004",
@@ -24660,10 +24984,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Each cervical transverse process contains a foramen transversarium; those of C1-C6 transmit the vertebral artery.",
+      "why": "Foramina transversaria pass through the transverse processes of cervical vertebrae. The vertebral artery usually enters the series at C6 and ascends through C1, whereas C7 ordinarily transmits smaller structures.",
       "topicId": "g-hn",
       "subtopic": "Cervical spine",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Intervertebral foramina lie between adjacent vertebrae and transmit spinal nerves rather than this cervical arterial route.",
+        "B": "Nutrient foramina transmit small vessels into bone and are not specific to cervical transverse processes.",
+        "C": "Sacral foramina carry sacral nerves, while the vertebral artery ascends in cervical transverse foramina.",
+        "E": "The central vertebral foramen contributes to the spinal canal, separate from the paired lateral openings."
+      }
     },
     {
       "id": "dq-g-hn-b-005",
@@ -24692,10 +25022,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Flexion-extension (nodding) occurs at the condyloid atlanto-occipital joints; rotation ('no') occurs at the atlanto-axial joint.",
+      "why": "The occipital condyles articulate with the superior facets of the atlas, forming paired atlanto-occipital joints. Their chief movement is flexion and extension of the head, as in nodding.",
       "topicId": "g-hn",
       "subtopic": "Cervical spine",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Atlanto-axial joints permit much of the rotation used to turn the head from side to side.",
+        "B": "C2–C3 facets contribute to neck motion lower in the cervical column rather than providing the chief nodding joint.",
+        "C": "Intervertebral discs permit limited movement between vertebral bodies, while the skull nods principally on the atlas.",
+        "D": "The temporomandibular joint moves the mandible during chewing and speech rather than flexing the head on the neck."
+      }
     },
     {
       "id": "dq-g-hn-b-006",
@@ -24724,10 +25060,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The transverse ligament of the atlas retains the dens; the alar ligaments limit rotation and the apical ligament is a small median band.",
+      "why": "The transverse ligament runs between the lateral masses of the atlas behind the dens. It keeps the dens against the anterior arch and helps prevent encroachment on the spinal canal.",
       "topicId": "g-hn",
       "subtopic": "Cervical spine",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Alar ligaments connect the dens to the occipital region and limit excessive rotation rather than retaining it against the arch.",
+        "C": "The small apical ligament extends from the dens tip towards the skull base and provides limited stabilisation.",
+        "D": "The tectorial membrane covers the deeper upper cervical ligaments posteriorly and does not form the transverse retaining band.",
+        "E": "The ligamentum nuchae is a posterior midline attachment for neck muscles, remote from the dens."
+      }
     },
     {
       "id": "dq-g-hn-b-007",
@@ -24756,10 +25098,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "A vertical blow to the vertex produces the Jefferson (burst) fracture of the C1 ring; the cord is often spared because the canal is wide.",
+      "why": "A Jefferson fracture is a burst fracture of the atlas ring involving its anterior and posterior arches. Assessment includes how far its lateral masses have displaced and whether the transverse ligament is intact.",
       "topicId": "g-hn",
       "subtopic": "Cervical spine",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "T1 has a thoracic body and arch, rather than the atlas ring involved in a Jefferson fracture.",
+        "C": "The axis has a dens and pars interarticularis, with injury patterns different from a burst fracture of the atlas.",
+        "D": "C7 is the vertebra prominens and does not form the ring immediately beneath the occipital condyles.",
+        "E": "C3 has a typical cervical vertebral body and posterior elements rather than the characteristic anterior and posterior atlas arches."
+      }
     },
     {
       "id": "dq-g-hn-b-008",
@@ -24788,10 +25136,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Forceful hyperextension with distraction fractures the pars interarticularis of C2 (hangman's fracture).",
+      "why": "A hangman's fracture involves both sides of the C2 pars interarticularis or neighbouring pedicles. It can allow displacement of the axis relative to C3.",
       "topicId": "g-hn",
       "subtopic": "Cervical spine",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "C4 is a typical cervical vertebra below the segment involved in this named bilateral fracture.",
+        "B": "T1 lies at the cervicothoracic junction, well below the axis.",
+        "D": "The atlas can sustain a Jefferson ring fracture and does not have the same C2 pars fracture pattern.",
+        "E": "C7 has a long palpable spine, while the named injury occurs at the second cervical vertebra."
+      }
     },
     {
       "id": "dq-g-hn-b-009",
@@ -24820,10 +25174,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The U-shaped hyoid has no bony articulations; it is suspended by muscles and ligaments at the level of C3.",
+      "why": "The hyoid is a U-shaped bone suspended by muscle and ligament attachments in the anterior neck. It supports the tongue and laryngeal region without a direct articulation with another bone.",
       "topicId": "g-hn",
       "subtopic": "Hyoid",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The key anatomical distinction is its lack of bony joints, rather than absence of marrow.",
+        "B": "The hyoid is ossified even though it has soft tissue and ligament connections to nearby structures.",
+        "C": "The hyoid develops ossification centres earlier in life, although its components can unite later.",
+        "E": "Several muscles attach to it, including groups above and below the hyoid involved in swallowing."
+      }
     },
     {
       "id": "dq-g-hn-b-010",
@@ -24852,10 +25212,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Because the hyoid is well protected, its fracture strongly suggests manual (hands-on) strangulation.",
+      "why": "Hyoid fracture is a recognised forensic finding in manual strangulation. It also occurs with other forms of neck trauma, so interpretation depends on associated injuries and the circumstances.",
       "topicId": "g-hn",
       "subtopic": "Hyoid",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Blunt chest injury primarily involves thoracic structures and is not the classic association with an isolated hyoid fracture.",
+        "B": "A fall onto the vertex classically raises concern for cervical spine injury, including injury to the atlas ring.",
+        "C": "Whiplash often affects cervical soft tissues and is not the characteristic forensic association in this question.",
+        "D": "A penetrating neck injury may damage the hyoid, but its tract and associated injuries are interpreted separately."
+      }
     },
     {
       "id": "dq-g-hn-b-011",
@@ -24884,10 +25250,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "CN XI gives motor supply to SCM and trapezius; the cervical plexus provides only sensory (proprioceptive) fibres.",
+      "why": "The spinal accessory nerve provides the main motor supply to sternocleidomastoid and trapezius. Cervical plexus branches contribute proprioception and can contribute additional innervation, especially to trapezius.",
       "topicId": "g-hn",
       "subtopic": "Neck muscles",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "The vagus supplies pharyngeal and laryngeal muscles rather than the usual primary motor supply to these two muscles.",
+        "C": "The hypoglossal nerve supplies most tongue muscles and conveys some cervical fibres to other muscles.",
+        "D": "Cervical plexus fibres can contribute sensation and variable motor input, while the spinal accessory nerve is the principal motor supply.",
+        "E": "Facial nerve branches supply facial expression muscles, including platysma, rather than sternocleidomastoid and trapezius."
+      }
     },
     {
       "id": "dq-g-hn-b-012",
@@ -24916,10 +25288,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Platysma is a muscle of facial expression supplied by the cervical branch of CN VII.",
+      "why": "Platysma is a superficial sheet of facial-expression muscle that spreads over the anterior neck. As a second-arch derivative, it receives motor fibres from the cervical branch of the facial nerve.",
       "topicId": "g-hn",
       "subtopic": "Neck muscles",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The hypoglossal nerve innervates most tongue muscles, rather than the superficial facial-expression sheet in the neck.",
+        "C": "The accessory nerve supplies sternocleidomastoid and trapezius, not the overlying platysma.",
+        "D": "The cervical plexus supplies skin and various neck muscles, while platysma receives a branch of the facial nerve.",
+        "E": "The vagus provides motor supply to many pharyngeal and laryngeal muscles rather than to platysma."
+      }
     },
     {
       "id": "dq-g-hn-b-013",
@@ -24948,10 +25326,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Sternohyoid, sternothyroid and omohyoid are supplied by the ansa cervicalis (C1-C3); thyrohyoid gets C1 fibres via CN XII.",
+      "why": "The ansa cervicalis is a loop of upper cervical fibres that supplies sternohyoid, sternothyroid and omohyoid. Thyrohyoid receives a separate route from C1 fibres travelling with hypoglossal.",
       "topicId": "g-hn",
       "subtopic": "Neck muscles",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Vagal branches supply pharyngeal and laryngeal muscles, while the named superficial strap muscles receive cervical spinal fibres.",
+        "B": "The spinal accessory nerve provides motor supply chiefly to sternocleidomastoid and trapezius, away from the strap muscles.",
+        "D": "The hypoglossal nerve carries some C1 fibres temporarily, but most infrahyoid muscles are supplied by the ansa.",
+        "E": "The phrenic nerve supplies the diaphragm, rather than the neck's principal group of infrahyoid muscles."
+      }
     },
     {
       "id": "dq-g-hn-b-014",
@@ -24980,10 +25364,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Thyrohyoid (and geniohyoid) receive C1 fibres travelling with CN XII.",
+      "why": "C1 fibres briefly travel with the hypoglossal nerve before leaving in a separate branch to thyrohyoid. They are cervical spinal fibres rather than hypoglossal fibres to tongue muscle.",
       "topicId": "g-hn",
       "subtopic": "Neck muscles",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The phrenic nerve carries motor fibres to the diaphragm rather than to the infrahyoid thyrohyoid.",
+        "B": "The external laryngeal nerve supplies cricothyroid, which changes vocal fold tension rather than moving the hyoid.",
+        "C": "The accessory nerve chiefly supplies sternocleidomastoid and trapezius, not the small muscle drawing thyroid cartilage towards hyoid.",
+        "E": "The superior laryngeal nerve supplies laryngeal sensation and cricothyroid motor fibres rather than supplying thyrohyoid."
+      }
     },
     {
       "id": "dq-g-hn-b-015",
@@ -25012,10 +25402,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The nerve to mylohyoid, a branch of the inferior alveolar nerve (V3), supplies mylohyoid and the anterior belly of digastric.",
+      "why": "The nerve to mylohyoid branches from the inferior alveolar nerve before the latter enters the mandibular foramen. It supplies mylohyoid and the anterior belly of digastric, both first-arch muscles.",
       "topicId": "g-hn",
       "subtopic": "Neck muscles",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The hypoglossal nerve supplies tongue muscles and carries C1 fibres to geniohyoid, which lies above mylohyoid.",
+        "B": "The facial nerve supplies the posterior digastric belly and stylohyoid rather than the first-arch oral floor muscle.",
+        "C": "The lingual nerve carries general sensation from the anterior tongue and nearby mucosa rather than mylohyoid motor fibres.",
+        "D": "The glossopharyngeal nerve supplies stylopharyngeus and parts of the posterior tongue's sensation, not mylohyoid."
+      }
     },
     {
       "id": "dq-g-hn-b-016",
@@ -25044,10 +25440,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The anterior belly is supplied by V3 (nerve to mylohyoid) and the posterior belly by CN VII, reflecting their arch origins.",
+      "why": "The posterior digastric belly is a second-arch muscle and receives a branch of the facial nerve. The anterior belly instead derives from the first arch and uses the nerve to mylohyoid.",
       "topicId": "g-hn",
       "subtopic": "Neck muscles",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Mandibular trigeminal fibres supply the anterior digastric belly via the nerve to mylohyoid.",
+        "C": "The hypoglossal nerve supplies most tongue muscles and does not provide posterior digastric motor input.",
+        "D": "Glossopharyngeal motor fibres supply stylopharyngeus, a derivative of the third rather than second arch.",
+        "E": "The accessory nerve supplies sternocleidomastoid and trapezius rather than the posterior digastric."
+      }
     },
     {
       "id": "dq-g-hn-b-017",
@@ -25076,10 +25478,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The suboccipital nerve (posterior ramus of C1) is motor to all four suboccipital muscles.",
+      "why": "The dorsal ramus of C1 is called the suboccipital nerve. It enters the suboccipital region and supplies both rectus capitis posterior muscles and both obliquus capitis muscles.",
       "topicId": "g-hn",
       "subtopic": "Neck muscles",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The C2 dorsal ramus mainly supplies other neck muscles and gives rise to the greater occipital nerve.",
+        "C": "The greater occipital nerve is a C2 branch best known for sensation over the posterior scalp.",
+        "D": "The lesser occipital nerve arises from cervical anterior rami and supplies skin near the lateral occiput.",
+        "E": "The accessory nerve supplies sternocleidomastoid and trapezius rather than the four deep suboccipital muscles."
+      }
     },
     {
       "id": "dq-g-hn-b-018",
@@ -25108,10 +25516,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The phrenic nerve passes vertically downward on the anterior surface of the anterior scalene.",
+      "why": "The phrenic nerve forms in the cervical plexus and descends obliquely on the anterior surface of anterior scalene. This surface course distinguishes it from the brachial plexus behind the muscle.",
       "topicId": "g-hn",
       "subtopic": "Neck muscles",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The phrenic nerve runs across the muscle's anterior face rather than curving around its lateral edge.",
+        "B": "The nerve is superficial to the muscle belly and tendon rather than embedded in the scalene attachment.",
+        "D": "The nerve ordinarily remains outside the muscle fibres and is covered by prevertebral fascia.",
+        "E": "Brachial plexus roots use the space behind anterior scalene, while the phrenic nerve lies in front."
+      }
     },
     {
       "id": "dq-g-hn-b-019",
@@ -25140,10 +25554,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The interscalene triangle between anterior and middle scalene transmits the brachial plexus and subclavian artery.",
+      "why": "The anterior and middle scalenes bound the interscalene interval above the first rib. The brachial plexus and subclavian artery use this passage, while the subclavian vein lies anterior to anterior scalene.",
       "topicId": "g-hn",
       "subtopic": "Neck muscles",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Longus colli lies medially on the vertebral bodies and does not define the lateral interscalene interval.",
+        "B": "Sternocleidomastoid lies superficially over much of the region rather than forming the other deep scalene boundary.",
+        "C": "Levator scapulae lies posterior and lateral to the scalene interval and contributes to the floor of the posterior triangle.",
+        "E": "Posterior scalene lies behind middle scalene and does not form the passage containing the artery and plexus."
+      }
     },
     {
       "id": "dq-g-hn-b-020",
@@ -25172,10 +25592,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Posterior triangle: anterior = posterior border of SCM, posterior = anterior border of trapezius, base = middle third of clavicle.",
+      "why": "The anterior edge of trapezius forms the posterior boundary of the posterior cervical triangle. Its anterior boundary is the posterior edge of sternocleidomastoid, and the middle third of the clavicle forms the base.",
       "topicId": "g-hn",
       "subtopic": "Neck triangles",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The posterior digastric belly helps bound triangles within the anterior cervical region rather than the posterior triangle.",
+        "B": "The superior omohyoid belly is in the anterior triangle, while its inferior belly subdivides the posterior triangle.",
+        "C": "The middle third of the clavicle forms the inferior base rather than the posterior muscular boundary.",
+        "D": "The trapezius portion is correct, but the clavicle is a separate inferior boundary rather than part of the posterior border."
+      }
     },
     {
       "id": "dq-g-hn-b-021",
@@ -25204,10 +25630,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "CN XI runs superficially across the posterior triangle and may be injured in node biopsy, causing trapezius weakness.",
+      "why": "The spinal accessory nerve crosses the posterior triangle in a relatively superficial course before entering trapezius. Injury during a procedure in that region can cause shoulder droop and weak elevation.",
       "topicId": "g-hn",
       "subtopic": "Neck triangles",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "The phrenic nerve lies on anterior scalene deep in the neck rather than following the superficial crossing to trapezius.",
+        "C": "The hypoglossal nerve runs through the carotid and submandibular regions to supply tongue muscle rather than crossing to trapezius.",
+        "D": "The hypoglossal nerve supplies tongue muscles and passes through the carotid and submandibular regions rather than crossing to trapezius.",
+        "E": "The great auricular nerve crosses sternocleidomastoid to supply skin, while loss of trapezius function localises to the accessory nerve."
+      }
     },
     {
       "id": "dq-g-hn-b-022",
@@ -25236,10 +25668,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The carotid triangle contains the carotid bifurcation and the beginning of the internal and external carotid arteries.",
+      "why": "In the carotid triangle the common carotid artery usually divides into internal and external carotid arteries near the upper border of the thyroid cartilage. The carotid sinus and body are nearby.",
       "topicId": "g-hn",
       "subtopic": "Neck triangles",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The carotid canal is an opening in the temporal bone, well above the common carotid bifurcation in the neck.",
+        "C": "The internal carotid is present, but the triangle also includes the bifurcation and origin of the external carotid.",
+        "D": "The carotid sheath lies in the triangle, but the thoracic duct is mainly related to the lower left neck.",
+        "E": "The cervical sympathetic trunk is posterior to the carotid sheath and extends beyond the named triangle."
+      }
     },
     {
       "id": "dq-g-hn-b-023",
@@ -25268,10 +25706,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The submental triangle lies between the two anterior bellies of digastric and the hyoid, crossing the midline.",
+      "why": "The submental triangle straddles the midline between the right and left anterior digastric bellies. The hyoid body forms its base, so there is one central triangle rather than a pair.",
       "topicId": "g-hn",
       "subtopic": "Neck triangles",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Sternocleidomastoid muscles are lateral neck landmarks far from the central space just below the chin.",
+        "B": "Mylohyoid forms the floor of the submental triangle, while its sides are defined by the anterior digastric bellies.",
+        "D": "The posterior digastric bellies are more lateral and help define other triangles in the anterior neck.",
+        "E": "The superior omohyoid bellies help define the carotid and muscular triangles rather than the central submental region."
+      }
     },
     {
       "id": "dq-g-hn-b-024",
@@ -25300,10 +25744,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The four subdivisions of the anterior triangle are the carotid, muscular, submental and submandibular (digastric) triangles.",
+      "why": "The anterior neck triangle contains the submandibular triangle as well as the submental, carotid and muscular triangles. The submandibular subdivision lies between the two digastric bellies and lower margin of the mandible.",
       "topicId": "g-hn",
       "subtopic": "Neck triangles",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The occipital triangle is the larger subdivision of the posterior cervical triangle, above the inferior omohyoid belly.",
+        "B": "The supraclavicular triangle lies below the inferior omohyoid belly as part of the posterior triangle.",
+        "C": "The interscalene triangle is a deeper passage for the subclavian artery and brachial plexus.",
+        "E": "The suboccipital triangle is a deep posterior neck region beneath the occiput rather than an anterior subdivision."
+      }
     },
     {
       "id": "dq-g-hn-b-025",
@@ -25332,10 +25782,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The cricothyroid is supplied by the external branch of the superior laryngeal nerve; the RLN supplies all other intrinsic laryngeal muscles.",
+      "why": "The cricothyroid tilts the thyroid cartilage relative to the cricoid and tenses the vocal folds. Its motor supply is the external branch of the superior laryngeal nerve, unlike other intrinsic muscles.",
       "topicId": "g-hn",
       "subtopic": "Neck nerves",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Posterior cricoarytenoid abducts the vocal folds and receives motor fibres from the recurrent laryngeal nerve.",
+        "B": "Lateral cricoarytenoid helps close the vocal folds and is supplied by the recurrent laryngeal nerve.",
+        "C": "The transverse arytenoid brings the arytenoid cartilages towards each other and receives recurrent laryngeal motor fibres.",
+        "D": "Thyroarytenoid helps adjust vocal fold tension and is supplied by the recurrent laryngeal nerve."
+      }
     },
     {
       "id": "dq-g-hn-b-026",
@@ -25364,10 +25820,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Erb's point (nerve point of the neck) is where the cutaneous branches of the cervical plexus emerge; used for a cervical plexus block.",
+      "why": "At the nerve point of the neck, often called Erb's point, several cutaneous cervical plexus branches appear near the midpoint of the posterior sternocleidomastoid border. They supply nearby neck and shoulder skin.",
       "topicId": "g-hn",
       "subtopic": "Neck nerves",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "McBurney's point is an abdominal landmark near the appendix and has no relation to the cervical plexus.",
+        "C": "The carotid triangle is an anterior neck subdivision, while these sensory branches emerge at the posterior sternocleidomastoid border.",
+        "D": "The mandibular angle receives some cervical cutaneous sensation but is not the common emergence point of these nerves.",
+        "E": "Little's area is a vascular area of the anterior nasal septum rather than a cutaneous cervical plexus landmark."
+      }
     },
     {
       "id": "dq-g-hn-b-027",
@@ -25396,10 +25858,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The phrenic nerve arises from C3-C5, mainly C4 ('C3, 4, 5 keep the diaphragm alive').",
+      "why": "The phrenic nerve receives fibres from C3–C5 anterior rami, with C4 usually the largest contributor. It supplies motor fibres to the diaphragm as it descends from the neck.",
       "topicId": "g-hn",
       "subtopic": "Neck nerves",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "C8 helps form the brachial plexus and is below the principal phrenic root range.",
+        "C": "C2 supplies upper cervical structures and is above the principal C3–C5 phrenic root range.",
+        "D": "C6 is part of the cervical enlargement and does not normally provide the main phrenic contribution.",
+        "E": "T1 supplies upper thoracic and brachial plexus pathways, while the main phrenic input arises higher in the neck."
+      }
     },
     {
       "id": "dq-g-hn-b-028",
@@ -25428,10 +25896,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The ansa cervicalis (superior and inferior roots) is formed by C1-C3 and supplies the infrahyoid muscles.",
+      "why": "The ansa cervicalis is formed by a superior root that usually contains C1 fibres travelling briefly with the hypoglossal nerve and an inferior root carrying C2–C3. The loop supplies most strap muscles.",
       "topicId": "g-hn",
       "subtopic": "Neck nerves",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "C4–C6 lies lower than the usual roots of the ansa and includes levels associated with other plexus branches.",
+        "B": "C5–C7 provides much of the brachial plexus input rather than the cervical loop serving most strap muscles.",
+        "D": "C2 and C3 form much of the lower root, but the upper root normally contains C1 rather than C4.",
+        "E": "C3–C5 is the usual root range of the phrenic nerve, rather than the ansa cervicalis."
+      }
     },
     {
       "id": "dq-g-hn-b-029",
@@ -25460,10 +25934,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "CN X runs the length of the carotid sheath between and behind the carotid artery and internal jugular vein.",
+      "why": "The vagus travels in the carotid sheath between and posterior to the carotid artery and internal jugular vein. It follows this cervical neurovascular bundle from the skull base towards the thorax.",
       "topicId": "g-hn",
       "subtopic": "Neck nerves",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "After leaving the skull near the vagus, the accessory nerve runs towards sternocleidomastoid and trapezius.",
+        "B": "The glossopharyngeal nerve passes briefly near the upper carotid vessels, then continues towards the pharynx and tongue.",
+        "C": "The facial nerve exits at the stylomastoid foramen and enters the parotid rather than descending in the carotid sheath.",
+        "E": "The hypoglossal nerve crosses the carotid region and then runs forwards to tongue muscles."
+      }
     },
     {
       "id": "dq-g-hn-b-030",
@@ -25492,10 +25972,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The great auricular nerve (C2-C3) supplies skin over the parotid, the angle of the jaw and the lower auricle.",
+      "why": "The great auricular nerve carries C2–C3 sensory fibres across sternocleidomastoid. It supplies skin over the parotid region, mandibular angle and lower part of the external ear.",
       "topicId": "g-hn",
       "subtopic": "Neck nerves",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Much of the anterior neck skin receives sensation through the transverse cervical nerve.",
+        "B": "The clavicle and shoulder lie in territories of supraclavicular branches of the cervical plexus.",
+        "C": "The lesser occipital nerve supplies skin behind the ear, while the great auricular also serves the lower auricle and parotid region.",
+        "D": "The mental nerve, a mandibular trigeminal branch, supplies skin of the lower lip and chin."
+      }
     },
     {
       "id": "dq-g-hn-b-031",
@@ -25524,10 +26010,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The CCA divides into internal and external carotid arteries at about C4, the upper border of the thyroid cartilage.",
+      "why": "The common carotid usually divides near C4 at the upper border of the thyroid cartilage. Its internal branch ascends towards the skull, and the external branch supplies many cervical and facial structures.",
       "topicId": "g-hn",
       "subtopic": "Neck arteries",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "The hyoid usually lies slightly higher, although the level of the carotid bifurcation can vary.",
+        "C": "The cricoid lies near C6, below the typical level of the bifurcation.",
+        "D": "The first tracheal ring lies below the cricoid and is lower than the usual upper thyroid cartilage landmark.",
+        "E": "The mandibular angle lies above the usual bifurcation and may approach it only with a high variant."
+      }
     },
     {
       "id": "dq-g-hn-b-032",
@@ -25556,10 +26048,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The internal carotid artery ascends to the skull without branching in the neck; the external carotid gives several branches.",
+      "why": "The cervical internal carotid normally travels from the bifurcation to the carotid canal without giving off branches. This is a useful contrast with the external carotid, which supplies many neck structures.",
       "topicId": "g-hn",
       "subtopic": "Neck arteries",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The vertebral artery can give muscular and spinal branches during its cervical course.",
+        "C": "The external carotid has several cervical branches, including superior thyroid, lingual and facial arteries.",
+        "D": "The subclavian artery gives cervical branches such as the vertebral artery and thyrocervical trunk.",
+        "E": "The common carotid normally has no collateral neck branches, but it has two terminal branches at its cervical bifurcation."
+      }
     },
     {
       "id": "dq-g-hn-b-033",
@@ -25588,10 +26086,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The vertebral artery is the first branch of the first part of the subclavian artery and ascends through the foramina transversaria.",
+      "why": "The vertebral artery usually originates from the first part of the subclavian artery. It ascends through the cervical transverse foramina and eventually joins the opposite vertebral artery to form the basilar artery.",
       "topicId": "g-hn",
       "subtopic": "Neck arteries",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The thyrocervical trunk is a neighbouring branch of the subclavian that gives vessels such as the inferior thyroid.",
+        "B": "The internal carotid provides a separate anterior route of blood supply to the brain and orbit.",
+        "D": "The external carotid supplies mainly extracranial tissues and is not the usual parent of the vertebral artery.",
+        "E": "The common carotid is the parent of the internal and external carotid arteries, separate from the usual vertebral origin."
+      }
     },
     {
       "id": "dq-g-hn-b-034",
@@ -25620,10 +26124,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The inferior thyroid artery arises from the thyrocervical trunk of the subclavian artery.",
+      "why": "The inferior thyroid artery arises from the thyrocervical trunk, itself a branch of the first part of the subclavian. It approaches the posterior thyroid and relates closely to the recurrent laryngeal nerve.",
       "topicId": "g-hn",
       "subtopic": "Neck arteries",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The costocervical trunk gives branches to the deep posterior neck and upper intercostal spaces, not the usual inferior thyroid artery.",
+        "B": "The internal thoracic artery descends inside the anterior chest wall and is not the usual parent of the inferior thyroid artery.",
+        "C": "The subclavian supplies it indirectly via the thyrocervical trunk in the usual branching pattern.",
+        "E": "The external carotid usually gives the superior thyroid artery, while the inferior thyroid arises from a different arterial system."
+      }
     },
     {
       "id": "dq-g-hn-b-035",
@@ -25652,10 +26162,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Baroreceptors of the carotid sinus are supplied by CN IX; their stimulation raises vagal tone and slows the heart.",
+      "why": "Carotid sinus baroreceptor afferents run in the sinus nerve to the glossopharyngeal nerve. Greater afferent firing increases cardiac vagal output and reduces sympathetic drive, which can slow the heart.",
       "topicId": "g-hn",
       "subtopic": "Neck arteries",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The vagus carries the cardiac efferent response and aortic arch afferents, while carotid sinus afferents run mainly with glossopharyngeal.",
+        "B": "Sympathetic activity to the heart generally decreases during the reflex, rather than providing the main sensory limb.",
+        "C": "The facial nerve mainly supplies facial expression muscles and carries taste and glandular fibres, rather than these baroreceptor fibres.",
+        "D": "The hypoglossal nerve supplies tongue muscles and does not carry the carotid sinus sensory input."
+      }
     },
     {
       "id": "dq-g-hn-b-036",
@@ -25684,10 +26200,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The IJV begins as the continuation of the sigmoid sinus at the jugular foramen.",
+      "why": "The sigmoid sinus reaches the jugular foramen and becomes the superior bulb of the internal jugular vein. The vein then descends in the carotid sheath, draining blood from the cranial cavity.",
       "topicId": "g-hn",
       "subtopic": "Neck veins",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "The cavernous sinus drains through petrosal channels rather than continuing directly as the internal jugular.",
+        "C": "The superior sagittal sinus drains towards the confluence and then usually reaches the jugular system indirectly.",
+        "D": "The inferior petrosal sinus drains into the jugular bulb or nearby jugular vein but is not its principal direct continuation.",
+        "E": "The straight sinus receives deep cerebral drainage and reaches the confluence rather than passing through the jugular foramen."
+      }
     },
     {
       "id": "dq-g-hn-b-037",
@@ -25716,10 +26238,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The EJV = posterior auricular vein + posterior division of the retromandibular vein; it crosses the SCM superficially.",
+      "why": "The posterior division of the retromandibular vein joins the posterior auricular vein near the mandibular angle. Their union forms the external jugular, which descends superficial to sternocleidomastoid.",
       "topicId": "g-hn",
       "subtopic": "Neck veins",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The superior thyroid vein generally runs to the internal jugular rather than forming the external jugular.",
+        "C": "The anterior retromandibular division usually joins the facial vein to form the common facial trunk.",
+        "D": "The common facial vein generally empties into the internal jugular instead of forming the external jugular.",
+        "E": "Anterior jugular drainage can communicate with the external jugular lower in the neck, separate from its site of formation."
+      }
     },
     {
       "id": "dq-g-hn-b-038",
@@ -25748,10 +26276,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The right IJV gives a nearly straight line to the SVC and avoids the thoracic duct, which drains at the left venous angle.",
+      "why": "The right internal jugular continues through the short right brachiocephalic vein into the superior vena cava with a relatively direct alignment. The left brachiocephalic vein crosses the superior mediastinum more obliquely.",
       "topicId": "g-hn",
       "subtopic": "Neck veins",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Valves can be present near the termini of both internal jugular veins and do not explain the straighter right-sided route.",
+        "B": "The right internal jugular lies closely beside the carotid artery within the sheath, as it does on the left.",
+        "D": "The right side is often larger, but the principal anatomical advantage tested here is its shorter, straighter central course.",
+        "E": "Deep cervical lymph nodes lie near both internal jugular veins and are not absent on the right."
+      }
     },
     {
       "id": "dq-g-hn-b-039",
@@ -25780,10 +26314,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The jugulodigastric node drains the tonsil and pharynx and enlarges early in tonsillitis and oropharyngeal cancer.",
+      "why": "The jugulodigastric node is an upper deep cervical node near the posterior digastric belly. It receives drainage from the palatine tonsil and pharynx, and can enlarge during inflammation there.",
       "topicId": "g-hn",
       "subtopic": "Neck lymphatics",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The thyroid has central and lower deep cervical lymphatic routes, generally separate from the classic tonsillar drainage node.",
+        "B": "The tongue tip commonly drains to submental nodes rather than primarily to the upper jugulodigastric node.",
+        "C": "Most breast lymph drains into axillary and parasternal nodes rather than the tonsillar drainage pathway.",
+        "E": "Abdominal malignancy such as stomach cancer can present in the left supraclavicular node instead."
+      }
     },
     {
       "id": "dq-g-hn-b-040",
@@ -25812,10 +26352,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Virchow's node receives lymph via the thoracic duct from the abdomen; Troisier's sign points to gastric and other abdominal malignancy.",
+      "why": "The left supraclavicular group lies near the termination of the thoracic duct, which receives lymph from below the diaphragm. An enlarged Virchow node can therefore indicate abdominal malignancy, classically gastric carcinoma.",
       "topicId": "g-hn",
       "subtopic": "Neck lymphatics",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Occipital and posterior scalp lymph normally drains first to occipital or posterior auricular nodes.",
+        "B": "The parotid usually drains through parotid and upper deep cervical groups rather than the classic abdominal route.",
+        "C": "Laryngeal lymph reaches regional cervical nodes, while Virchow enlargement is classically associated with distant abdominal drainage.",
+        "D": "The thyroid has central and deep cervical drainage, separate from the characteristic abdominal route through the thoracic duct."
+      }
     },
     {
       "id": "dq-g-hn-b-041",
@@ -25844,10 +26390,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The jugulo-omohyoid node is the 'lymph node of the tongue', often the first involved in tongue carcinoma.",
+      "why": "The jugulo-omohyoid node is a deep cervical node near the point where omohyoid crosses the internal jugular vein. It is traditionally associated with tongue drainage, which can also reach other groups.",
       "topicId": "g-hn",
       "subtopic": "Neck lymphatics",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Nasopharyngeal drainage often reaches retropharyngeal and upper deep cervical nodes rather than chiefly the named tongue-associated node.",
+        "C": "The parotid typically drains to parotid and upper deep cervical groups rather than primarily to the named lower node.",
+        "D": "Laryngeal drainage can reach several cervical groups and is not the classic association of the jugulo-omohyoid node.",
+        "E": "The thyroid isthmus gives lymph to central neck groups such as pretracheal nodes rather than the named tongue pathway."
+      }
     },
     {
       "id": "dq-g-hn-b-042",
@@ -25876,10 +26428,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The investing layer surrounds the neck like a collar, splitting to ensheath the SCM and trapezius and the parotid and submandibular glands.",
+      "why": "The investing layer is the outermost layer of deep cervical fascia. It splits into sheets around sternocleidomastoid and trapezius before reuniting to form a collar around the neck.",
       "topicId": "g-hn",
       "subtopic": "Neck fascia",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Prevertebral muscles are covered by prevertebral fascia, a deeper layer around the vertebral column.",
+        "C": "The infrahyoid muscles are ensheathed by the muscular part of the pretracheal fascia.",
+        "D": "The pharynx and oesophagus are associated with deeper visceral fascial layers rather than the investing muscular sleeves.",
+        "E": "The main vessels and vagus are enclosed by the carotid sheath rather than the sleeve surrounding superficial neck muscles."
+      }
     },
     {
       "id": "dq-g-hn-b-043",
@@ -25908,10 +26466,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The visceral pretracheal fascia encloses the thyroid, larynx, trachea, pharynx and cervical oesophagus.",
+      "why": "The visceral part of pretracheal fascia forms a sleeve around the thyroid, cervical trachea and oesophagus. It is continuous with fascial coverings of the pharynx and extends inferiorly into the thorax.",
       "topicId": "g-hn",
       "subtopic": "Neck fascia",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Prevertebral fascia has a separate role enclosing the deep cervical and scalene muscles rather than forming the visceral sleeve.",
+        "B": "The internal jugular is within the carotid sheath and the phrenic nerve runs on anterior scalene.",
+        "D": "Sternocleidomastoid and trapezius are wrapped by the investing layer, the outer deep cervical layer.",
+        "E": "The carotid artery and vagus lie together in the carotid sheath lateral to the visceral compartment."
+      }
     },
     {
       "id": "dq-g-hn-b-044",
@@ -25940,10 +26504,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The carotid sheath contains the carotid artery, IJV and CN X; the sympathetic trunk lies behind it, not within it.",
+      "why": "The carotid sheath contains the carotid artery medially and the internal jugular vein laterally. The vagus usually lies behind and between the two vessels within the same sheath.",
       "topicId": "g-hn",
       "subtopic": "Neck fascia",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The phrenic nerve lies deeper and laterally on anterior scalene rather than within the carotid sheath.",
+        "B": "The cervical sympathetic trunk lies posterior to the sheath in relation to prevertebral fascia.",
+        "C": "The thoracic duct reaches the left venous angle near the sheath's lower end but is not a longitudinal sheath component.",
+        "E": "The external jugular vein crosses sternocleidomastoid superficially rather than travelling with the carotid artery and vagus."
+      }
     },
     {
       "id": "dq-g-hn-b-045",
@@ -25972,10 +26542,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "The danger space (between alar and prevertebral fasciae) runs from the skull base to the diaphragm, allowing spread to the posterior mediastinum.",
+      "why": "The danger space lies between alar and prevertebral fasciae and can continue from the skull base into the posterior mediastinum. Infection can descend through this deep fascial plane.",
       "topicId": "g-hn",
       "subtopic": "Neck fascia",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The anterior cranial fossa is inside the skull and is not the usual continuation of this descending cervical space.",
+        "B": "Orbital infections spread through different local or venous pathways, while the danger space extends inferiorly behind the pharynx.",
+        "C": "The parotid compartment lies lateral and superficial to this deep midline fascial plane.",
+        "D": "The submandibular space is related to the floor of the mouth rather than the inferior continuation of the danger space."
+      }
     },
     {
       "id": "dq-g-hn-b-046",
@@ -26004,10 +26580,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The sympathetic trunk lies on the prevertebral fascia, behind (deep to) the carotid sheath.",
+      "why": "The cervical sympathetic trunk lies posterior to the carotid sheath along the prevertebral fascial plane. It ascends over the deep cervical muscles and gives branches towards vessels and other targets.",
       "topicId": "g-hn",
       "subtopic": "Neck fascia",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Pretracheal fascia relates to the anterior visceral and strap muscle compartments, in front of the sympathetic trunk.",
+        "C": "The investing layer forms an outer sleeve including sternocleidomastoid and trapezius, well superficial to the sympathetic trunk.",
+        "D": "Buccopharyngeal fascia covers the outside of the pharynx rather than providing the trunk's paravertebral bed.",
+        "E": "Alar fascia is associated with the deep retropharyngeal spaces, whereas the trunk has its usual bed at the prevertebral fascia."
+      }
     },
     {
       "id": "dq-g-hn-b-047",
