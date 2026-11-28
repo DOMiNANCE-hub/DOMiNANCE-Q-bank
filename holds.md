@@ -66,3 +66,7 @@ The explanations and answer keys for these questions are preserved pending revie
 ## data/biochem/visual-curated.json
 
 - **dq-bio-vis-031** (keyed C (Approximately 455 nm)). The stem asks for a lecture-specific value and keys 455 nm, but the referenced lecture figure was unavailable. Direct human cone pigment measurements peak near 420 nm for the short-wave pigment (PMCID PMC1279132). Verify the lecture figure and specify whether it plots pigment absorbance or whole-eye spectral sensitivity.
+
+## data/biochem/collagen-curated.json
+
+- **dq-bio-coll-017** (keyed E (After translation on nascent chains)). The keyed wording says hydroxylation occurs after translation, but proline hydroxylation can begin on nascent chains before their translation is complete (PMID 3571223). If the key means after individual residues enter the chain, specify the ER stage before triple-helix formation.
