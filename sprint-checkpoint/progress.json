@@ -371,34 +371,23 @@
     "data/biochem/sem2-mixed-curated.json": {
       "source_commit": "7f2ec716a63d4e310ee4c2b1539c8728a251c699",
       "total": 17,
-      "reviewed": 0,
-      "revised": 0,
+      "reviewed": 17,
+      "revised": 17,
       "retained": 0,
       "holds": {},
       "hold_audit_failures": 0,
-      "remaining_audit_failures": 17,
+      "remaining_audit_failures": 0,
       "source_blob": "288ccdb9608cf3385752bed8be2c3fd9116ea2dc",
-      "data_blob": "288ccdb9608cf3385752bed8be2c3fd9116ea2dc",
-      "remaining_ids": [
-        "dq-bio-sem2mix-001",
-        "dq-bio-sem2mix-002",
-        "dq-bio-sem2mix-003",
-        "dq-bio-sem2mix-004",
-        "dq-bio-sem2mix-005",
-        "dq-bio-sem2mix-006",
-        "dq-bio-sem2mix-007",
-        "dq-bio-sem2mix-008",
-        "dq-bio-sem2mix-009",
-        "dq-bio-sem2mix-010",
-        "dq-bio-sem2mix-011",
-        "dq-bio-sem2mix-012",
-        "dq-bio-sem2mix-013",
-        "dq-bio-sem2mix-014",
-        "dq-bio-sem2mix-015",
-        "dq-bio-sem2mix-016",
-        "dq-bio-sem2mix-017"
-      ],
-      "references": []
+      "data_blob": "00d220a9e55fe6287a4bd74fa22f96d90bc38314",
+      "remaining_ids": [],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK10806/",
+        "https://reactome.org/content/detail/R-HSA-1650814",
+        "https://www.ncbi.nlm.nih.gov/books/NBK459482/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK20/",
+        "https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+        "https://openstax.org/books/biology-2e/pages/15-4-rna-processing-in-eukaryotes"
+      ]
     }
   }
 }
