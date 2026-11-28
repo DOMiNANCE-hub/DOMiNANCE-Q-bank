@@ -33,7 +33,13 @@
       "why": "Purines have fused six- and five-membered nitrogen-containing rings, unlike single-ring pyrimidines.",
       "topicId": "nucleotides",
       "subtopic": "Core concepts",
-      "difficulty": "easy"
+      "difficulty": "easy",
+      "notes": {
+        "B": "A single six-membered nitrogen-containing ring is the core of pyrimidines such as cytosine.",
+        "C": "The purine rings share two adjacent atoms and a bond, so they are fused rather than separate.",
+        "D": "Purine contains a five-membered ring, but that ring is fused to a second, six-membered ring.",
+        "E": "Ring nitrogen is part of the purine skeleton, while the oxygen in bases such as guanine is in a substituent."
+      }
     },
     {
       "id": "dq-bio-nuc-002",
@@ -65,7 +71,13 @@
       "why": "A nucleoside contains base and sugar; addition of one or more phosphate groups produces a nucleotide.",
       "topicId": "nucleotides",
       "subtopic": "Core concepts",
-      "difficulty": "easy"
+      "difficulty": "easy",
+      "notes": {
+        "A": "Both molecules contain a pentose, usually ribose or deoxyribose in the major nucleic acid building blocks.",
+        "C": "Both have a nitrogenous base attached to their sugar, even before phosphorylation.",
+        "D": "The base–sugar glycosidic bond is already present in a nucleoside and is retained on phosphorylation.",
+        "E": "The sugar has a ring structure in both molecules, so ring presence does not distinguish them."
+      }
     },
     {
       "id": "dq-bio-nuc-003",
@@ -94,10 +106,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Dephosphorylation of GMP produces the nucleoside guanosine.",
+      "why": "Removing the phosphate from guanosine monophosphate leaves guanine linked to ribose. This base–sugar pair is guanosine, while releasing guanine itself requires cleavage of the glycosidic bond.",
       "topicId": "nucleotides",
       "subtopic": "Core concepts",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Guanine is the free base and requires removal of ribose as well as the phosphate.",
+        "B": "Xanthosine contains xanthine, so its formation requires a change to the base rather than simple dephosphorylation.",
+        "D": "Inosine contains hypoxanthine rather than the guanine base already present in guanosine monophosphate.",
+        "E": "Adenosine contains adenine, which is a different purine base from guanine."
+      }
     },
     {
       "id": "dq-bio-nuc-004",
@@ -126,10 +144,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The pentose phosphate pathway supplies ribose-5-phosphate for nucleotide synthesis.",
+      "why": "The pentose phosphate pathway generates ribose 5-phosphate through reactions interconverting sugars of different lengths. Ribose 5-phosphate is converted to PRPP, which supplies the activated sugar for purine assembly.",
       "topicId": "nucleotides",
       "subtopic": "Purine synthesis",
-      "difficulty": "easy"
+      "difficulty": "easy",
+      "notes": {
+        "A": "The tricarboxylic acid cycle oxidises acetyl-CoA and produces energy carriers rather than directly generating ribose 5-phosphate.",
+        "B": "Fatty acid oxidation produces acetyl-CoA and reduced cofactors, rather than a phosphorylated five-carbon sugar.",
+        "C": "The urea cycle disposes of excess nitrogen and does not provide the activated ribose precursor.",
+        "E": "Ketogenesis produces acetoacetate and related fuels from acetyl-CoA rather than producing ribose 5-phosphate."
+      }
     },
     {
       "id": "dq-bio-nuc-005",
@@ -158,10 +182,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "PRPP synthetase activates ribose-5-phosphate to phosphoribosyl pyrophosphate.",
+      "why": "PRPP synthetase transfers the pyrophosphoryl group of ATP to carbon 1 of ribose 5-phosphate, releasing AMP. The product PRPP is an activated ribose donor for nucleotide synthesis and salvage.",
       "topicId": "nucleotides",
       "subtopic": "Purine synthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Adenylate kinase transfers phosphate between adenine nucleotides and has no role in activating ribose 5-phosphate.",
+        "B": "GMP reductase converts GMP to IMP and does not use free ribose 5-phosphate.",
+        "C": "Adenosine deaminase converts adenosine to inosine by removing an amino group during purine turnover.",
+        "D": "Xanthine oxidase oxidises purine breakdown intermediates towards urate rather than producing an activated sugar."
+      }
     },
     {
       "id": "dq-bio-nuc-006",
@@ -190,10 +220,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Glutamine-PRPP amidotransferase converts PRPP to 5-phosphoribosylamine.",
+      "why": "The committed purine step uses PRPP as the activated ribose substrate. Glutamine–PRPP amidotransferase replaces its pyrophosphate with nitrogen from glutamine to yield 5-phosphoribosylamine.",
       "topicId": "nucleotides",
       "subtopic": "Purine synthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "IMP is the first complete purine nucleotide formed at the end of the common assembly pathway.",
+        "C": "XMP is produced from IMP in the branch leading to GMP, after the purine ring has formed.",
+        "D": "OMP belongs to pyrimidine synthesis and is converted to UMP rather than entering purine-ring assembly.",
+        "E": "UMP is a pyrimidine product and is not the activated ribose substrate on which purines are built."
+      }
     },
     {
       "id": "dq-bio-nuc-007",
@@ -222,10 +258,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Glutamine donates its amide nitrogen as PRPP is converted to phosphoribosylamine.",
+      "why": "Glutamine supplies its side-chain amide nitrogen to activated ribose in the reaction catalysed by glutamine–PRPP amidotransferase. This first transferred nitrogen becomes N9 of the finished purine ring.",
       "topicId": "nucleotides",
       "subtopic": "Purine synthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Aspartate supplies N1 later in ring assembly and also participates in the conversion of IMP to AMP.",
+        "C": "Glycine is added after the committed step and supplies two carbons and N7.",
+        "D": "Serine supports folate-mediated one-carbon metabolism but does not supply this first nitrogen directly.",
+        "E": "Alanine participates in transamination and nitrogen transport but is not the amide donor in this step."
+      }
     },
     {
       "id": "dq-bio-nuc-008",
@@ -254,10 +296,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The committed reaction replaces the pyrophosphate of PRPP with a nitrogen from glutamine.",
+      "why": "Glutamine–PRPP amidotransferase transfers amide nitrogen from glutamine to carbon 1 of PRPP, displacing pyrophosphate. This forms 5-phosphoribosylamine, the first intermediate committed to the purine pathway.",
       "topicId": "nucleotides",
       "subtopic": "Purine synthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "PRPP is consumed as the activated ribose substrate instead of being produced by the amidotransferase.",
+        "B": "Orotidine monophosphate is an intermediate in pyrimidine synthesis rather than the first purine intermediate.",
+        "D": "Xanthosine monophosphate is produced later from IMP in the GMP branch.",
+        "E": "Adenosine monophosphate is made from IMP after the purine ring has already been completed."
+      }
     },
     {
       "id": "dq-bio-nuc-009",
@@ -286,10 +334,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "The first glutamine amide nitrogen becomes purine N9.",
+      "why": "The first glutamine donates its amide nitrogen to carbon 1 of activated ribose. This nitrogen becomes N9, the purine atom that remains bonded to the sugar.",
       "topicId": "nucleotides",
       "subtopic": "Purine ring assembly",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "N1 is donated by aspartate at a later stage of purine-ring assembly.",
+        "B": "N3 is supplied by a later glutamine-dependent amidation rather than by the committed first reaction.",
+        "C": "N7 is contributed by glycine along with two carbons, after the first amidotransferase step.",
+        "E": "C8 is a carbon supplied by a formyl group carried on tetrahydrofolate."
+      }
     },
     {
       "id": "dq-bio-nuc-010",
@@ -318,10 +372,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Glycine supplies C4, C5 and N7 during purine-ring assembly.",
+      "why": "Glycine is incorporated early as a three-atom unit. Its two carbons become C4 and C5 and its nitrogen becomes N7 in the completed purine ring.",
       "topicId": "nucleotides",
       "subtopic": "Purine ring assembly",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Glutamine supplies N3 and N9 through its amide group, without contributing ring carbons.",
+        "B": "Aspartate supplies N1, while its remaining carbon skeleton leaves as fumarate.",
+        "C": "Serine can contribute one-carbon units through folate metabolism rather than being incorporated as this three-atom unit.",
+        "D": "Alanine is a common transamination substrate but does not supply this group of purine-ring atoms."
+      }
     },
     {
       "id": "dq-bio-nuc-011",
@@ -350,10 +410,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Two one-carbon units enter purine synthesis through N10-formyltetrahydrofolate.",
+      "why": "N10-formyltetrahydrofolate donates one formyl group at each of two separate transformylase steps. The donated carbons become C8 and C2 in the purine ring.",
       "topicId": "nucleotides",
       "subtopic": "Purine ring assembly",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "N5-methyltetrahydrofolate donates methyl groups in methionine regeneration rather than providing formyl groups for purines.",
+        "C": "Pyridoxal phosphate supports many amino acid reactions and does not carry the two purine formyl groups.",
+        "D": "S-adenosylmethionine is a methyl donor and does not provide the formyl groups at the purine transformylase steps.",
+        "E": "Biotin carries activated carbon dioxide in carboxylase reactions rather than donating formyl carbon to purines."
+      }
     },
     {
       "id": "dq-bio-nuc-012",
@@ -382,10 +448,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Glutamine supplies N3 and N9 while aspartate supplies N1; glycine also contributes carbon.",
+      "why": "Glutamine donates amide nitrogen twice, supplying N3 and N9. Aspartate donates N1 and releases its carbon skeleton, while glycine contributes carbon as well as nitrogen.",
       "topicId": "nucleotides",
       "subtopic": "Purine ring assembly",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Glutamine provides nitrogen alone, but glycine also contributes two carbons to the ring.",
+        "C": "Aspartate provides N1 alone, while glycine contributes two carbons together with N7.",
+        "D": "Aspartate is a direct nitrogen donor, whereas serine chiefly contributes to the folate one-carbon pool.",
+        "E": "Glutamine is a nitrogen donor, while alanine does not donate a ring atom in purine assembly."
+      }
     },
     {
       "id": "dq-bio-nuc-013",
@@ -414,10 +486,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "IMP is the first full purine nucleotide, and its base is hypoxanthine.",
+      "why": "The common de novo purine pathway closes the second ring to produce IMP, whose base is hypoxanthine. IMP then supplies both the adenine and guanine nucleotide branches.",
       "topicId": "nucleotides",
       "subtopic": "Purine synthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "AMP is synthesised downstream after IMP enters the adenylosuccinate branch.",
+        "B": "GMP is produced from IMP through the intermediate xanthosine monophosphate.",
+        "D": "UMP is the first completed nucleotide in the de novo pyrimidine pathway, not the purine pathway.",
+        "E": "CMP belongs to the cytosine nucleotide pool, which is derived from uridine nucleotides rather than IMP."
+      }
     },
     {
       "id": "dq-bio-nuc-014",
@@ -446,10 +524,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Adenylosuccinate synthetase uses GTP to add aspartate to IMP en route to AMP.",
+      "why": "Adenylosuccinate synthetase uses GTP to drive addition of aspartate to IMP. Adenylosuccinate is then cleaved to AMP and fumarate, retaining aspartate's nitrogen.",
       "topicId": "nucleotides",
       "subtopic": "Purine branch pathways",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "ATP provides energy for the GMP branch at GMP synthetase rather than for adenylosuccinate formation.",
+        "B": "UTP is a pyrimidine nucleotide and is not the energy substrate for adenylosuccinate synthetase.",
+        "C": "CTP participates in reactions such as phospholipid synthesis rather than supplying energy for the IMP-to-AMP branch.",
+        "E": "Thymidine triphosphate mainly serves as a DNA precursor rather than driving adenylosuccinate synthesis."
+      }
     },
     {
       "id": "dq-bio-nuc-015",
@@ -478,10 +562,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "IMP dehydrogenase converts IMP to XMP, which is converted to GMP.",
+      "why": "IMP dehydrogenase oxidises IMP to xanthosine monophosphate. GMP synthetase adds nitrogen from glutamine to XMP in an ATP-dependent reaction to form GMP.",
       "topicId": "nucleotides",
       "subtopic": "Purine branch pathways",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Adenylosuccinate is formed on the AMP branch and is cleaved to AMP and fumarate.",
+        "B": "Orotidine monophosphate belongs to pyrimidine synthesis and is decarboxylated to UMP.",
+        "C": "Carbamoyl aspartate is an early pyrimidine intermediate made well before ring attachment to PRPP.",
+        "D": "Phosphoribosylamine is an early intermediate in the common purine pathway before IMP formation."
+      }
     },
     {
       "id": "dq-bio-nuc-016",
@@ -510,10 +600,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "IMP dehydrogenase forms XMP in the GMP branch; blocking it reduces guanine nucleotide synthesis.",
+      "why": "IMP dehydrogenase makes xanthosine monophosphate, the immediate precursor of GMP. Blocking this enzyme therefore reduces de novo guanine nucleotide synthesis more directly than the separate AMP branch.",
       "topicId": "nucleotides",
       "subtopic": "Purine branch pathways",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "AMP is made from IMP via adenylosuccinate and does not require the IMP-to-XMP reaction.",
+        "C": "UMP is formed from orotidine monophosphate in a different pathway, de novo pyrimidine synthesis.",
+        "D": "Cytidine nucleotide synthesis proceeds from uridine nucleotides rather than requiring xanthosine monophosphate.",
+        "E": "Thymidylate is formed by methylation of deoxyuridylate and does not use IMP dehydrogenase."
+      }
     },
     {
       "id": "dq-bio-nuc-017",
@@ -542,10 +638,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Cross-use of energy nucleotides helps maintain balanced AMP and GMP formation.",
+      "why": "The AMP branch uses GTP, while the GMP branch uses ATP. This reciprocal energy requirement helps couple the branches so an adequate supply of one purine supports formation of the other.",
       "topicId": "nucleotides",
       "subtopic": "Purine regulation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "GTP drives AMP formation, but the reciprocal use of ATP also supports production of guanine nucleotides.",
+        "C": "ATP drives conversion of XMP to GMP, but GTP is also required for the parallel AMP branch.",
+        "D": "Both pathways begin from IMP, so reciprocal energy requirements do not remove this shared intermediate.",
+        "E": "Salvage pathways use free bases and PRPP and continue to operate independently of this energy arrangement."
+      }
     },
     {
       "id": "dq-bio-nuc-018",
@@ -574,10 +676,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "AMP feedback inhibits adenylosuccinate synthetase, reducing further AMP synthesis.",
+      "why": "AMP provides end-product feedback at adenylosuccinate synthetase, the first dedicated enzyme converting IMP towards AMP. This reduces flow into the adenine branch when AMP is already abundant.",
       "topicId": "nucleotides",
       "subtopic": "Purine regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Orotate phosphoribosyltransferase acts in pyrimidine synthesis, combining orotate with PRPP to form OMP.",
+        "B": "Dihydroorotate dehydrogenase makes orotate in the pyrimidine pathway rather than controlling the AMP branch.",
+        "D": "Glutamine–PRPP amidotransferase is in the shared purine pathway, whereas adenylosuccinate synthetase specifically controls the AMP branch.",
+        "E": "Purine nucleoside phosphorylase breaks down purine nucleosides and is not the first enzyme of AMP synthesis from IMP."
+      }
     },
     {
       "id": "dq-bio-nuc-019",
@@ -606,10 +714,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "GMP inhibits the enzyme that converts IMP to XMP in the guanine nucleotide pathway.",
+      "why": "IMP dehydrogenase catalyses the oxidation of IMP to XMP, the first step unique to the GMP branch. Feedback by guanine nucleotides reduces entry into that branch when supply is sufficient.",
       "topicId": "nucleotides",
       "subtopic": "Purine regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Adenylate kinase interconverts adenine nucleotides and does not catalyse the conversion of IMP to XMP.",
+        "B": "Adenosine deaminase converts adenosine to inosine during purine turnover rather than forming XMP.",
+        "C": "Xanthine oxidase acts downstream in purine degradation to make urate rather than directing GMP synthesis.",
+        "E": "GMP reductase converts GMP back to IMP rather than catalysing the first synthetic step towards GMP."
+      }
     },
     {
       "id": "dq-bio-nuc-020",
@@ -638,10 +752,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "AMP and GMP exert cumulative feedback inhibition of purine amidotransferase.",
+      "why": "Glutamine–PRPP amidotransferase commits PRPP to de novo purine synthesis. Feedback by AMP and GMP dampens the common pathway and limits synthesis when adenine and guanine nucleotides are already available.",
       "topicId": "nucleotides",
       "subtopic": "Purine regulation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Orotate phosphoribosyltransferase belongs to UMP synthesis and has no role in committing PRPP to the purine pathway.",
+        "B": "Adenylosuccinate lyase acts later in purine assembly and AMP formation, rather than catalysing the committed reaction.",
+        "C": "Adenosine deaminase removes nitrogen during nucleoside turnover, not while building purines on PRPP.",
+        "D": "Nucleoside diphosphate kinase transfers phosphate between nucleotide pools rather than constructing the purine ring."
+      }
     },
     {
       "id": "dq-bio-nuc-021",
@@ -670,10 +790,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Elevated PRPP can stimulate the committed amidotransferase step despite end-product feedback.",
+      "why": "PRPP is the substrate for glutamine–PRPP amidotransferase and also promotes its activity. Increasing available PRPP can drive more flux through the committed reaction, even in the presence of some end-product feedback.",
       "topicId": "nucleotides",
       "subtopic": "Purine regulation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "PRPP does not break down urate, which is the endpoint of human purine catabolism.",
+        "C": "Phosphoribosyltransferases often use PRPP as an activated ribose donor, so increasing it can support salvage.",
+        "D": "Tetrahydrofolate supplies one-carbon units later in purine assembly but is not removed by PRPP.",
+        "E": "More PRPP reflects availability of activated ribose and does not prevent synthesis of ribose 5-phosphate."
+      }
     },
     {
       "id": "dq-bio-nuc-022",
@@ -702,10 +828,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Azaserine is a glutamine analogue that interferes with glutamine amidotransferase reactions.",
+      "why": "Azaserine resembles glutamine and interferes with enzymes that normally transfer its amide nitrogen. This can inhibit the glutamine-dependent amidotransferase that starts committed purine synthesis.",
       "topicId": "nucleotides",
       "subtopic": "Purine inhibitors",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Glycine contributes part of the ring later and is not the glutamine-like substrate targeted by azaserine.",
+        "C": "Aspartate donates N1 later in the pathway rather than supplying amide nitrogen in the first step.",
+        "D": "Serine supports folate one-carbon metabolism, whereas the inhibited reaction requires glutamine's side-chain amide.",
+        "E": "Alanine participates in transamination but is not the substrate mimic relevant to the committed amidotransferase reaction."
+      }
     },
     {
       "id": "dq-bio-nuc-023",
@@ -734,10 +866,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Purine phosphoribosyltransferases transfer ribose phosphate from PRPP and release pyrophosphate.",
+      "why": "HGPRT transfers the phosphoribosyl group of PRPP onto hypoxanthine or guanine. Inorganic pyrophosphate leaves and can be hydrolysed to help drive the salvage reaction forward.",
       "topicId": "nucleotides",
       "subtopic": "Purine salvage",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Orthophosphate can form when pyrophosphatase hydrolyses pyrophosphate, after the direct HGPRT reaction.",
+        "C": "Ribose 1-phosphate can be generated during nucleoside phosphorolysis, rather than being released in base salvage.",
+        "D": "Carbon dioxide is released in decarboxylation reactions such as conversion of OMP to UMP, not by HGPRT.",
+        "E": "Ribulose 5-phosphate is a pentose phosphate pathway intermediate and is not released by phosphoribosyl transfer."
+      }
     },
     {
       "id": "dq-bio-nuc-024",
@@ -798,10 +936,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "APRT salvages adenine by attaching ribose phosphate from PRPP.",
+      "why": "Adenine phosphoribosyltransferase attaches phosphoribose from PRPP to free adenine to form AMP. In this way the assembled purine base is reused without building its ring again.",
       "topicId": "nucleotides",
       "subtopic": "Purine salvage",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Guanine deaminase converts guanine to xanthine during degradation rather than attaching ribose to adenine.",
+        "B": "Adenylosuccinate synthetase forms a precursor of AMP from IMP and aspartate, rather than salvaging free adenine.",
+        "C": "Purine nucleoside phosphorylase acts on nucleosides and inorganic phosphate, rather than transferring phosphoribose from PRPP.",
+        "D": "Glutamine amidophosphoribosyltransferase begins de novo synthesis by using glutamine to aminate PRPP."
+      }
     },
     {
       "id": "dq-bio-nuc-026",
@@ -830,10 +974,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Salvage uses existing purine bases rather than rebuilding purine rings.",
+      "why": "Salvage attaches a preformed purine base to activated ribose. It still uses an energy-rich precursor, but avoids the multiple ATP-consuming steps required to build a purine ring from small molecules.",
       "topicId": "nucleotides",
       "subtopic": "Purine salvage",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "Rebuilding a purine ring requires many new bonds and is characteristic of the more energy-intensive de novo pathway.",
+        "C": "Formyl transfers contribute ring carbons during de novo synthesis and are bypassed when a complete base is reused.",
+        "D": "Salvage brings an existing base and activated ribose together rather than gaining energy by destroying ribose.",
+        "E": "Urea formation is a nitrogen disposal pathway and does not provide the energy advantage of purine reuse."
+      }
     },
     {
       "id": "dq-bio-nuc-027",
@@ -862,10 +1012,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Adenosine deaminase removes an amino group to form inosine.",
+      "why": "Adenosine deaminase hydrolytically removes the amino group from the adenine portion of adenosine. The resulting base is hypoxanthine, which remains linked to ribose as inosine.",
       "topicId": "nucleotides",
       "subtopic": "Purine catabolism",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Guanosine contains guanine, which is not formed by removal of adenine's amino group.",
+        "C": "Xanthosine contains xanthine and is distinct from the hypoxanthine nucleoside produced directly from adenosine.",
+        "D": "Cytidine is a pyrimidine nucleoside rather than a product of adenine deamination.",
+        "E": "Uridine can result from deamination of cytidine, which is a separate pyrimidine reaction."
+      }
     },
     {
       "id": "dq-bio-nuc-028",
@@ -894,10 +1050,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Purine nucleoside phosphorylase generates hypoxanthine and ribose-1-phosphate.",
+      "why": "Purine nucleoside phosphorylase uses inorganic phosphate to cleave the bond between hypoxanthine and ribose in inosine. This releases hypoxanthine and produces ribose 1-phosphate.",
       "topicId": "nucleotides",
       "subtopic": "Purine catabolism",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Orotate phosphoribosyltransferase makes OMP from orotate and PRPP rather than breaking down inosine.",
+        "B": "Adenylosuccinate synthetase uses IMP to make an AMP precursor, not to cleave a nucleoside.",
+        "D": "Nucleoside diphosphate kinase transfers terminal phosphate groups and does not split the base–sugar bond.",
+        "E": "Glutamine–PRPP amidotransferase starts de novo purine synthesis and does not act on inosine."
+      }
     },
     {
       "id": "dq-bio-nuc-029",
@@ -926,10 +1088,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Guanine deaminase converts guanine to xanthine.",
+      "why": "Guanine deaminase replaces guanine's amino group with an oxo group, generating xanthine. Xanthine oxidase can then convert xanthine to urate.",
       "topicId": "nucleotides",
       "subtopic": "Purine catabolism",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Adenine is a different purine base and does not form by deamination of guanine.",
+        "B": "Inosine is a nucleoside formed from adenosine and contains hypoxanthine rather than a guanine breakdown product.",
+        "C": "Hypoxanthine arises principally from adenine nucleotide breakdown, upstream of xanthine in that route.",
+        "E": "Orotate is a pyrimidine precursor and is unrelated to the final oxidation of guanine-derived purines."
+      }
     },
     {
       "id": "dq-bio-nuc-030",
@@ -958,10 +1126,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Xanthine oxidase sequentially oxidizes hypoxanthine to xanthine and then to uric acid.",
+      "why": "Xanthine oxidoreductase first oxidises hypoxanthine to xanthine. It then oxidises xanthine to uric acid, which is largely present as urate at physiological pH.",
       "topicId": "nucleotides",
       "subtopic": "Purine catabolism",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Inosine can yield hypoxanthine through phosphorolysis, so it is upstream rather than an oxidised intermediate.",
+        "B": "Guanine can produce xanthine after deamination, but it is not the intermediate in hypoxanthine oxidation.",
+        "C": "Adenine nucleotide degradation can yield hypoxanthine indirectly and does not reverse to adenine during the final steps.",
+        "D": "Orotate lies on a pyrimidine synthesis pathway rather than between hypoxanthine and urate."
+      }
     },
     {
       "id": "dq-bio-nuc-031",
@@ -990,10 +1164,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Phosphorolysis of nucleosides generates ribose-1-phosphate and a free base.",
+      "why": "Nucleoside phosphorylase uses inorganic phosphate to break the glycosidic bond in susceptible ribonucleosides. It releases the free base and attaches the phosphate at carbon 1 of the released ribose.",
       "topicId": "nucleotides",
       "subtopic": "Purine catabolism",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Ribulose 5-phosphate is an isomer in the pentose phosphate pathway, not the immediate sugar product of phosphorolysis.",
+        "B": "Ribose 5-phosphate is used to make PRPP but differs in phosphate position from the product of nucleoside cleavage.",
+        "C": "Phosphorolysis releases a phosphorylated sugar, so even cleavage of a deoxynucleoside does not yield free deoxyribose.",
+        "E": "Fructose 6-phosphate is a six-carbon metabolic intermediate rather than the phosphorylated pentose from a nucleoside."
+      }
     },
     {
       "id": "dq-bio-nuc-032",
@@ -1022,10 +1202,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The purine nucleotide cycle uses GTP and aspartate during adenylosuccinate formation.",
+      "why": "During AMP regeneration in the purine nucleotide cycle, adenylosuccinate synthetase uses GTP to attach aspartate to IMP. Cleavage of the product yields AMP and fumarate.",
       "topicId": "nucleotides",
       "subtopic": "Purine nucleotide cycle",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "ATP and glutamine are used together in the GMP synthetase reaction, rather than regenerating AMP from IMP.",
+        "C": "GTP is the correct energy source, but aspartate supplies the nitrogen and carbon skeleton that yields fumarate.",
+        "D": "UTP and asparagine do not provide the energy and amino group used by adenylosuccinate synthetase.",
+        "E": "CTP and bicarbonate are not the required pair, because adenylosuccinate formation uses GTP and adds aspartate."
+      }
     },
     {
       "id": "dq-bio-nuc-033",
@@ -1054,10 +1240,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Adenylosuccinate lyase releases fumarate during AMP regeneration.",
+      "why": "Adenylosuccinate lyase releases fumarate when it splits adenylosuccinate into AMP and a four-carbon product. The fumarate can then enter tricarboxylic acid cycle metabolism.",
       "topicId": "nucleotides",
       "subtopic": "Purine nucleotide cycle",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Malate can form by hydration of fumarate, but it is not released directly with AMP.",
+        "B": "Succinate is oxidised to fumarate in the tricarboxylic acid cycle rather than being the adenylosuccinate cleavage product.",
+        "D": "Citrate is formed from acetyl-CoA and oxaloacetate by citrate synthase, a separate reaction.",
+        "E": "Oxaloacetate interconverts with aspartate by transamination rather than being the direct four-carbon product of adenylosuccinate cleavage."
+      }
     },
     {
       "id": "dq-bio-nuc-034",
@@ -1086,10 +1278,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Adenylate kinase interconverts adenine nucleotide phosphorylation states.",
+      "why": "Adenylate kinase catalyses the reversible reaction between ATP plus AMP and two ADP molecules. This redistributes phosphate among adenine nucleotides as their concentrations change.",
       "topicId": "nucleotides",
       "subtopic": "Nucleotide phosphorylation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Creatine kinase transfers phosphate between creatine and adenine nucleotides, using phosphocreatine as an energy buffer.",
+        "B": "GMP reductase carries out reductive deamination of GMP to IMP rather than transferring phosphate between adenine nucleotides.",
+        "C": "Adenosine deaminase acts on a nucleoside, converting adenosine to inosine rather than making ADP.",
+        "E": "Xanthine oxidase catalyses late purine degradation reactions that lead to urate."
+      }
     },
     {
       "id": "dq-bio-nuc-035",
@@ -1118,10 +1316,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "NDP kinase exchanges phosphate groups without strict base specificity.",
+      "why": "Nucleoside diphosphate kinase transfers a terminal phosphate between nucleotide pairs through a phosphorylated enzyme intermediate. Its broad substrate specificity lets it maintain several nucleoside triphosphate pools.",
       "topicId": "nucleotides",
       "subtopic": "Nucleotide phosphorylation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Adenylosuccinate synthetase uses GTP to make a precursor of AMP, rather than phosphorylating different diphosphates.",
+        "B": "Purine nucleoside phosphorylase cleaves the base–sugar bond, using inorganic phosphate rather than forming nucleotide triphosphates.",
+        "C": "Orotate phosphoribosyltransferase makes OMP in pyrimidine synthesis rather than transferring terminal phosphate groups.",
+        "D": "Ribose phosphate pyrophosphokinase is PRPP synthetase, which activates ribose 5-phosphate instead of phosphorylating nucleoside diphosphates."
+      }
     },
     {
       "id": "dq-bio-nuc-036",
@@ -1150,10 +1354,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Pyrimidine rings are made before attachment to ribose phosphate; purine rings are built on PRPP.",
+      "why": "In pyrimidine synthesis the ring is formed as orotate before attachment to ribose phosphate from PRPP. In purine synthesis the ring atoms are added directly onto activated ribose.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine synthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Direct assembly on PRPP is a feature of de novo purine synthesis rather than pyrimidine synthesis.",
+        "C": "The purine ring is constructed while attached to ribose, whereas pyrimidines form a free ring first.",
+        "D": "The pyrimidine ring is already present in orotate and OMP before the production of UMP.",
+        "E": "The first completed product is IMP, which is a nucleotide made by assembly on PRPP rather than by converting a nucleoside."
+      }
     },
     {
       "id": "dq-bio-nuc-037",
@@ -1182,10 +1392,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Cytosolic CPS II starts pyrimidine synthesis using glutamine and bicarbonate.",
+      "why": "The CPS II activity of cytosolic CAD uses glutamine, bicarbonate and two ATP to make carbamoyl phosphate. This supplies the first segment of mammalian de novo pyrimidine synthesis.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine synthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Mitochondrial CPS I uses ammonia to form carbamoyl phosphate for urea synthesis rather than supplying cytosolic CAD.",
+        "C": "Ornithine transcarbamylase uses carbamoyl phosphate and ornithine to form citrulline, downstream in the urea cycle.",
+        "D": "Aspartate aminotransferase transfers amino groups between aspartate and oxaloacetate and does not make carbamoyl phosphate.",
+        "E": "Adenylosuccinate synthetase converts IMP towards AMP in the purine pathway, rather than supplying the pyrimidine precursor."
+      }
     },
     {
       "id": "dq-bio-nuc-038",
@@ -1214,10 +1430,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "CPS I functions in the urea cycle, while cytosolic CPS II functions in pyrimidine synthesis.",
+      "why": "Mitochondrial carbamoyl phosphate synthetase I incorporates free ammonia into carbamoyl phosphate. That is the first step in urea-cycle disposal of ammonia, so its failure can cause hyperammonaemia.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine synthesis",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Cytosolic carbamoyl aspartate is produced in the pyrimidine pathway using carbamoyl phosphate from CPS II.",
+        "B": "Guanine salvage requires HGPRT and PRPP rather than mitochondrial carbamoyl phosphate.",
+        "D": "Hypoxanthine oxidation uses xanthine oxidoreductase in purine degradation, independent of the urea-cycle entry step.",
+        "E": "A monophosphate kinase converts UMP to UDP during nucleotide phosphorylation, rather than requiring mitochondrial CPS I."
+      }
     },
     {
       "id": "dq-bio-nuc-039",
@@ -1246,10 +1468,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Aspartate transcarbamoylase produces carbamoyl aspartate.",
+      "why": "Aspartate transcarbamoylase transfers the carbamoyl group of carbamoyl phosphate to aspartate, forming carbamoyl aspartate. This occurs before the dihydroorotase step closes the ring.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine synthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Carbamoyl phosphate synthetase makes the activated substrate that the transcarbamoylase then uses.",
+        "B": "Dihydroorotate dehydrogenase oxidises a later cyclic intermediate to orotate rather than forming carbamoyl aspartate.",
+        "C": "Orotate phosphoribosyltransferase adds phosphoribose to the finished pyrimidine ring later in the pathway.",
+        "E": "Orotidylate decarboxylase removes carbon dioxide from OMP to produce UMP near the end of the pathway."
+      }
     },
     {
       "id": "dq-bio-nuc-040",
@@ -1278,10 +1506,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Dihydroorotase closes the pyrimidine ring.",
+      "why": "Dihydroorotase catalyses ring closure of carbamoyl aspartate, releasing water and forming dihydroorotate. It is one of the three pyrimidine synthetic activities of mammalian CAD.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine synthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Dihydroorotate dehydrogenase acts after ring closure to oxidise dihydroorotate to orotate.",
+        "B": "Aspartate transcarbamoylase forms carbamoyl aspartate before the cyclisation step.",
+        "C": "Orotate phosphoribosyltransferase adds ribose phosphate to orotate after the pyrimidine ring is formed.",
+        "D": "Orotidylate decarboxylase forms UMP from OMP at a later step rather than closing the ring."
+      }
     },
     {
       "id": "dq-bio-nuc-041",
@@ -1310,11 +1544,17 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "The mitochondrion-associated dihydroorotate dehydrogenase transfers electrons to ubiquinone, explaining the location.",
+      "why": "Mammalian dihydroorotate oxidation does occur at the mitochondrion. The inner-membrane enzyme passes electrons from the oxidation to ubiquinone, which explains why this step is coupled to the mitochondrial respiratory chain.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine synthesis",
       "difficulty": "medium",
-      "lockOrder": true
+      "lockOrder": true,
+      "notes": {
+        "B": "Both statements are true and linked, because access to membrane ubiquinone couples the oxidation to the mitochondrial electron transport chain.",
+        "C": "The reason is true because mammalian dihydroorotate dehydrogenase transfers reducing equivalents into the ubiquinone pool.",
+        "D": "The assertion is also true because the enzyme catalysing this reaction is associated with the inner mitochondrial membrane.",
+        "E": "Both statements hold: the oxidation is mitochondrial, and ubiquinone accepts electrons from it."
+      }
     },
     {
       "id": "dq-bio-nuc-042",
@@ -1343,10 +1583,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "CPS II consumes two ATP molecules to make carbamoyl phosphate.",
+      "why": "CPS II uses one ATP to activate bicarbonate and another to phosphorylate the resulting carbamate. Those two ATP-dependent activations give a net cost of two ATP per carbamoyl phosphate.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine synthesis",
-      "difficulty": "easy"
+      "difficulty": "easy",
+      "notes": {
+        "A": "One ATP accounts for only one of the two phosphorylation events required in the synthetase reaction.",
+        "C": "A third ATP is unnecessary in this reaction because bicarbonate and carbamate are the two activated species.",
+        "D": "The ATP cost cited here is for CPS II alone, which uses two molecules rather than four.",
+        "E": "Five ATP overstates the energetic cost of the single CPS II reaction, which has two ATP-consuming steps."
+      }
     },
     {
       "id": "dq-bio-nuc-043",
@@ -1375,10 +1621,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Orotate phosphoribosyltransferase forms OMP using PRPP.",
+      "why": "Orotate phosphoribosyltransferase uses PRPP to attach a ribose phosphate group to orotate. The pyrophosphate leaving group makes the sugar activated and is released as OMP forms.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine synthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Ribose 1,5-bisphosphate has two separate phosphates and lacks PRPP's activated pyrophosphate leaving group.",
+        "B": "Deoxyribose 5-phosphate is a deoxy sugar and lacks the activated group needed for this ribonucleotide synthesis.",
+        "D": "Ribulose 1,5-bisphosphate is a pentose of the carbon fixation cycle and is not the activated ribose donor.",
+        "E": "Glucose 1,6-bisphosphate is a phosphorylated six-carbon sugar, while orotate receives an activated five-carbon ribose."
+      }
     },
     {
       "id": "dq-bio-nuc-044",
@@ -1407,10 +1659,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "OMP decarboxylase produces UMP in the final step of pyrimidine de novo synthesis.",
+      "why": "Orotidylate decarboxylase removes the carboxyl group of OMP as carbon dioxide and leaves UMP. In humans this activity is one domain of bifunctional UMP synthase.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine synthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Orotate phosphoribosyltransferase makes OMP first by attaching ribose phosphate to orotate.",
+        "B": "Dihydroorotate dehydrogenase oxidises the earlier intermediate to orotate without removing the OMP carboxyl group.",
+        "C": "CPS II makes carbamoyl phosphate at the start of pyrimidine synthesis, before completion of the ring.",
+        "E": "Aspartate transcarbamoylase forms carbamoyl aspartate early in the pathway, rather than making UMP."
+      }
     },
     {
       "id": "dq-bio-nuc-045",
@@ -1439,10 +1697,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "CTP synthetase transfers glutamine-derived nitrogen to UTP.",
+      "why": "CTP synthetase uses ATP to activate UTP for addition of nitrogen from glutamine. This converts the uracil nucleotide into a cytosine nucleotide at the triphosphate level.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine branches",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "GMP synthetase also uses glutamine and ATP, but acts on XMP to form the purine GMP.",
+        "B": "IMP dehydrogenase converts IMP to XMP by oxidation rather than converting UTP to CTP.",
+        "C": "Adenylate kinase interconverts AMP, ADP and ATP without changing the identity of their nitrogenous base.",
+        "D": "Pyrimidine nucleoside phosphorylases act on nucleosides during turnover rather than aminating UTP to form CTP."
+      }
     },
     {
       "id": "dq-bio-nuc-046",
@@ -1471,10 +1735,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "CTP synthetase uses the amide nitrogen of glutamine.",
+      "why": "CTP synthetase liberates ammonia from the side-chain amide of glutamine and transfers that nitrogen to activated UTP. The new amino group distinguishes cytosine from uracil in the resulting nucleotide.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine branches",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Aspartate contributes atoms when the pyrimidine ring is assembled, but does not donate the new amino group to UTP.",
+        "C": "Glycine is incorporated into purines and is not the amide nitrogen donor used by CTP synthetase.",
+        "D": "Alanine can transfer its amino group in transamination, a different reaction from ATP-dependent UTP amination.",
+        "E": "Serine can transfer one-carbon units into folate metabolism rather than directly donating nitrogen to UTP."
+      }
     },
     {
       "id": "dq-bio-nuc-047",
@@ -1503,10 +1773,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Cytosolic CPS II uses glutamine amide nitrogen; mitochondrial CPS I uses free ammonia.",
+      "why": "Cytosolic CPS II first hydrolyses glutamine and uses the liberated amide nitrogen to form carbamoyl phosphate. Mitochondrial CPS I instead obtains its nitrogen from the free ammonia pool.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Free ammonia supplies mitochondrial CPS I, whereas CPS II normally obtains nitrogen from glutamine.",
+        "B": "Aspartate contributes nitrogen after carbamoyl phosphate is formed, through the next pyrimidine synthesis reaction.",
+        "D": "Glycine contributes ring atoms during purine synthesis but is not the amide substrate of CPS II.",
+        "E": "Alanine transports nitrogen in some tissues but is not the direct nitrogen donor used by CPS II."
+      }
     },
     {
       "id": "dq-bio-nuc-048",
@@ -1535,10 +1811,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "UTP provides feedback inhibition of mammalian CPS II, limiting further pyrimidine synthesis.",
+      "why": "UTP provides negative feedback to the CPS II activity of mammalian CAD. When UTP is abundant, inhibition of this early reaction limits further production of pyrimidine nucleotides.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "ATP supplies the energy for carbamoyl phosphate formation and does not provide the characteristic UTP feedback signal.",
+        "B": "PRPP activates mammalian CPS II, coupling early synthesis to availability of activated ribose.",
+        "D": "GTP is a purine nucleotide and provides energy for the AMP branch rather than the main feedback signal to CPS II.",
+        "E": "IMP is a purine branch point, whereas CPS II senses UTP from the pyrimidine product pool."
+      }
     },
     {
       "id": "dq-bio-nuc-049",
@@ -1567,10 +1849,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "PRPP activates CPS II and promotes pyrimidine synthesis when activated ribose is available.",
+      "why": "PRPP stimulates the CPS II activity in CAD, increasing formation of carbamoyl phosphate. This links the start of pyrimidine synthesis to the availability of activated ribose needed later to form OMP.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine regulation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "UTP is the main feedback inhibitor of mammalian CPS II rather than its activating phosphoribosyl signal.",
+        "B": "UDP is a phosphorylated uridine nucleotide and is not the classic allosteric activator of CPS II.",
+        "C": "CTP regulates bacterial aspartate transcarbamoylase in the usual comparison rather than acting as the mammalian CPS II activator.",
+        "E": "UMP is the first pyrimidine nucleotide produced by the pathway and is not the activated ribose signal."
+      }
     },
     {
       "id": "dq-bio-nuc-050",
@@ -1599,10 +1887,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Bacterial ATCase responds to CTP feedback, unlike mammalian regulation primarily at CPS II.",
+      "why": "In the standard E. coli model, CTP inhibits aspartate transcarbamoylase allosterically. The inhibition reduces formation of carbamoyl aspartate when the downstream pyrimidine nucleotide pool is well supplied.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine regulation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Mammalian CPS II is controlled by UTP and PRPP, whereas the named bacterial CTP control is at aspartate transcarbamoylase.",
+        "B": "Orotate phosphoribosyltransferase acts later to make OMP after formation of the free pyrimidine ring.",
+        "C": "Nucleoside diphosphate kinase exchanges phosphates between nucleotides rather than committing material to pyrimidine-ring synthesis.",
+        "D": "OMP decarboxylase converts OMP to UMP downstream and is not the classical CTP-regulated enzyme."
+      }
     },
     {
       "id": "dq-bio-nuc-051",
@@ -1631,10 +1925,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "ATP activation of bacterial ATCase coordinates pyrimidine synthesis with the cellular purine and energy supply.",
+      "why": "ATP is a purine nucleotide and allosteric activation of bacterial ATCase favours pyrimidine synthesis when ATP is abundant. This helps keep purine and pyrimidine nucleotide supplies coordinated.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine regulation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "The bacterium has no liver, and ATCase regulation is not a mechanism for suppressing hepatic glutamine formation.",
+        "C": "Activation increases flux into pyrimidine synthesis rather than suppressing the formation of all nucleotides.",
+        "D": "ATCase is a biosynthetic enzyme that produces carbamoyl aspartate rather than breaking down pyrimidines.",
+        "E": "ATCase consumes carbamoyl phosphate in its reaction, so activating it favours rather than prevents utilisation."
+      }
     },
     {
       "id": "dq-bio-nuc-052",
@@ -1663,10 +1963,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "CAD contains carbamoyl phosphate synthetase II, aspartate transcarbamoylase and dihydroorotase activities.",
+      "why": "Mammalian CAD contains CPS II, aspartate transcarbamoylase and dihydroorotase activities. Together they convert small precursors into dihydroorotate through carbamoyl phosphate formation, condensation with aspartate and ring closure.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine organization",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "GART combines activities used in early purine synthesis, rather than the first three pyrimidine reactions.",
+        "C": "ATIC acts near the end of de novo purine synthesis and helps form IMP.",
+        "D": "PAICS catalyses two intermediate reactions in purine synthesis, separate from pyrimidine-ring assembly.",
+        "E": "HGPRT is a purine salvage enzyme and does not provide the three early mammalian pyrimidine activities."
+      }
     },
     {
       "id": "dq-bio-nuc-053",
@@ -1695,10 +2001,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Substrate channeling can protect intermediates and speed multistep catalysis.",
+      "why": "Housing sequential activities in CAD can help channel unstable intermediates such as carbamoyl phosphate to the next catalytic site. Local transfer can reduce loss before the intermediate is used.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine organization",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Mammalian CAD acts in the cytosol, so hydrolysis of intermediates outside the cell would not improve this pathway.",
+        "B": "CPS II still consumes two ATP molecules, even though its downstream enzymes are linked in the same complex.",
+        "D": "The later oxidation of dihydroorotate is still mitochondrial, despite grouping the first three activities in cytosolic CAD.",
+        "E": "The enzyme domains retain distinct substrate requirements, but proximity can help deliver a product to the next site."
+      }
     },
     {
       "id": "dq-bio-nuc-054",
@@ -1727,10 +2039,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Aspartate contributes N1 and C4–C6; bicarbonate provides C2 and glutamine contributes N3.",
+      "why": "Aspartate contributes four atoms to the pyrimidine ring: N1 and carbons 4, 5 and 6. Carbamoyl phosphate supplies the remaining ring carbon and nitrogen.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine synthesis",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Aspartate provides N1, C4 and C5, but C2 is from bicarbonate and this set leaves out C6.",
+        "B": "Aspartate supplies C5 and C6, but glutamine donates N3 and bicarbonate supplies C2.",
+        "C": "The three carbons fit, but N3 comes from glutamine while the nitrogen that aspartate supplies is N1.",
+        "E": "N1 and C4 fit, while N3 and C2 belong to the carbamoyl contribution and C5 and C6 are omitted."
+      }
     },
     {
       "id": "dq-bio-nuc-055",
@@ -1759,10 +2077,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Bicarbonate contributes the C2 carbon of the pyrimidine ring.",
+      "why": "CPS II incorporates bicarbonate into carbamoyl phosphate. That carbon becomes carbon 2 of the pyrimidine ring, while aspartate supplies the other ring carbons.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine synthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Carbon 4 is contributed by aspartate rather than the bicarbonate used to form carbamoyl phosphate.",
+        "B": "Carbon 5 comes from the aspartate skeleton, which contributes three ring carbons.",
+        "C": "Carbon 6 is another aspartate-derived ring carbon, rather than the carbon carried in carbamoyl phosphate.",
+        "D": "The glutamine amide group supplies nitrogen 3, while bicarbonate supplies a carbon atom."
+      }
     },
     {
       "id": "dq-bio-nuc-056",
@@ -1791,10 +2115,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "UMP synthase combines the orotate phosphoribosyltransferase and OMP decarboxylase activities.",
+      "why": "UMP synthase first transfers phosphoribose from PRPP to orotate to form OMP. Its second catalytic domain then decarboxylates OMP to UMP.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine organization",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "CAD contains the first three pyrimidine activities, ending before orotate and OMP are produced.",
+        "B": "GART is multifunctional but acts in purine-ring assembly rather than forming UMP from orotate.",
+        "C": "ATIC ends the common de novo purine pathway by helping form IMP, not UMP.",
+        "E": "HGPRT salvages hypoxanthine and guanine, whereas UMP synthesis requires orotate phosphoribosyltransferase and OMP decarboxylase."
+      }
     },
     {
       "id": "dq-bio-nuc-057",
@@ -1823,10 +2153,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "OMP decarboxylase catalyses rapid decarboxylation without an added cofactor.",
+      "why": "OMP decarboxylase catalyses release of carbon dioxide using substrate interactions within its active site. It works without a metal ion or organic cofactor to carry the reaction.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine synthesis",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Biotin carries carbon dioxide in carboxylase reactions, while OMP decarboxylase releases carbon dioxide without biotin.",
+        "C": "Pyridoxal phosphate assists amino-group chemistry, whereas OMP decarboxylation does not require an amino transfer.",
+        "D": "NADPH provides reducing equivalents in redox reactions and is not consumed when OMP loses its carboxyl group.",
+        "E": "FAD transfers electrons in certain oxidations and reductions, rather than being required for this decarboxylation."
+      }
     },
     {
       "id": "dq-bio-nuc-058",
@@ -1855,10 +2191,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Uridine enters salvage routes to produce UMP downstream of the defective OMP-forming steps.",
+      "why": "Uridine kinase can phosphorylate administered uridine directly to UMP through salvage. This restores pyrimidine supply downstream of impaired UMP synthase without requiring normal conversion of orotate to UMP.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine disorders",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Uridine can provide a bypass through salvage, but it does not repair the underlying mutant UMP synthase.",
+        "B": "Absorption makes uridine available for salvage rather than preventing it from reaching cells that need UMP.",
+        "D": "The bypass is nucleoside phosphorylation and does not require stimulation of mitochondrial carbamoyl phosphate production.",
+        "E": "Orotate is a pyrimidine precursor and is not converted into purines as part of the uridine effect."
+      }
     },
     {
       "id": "dq-bio-nuc-059",
@@ -1887,10 +2229,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "UMP synthase deficiency causes hereditary orotic aciduria with impaired pyrimidine availability; OTC deficiency usually causes hyperammonaemia.",
+      "why": "UMP synthase deficiency prevents efficient formation of UMP from orotate, which accumulates in urine. Pyrimidine shortage can impair erythroid DNA synthesis, while a normal ammonia level points away from a primary urea-cycle defect.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine disorders",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Increased ammonia production would tend to raise ammonia if disposal is inadequate, rather than directly causing UMP shortage.",
+        "B": "Ornithine transcarbamylase deficiency can cause orotate accumulation, but the accompanying hyperammonaemia distinguishes it.",
+        "C": "A primary CPS I defect can cause hyperammonaemia and usually does not markedly increase urinary orotate.",
+        "E": "Urate is a product of purine breakdown and does not account for orotate accumulation with megaloblastic anaemia."
+      }
     },
     {
       "id": "dq-bio-nuc-060",
@@ -1919,10 +2267,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Uracil breakdown yields beta-alanine along with carbon dioxide and ammonia.",
+      "why": "Uracil is first reduced and then its ring is opened. Further hydrolysis of the opened product releases beta-alanine along with carbon dioxide and ammonia.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine catabolism",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Beta-aminoisobutyrate retains the methyl-derived carbon from thymine breakdown and is different from uracil's product.",
+        "B": "Uric acid is the familiar endpoint of human purine degradation rather than the product of the uracil pathway.",
+        "C": "Xanthine is a purine breakdown intermediate oxidised to urate, not a product of pyrimidine-ring cleavage.",
+        "D": "Hypoxanthine derives from purine turnover and is oxidised in the pathway to xanthine."
+      }
     },
     {
       "id": "dq-bio-nuc-061",
@@ -1951,10 +2305,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Thymine is degraded to beta-aminoisobutyrate; uracil instead yields beta-alanine.",
+      "why": "Thymine has a methyl substituent that is retained as the ring is reduced and opened. Its degradation therefore produces beta-aminoisobutyrate instead of beta-alanine.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine catabolism",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Uracil lacks thymine's methyl group and is degraded to beta-alanine rather than beta-aminoisobutyrate.",
+        "C": "Cytosine-derived nucleosides can feed the uracil pathway after deamination, without introducing thymine's methyl group.",
+        "D": "Adenine is a purine and is degraded towards urate through hypoxanthine and xanthine pathways.",
+        "E": "Guanine is converted to xanthine during purine catabolism, rather than yielding a beta-amino acid."
+      }
     },
     {
       "id": "dq-bio-nuc-062",
@@ -1983,10 +2343,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Pyrimidine bases undergo reduction and ring opening; purines commonly end as uric acid.",
+      "why": "Human pyrimidine breakdown reduces and opens the ring to give small molecules such as beta-alanine or beta-aminoisobutyrate. Purine degradation instead ends mainly in urate.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine catabolism",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Uric acid is the endpoint of purine degradation, whereas reduced pyrimidines undergo ring opening.",
+        "C": "Glycine contributes to purine-ring synthesis and is not the reaction that distinguishes pyrimidine breakdown.",
+        "D": "Salvage competes with breakdown for some substrates but is not an obligatory prior step for all bases.",
+        "E": "Xanthine oxidoreductase acts on purine intermediates, while pyrimidines initially undergo reduction by another enzyme."
+      }
     },
     {
       "id": "dq-bio-nuc-063",
@@ -2015,10 +2381,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Dihydropyrimidine dehydrogenase reduces uracil during pyrimidine catabolism.",
+      "why": "Dihydropyrimidine dehydrogenase uses reducing equivalents to convert uracil to dihydrouracil. This is the initial reduction before the ring is opened in pyrimidine catabolism.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine catabolism",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Dihydroorotate dehydrogenase oxidises dihydroorotate in biosynthesis rather than reducing uracil in catabolism.",
+        "B": "Orotidine decarboxylase forms UMP from OMP in biosynthesis and does not catalyse ring reduction.",
+        "D": "Aspartate transcarbamoylase acts early in pyrimidine synthesis, forming carbamoyl aspartate.",
+        "E": "CPS II forms carbamoyl phosphate for synthesis rather than reducing an already formed pyrimidine base."
+      }
     },
     {
       "id": "dq-bio-nuc-064",
@@ -2079,11 +2451,17 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Ribonucleotide reductase reduces the ribose 2-prime position of NDPs to generate deoxy-NDPs for DNA synthesis.",
+      "why": "Ribonucleotide reductase does supply deoxyribonucleotide precursors for DNA. It replaces the 2′ hydroxyl of a ribonucleoside diphosphate with hydrogen, creating the deoxy sugar that is then carried into DNA precursors.",
       "topicId": "nucleotides",
       "subtopic": "Deoxyribonucleotide synthesis",
       "difficulty": "medium",
-      "lockOrder": true
+      "lockOrder": true,
+      "notes": {
+        "B": "Both statements are true and linked because the loss of the 2′ hydroxyl is what makes the product a deoxyribonucleotide.",
+        "C": "The reason is true: reduction changes the sugar at its 2′ carbon in the mammalian diphosphate substrates.",
+        "D": "The assertion is true because the deoxy diphosphates can be phosphorylated to triphosphate substrates for DNA synthesis.",
+        "E": "Both statements hold, linking the chemical change in ribose to the supply of DNA building blocks."
+      }
     },
     {
       "id": "dq-bio-nuc-066",
@@ -2112,10 +2490,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Ribonucleotide reductase uses a radical-based catalytic mechanism.",
+      "why": "Ribonucleotide reductase initiates catalysis through a protein radical that activates the substrate sugar. Subsequent redox chemistry replaces the ribose 2′ hydroxyl with hydrogen.",
       "topicId": "nucleotides",
       "subtopic": "Deoxyribonucleotide synthesis",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Biotin carries an activated carboxyl group in carboxylase reactions rather than starting ribonucleotide reduction.",
+        "B": "Deamination involves removal of amino groups, whereas ribonucleotide reductase changes a hydroxyl group through radical chemistry.",
+        "C": "Thymidylate synthase uses a folate cofactor to transfer a one-carbon unit in a separate reaction downstream.",
+        "D": "The enzyme retains the diphosphate group and catalyses a change at the 2′ carbon rather than losing phosphate."
+      }
     },
     {
       "id": "dq-bio-nuc-067",
@@ -2144,10 +2528,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Thioredoxin and glutaredoxin transfer reducing equivalents to ribonucleotide reductase.",
+      "why": "Thioredoxin or glutaredoxin transfers reducing equivalents to oxidised cysteines in ribonucleotide reductase. Regeneration of these electron donors allows the enzyme to carry out repeated catalytic cycles.",
       "topicId": "nucleotides",
       "subtopic": "Deoxyribonucleotide synthesis",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Biotin carries carboxyl groups and lipoamide supports oxidative decarboxylation, rather than directly regenerating the reductase.",
+        "C": "Ubiquinone and cytochrome c transfer electrons in respiratory pathways rather than reducing the enzyme's catalytic disulphides.",
+        "D": "Folate carries one-carbon groups and cobalamin can support radical chemistry in some enzymes, but neither replaces these reducing systems.",
+        "E": "Thiamine and pyridoxal phosphate support several carbon and amino-group reactions rather than directly restoring the enzyme's cysteines."
+      }
     },
     {
       "id": "dq-bio-nuc-068",
@@ -2176,10 +2566,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Ribonucleotide reductase removes the 2-prime hydroxyl to generate the deoxyribose moiety needed for DNA.",
+      "why": "Ribonucleotide reductase converts a ribose-containing diphosphate into its deoxy counterpart by replacing the 2′ hydroxyl with hydrogen. The base and diphosphate are retained.",
       "topicId": "nucleotides",
       "subtopic": "Deoxyribonucleotide synthesis",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The 5′ phosphate group remains attached while the enzyme modifies the 2′ position of the pentose.",
+        "B": "The nitrogenous base stays linked at the 1′ carbon and is not converted by ribonucleotide reductase.",
+        "D": "Ribose in a nucleotide has a 3′ hydroxyl rather than a 3′ carbonyl, and that hydroxyl is retained.",
+        "E": "The glycosidic bond between base and sugar is maintained, while the reaction changes the 2′ substituent."
+      }
     },
     {
       "id": "dq-bio-nuc-069",
@@ -2208,10 +2604,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "IMP dehydrogenase converts IMP to XMP and is inhibited by mycophenolic acid.",
+      "why": "Mycophenolic acid inhibits IMP dehydrogenase, limiting conversion of IMP to XMP. Because XMP feeds GMP synthesis, inhibition reduces the guanine nucleotide pool.",
       "topicId": "nucleotides",
       "subtopic": "Nucleotide analogues",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "AMP deaminase converts AMP to IMP and is not the enzyme that forms XMP for the GMP branch.",
+        "B": "HGPRT salvages free purine bases and is separate from the de novo step inhibited by mycophenolic acid.",
+        "C": "GMP reductase can convert GMP back to IMP, whereas mycophenolic acid blocks a step in the opposite direction.",
+        "E": "Adenylate kinase redistributes phosphate among adenine nucleotides and is not the inhibited XMP-forming enzyme."
+      }
     },
     {
       "id": "dq-bio-nuc-070",
@@ -2240,10 +2642,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Six-mercaptopurine metabolites inhibit pathways of de novo purine nucleotide production.",
+      "why": "Intracellular metabolism of 6-mercaptopurine yields thionucleotides. Some interfere with reactions of de novo purine production, contributing to reduced purine nucleotide availability in proliferating cells.",
       "topicId": "nucleotides",
       "subtopic": "Nucleotide analogues",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Haem breakdown produces biliverdin and bilirubin and is not the principal nucleotide pathway affected by activated mercaptopurine.",
+        "B": "Glucose oxidation provides energy and intermediates, while mercaptopurine primarily acts on purine metabolism after activation.",
+        "C": "Pyruvate carboxylase replenishes oxaloacetate using biotin rather than being a key target in thionucleotide action.",
+        "D": "Fatty acid elongation uses lipid intermediates and is separate from the purine reactions inhibited by mercaptopurine metabolites."
+      }
     },
     {
       "id": "dq-bio-nuc-071",
@@ -2272,10 +2680,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "NMP kinases use an NTP phosphate donor to make an NDP.",
+      "why": "Nucleoside monophosphate kinases transfer a phosphate from a donor such as ATP to a nucleoside monophosphate. The product nucleoside diphosphate can then be phosphorylated further.",
       "topicId": "nucleotides",
       "subtopic": "Nucleotide metabolism",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Nucleoside diphosphate kinase acts one phosphorylation level later, transferring phosphate to make triphosphates.",
+        "C": "Adenosine deaminase converts adenosine to inosine and does not add phosphate to a nucleoside monophosphate.",
+        "D": "IMP dehydrogenase oxidises the base in IMP to form XMP without creating a nucleoside diphosphate.",
+        "E": "An adenosyltransferase transfers an adenosyl group in reactions such as methionine activation rather than making an NDP."
+      }
     },
     {
       "id": "dq-bio-nuc-072",
@@ -2304,10 +2718,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Carbon dioxide contributes carbon 6 of the purine ring.",
+      "why": "Carbon dioxide or bicarbonate supplies the carboxyl carbon during formation of the aminoimidazole carboxylate intermediate. That carbon remains in the purine ring as C6.",
       "topicId": "nucleotides",
       "subtopic": "Purine ring assembly",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "C2 is donated as a formyl group from N10-formyltetrahydrofolate late in purine-ring assembly.",
+        "C": "C4 comes from glycine, which provides two carbons and a nitrogen to the ring.",
+        "D": "C5 is also donated by glycine rather than by late incorporation of bicarbonate.",
+        "E": "C8 is provided by the other folate-dependent formyl transfer, rather than by carboxylation."
+      }
     },
     {
       "id": "dq-bio-nuc-073",
@@ -2336,10 +2756,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Removal and hydrolysis of pyrophosphate favour formation of phosphoribosylamine and make the committed reaction effectively irreversible.",
+      "why": "Glutamine–PRPP amidotransferase releases pyrophosphate as it forms phosphoribosylamine. Hydrolysis of the pyrophosphate removes a reaction product and helps pull the committed step forward.",
       "topicId": "nucleotides",
       "subtopic": "Purine synthesis",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The ring carbons from glycine are incorporated later, independent of hydrolysis of the pyrophosphate released here.",
+        "B": "IMP-to-AMP conversion uses GTP and aspartate downstream, long after pyrophosphate leaves the committed step.",
+        "D": "Pyrophosphate hydrolysis produces inorganic phosphate rather than releasing ATP as a product of this reaction.",
+        "E": "Uracil handling belongs to pyrimidine metabolism, while this pyrophosphate is generated when PRPP is aminated for purine synthesis."
+      }
     },
     {
       "id": "dq-bio-nuc-074",
@@ -2368,10 +2794,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "N10-formyl-THF contributes C2 and C8; antifolate drugs can interfere with de novo purine synthesis.",
+      "why": "Two transformylases use N10-formyltetrahydrofolate to insert carbons that become C2 and C8 of the purine ring. A shortage of reduced folate can therefore slow assembly.",
       "topicId": "nucleotides",
       "subtopic": "Purine inhibition",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Folate supplies only two one-carbon units, while other ring atoms have additional amino acid and bicarbonate sources.",
+        "B": "PRPP synthetase uses ATP and ribose 5-phosphate, and the folate-dependent steps occur later in ring assembly.",
+        "C": "Purine degradation uses enzymes such as xanthine oxidoreductase rather than direct cleavage of the bases by folate.",
+        "E": "Folate transfers formyl groups, while phosphate is carried in by the ribose precursor and nucleotide reactions."
+      }
     },
     {
       "id": "dq-bio-nuc-075",
@@ -2400,10 +2832,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Dietary DNA and RNA are cut by nucleases into smaller oligonucleotides before further degradation.",
+      "why": "Pancreatic nucleases cleave phosphodiester bonds within dietary DNA and RNA. This initially generates shorter nucleotide chains, which other intestinal enzymes break into smaller products.",
       "topicId": "nucleotides",
       "subtopic": "Purine degradation",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Free nitrogenous bases can appear downstream after the base–sugar bond is split, not as the main initial nuclease fragments.",
+        "B": "Nucleases cut the polymer backbone and leave nucleotide-containing fragments rather than releasing only phosphate.",
+        "C": "Uric acid is made during systemic purine catabolism rather than precipitating as the first pancreatic digestion product.",
+        "D": "Ribose monomers require additional reactions on nucleosides and are not the immediate products of cutting nucleic acid chains."
+      }
     },
     {
       "id": "dq-bio-nuc-076",
@@ -2432,10 +2870,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Orotidine monophosphate is the direct substrate of the inhibited decarboxylase.",
+      "why": "Orotidylate decarboxylase consumes orotidine monophosphate to produce UMP and carbon dioxide. Inhibiting this activity can cause its immediate substrate OMP to accumulate if the upstream reaction continues.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine regulation",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "UMP is the product of the inhibited step, so its de novo production falls rather than its being the immediate trapped substrate.",
+        "C": "GMP is a purine nucleotide and is not directly upstream of OMP decarboxylase.",
+        "D": "AMP is another purine nucleotide produced from IMP, outside the orotate-to-UMP sequence.",
+        "E": "CTP is a downstream pyrimidine product made from UTP, so it is not the substrate of OMP decarboxylase."
+      }
     },
     {
       "id": "dq-bio-nuc-077",
@@ -2496,10 +2940,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Dihydroorotate is oxidized to orotate, which next receives ribose phosphate from PRPP to yield OMP.",
+      "why": "Dihydroorotate dehydrogenase oxidises dihydroorotate to the free pyrimidine ring orotate. Orotate then accepts phosphoribose from PRPP to give the ribose-bearing nucleotide OMP.",
       "topicId": "nucleotides",
       "subtopic": "Pyrimidine synthesis",
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Uridine is the nucleoside corresponding to UMP and is not the free pyrimidine ring precursor attached to ribose.",
+        "B": "Cytidine contains cytosine and ribose, and belongs downstream in pyrimidine nucleotide metabolism.",
+        "D": "Xanthine is a purine degradation product and is not attached to PRPP to make OMP.",
+        "E": "Dihydroorotate is oxidised to orotate first, so it is one step further upstream than the direct substrate."
+      }
     },
     {
       "id": "dq-bio-nuc-079",
@@ -2528,10 +2978,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Purine nucleoside phosphorylase releases ribose-1-phosphate, which can be converted for re-use in PRPP synthesis.",
+      "why": "Inosine phosphorolysis releases hypoxanthine and ribose 1-phosphate. The phosphorylated sugar can be rearranged to ribose 5-phosphate and used again for formation of PRPP.",
       "topicId": "nucleotides",
       "subtopic": "Purine metabolism",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Glucose 1-phosphate is a six-carbon product of glycogen metabolism rather than a pentose released from inosine.",
+        "B": "Fructose 6-phosphate is another six-carbon metabolic intermediate, not the direct sugar product of this cleavage.",
+        "C": "Ribulose 1,5-bisphosphate acts in carbon fixation and does not result from inosine phosphorolysis.",
+        "E": "The sugar in inosine is ribose, so its phosphorylated cleavage product retains the 2′ hydroxyl."
+      }
     },
     {
       "id": "dq-bio-immun-001",
@@ -2560,10 +3016,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The serum-transfer experiments provided early evidence of humoral immunity.",
+      "why": "Emil von Behring and Shibasaburo Kitasato reported that protection could be transferred through immune serum. Their work on antitoxins showed that a soluble factor could provide passive protection, helping establish humoral immunity.",
       "topicId": "immunology",
       "subtopic": "Introduction",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Jenner pioneered smallpox vaccination and Pasteur developed vaccines, rather than conducting the classic serum-transfer work named here.",
+        "B": "Metchnikoff developed the cellular theory of defence, while Ehrlich contributed to antibody theory and antitoxin standardisation.",
+        "D": "Watson and Crick proposed a model of DNA structure, a later development unrelated to the original antitoxin experiments.",
+        "E": "Franklin and Wilkins contributed X-ray diffraction evidence about DNA rather than the serum-transfer experiments."
+      }
     },
     {
       "id": "dq-bio-immun-002",
@@ -2592,10 +3054,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Metchnikoff observed cellular ingestion of foreign material and established a role for phagocytes in immunity.",
+      "why": "Metchnikoff observed cells engulfing foreign material and recognised phagocytosis as an active host defence. His work established a cellular contribution to immunity, alongside later work on soluble immune factors.",
       "topicId": "immunology",
       "subtopic": "Introduction",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "T-cell antigen receptors were characterised much later and are part of adaptive antigen recognition.",
+        "C": "Antibody heavy chains were identified through later studies of immunoglobulin structure rather than early work on phagocytes.",
+        "D": "Monoclonal antibody production was developed through hybridoma work, many decades after Metchnikoff's discoveries.",
+        "E": "Major histocompatibility was characterised through later studies of graft rejection and antigen presentation."
+      }
     },
     {
       "id": "dq-bio-immun-003",
@@ -2624,10 +3092,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Adaptive immunity uses antigen-specific lymphocyte clones and generates memory.",
+      "why": "Adaptive immunity expands lymphocyte clones specific for an antigen and can retain those clones as memory cells. Re-exposure can therefore produce a faster or stronger response to that antigen.",
       "topicId": "immunology",
       "subtopic": "Introduction",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Epithelial barriers provide immediate physical and chemical defence without antigen-specific lymphocyte memory.",
+        "B": "Superoxide production is a rapid antimicrobial activity of innate phagocytes rather than a memory response.",
+        "C": "Complement can bind microbial surfaces rapidly, including through pathways that do not require a previous encounter.",
+        "D": "Macrophage pattern recognition detects broad groups of microbial features through inherited innate receptors."
+      }
     },
     {
       "id": "dq-bio-immun-004",
@@ -2656,10 +3130,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "The infant receives ready-made maternal antibody without producing it itself.",
+      "why": "Maternal IgG is actively transferred across the placenta, giving the fetus ready-made antibodies. Protection is temporary because the recipient does not generate these antibody-producing clones or acquire memory from the transfer.",
       "topicId": "immunology",
       "subtopic": "Introduction",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Antibody production after infection reflects activation of the individual's own immune system, making it natural active immunity.",
+        "C": "Vaccination induces the recipient's own response, which is artificially acquired active immunity.",
+        "D": "Primed T cells arise from the individual's lymphocytes after recognition, rather than being transferred as ready-made maternal antibody.",
+        "E": "Formation of memory is an outcome of an active adaptive response, whereas transferred antibodies provide transient protection."
+      }
     },
     {
       "id": "dq-bio-immun-005",
@@ -2688,10 +3168,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "T cells undergo development and selection in the thymus.",
+      "why": "T-cell precursors arise in bone marrow and then migrate to the thymus. There they rearrange receptors and undergo selection before entering the circulation as mature naïve T cells.",
       "topicId": "immunology",
       "subtopic": "Introduction",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The spleen is a secondary lymphoid organ that exposes mature lymphocytes to antigens in the blood.",
+        "B": "Lymph nodes are sites where mature lymphocytes encounter antigen from tissues rather than completing their primary development.",
+        "C": "Tonsils sample antigens at mucosal entrances and are not the main site of T-cell selection.",
+        "E": "Bone marrow provides T-cell precursors and is a major site of B-cell development, while T-cell maturation chiefly occurs in thymus."
+      }
     },
     {
       "id": "dq-bio-immun-006",
@@ -2720,10 +3206,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "The spleen filters blood and organizes immune responses to blood-borne antigens.",
+      "why": "The spleen monitors blood rather than afferent lymph. Its red pulp filters circulating cells, and immune cells in the white pulp respond to antigens delivered by the bloodstream.",
       "topicId": "immunology",
       "subtopic": "Introduction",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The thymus provides a site for T-cell maturation and selection rather than surveying circulating antigens.",
+        "B": "Bone marrow produces blood cells and maintains some long-lived plasma cells, but it is not the main blood-filtering lymphoid organ.",
+        "D": "Tonsils monitor material at mucosal entrances in the pharynx rather than primarily sampling circulating blood.",
+        "E": "Peyer's patches survey material entering the intestinal mucosa rather than filtering blood-borne antigens."
+      }
     },
     {
       "id": "dq-bio-immun-007",
@@ -2752,10 +3244,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Dendritic cells migrate from tissues to lymph nodes, where naïve T cells are primed.",
+      "why": "Dendritic cells can capture antigen in peripheral tissue and move through afferent lymphatics to a draining node. There they display antigen and costimulatory signals to naïve T cells.",
       "topicId": "immunology",
       "subtopic": "Introduction",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "Renal glomeruli filter plasma and lack the organised T-cell areas used for typical dendritic cell priming.",
+        "C": "Hepatic sinusoids contain immune cells but are not the usual destination of tissue dendritic cells travelling in afferent lymph.",
+        "D": "The thymic cortex supports T-cell development and selection rather than the usual priming response to peripheral antigen.",
+        "E": "The adrenal medulla secretes catecholamines and is not a secondary lymphoid site for priming naïve T cells."
+      }
     },
     {
       "id": "dq-bio-immun-008",
@@ -2784,10 +3282,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Neutrophils are rapidly recruited phagocytes in acute inflammation.",
+      "why": "Neutrophils respond rapidly to inflammatory chemotactic signals and can leave blood to enter infected tissue. They phagocytose and kill bacteria and are prominent early in acute pyogenic inflammation.",
       "topicId": "immunology",
       "subtopic": "Immune cells",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Eosinophils are especially associated with helminth responses and allergic inflammation rather than dominant early recruitment to a pyogenic focus.",
+        "B": "Basophils release mediators in allergic or type 2 responses and are not the major acute bacterial phagocyte.",
+        "C": "Plasma cells secrete antibody after B-cell differentiation rather than acting as the first rapidly recruited phagocyte.",
+        "D": "Memory B cells respond to familiar antigen but do not form the early neutrophil-rich infiltrate typical of acute bacterial inflammation."
+      }
     },
     {
       "id": "dq-bio-immun-009",
@@ -2816,10 +3320,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Eosinophils release toxic granule proteins during antihelminth responses.",
+      "why": "Eosinophils are granulocytes that can release cytotoxic granule contents near helminths too large to engulf. They participate in type 2 responses and can also contribute to allergic inflammation.",
       "topicId": "immunology",
       "subtopic": "Immune cells",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Neutrophils are highly effective phagocytes against bacteria, rather than the characteristic granulocytes that degranulate against large helminths.",
+        "C": "Basophils help drive type 2 inflammation, but eosinophils are especially associated with release of toxic granule proteins against helminths.",
+        "D": "Monocytes can differentiate into macrophages and are not granulocytes with the characteristic eosinophilic granules.",
+        "E": "Lymphocytes can coordinate an antihelminth type 2 response, but they are not the granulocyte described."
+      }
     },
     {
       "id": "dq-bio-immun-010",
@@ -2848,10 +3358,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Tissue mast cells degranulate in IgE-mediated immediate hypersensitivity.",
+      "why": "Mast cells reside in tissues and store preformed histamine in granules. Cross-linking of surface-bound IgE by an allergen can trigger rapid degranulation and immediate local effects.",
       "topicId": "immunology",
       "subtopic": "Immune cells",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Natural killer cells deliver cytotoxic granules containing perforin and granzymes rather than being the typical tissue histamine source.",
+        "B": "Plasma cells produce antibody, including antibodies that participate in allergy, but do not carry the main immediate histamine store.",
+        "C": "Helper T cells provide cytokine signals and can support IgE production, rather than supplying preformed histamine rapidly.",
+        "E": "Macrophages support innate defence and can release inflammatory cytokines, but the immediate histamine-rich granules are characteristic of mast cells."
+      }
     },
     {
       "id": "dq-bio-immun-011",
@@ -2880,10 +3396,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "CD3 identifies T cells and CD8 commonly identifies cytotoxic T lymphocytes.",
+      "why": "CD3 is part of the T-cell receptor signalling complex, identifying the cell as a T lymphocyte. Coexpression of CD8 usually marks the cytotoxic lineage, although a naïve CD8 cell has yet to acquire full effector function.",
       "topicId": "immunology",
       "subtopic": "Immune cells",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Conventional helper T cells express CD3 but usually carry CD4 rather than CD8.",
+        "B": "Mature B cells have B-lineage markers such as CD19 and usually no surface CD3.",
+        "D": "Natural killer cells have cytotoxic functions but typically express CD16 or CD56 without surface CD3.",
+        "E": "Macrophages are myeloid cells and lack the CD3 signalling complex characteristic of T cells."
+      }
     },
     {
       "id": "dq-bio-immun-013",
@@ -2912,10 +3434,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Typical NK cells express CD16/CD56 but lack CD3.",
+      "why": "Natural killer cells lack the surface T-cell marker CD3 and are commonly identified by CD56, with CD16 expressed on many subsets. This pattern distinguishes them from conventional T cells.",
       "topicId": "immunology",
       "subtopic": "Immune cells",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Helper T cells have surface CD3 and usually coexpress CD4 rather than the NK marker combination.",
+        "B": "Cytotoxic T cells are CD3-positive, typically with CD8, despite sharing killing mechanisms with NK cells.",
+        "C": "B cells typically have CD19 and surface immunoglobulin rather than the usual NK-cell profile.",
+        "D": "Monocytes are myeloid cells commonly identified by CD14, although some subsets also express CD16."
+      }
     },
     {
       "id": "dq-bio-immun-014",
@@ -2944,10 +3472,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "NK-cell CD16 recognizes the Fc of bound IgG and triggers cytotoxicity.",
+      "why": "CD16 is an Fc receptor that recognises the exposed Fc portion of IgG attached to a target. Engagement can activate the NK cell to kill that antibody-coated target.",
       "topicId": "immunology",
       "subtopic": "Immune cells",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "The TCR–CD3 complex is used by T cells for antigen recognition and signalling, not by NK cells to bind IgG Fc.",
+        "C": "MHC class II displays antigen peptides to CD4 T cells rather than recognising IgG on a target.",
+        "D": "A B-cell receptor is membrane immunoglobulin used by B cells rather than the NK-cell Fc receptor.",
+        "E": "The interleukin-2 receptor detects a cytokine and does not bind the Fc region of target-bound IgG."
+      }
     },
     {
       "id": "dq-bio-immun-015",
@@ -2976,10 +3510,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "NK inhibitory receptors normally detect self MHC I; loss of this signal makes targets more vulnerable.",
+      "why": "Some NK-cell inhibitory receptors bind self MHC class I on neighbouring cells. Reduced expression removes part of that inhibitory signal, so activating signals can more readily trigger cytotoxicity.",
       "topicId": "immunology",
       "subtopic": "Immune cells",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Helper T cells recognise peptides mainly on class II MHC, rather than responding through loss of class I.",
+        "B": "Surface IgM is primarily a B-cell antigen receptor and does not account for reduced NK inhibition.",
+        "C": "Factor XIII stabilises fibrin in coagulation and is not the pathway by which NK cells sense missing self.",
+        "E": "Reduced inhibition can allow NK-cell degranulation rather than preventing release of perforin."
+      }
     },
     {
       "id": "dq-bio-immun-016",
@@ -3008,10 +3548,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "Perforin and granzymes act together to induce apoptosis of infected or malignant cells.",
+      "why": "Perforin helps granzymes reach the target's cytosol after release from NK-cell granules. Granzymes then activate intracellular pathways that drive programmed cell death.",
       "topicId": "immunology",
       "subtopic": "Immune cells",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Histamine and serotonin are inflammatory mediators, rather than the main pore-forming and protease components of NK granules.",
+        "B": "IgM and IgD are immunoglobulins that can serve as B-cell receptors rather than intracellular cytotoxic effectors.",
+        "D": "Fibrinogen and thrombin belong to blood coagulation and do not mediate granule-dependent target killing.",
+        "E": "Interleukins 4 and 5 coordinate aspects of type 2 immunity, rather than directly delivering a death signal through NK granules."
+      }
     },
     {
       "id": "dq-bio-immun-017",
@@ -3040,10 +3586,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "CD14 participates in microbial LPS recognition in the monocyte/macrophage lineage.",
+      "why": "CD14 is commonly expressed on monocytes and many macrophages. It helps present bacterial lipopolysaccharide to the TLR4 receptor complex as part of innate microbial recognition.",
       "topicId": "immunology",
       "subtopic": "Immune cells",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "CD3 is part of the T-cell receptor signalling complex and identifies the T lineage rather than monocytes.",
+        "C": "CD8 is a coreceptor found on many cytotoxic T cells, rather than the standard monocyte surface marker.",
+        "D": "CD19 is a common B-cell marker and is not used to identify the monocyte/macrophage lineage.",
+        "E": "CD56 is characteristic of many NK cells and is not the defining LPS-associated marker of monocytes."
+      }
     },
     {
       "id": "dq-bio-immun-018",
@@ -3072,10 +3624,16 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Dendritic cells express MHC and costimulatory molecules and are highly effective at priming naïve T cells.",
+      "why": "Activated dendritic cells present peptide–MHC complexes and express costimulatory molecules that naïve T cells require. They can deliver these signals in lymphoid organs, making them particularly effective at initiating responses.",
       "topicId": "immunology",
       "subtopic": "Immune cells",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Mature red cells lack the usual antigen presentation and costimulation needed to prime naïve T cells.",
+        "B": "Platelets contribute to haemostasis and inflammatory signalling but are not the usual professional cells for naïve T-cell priming.",
+        "C": "Neutrophils are rapid innate effector cells and generally lack the specialised priming capacity of dendritic cells.",
+        "D": "Basophils release immune mediators in type 2 responses, rather than being the general principal antigen-presenting cell for naïve T cells."
+      }
     },
     {
       "id": "dq-bio-immun-019",
@@ -3104,10 +3662,16 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Germline-encoded PRRs detect shared PAMPs on microbes.",
+      "why": "Innate cells use germline-encoded pattern recognition receptors to detect recurring microbial structures. A common receptor can recognise a feature shared across a microbial group without somatic rearrangement.",
       "topicId": "immunology",
       "subtopic": "Pathogen recognition",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "Neutrophils use inherited receptors for microbial patterns and do not rearrange their receptors like B and T cells.",
+        "C": "Somatic hypermutation alters immunoglobulin genes in activated B cells, rather than generating macrophage pattern recognition.",
+        "D": "Clonal deletion helps enforce lymphocyte tolerance and is not an innate system for recognising conserved features.",
+        "E": "Platelets participate in haemostasis and inflammatory signalling but do not generate new rearranged T-cell receptors."
+      }
     },
     {
       "id": "dq-bio-immun-020",
@@ -3136,10 +3700,16 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "TLR4 recognizes LPS through an accessory receptor complex including MD-2 and CD14.",
+      "why": "Lipopolysaccharide recognition occurs through TLR4 with its accessory protein MD-2. CD14 helps deliver the ligand, allowing the receptor complex to initiate innate inflammatory signalling.",
       "topicId": "immunology",
       "subtopic": "Pathogen recognition",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "TLR1 usually partners with TLR2 to recognise certain bacterial lipoproteins rather than serving as the principal LPS receptor.",
+        "B": "TLR3 detects double-stranded RNA in endosomal compartments rather than binding the LPS complex.",
+        "C": "TLR5 is a receptor for bacterial flagellin, a protein distinct from the glycolipid LPS.",
+        "E": "TLR9 recognises certain microbial DNA features in endosomes rather than sensing LPS at the receptor complex."
+      }
     },
     {
       "id": "dq-bio-immun-021",
@@ -3168,10 +3738,16 @@
         }
       ],
       "correctAnswer": "C",
-      "why": "TLR5 is specialized for flagellin recognition.",
+      "why": "TLR5 is a pattern recognition receptor for bacterial flagellin, the protein subunit of flagella. Its activation can link recognition of bacterial material to an innate inflammatory response.",
       "topicId": "immunology",
       "subtopic": "Pathogen recognition",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "A": "TLR2 can pair with other receptors in recognition of microbial lipoproteins rather than flagellin.",
+        "B": "TLR3 detects double-stranded RNA and is not the characteristic receptor for bacterial flagellar protein.",
+        "D": "TLR4 is principally involved in lipopolysaccharide recognition with the accessory protein MD-2.",
+        "E": "TLR9 is an endosomal sensor for certain microbial DNA features rather than bacterial flagellin."
+      }
     },
     {
       "id": "dq-bio-immun-022",
@@ -3200,10 +3776,16 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "TLR9 recognizes unmethylated CpG motifs characteristic of many microbial DNA sequences.",
+      "why": "TLR9 is an endosomal pattern recognition receptor that detects microbial DNA with unmethylated CpG motifs. This provides an innate signal when such DNA is present in that compartment.",
       "topicId": "immunology",
       "subtopic": "Pathogen recognition",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "notes": {
+        "B": "TLR1 is a partner of TLR2 in recognition of some microbial lipoproteins rather than endosomal DNA.",
+        "C": "TLR2 is chiefly associated with microbial lipoproteins and related surface components, not this endosomal DNA signal.",
+        "D": "TLR4 recognises lipopolysaccharide through its accessory receptor complex rather than recognising CpG-rich DNA.",
+        "E": "TLR5 recognises bacterial flagellin rather than nucleic acid in endosomes."
+      }
     },
     {
       "id": "dq-bio-immun-023",
