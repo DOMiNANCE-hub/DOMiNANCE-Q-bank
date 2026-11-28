@@ -30,11 +30,17 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Vitamin K supports gamma-carboxylation of factors II, VII, IX and X, permitting calcium-dependent membrane binding; deficient modification increases bleeding risk.",
+      "why": "Vitamin K supports gamma-carboxylation of factors II, VII, IX and X, permitting calcium-dependent membrane binding and efficient coagulation. Deficiency reduces this modification, explaining the bleeding tendency.",
       "topicId": "coagulation",
       "subtopic": "Coagulation mechanisms",
       "lockOrder": true,
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "The calcium-binding function directly explains why loss of vitamin K-dependent carboxylation impairs clotting.",
+        "C": "Gamma-carboxylation does give these factors calcium-binding sites that facilitate membrane association.",
+        "D": "A bleeding tendency is a recognised consequence of vitamin K deficiency because several clotting proteins function poorly.",
+        "E": "Both the bleeding tendency and the calcium-binding role of gamma-carboxylation are established."
+      }
     },
     {
       "id": "dq-bio-coagmix-002",
@@ -63,11 +69,17 @@
         }
       ],
       "correctAnswer": "D",
-      "why": "Heparin is an anticoagulant that accelerates antithrombin action, but fibrin breakdown requires plasmin-mediated fibrinolysis.",
+      "why": "Heparin accelerates inhibition of thrombin and factor Xa by antithrombin, so the reason is true. Heparin limits clot propagation, while breakdown of established fibrin requires plasmin, making the assertion false.",
       "topicId": "coagulation",
       "subtopic": "Anticoagulants and fibrinolysis",
       "lockOrder": true,
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Antithrombin does inhibit the activated factors, but heparin does not digest existing fibrin.",
+        "B": "The reason is correct because antithrombin neutralises thrombin and factor Xa, and the assertion confuses anticoagulation with fibrinolysis.",
+        "C": "Fibrin cleavage is a function of plasmin, so the claim that heparin digests the clot is false.",
+        "E": "The assertion is false, but antithrombin really does neutralise activated thrombin and factor Xa."
+      }
     },
     {
       "id": "dq-bio-coagmix-003",
@@ -96,11 +108,17 @@
         }
       ],
       "correctAnswer": "B",
-      "why": "Both statements are correct but list independent contents of the two platelet granule classes.",
+      "why": "Platelet dense granules store ADP and serotonin, whereas alpha granules contain proteins such as platelet factor 4 and fibrinogen. Both statements are true, but the alpha-granule inventory does not explain the separate dense-granule contents.",
       "topicId": "coagulation",
       "subtopic": "Platelet granules",
       "lockOrder": true,
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "The contents of alpha granules are a separate fact and do not determine which mediators dense granules store.",
+        "C": "Platelet factor 4 and fibrinogen are established alpha-granule components.",
+        "D": "Dense granules do contain ADP and serotonin, both of which participate in platelet responses.",
+        "E": "Both statements describe genuine components of their respective platelet granule types."
+      }
     },
     {
       "id": "dq-bio-coagmix-004",
@@ -129,11 +147,17 @@
         }
       ],
       "correctAnswer": "E",
-      "why": "Only I is true. Factor XIII is a fibrin-stabilizing transglutaminase, not a vitamin K-dependent protease, and citrate chelates calcium rather than promoting its binding.",
+      "why": "Vitamin K supports prothrombin gamma-carboxylation. Factor XIIIa is a fibrin-cross-linking transglutaminase, and citrate binds free calcium, reducing its availability for coagulation.",
       "topicId": "coagulation",
       "subtopic": "Vitamin K and coagulation",
       "lockOrder": true,
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "A": "Factor XIIIa is a transglutaminase and citrate sequesters calcium, so the second and third statements are false.",
+        "B": "The prothrombin statement is correct, but factor XIII is not a vitamin K-dependent protease.",
+        "C": "Both selected statements are false, while vitamin K does support gamma-carboxylation of prothrombin.",
+        "D": "Vitamin K supports prothrombin modification, but citrate reduces rather than enhances calcium-dependent binding."
+      }
     },
     {
       "id": "dq-bio-coagmix-005",
@@ -162,11 +186,17 @@
         }
       ],
       "correctAnswer": "A",
-      "why": "Xa generates thrombin via prothrombinase, XIIIa stabilizes fibrin, and platelet phospholipids support efficient clotting-complex assembly.",
+      "why": "Factor Xa is the catalytic component of prothrombinase, which generates thrombin. Factor XIIIa cross-links fibrin, and exposed phospholipids on activated platelets provide a surface for clotting enzyme complexes.",
       "topicId": "coagulation",
       "subtopic": "Clotting cascade",
       "lockOrder": true,
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "notes": {
+        "B": "This leaves out the contribution of platelet phospholipids, which support assembly of prothrombinase and other enzyme complexes.",
+        "C": "This leaves out the role of factor Xa, which participates in converting prothrombin to thrombin.",
+        "D": "This leaves out factor XIIIa, which stabilises the clot by cross-linking fibrin.",
+        "E": "Factor Xa is correctly included, but fibrin cross-linking and the platelet phospholipid surface also contribute to clot formation."
+      }
     }
   ]
 }
